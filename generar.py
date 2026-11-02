@@ -95,7 +95,19 @@ def xml_tolerante(xml):
     except ET.ParseError:
         xml = re.sub(rb"<(/?)[A-Za-z0-9_]+:([A-Za-z])", rb"<\1\2", xml)
         xml = re.sub(rb"\s[A-Za-z0-9_]+:([A-Za-z0-9_]+)=", rb" \1=", xml)
-        return ET.fromstring(xml)
+        try:
+            return ET.fromstring(xml)
+        except ET.ParseError:
+            # Último recurso: se rescatan las notas que sí estén bien formadas.
+            raiz = ET.Element("rescate")
+            for m in re.finditer(rb"<(item|entry|url)[\s>].*?</\1>", xml, re.S):
+                try:
+                    raiz.append(ET.fromstring(m.group(0)))
+                except ET.ParseError:
+                    continue
+            if not len(raiz):
+                raise
+            return raiz
 
 
 def parsear(xml, medio_fijo, ahora):
