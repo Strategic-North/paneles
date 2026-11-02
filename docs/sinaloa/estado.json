@@ -1,0 +1,122 @@
+{
+ "panel": "Sinaloa",
+ "actualizado": "2026-11-02T15:12-06:00",
+ "corte": "2026-11-02",
+ "ventana": [
+  "2026-11-01T20:00-06:00",
+  "2026-11-02T20:00-06:00"
+ ],
+ "total": 409,
+ "fuentes": [
+  {
+   "fuente": "Noroeste",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Noroeste",
+   "ok": true,
+   "notas": 79
+  },
+  {
+   "fuente": "Noroeste",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Línea Directa",
+   "ok": true,
+   "notas": 12
+  },
+  {
+   "fuente": "Luz Noticias",
+   "ok": true,
+   "notas": 411
+  },
+  {
+   "fuente": "Los Noticieristas",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Viva la Noticia",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Revista Espejo",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Ríodoce",
+   "ok": true,
+   "notas": 20
+  },
+  {
+   "fuente": "Café Negro",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "El Sol de Sinaloa",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "El Sol de Mazatlán",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Tus Buenas Noticias",
+   "ok": true,
+   "notas": 15
+  },
+  {
+   "fuente": "Sinaloahoy",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Visión Ciudadana",
+   "ok": true,
+   "notas": 6
+  },
+  {
+   "fuente": "Reflectores",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Quadratín Sinaloa",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Lado.mx",
+   "ok": false,
+   "error": "ParseError: mismatched tag: line 406, column 93"
+  },
+  {
+   "fuente": "Google News: site:debate.com.mx Culiacán",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:debate.com.mx Mazatlán",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:debate.com.mx \"Los Mochis\"",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: Sinaloa",
+   "ok": true,
+   "notas": 100
+  }
+ ]
+}

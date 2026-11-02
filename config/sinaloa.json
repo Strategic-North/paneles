@@ -1,0 +1,352 @@
+{
+  "id": "sinaloa",
+  "nombre": "Sinaloa",
+  "lugares": [
+    "Sinaloa",
+    "Culiacán",
+    "Mazatlán",
+    "Los Mochis",
+    "Ahome",
+    "Guasave",
+    "Navolato",
+    "Escuinapa",
+    "El Rosario",
+    "Concordia",
+    "Elota",
+    "Cosalá",
+    "San Ignacio",
+    "Mocorito",
+    "Angostura",
+    "Salvador Alvarado",
+    "Guamúchil",
+    "Badiraguato",
+    "Choix",
+    "El Fuerte",
+    "Eldorado",
+    "Juan José Ríos",
+    "Topolobampo"
+  ],
+  "feeds": [
+    {
+      "medio": "Noroeste",
+      "feed": "https://www.noroeste.com.mx/rss/culiacan"
+    },
+    {
+      "medio": "Noroeste",
+      "feed": "https://www.noroeste.com.mx/rss/mazatlan"
+    },
+    {
+      "medio": "Noroeste",
+      "feed": "https://www.noroeste.com.mx/rss/seguridad"
+    },
+    {
+      "medio": "Línea Directa",
+      "feed": "https://lineadirectaportal.com/feed"
+    },
+    {
+      "medio": "Luz Noticias",
+      "feed": "https://www.luznoticias.mx/sitemapnews",
+      "tipo": "sitemap"
+    },
+    {
+      "medio": "Los Noticieristas",
+      "feed": "https://losnoticieristas.com/feed/"
+    },
+    {
+      "medio": "Viva la Noticia",
+      "feed": "https://vivalanoticia.mx/feed/"
+    },
+    {
+      "medio": "Revista Espejo",
+      "feed": "https://revistaespejo.com/feed/"
+    },
+    {
+      "medio": "Ríodoce",
+      "feed": "https://riodoce.mx/wp-json/wp/v2/posts?per_page=20&_fields=date_gmt,link,title",
+      "tipo": "wordpress"
+    },
+    {
+      "medio": "Café Negro",
+      "feed": "https://cafenegroportal.com/feed/"
+    },
+    {
+      "medio": "El Sol de Sinaloa",
+      "feed": "https://www.elsoldesinaloa.com.mx/rss"
+    },
+    {
+      "medio": "El Sol de Mazatlán",
+      "feed": "https://www.elsoldemazatlan.com.mx/rss"
+    },
+    {
+      "medio": "Tus Buenas Noticias",
+      "feed": "https://www.tusbuenasnoticias.com/feed-google-news/sinaloa"
+    },
+    {
+      "medio": "Sinaloahoy",
+      "feed": "https://www.sinaloahoy.com.mx/portal/feed/"
+    },
+    {
+      "medio": "Visión Ciudadana",
+      "feed": "https://visionciudadana.com.mx/feed/"
+    },
+    {
+      "medio": "Reflectores",
+      "feed": "https://reflectores.mx/feed/"
+    },
+    {
+      "medio": "Quadratín Sinaloa",
+      "feed": "https://sinaloa.quadratin.com.mx/feed/"
+    },
+    {
+      "medio": "Lado.mx",
+      "feed": "https://lado.mx/xmlmsg.php",
+      "local": false,
+      "solo_lugares": true
+    }
+  ],
+  "google_news": [
+    {
+      "q": "site:debate.com.mx Culiacán",
+      "medio": "El Debate"
+    },
+    {
+      "q": "site:debate.com.mx Mazatlán",
+      "medio": "El Debate"
+    },
+    {
+      "q": "site:debate.com.mx \"Los Mochis\"",
+      "medio": "El Debate"
+    },
+    {
+      "q": "Sinaloa"
+    }
+  ],
+  "temas": {
+    "Seguridad": [
+      "homicid",
+      "asesin",
+      "ejecutad",
+      "balacera",
+      "enfrentamiento",
+      "ataque armado",
+      "disparos",
+      "desaparec",
+      "secuestr",
+      "privad de la libertad",
+      "levanton",
+      "fiscalia",
+      "detenid",
+      "cartel",
+      "crimen",
+      "violencia",
+      "feminicid",
+      "robo",
+      "extorsion",
+      "policia",
+      "guardia nacional",
+      "militar",
+      "sedena",
+      "cuerpo sin vida",
+      "sicari"
+    ],
+    "Política y partidos": [
+      "morena",
+      "pri",
+      "priista",
+      "pan",
+      "panista",
+      "movimiento ciudadano",
+      "mc",
+      "pt",
+      "pvem",
+      "candidat",
+      "aspirante",
+      "alianza",
+      "coalicion",
+      "diputad",
+      "senador",
+      "dirigente",
+      "dirigencia",
+      "militancia",
+      "afiliad"
+    ],
+    "Proceso electoral": [
+      "ine",
+      "electoral",
+      "eleccion",
+      "precampa",
+      "encuesta",
+      "casilla",
+      "consejo general",
+      "consejero",
+      "fiscalizacion",
+      "propaganda"
+    ],
+    "Gobierno del estado": [
+      "gobernador",
+      "gobernadora",
+      "gobierno del estado",
+      "gobierno estatal",
+      "congreso",
+      "secretaria de",
+      "secretario de",
+      "presupuesto",
+      "finanzas",
+      "deuda"
+    ],
+    "Gobierno municipal": [
+      "alcalde",
+      "alcaldesa",
+      "ayuntamiento",
+      "presidente municipal",
+      "presidenta municipal",
+      "cabildo",
+      "regidor",
+      "sindic",
+      "tesoreria municipal"
+    ],
+    "Agua": [
+      "agua",
+      "sequia",
+      "presa",
+      "tandeo",
+      "desaladora",
+      "drenaje",
+      "fuga de agua"
+    ],
+    "Servicios públicos": [
+      "bache",
+      "basura",
+      "recoleccion",
+      "alumbrado",
+      "relleno sanitario",
+      "pavimenta",
+      "transporte publico",
+      "luz electrica",
+      "apagon"
+    ],
+    "Salud": [
+      "salud",
+      "hospital",
+      "imss",
+      "issste",
+      "medicament",
+      "dengue",
+      "clinica",
+      "medico",
+      "influenza",
+      "cancer",
+      "diabetes",
+      "vacuna",
+      "enfermedad",
+      "pacientes"
+    ],
+    "Economía y empleo": [
+      "empleo",
+      "inversion",
+      "empresa",
+      "economia",
+      "comercio",
+      "negocio",
+      "turismo",
+      "precio",
+      "inflacion",
+      "desempleo",
+      "industria"
+    ],
+    "Campo y pesca": [
+      "maiz",
+      "trigo",
+      "productores",
+      "agricult",
+      "ganader",
+      "pesca",
+      "camaron",
+      "tomate",
+      "cosecha",
+      "jornaler"
+    ],
+    "Movilidad": [
+      "metro",
+      "movilidad",
+      "trafico",
+      "carretera",
+      "autopista",
+      "caseta",
+      "vialidad",
+      "transporte"
+    ],
+    "Medio ambiente": [
+      "contaminacion",
+      "calidad del aire",
+      "medio ambiente",
+      "residuos",
+      "ecolog"
+    ],
+    "Educación": [
+      "escuela",
+      "educacion",
+      "maestro",
+      "docente",
+      "universidad",
+      "alumnos",
+      "estudiantes",
+      "uas",
+      "uabc",
+      "uanl"
+    ],
+    "Emergencias": [
+      "incendio",
+      "inundacion",
+      "tormenta",
+      "huracan",
+      "sismo",
+      "evacua",
+      "proteccion civil",
+      "lluvias",
+      "damnificad"
+    ],
+    "Deportes y espectáculos": [
+      "futbol",
+      "liga mx",
+      "rayados",
+      "tigres",
+      "beisbol",
+      "nfl",
+      "nba",
+      "mlb",
+      "gol",
+      "partido de",
+      "torneo",
+      "estadio",
+      "boxeo",
+      "luchador",
+      "concierto",
+      "cantante",
+      "actriz",
+      "actor",
+      "pelicula",
+      "serie de",
+      "netflix",
+      "horoscopo",
+      "espectaculo",
+      "famoso",
+      "reality",
+      "telenovela",
+      "tomateros",
+      "venados",
+      "algodoneros",
+      "xolos",
+      "charros",
+      "naranjeros",
+      "formula 1",
+      "f1",
+      "gran premio",
+      "podio",
+      "festival",
+      "fans",
+      "musica",
+      "artista"
+    ]
+  }
+}

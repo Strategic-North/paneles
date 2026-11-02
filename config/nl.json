@@ -1,0 +1,319 @@
+{
+  "id": "nl",
+  "nombre": "Nuevo León",
+  "lugares": [
+    "Nuevo León",
+    "Monterrey",
+    "San Pedro Garza García",
+    "San Nicolás de los Garza",
+    "Apodaca",
+    "Escobedo",
+    "Santa Catarina",
+    "Cadereyta",
+    "Linares",
+    "área metropolitana",
+    "regio",
+    "Guadalupe, Nuevo León",
+    "Santiago, Nuevo León"
+  ],
+  "feeds": [
+    {
+      "medio": "El Norte",
+      "feed": "https://www.elnorte.com/rss/local.xml"
+    },
+    {
+      "medio": "El Norte",
+      "feed": "https://www.elnorte.com/rss/portada.xml"
+    },
+    {
+      "medio": "ABC Noticias",
+      "feed": "https://abcnoticias.mx/sitemaps/news.xml",
+      "tipo": "sitemap"
+    },
+    {
+      "medio": "Posta",
+      "feed": "https://www.posta.com.mx/sitemapnoticias/nuevo-leon",
+      "tipo": "sitemap"
+    },
+    {
+      "medio": "N+ Monterrey",
+      "feed": "https://www.nmas.com.mx/sitemaps/sitemap_news.xml",
+      "tipo": "sitemap",
+      "filtro_url": "/nuevo-leon/"
+    },
+    {
+      "medio": "Hora Cero",
+      "feed": "https://horacero.com.mx/feed"
+    },
+    {
+      "medio": "El Porvenir",
+      "feed": "https://elporvenir.mx/feedgooglenews/local"
+    },
+    {
+      "medio": "Verificado",
+      "feed": "https://verificado.com.mx/feed/"
+    },
+    {
+      "medio": "Arena Pública",
+      "feed": "https://www.arenapublica.com/rss.xml",
+      "local": false
+    }
+  ],
+  "google_news": [
+    {
+      "q": "\"Nuevo León\""
+    },
+    {
+      "q": "site:milenio.com Monterrey",
+      "medio": "Milenio Monterrey"
+    },
+    {
+      "q": "site:info7.mx",
+      "medio": "Info7"
+    },
+    {
+      "q": "site:elhorizonte.mx",
+      "medio": "El Horizonte"
+    },
+    {
+      "q": "site:telediario.mx Monterrey",
+      "medio": "Telediario"
+    },
+    {
+      "q": "site:elfinanciero.com.mx Monterrey",
+      "medio": "El Financiero Monterrey"
+    },
+    {
+      "q": "site:reporteindigo.com Monterrey",
+      "medio": "Reporte Índigo"
+    }
+  ],
+  "temas": {
+    "Seguridad": [
+      "homicid",
+      "asesin",
+      "ejecutad",
+      "balacera",
+      "enfrentamiento",
+      "ataque armado",
+      "disparos",
+      "desaparec",
+      "secuestr",
+      "privad de la libertad",
+      "levanton",
+      "fiscalia",
+      "detenid",
+      "cartel",
+      "crimen",
+      "violencia",
+      "feminicid",
+      "robo",
+      "extorsion",
+      "policia",
+      "guardia nacional",
+      "militar",
+      "sedena",
+      "cuerpo sin vida",
+      "sicari"
+    ],
+    "Política y partidos": [
+      "morena",
+      "pri",
+      "priista",
+      "pan",
+      "panista",
+      "movimiento ciudadano",
+      "mc",
+      "pt",
+      "pvem",
+      "candidat",
+      "aspirante",
+      "alianza",
+      "coalicion",
+      "diputad",
+      "senador",
+      "dirigente",
+      "dirigencia",
+      "militancia",
+      "afiliad"
+    ],
+    "Proceso electoral": [
+      "ine",
+      "electoral",
+      "eleccion",
+      "precampa",
+      "encuesta",
+      "casilla",
+      "consejo general",
+      "consejero",
+      "fiscalizacion",
+      "propaganda"
+    ],
+    "Gobierno del estado": [
+      "gobernador",
+      "gobernadora",
+      "gobierno del estado",
+      "gobierno estatal",
+      "congreso",
+      "secretaria de",
+      "secretario de",
+      "presupuesto",
+      "finanzas",
+      "deuda"
+    ],
+    "Gobierno municipal": [
+      "alcalde",
+      "alcaldesa",
+      "ayuntamiento",
+      "presidente municipal",
+      "presidenta municipal",
+      "cabildo",
+      "regidor",
+      "sindic",
+      "tesoreria municipal"
+    ],
+    "Agua": [
+      "agua",
+      "sequia",
+      "presa",
+      "tandeo",
+      "desaladora",
+      "drenaje",
+      "fuga de agua"
+    ],
+    "Servicios públicos": [
+      "bache",
+      "basura",
+      "recoleccion",
+      "alumbrado",
+      "relleno sanitario",
+      "pavimenta",
+      "transporte publico",
+      "luz electrica",
+      "apagon"
+    ],
+    "Salud": [
+      "salud",
+      "hospital",
+      "imss",
+      "issste",
+      "medicament",
+      "dengue",
+      "clinica",
+      "medico",
+      "influenza",
+      "cancer",
+      "diabetes",
+      "vacuna",
+      "enfermedad",
+      "pacientes"
+    ],
+    "Economía y empleo": [
+      "empleo",
+      "inversion",
+      "empresa",
+      "economia",
+      "comercio",
+      "negocio",
+      "turismo",
+      "precio",
+      "inflacion",
+      "desempleo",
+      "industria"
+    ],
+    "Campo y pesca": [
+      "maiz",
+      "trigo",
+      "productores",
+      "agricult",
+      "ganader",
+      "pesca",
+      "camaron",
+      "tomate",
+      "cosecha",
+      "jornaler"
+    ],
+    "Movilidad": [
+      "metro",
+      "movilidad",
+      "trafico",
+      "carretera",
+      "autopista",
+      "caseta",
+      "vialidad",
+      "transporte"
+    ],
+    "Medio ambiente": [
+      "contaminacion",
+      "calidad del aire",
+      "medio ambiente",
+      "residuos",
+      "ecolog"
+    ],
+    "Educación": [
+      "escuela",
+      "educacion",
+      "maestro",
+      "docente",
+      "universidad",
+      "alumnos",
+      "estudiantes",
+      "uas",
+      "uabc",
+      "uanl"
+    ],
+    "Emergencias": [
+      "incendio",
+      "inundacion",
+      "tormenta",
+      "huracan",
+      "sismo",
+      "evacua",
+      "proteccion civil",
+      "lluvias",
+      "damnificad"
+    ],
+    "Deportes y espectáculos": [
+      "futbol",
+      "liga mx",
+      "rayados",
+      "tigres",
+      "beisbol",
+      "nfl",
+      "nba",
+      "mlb",
+      "gol",
+      "partido de",
+      "torneo",
+      "estadio",
+      "boxeo",
+      "luchador",
+      "concierto",
+      "cantante",
+      "actriz",
+      "actor",
+      "pelicula",
+      "serie de",
+      "netflix",
+      "horoscopo",
+      "espectaculo",
+      "famoso",
+      "reality",
+      "telenovela",
+      "tomateros",
+      "venados",
+      "algodoneros",
+      "xolos",
+      "charros",
+      "naranjeros",
+      "formula 1",
+      "f1",
+      "gran premio",
+      "podio",
+      "festival",
+      "fans",
+      "musica",
+      "artista"
+    ]
+  }
+}

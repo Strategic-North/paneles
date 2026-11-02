@@ -1,0 +1,92 @@
+{
+ "panel": "Nuevo León",
+ "actualizado": "2026-11-02T15:12-06:00",
+ "corte": "2026-11-02",
+ "ventana": [
+  "2026-11-01T20:00-06:00",
+  "2026-11-02T20:00-06:00"
+ ],
+ "total": 532,
+ "fuentes": [
+  {
+   "fuente": "El Norte",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "El Norte",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "ABC Noticias",
+   "ok": true,
+   "notas": 143
+  },
+  {
+   "fuente": "Posta",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "N+ Monterrey",
+   "ok": true,
+   "notas": 9
+  },
+  {
+   "fuente": "Hora Cero",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "El Porvenir",
+   "ok": true,
+   "notas": 30
+  },
+  {
+   "fuente": "Verificado",
+   "ok": true,
+   "notas": 500
+  },
+  {
+   "fuente": "Arena Pública",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Google News: \"Nuevo León\"",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:milenio.com Monterrey",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:info7.mx",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:elhorizonte.mx",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:telediario.mx Monterrey",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:elfinanciero.com.mx Monterrey",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:reporteindigo.com Monterrey",
+   "ok": true,
+   "notas": 100
+  }
+ ]
+}

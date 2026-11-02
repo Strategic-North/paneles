@@ -1,0 +1,102 @@
+{
+ "panel": "Baja California · Ensenada",
+ "actualizado": "2026-11-02T15:12-06:00",
+ "corte": "2026-11-02",
+ "ventana": [
+  "2026-11-01T20:00-06:00",
+  "2026-11-02T20:00-06:00"
+ ],
+ "total": 234,
+ "fuentes": [
+  {
+   "fuente": "El Vigía",
+   "ok": true,
+   "notas": 30
+  },
+  {
+   "fuente": "En Línea BC",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "El Imparcial",
+   "ok": true,
+   "notas": 7
+  },
+  {
+   "fuente": "Zeta Tijuana",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Zeta Tijuana",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Uniradio Informa",
+   "ok": true,
+   "notas": 57
+  },
+  {
+   "fuente": "Punto Norte",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "El Congresista",
+   "ok": true,
+   "notas": 30
+  },
+  {
+   "fuente": "El Portavoz",
+   "ok": true,
+   "notas": 12
+  },
+  {
+   "fuente": "La Voz de la Frontera",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "El Sol de Tijuana",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "La Jornada Baja California",
+   "ok": true,
+   "notas": 10
+  },
+  {
+   "fuente": "Google News: Ensenada",
+   "ok": true,
+   "notas": 100
+  },
+  {
+   "fuente": "Google News: site:bajanews.mx",
+   "ok": true,
+   "notas": 86
+  },
+  {
+   "fuente": "Google News: site:afntijuana.info",
+   "ok": true,
+   "notas": 67
+  },
+  {
+   "fuente": "Google News: site:zonanorte.mx",
+   "ok": true,
+   "notas": 1
+  },
+  {
+   "fuente": "Google News: site:nmas.com.mx/baja-california",
+   "ok": true,
+   "notas": 37
+  },
+  {
+   "fuente": "Google News: site:milenio.com Ensenada",
+   "ok": true,
+   "notas": 3
+  }
+ ]
+}
