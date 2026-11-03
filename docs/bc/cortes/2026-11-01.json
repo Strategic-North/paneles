@@ -191,7 +191,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tijuana.- Una agente de la Fiscalía General del Estado (FGE) atropelló a dos jóvenes que cruzaban la calle de la mano. La policía de investigación fue identificada como María Belém, quien está asignada como asistente particular del comisionado de la Agencia Estatal de Investigaci",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "0b493c5d7b80288f"
@@ -290,6 +291,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Las consultas para elaborar el Plan Metropolitano 2040 buscan definir prioridades regionales en movilidad, saneamiento de aguas residuales e infraestructura, con la participación de los municipios involucrados",
   "temas": [
+   "Gobierno municipal",
    "Movilidad"
   ],
   "local": true,
@@ -346,7 +348,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Desde su inicio de funciones en septiembre de 2025, el Tribunal de Disciplina Judicial ha recibido casi 400 quejas contra jueces, cifra que Daniel Avitia Beltrán atribuyó a deficiencias de algunos juzgadores electos tras la reforma judicial",
   "temas": [
-   "Otros"
+   "Gobierno municipal"
   ],
   "local": true,
   "id": "c5f65cb81340207c"
@@ -360,7 +362,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Niña de 12 años, herida en choque vehicular AFN",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "4209ebafcd9673db"
@@ -374,7 +376,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tijuana.- Unos jóvenes disfrazados de Spiderman resultaron lesionados al volcarse el carro en el que viajaban, luego de que el conductor perdiera el control por circular a exceso de velocidad en la Zona Río. El choque ocurrió alrededor de las 11 de la noche del sábado 31 de octub",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "549d8c0aed0d6af7"
@@ -402,7 +404,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Desfile de Día de Muertos Reúne a Más de Mil Personas en Tijuana, Baja California N+",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "fac0e50d7d66ad79"
@@ -444,6 +446,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La cantante sorprendió con una versión rockera de su tradicional anuncio navideño.",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -487,6 +490,7 @@
   "resumen": "Durante una semana, las familias continuaron buscando a sus seres queridos en comedores, centros de rehabilitación y vialidades de Tijuana",
   "temas": [
    "Seguridad",
+   "Servicios públicos",
    "Movilidad"
   ],
   "local": true,
@@ -599,7 +603,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Evangelina conserva una tradición aprendida de su madre y desde hace aproximadamente 70 años visita el cementerio, donde descansan varios integrantes de su familia",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "1bd3ac7a2b2a565b"
@@ -923,7 +927,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tijuana Celebra la Cuarta Edición del Desfile de Día de Muertos N+",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "f8a7dea550a5acde"
@@ -966,7 +970,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "6 de los 7 movimientos de los sandieguinos llegan en el cuerpo de lanzadores",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "887793f7feba4cd3"
@@ -980,7 +984,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Municipios Fronterizos de México con EUA Atrasan una Hora su Reloj por el Horario de Invierno N+",
   "temas": [
-   "Otros"
+   "Gobierno municipal"
   ],
   "local": false,
   "id": "f0aae66cfadd03ac"
@@ -1008,7 +1012,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Frente Frío 4 Provoca Vientos de Hasta 74 Kilómetros por Hora y Oleaje Elevado N+",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "944cb0d9496cec43"
@@ -1079,7 +1083,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Cerca de 600 artemarcialistas de México y otros países participan en las modalidades de combate y formas en el CAR",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "1254933db6999207"
@@ -1121,6 +1125,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "San José del Cabo en Alerta por Lluvias: Así Estará el Clima Este Fin de Semana N+",
   "temas": [
+   "Clima",
    "Emergencias"
   ],
   "local": false,
@@ -1135,6 +1140,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Atendieron 19 accidentes de tránsito y otros percances por lluvias en Tijuana AFN",
   "temas": [
+   "Accidentes",
    "Emergencias"
   ],
   "local": true,
@@ -1177,7 +1183,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Claudia Sheinbaum destaca el significado de las ofrendas y las tradiciones del Día de Muertos Baja News",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "6e1c18373084c692"
@@ -1261,7 +1267,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Choque en Zona Río deja a menor de 12 años lesionado Baja News",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "3665d41d7cf58db1"
@@ -1289,7 +1295,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Joven pareja sufrió lesiones en volcadura durante celebración por \"Halloween\" AFN",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "0cbc2e2b20ae226d"
@@ -1303,7 +1309,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Hallan cuerpo sin vida en Lengüeta Arenosa de Ensenada; investigan posible accidente acuático El Imparcial",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "efef7a1b1aed01bb"
@@ -1474,6 +1481,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Arroyos crecidos, cierre de calles e inundaciones, saldo de lluvias en Ensenada AFN",
   "temas": [
+   "Servicios públicos",
    "Emergencias"
   ],
   "local": true,
@@ -1530,7 +1538,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Este 31 de octubre, agentes incautaron el espacio en busca de supuesto material de abuso sexual infantil",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "fcb34d384d1a1362"
@@ -1658,7 +1666,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Todavía hay quienes desconocen que las condiciones migratorias cambiaron y mantienen la esperanza de obtener asilo al presentarse en la frontera.",
   "temas": [
-   "Otros"
+   "Migración"
   ],
   "local": true,
   "id": "06a4a2d93669f504"
@@ -1700,7 +1708,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El equipo de Tijuana le ganó a domicilio a Panteras Siglo XXl en el Estado de México.",
   "temas": [
-   "Educación"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "cba82ef2adad1627"
@@ -1799,7 +1807,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Águilas descansó, Jaguares le sigue de cerca y Zorros queda prácticamente fuera",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "5a898120ae56ef87"
@@ -1841,7 +1849,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a César 'N' con Metanfetamina y Armas Largas en Tecate, Baja California N+",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "e82c86d3cd7f93ba"
@@ -1911,7 +1919,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Uno de los lesionados fue por arma de fuego y el otro por golpes, no hay personas detenidas",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "d244fe3d0e6c90a5"
@@ -1982,6 +1991,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Se espera una temperatura máxima de 20° centígrados en la ciudad",
   "temas": [
+   "Clima",
    "Emergencias"
   ],
   "local": true,
@@ -2112,6 +2122,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Alcaldes se reúnen en Congreso Internacional para enfrentar desafíos de crisis climática MILENIO",
   "temas": [
+   "Clima",
    "Gobierno del estado",
    "Gobierno municipal"
   ],
@@ -2127,7 +2138,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Clima en Ensenada: domingo 1 de noviembre con lluvia ligera y 20 grados El Heraldo de México",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "ae645ae1e8b3436c"
@@ -2379,7 +2390,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El lanzador trabajó seis entradas y dos tercios sin permitir carrera y llegó a 45 victorias con el uniforme de Mexicali, que se impuso por pizarra de 6-2 en el arranque de la serie.",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "c09df7a5ecf4dc65"
@@ -2435,7 +2446,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Noticias sobre emprendimientos en ferias Baja News",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "9e8ecf69bbe89002"

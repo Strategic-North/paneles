@@ -8,7 +8,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Noticias sobre tradicion del dia de muertos Baja News",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "ae00676d433a2ea0"
@@ -36,7 +36,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familias visitan panteones de Mexicali para recordar a sus seres queridos Baja News",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "e16e06f3dbd7edec"
@@ -288,7 +288,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familias visitan panteones previo al Día de Muertos AFN",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "1fd4a9b68eb033b1"
@@ -358,7 +358,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "A pesar de las precipitaciones registradas durante la tarde del 31 de octubre, vecinos y establecimientos mantuvieron viva la tradición de recibir a cientos de niños con decoraciones y golosinas",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "47475376f8186803"
@@ -527,6 +527,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "En alerta bomberos de Ensenada por pronóstico de lluvias Ensenada.Net",
   "temas": [
+   "Clima",
    "Emergencias"
   ],
   "local": true,
@@ -583,6 +584,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Antes de ocupar la dirigencia de Morena, Rosina del Villar fue la titular de la Secretaría de Honestidad en la administración de Marina del Pilar Ávila Olmeda, además de haber sido diputada local.",
   "temas": [
+   "Accidentes",
    "Política y partidos",
    "Gobierno del estado",
    "Salud"
@@ -599,6 +601,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Advierte Protección Civil BC de lluvias fuertes, vientos intensos y frío AFN",
   "temas": [
+   "Clima",
    "Emergencias"
   ],
   "local": false,
@@ -655,6 +658,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "A partir de las 18:00 horas recibirán a personas y familias que requieran resguardo, con apoyo de las Fuerzas Armadas y DIF Ensenada Protección Civil identifica diversas colonias y zonas de riesgo por inundaciones y escurrimientos pluviales ENSENADA, B.C.- Como parte de las accio",
   "temas": [
+   "Clima",
    "Emergencias"
   ],
   "local": true,
@@ -683,6 +687,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Algunos de los asistentes adquirieron sus atuendos por internet, otros contrataron los servicios de costureras locales y varios confeccionaron sus propios disfraces.",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -739,7 +744,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Desplegarán 170 policías y 80 patrullas para vigilar panteones de Mexicali por el Día de Muertos Baja News",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "33b15f22bc36faf7"
@@ -823,7 +829,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Más de 100 corredores disfrutaron de un agradable recorrido, aprovechando el clima fresco en la capital bajacaliforniana",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "50ac1cd14fc4b3e7"
@@ -851,7 +857,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tras superar sus primeros dos compromisos, el equipo viaja a Aguascalientes para buscar otra victoria en el tercer juego de la serie ante Panteras",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "d6ba6d1e0e2d2128"
@@ -865,7 +871,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "lgunas creencias populares recomiendan esperar un año antes de colocar una ofrenda completa a una persona fallecida",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "6a05e19b06bf167e"
@@ -879,7 +885,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Piden investigar omisión de la Conagua \"sin trato especial\" a funcionarios AFN",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "4d549a865259e439"
@@ -1021,7 +1027,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El tijuanense se llevó el combate por decisió en la función de “México vs The World” en Arabia Saudita",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "1e3bfa9a4f57bf78"
@@ -1035,6 +1041,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El titular de la CEPC, Ignacio Lozoya Morales, explicó que las condiciones previstas están relacionadas con el ingreso y desplazamiento del frente frío número 4.",
   "temas": [
+   "Clima",
+   "Gobierno municipal",
    "Emergencias"
   ],
   "local": true,
@@ -1063,6 +1071,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Los residentes de la zona señalan es una problemática que ha persistido por varios años",
   "temas": [
+   "Servicios públicos",
    "Movilidad"
   ],
   "local": true,
@@ -1077,7 +1086,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Los panteones Número 1 y Número 2 ya están a tope, mientras que El Centinela se encuentra en su última etapa de funcionamiento, con tan solo algunos espacios",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "ef284e75041e84fe"
@@ -1119,7 +1128,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Desplegarán operativo para realizar el cobro a ambulantes irregulares; el trámite anticipado tiene un costo de 787 pesos; sin embargo, cuando el comerciante es detectado el costo es de mil 22 pesos",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "1b47c9502103a025"
@@ -1147,7 +1156,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Ante la elevada afluencia de visitantes prevista se establecieron horarios especiales de apertura y cierre para el 1 y 2 de noviembre.",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "5ddd1ca1ff2c4bae"
@@ -1189,7 +1198,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Se espera una temperatura máxima de 22° centígrados en la ciudad",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "477e92babcff772f"

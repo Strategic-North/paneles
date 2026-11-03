@@ -1360,7 +1360,8 @@
   "resumen": "Cruz Pérez Cuéllar denuncia un posible contrato millonario que comprometería significativamente el presupuesto de la Junta de Agua de Juárez.",
   "temas": [
    "Gobierno del estado",
-   "Agua"
+   "Agua",
+   "Política y partidos"
   ],
   "local": false,
   "id": "9f933691b1702702"
@@ -1388,7 +1389,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La Semar localiza un campamento clandestino en Mazatlán y asegura 826 cartuchos, en una operación contra la delincuencia organizada.",
   "temas": [
-   "Otros"
+   "Política y partidos"
   ],
   "local": false,
   "id": "67cd7405234c55e8"
@@ -1416,7 +1417,9 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La relación entre México y Estados Unidos enfrenta incertidumbre ante las elecciones intermedias en Estados Unidos, afectando seguridad y migración.",
   "temas": [
-   "Proceso electoral"
+   "Migración",
+   "Proceso electoral",
+   "Política y partidos"
   ],
   "local": false,
   "id": "a115dc72b21943c8"
@@ -1458,7 +1461,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Denuncian desaparición de migrantes tras naufragio en Ensenada Semanario ZETA",
   "temas": [
-   "Otros"
+   "Seguridad",
+   "Migración"
   ],
   "local": true,
   "id": "a9cf48e02c7fd91c"
@@ -1487,7 +1491,8 @@
   "resumen": "Alejandro Moreno exige a Morena asumir responsabilidad por el nombramiento de Guadalupe Taddei como presidenta del INE.",
   "temas": [
    "Política y partidos",
-   "Proceso electoral"
+   "Proceso electoral",
+   "Seguridad"
   ],
   "local": false,
   "id": "ae0593584ecd7f52"
@@ -1645,7 +1650,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tijuana instala mesa permanente ante pronóstico del fenómeno de El Niño Baja News",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "171e00101895d8db"
@@ -1659,7 +1664,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Más de 2,500 personas marchan en Uruapan exigiendo justicia por el asesinato de Carlos Manzo, un año después del crimen.",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Política y partidos"
   ],
   "local": false,
   "id": "5f866b14040262a6"
@@ -1687,7 +1693,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Un adolescente fue vinculado a proceso por la violación de su prima de 9 años en Charo, Michoacán, el 15 de mayo de 2023.",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": false,
   "id": "92e8ec42a8bea882"
@@ -1715,7 +1721,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La Comisión de Rectoría de UMSNH se reúne para definir el proceso de relevo en 2027. La convocatoria está pendiente.",
   "temas": [
-   "Otros"
+   "Educación"
   ],
   "local": false,
   "id": "2f446588f76e158e"
@@ -1729,7 +1735,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Javier “N” es vinculado a proceso por homicidio en Jacona, Michoacán, ocurrido en 2022, y enfrenta prisión preventiva.",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Política y partidos"
   ],
   "local": false,
   "id": "a54fa472bb786184"
@@ -1757,7 +1764,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Continúa encendido con el equipo de Arabia Saudita.",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "9fb4568fc932adf8"
@@ -1799,6 +1806,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Unos 300 normalistas, entre estudiantes y docentes, participaron en la cuarta edición del tradicional desfile, en el primer cuadro de la ciudad: la escuela lleva 11 años desfilando",
   "temas": [
+   "Cultura y tradiciones",
    "Educación"
   ],
   "local": true,
@@ -1827,7 +1835,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Miami Heat se enfrenta a Los Angeles Clippers el 4 de noviembre en un partido clave para ambos equipos de la NBA.",
   "temas": [
-   "Deportes y espectáculos"
+   "Deportes y espectáculos",
+   "Política y partidos"
   ],
   "local": false,
   "id": "9fee2cc83dc1461f"
@@ -1842,7 +1851,8 @@
   "resumen": "La gobernadora María Eugenia Campos envía su apoyo a Marco Bonilla, quien enfrenta una parálisis facial y está bajo tratamiento médico.",
   "temas": [
    "Gobierno del estado",
-   "Salud"
+   "Salud",
+   "Política y partidos"
   ],
   "local": false,
   "id": "942f8817b9d31d7b"
@@ -1856,7 +1866,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Levantó Gobierno de Ensenada 3 actas y una clausura a establecimientos que no cumplieron con horario restringido de venta de alcohol ante pronóstico d Uniradio Informa",
   "temas": [
-   "Otros"
+   "Clima",
+   "Gobierno municipal"
   ],
   "local": true,
   "id": "9ad91a74188071d9"
@@ -1884,7 +1895,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "México emite una alerta para viajeros a Arabia Saudita, recomendando precauciones en medio de tensiones con Irán.",
   "temas": [
-   "Otros"
+   "Política y partidos"
   ],
   "local": false,
   "id": "fc781406b6464f93"
@@ -1898,7 +1909,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Zulema Ruiz participa en la colectiva “Mujeres creadoras” en Mexicali, resaltando la influencia de las artistas en el ámbito local.",
   "temas": [
-   "Deportes y espectáculos"
+   "Deportes y espectáculos",
+   "Política y partidos"
   ],
   "local": true,
   "id": "29890f353b356169"
@@ -1926,7 +1938,9 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Jonás Cuarón estrena \"Campeón gabacho\", una película que aborda la migración y el boxeo, que llegará a cines el 29 de octubre.",
   "temas": [
-   "Deportes y espectáculos"
+   "Migración",
+   "Deportes y espectáculos",
+   "Política y partidos"
   ],
   "local": false,
   "id": "dd6e48428648357e"
@@ -1983,7 +1997,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Héctor Ortiz Orpinel asistió a una misa en Ciudad Juárez por el Día de Muertos, recordando a los fieles difuntos y a quienes descansan en la fosa común.",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones",
+   "Política y partidos"
   ],
   "local": false,
   "id": "680d4207ec5df95f"
@@ -1997,7 +2012,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Julieta Venegas presenta su libro \"Norteña: Memorias del comienzo\" en la Feria del Libro de Tijuana, buscando contar otra historia de su ciudad.",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones",
+   "Política y partidos"
   ],
   "local": true,
   "id": "060d18e6b06cddbb"
@@ -2011,7 +2027,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Vecinos de Tijuana alertan sobre un poste de luz en peligro de caer tras tres años sin reparación, exigen atención urgente.",
   "temas": [
-   "Servicios públicos"
+   "Servicios públicos",
+   "Política y partidos"
   ],
   "local": true,
   "id": "1173c0ab45d17da8"
@@ -2025,7 +2042,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El escritor Luis Humberto Crosthwaite gana el Premio José Fuentes Mares 2026 por su libro “El último show del Elegante Joan”.",
   "temas": [
-   "Otros"
+   "Política y partidos"
   ],
   "local": false,
   "id": "695a73ba42b5c578"
@@ -2053,7 +2070,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La calaverita de Tijuana critica el desempeño de Marina del Pilar, destacando el descontento y la falta de resultados visibles.",
   "temas": [
-   "Otros"
+   "Política y partidos"
   ],
   "local": true,
   "id": "ea568be6ada5e2fe"
@@ -2081,7 +2098,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Los Cerveceros de Milwaukee se coronan campeones de la Serie Mundial 2026, logrando su primera victoria en la historia del equipo.",
   "temas": [
-   "Otros"
+   "Política y partidos"
   ],
   "local": false,
   "id": "d02ec15ed8b0bdc4"
@@ -2095,7 +2112,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El concejal Gerardo Preste defiende el cambio de nombre del Puerto La Plata en medio de tensiones políticas y culturales entre Ensenada y La Plata.",
   "temas": [
-   "Otros"
+   "Política y partidos"
   ],
   "local": true,
   "id": "51d0c272a50e3458"
@@ -2123,7 +2140,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tijuana.- Un choque entre seis carros, dos de ellos último modelo, dejó a dos personas heridas, este lunes 2 de noviembre. El accidente múltiple ocurrió alrededor de las 7:30 de la mañana en la Prolongación Insurgentes y Vía Rápida Poniente, a la altura del supermercado Soriana y",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "69c5bcca9bff0a88"
@@ -2137,7 +2154,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Un análisis indica que la inteligencia artificial tiene mayor impacto que las próximas elecciones de EU en los mercados de Wall Street.",
   "temas": [
-   "Proceso electoral"
+   "Proceso electoral",
+   "Economía y empleo"
   ],
   "local": false,
   "id": "b5df4baf3c2dd682"
@@ -2151,7 +2169,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tijuana celebra la Milla Internacional 2026 con 69 mil pesos en premios y destacada participación de velocistas locales en diferentes categorías.",
   "temas": [
-   "Otros"
+   "Política y partidos"
   ],
   "local": true,
   "id": "1cecfb6168175244"
@@ -2165,7 +2183,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La Fiscalía de Coahuila amplía la búsqueda de dos niños desaparecidos en Torreón hacia Nuevo León tras activarse las Alertas Amber.",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Política y partidos"
   ],
   "local": false,
   "id": "6573f108e6fb81e3"
@@ -2224,7 +2243,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Disney+ ofrece una suscripción a 59 pesos al mes en México hasta el 2 de noviembre, con acceso a cine y series.",
   "temas": [
-   "Otros"
+   "Política y partidos"
   ],
   "local": false,
   "id": "dd96369d091c707b"
@@ -2238,6 +2257,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Acompañado de su guitarra, interpreta canciones de antaño que los deudos le solicitan para recordar a quienes ya fallecieron.",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -2252,7 +2272,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Rayadas y Tigres se enfrentarán en partidos clave el 5 y 6 de noviembre para definir el liderato del Apertura 2026 de la Liga MX Femenil.",
   "temas": [
-   "Deportes y espectáculos"
+   "Deportes y espectáculos",
+   "Política y partidos"
   ],
   "local": false,
   "id": "7b0432e005ec970b"
@@ -2267,7 +2288,8 @@
   "resumen": "Futbolistas argentinos denuncian estafa por 2.125.000 dólares en inversiones inmobiliarias en EE. UU.",
   "temas": [
    "Economía y empleo",
-   "Deportes y espectáculos"
+   "Deportes y espectáculos",
+   "Política y partidos"
   ],
   "local": false,
   "id": "f281a72f313b0445"
@@ -2281,7 +2303,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Sedesore anuncia entrega de terrenos gratuitos en San Luis Potosí; no hay fecha ni cantidad específica de lotes.",
   "temas": [
-   "Otros"
+   "Gobierno municipal",
+   "Política y partidos"
   ],
   "local": false,
   "id": "748e82d13db89e23"
@@ -2309,7 +2332,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "677c240be663e2e8"
@@ -2323,7 +2346,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Gloria Arvayo acudió al panteón Sahuaro a visitar la tumba de sus padres.",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "4e2345cd476dd6c3"
@@ -2407,7 +2430,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El registro también precisa que su centro de detención actual es el Broward Transitional Center, instalación ubicada en Florida La entrada ICE publica ficha de Inés Gómez Mont: aparece bajo custodia en Florida se publicó primero en La Jornada Baja California .",
   "temas": [
-   "Otros"
+   "Migración"
   ],
   "local": true,
   "id": "492ebbebedad0195"
@@ -2421,7 +2444,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Datos operativos del fin de semana.",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "88ae15a67db7b692"
@@ -2477,7 +2500,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "ENSENADA: Dejan sin catorcena a trabajadores del DIF Municipal Baja News",
   "temas": [
-   "Otros"
+   "Gobierno municipal"
   ],
   "local": true,
   "id": "2ae342c1bf3576f4"
@@ -2519,7 +2542,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Confirman muerte de mexicano en choque de trenes en España; tenía 45 años Baja News",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "4ac0b306e819fcea"
@@ -2533,7 +2556,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Una mujer y sus dos hijos adolescentes, de 13 y 16 años de edad, fueron atacados con un arma blanca.",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "b554222da534dc37"
@@ -2561,6 +2584,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tijuana.- Se estima que las lluvias más fuertes por el fenómeno de El Niño podrían iniciar con mayor impacto entre la última semana de noviembre y principios de diciembre, por lo que el gobierno municipal mantiene una Mesa Permanente de Preparación y Respuesta ante el pronóstico ",
   "temas": [
+   "Clima",
+   "Gobierno municipal",
    "Emergencias"
   ],
   "local": true,
@@ -2589,7 +2614,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Así se Vivió el Desfile de Día de Muertos 2026 en el Centro de Tijuana, BC N+",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "ad18bf4911dcdfc7"
@@ -2632,7 +2657,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Nathalia Filgueiras, la copiloto de 20 años que murió en el accidente aéreo de Florida Baja News",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "4500e796d914ac7f"
@@ -2646,6 +2671,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Ensenada abre exposición gratuita de más de 30 artistas Ensenada Saga Noticias",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -2688,6 +2714,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La avenida Juárez y el parque Miguel Hidalgo fueron los principales escenarios de la celebración, que incluyó presentaciones de música, danza y teatro, talleres de elaboración de pan de muerto, muestras de... La entrada Más de 60 mil personas asistieron al festival “El Pan de la ",
   "temas": [
+   "Cultura y tradiciones",
    "Política y partidos",
    "Deportes y espectáculos"
   ],
@@ -2731,7 +2758,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familias Visitan Panteones de Tijuana por el Día de Todos los Santos 2026 N+",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "b735a92c5111982c"
@@ -2802,7 +2829,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Burgueño Ruiz destacó la importancia de mantener una coordinación permanente entre las distintas dependencias municipales La entrada Encabeza Ismael Burgueño Mesa Permanente de Preparación y Respuesta ante el pronóstico meteorológico del fenómeno de El Niño se publicó primero en ",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "5d078eb881dbb5e9"
@@ -2816,7 +2843,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Choque múltiple en bulevar Insurgentes deja una camioneta volcada y una persona lesionada Baja News",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "4efc0af7bdb6e8ae"
@@ -2872,7 +2899,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Preside Burgueño reunión de prevención ante pronósticos de fenómeno \"El Niño\" AFN",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "89b1597fd557af2a"
@@ -2942,6 +2969,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
+   "Accidentes",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -2956,7 +2984,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La aeronave empezó a perder altura y se estrelló en el área exterior de un establecimiento de una plaza comercial",
   "temas": [
-   "Otros"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "9e3f5b45fa23f275"
@@ -2984,7 +3013,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Juan Atkins, pionero del techno de Detroit, falleció en un hotel de la CDMX AFN",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": false,
   "id": "dfa224748ba333e7"
@@ -2998,7 +3027,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El tiempo de espera en garitas de Tijuana Baja News",
   "temas": [
-   "Otros"
+   "Migración"
   ],
   "local": true,
   "id": "9d0b2cfde4bc3da7"
@@ -3026,7 +3055,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Conquistó la medalla de plata en el Campeonato Mundial de Lucha 2026, celebrado en Astaná, Kazajistán.",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "d7fe59456ddee17c"
@@ -3040,7 +3069,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Choque múltiple en gasa de Insurgentes a la vía rápida, hubo un herido AFN",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "5d94b1c1213c1eb2"
@@ -3054,6 +3083,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Concluye Gobierno de Ensenada operativo de rescate en El Salitral con 162 personas evacuadas Uniradio Informa",
   "temas": [
+   "Gobierno municipal",
    "Emergencias"
   ],
   "local": true,
@@ -3166,7 +3196,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Choca Autos Estacionados y se Da a la Fuga en Mexicali N+",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "1cc24748e2c3749d"
@@ -3180,7 +3210,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Se Incendia Mujer Vestida de Catrina en Concurso en La Paz N+",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "db5285c6799cf668"
@@ -3208,7 +3238,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Cuatro sujetos encapuchados, armados y vestidos de negro, lo amenazaron y lo obligaron a abordar una camioneta blanca.",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "00306832f0d249cc"
@@ -3236,8 +3266,10 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El conductor y una menor de 8 años fueron hospitalizados.",
   "temas": [
+   "Accidentes",
    "Salud",
-   "Movilidad"
+   "Movilidad",
+   "Seguridad"
   ],
   "local": true,
   "id": "fbefc0182b3866a2"
@@ -3293,7 +3325,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Se quitó la etiqueta de joven promesa para consolidarse como un verdadero gigante e inmortal de la Fórmula Uno.",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "2a9de5b587bb4c07"
@@ -3349,7 +3381,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Atacan dos centros de rehabilitación.",
   "temas": [
-   "Otros"
+   "Servicios públicos"
   ],
   "local": true,
   "id": "f1383aefdaa3400f"
@@ -3447,6 +3479,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La apoteosis llegó casi al final del concierto con \"La llorona\", quizá la más cantada de estos días.",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -3503,7 +3536,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La Cancillería agradeció todo el apoyo recibido en los últimos días por parte de las autoridades locales para la búsqueda del connacional.",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "c1c71398702427a6"
@@ -3562,6 +3596,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Video | Tocado de Catrina se Quema Durante Festival en La Paz N+",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": false,
@@ -3576,7 +3611,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familias acudieron a los panteones para recordar a sus seres queridos, mantener vivas sus memorias y preservar las tradiciones del Día de Muertos.",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "adca0ca5807c185e"
@@ -3705,7 +3740,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "En la capital de Baja California ya han comenzado las mañanas y noches frescas",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "54cebf6cdd71cfb3"
@@ -3789,7 +3824,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Se espera una temperatura máxima de 23° centígrados en la ciudad",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "3251d84f66fda4ac"
@@ -3971,6 +4006,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Alumnos del Jardín de Niños Hortensia de Salazar compartieron con sus familias una jornada con disfraces, bailables y actividades alusivas al Día de Muertos.",
   "temas": [
+   "Cultura y tradiciones",
    "Educación"
   ],
   "local": true,
@@ -3985,7 +4021,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El cineasta mexicano reveló que desarrolla un proyecto inspirado en el secuestro de su padre y habló de su intención de volver a escribir en español.",
   "temas": [
-   "Seguridad"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "ef3a0a57afa4ed33"
@@ -3999,7 +4035,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La agrupación de ska aprovechó su participación en el Tiny Desk para reforzar su postura social durante la celebración de tres décadas de trayectoria.",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "0f319a3e779af610"
@@ -4013,7 +4049,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Dulce María incursionó en el cine como productora ejecutiva con “Roto”, thriller psicológico escrito, dirigido y producido por su esposo, el cineasta Paco…",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "5258421137f6a5cb"
@@ -4141,7 +4177,6 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Israel “Tocayito” López, encabezó la entrega de reconocimientos a los autores de juegos perfectos, sin hit ni carrera y jonroneros en el Salón Social del Sindicato de Burócratas, anunciando además el arranque del próximo torneo para el 28 de noviembre.",
   "temas": [
-   "Gobierno municipal",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -4170,7 +4205,6 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Con un explosivo ataque en las primeras entradas y pitcheo dominante de Alejandro Sotelo, Yankees pegó primero en la serie final del Torneo Oficial 2026, correspondiente a la Liga Industrial Comercial de Beisbol de Súper Veteranos, en Valle Verde.",
   "temas": [
-   "Economía y empleo",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -4199,7 +4233,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Con una actuación dominante de su defensiva y un ataque contundente en el complemento, Marineras se impuso 25-6 a Leones dentro de la categoría U14 Femenil de…",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "008891d5db334cb6"
@@ -4213,7 +4247,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Con una contundente ofensiva y un certero trabajo defensivo, Tritones se impuso 39-6 a Dragons dentro de la categoría U12 Varonil de la liga Ens Flag, en duelo…",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "b40e8264e39171de"
@@ -4227,7 +4261,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Jala Resort embistió 11-4 a Toros SNTE 37 en el campo José “Prieto” Soto para tomar ventaja en la final de Segunda Fuerza “C”, correspondiente a la Liga Empresarial de Softbol; Los Mixters se quedaron con el tercer lugar tras vencer a Leones.",
   "temas": [
-   "Economía y empleo"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "f2640cb1846c46a0"
@@ -4395,6 +4429,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Ensenada.- Un total de 162 personas fueron evacuadas y 10 animales rescatados durante el operativo de emergencia desplegado en la zona de El Salitral, en Ensenada, tras el desbordamiento del arroyo San Carlos que provocó inundaciones, informó el gobierno municipal. Las labores de",
   "temas": [
+   "Gobierno municipal",
    "Emergencias"
   ],
   "local": true,
@@ -4536,6 +4571,7 @@
   "resumen": "Bomberos recibieron descargas durante el rescate debido a conexiones irregulares expuestas al agua; solicitaron a la CFE suspender el suministro en las zonas inundadas.",
   "temas": [
    "Agua",
+   "Servicios públicos",
    "Emergencias"
   ],
   "local": true,
@@ -4550,7 +4586,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Clima y pronóstico en Ensenada este lunes 2 de noviembre: jornada templada y despejada El Heraldo de México",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "27eeb4c30cfd2a8f"
@@ -4706,7 +4742,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familias visitan los panteones en el día dedicado a \"Todos los Santos\" AFN",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "319fcda890c92176"
@@ -4848,7 +4884,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Esperan oleaje elevado y viento en las próximas 24 horas Ensenada.Net",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "8682dcb11da8b546"
@@ -4862,7 +4898,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tijuanenses abarrotan cementerios locales en la víspera del Día de Muertos Baja News",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "6de54e28f4a9375b"

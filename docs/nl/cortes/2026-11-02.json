@@ -1,5 +1,19 @@
 [
  {
+  "titulo": "Gas LP se dispara 3.4% en octubre",
+  "liga": "https://horacero.com.mx/tamaulipas/gas-lp-precio",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-02T18:23:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T18:24:55-06:00",
+  "resumen": "Gas LP registra un alza mensual del 3.4% durante octubre en Tamaulipas, acumulando seis semanas sin bajas en su precio según datos de la Comisión Nacional de Energía. The post Gas LP se dispara 3.4% en octubre appeared first on Hora Cero Web .",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9af9204de6ee8e6e"
+ },
+ {
   "titulo": "'Festival de la Catrina' reúne a más de 24 mil en Ramos Arizpe",
   "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2NDUjZtZ0NFNm9MS1RJTEFGdWh4NlFQYUs1RW1kbWh4OThPS2V1cE1ENWRNcFpxRGFPd3NPOUY1Q2JBUU9ZSkJlN2Y4bEFjdkxmcTVBY0wybEVqNXJHdEdwbkhINFQ0TFVWRk5TU2VGenFjVXRMTTRvbEh1VjRRSV95SGJseFZIb2h0YnQ3ZHRMMXVJR3VaangxaFJNUjhETUU3LVBJWmstNjg?oc=5",
   "medio": "El Horizonte",
@@ -2301,7 +2315,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a hombre armado en colonia Alfonso Reyes, Monterrey INFO7",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "89f2cc1297911324"
@@ -2329,7 +2343,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "f0aaf3eaf195da07"
@@ -2385,7 +2399,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Clima en Nuevo León: Pronóstico Vespertino con el Meteorólogo Mauro Morales N+",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "ab73d347a7613951"
@@ -2455,7 +2469,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a Presunto Integrante de Banda que Roba Autos en Nuevo León N+",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "d14002cbc22b664c"
@@ -2539,7 +2553,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "FGR dice que se ha intercambiado información con EU sobre delitos de Inés Gómez Mont; en México tiene 3 órdenes de aprehensión vigentes.",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "aec244e4e003f573"
@@ -2763,7 +2777,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Camión de 6 toneladas se estrella contra puente en Monterrey; chofer queda prensado abcnoticias.mx",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "61dea4e267382f6d"
@@ -2791,7 +2805,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Día de Muertos: rescatan a persona al caer a tumba de panteón en Nuevo León Reporte Indigo",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "43cd1e1cf150b0f7"
@@ -2903,7 +2917,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Conductor de camión de carga queda prensado tras chocar contra columna en bulevar Rogelio Cantú en Monterrey Telediario",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "5871de464b0ba282"
@@ -3016,7 +3030,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Hombre cae a tumba en panteón La Paz en Guadalupe; resulta lesionado de la rodilla Telediario",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "5d9101f2a8e86c92"
@@ -3114,7 +3128,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "11cb1b452dbdd82b"
@@ -3170,7 +3184,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "cb16cfb25b69b432"
@@ -3212,7 +3227,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "62e0416949aff5f4"
@@ -3254,7 +3269,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "7b3718f37077fd23"
@@ -3282,7 +3297,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El Patronato de los 3 Museos y el Museo de Historia Mexicana anunciaron a los ganadores de la séptima edición del Premio de Investigaciones sobre el Noreste de México. The post Anuncian ganadores del Premio Investigaciones del Noreste appeared first on Hora Cero Web .",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "28a11444b9368acf"
@@ -3352,7 +3367,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Hombre cae a tumba durante visita a panteón en Nuevo León vanguardia.com.mx",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "db620683fa870f1b"
@@ -3436,7 +3451,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Localizan a niño extraviado en panteón de Monterrey INFO7",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "0ca92a7e3248d3ba"
@@ -3478,7 +3493,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Una joven de casi 21 años, con 9 meses de experiencia como piloto comercial, murió junto a otras 8 personas en accidente aéreo en Florida.",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "fb4970f5d230e07d"
@@ -3520,7 +3535,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Agente del ICE se entrega por atropellar a mexicano en Houston El Horizonte",
   "temas": [
-   "Otros"
+   "Accidentes",
+   "Migración"
   ],
   "local": false,
   "id": "2c147281e7d059d4"
@@ -3605,6 +3621,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "UANL celebra el Día de Muertos con su tradicional muestra de altares Reporte Indigo",
   "temas": [
+   "Cultura y tradiciones",
    "Educación"
   ],
   "local": false,
@@ -3633,7 +3650,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Elementos de la Policía de Monterrey localizaron sano y salvo a un menor de cuatro años que se extravió en el Panteón Topo Chico. The post Localizan a menor extraviado en Panteón Topo Chico de Monterrey appeared first on Hora Cero Web .",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "7f39009f130f436e"
@@ -3647,7 +3665,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "a20958df57ce245e"
@@ -3661,7 +3679,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Ocho lesionados tras Accidente en la ruta “Morelia-Pátzcuaro”; Guardia Civil brinda primeros auxilios Reporte Indigo",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "24e51b3e422db2ee"
@@ -3675,7 +3693,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "39eb9b7a42e17e08"
@@ -3689,7 +3707,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Camión se queda sin frenos y choca de manera aparatosa en Monterrey; conductor queda prensado MILENIO",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "e785b7e387243dbe"
@@ -3731,7 +3749,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Aunque se trata de un día laboral, cientos de personas acuden a los panteones del Centro de Monterrey para celebrar el Día de Muertos.",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "1705e051d5047dc0"
@@ -3773,7 +3791,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Agente de ICE que atropelló a migrante mexicano se entrega en Houston; imponen fianza de 30 mil dólares El Financiero",
   "temas": [
-   "Otros"
+   "Accidentes",
+   "Migración"
   ],
   "local": false,
   "id": "79a275e35f428f3a"
@@ -3857,7 +3876,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "a66aed554633d6be"
@@ -3899,7 +3918,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "ebb1094ddada743f"
@@ -3913,7 +3932,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Aumenta a cuatro la cifra de muertos por choque en Saltillo INFO7",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "c4f3a61a69ff090d"
@@ -3955,7 +3974,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Rescatan a trailero prensado tras chocar bajo puente en Monterrey MVS Noticias",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "f139e7c1ab393383"
@@ -3969,7 +3988,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Quedan atrapados en cabina de camión tras chocar con puente Hora Cero Web",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "2f2c8f7caa3375ca"
@@ -3983,7 +4002,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "¿Qué efectos tendrá el Frente Frío 4 en Nuevo León? Esto dice el pronóstico ABC Noticias",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "9f08463ec04f87e6"
@@ -4109,7 +4128,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Personas Internas en Reclusorios de la CDMX, mostraron su “Creatividad” durante el “Desfile de Día de Muertos” Reporte Indigo",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "79185719059bbe99"
@@ -4123,7 +4142,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Muere Juan Atkins, pionero del tecno, dentro un hotel en CDMX El Horizonte",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": false,
   "id": "8f6b0d31d5a6bb3f"
@@ -4137,7 +4156,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Clima en Nuevo León: Monterrey prevé temperaturas de hasta 29 grados este martes 3 de noviembre El Financiero",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "f89aa0204720699d"
@@ -4151,7 +4170,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "¿Calorón en Jalisco? Guadalajara espera una máxima de 30 grados este martes 3 de noviembre El Financiero",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "2bbcf56e83b3f7dd"
@@ -4179,7 +4198,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "a45f3810f55e097d"
@@ -4221,6 +4240,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Osezno muere atropellado sobre carretera a Monclova en El Carmen MVS Noticias",
   "temas": [
+   "Accidentes",
    "Movilidad"
   ],
   "local": false,
@@ -4291,7 +4311,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Fuerza Civil rescata a mujer agredida por su pareja en Monterrey MVS Noticias",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "52cc897bdc07f83d"
@@ -4319,7 +4339,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": true,
   "id": "6a188840696d3528"
@@ -4347,7 +4367,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a 4 personas con droga en Monterrey; los investigan por robar a clientes de bancos Telediario",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "5baf2e00a60dfeac"
@@ -4361,7 +4381,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": true,
   "id": "f4e38d58fecb1734"
@@ -4375,7 +4395,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Rescatan a conductor prensado en cabina de tractocamión INFO7",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "c06aa2ea16c0bf4e"
@@ -4417,7 +4437,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Rescatan a conductor prensado tras chocar contra luminaria en Linares MVS Noticias",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "9b6697fcb520d47c"
@@ -4445,7 +4465,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": true,
   "id": "7c917e126ca6122e"
@@ -4459,7 +4479,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Frente Frío 4 en Monterrey: ¿qué días hay probabilidad de lluvia? abcnoticias.mx",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "10c01d4b879745fe"
@@ -4487,7 +4507,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Rescatan a Dos Hombres Atrapados en Camión tras Chocar con Muro en Monterrey N+",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "8dd42ff49e6229c8"
@@ -4557,6 +4577,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Catrinas monumentales de 22 metros rinden homenaje a Cantinflas en Zapotlanejo MILENIO",
   "temas": [
+   "Cultura y tradiciones",
    "Movilidad"
   ],
   "local": false,
@@ -4586,7 +4607,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": true,
   "id": "be048a11e8dab6fb"
@@ -4769,7 +4790,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": true,
   "id": "fe43eeb99928b4a6"
@@ -4839,7 +4860,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": true,
   "id": "987a9302d83ad0a1"
@@ -4881,7 +4902,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familias visitan el panteón San José para recordar a sus seres queridos en Día de Muertos Telediario",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "f6a2c6f330551644"
@@ -4909,7 +4930,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Llegan en familia a panteones para visitar a sus seres queridos El Horizonte",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "1390fd022475d608"
@@ -4951,7 +4972,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Deportes y espectáculos"
+   "Deportes y espectáculos",
+   "Seguridad"
   ],
   "local": true,
   "id": "b4fac04570267b40"
@@ -4993,7 +5015,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Panteón San José en Monterrey recibe familias por Día de Muertos MILENIO",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "b8f68e8a32df00fc"
@@ -5035,7 +5057,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Llegan regios a panteones por el Día de Muertos INFO7",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "81df1624d9d10ed6"
@@ -5049,7 +5071,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Isla Mujeres impulsa la cultura e identidad maya a través de las fiestas de Día de Muertos Reporte Indigo",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "e942452031ff5fce"
@@ -5105,7 +5127,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Accidente aéreo en Pachuca: Aeronave se desploma en Pachuca y deja dos fallecidos Reporte Indigo",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "be09050c47244086"
@@ -5161,7 +5183,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Encuentran a Hombre Centroamericano Presuntamente Atropellado en Monterrey N+",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "d61d59ee131dfc58"
@@ -5175,7 +5197,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familias visitan el Panteón El Roble durante el Día de Muertos El Horizonte",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "e7dc958934a40d31"
@@ -5217,7 +5239,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Rescatan a hombre tras caer en una tumba en panteon de Guadalupe MVS Noticias",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "42725c2708d950d3"
@@ -5259,7 +5281,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Acuden familias desde temprana hora al Panteón El Roble INFO7",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "72b9c291f0b6b3b3"
@@ -5301,7 +5323,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "2733aa0e48e352b7"
@@ -5315,6 +5337,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Oso Muere Atropellado en Carretera a Monclova en El Carmen, Nuevo León N+",
   "temas": [
+   "Accidentes",
    "Movilidad"
   ],
   "local": true,
@@ -5329,7 +5352,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Joven conductor escapa de antialcohólica y muere tras chocar en Nuevo León Reporte Indigo",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "5b1716abbf768271"
@@ -5385,7 +5408,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Peatón muere atropellado en el Periférico LEA de Saltillo a la altura de 'La Lechera'; conductor es detenido Telediario",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": false,
   "id": "634e9e8e53f5b87b"
@@ -5414,7 +5438,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a joven por agredir a su pareja dentro de un vehículo en Monterrey Telediario",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "a3293a0fd0fb4815"
@@ -5512,6 +5536,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Automovilista a exceso de velocidad pierde el control, choca contra Metrobús y termina volcado en la GAM Milenio",
   "temas": [
+   "Accidentes",
    "Movilidad"
   ],
   "local": false,
@@ -5554,7 +5579,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "5ccf7d382f3e8132"
@@ -5568,7 +5593,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a joven tras agredir a su pareja al interior de un vehículo en Monterrey; intenta huir y choca a patr Milenio",
   "temas": [
-   "Otros"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "2f442e11d52b518e"
@@ -5582,7 +5608,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "8c5eb0507927f89a"
@@ -5610,7 +5636,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Una Mujer acompañada por un menor, Intentan ingresar marihuana al Reclusorio Varonil Oriente en Iztapalapa; y los detienen Reporte Indigo",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": false,
   "id": "d0f4203c8afffb1a"
@@ -5638,7 +5664,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "¿Por qué el mexicano Fernando Calvillo se encontraba en España cuando ocurrió el choque de trenes? El Financiero",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "3633f40ca109ceab"
@@ -5652,7 +5678,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Frente frío 4 provocará descenso de temperatura en Monterrey; consulta el pronóstico para esta semana MVS Noticias",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "5ff0232551d72997"
@@ -5708,7 +5734,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "7f8b008b5a70e8c2"
@@ -5722,7 +5748,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "c5b4703405d4f2a6"
@@ -5736,7 +5762,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familiares visitan a sus difuntos en panteones por Día de Muertos en Monterrey; implementan cierres viales MILENIO",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "3b0d5ba53b920531"
@@ -5750,6 +5776,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Frente frío 4: Estos estados tendrán lluvias este 2 de noviembre El Horizonte",
   "temas": [
+   "Clima",
    "Emergencias"
   ],
   "local": false,
@@ -5764,7 +5791,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a joven por agredir a su pareja dentro de vehículo INFO7",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": false,
   "id": "5102a0582943bcfe"
@@ -5792,7 +5819,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a cuatro por presuntos robos a personas afuera de bancos El Horizonte",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": false,
   "id": "b27800d39400fb4a"
@@ -5806,7 +5833,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "9ffc3b8b81865ebd"
@@ -5834,7 +5861,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Confirman muerte de mexicano tras choque ferroviario en España El Horizonte",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "ff6dfdf9a925f434"
@@ -5904,7 +5931,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Muere el DJ estadounidense Juan Atkins: Fue encontrado inconsciente en un hotel de CDMX El Financiero",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": false,
   "id": "b0e04a6d4d902fa3"
@@ -5960,7 +5987,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "4a0cd7a63aba435f"
@@ -5974,7 +6001,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Frente Frío 4: “La CNPC pide extremar precauciones ante sus efectos en México” Reporte Indigo",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "3201569de37b2d9f"
@@ -5988,7 +6015,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "d9e8e566344d83ac"
@@ -6016,7 +6043,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tras choque en Linares, trasladan inconsciente a hombre prensado INFO7",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "632ce3da008ea23f"
@@ -6072,7 +6099,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Pronóstico del Clima en Nuevo León: Se Esperan Cambios de Temperatura Esta Semana N+",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "95dbe7ac66030677"
@@ -6100,7 +6127,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Clima en Península de Yucatán: Hasta 36°C en Mérida el martes 3 de noviembre El Financiero",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "5fe48c2ef43b4c67"
@@ -6128,7 +6155,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "6e102f55be9abc90"
@@ -6171,7 +6198,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "ea30956759fd6170"
@@ -6213,7 +6240,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "'Entre flores nos reciben, y entre ellas nos despiden': El libro que recorre las tradiciones del Día de Muertos Telediario",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "7b7189c902bcc0fa"
@@ -6227,7 +6254,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "a3968b530011270f"
@@ -6283,7 +6310,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "a12d58704c4bd3f0"
@@ -6311,7 +6339,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Clima en CDMX y Edomex: Mínima de 11°C para el martes 3 de noviembre El Financiero",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "ff8cd35979d96b59"
@@ -6325,7 +6353,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "f51a85e98f3e9c39"
@@ -6395,7 +6423,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "f11cab8fc24df44b"
@@ -6451,7 +6479,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Día de Muertos en Ciudad de México Milenio",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "4b0f69bc5c55c9f5"
@@ -6549,7 +6577,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "d18ad518b0d22152"
@@ -6662,7 +6690,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen en menos de 2 horas a ladrón de bar en Guadalupe MVS Noticias",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": false,
   "id": "8d9f1466ba69d86c"
@@ -6676,7 +6704,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Frente Frío 4: Clima 2, 3 y 4 de noviembre 2026; estos serán los estados más afectados en México Reporte Indigo",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "5ea7eec5c5807f5b"
@@ -6704,7 +6732,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "41b17a3c117b63b2"
@@ -6718,7 +6746,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Hoy es el Día de Muertos ¿Cuál es el origen de esta celebración? El Horizonte",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "f365025b4fe6c794"
@@ -6746,7 +6774,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Panteones de León y Monterrey reciben familias en Día de Muertos Milenio",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "9027bbf5ecf42b4e"
@@ -6788,7 +6816,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Se extiende el frente frío número 4 sobre el noroeste de México INFO7",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "0bc71ea5c332f7ca"
@@ -6816,7 +6844,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Hackean supermercados de Europa: Le suben temperatura a refrigeradores y pierden millones en comida El Financiero",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "42d1a80cb7841cae"
@@ -6830,7 +6858,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "8e4996c2560480e3"
@@ -6844,7 +6872,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Marina utiliza “Inteligencia Naval” para debilitar las operaciones del narcotráfico internacional Reporte Indigo",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": false,
   "id": "08ae2f29ddee8ab4"
@@ -6886,7 +6914,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "dc1faa993a25db5a"
@@ -6971,7 +6999,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "¿Cuándo se quita la ofrenda de muertos? La fecha en que termina la tradición y qué significa retirar el altar Reporte Indigo",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "fb0de3f8a00dd028"
@@ -6999,6 +7027,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Michoacán celebra Noche de Muertos entre tradición y turismo El Horizonte",
   "temas": [
+   "Cultura y tradiciones",
    "Economía y empleo"
   ],
   "local": false,
@@ -7013,7 +7042,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "SRE confirma muerte de mexicano tras choque ferroviario en España INFO7",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "81aa27ea8556ca7a"
@@ -7027,7 +7056,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "SRE confirma un mexicano muerto en el choque de dos trenes en España; sería Fernando Calvillo El Financiero",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "8e78c6904fa787c3"
@@ -7083,7 +7112,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Refuerza PC NL vigilancia en 114 panteones del Estado Publimetro México",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "aafe99fe34566a0e"
@@ -7097,7 +7126,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Pronostican clima estable en Día de Muertos y llegada de próximo frente frío en Monterrey Milenio",
   "temas": [
-   "Otros"
+   "Clima",
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "c35830dc47b763eb"
@@ -7181,7 +7211,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "c91df76538a3ff3d"
@@ -7195,7 +7225,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Calaveritas 2026: La Catrina pasa lista y ‘se lleva’ a Samuel García, Mariana Rodríguez, Adrián de la Garza y MILENIO",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "f0a4f07cb61afa93"
@@ -7223,7 +7253,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Seguridad",
+   "Accidentes"
   ],
   "local": true,
   "id": "7a318145904e7fb1"
@@ -7237,7 +7268,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Detienen a hombre con presuntas dosis de cristal y cocaína tras riña en Juárez MVS Noticias",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": false,
   "id": "885f3fc483975a00"
@@ -7377,6 +7408,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
+   "Accidentes",
    "Movilidad"
   ],
   "local": true,
@@ -7476,7 +7508,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Clima hoy lunes 2 de noviembre: parcialmente nublado y 29 grados de temperatura máxima en Monterrey Reporte Indigo",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "8064e57dfae7a70f"
@@ -7533,7 +7565,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Conagua deja en suspenso el trasvase de El Cuchillo a Tamaulipas MVS Noticias",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "faebd6ba73628371"
@@ -7561,7 +7593,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Clima",
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "f90b5f22115c0fc4"
@@ -7631,7 +7664,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Muere mujer tras ser atropellada por conductor ebrio en Coyoacán Telediario",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "d5191c460b189b32"
@@ -7645,7 +7678,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Conagua definirá este martes si autoriza trasvase de El Cuchillo a Tamaulipas Telediario",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": false,
   "id": "4f3f655949a45a2e"
@@ -7673,7 +7706,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Clima en Nuevo León Pronóstico Matutino con Vanessa Ibarra N+",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "83ec3b1775f25bf2"
@@ -7814,6 +7847,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Conagua definirá este martes si habrá trasvase de agua de Nuevo León a Tamaulipas Milenio",
   "temas": [
+   "Clima",
    "Agua"
   ],
   "local": true,
@@ -7857,7 +7891,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Operativo Panteones 2026: atienden picadura de alacrán y reportan saldo blanco en Nuevo León MVS Noticias",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "e7971aa5b90d5ca9"
@@ -7885,7 +7919,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Pronóstico del tiempo para Monterrey, 02 de noviembre 2026 Telediario",
   "temas": [
-   "Otros"
+   "Clima"
   ],
   "local": true,
   "id": "46e5788893058dc3"
@@ -7899,6 +7933,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Día de Muertos: las despedidas del mundo del espectáculo en 2026 El Horizonte",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": false,
@@ -7969,6 +8004,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Día de Muertos: artistas que fallecieron en 2026 y dejaron huella El Horizonte",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": false,
@@ -8179,6 +8215,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Conagua informa que será este martes cuando defina si procede un nuevo trasvase de la Presa El Cuchillo a la Marte R. Gómez, en Tamaulipas.",
   "temas": [
+   "Clima",
    "Agua"
   ],
   "local": true,
@@ -8263,6 +8300,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "La Catrina ya se registró como aspirante en Tamaulipas El Horizonte",
   "temas": [
+   "Cultura y tradiciones",
    "Política y partidos"
   ],
   "local": false,
@@ -8389,6 +8427,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
+   "Cultura y tradiciones",
    "Educación"
   ],
   "local": true,
@@ -8474,6 +8513,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -8644,6 +8684,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Las acciones fueron lidereadas por el Secretario General, Maestro José Francisco Martínez Calderón.",
   "temas": [
+   "Cultura y tradiciones",
    "Educación"
   ],
   "local": true,
@@ -8687,7 +8728,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "El Gobierno Municipal de Guadalupe promueve espacios de convivencia familiar y preserva las tradiciones",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones",
+   "Gobierno municipal"
   ],
   "local": true,
   "id": "8d4d377081fe26e1"
@@ -8701,7 +8743,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Durante el encuentro, en la colonia Jardines de Capellanía -en Cadereyta- al que también acudieron vecinos del municipio de Juárez.",
   "temas": [
-   "Política y partidos"
+   "Política y partidos",
+   "Gobierno municipal"
   ],
   "local": true,
   "id": "59ad26a7d980eeef"
@@ -8729,7 +8772,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Se activaron acciones preventivas para garantizar la continuidad del servicio eléctrico, pues según los pronósticos vendrían días de frío a la entidad.",
   "temas": [
-   "Otros"
+   "Clima",
+   "Servicios públicos"
   ],
   "local": true,
   "id": "ed179243247a165c"
@@ -8771,7 +8815,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Salud"
+   "Salud",
+   "Economía y empleo"
   ],
   "local": true,
   "id": "a4994e0bbeb7d86c"
@@ -8785,6 +8830,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "¡Tómalo en cuenta! Habrá calor extremo y lluvias aisladas en Nuevo León HOY lunes 2 de noviembre ABC Noticias",
   "temas": [
+   "Clima",
    "Emergencias"
   ],
   "local": true,
@@ -8897,7 +8943,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": true,
   "id": "a04945a528868514"
@@ -8925,7 +8971,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Avanza PIB 3.2% en el tercer trimestre de 2026, su mayor ritmo en tres años El Financiero",
   "temas": [
-   "Otros"
+   "Economía y empleo"
   ],
   "local": false,
   "id": "5b8df593b766cc64"
@@ -8939,7 +8985,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Choque entre camionetas deja tres lesionados en el centro de Monterrey Telediario",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": true,
   "id": "b5ac422c95b07d57"
@@ -8967,7 +9013,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "c29c3411189e5eda"
@@ -9023,6 +9069,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
+   "Cultura y tradiciones",
    "Deportes y espectáculos"
   ],
   "local": true,
@@ -9079,7 +9126,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Emiten medidas de seguridad para panteones en Nuevo Laredo El Horizonte",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "e7a3c147c7166cac"
@@ -9107,7 +9154,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Gobierno municipal"
   ],
   "local": true,
   "id": "e5f51a439ec885f3"
@@ -9150,7 +9197,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Difunden recomendaciones para visitas a panteones en Nuevo Laredo INFO7",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "d96a707ce3c794da"
@@ -9164,7 +9211,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Dan último adiós a cuatro personas en Matamoros tras choque El Horizonte",
   "temas": [
-   "Otros"
+   "Accidentes"
   ],
   "local": false,
   "id": "efce044da5a5d6c2"
@@ -9249,7 +9296,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Definen horario de atención en panteones por Día de Muertos El Horizonte",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "08a56c3825f0de0c"
@@ -9306,7 +9353,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Preparan panteones de Matamoros, horarios y actos por festejos INFO7",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "a7d836b138ca8c63"
@@ -9376,7 +9423,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "f706eb9b6d932ca8"
@@ -9404,7 +9451,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "afb236e3191a5284"
@@ -9432,7 +9479,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Promueven la tradición del Xantolo con danzas en Matamoros El Horizonte",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": false,
   "id": "53286a9f1a47c72c"
@@ -9488,7 +9535,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Concluye con saldo blanco operativo en panteones de Nuevo León El Horizonte",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "472d08786e77f615"
@@ -9502,7 +9549,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "eb0bf826185fed1a"
@@ -9544,6 +9591,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Reporta Protección Civil saldo blanco en panteones de Nuevo León INFO7",
   "temas": [
+   "Cultura y tradiciones",
    "Emergencias"
   ],
   "local": true,
@@ -9615,6 +9663,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Celebra alcalde tercera edición del Catrina Fest en Guadalupe El Horizonte",
   "temas": [
+   "Cultura y tradiciones",
    "Gobierno municipal"
   ],
   "local": false,
@@ -9643,6 +9692,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Tráiler cae sobre camioneta en la carretera Saltillo-Monterrey; hay cinco lesionados Milenio",
   "temas": [
+   "Accidentes",
    "Movilidad"
   ],
   "local": true,
@@ -9685,7 +9735,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Localizan segundo delfín sin vida en Playa Bagdad en Matamoros El Horizonte",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": false,
   "id": "61a777c1b4a88ec2"
@@ -9727,7 +9777,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "6e33d53af813eb52"
@@ -9769,7 +9819,8 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Seguridad"
+   "Seguridad",
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "d82ab17527248b32"
@@ -9853,7 +9904,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "“Operación Restitución”: Autoridades han asegurado casi 3 mil inmuebles en 91 municipios mexiquenses Reporte Indigo",
   "temas": [
-   "Otros"
+   "Gobierno municipal"
   ],
   "local": false,
   "id": "e6a9dc9f2fd97bc6"
@@ -10035,7 +10086,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "2035c32aedd2527c"
@@ -10077,7 +10128,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Seguridad"
   ],
   "local": true,
   "id": "46b43542bbe7ca22"
@@ -10162,7 +10213,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
-   "Otros"
+   "Deportes y espectáculos"
   ],
   "local": true,
   "id": "a77216c5cc9bed62"
@@ -10218,7 +10269,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "Familias visitan panteones de Monterrey previo a la celebración del Día de Muertos Telediario",
   "temas": [
-   "Otros"
+   "Cultura y tradiciones"
   ],
   "local": true,
   "id": "debfd706703e58f2"
@@ -10232,6 +10283,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "",
   "temas": [
+   "Clima",
    "Agua"
   ],
   "local": true,
@@ -10275,6 +10327,7 @@
   "visto": "2026-11-02T15:12:49-06:00",
   "resumen": "¿Qué le pasó a Michael Mann? Director se disparó por accidente y fue hospitalizado El Financiero",
   "temas": [
+   "Accidentes",
    "Salud"
   ],
   "local": false,

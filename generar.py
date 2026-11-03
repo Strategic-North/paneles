@@ -195,16 +195,20 @@ def secciones(liga):
     return {sin_acentos(p) for p in re.split(r"[/_.]", ruta) if p and not p.isdigit()}
 
 
-def etiquetar(nota, cfg):
+def temas_de(nota, cfg):
     texto = sin_acentos(nota["titulo"] + " " + nota["resumen"])
     temas = [t for t, palabras in cfg.get("temas", {}).items() if any(aparece(p, texto) for p in palabras)]
     partes = secciones(nota["liga"])
     de_seccion = {tema for seccion, tema in cfg.get("secciones", {}).items() if seccion in partes}
     if "Deportes y espectáculos" in de_seccion:
-        temas = ["Deportes y espectáculos"]  # la sección del medio manda sobre palabras sueltas
-    else:
-        temas += [t for t in de_seccion if t not in temas]
-    nota["temas"] = temas or ["Otros"]
+        return ["Deportes y espectáculos"]  # la sección del medio manda sobre palabras sueltas
+    return (temas + sorted(t for t in de_seccion if t not in temas)) or ["Otros"]
+
+
+def etiquetar(nota, cfg):
+    nota["temas"] = temas_de(nota, cfg)
+    texto = sin_acentos(nota["titulo"] + " " + nota["resumen"])
+    partes = secciones(nota["liga"])
     lugares = [sin_acentos(l) for l in cfg.get("lugares", [])]
     menciona = any(l in texto for l in lugares)
     fuera = bool(partes & set(cfg.get("secciones_no_locales", [])))
@@ -287,6 +291,8 @@ def procesar(cfg, ahora):
     for dia, nuevas in nuevas_por_dia.items():
         ruta = carpeta / "cortes" / f"{dia}.json"
         previas = {n["id"]: n for n in cargar(ruta)}
+        for n in previas.values():  # los cambios de palabras clave aplican también a lo ya guardado
+            n["temas"] = temas_de(n, cfg)
         for k, n in nuevas.items():
             if k not in previas:  # se conserva la primera vez que se vio
                 n["id"] = k
