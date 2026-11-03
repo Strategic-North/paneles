@@ -17,7 +17,14 @@ Reemplazan los paneles que vivían en el GitHub personal de Dana (`danacorres.gi
 | `.github/workflows/paneles.yml` | La programación del robot (cada 30 minutos y justo después del corte) |
 | `docs/` | Lo que se publica. Lo genera el robot; no se edita a mano |
 
-## Montarlo (una sola vez)
+## Dónde vive (desde el 02.11.2026)
+- Repositorio: https://github.com/Strategic-North/paneles (organización Strategic-North, cuenta stratnorth).
+- Paneles: https://strategic-north.github.io/paneles/nl/ · /bc/ · /sinaloa/
+- La primera corrida en GitHub respondió con 58 de 59 fuentes. La que faltó fue El Vigía, que bloquea los servidores de GitHub; ahora entra por Google News (`site:elvigia.net`).
+
+**Para cambiar algo desde esta carpeta:** primero `git pull` (el robot sube datos cada media hora), luego editar `config/` o `generar.py`, hacer commit y `git push`. No generar `docs/` a mano: lo genera el robot.
+
+## Montarlo (una sola vez; ya hecho)
 1. **Crear la organización de Norte en GitHub** (plan Free) con un correo institucional, no personal, y con **al menos dos dueños**. Así, si alguien sale, la organización no se pierde. Si prefieren que la liga no diga "Norte", se puede usar un nombre neutro.
 2. Crear en la organización un repositorio **público** llamado `paneles` (GitHub Pages gratis pide repositorio público) y subir esta carpeta tal cual: `generar.py`, `config/`, `.github/` y este `LEEME.md`.
 3. En el repositorio: **Settings → Actions → General → Workflow permissions → Read and write permissions**.
