@@ -1,5 +1,125 @@
 [
  {
+  "titulo": "Tras atentados en anexos, Mazatlán promete más patrullajes",
+  "liga": "https://revistaespejo.com/2026/11/03/tras-atentados-en-anexos-mazatlan-promete-mas-patrullajes/",
+  "medio": "Revista Espejo",
+  "publicada": "2026-11-03T04:30:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "Los ataques en Felipe Ángeles y Ricardo Flores Magón dejaron tres muertos y cinco heridos",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5c46e2e141b577f5"
+ },
+ {
+  "titulo": "La narcoguerra mantiene bajo amenaza la actividad cultural y económica de Culiacán",
+  "liga": "https://revistaespejo.com/2026/11/03/la-narcoguerra-mantiene-bajo-amenaza-la-actividad-cultural-y-economica-de-culiacan/",
+  "medio": "Revista Espejo",
+  "publicada": "2026-11-03T04:23:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "El ataque a la Feria Ganadera ocurre tras dos años de violencia que han afectado eventos masivos, turismo y empleos en Culiacán.",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones",
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "ca7ea572ad863bf2"
+ },
+ {
+  "titulo": "Un Día de Muertos más para una policía golpeada por la violencia",
+  "liga": "https://revistaespejo.com/2026/11/03/un-dia-de-muertos-mas-para-una-policia-golpeada-por-la-violencia/",
+  "medio": "Revista Espejo",
+  "publicada": "2026-11-03T04:22:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "Registros de Causa en Común ubican a la entidad entre las más letales para los policías en México, en un contexto de precariedad laboral, abandono institucional e impunidad en los crímenes.",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "a318c3e3ee719a52"
+ },
+ {
+  "titulo": "¿Quién puede pagar un auto eléctrico?: Electrificar el transporte, la apuesta de jóvenes para una movilidad accesible",
+  "liga": "https://revistaespejo.com/2026/11/03/quien-puede-pagar-un-auto-electrico-electrificar-el-transporte-la-apuesta-de-jovenes-para-una-movilidad-accesible/",
+  "medio": "Revista Espejo",
+  "publicada": "2026-11-03T04:11:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "La transición hacia la movilidad eléctrica en la Ciudad de México enfrenta altos costos que la hacen inviable para la mayoría de la población, pero jóvenes ingenieros proponen que la estrategia sea priorizar el transporte público masivo junto con la micromovilidad y la modernizac",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "f0ac9c75a602476e"
+ },
+ {
+  "titulo": "La Polémica | Grisel Barrientos, ¿vendedora del Bienestar?",
+  "liga": "https://lado.mx/noticia/22220763/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T04:03:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "DANIEL CAMARGO HERNÁNDEZ And #124; Cuestión de POLÉMICA EU pone mira en Rocha, ¿vinculan a Castañeda? Acosta ya se siente alcalde, Duarte mueve los hilos A SEIS MESES de que el Departamento de Justicia de Estados Unidos presentó cargos contra el gobernador con licencia de Sinaloa",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "95da6f59118d3284"
+ },
+ {
+  "titulo": "Detienen a tres civiles armados con presunta droga; relacionados con disparos a la Feria Ganadera, en Culiacán",
+  "liga": "https://cafenegroportal.com/detienen-a-tres-civiles-armados-con-presunta-droga-relacionados-con-disparos-a-la-feria-ganadera-en-culiacan/",
+  "medio": "Café Negro",
+  "publicada": "2026-11-03T03:41:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "Elementos del Grupo de Operaciones Especiales de Sinaloa, de la Policía Estatal Preventiva y Personal del Ejército Mexicano, en coordinación con el Grupo Interinstitucional, detuvieron a tres masculinos; se presume que pudieran estar relacionados con los hechos ocurridos en las i",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "5e36a72f9abc84a0"
+ },
+ {
+  "titulo": "En Sinaloa, al alza delito de feminicidios",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlM2OXN4OF9WR0Rnem02QW55czZ2emZ4Z3hWSWZfUU9mM1l4Ymk2dVBuX3FMRWZON2NyZ3AyWUlLVzZiS0E3TkJZeU5DV015elBDWXhWY0JfX1UyS3RyNWhVa0dpbDlhWmN1NTl6ek4yT2JUV2VQTEZsWS1KcDV3eW1FbWRfdHhXNDlhdkotSURHYkN0WlVtQVhXOWdSdXUtekt3YXAtTkVQQ0F2VEVB?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-03T03:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "En Sinaloa, al alza delito de feminicidios El Heraldo de México",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1b7ca03134f03e10"
+ },
+ {
+  "titulo": "Irán subraya que \\\"la pelota está en el tejado de EEUU\\\" de cara a \\\"evitar una guerra\\\" en Oriente Próximo",
+  "liga": "https://lado.mx/noticia/22220677/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T03:30:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "dfb2b939fbee24e5"
+ },
+ {
   "titulo": "Irán dice que la pelota está en el tejado de Estados Unidos para evitar otra guerra",
   "liga": "https://lado.mx/noticia/22220611/",
   "medio": "Lado.mx",
@@ -12,6 +132,20 @@
   ],
   "local": true,
   "id": "4b10d5f5150d62e9"
+ },
+ {
+  "titulo": "Pronóstico del clima en Victoria De Durango hoy 03 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd25ZakZfVWcwTk0xc0EtZnRROXoyM1BodnNSOHpfNU1DWjZiazJuMVlSbTB4enQ5MlRKZFR5SDlVbk5OWHN2X050aDNnRHR2MjNmTnVUTXh4MGJJYzhDV2d5RGpQTmVJMDlwSzY5YVB3Z3ZBVWZaY0R6RlRlblR3Ry02Qm1wRWF3OU16bGM0YmE0UGJNYmkxcEREZ0xtMGNmRm05dnVYRWlVaGpwbl84MVNVa0xqelg4WUMxUTV2Zw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T02:15:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T04:29:50-06:00",
+  "resumen": "Pronóstico del clima en Victoria De Durango hoy 03 de noviembre de 2026 Debate",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "6e385054073c51d5"
  },
  {
   "titulo": "Los gobernadores de NL y Sinaloa copiando las mañas a E. Lozoya",
