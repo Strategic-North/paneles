@@ -1,5 +1,622 @@
 [
  {
+  "titulo": "Sheinbaum inicia jornadas de lectura en escuelas tras prohibir celulares",
+  "liga": "https://elcongresista.mx/educacion/jornadas-lectura-sheinbaum",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:47:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Claudia Sheinbaum inicia hoy jornadas de lectura en escuelas tras la prohibición del uso de celulares en secundarias.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "5ae2bc96efeefc6f"
+ },
+ {
+  "titulo": "Claudia Sheinbaum excluye asistencia a Cumbre Iberoamericana en Madrid",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-cancela-cumbre-iberoamericana-madrid",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:47:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum no asistirá a la Cumbre Iberoamericana en Madrid, y designa al canciller Roberto Velasco.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bfa8cf232cd281e1"
+ },
+ {
+  "titulo": "Ariadna Montiel califica como \"indefendible\" a Guadalupe Taddei",
+  "liga": "https://elcongresista.mx/justicia/ariada-montiel-indefendible-guadalupe-taddei",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:46:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Ariadna Montiel califica a Guadalupe Taddei como indefendible y solicita investigar al INE por presuntas irregularidades.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ea38108c04077de7"
+ },
+ {
+  "titulo": "Encuentran cuerpo en una maleta y otro en una bolsa en Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/encuentran-cuerpo-en-una-maleta-y-otro-en-una-bolsa-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=encuentran-cuerpo-en-una-maleta-y-otro-en-una-bolsa-en-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-03T13:46:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "En tres hechos distintos, un hombre fue asesinado a tiros en la colonia Amparo Sánchez, un cuerpo fue localizado al interior de una bolsa en Natura y otro, dentro de una maleta en la canalización. Esta frontera suma más de 765 homicidios dolosos en 2026.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2b0cbd8d1d8c0ac7"
+ },
+ {
+  "titulo": "Barclays México alerta sobre suplantación de identidad para fraudes",
+  "liga": "https://elcongresista.mx/finanzas/barclays-mexico-alerta-suplanta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:45:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Barclays México alerta sobre fraudes que utilizan su nombre para ofrecer inversiones ilegítimas de hasta 800% de rendimiento.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "ade781fa39241d81"
+ },
+ {
+  "titulo": "Aplazan una semana convocatoria para renovar presidencia del INE por desacuerdo entre Morena y PAN",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM05NRmEtSlFLVnEzYzFoTHV3bDZKcnE4QnZnVFh2ZTQ0X2pDSHQ2VzEteWN0VUJneG9qNU16VDlldmVPRzVBdDJpUWo1Z1ZMbFVZVE5ZMHFyWmlEZjJ3dUVXV2ctOVNqdmNaTExBSXA2YnhVaERnWHdRbEhOYjh3TDNBd0EteUJEeXdFOTFJLXhDRUZYSVVKRDNaS21hVUU3MXQ4ZGI0U2NfbDBYUVJNZjdwdVpONFY4djY2SEdSVWtVVnNuWEQ0UXRvQkpEQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-03T13:45:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Aplazan una semana convocatoria para renovar presidencia del INE por desacuerdo entre Morena y PAN Baja News",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "b631fba5c16164f1"
+ },
+ {
+  "titulo": "Se percibe en Ensenada y Tijuana sismo de magnitud 4.9 con epicentro en Mexicali",
+  "liga": "https://jornadabc.com.mx/principales/se-percibe-en-ensenada-y-tijuana-sismo-de-magnitud-4-9-con-epicentro-en-mexicali/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-03T13:42:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Un sismo de magnitud 4.9 se registró a las 10:27 de la mañana, a 8.76 kilómetros al norte del poblado de Delta, en Mexicali, dio a conocer el Cicese La entrada Se percibe en Ensenada y Tijuana sismo de magnitud 4.9 con epicentro en Mexicali se publicó primero en La Jornada Baja C",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "9348a15079fd8f19"
+ },
+ {
+  "titulo": "Resultados Tris Medio Día hoy 3 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-medio-dia-sorteo-36883",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:36:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "El sorteo Tris Medio Día número 36883 se celebró este 3 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0b47be8247d1ab67"
+ },
+ {
+  "titulo": "Evacúan Palacio Municipal de Tijuana tras sismo registrado en Baja California",
+  "liga": "https://www.uniradioinforma.com/sociedad/evacuan-palacio-municipal-tijuana-tras-sismo-registrado-baja-california-n912255",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "f220c1d10cf041c1"
+ },
+ {
+  "titulo": "Evacuan Palacio Municipal de Tijuana tras sismo con epicentro en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFRxMVh6WG1ubHp1SGdrLW5DRG1XSkZpeTNZNHAzV0t4eE10NFVQUHg2SldOMHdPeTJpdE9ldFA4YUQzT3JFRmUwY1dtVXpYT211NXdnaDhycU9HSW1uaVJHMWJFZGhkcFphemNmdXpESXJkaDdlUEl0RFZBdzdpdkxUUDFraFBEUFBmc2lWd3BMUm9Ya1phbzFrSUdnY25HVTU4TGZDVHA1TzB1aHc?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-03T13:33:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Evacuan Palacio Municipal de Tijuana tras sismo con epicentro en Mexicali Baja News",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "bcc0fcee0ec83dfd"
+ },
+ {
+  "titulo": "Imcufide ofrece 100% de descuento en inscripción a albercas para 2027",
+  "liga": "https://elcongresista.mx/morelos/imcufide-descuentos-albercas-buen-fin",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:33:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Imcufide ofrece 100% de descuento en inscripción para sus albercas hasta el 15 de diciembre, apoyando a las familias morelianas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6ad8aa3baa580246"
+ },
+ {
+  "titulo": "La commotio cordis causa la muerte del futbolista Jesús de Miguel",
+  "liga": "https://elcongresista.mx/salud/commotio-cordis-jesus-de-miguel",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:32:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Jesús de Miguel falleció por commotio cordis, un fenómeno que desencadena paros cardíacos tras impactos en el pecho en deportes.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Salud"
+  ],
+  "local": false,
+  "id": "d40bd31c2c963038"
+ },
+ {
+  "titulo": "Denuncian presunto \"cártel electoral\" y exigen una limpia en organismos de Sonora",
+  "liga": "https://www.uniradioinforma.com/sociedad/denuncian-presunto-cartel-electoral-exigen-una-limpia-organismos-sonora-n912253",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Señalan presunta red para favorecer a Morena en elecciones de 2027.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "ee2b278ccfe7961a"
+ },
+ {
+  "titulo": "Soriana Morelia ofrece despensa a 929 pesos en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/soriana-morelia-despensa-929-pesos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:31:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Soriana Morelia se destaca como opción económica con despensa a 929 pesos, según informe de Sedeco en Michoacán.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5ed3cff5132b860d"
+ },
+ {
+  "titulo": "Tenerife: homenaje para Jesús de Miguel el 7 de noviembre",
+  "liga": "https://elcongresista.mx/politica/michoacan/homenaje-jesus-de-miguel-tenerife",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:30:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "El Club Tenerife rendirá homenaje a Jesús de Miguel el 7 de noviembre tras su fallecimiento por un accidente en el campo.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f903d7c7d83f6e51"
+ },
+ {
+  "titulo": "Protección Civil Inspecciona Edificios de Ensenada Tras Movimiento Telúrico en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQi1na2plUHpVVnhkYU1KX2ZSeWhMNGwtTDg0VWpHODFKaktTXzJwRW9QNGVLcDI3c1U5X1EtTV9hTzRmOXlYTFdndmJRWndlLTlHclctb0swTGpLUlYwLVJtU3RCdFN6STFaNzBzeDVDQWFub0RQVF9rUi13QmYtcEh1Z1lQVjlNZUZXV3lVOVV5bVZqZmViLUZBazFBbHVXamxycGdHZXdBZG9UN004bXB3czJXTTNDMlpvTHJOUGpONmtJVldpRlNwZmtjZW1fbXpn?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-03T13:28:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Protección Civil Inspecciona Edificios de Ensenada Tras Movimiento Telúrico en Mexicali N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "ed3632176d9d5164"
+ },
+ {
+  "titulo": "El Distrito Suroeste de la Guardia Costera detiene a 37 inmigrantes ilegales frente a las costas de California, entre el 5 y el 30 de octubre",
+  "liga": "https://www.uniradioinforma.com/policiaca/el-distrito-suroeste-guardia-costera-detiene-37-inmigrantes-ilegales-frente-costas-california-5-30-octubre-n912251",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d091994fcb6461e6"
+ },
+ {
+  "titulo": "Sismo en Baja California: Epicentro y Magnitud del Movimiento Telúrico",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWmNCOFkxaGxGdjB5ZERZM1ZNQmNTX1hmV0ZrYlNITmpEU1QxeFZtRGROOWVWWmJYaTg4OVE2ZU1IRHhxYS1oZGtWTmpqM0JKUldQc0I1RV9mRkdUaENBazRBOFE5VGhPbXVKRTN1MG5VbjRuTXM5Szc2MTNqd05HRmJHM1RBV2hxUk5Db2hRZHg3elh6LWQzb3ZyY0pReDBrazgzcXJtZmkzTkpnWTQ5SkRzUktsdXFhWTBfZVo2TkdVNUoxVWJNVnlUOXFfdw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-03T13:24:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Sismo en Baja California: Epicentro y Magnitud del Movimiento Telúrico N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "a4bdc43458982f36"
+ },
+ {
+  "titulo": "Museo Textil de México: talleres sobre tintes naturales en noviembre",
+  "liga": "https://elcongresista.mx/cultura/museo-textil-tintes-naturales-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:21:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "El Museo Textil de México ofrecerá una serie de talleres y charlas sobre tintes naturales durante noviembre.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "172b3dff7d693683"
+ },
+ {
+  "titulo": "Detienen elementos de la SSPCM a un hombre por su presunta participación en robo con violencia a transeúnte y portación de arma de fuego",
+  "liga": "https://www.uniradioinforma.com/policiaca/detienen-elementos-sspcm-hombre-su-presunta-participacion-robo-violencia-transeunte-portacion-arma-fuego-n912247",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6dd2ef338026e069"
+ },
+ {
+  "titulo": "Concluye sin incidentes relevantes operativo de Tránsito por Día de Muertos",
+  "liga": "https://www.uniradioinforma.com/gobierno/concluye-incidentes-relevantes-operativo-transito-dia-muertos-n912249",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Se implementó en los alrededores de los panteones municipales y privados de las zonas urbana y rural.",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "baf6764aea206dae"
+ },
+ {
+  "titulo": "Monorriel de Nuevo León avanza con pruebas en Apodaca",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/monorriel-nuevo-leon-apodaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:18:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "El gobernador de Nuevo León supervisó las pruebas del Monorriel de la Línea 6 en Apodaca, con avances significativos hacia la inauguración.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d3eaa29d51c6e8eb"
+ },
+ {
+  "titulo": "Tamaulipas registra 3.16 millones de pesos en recursos sin aclarar",
+  "liga": "https://elcongresista.mx/tamaulipas/tamaulipas-recursos-sin-aclarar-asf",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:17:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Tamaulipas presenta 3.16 millones de pesos en recursos federales sin aclarar ante la Auditoría Superior de la Federación.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4dbbf3b92f33347e"
+ },
+ {
+  "titulo": "Diputados aprueban reforma a Ley del Impuesto Sobre la Renta",
+  "liga": "https://elcongresista.mx/finanzas/camara-diputados-aprueba-reforma-ley-isr",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:17:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "La Cámara de Diputados aprueba reforma a la Ley del ISR que excluye a gasolineras y la industria automotriz del control de deducciones fiscales.",
+  "temas": [
+   "Política y partidos",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "1b3c13fae9581cf3"
+ },
+ {
+  "titulo": "¿Tembló en Mexicali Hoy? Esto Se Sabe Sobre Sismos en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFFaMnJBU2U5UnJ4SzU5c0ZtYWM1c1hjRTRzdmZrM054cG1wRTM3NmhsaWlGS0VnOGR2UGxLdGE3elJXOUtiaXRRS1JUUUFfQVJJWTFCaldzc01vMFJPWXpqNzdrbDcyMGV0SHN5OUhJSjdSX2o4V0pDZ0pwTFFOcldFUTJkM0o5N2tIb3FtOURabThjS055Y0t3LXh6RkFVQjNJT2xZa0l4Wmk0UGtCNkQ0TXRNdjE5dEx5RU1udXZCU3hjVVlpcnBUT2J1THh2NFE?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-03T13:16:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "¿Tembló en Mexicali Hoy? Esto Se Sabe Sobre Sismos en Baja California N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "2a3c9170aa2d64dd"
+ },
+ {
+  "titulo": "Sheinbaum avanza en entrega de apoyos para damnificados en Hidalgo",
+  "liga": "https://elcongresista.mx/politica/hidalgo/apoyos-damnificados-hidalgo-sheinbaum",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:15:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Claudia Sheinbaum reporta avances en la entrega de apoyos a damnificados por lluvias en Hidalgo y rehabilitación de infraestructura.",
+  "temas": [
+   "Servicios públicos",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "76bbd30e725fc0d9"
+ },
+ {
+  "titulo": "Se registra sismo de 5.1 en Mexicali; no se reportan daños",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2ViVFdCSFA4b2dLb285LUFqbndiTzdIX1V0TUZ3VENYakt3MHFXdzIxTW9vaTNZVDctT1N4dGZ5QlQxZUpxRlJxUmpiTE5ZbTdQZi1rWDhEdnpha2NKTnphZ3hOd0xBZWxOVkxqWktxaWlhSmJiUmVpZldGWmtIQVc5NWJwRXljUW40dnUzM21MSDBsNzFrTVJ4Z1F3dTlhbDNRdzJMTzd0UTct?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T13:11:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Se registra sismo de 5.1 en Mexicali; no se reportan daños AFN",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "9d5841ba7cfc5d73"
+ },
+ {
+  "titulo": "Bienestar alerta por fraudes durante el pago de pensiones en Sonora",
+  "liga": "https://www.uniradioinforma.com/gobierno/bienestar-alerta-fraudes-durante-pago-pensiones-sonora-n912245",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Este martes comenzó el pago de las Pensiones para el Bienestar correspondiente al bimestre noviembre-diciembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f350788ad7cc36d5"
+ },
+ {
+  "titulo": "Desalojan edificios públicos por sismo de 5.1 en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmlTdHBjVFBsR3kxUG9sQVAtMW94cTdhUUFVd1Z1aGVkRlhaUTZEejV6MExtVzZ6YVNBSXAwVFpnRWhVU0RuMXB2a2x3ZkxJb09HbEI1TEF2T0VhY21rOTBJXzZ3dlJuazFBd0FBTnlCYWp0ZEllSDlNeExDYzNoa0xpT2ZrZzFPQnFjeHdMWi0wV0libEpiVGUweHFSTFROSy1HY3RQck0ySHA5?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T13:08:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Desalojan edificios públicos por sismo de 5.1 en Mexicali AFN",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "bf7787a4607b6e3d"
+ },
+ {
+  "titulo": "Registran Sismo Preliminar de 5.1 Cerca del Ejido Nuevo León en Mexicali, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamxEV3FwX0dLQlRVNGFMTE5tRU10Z2hEVXZsVUlfcFZaX0ZDMHdkUUplcFB6enVJNmE4QkNuX3h2SXFzSzU0THdHTzM2M0ZRQVFHeVVwbmpiWGZxSmU4cjc2WFh4Sk9weDNzaEVfS2Jrd2lqb05yWFVPd3VEMmdNYzlEV19lazAtS1pFOFdkaUVEU21VU3huZ21jNW5QNFpSbUxlNDM4c1dMdTAxR1pKcG9uaXhTcklHRnk5NHhuOGlrdw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-03T13:07:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Registran Sismo Preliminar de 5.1 Cerca del Ejido Nuevo León en Mexicali, BC N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "1224f03e97573012"
+ },
+ {
+  "titulo": "FGE obtiene condena de tres años de prisión por robo a comercio en Tijuana",
+  "liga": "https://www.uniradioinforma.com/policiaca/fge-obtiene-condena-tres-anos-prision-robo-comercio-tijuana-n912243",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "El sentenciado fue declarado responsable de sustraer mercancía de un establecimiento comercial en la Tercera Etapa del Río.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ca460c2e05d71461"
+ },
+ {
+  "titulo": "San Luis Potosí conmemora 434 años de su fundación",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/san-luis-potosi-434-aniversario-fundacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:06:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "San Luis Potosí conmemora 434 años de su fundación, celebrando su historia y riqueza cultural el 3 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6821816b2641ed07"
+ },
+ {
+  "titulo": "Evacúan instalaciones de la UABC tras sismo de magnitud 4.7 en Mexicali",
+  "liga": "https://www.uniradioinforma.com/sociedad/evacuan-instalaciones-uabc-tras-sismo-magnitud-47-mexicali-n912241",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "5b19784c9f960231"
+ },
+ {
+  "titulo": "Sheinbaum presenta respuesta de embajador Lozano sobre fiesta en embajada",
+  "liga": "https://elcongresista.mx/politica/nacional/embajador-genaro-lozano-respuesta-fiesta-embajada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:04:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "La presidenta Sheinbaum desmiente información sobre una supuesta fiesta en la embajada de México en Italia, según el embajador Genaro Lozano.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9d1ed6ffe14d6f57"
+ },
+ {
+  "titulo": "Detienen en Edomex a Lino “El Patrón”, líder del cártel “Los Linos”",
+  "liga": "https://elcongresista.mx/estado-de-mexico/detienen-lino-el-patron-lider-cartel-linos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:03:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Detienen a Lino “El Patrón”, líder de “Los Linos”, en Ixtapaluca, Estado de México, en una acción federal ligada a la violencia en Morelos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "51468908dae496a8"
+ },
+ {
+  "titulo": "Carta de Brigitte Bardot revela el deterioro de su matrimonio con Bernard D'Ormale",
+  "liga": "https://www.uniradioinforma.com/fama/carta-brigitte-bardot-revela-deterioro-su-matrimonio-bernard-dormale-n912239",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T13:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Su viudo lucha por que se le permita vivir en La Madrague, la mansión, propiedad de la actriz, aun cuando es de su conocimiento que fue desheredado.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "6160637d9debaa21"
+ },
+ {
+  "titulo": "Marina detiene a cinco mandos del CJNG en operaciones recientes",
+  "liga": "https://elcongresista.mx/justicia/marina-detiene-cinco-mandos-cjng-octubre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:02:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "La Secretaría de Marina detiene a cinco mandos del CJNG en operaciones realizadas en octubre en varios estados de México.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "530fed55a6eb4817"
+ },
+ {
+  "titulo": "Banamex: demócratas lideran intención de voto en estados republicanos",
+  "liga": "https://elcongresista.mx/politica/nacional/banamex-democratas-lideran-intencion-voto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T13:02:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Un análisis de Banamex destaca que los demócratas lideran la intención de voto en estados tradicionalmente republicanos, como Texas.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4a715370e20b22e5"
+ },
+ {
+  "titulo": "Sismo de magnitud 5.1 sacude a Mexicali",
+  "liga": "https://puntonorte.info/2026/11/03/sismo-de-magnitud-5-1-sacude-a-mexicali/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-03T13:02:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Mexicali.- Un sismo de magnitud 5.1 grados en la escala de Richter ocurrió hoy, martes 3 de noviembre, cerca de la capital de Baja California. “Se registró un sismo de magnitud preliminar 5.1, con epicentro a 4 kilómetros al oeste-noroeste del Ejido Saltillo, de acuerdo con infor",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "a2f590ea33ecf06c"
+ },
+ {
+  "titulo": "Tiembla en Mexicali; reportan dos sismos de magnitud 4.7 y 4.1",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanRHSDJ3SEFjNVpOSTFkUExWNlIwQTJNZldPdk4xUXozUzhBTlRjdXJwZkhZaWU4b2ExNU1haDN2NWlFMU9YNzFmNWlpSXZYVll2Vk9vOE9RNkJMTDQ2QVRybVJYRkdnYXpBajBZVGlXUlh2d2FTa2pCVU85RUpxcmlFZThSaWdLMmdMQm00ZTdaejVqNUMzZjJ5YjN3UQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-03T13:00:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Tiembla en Mexicali; reportan dos sismos de magnitud 4.7 y 4.1 Baja News",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "eb9a01ed01f2e5ba"
+ },
+ {
+  "titulo": "Reportan sismo de magnitud 4.7 en Mexicali",
+  "liga": "https://zetatijuana.com/2026/11/reportan-sismo-de-magnitud-4-7-en-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=reportan-sismo-de-magnitud-4-7-en-mexicali",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-03T12:59:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Durante la mañana de este martes se registró un sismo de magnitud 4.7, con epicentro en el ejido Saltillo.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "7ff9779249773aac"
+ },
+ {
+  "titulo": "Toman la secundaria 101 de Tijuana por grietas en 6 salones",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/toman-la-secundaria-101-de-tijuana-por-grietas-en-6-salones/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-03T12:56:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Para exigir atención a los problemas de infraestructura que, aseguran, mantienen en riesgo a estudiantes y docentes La entrada Toman la secundaria 101 de Tijuana por grietas en 6 salones se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "d98e3ac0f5d2a287"
+ },
+ {
+  "titulo": "Hacienda permite ajuste del valor fiscal de vehículos para pagar menos marchamo 2027",
+  "liga": "https://elcongresista.mx/vehicular/ajuste-valor-fiscal-vehiculos-marchamo-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:54:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Hacienda ofrece a los contribuyentes la posibilidad de ajustar el valor fiscal de sus vehículos para pagar menos por el marchamo 2027.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4b52d32e9c8fc5ce"
+ },
+ {
   "titulo": "PRI y PAN ratifican alianza en Michoacán con Alfonso Martínez",
   "liga": "https://elcongresista.mx/politica/michoacan/pri-michoacan-alianza-alfonso-martinez",
   "medio": "El Congresista",
@@ -28,6 +645,21 @@
   ],
   "local": false,
   "id": "d1e7f553d8eb8e90"
+ },
+ {
+  "titulo": "Mantiene Gobierno de Ensenada operativo de revisión de inmuebles tras sismo de magnitud preliminar 5.1",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDY2NGN2Zm1yYWpWM3JDSmFOcFhZZXNMc2RWOXh5Z1Nwcm0tWF85U21vU1ptQTg0bjBqRlIyaG0zczR1VW1hMkNKLXRscUl0VVNUZnZmWnczR0JYc0hfemxYbVMtQkNERlJRdGVTZmtSOVdITjNkUTFrdHg0WjlqYmlLTFR2V2N1QVZUYmtEdEx1OGp6OFlJTUo4WmtObVczTU1ZZHhISko2MEptRW9TSjRKQWRpdTllZWNSb1l0RDZNU292bVNhTEtjd3pnUG8tTzdjaNIB2gFBVV95cUxNZl9pd21UQkNMU3NOem9reF9FdDlnNmgwSWRFdV8yeVJDNF9VWUNFX21RLUJYYmpEajdPRUxXM1U3TzIwVk5Ya0JGMERCa2l3c1VjSGNBVmlXajMxT2pHTGtwMHBoNjZSTHhHSXlCVHNndFZSXzBVMmswdHJzNW1KY2pOTl9oSVFPVUFmYnJLUDNjT3ZMMjNZSjZtTkRMZEZ0SmVXM2JNUnlfalZwdTVUSnRpR3F6UXFmOUhkMjg1T01CTTM0VHhqUnEtQi1zYzdBVmxkN3hQeWtidw?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T12:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Mantiene Gobierno de Ensenada operativo de revisión de inmuebles tras sismo de magnitud preliminar 5.1 Uniradio Informa",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "9027efa6cc99cfb7"
  },
  {
   "titulo": "Vinculan a proceso a hombre por disparar contra perro en Puruándiro",
@@ -174,6 +806,20 @@
   ],
   "local": false,
   "id": "a0d91111ea17d31c"
+ },
+ {
+  "titulo": "TIJUANA: Padres toman secundaria 101 por grietas en seis salones; denuncian riesgo para alumnos",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnRzd0E5LUJSeFI3WncxTXhjMXBpb3BCRUJROUpSYURjMzhBdl9pTi1EUE1hV0JiQ3pkUEllTWgwUzVyaXRBNi1Zbkx3WnU0Q0ZsOHJEanpNSmdlZjVpWWc5ZXNFV3NwNDJUeWtVdWxiMmVING9scXI0STI1aVJ6UjdIRkdkWGQtLXZyOFM4SE0zazVsNkwtazJSRWQzX3Roc0doVEpDWmt3dXlZNTJDOVZqektoYkJqTVFZWnljY244dFZoNk1yUA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-03T12:27:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "TIJUANA: Padres toman secundaria 101 por grietas en seis salones; denuncian riesgo para alumnos Baja News",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "adce6a0dbabf2cb0"
  },
  {
   "titulo": "Obama y Clinton llaman a votar por los demócratas en elecciones de EU",
@@ -1834,6 +2480,20 @@
   "id": "23d9706f985ad65a"
  },
  {
+  "titulo": "Cuestionan investigación por envenenamiento de perros en Jardín Dorado; no solicitaron videos de vigilancia",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/cuestionan-investigacion-por-envenenamiento-de-perros-en-jardin-dorado-no-solicitaron-videos-de-vigilancia-32944888",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-03T08:49:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Tras el reporte de vecinos al 911, la activista señaló que policías municipales acudieron a Jardín Dorado y notificaron a la Fiscalía, que resguardó los cuerpos de los perros.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f7017a0c8e3627c1"
+ },
+ {
   "titulo": "México sigue de cerca elecciones en EE.UU. mientras negocia T-MEC",
   "liga": "https://elcongresista.mx/politica/nacional/mexico-elecciones-eeuu-t-mec",
   "medio": "El Congresista",
@@ -1862,6 +2522,20 @@
   ],
   "local": false,
   "id": "a98d5b945c78484b"
+ },
+ {
+  "titulo": "Evacúan a más de mil personas de Palacio Municipal de Tijuana tras sismo en Mexicali",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/evacuan-a-mas-de-mil-personas-de-palacio-municipal-de-tijuana-tras-sismo-en-mexicali-32945272",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-03T08:39:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "En el recinto gubernamental se sintió ligeramente el movimiento telúrico y se activó la alarma sísmica.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "fb36b7af344e5f18"
  },
  {
   "titulo": "Industrias Manufactureras de BC en profunda recesión económica",
@@ -2171,6 +2845,22 @@
   "id": "402ea56983c0f4e6"
  },
  {
+  "titulo": "Sismo de 4.7 grados sacude Mexicali: evacúan UABC y Hospital General; no hay daños confirmados",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/sismo-de-4-7-5-1-sacude-mexicali-evacuan-uabc-y-hospital-general-autoridades-confirman-cero-danos-32944377",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-03T07:56:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "El movimiento telúrico se registró la mañana de este martes en el Valle de Mexicali, provocando la evacuación inmediata como parte de los protocolos de seguridad",
+  "temas": [
+   "Salud",
+   "Educación",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "111ebf34d98248b0"
+ },
+ {
   "titulo": "Pato denuncia al alcalde por acusaciones falsas sobre tuberías",
   "liga": "https://elcongresista.mx/politica/nacional/pato-alcalde-mentiras-tuberias-avila",
   "medio": "El Congresista",
@@ -2243,6 +2933,20 @@
   ],
   "local": false,
   "id": "0ab7551182d921a0"
+ },
+ {
+  "titulo": "Tipo de cambio en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/tipo-de-cambio-en-tijuana-32944177",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-03T07:45:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Consulta aquí la compra y venta del dólar en los bancos de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "db41b141f595bc34"
  },
  {
   "titulo": "La muerte de Jesús de Miguel genera controversia sobre la información media",
@@ -2680,6 +3384,20 @@
   ],
   "local": true,
   "id": "867df0720e757bbf"
+ },
+ {
+  "titulo": "Monreal rechaza que haya crisis en la coalición con el PT y el Partido Verde",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnoyWHJEZ0pZRjh5N2gxT0ZaZThDT2dnM19HZWxzNktIT2JqS0h5VTB0RkRXZTZZZy1mYnJyVDF3TlE2THBDcGF2WGkxaHU5LVU0eFVpcEJvOHA3TmN0SzAwdWVqenlzZlY5UE01NU53a1BuT04xVXhsaHJUTWNOaV9mdDd1TTJuWnFyYzg0djlodUpxU3hjSE92LWM?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T05:28:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T13:53:55-06:00",
+  "resumen": "Monreal rechaza que haya crisis en la coalición con el PT y el Partido Verde AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dd46318fd99ba780"
  },
  {
   "titulo": "Basquet adaptado: Ensenada al play off",
