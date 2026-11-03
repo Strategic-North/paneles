@@ -1,5 +1,417 @@
 [
  {
+  "titulo": "PRI y PAN ratifican alianza en Michoacán con Alfonso Martínez",
+  "liga": "https://elcongresista.mx/politica/michoacan/pri-michoacan-alianza-alfonso-martinez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:52:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "El PRI y PAN formalizan su alianza en Michoacán con Alfonso Martínez como candidato a gobernador, buscando enfrentar a Morena.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "03713d48d468e220"
+ },
+ {
+  "titulo": "Morelia: diputados cuestionan convocatoria para fiscal de FGE",
+  "liga": "https://elcongresista.mx/politica/michoacan/convocatoria-fiscal-fge-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:51:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Diputados de Morelia cuestionan convocatoria para la fiscalía que contraviene norma establecida por la SCJN.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d1e7f553d8eb8e90"
+ },
+ {
+  "titulo": "Vinculan a proceso a hombre por disparar contra perro en Puruándiro",
+  "liga": "https://elcongresista.mx/justicia/puruandiro-vinculan-proceso-disparo-perro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:50:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Vinculan a proceso en Puruándiro a hombre por disparar a un perro, registrando lesiones requerientes de atención veterinaria.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "81b817288a3a9615"
+ },
+ {
+  "titulo": "Presentan la Copa de Karate Do Morelia 2026 con 700 competidores",
+  "liga": "https://elcongresista.mx/politica/michoacan/copa-karate-do-morelia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:50:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "La Copa de Karate Do Morelia 2026 se presentará el 7 de noviembre con 700 competidores, impulsando el desarrollo deportivo en Michoacán.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d6077872537356e2"
+ },
+ {
+  "titulo": "Sheinbaum rechaza que se llame terroristas a cárteles mexicanos",
+  "liga": "https://zetatijuana.com/2026/11/sheinbaum-rechaza-que-se-llame-terroristas-a-carteles-mexicanos/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-rechaza-que-se-llame-terroristas-a-carteles-mexicanos",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-03T12:37:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Recordó que la reforma al artículo 40 constitucional prohíbe de forma expresa cualquier injerencia extranjera en territorio mexicano",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "fc9c03d7082eacb2"
+ },
+ {
+  "titulo": "Incendio en pabellón de gimnasia de Puebla causa daños materiales",
+  "liga": "https://elcongresista.mx/politica/puebla/incendio-pabellon-olimpico-gimnasia-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:36:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Incendio en el Pabellón Olímpico de Gimnasia de Puebla provoca daños materiales sin heridos; el recinto estaba en rehabilitación.",
+  "temas": [
+   "Servicios públicos",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "255d5fa5e6f92b0a"
+ },
+ {
+  "titulo": "Florida elige gobernatura y Senado en elecciones de medio mandato",
+  "liga": "https://elcongresista.mx/politica/nacional/florida-elecciones-medio-mandato-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:34:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Florida vota en elecciones de medio mandato, eligiendo entre importantes candidatos el 3 de noviembre.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "48b152a31a9e7eb8"
+ },
+ {
+  "titulo": "San Juan del Río: más de 65 mil visitas a panteones en Día de Muertos",
+  "liga": "https://elcongresista.mx/politica/queretaro/san-juan-del-rio-visitas-panteones-dia-de-muertos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:33:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Más de 65 mil personas visitaron panteones en San Juan del Río durante el Día de Muertos, sin incidentes reportados.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "17923f5ae332d440"
+ },
+ {
+  "titulo": "Obama y Clinton instan a votar por demócratas en elecciones de EE. UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/obama-clinton-voto-democratas-elecciones-eu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:32:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Barack Obama y Bill Clinton llaman a votar por demócratas en las elecciones intermedias de EE. UU. del 3 de noviembre de 2026.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "53adcd0259bdbe7a"
+ },
+ {
+  "titulo": "Ollamani reporta 822 millones de pesos en ingresos tras Mundial 2026",
+  "liga": "https://elcongresista.mx/negocios/ollamani-ingresos-822-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:31:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Ollamani reportó 822 millones de pesos en ingresos gracias a su división de casinos, mientras el fútbol sufrió pérdidas significativas.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "8390972403b18765"
+ },
+ {
+  "titulo": "Genaro Lozano niega haber organizado fiesta en la Embajada de México en Italia",
+  "liga": "https://www.uniradioinforma.com/gobierno/genaro-lozano-niega-haber-organizado-fiesta-embajada-mexico-italia-n912234",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T12:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Claudia Sheinbaum mostró la respuesta publicada por el embajador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bc830a08969036a1"
+ },
+ {
+  "titulo": "Detienen a un hombre que agredió y amenazó con cuchillo a su pareja",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0lLSDFmeDZfWHFRZkY0Z0c2aUtVM3NPcDdnUXlMMzhyeHMzM3BIZVA5T0NhcEVxQkdBU1N3VzA3NTFoVlJzQ21Vd1FPbE16Tm5GTElscWJXV2tFZ3BmQXFtQU1Gb1FKRksyWlFXQ202QTJEdlNsR0c5bGtXWUllYktVZ282RElvRmNvMEhKVWFnZVg5U2RjMzFMZlNxSURHOXBtWFg1NnhUcXp0?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T12:28:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Detienen a un hombre que agredió y amenazó con cuchillo a su pareja AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a0d91111ea17d31c"
+ },
+ {
+  "titulo": "Obama y Clinton llaman a votar por los demócratas en elecciones de EU",
+  "liga": "https://zetatijuana.com/2026/11/obama-y-clinton-llaman-a-votar-por-los-democratas-en-elecciones-de-eu/?utm_source=rss&utm_medium=rss&utm_campaign=obama-y-clinton-llaman-a-votar-por-los-democratas-en-elecciones-de-eu",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-03T12:24:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "El editorial del diario The New York Times ubicó como competitivas contiendas en Alaska, Iowa, Kansas, Ohio y Texas",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "35f2bb42b8e7d03a"
+ },
+ {
+  "titulo": "Pemex reduce 39% emisión de dióxido de azufre de refinerías",
+  "liga": "https://elcongresista.mx/politica/nacional/pemex-reduccion-emisiones-azufre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:23:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Pemex reporta una reducción del 39% en emisiones de azufre en sus refinerías, destacando mejoras y proyectos en infraestructura.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ffa17af575fadd61"
+ },
+ {
+  "titulo": "Invertirá BC más de 15 mmdp en obras de agua y saneamiento, destaca Marina",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUlCX1YxWm1IbDVtbjI4cU1GbG5FVWtyYkZpSlhLOWFpbXREY3VnbHFnVHZETnEyM1FhZnBybTRRNEoza21WN21wVEw1d19MYmFjYTJhSFFKQ3F4Qk9INHRDMHBtdDRWc0NlZmRRSEpFaUN5Rnhvc2U4aWhMVGQtZTRqV0V1dHc4UklrN3YtUXhPSDRjV0tlWEpfWkpRSXRVQ0lDSG1laXJJa21uQ1ZRaUxYN0JPNi1DcmV6NF9oakF1UQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T12:23:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Invertirá BC más de 15 mmdp en obras de agua y saneamiento, destaca Marina AFN",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "625e65acff29ef64"
+ },
+ {
+  "titulo": "Explosión en panteón de Xilitla deja cinco heridos, tres menores",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/explosion-panteon-xilitla-slp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:22:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Una explosión en un puesto de pirotecnia en Xilitla, San Luis Potosí, dejó cinco heridos, tres de ellos menores de edad.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5891a80bc83aa265"
+ },
+ {
+  "titulo": "Organizaciones piden frenar la extinción de la vaquita marina en México",
+  "liga": "https://elcongresista.mx/politica/nacional/organizaciones-piden-frenar-extincion-vaquita-marina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:21:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Organizaciones civiles exigieron al gobierno mexicano acciones inmediatas para frenar la extinción de la vaquita marina, evitando su desaparición.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ce2f7383a96d437d"
+ },
+ {
+  "titulo": "Dejan un cuerpo envuelto en plástico y encobijado en el Corredor 2000",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjVLREZVeHB6Um11eHFYTXdFOWtxOXBCcmdKUDhiRkx1MlRHMnFDWURmVVNZQXF5dlJjc19wUXBwbHVVR1FfMlNvZ0NnQVg3RlE2MVVCMTJtR0JWY0g0c2xtaTV2dVhucEthaURQSm84V3M2aTM0bkE1S3h6cl9leURadmwzenVjRkR4ZGZndWpmV3BCNlNWTDNTZEFFMUw5NS1HQTRQWU54OHkzSzFn?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T12:20:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Dejan un cuerpo envuelto en plástico y encobijado en el Corredor 2000 AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8f2eaa67e6c92cff"
+ },
+ {
+  "titulo": "Chubascos en 13 estados de México, pronóstico de lluvias para hoy",
+  "liga": "https://elcongresista.mx/politica/nacional/pronostico-lluvias-noviembre-3",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:20:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "El SMN prevé chubascos en 13 estados de México este 3 de noviembre con acumulados de hasta 25 mm.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ca53bbb844199b2d"
+ },
+ {
+  "titulo": "Videos recientes vinculan a Guadalupe Taddei con corrupción electoral",
+  "liga": "https://elcongresista.mx/justicia/guadalupe-taddei-videos-corrupcion-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T12:15:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Los nuevos videos sobre Guadalupe Taddei reavivan la polémica por supuesta corrupción en el INE, desatando investigaciones.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "583a94c969d22c57"
+ },
+ {
+  "titulo": "ENSENADA: Retiran tubos que provocaron desbordamiento del Arroyo San Carlos",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQU5ObTFZbzkwckhHbDlPUGllQ1o3aXVWNExaVC1aUV9Ud3VSbUtNMTdadWxzWFZIOU9qYmdsOW5ZbUlNUzdoTGNJdDJvNHZfMWFqNDRlRVdkR2ttemJya3dMaHp2cENWQVdfdWpWU2dSVWJQZHlJdWJicnl5N29FQWpFYWZzTXV0cXdhbC15QmhrZEUyaHNnSks5ZnlfRjlZeDcyelJ3NFpLZjhnZC13?oc=5",
+  "medio": "Baja News",
+  "publicada": "2026-11-03T12:14:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "ENSENADA: Retiran tubos que provocaron desbordamiento del Arroyo San Carlos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2a37527bc66c5c73"
+ },
+ {
+  "titulo": "Sheinbaum respalda el regreso del ascenso y descenso en la Liga MX",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjBLUm1qd0I3blk0RWpzUE9nYW5tdlBPZHR4eGVlTE90MGtoSExrWUdtQmxDSFlMbXFUNnl1bHZYa2s2aGdjYUtpdTBQNWh0dERKV3JLNkpqTGU0N1dVcHB5bFdNTkRvUE4yb2ppaDJzWmhTSnRxS091Tkt5Z2JqMjEyRE04T19pbHJVTUdrZ1JlS1ItT2Itc2Z5MGVPMGhRVkFR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-03T12:02:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Sheinbaum respalda el regreso del ascenso y descenso en la Liga MX Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "94ac70066f27201e"
+ },
+ {
+  "titulo": "Sheinbaum anuncia programa de 12 acciones en 120 días para fortalecer al ISSSTE",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-anuncia-programa-12-acciones-120-dias-fortalecer-issste-n912231",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T12:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "28d9e652266664ee"
+ },
+ {
+  "titulo": "Papa León XIV viajará a Sudamérica sin medidas médicas adicionales",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlBxcGh4MVpsZGFCVXc3RWp6VU9zZ08xX1J4WnBfSkQyR1NmTi0ySDdaLU9zNjliQURpVGw3X0dLMy1RdERVYXVNUWt2T25zNWMtd19nYU9lOUpGWURUM2Q0ckh2NklKRHc1RHphQmxtck83RDliZ3VTLWZRQkJKUGk0STdMVXE0akczbTNpVjRSeklTaW4ydkhYNUJsVFZaZHZfVnNBcUNkZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-03T11:56:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Papa León XIV viajará a Sudamérica sin medidas médicas adicionales Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cf948bedd27d6fcf"
+ },
+ {
+  "titulo": "Carolina Rincón impulsa oportunidades para jóvenes en Santander",
+  "liga": "https://elcongresista.mx/politica/nacional/carolina-rincon-oportunidades-santander",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T11:54:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Carolina Rincón, una joven empresaria de Santander, impulsa la conexión entre jóvenes y oportunidades, promoviendo el desarrollo regional.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ab3fe956872e09ba"
+ },
+ {
+  "titulo": "Accidente en bulevar Benito Juárez deja una persona lesionada",
+  "liga": "https://elcongresista.mx/politica/sonora/accidente-bulevar-juarez-lesionados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T11:53:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Un accidente en el bulevar Benito Juárez de Hermosillo deja una persona lesionada y vehículos remolcados.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cb7572d34565b72f"
+ },
+ {
+  "titulo": "Estadounidenses votan en elecciones intermedias para renovar Congreso",
+  "liga": "https://elcongresista.mx/politica/nacional/votaciones-intermedias-estados-unidos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T11:52:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Estadounidenses votan hoy en elecciones intermedias para renovar el Congreso y elegir gobernadores, marcando un cambio político importante.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7d8a5550c1d96978"
+ },
+ {
+  "titulo": "México respetará resultados de elecciones intermedias de EU: Sheinbaum",
+  "liga": "https://jornadabc.com.mx/principales/mexico-respetara-resultados-de-elecciones-intermedias-de-eu-sheinbaum/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-03T11:52:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Sheinbaum celebró con un aplauso la posibilidad de que el candidato demócrata Xavier Becerra, hijo de migrantes mexicanos, se convierta en el próximo gobernador de California La entrada México respetará resultados de elecciones intermedias de EU: Sheinbaum se publicó primero en L",
+  "temas": [
+   "Migración",
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "9591e8d48aa77ae3"
+ },
+ {
   "titulo": "INAPAM aclara que aguinaldo solo para trabajadores mayores con empleo",
   "liga": "https://elcongresista.mx/politica/nacional/aguinaldo-inapam-2026",
   "medio": "El Congresista",
@@ -1890,6 +2302,49 @@
   "id": "626c5d3f8ec303db"
  },
  {
+  "titulo": "Toman productores de trigo instalaciones de Sader federal",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/toman-productores-de-trigo-instalaciones-de-sader-federal-rechazan-que-se-sancione-a-los-que-producen-mas-32943268",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-03T07:11:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Buscan que se les explique por qué no se refleja en las tarjetas del Bienestar los fondos correspondientes al pago por el descanso de tierras",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "fab7cb39488a8455"
+ },
+ {
+  "titulo": "Pese a cercanía del proceso electoral, Morena no apresurará elección de nueva dirigencia",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/pese-a-cercania-del-proceso-electoral-morena-no-apresurara-eleccion-de-nueva-dirigencia-32943045",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-03T07:10:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "La persona designada cubriría el periodo restante de la presidencia para la que había sido electa del Villar Casas y que concluye en 2027, explicó el presidente del Consejo Estatal de Morena en BC.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "142b3f6d493b1809"
+ },
+ {
+  "titulo": "Los Camacho comparten el sueño de un campeonato",
+  "liga": "https://oem.com.mx/lavozdelafrontera/deportes/los-camacho-comparten-el-sueno-de-un-campeonato-32943132",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-03T07:09:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Adolfo desde el cuerpo técnico y Ángel como jugador viven una temporada especial al compartir equipo en Mexicali.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5c0c283ec83c8f8c"
+ },
+ {
   "titulo": "Trabajadores del IMSS protestan hoy en CDMX exigiendo mejores salarios",
   "liga": "https://elcongresista.mx/politica/nacional/trabajadores-imss-protesta-cdmx",
   "medio": "El Congresista",
@@ -2439,6 +2894,20 @@
   ],
   "local": false,
   "id": "d9708e0bb6438e20"
+ },
+ {
+  "titulo": "Por “Mundial Social” habrá 7 canchas nuevas en Ensenada y San Quintín",
+  "liga": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UN0VVY1hqSTJ5Znc0M1YzdjgxMndRVERydUdYQUI2bklIRzZ4Z1NZSzZvdk5zUEd0R0NMc20yVWZBYllqbHUydWJWMjNpVHV3a2ZSYw?oc=5",
+  "medio": "Zona Norte",
+  "publicada": "2026-11-03T04:14:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "Por “Mundial Social” habrá 7 canchas nuevas en Ensenada y San Quintín Zona Norte Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b22c03c9b375fc46"
  },
  {
   "titulo": "Modificación a modalidad 40 del IMSS podría ser \"ilegal\", señalan",
@@ -3934,6 +4403,20 @@
   ],
   "local": false,
   "id": "5a1a7889b41bdc54"
+ },
+ {
+  "titulo": "El cielo nocturno hoy desde La Ensenada, Chile",
+  "liga": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmWjRaejdRM2dGbG91MDE5TVppQ0tUYWgtUTd6R1V3TTdHQURQQzhLRnRnOWxtYnVYRjlqSG5ZVGZjX3ZZdGlUWkFfaHJlZGl2SWVCbTZmVzI?oc=5",
+  "medio": "TheSkyLive",
+  "publicada": "2026-11-03T00:19:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T12:52:52-06:00",
+  "resumen": "El cielo nocturno hoy desde La Ensenada, Chile TheSkyLive",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "946df5b142239e91"
  },
  {
   "titulo": "Huiziltepec da la bienvenida a más de 1,500 velas en Día de Muertos",
