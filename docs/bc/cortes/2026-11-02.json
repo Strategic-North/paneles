@@ -786,6 +786,20 @@
   "id": "044b6b01fa765b06"
  },
  {
+  "titulo": "Noticias sobre xilitla",
+  "liga": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FeUxZLUJKXzRmZm94NEQzNWlNc1Q4bTk4ZW00MGstcERNU1JfbE4zWWFVRnI4MklYR3BzY2NlcjV0VVpQNFRraGZic2YtWXMxclFZblkySnI?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-02T18:20:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T21:01:30-06:00",
+  "resumen": "Noticias sobre xilitla Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c32161239436a512"
+ },
+ {
   "titulo": "La Secretaría de las Mujeres impulsa cambio en gestión de cuidados",
   "liga": "https://elcongresista.mx/justicia/secretaria-mujeres-cambio-cuidado",
   "medio": "El Congresista",
@@ -1442,6 +1456,20 @@
   "id": "d9d63afd1dfce6ae"
  },
  {
+  "titulo": "Vinculan a proceso a dos presuntos homicidas en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWERxRVRGcVV0eHpnNzlnODZlQk90QWduemtiTllRSmRydkFyWG4waXlDSkxRTjNKNnFEdXZNNjNfbHZnbXhWNFFpc09PQ1dObDlWVmdUY3FfRkNxWGFCVGV2MjRvZC04NUhtVkJjVUttTTNUOEFpM2FndWlvRFFXdU1oRDJ4Tmc?oc=5",
+  "medio": "Síntesis Tv",
+  "publicada": "2026-11-02T17:13:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T21:01:30-06:00",
+  "resumen": "Vinculan a proceso a dos presuntos homicidas en Ensenada Síntesis Tv",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "26b56e1aff56e4a6"
+ },
+ {
   "titulo": "Exigen acabar con basureros clandestinos y quemas de basura",
   "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVlsa3UtQzQ1MDg2UUlpVVVOWk1aQ2h5OFVTRTNqZGYwQmVjcTZ5UEVvMFp2T19rYlg2NUhnak0tU3dZOHpUY1BnLU5qcjNERlRqZWdnYVNrdFAzdFh5UjA1S3RTRTJzWUVSa19VcC1vbkhzT3VsNTNRTWUyY2lYLUVEMGFWZFY0aU00WFl5SzNYel9MOWtXVkRrOUpuQzBfUTVhZEtMdVJxZEhYa2Rr?oc=5",
   "medio": "AFN",
@@ -1826,6 +1854,48 @@
   "id": "725dab9e6699bd7e"
  },
  {
+  "titulo": "Noticias sobre vientos en ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8welFtMExMblNTdVV3MEI3NWU4Q1NZbHVLZlpYbnc4Q3Fzd1lsbGNvUjVZV2dYakF6M0dISTRIMkJ2dGo2TEkybGpCWlhoQ3dVc1lfX21rR2hTdkRPbFF1cldrY3NRX2tk?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-02T16:20:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T21:01:30-06:00",
+  "resumen": "Noticias sobre vientos en ensenada Baja News",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "e3d1f54e43a839f0"
+ },
+ {
+  "titulo": "Noticias sobre proteccion ambiental municipal",
+  "liga": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FZ2l6N0JGSGlPaVNsYkE3MWdfWG01Y2ppVnVQMG45SkdJckphMWtISWVZaE1na1ZIZlNFWTQ1U1JjZnlId3c3Z3YySjFLLVphcWdya0Q0UG13cHhEYklxZWd5aW9QYzZsTXZ6R0ZkckN5ZTlqSTdr?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-02T16:20:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T21:01:30-06:00",
+  "resumen": "Noticias sobre proteccion ambiental municipal Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4dfe80669f5686aa"
+ },
+ {
+  "titulo": "Noticias sobre hacienda del mar",
+  "liga": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyTm5XQ0lZRExLZUl2WjBkZFpHT0xQMG1Lai1WcHpHYnBRczJJa2FUTk9GWld1czlpUlhyUm1fTXd1N0puVVg3ZnI1WUpmeXd0cFZMRGl2ZUlodnk4ZmllMEtzNTI?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-02T16:20:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T21:01:30-06:00",
+  "resumen": "Noticias sobre hacienda del mar Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bb8ed497ad536e41"
+ },
+ {
   "titulo": "Si EU deporta a Inés Gómez Mont será detenida en cuanto pise México: FGR",
   "liga": "https://jornadabc.com.mx/principales/si-eu-deporta-a-ines-gomez-mont-sera-detenida-en-cuanto-pise-mexico-fgr/",
   "medio": "La Jornada Baja California",
@@ -2136,6 +2206,20 @@
   ],
   "local": true,
   "id": "c9154928891cfcf9"
+ },
+ {
+  "titulo": "Noticias sobre disfraces de halloween",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSEdDNkwzMm54U1VmaThSSFBxcGlrMDVvckt6Mm1rai1BNHNURXBLUUdiVTZMLWdHU0JZbExPa3dleV9nOWlxaEJ1RWpzM3cyUHNyTzg1V3pwZzRSb1pYczA2WXNpLVYxQlVlYw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-02T15:20:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T21:01:30-06:00",
+  "resumen": "Noticias sobre disfraces de halloween Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a4e17541a55396b0"
  },
  {
   "titulo": "En noviembre, invitan a aprovechar los servicios gratuitos de las caravanas de salud en Baja California",
@@ -3888,6 +3972,20 @@
   ],
   "local": true,
   "id": "29e2861abbfc7cc4"
+ },
+ {
+  "titulo": "Piden Donaciones para Familias Afectadas por Lluvias en Maneadero, Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3VOZHJaZmxkcEZDdDZOX3VxR3kyMlFpZnpLNEU5RzBVSkpXaE5tQTF3cVUwM2E0d0R0RXlhU04tQzF2d0xDUHhvUTZCdFE0MjJLZExWSy1LVy1uWnFIa3JwWUJVU3V4LU5obUc4Vl90NUdaV05IVE4ydUh1RzI4YVFzRlRhVWRvUHRqeDR5dHZkLTRhdkJlT3RLU3ljQXlTMnQyOWE0MVpuQ054WENZT1ctZzltM1NJNEpvLVpFendidw?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-02T11:36:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T21:01:30-06:00",
+  "resumen": "Piden Donaciones para Familias Afectadas por Lluvias en Maneadero, Ensenada N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "044c4d0f758614c2"
  },
  {
   "titulo": "Evacuadas, 162 personas por desbordamiento de arroyo en Ensenada",
@@ -6210,6 +6308,20 @@
   ],
   "local": true,
   "id": "8682dcb11da8b546"
+ },
+ {
+  "titulo": "Noticias sobre heidi klum halloween",
+  "liga": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSOEsxeXpFNVRxWkVWaVEteFJPcEJncUFSQlVnVzRKbllPTHZSWWxaUkdoQmtJMGI3ck52YUhENGhvLXJTdWprQ2VCai01ZEkzMjFfMVlZM0pIbjVFNzBYTEtXWVdLTkxjelE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-01T20:20:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T21:01:30-06:00",
+  "resumen": "Noticias sobre heidi klum halloween Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "19e7397ba0ef9852"
  },
  {
   "titulo": "Tijuanenses abarrotan cementerios locales en la víspera del Día de Muertos",
