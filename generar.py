@@ -10,6 +10,7 @@ import json
 import re
 import sys
 import unicodedata
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -188,12 +189,26 @@ def aparece(palabra, texto):
     return re.search(r"\b" + p + (r"\b" if len(palabra) <= 4 else ""), texto) is not None
 
 
+def secciones(liga):
+    """Partes de la ruta de la liga: muchos medios ponen la sección (/seguridad/, /deportes/)."""
+    ruta = urllib.parse.urlparse(liga).path
+    return {sin_acentos(p) for p in re.split(r"[/_.]", ruta) if p and not p.isdigit()}
+
+
 def etiquetar(nota, cfg):
     texto = sin_acentos(nota["titulo"] + " " + nota["resumen"])
-    nota["temas"] = [t for t, palabras in cfg.get("temas", {}).items()
-                     if any(aparece(p, texto) for p in palabras)] or ["Otros"]
+    temas = [t for t, palabras in cfg.get("temas", {}).items() if any(aparece(p, texto) for p in palabras)]
+    partes = secciones(nota["liga"])
+    de_seccion = {tema for seccion, tema in cfg.get("secciones", {}).items() if seccion in partes}
+    if "Deportes y espectáculos" in de_seccion:
+        temas = ["Deportes y espectáculos"]  # la sección del medio manda sobre palabras sueltas
+    else:
+        temas += [t for t in de_seccion if t not in temas]
+    nota["temas"] = temas or ["Otros"]
     lugares = [sin_acentos(l) for l in cfg.get("lugares", [])]
-    nota["local"] = nota.get("local_fijo", False) or any(l in texto for l in lugares)
+    menciona = any(l in texto for l in lugares)
+    fuera = bool(partes & set(cfg.get("secciones_no_locales", [])))
+    nota["local"] = menciona or (nota.get("local_fijo", False) and not fuera)
     nota.pop("local_fijo", None)
 
 

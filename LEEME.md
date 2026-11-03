@@ -36,5 +36,7 @@ Si quieres, lo subo yo desde aquí con `git` cuando la organización exista y te
 - **Agregar o quitar un medio:** editar `config/<estado>.json` en GitHub (botón del lápiz) y guardar. La siguiente corrida ya lo usa.
 - **Revisar una vez al mes** que la fecha de "Actualizado automáticamente" sea reciente. GitHub pausa los robots de repositorios sin actividad por 60 días; los guardados del propio robot deberían mantenerlo activo, pero conviene confirmarlo.
 - Google News devuelve como máximo 100 notas por búsqueda. Por eso conviene usar búsquedas por medio (`site:`) o por ciudad, en vez de una sola búsqueda general.
+- **Medios que el panel no puede leer** y se revisan a mano: Brújula (BC), que solo publica en Facebook mientras su sitio está en mantenimiento. El Debate (Sinaloa) bloquea lectores y entra solo por Google News. El Vigía trae fecha sin hora ("aprox.").
+- **Temas:** se asignan por palabras clave del titular y por la sección de la liga (`/seguridad/`, `/deportes/`). Se afinan en `config/<estado>.json` (`temas` y `secciones`). Con la versión del 02.11.2026, cerca del 20 % de las notas locales quedó en "Otros".
 - Las ligas de Google News pasan por `news.google.com` antes de llegar al medio. Para citar, se abre la nota y se usa la liga del medio.
 - Esto es una automatización: anotarla en el `CLAUDE.md` (qué hace, cuándo corre, dónde deja el resultado) cuando quede activa.

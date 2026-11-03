@@ -102,6 +102,20 @@
       "feed": "https://lado.mx/xmlmsg.php",
       "local": false,
       "solo_lugares": true
+    },
+    {
+      "medio": "Noticiero Altavoz",
+      "feed": "https://noticieroaltavoz.com/feed/"
+    },
+    {
+      "medio": "Punto MX",
+      "feed": "https://punto.mx/feed/"
+    },
+    {
+      "medio": "Altavoz",
+      "feed": "https://altavoz.mx/feed/",
+      "local": false,
+      "solo_lugares": true
     }
   ],
   "google_news": [
@@ -147,7 +161,68 @@
       "militar",
       "sedena",
       "cuerpo sin vida",
-      "sicari"
+      "sicari",
+      "desaparicion",
+      "aprehension",
+      "detien",
+      "agredi",
+      "agresion",
+      "arma",
+      "asalt",
+      "narco",
+      "abatid",
+      "sin vida",
+      "violad",
+      "abuso sexual"
+    ],
+    "Accidentes": [
+      "choque",
+      "chocar",
+      "choca",
+      "accidente",
+      "volcadura",
+      "vuelca",
+      "atropell",
+      "prensad",
+      "lesionados",
+      "sin frenos",
+      "se estrell",
+      "carambola"
+    ],
+    "Clima": [
+      "clima",
+      "oleaje",
+      "viento",
+      "frente frio",
+      "temperatura",
+      "calor",
+      "ola de calor",
+      "pronostico",
+      "nublado",
+      "helada",
+      "conagua"
+    ],
+    "Migración": [
+      "migrante",
+      "migracion",
+      "deportad",
+      "frontera norte",
+      "garita",
+      "inm",
+      "ice"
+    ],
+    "Cultura y tradiciones": [
+      "dia de muertos",
+      "panteon",
+      "altares",
+      "catrina",
+      "tradicion",
+      "festividad",
+      "museo",
+      "exposicion",
+      "feria",
+      "carnaval",
+      "fiestas patrias"
     ],
     "Política y partidos": [
       "morena",
@@ -203,7 +278,13 @@
       "cabildo",
       "regidor",
       "sindic",
-      "tesoreria municipal"
+      "tesoreria municipal",
+      "gobierno municipal",
+      "municipio",
+      "obra publica",
+      "gobierno de ensenada",
+      "gobierno de monterrey",
+      "dif municipal"
     ],
     "Agua": [
       "agua",
@@ -223,7 +304,11 @@
       "pavimenta",
       "transporte publico",
       "luz electrica",
-      "apagon"
+      "apagon",
+      "rehabilitacion",
+      "cierre de calle",
+      "cierre temporal",
+      "cfe"
     ],
     "Salud": [
       "salud",
@@ -239,7 +324,9 @@
       "diabetes",
       "vacuna",
       "enfermedad",
-      "pacientes"
+      "pacientes",
+      "gusano barrenador",
+      "contagio"
     ],
     "Economía y empleo": [
       "empleo",
@@ -252,7 +339,13 @@
       "precio",
       "inflacion",
       "desempleo",
-      "industria"
+      "industria",
+      "crucero",
+      "turista",
+      "hotel",
+      "exportacion",
+      "nearshoring",
+      "pib"
     ],
     "Campo y pesca": [
       "maiz",
@@ -348,5 +441,51 @@
       "musica",
       "artista"
     ]
-  }
+  },
+  "secciones": {
+    "seguridad": "Seguridad",
+    "policiaca": "Seguridad",
+    "policia": "Seguridad",
+    "911": "Seguridad",
+    "justicia": "Seguridad",
+    "nota-roja": "Seguridad",
+    "sucesos": "Seguridad",
+    "judicial": "Seguridad",
+    "politica": "Política y partidos",
+    "elecciones": "Proceso electoral",
+    "electoral": "Proceso electoral",
+    "economia": "Economía y empleo",
+    "negocios": "Economía y empleo",
+    "finanzas": "Economía y empleo",
+    "dinero": "Economía y empleo",
+    "agro": "Campo y pesca",
+    "campo": "Campo y pesca",
+    "agricultura": "Campo y pesca",
+    "salud": "Salud",
+    "educacion": "Educación",
+    "medio-ambiente": "Medio ambiente",
+    "ambiente": "Medio ambiente",
+    "deportes": "Deportes y espectáculos",
+    "espectaculos": "Deportes y espectáculos",
+    "entretenimiento": "Deportes y espectáculos",
+    "farandula": "Deportes y espectáculos",
+    "show": "Deportes y espectáculos",
+    "cine": "Deportes y espectáculos",
+    "musica": "Deportes y espectáculos",
+    "gente": "Deportes y espectáculos",
+    "celebridades": "Deportes y espectáculos",
+    "futbol": "Deportes y espectáculos",
+    "beisbol": "Deportes y espectáculos",
+    "virales": "Deportes y espectáculos"
+  },
+  "secciones_no_locales": [
+    "nacional",
+    "internacional",
+    "mundo",
+    "estados",
+    "republica",
+    "global",
+    "cdmx",
+    "usa"
+  ]
 }
