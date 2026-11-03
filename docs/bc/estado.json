@@ -1,17 +1,17 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-02T18:24-06:00",
+ "actualizado": "2026-11-02T18:33-06:00",
  "corte": "2026-11-02",
  "ventana": [
   "2026-11-01T20:00-06:00",
   "2026-11-02T20:00-06:00"
  ],
- "total": 343,
+ "total": 349,
  "fuentes": [
   {
    "fuente": "El Vigía",
-   "ok": true,
-   "notas": 30
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "fuente": "En Línea BC",
@@ -76,12 +76,12 @@
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 83
+   "notas": 100
   },
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 74
+   "notas": 71
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
