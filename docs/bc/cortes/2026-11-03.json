@@ -1,5 +1,414 @@
 [
  {
+  "titulo": "Trump denuncia fraude electoral en Alaska antes de las votaciones",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-denuncia-fraude-alaska",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:49:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Donald Trump denuncia fraude electoral en Alaska antes de la elección clave para el Senado de EE. UU., donde la demócrata María Pertola lidera.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "67f7a984fca2b38d"
+ },
+ {
+  "titulo": "Morelia promueve derechos humanos con concurso infantil de dibujo",
+  "liga": "https://elcongresista.mx/politica/michoacan/concurso-dibujo-infantil-morelia-derechos-humanos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:48:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Morelia realizará un concurso de dibujo infantil para fomentar el conocimiento de los derechos humanos entre los niños, con premios en efectivo.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8741205bc88f7b9d"
+ },
+ {
+  "titulo": "PRI cancela alianza en Morelia tras encuesta interna sobre Cortés",
+  "liga": "https://elcongresista.mx/politica/michoacan/pri-cancela-alianza-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:47:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "El PRI renuncia a la alianza con el PAN en Morelia tras encuestas internas que favorecen a sus propios candidatos.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "65f7b3ef147e502a"
+ },
+ {
+  "titulo": "PT Michoacán se desmorona; Belinda Hurtado respalda a Torres Piña",
+  "liga": "https://elcongresista.mx/politica/michoacan/pt-michoacan-desfondamiento-hurtado-torres",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:46:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Belinda Hurtado respalda a Carlos Torres Piña en el PT Michoacán, marcando un posible éxodo de liderazgos hacia Morena.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "efbe73145e917783"
+ },
+ {
+  "titulo": "Procesan a pareja por fraude inmobiliario de 4.3 mdp en Michoacán",
+  "liga": "https://elcongresista.mx/justicia/procesan-pareja-fraude-inmobiliario-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:45:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Procesan a una pareja en Michoacán por un fraude inmobiliario de 4.3 millones de pesos, afectando a un inversionista.",
+  "temas": [
+   "Economía y empleo",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "45272ceb17b95c75"
+ },
+ {
+  "titulo": "Secco criticó a Massa por oposición a reelección de intendentes",
+  "liga": "https://elcongresista.mx/politica/nacional/secco-critica-massa-reeleccion-intendentes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:35:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Mario Secco criticó fuertemente a Sergio Massa por oponerse a la reelección indefinida de intendentes en Buenos Aires.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "85c641a951079918"
+ },
+ {
+  "titulo": "Quintana Roo reporta 25 homicidios dolosos en octubre, superando cifras oficiales",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/quintana-roo-homicidios-octubre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:34:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Quintana Roo registró 25 homicidios dolosos en octubre, cifra que contrasta con los 13 reportados oficialmente por la FGE.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "88f549d327af565f"
+ },
+ {
+  "titulo": "Maquinaria agrícola: Metalfor solicita concurso de acreedores ante deudas millonarias",
+  "liga": "https://elcongresista.mx/politica/nacional/maquinaria-agricola-metalfor-concurso-acreedores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:33:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Metalfor solicita concurso de acreedores por deudas que superan mil millones de pesos y busca reestructurar su operación.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "11ef4289ba818dcc"
+ },
+ {
+  "titulo": "ISSSTE se compromete a disminuir rezago quirúrgico en 120 días",
+  "liga": "https://elcongresista.mx/salud/issste-reduccion-rezago-quirurgico-120-dias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:32:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "El ISSSTE promete reducir el rezago quirúrgico en 120 días mediante un programa que incluye la contratación de 2 mil 462 nuevos trabajadores.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "740378ca2e481d7e"
+ },
+ {
+  "titulo": "Gobierno de Asturias presenta primer reglamento para taxi y VTC",
+  "liga": "https://elcongresista.mx/vehicular/gobierno-asturias-reglamento-taxi-vtc",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:31:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Asturias presenta su primer reglamento para regular el transporte de taxi y VTC, buscando mejorar la movilidad pública en la región.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "515c49ff48444cdf"
+ },
+ {
+  "titulo": "Dan trato preferencial a Beatriz Gutiérrez Muller para lograr nacionalidad española",
+  "liga": "https://www.uniradioinforma.com/sociedad/dan-trato-preferencial-beatriz-gutierrez-muller-lograr-nacionalidad-espanola-n912207",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T10:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Recibió un trato preferente durante la tramitación de su solicitud.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b290c6b0077d436a"
+ },
+ {
+  "titulo": "Xavier Becerra lidera a Steve Hilton por 24 puntos en California",
+  "liga": "https://elcongresista.mx/politica/nacional/xavier-becerra-ventaja-steve-hilton-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:20:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Xavier Becerra lidera las encuestas con 24 puntos de ventaja sobre Steve Hilton en la elección para gobernador de California.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8179748ea7eb04ea"
+ },
+ {
+  "titulo": "PETERBLUE y Noise Mafia presentan \"Vulgar\", su nueva música de club",
+  "liga": "https://elcongresista.mx/latinoamerica/peterblue-noise-mafia-vulgar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:20:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "PETERBLUE y Noise Mafia lanzan \"Vulgar\", un álbum que fusiona ritmos latinos con electrónica, pronto disponible.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "bd8d624b61906df0"
+ },
+ {
+  "titulo": "ISSSTE concluirá obras en Naucalpan y Texcoco en 120 días",
+  "liga": "https://elcongresista.mx/salud/issste-obras-naucalpan-tezcoco-120-dias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:18:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "El ISSSTE confirmará la entrega de nuevas instalaciones en Naucalpan y Texcoco en solo 120 días para mejorar la atención médica.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "610084a7ea5b9830"
+ },
+ {
+  "titulo": "Presenta ISSSTE 12 acciones para mejorar atención médica en 120 días",
+  "liga": "https://elcongresista.mx/salud/issste-12-acciones-atencion-medica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:18:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Claudia Sheinbaum anuncia 12 acciones del ISSSTE para mejorar atención médica en 120 días, que incluyen nuevas contrataciones y rehabilitación de hospitales.",
+  "temas": [
+   "Servicios públicos",
+   "Salud"
+  ],
+  "local": false,
+  "id": "2cc9d9bb02e1bc4f"
+ },
+ {
+  "titulo": "Morena asegura que tarjetas Broxel entregadas a sus diputados son legales",
+  "liga": "https://www.uniradioinforma.com/sociedad/morena-asegura-tarjetas-broxel-entregadas-sus-diputados-son-legales-n912204",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T10:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Forman parte de las prerrogativas que se les dan a todos los grupos parlamentarios, sostienen.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "7fc59ec3276a313c"
+ },
+ {
+  "titulo": "Recortan 90 mdp al presupuesto de UMSNH, rompe relación con el Gobernador",
+  "liga": "https://elcongresista.mx/politica/michoacan/recorte-umsnh-gobernador-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:16:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "La rectora de la UMSNH, Yarabí Ávila González, rompe relación con el Gobernador tras intento de recorte de 90 mdp al presupuesto universitario.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0925e6acb918018f"
+ },
+ {
+  "titulo": "Localizan Nueva Fosa Clandestina en Miguel Alemán de Mexicali; Suman 49 Cuerpos este 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdTBKWUJKa1U3MC1TSkhjZUp6NjV2bGxSMm5WZXhNejlZZUFsakVaclRldjUyOGhlR28zYUdwdzJJVnk2bGtPcU56RGJwaW03MEI0YmgtaVp6ZHZpcXo1Mm10Nkc5XzhGS3BNdUpGQmg3R2hDMzFtY1dRUHRBa3BEQ2NuZThFX3NScjFwdjlZMHlST1loMnRnTDhxV0dOZjBHVW1CYW52U3plTFFGUDQzcXI0YklQcW1xUWhQN0FyRFhPQ2k0bHMwQ3pjQlZjYlJFXzRQbUNMaEQ4TDNYNXZqVHVEYWkwU0NM?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-03T10:15:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Localizan Nueva Fosa Clandestina en Miguel Alemán de Mexicali; Suman 49 Cuerpos este 2026 N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a056f226b44110c9"
+ },
+ {
+  "titulo": "Monterrey y América mantienen el liderato en el Apertura Femenil",
+  "liga": "https://elcongresista.mx/politica/nacional/monterrey-america-lideres-apertura-femenil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:07:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Monterrey y América comparten el liderato en el Torneo Apertura Femenil, con 34 puntos cada uno tras la jornada 13.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c632c2a941ad9caa"
+ },
+ {
+  "titulo": "Nalleli Pedraza realiza gira de trabajo en Lázaro Cárdenas",
+  "liga": "https://elcongresista.mx/politica/michoacan/nalleli-pedraza-gira-lazaro-cardenas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:06:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Nalleli Pedraza lleva a cabo una gira de trabajo en Lázaro Cárdenas, donde escucha las inquietudes de la población sobre sus necesidades.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d10fbb26d512c5ef"
+ },
+ {
+  "titulo": "Congreso de Michoacán inicia proceso para designar nuevo fiscal",
+  "liga": "https://elcongresista.mx/justicia/congreso-michoacan-designacion-fiscal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:05:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Hoy inicia el proceso de designación para el nuevo fiscal de Michoacán, una decisión clave para la justicia en la entidad.",
+  "temas": [
+   "Gobierno del estado",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "6dda14b8180505e1"
+ },
+ {
+  "titulo": "Morelia: 170 mil visitantes disfrutan el Día de Muertos en 2026",
+  "liga": "https://elcongresista.mx/politica/michoacan/morelia-dia-de-muertos-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:05:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Morelia recibe más de 170 mil turistas durante la celebración del Día de Muertos 2026, mostrando su atractivo internacional.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "26a98c65ac77e989"
+ },
+ {
+  "titulo": "Hallan cadáver en una maleta dentro de la canalización",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTk1ubVRTRXk2OGZBZHZJSnBOS2JwaTB4dHlscTJIbmJqVExoUzRIN1Y5ZXUtYS1IeWRMdnNtMmsxOW1ZeHdlVm5SdWJlMkhTcEpHU2JMcXFnMjAwMDZmU2hIV0hsekFZVGRtYkVtN2YzWjhrVVEwcy1lUmxPdnpqY2pJaGlLX2U5RFlBVmd5Q2dfRW1icXcxcTRNRQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T10:05:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Hallan cadáver en una maleta dentro de la canalización AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0a5b22124153bdab"
+ },
+ {
+  "titulo": "Joven Mexicalense Necesita Apoyo para su Recuperación Tras Trasplante de Médula Ósea",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1YzVGRzQUFCMXliRDd3T0hOY0xFUGpmMGZpR0lsN1BfZVp1NlZ6ZnB1b2dxaWJpVjdJYVctWWpLZlZaYVVxREVvdi1sdmNKU2FlVmU5LWJNQWxpV1BlN1Mya2tZU1ZxRHpJcklJcGlfZWdGdnhXY0QxcnFvX0QtMms2X3FlWV9EcGd1NXRIU3dVdnpXTVRHc0Y0Y2ozLW5uR0Z4ZDBrMUZJV3d6VWZaVUNSR1Vxajc2SWQzNnhQajhBUDF6NUJrOGRvM2t4TzA?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-03T10:04:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Joven Mexicalense Necesita Apoyo para su Recuperación Tras Trasplante de Médula Ósea N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7fe66d75c2673fcc"
+ },
+ {
+  "titulo": "Sentencian a Víctor Manuel “N” a 50 años por secuestro agravado",
+  "liga": "https://elcongresista.mx/politica/michoacan/victor-manuel-n-50-anos-secuestro-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:03:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "La FGE de Michoacán logra condena de 50 años a Víctor Manuel “N” por secuestro agravado en Morelia.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "eb0a019de453a7a2"
+ },
+ {
+  "titulo": "Atacan a policía y mujer en Mazatlán; ambos son hospitalizados",
+  "liga": "https://elcongresista.mx/politica/sinaloa/ataque-policia-mujer-mazatlan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T10:00:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Un policía municipal y una mujer fueron heridos en Mazatlán por disparos de arma de fuego en ataques separados.",
+  "temas": [
+   "Seguridad",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "506ec25bc2154ae7"
+ },
+ {
+  "titulo": "CECUT presenta tres obras de su colección editorial en la Feria del Libro de Tijuana 2026",
+  "liga": "https://elportavoznoticias.com.mx/cecut-presenta-tres-obras-de-su-coleccion-editorial-en-la-feria-del-libro-de-tijuana-2026/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-03T10:00:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "La actividad se realizó el pasado 29 de octubre en el Parque Morelos, donde las autoras compartieron con el público los procesos creativos y los temas abordados en sus respectivas obras. La... La entrada CECUT presenta tres obras de su colección editorial en la Feria del Libro de",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "8e82369db0df6e7b"
+ },
+ {
+  "titulo": "Familias buscan dignificar a más de 3 mil muertos en fosa común",
+  "liga": "https://elcongresista.mx/justicia/familias-buscan-dignificar-fosa-comun-juarez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T09:56:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "En Ciudad Juárez, más de 3 mil cuerpos no identificados marcan un clamor familiar por dignidad y justicia este Día de Muertos.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "27b298955540a2a7"
+ },
+ {
   "titulo": "Concluye evaluación al Estado mexicano sobre lavado de dinero",
   "liga": "https://jornadabc.com.mx/region/concluye-evaluacion-al-estado-mexicano-sobre-lavado-de-dinero/",
   "medio": "La Jornada Baja California",
@@ -12,6 +421,20 @@
   ],
   "local": true,
   "id": "1482d8b94c2cedd8"
+ },
+ {
+  "titulo": "Niega \"Andy\" López tener vínculos con Amilcar Olán",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXJaQUNCNDZlcGFhRFNjTlZtM0VUaGllcGtNeEF0UFJDc2N2ZkdSaUpOcW9SdWpzanV6WkVJaUdEckVTVFZZUTh4enZxXzN6eHVMdG11SmtvamhVWXdpNEUtNTE4UFZmZVZVRzV0SUROQnFjQ2ZsNFB1NjdVX29QaWRYSnhEYmdFZ1VPYlV6N3Y4WlVB?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T09:50:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Niega \"Andy\" López tener vínculos con Amilcar Olán AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "79d3800548a7fcb3"
  },
  {
   "titulo": "FMI advierte que rescatar grandes economías afectará a países pequeños",
@@ -41,6 +464,20 @@
   ],
   "local": false,
   "id": "a6bc76a6ca3c2edc"
+ },
+ {
+  "titulo": "Texas no puede apropiarse de islas del Río Bravo por decisión unilateral: Sheinbaum",
+  "liga": "https://www.uniradioinforma.com/gobierno/texas-puede-apropiarse-islas-rio-bravo-decision-unilateral-sheinbaum-n912201",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T09:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Aclaró que la delimitación territorial corresponde a la Comisión Internacional de Límites y Aguas (CILA), no a las autoridades texanas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "585896d0a5139ca8"
  },
  {
   "titulo": "Gómez Mont fue detenida por esquema de lavado de dinero de factureras, no por su ideología: Sheinbaum",
@@ -130,6 +567,20 @@
   ],
   "local": false,
   "id": "8cda4012a974cd73"
+ },
+ {
+  "titulo": "Andy López Beltrán niega vínculos con empresas de Amílcar Olán",
+  "liga": "https://www.uniradioinforma.com/sociedad/andy-lopez-beltran-niega-vinculos-empresas-amilcar-olan-n912198",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T09:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "\"Es falso que tengamos relaciones de complicidad, socios, prestanombres o que trafiquemos con influencias para beneficiarnos\", expresó.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "91fe1c924c0289e3"
  },
  {
   "titulo": "Viladecans impulsa actividades gratuitas para 200 cuidadores",
@@ -336,6 +787,34 @@
   "id": "b46194ee0f3d6868"
  },
  {
+  "titulo": "Danna se disculpa con Belinda por faltar al Beliween y le envía un peculiar regalo",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHVpT2RHTXA2UjJSdkpIUFRCd1RkOHp0YTRKQjNva1A5VE5Nc2NKc0xzaldmY3BnajZ3bzExSzdnZlFJMkU1X0s4c1hJNXFjTDVuX2w4RHBXS0lob3VyTHBxV21hRXZ0YmNZZ2Z1QURwTGg2dXNvQzVEd01ybERfNkxILXVUWXM5ZWpOb1ZrQUp5Y0dBT28tWEdGMFFjU1d1N3B0bkFTNVBMYWotLXcwUmNWcnc0Y0N6MFp0WjFLRXFxUUUz?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T09:10:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Danna se disculpa con Belinda por faltar al Beliween y le envía un peculiar regalo AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "34de326f13b45b30"
+ },
+ {
+  "titulo": "Paola Dalay confirma que está saliendo con César Romo, futbolista de la Kings League Américas",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1ZpbGVnNXhld2xuM0NZT3hzU0pEejVPVVhZSkREamZxbHYzazQtU1owNVRWa0NicDRyMHBYTzFHSlEzNGtSdFVMa0NfTFBlMmpYU3NuN0twSnRiS2FpaW8yUFBYWDhYRER2WDJRNms1aG5xUHNkUFBuWXNuTzdXRFFJdlBFYzRHS01JU01fc2drbWNHN1BZcTZxUUZjN05oQmliY1Foakd1NDJRTjUxZUlKN2pRMDVyZnRteDByVmtYemZCNjhIUXhvVlluNFhlMlE?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T09:06:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Paola Dalay confirma que está saliendo con César Romo, futbolista de la Kings League Américas AFN",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "808dd413c791227d"
+ },
+ {
   "titulo": "Al alza, nacimientos de inmigrantes: Conapo",
   "liga": "https://jornadabc.com.mx/02_secundarias/al-alza-nacimientos-de-inmigrantes-conapo/",
   "medio": "La Jornada Baja California",
@@ -348,6 +827,63 @@
   ],
   "local": true,
   "id": "577359b70af64e9d"
+ },
+ {
+  "titulo": "Cinthia Aparicio tendría romance con un empresario ganadero",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDcyUVZ6UkRFRkpDazNOSktTYjFSekdOdzdJRVFXOGhuWXJFNnZQWDhKVGZjR2d5VFBTQVBzM1FGWjgtTmoyeDZ0Q1ExLTB4dWtKamJyNkdLbm9zNFdIc3o2Qlg0Y3Z4Zjdtd0VKVE0zMmhqcFVIOTVLVGNqd0FlMHU1aUhnM29ZcmF0cXBTTXNVVGlaWndyZG9yV3BXSm9PeVlpT1F3?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T09:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Cinthia Aparicio tendría romance con un empresario ganadero AFN",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "47f9746b2422c193"
+ },
+ {
+  "titulo": "Catean Bodega del Padre de Meghan Markle en México",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdEUzeUUwMmVHMTlLOFdCN1NYendha1gxMk1jbHo1NWladW42Mm1lYXZFVlJBUDZFLUdUQlFzSDlKSjRwUVpfdWZmUzd3SzQxcjZXWXM3dks1TThsTHVNUndzenNUa0UwUmhEbE00eS1aMW02eHJIYzlJajJEblJtM0xKU1Q5ZEFtWlVVbW10NGJ1U1NxaDNiX21RVV9CemJMVnJaR0VFVTU?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-03T09:00:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Catean Bodega del Padre de Meghan Markle en México N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0ba6468a60542c54"
+ },
+ {
+  "titulo": "¿Qué está pasando con el papá de Meghan Markle? Esto sabemos de la BODEGA del suegro del príncipe Harry que es",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDdZc25iVGtLWTdBMEd5M3ZtLWpMUUxKYVIwZVNfTW9UT0xvNjhmazFuX0lNay1fSEVVdThLN3o0OGNSRGdLMjR6QVhhYmJqejRkc3gzbm1LSDVmUVpRRFRQN0dOZGtfMkhNMklrX0lnY3pyNTlWb254ZExTVEF2eUw2OTJnLWQ2QlhwZkM5ME1XektPWXBFeGpLMkY0U2xnZUlKZ3c2Z1NhUDjSAasBQVVfeXFMTlVZckVLM3VJdHBWVkw0WUFDSm5laWxfM0tVcXhNX0QwYkRQbmZ2ck0xY0dvdXVTWkR3Z0ZuSHoxZlpGRzdnVEhYcDdwaU1WX3Y3SmpMdDBGWVFpLXlRRU8xbU1ySDlUNlk2UzdoaHNaRzlmU0FDWWFvUVVfT3ladVhvWTlJWXJnLS1ZbVkyUUFHbnUxUTZYVnFxUFo2Mk5lMWxSSmplSGFDZkZr?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-03T09:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "¿Qué está pasando con el papá de Meghan Markle? Esto sabemos de la BODEGA del suegro del príncipe Harry que es Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d6528545a71fd1d4"
+ },
+ {
+  "titulo": "Jude Bellingham posa en ropa interior y enloquece a sus fans",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjQzT25rdWhoZFJiWGtUZkp5UVJKQkNzekViTXN0ZWtEQ3V3b2dya3JVYVN3UE4ya3piV2lyQXVpa1hiX1hkZDdTSmMxMW9fV1JTUFZ2MHlIdTdnbVpCTm95b3NsTTcxOFhSMVJFdUZpeW4tSWh6U0hGWWdaWGhJRlczVkpBT0xPSUpDR1RRYVp4dTVlX0tvOHhSZ3MzT1JrRjAxVmt2TQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T08:57:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Jude Bellingham posa en ropa interior y enloquece a sus fans AFN",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "6a54a138668bdc85"
  },
  {
   "titulo": "Trabajadores de módulos de atención del INE amagan con paro nacional",
@@ -520,6 +1056,34 @@
   ],
   "local": false,
   "id": "bc9bc04401ba422b"
+ },
+ {
+  "titulo": "Siguen días de muertos",
+  "liga": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01cmFySkUzTjRWeDN6dUVzZVNhUjU0YnN1RGVkT2hqZlQ3b2lULWJRLWxyNHBhU3BUdTZwaE1rVzYtTGJJQnZTMVBoSWhacmRFWGFNWVVGejIyM3ozWThsWEhqM0ZTa29JN0l4b25iOA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T08:35:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Siguen días de muertos AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3ce3115c2531ff0e"
+ },
+ {
+  "titulo": "Aclaración",
+  "liga": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWjdVRGV0OEZRX0JyeTFlZUttSHVNZWRRb2UxQVZqZWRwRERfQW5ObmVraHFwc2dMOER6cUhKUkViekthajRIZUlmQkwtbENOdzQwYlVvaTN2R2tWV2pF?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-03T08:35:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Aclaración AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "69ee64da75ffe043"
  },
  {
   "titulo": "Localizan cadáver de hombre con impactos de bala en Jacona-Los Reyes",
@@ -977,6 +1541,20 @@
   "id": "31795fc6c55c73b4"
  },
  {
+  "titulo": "Rescatan a familias aisladas por lluvias · El Vigía",
+  "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVpSVUdxakJ2NnJDQWNyZ3k5NVRNcU9Fak9vUXpLaEY5aHZ3VFhKODFDODZPbDJuWEREX0xEWG1yeTU0MVEtUnlDOEZOQ25RU2E3RHc4VUgxbFRvb1kxdEtMeGw0a1hNQTQxMUR1R2hPREdwOGhtcTcwUHpNXzNUTmRpYTBMNms?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T06:57:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Rescatan a familias aisladas por lluvias · El Vigía El Vigía",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "9a20f2fbabe81c10"
+ },
+ {
   "titulo": "Banco Central de Argentina afirma que más pesos generarán inflación",
   "liga": "https://elcongresista.mx/politica/nacional/banco-central-argentina-emision-inflacion",
   "medio": "El Congresista",
@@ -1199,6 +1777,20 @@
   "id": "ee22ab7558c8416b"
  },
  {
+  "titulo": "No es broma. Carl's Jr. REMATA hamburguesas a PRECIO especial. Ésta es la PROMO disponible HOY 13 de octubre | Paquetes",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3EyWTBkMmNSRWZ4T0lOTGg1NDZuelhwZGpGUUlHXzdGOEhJRkV2UnVtRUFnTzJ5NzNyWGZUMlFpTWlseE1qeHRyMGZtQ0FlcmNEMHB2R2RCczRra0Y1Q3NhdklNa2R4TTIxa1Uwcl9jTzNXTjk0NGNyeVZpZUNneVA2VF9HZnljdG9tTdIBjAFBVV95cUxNd1Vla210TWIySlJtTkVtUjQwUVJuZkxMM0lQS3lRRE14VXFjb3FjN0VhQTdvazNkQnBiQTNHdUprOU03R08wdVUteXd6NXZYMTJjWmh3d1loa2N4U3FsLTRYQ2Z0RG5Tbkhtc2JtOVI0QmtXTzNweWx0SXdsOFpHX0xtSWIxdGM1MGtkNQ?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-03T05:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "No es broma. Carl's Jr. REMATA hamburguesas a PRECIO especial. Ésta es la PROMO disponible HOY 13 de octubre | Paquetes Milenio",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "c0c0e2230f331353"
+ },
+ {
   "titulo": "Ensenada por la inclusión",
   "liga": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HcDlMVm1DTC0wc3YyN09CdXdyZFZHMWFwTTZ0ek9yRS1rdXd3SUgweWM4MzhRcHhKR2R5MXRTUTBoWjR5WDlCWnR6OTIyV3hIZ0J4UDRBVDBrenRUN3pQRHRlenBKVVF2Y29nU2VWc2xKTVRMeFhZ?oc=5",
   "medio": "Fuerte Barragán",
@@ -1225,6 +1817,34 @@
   ],
   "local": true,
   "id": "7c77b240dc05e2ac"
+ },
+ {
+  "titulo": "Academia de Policía de Mexicali no ejercerá los 50 millones de pesos este año: Tesorero",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/academia-de-policia-de-mexicali-no-ejercera-los-50-millones-de-pesos-este-ano-tesorero-32941065",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-03T05:24:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Existen dos alternativas para la bolsa presupuestal; reasignarla a otro proyecto de seguridad pública o mantenerla como recurso no ejercido",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a3dc3ee7b7d833fd"
+ },
+ {
+  "titulo": "Inicia martes con cielo despejado; se nublará por la tarde",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/inicia-martes-con-cielo-despejado-se-nublara-por-la-tarde-32941091",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-03T05:21:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Se espera una temperatura máxima de 24° centígrados en la ciudad",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "87da4639565efe21"
  },
  {
   "titulo": "Bomberos de Ensenada y la UNLP: capacitación sobre emergencias climáticas",
@@ -2618,6 +3238,34 @@
   ],
   "local": false,
   "id": "ae8afd1a6d609b46"
+ },
+ {
+  "titulo": "Deja tiroteo varios muertos y heridos",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN19BX1lnc0lmSTlnVE1sS0Y1ZVVXQlNTWWE2a2JxQ01TdU9JLWctOXN4d2dUdWhaVEVGeTB0dUlPN3FOeENlTjFwS25udHRhMWlEd3MtWElTM3MzN3JCbWlzWHJLbHBzY0xtNE1LenNEQ19JRE5hbU1RUmZuRDdHVVFXdjM5TXpYczZEblZRbVlfVzhxWncw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Deja tiroteo varios muertos y heridos El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fdda5c386adc8fad"
+ },
+ {
+  "titulo": "Recalca Ucrania que Rusia cumplió alto al fuego humanitario",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTd6dTF1WGNfSzNoVlN5bUtMUFVKS2M4eE85c2hKTkxZN3ZYMTVxYzlPWkxfRFdyN1ZEV1VNXzNnUzE2dHZ5Uk5EMjlxeU01bzYtVEhDYWZuVHhCRWtrRDZlTDZvTjhoQXNnZm1rQW16Vm9QQ2JpeE1yQi1ZR29xUkFqcHVkSWdCT2c4SFg5VU9FeHFGZlRlR0V6MS03dWI3c0hGRHpMeUZEbUY1WWpWdW4wVng?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T10:57:22-06:00",
+  "resumen": "Recalca Ucrania que Rusia cumplió alto al fuego humanitario El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ef05d90ae3069881"
  },
  {
   "titulo": "Actividades de la International Sherry Week en Jerez incluyen catas y gastronomía",
