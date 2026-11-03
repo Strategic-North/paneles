@@ -1,5 +1,849 @@
 [
  {
+  "titulo": "Gobierno de Yucatán entrega becas de $3,000 a 1,680 estudiantes",
+  "liga": "https://elcongresista.mx/politica/yucatan/gobierno-yucatan-becas-estudiantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T02:20:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "El gobierno de Yucatán apoya a 1,680 estudiantes de universidades públicas con becas para evitar la deserción escolar.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f494bc01b3c4fbc9"
+ },
+ {
+  "titulo": "Hoy entra en vigor restricción de celulares en escuelas de México",
+  "liga": "https://elcongresista.mx/educacion/restriccion-celulares-escuelas-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T02:17:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Hoy se regula el uso de celulares en escuelas de México, con el fin de fomentar un mejor desarrollo cognitivo entre los estudiantes.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "12990155c31e76bb"
+ },
+ {
+  "titulo": "Tetela del Volcán celebra la Huehuenchada en honor a sus difuntos",
+  "liga": "https://elcongresista.mx/morelos/tetela-del-volcan-huehuenchada-dia-de-muertos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T02:16:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "La comunidad de San Jerónimo celebró la Huehuenchada en Tetela del Volcán, una tradición del Día de Muertos que honra a los difuntos.",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "9eb3571680d47151"
+ },
+ {
+  "titulo": "RECONSIDERAN BALNEARIO EN TERMINAL DE CRUCEROS",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbG1YYUhDb0lodW5OclhyOVI5eHZHc2g5QzdFRGlnZk4zRVpLeFoxT2ZpS28tVGxBaE1YX2tJcVpxNEdmem9aQ1g2YV9SdDJXcWlIeXV4VEplVzdOZkhaNkVLYVY4LUdQS3pNVk5OcGRBMGNLbUdlaEdmZWRxWkhzMkNSX3pma2dlanNCRkFkWjJwbXBvb3lSSDNadFNYWnRyc1E?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "RECONSIDERAN BALNEARIO EN TERMINAL DE CRUCEROS El Vigía",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "10f39912d17a3905"
+ },
+ {
+  "titulo": "Zorros impone su ley ante Sharks en OEFA",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWm50aVhtaFp4MFN4MC1MbGFIb0JsODE1amh1dHdocnZHVXp2dGNENUhFdHpXd1kxd09aeXcwd2REVVNDN05TNk45a0NaME93SWtoeGRtMkNtTEZWREVDVWhhQ2hPb1ZKaEJkT2p4RjBGQnliYjRDOWN6OTZEUm1vMXA5ekMyVEt1U2VHa0Z5eDZSc3RyeW9tdnZGZw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Zorros impone su ley ante Sharks en OEFA El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3db604f57a31211d"
+ },
+ {
+  "titulo": "Rescatan a familias aisladas por lluvias",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWlFbHRfV1BsTzRod19SMzIwMXhNYVU2YXpqR1RIRm5KaEtKTGJPanNQTXY3LTRwaWZmQ0o4ZG9JVFpsQW94SFh4ZUFwWnFxRk5odnphRC1aVkYtN2hzYjJlRl9BT255anpJdUhhM2JOVU1paW05YkVESmdBUG9KQ1BjU2w1elR6LTJOcVY4aXcya0J0Rm1HaXR3?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Rescatan a familias aisladas por lluvias El Vigía",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "b0436c9940f19556"
+ },
+ {
+  "titulo": "Exigen denunciar a Indivi y Conagua",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmgtZmpQem40aDlfYXpPVEFhZkEtUm1oMzVTXzR2WEVzenIwTTkzcTBkdmhPWVN6QlJhbmZ5QVRjVU1QZ0hXT3hKZHkyMGdSUTZ4V1dONWlLbHhNUFlhcV80TzhROGFFckpDTDVVLTFfOG9SQXFlWGZXckxuUjdPOG43WDlBSFNsYm4zeXpNNHRVUTA?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Exigen denunciar a Indivi y Conagua El Vigía",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "9742567f15a7286c"
+ },
+ {
+  "titulo": "Tiene Ampudia un “nuevo socio”",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWFoSWRVVXVXUGpucHlpaU5Fb2lfRlVyb1lHS2NNc3BpcE93SXctTUtZNHlzTVR3MmlNZE40U0pRWUFoN1kwMElUWW5RWlhMclo0Ql9lNHlQQzV1dWJyOVA2Szg2dGRXNTQ0OTJiX05tenZuVDQ4VnVyM3lJZDZnMUE3OGVPWkJqbDFz?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Tiene Ampudia un “nuevo socio” El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1b270130d089f3a9"
+ },
+ {
+  "titulo": "Saldo blanco por Día de Muertos",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemNZWlNJSnExWTNlcHA0OWlNSnVfc2hwMEV3NWFSVXkyYmdCTVo0RGlwMGVKNkpIZjgxWUNHOVg5TzkzRWp4cmlPTmNJamN3VVg2eWN0a3ZTS0ZTMXZXekc1UHFtQUN6OVQtTnZYRzI4YXpKck9oeW05SExDUkNwa2ZhdEJ0SlFodUdPdURwbw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Saldo blanco por Día de Muertos El Vigía",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "bfab77376b58edff"
+ },
+ {
+  "titulo": "Invitan a charla sobre la yuca de chaparral",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1dNZUN4VTdkVTZ5STNWMXE0NWVLZDFfNWhaV2dUZzZjbFd0aE5yMEhaaXpMRHlzR3Y0YlhaRGljeE5CbW1ucWFhSTk2S2lMZUJVYktnTmtNN2J2NUhHb3N2QnZoc3Y4RG1LZWV4M2tZNkV0blZ5ZnAyUF94ZlBVQmpKMlNnc1dyOEhXNmVfWktqX0J3NzlHalZuZ1pfQQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Invitan a charla sobre la yuca de chaparral El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "28061bc86fe02285"
+ },
+ {
+  "titulo": "Tienen en San Quintín 160 casas de “Airbnb”",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQW03cm9lRnphUmFUVndSMzNISmxXcWc2Mm12eEJ2bjF4aHhFS0xMUmVwUTdkYXQyRWZtbzdSajVLcmgzbkJpOU8xclA2QWJfNjVUZzRLQ1Zpa3M3eUFvZHUwOVZrZ2tzNWd0dXZ6eUdzZjh4WWI4WjJLbkkybjZoNWRGczBBZ19zU21CRHpEbEw4XzBzdWxsZDE2Q2Q?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Tienen en San Quintín 160 casas de “Airbnb” El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ee840282df5df940"
+ },
+ {
+  "titulo": "Multan a tres bares por ignorar alerta",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHZfcU5HZVk0X3Q0MlhmWGdqaXA5OGFKWXJRR2l5ZXJadXNoWjBKdWZUai1FRGZNYkdWMi1RX0VKamlrYjZuVW9tbjJUWnotR0w0X1A4TGFPdkREQUFZRG1LZUVYSlZGRzlBVFdtalhOLXFSSDFIdFFsclZRNDFDYjU4ZnZZVkhtaGRGM2haeTQ4Vnp5RjVV?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Multan a tres bares por ignorar alerta El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c8eab8bf2c47bdae"
+ },
+ {
+  "titulo": "Suspenden partidos por malas condiciones del gimnasio de VG",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjhrQ3ZfVVpBZ0xPUjk5Sk1JVGtOTndGSzR5dzlCTE43YlhXLUtaU2ltY1hMOFpvcERDZmNFMzNjTndzN2dIRjU1MEtwWFQxX3hTNkt5UzdLaWhia2tzQ3U1cG1zWlBIal92N182bDFSTHUtM2ljM1FEUUFWXzhwLVl4RWxfeV9XRWZfUjVPdExteTlmQWtmcngzUEFVVVJJSlIyQ1ZnanlDc1lrRUR6WUFsUjc?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Suspenden partidos por malas condiciones del gimnasio de VG El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "67dad26457a42f55"
+ },
+ {
+  "titulo": "Encuentro de Catrinas",
+  "liga": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRHBjY1pPWVVueC02MGN2OVhKd1dtdmdFMU1LcVdaRzBhOHloRVMwUUtCdThXNXFJc3Vpd0pxTVJRbWdmbVB6ZjZFcG1ERTIwdU0wWjhvZ096emt5M3M3ZHVrTzRVRFFCc1B0dkJ2TFBTbmx3a28yVzdFVmM?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Encuentro de Catrinas El Vigía",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "17a2e285dcf473ab"
+ },
+ {
+  "titulo": "Persiste trabajo infantil en ocupaciones no permitidas",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUpNNGVMQ3BtTzBjTlllMEVDeERQWDVfRjZGclE4c3NLMzg2MUlIdkZIdDFXYnlkS3NkLUhKS3BzMFljdEVNN3JLVnFGNTJPVWJEcHVubFFlLUlsVVNPTDJzRGZCZzNobWFzMGhqNVlJSGRWbVlJV1V1N1Z2ZFBsSTNNaGhZOXQ4NjdhWXhVNERGLWNnTXYwOWZXdGZ0dERLSjR0Y0V0UmRqbDJJ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Persiste trabajo infantil en ocupaciones no permitidas El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a7494bdf4c4d10a2"
+ },
+ {
+  "titulo": "Brilla Román para México en Mundial de Lucha 2026",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2tvV0VmLVdaZUY5eEliVndnczlkck00emJuX2taZDdUcjNxUWtqWm1VT3ZUUDRzbTdZNGwwODdvV185aXF0QnRYZ1J3YkpCRnYxcFpNbkF3eGpYMndsOTk0M3RrcHlMWTBkU3BWcGJLSjVaMXk0VmhaOGdFb0hVVkpRRDJSaDFxS05qX3pQVnRGR1NzMG1RMEo4ekstcXNReHB1U09FSQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Brilla Román para México en Mundial de Lucha 2026 El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f343bbc45150a14f"
+ },
+ {
+  "titulo": "Osos vencen a Seattle y ligan tres victorias",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVNxWlJub1pIVk1qYU12LVFhcG5fYlNxekhkdjNRejluQlRJUnhtNzFEaDJEcWIxYmtMZUMyOU5WSnZsNnJpall1LTlTNGt2TnV3WF9uUkpfZEtwQkExM2x4OXh5UVFHY08xSHF2UldWUVVkMFhGcG9wTGEzeV9KYjloS1hqU1NjVUEwcm9IeFltMXNjV1dlSU1XdFdEbnpK?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Osos vencen a Seattle y ligan tres victorias El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "863eb23db8dcfd2a"
+ },
+ {
+  "titulo": "Invitan a convocatoria de Becas Deportivas 2026",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHhMVlpnX01qV09CanNfaWx4NGpOSHk0czR6Q01qNnlsRXQ3YTVTdzN5UEVQUWt6S2NyWXZIaW1IcGlhQWFRZWRqMjR0UDR5SVpZZ3NuOUZmYU44dlhvY1d3R3F6a25zMmlLMUdtNGpPcFdiOXZDLVV6UXRlcFBqMjBaYzR5X2hFTGJMckxDZHpzMmR4WEFFdmV6TDhHcnFLVmZTRw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Invitan a convocatoria de Becas Deportivas 2026 El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b29bb89c0edacc48"
+ },
+ {
+  "titulo": "Brindan taller sobre “Amar sin miedo”",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0FUWTQzbEpaUktMTlhuTXdoeGFvb29PU21za1ZYdHEzS0N1LWZSXzgzekctZjY3aXBleGVpdVd2UEFWdnlKdE1hVm5jRU5ta25RZm5oc05lWndxMWpYNVdvdFN3ckswTnJES0tsd0hFYWdWeVUwTU92dnd2c2s0V3FTeklVN0lsUFE4Zk01Vks5YmdH?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Brindan taller sobre “Amar sin miedo” El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d0007174a29e3fb0"
+ },
+ {
+  "titulo": "Aprehenden a un par acusados por homicidio",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEhYNkJ0Y1FkMmV1U0RodEV5aDdJbXgxMWpVTW1HMnVwM3F5SHZvQ2t3QWJxU1QyZXJ1Nlo5QmpDR1FTMVVHWHpYTExpWXRWLWFDdmpaSXF3cmZrcE9RLXJCY0otemplU2gwdjFSbVdjd0lRQVpITC1Eb1FtYUJyRmhEeHhEVmRJcXRkejlFbjV4b0ZMTVVr?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Aprehenden a un par acusados por homicidio El Vigía",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "8a6e90c4216b1417"
+ },
+ {
+  "titulo": "Aprenden herramientas para crecer",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFdmMGdXVnNHLVhkT3VmcWs4X25qc21OSF8wQWRQaVd6cHN0clZrN3pXbkpDWkxTdnI1NUs2SlIwVFpUTjNWRmJWc3VDVzdIMTgxdVQyVkd6VXpJWTM0RS1meURseThhT09nalpCbG42ajdNNWktc3ZiSl9sUlN0U0tPN2ZfTmZ2cEtoMA?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Aprenden herramientas para crecer El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f676fb009e747061"
+ },
+ {
+  "titulo": "Brotan más aguas negras, ahora en Los Encinos y Zapata",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWhrZ2ttUjV4TER4eXljb2gzbGdRdmRCbzVETGM4c2VwTFJvZW93blV3TnByQ1V5M2FybEU4TlRjWXM2ZFpWOUo4M0NGaDRCYUpHNFBnU3FZdS1TOTlLbWJOY2poY1dWTEo1RWNJSzVrNXpaOS1ZVFdSUmFBT2JfbldYNnpPTVJualpMMGJXQlFNYlNhWkl4STZUbVR5QV91NzQ2OGZtT3ppRE0?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Brotan más aguas negras, ahora en Los Encinos y Zapata El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "608eef7b0062de14"
+ },
+ {
+  "titulo": "Empeora cruce de Ámbar y Reforma",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHhvQl9ERTRDX1E5NldFQnFpN1l0ZUwtNmJzdzd3ZjIySTRHWlo0ZVlkWUtYb1R1R2M2TXFUZ0txVnNJam9JSWsxdldkRk5CZ2pCbk5ObUZhT2kzZWhSd0R0MnROSU5tOE1BaUUyeXc4UGtNbTBDeEVHYk1XaDRwMUhvSmxLeVZ1andkUWthaw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Empeora cruce de Ámbar y Reforma El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8742aac471706626"
+ },
+ {
+  "titulo": "Vuelan gimnastas de BC a Juegos de la Juventud",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRmc5UkJGcUJyMzk2NERmQ0k5b3pYX0czZkNkaHJaRi01RUJCVERycU5EVFpUTF9aSVNaSnpwbVF3angyVkZaM0prVGo0YWhQanp2bTh6VDZTME9vNGtQenlaeVl6ZEpmNl8wNHhRRzBxTXdDamlPNkdpbjhhUzN6ZVktX2tPUVJMc0pRclhqdzA3a0U2YTFjNjdoMU9IbURMbUZF?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Vuelan gimnastas de BC a Juegos de la Juventud El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b774e2573e55b996"
+ },
+ {
+  "titulo": "Rescatan a familia y la trasladan a refugio",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcF9vWWM0dW9VZDE2NDd1TGxDenR1M0lTUkJHRk1jWHAyelRpd0hfUHlZNy14S01lMm1RZ3B4XzZoZEt4SERCSE5RU3ZHUUh6MjFxM1ZOZDV4Qmc1SXI3S3RReUlvdGJuQ1NHRWVnRUgzMS1pRDlKamxfTGV4SjlMS09YSTViRUZjOVJpQ1ZhU3F4d2t4Y2huc3FiMWloSkE?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Rescatan a familia y la trasladan a refugio El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4000cecad164a56b"
+ },
+ {
+  "titulo": "Reevalúa PC zonas de riesgo",
+  "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekY0dkFVMU9aNWR0aElTZzBLNVp2SkNXcWgxUndXaVZzdGc2QjRvVnd1aTFORkNrMWo2UkREbEp1MTV4UlhTenBrdENzUHdiaHM5ZUg4WTVHTDczdWQ2QjZjOTFBa3dlb2tiV3Z5QnNsRWtVMEl2cExzYzJxdVVSUC1QNTNEeFFq?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Reevalúa PC zonas de riesgo El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "53142c5c22e97117"
+ },
+ {
+  "titulo": "Organizan un congreso por día de discapacidad",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWxRMmJ0ZlhVejFCX3RwTEMtNUxQd210NGhMcEgyclRfSGFPT0pvdXpWRFRGWnpZN001dW5KUVo2aGlOb0kzYWZPMVhWUjhHVFVEOThTT1BsUDdlaHZKQkEydGZXaHdrRjhWVFJmaEVKbk84b2dMb25VX0Q4V3Q4bUVOdnZYbkx5OUpmMEdSZjlINGlTTkpDb1ZZVmFFdzVq?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Organizan un congreso por día de discapacidad El Vigía",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "3727d5767e16ec4a"
+ },
+ {
+  "titulo": "Afectan las lluvias colonias en Camalú",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOajF6NHppVXdDNTk2NjJTSTVsRXRyb2hSSFQtM3h2ZHBJdC0yRkpUbENWWWlmd29zMmlSNHZIeFEzVWZVZkJTZ2pOMzJGTk83aTVOeUNPaURidFZyR1RmcEFIWmdsbllqdGtkTHo4UDYyUmdycVRsRnQxLVpNYkg0ckh3dUhLVWxHbkJSXzhuT2JOR0MwUUFIbQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Afectan las lluvias colonias en Camalú El Vigía",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "2cf1a6f605c3b244"
+ },
+ {
+  "titulo": "Pelicans terminan con invicto de los Grizzlies",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVE3a1E0LTlnenVoQ2tZYlFrT2VUSkktdXNjeENFUnhNTmJqMk1nVnp6ZVB2WWtEdF9hY1Vqa21vNkxEcVpWWkdBQmpBZlM2eXlUdTJrZ2Q0RWU1RktkVGJjLVRNMkpBOEdGMW53c0R0MmRGUHNsUmt6V0Z6Y2Y1LUxoQWc0cnk3NVlITFJQR2VqRE9UaTRZVkhHQTRDZjUzSEtV?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Pelicans terminan con invicto de los Grizzlies El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d4b3842f0807df14"
+ },
+ {
+  "titulo": "Taquería “El Perico” está en primer lugar",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHJHZUl2ZVhSUFZJT3VUMVNiV01ld1BTQ2NJdkRxMURkWnhuN3JON0xjeHFoNkU5V3llcl9MbFMzQkNnYWJBWWFzV2hkLThVeTAzM3lVNS1reWtxOTVoOFZYZUNlb0RBS1JQcEc3dU9xQTQ4SkdGNGdrMnF0RnVJeGJwdGltN0ljLXQxczFiV21ETGFqdlp4VC1R?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Taquería “El Perico” está en primer lugar El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0920c590f09daa83"
+ },
+ {
+  "titulo": "Caminata en rosa",
+  "liga": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lWEVGMm5mRHpEakZWanJHTkFSZDFlMjNiWDFFN1RBUnZ2Znk0QWE3UWpqdE13Vk5jZGV4S1V1T3BOZ3R3RXR6NnRlLTgtSVhRLTNjeU5JSUlIcGg5QmRaWjBVT3dwajRvVF9BMnRjSjJNNFNLVGc?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Caminata en rosa El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "02ca1aa104034413"
+ },
+ {
+  "titulo": "Violento domingo; balean a un hombre",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSC05M0JDX0xKSlgzNXVraF95QWp5NXBBZjFaU1BfT3dJckJyTnU3ekVYaFBVM2FucXI0R0F2aF81dUp1cU5EZkxScER6SXM2VXNYYUpULVk2RjIxODk0dDZFZmJZTE5pT0I4T3E0WThmTGd5WDJSWVNQaVNzeG9Hc19kWWFhUk1uSFZYMkhR?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Violento domingo; balean a un hombre El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dd98c2de679152c0"
+ },
+ {
+  "titulo": "Retiran vado debido a las inundaciones en El Salitral",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR3pCYnRLSHgtVVVvYmdOWkg3MUpRY2JkWGp5eXU3amVzelEzQTJxb1hHR1ljNmZQYVUzd3doUWpwaE9SSXJ0NWo2Y0loZ1FENnc1cWQxM2gyeUd1Y0pGc0FlZkppUHJINUtVX3hJcTM5b3E4clVkYUxqbDVfVGF5TXJCQmNGMkd4VkhHWF9HWFFWUkVsbm9ETU83Z1Y1ZXhXRW0xdzMtZmpQVk0?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Retiran vado debido a las inundaciones en El Salitral El Vigía",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "716cdbab0fa8db22"
+ },
+ {
+  "titulo": "Vuelve a regarse pedregal, acusan a una inmobiliaria",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjVKQWJVTk8xd2NhbWlxcUhwTE1rckxiNV9MY1UxM3pMMW1rbmNpUmNQQldyNzZsaElhMDJMc2w3YmVpdTYwVGhqN2k4ejVtQUt6ajY0bXhSNnVOaGNINXljaE0xM1lvOWoxSGJhaGhvamxvdFhFelEyM1YxeWpCN2d5T2VMQ3BxR2ROYnhTdVY4VzZvUmxVZURMTkJ5S1pOVVZfeVg5WTY?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Vuelve a regarse pedregal, acusan a una inmobiliaria El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ebccf59a2a23c26b"
+ },
+ {
+  "titulo": "Vibrará el sur con la Baja 1000",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEpHVVd3VVdpdDBDSDVrbF94WW1fVDQ4aHhjNTQzWkJqQ3BKZExVT21NTEdMeVVtZmJfdE1DejEwOEtwQmV3Y2wtei1ZVFN1SVVtbXNWR1VYVGhDRF9fSW0yT0ZTY0FCWER2dmFTSTJSWmdQeW4tXzMyYWl6SWlGazRUaTQ3NmIyWHhid05CTQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Vibrará el sur con la Baja 1000 El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "116983ffbff55355"
+ },
+ {
+  "titulo": "Lila Downs dedica show a los íconos musicales",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzZSdFVaQm5EYnZQcnV2WWNaVlJ3VEVlRXdPVnYtUmU4X0YxSUNrOXlEbXNucVdwSzliTXdrdlBkM09pWXN4WlBzRmhSMlp4dE90b3poS0llRm5OZFUxWEZnNjNlVndJOWgyMUxCRHlNS1VqMWJESjZmaEdXUjRvRmQyLUJlODlHc0NhSVQ2cEVOdmx6RE94QldlYXVXUWdXMk1NUk9OYw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Lila Downs dedica show a los íconos musicales El Vigía",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "3067ea62366590c1"
+ },
+ {
+  "titulo": "Negocia Ben Wang para ser Iceman en “X-Men”",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVI0VXFhSklROENsa1ZTd3l4R2pscGlkZkFTb1pBSnZLUXZGNW8zdEVLeWxKLUNzcHgwMmNsQWtmZkdqMWhmZ1JyOG1BOVpWZ1hfdnZxaVhGNk9hSVJTX1RaRVpVd3BkelYwbF90V2g0RVp3ZGRhcnJXZHdvUGdoamhibE9CVklKSjBTYkRZT2FPNkgtRW5XSEFHMFNJR2ptUUE?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Negocia Ben Wang para ser Iceman en “X-Men” El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f0d6a2aabbe2aa0b"
+ },
+ {
+  "titulo": "Avanza BC con inversión de abastecimiento de agua",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlIwMzl0U0lWcUx4ay1tMUpzeDdKb1RJb0daYTJoVC1yTEpZOV9pTi00NXlHelVsWmJySl9WeHNlUlNJQTM5bmo1RjF3TVN3SUJfRHpBOGloc0Q3bDU3dlNiVmlhQmVacXFkMzhlbmVSdHpnOHpPWVJ6UjFETVJEQVpNT0QtNG5OcTNOanhIbVlWaFJUY2docWV4Zjk3QXE3ZmMxOW1B?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Avanza BC con inversión de abastecimiento de agua El Vigía",
+  "temas": [
+   "Agua",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "f0a43cf4cddf2b83"
+ },
+ {
+  "titulo": "Brindan 401 atenciones para perros y gatos",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkVmd0I2Y0ttQl91Q1ZPN0VPMDNHeWJ2RlhtRkM1ZkxrU3pBYUQ0bWthbFZRNFJWS2F5a3A0a3RIMEtrbmoydXB2NDlNUlNfZllvSEhBUEJ5NEN5cjNjQmNYNEwwTHE2UlltbnpfMW1pZGkwZllvVllvLUFzTUVhWFo1M3ZJdFBJbzNXekNtY1hlMEdfTnhzRnNJTnk?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Brindan 401 atenciones para perros y gatos El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5a8214367b6283fe"
+ },
+ {
+  "titulo": "José Eduardo Derbez anuncia separación",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2MyUnVpcXExWVdyTmtESFRXNTF6Sm9oRWs5bUtoRzdWMkRVaFNPVFFRUGVXa1VnMFZaZkxYN3lDRWdQa1k1WFIyRl9VdHNUaVlUX1hldmFIcVhSTzNydTVHdmtNSWxxNUhpc3pVeFV4UHRPT3BRTjR1aDNNQTh3NzBHSUJsSHR5Y3RoeGZtNEliZ2FLaDVfYVRBclMtUQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "José Eduardo Derbez anuncia separación El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1f4c878ec47d88d1"
+ },
+ {
+  "titulo": "Historias Legendarias 8",
+  "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmlRSWJlTktuMU56SUwtR3BfVE04WC00OHpuSVVJMksxeS1ZTExNX3B6NE1KTElnMTdLVnA3ZTh0ZF9IcHFGZ0VKcWtaLTZQM21GcGtLOGY5NGtOaFN5Qk9MSjFkR2NZeUFuUWJYRzNpUE5MOGpjaHFZVjVwQ2pwRU9LWkE?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Historias Legendarias 8 El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0c2e411663dca423"
+ },
+ {
+  "titulo": "Trío de lujo",
+  "liga": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jQkNHMGdjbXh2STRPVzl0MGdqVEVMbmJTVTJkVEV1REMzOUlTeTR1MER3NEpNTlg4aWgxQTRjcGNXUVMtNnoycXU0alBZbUdPNFhuWVEzYVFkWUozZFhKd3hIdDE1Rm10U0pBTG4zMnZ1WGpkMWsyQVNWYw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Trío de lujo El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a1c8a4269c459640"
+ },
+ {
+  "titulo": "Advierten por efectos de frente frío en el norte",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalFVREVfNmMycEI5Mi1LMklMLUJaTEpRSDdCajZJdERXUHVsclUtdDR4SmFlTk96Y0xpMUNNR2pRd3FWUDJvaEpUT2dWSlZsbFZuYU5pd3dRdDdNZ3BfTWdHUzItR2dQM2lOSGJjQm55MTA0cURDbVBVS3AzZkJYNGRMYnlEU0s1SGM2YndmNmxwbkwwSktudzhhSUpzUlliaGR6dm1n?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Advierten por efectos de frente frío en el norte El Vigía",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "c509a13b289f4e59"
+ },
+ {
+  "titulo": "Arsia Mons: ¿una montaña que podría cambiar nuestra búsqueda de vida en Marte?",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDZiNG1zaU1QZWo1Yk9Sby1WYmJCbUVhZzFkUWhPYkJwb3F0bFZzNVFVSXNmMmYydDZrTW1rTnRLZ3RidXdjcDZjVjNVRklvSkZfM1pxQmhhR3p0SXVPWVVSa29HX0RNUG1CbnlsTmdFUXVaTUxEUGluRnRYRmhkZ2V5aW9XVnlvTWRacHBwUVVJSy1kSF9xNjg3ZVVnMGYzT2pjWVVtNzZUaFhHOUtrUjRqZHliRXJiMFBiSkdwWTVMSDJRUG5XMHpB?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Arsia Mons: ¿una montaña que podría cambiar nuestra búsqueda de vida en Marte? El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "06fd9d4654662003"
+ },
+ {
+  "titulo": "Aleks Syntek busca equilibrio",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU1IOFRfNVBVaDEzeGhldkxMRWRYZndTZWJtVHA2T0FhWWJ6eUFpajJpYXhOOG1DQVBNMTJvQ2E2a0Jjb2VVZGdrX0U0NVZaYXFLczJZVjRJMHNDYloyOUhiUjMzRnBOa0FpcXptOW5PNGNkVjhiMl9INEU2WkZUME5ZYVk4aHg5dzFnbS1xVzZnUQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Aleks Syntek busca equilibrio El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b1602f0d6cee7e7d"
+ },
+ {
+  "titulo": "Britney Spears lanza reclamos",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1ZuYVA1TkJTOUhES1ZvTkJwdDd0aTI2UGtUaExRYXZsMHo1Q2pzTEQ5ZHBaYlgtUnZ0ME5yM1NueXBQQlhpTzhqM0ttV2FSVFVyamhNZU0wWF9GMnJCTXZVY01yenFOaFhMZmxNQ011b0s0SUtIMUxqb2FObFN4b0ZWZlNTS3RMUzNYZUZtckRfUQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Britney Spears lanza reclamos El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b7455500ade60cbb"
+ },
+ {
+  "titulo": "Regresa ‘Canelo’ Álvarez a la cima tras vencer a Mbilli",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdl9DbG9DbmhyODExWC13endmbjVhblFfcFlHa0pkaWJ4bnhEN0hWdWl0TTN1bDlKcGlBLUpZNnNUWmM0a3k5aFFBWXNxWml6UFd3QnUxYS13QndXRzE3UTNKc1RoVG5iM0xsMGJIampzY2hFMThWZGRsQk40TXNrTWdOVXo2MEVtOXZyWDR0Q3BsekxSa192S1lISWpYcmN6RHR4R2ZzLXhNQ0Vr?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Regresa ‘Canelo’ Álvarez a la cima tras vencer a Mbilli El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "74c5b5b4d8afa6a6"
+ },
+ {
+  "titulo": "Triangulan a Samuel fondos... ¡en minutos!",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3hRU2pSOHROaEJJeE5LQmpJdWg3STZXcHplSFVtMEUtTFczVXRhMzlzOWpqLTJyWmJ2ZG9UR3BoTHEtbWplQlN6Q3VEaUVGQlRFNXZYTHRSZERUNEk4eVhLd2F6bEpCbDFWNmVtazE3Y05GZXNDRnJ6QlBQakxwa19OYjdaQ1NfR1NPazVweUJtdVRwWFln?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Triangulan a Samuel fondos... ¡en minutos! El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e03a8b32173380a7"
+ },
+ {
+  "titulo": "¿Cuántos muertos hacen falta para que gobernar signifique algo más que salir bien en la foto?",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkFtX3lKWUR4MFA4ejlMRGxpMVBDRnowZzBWSWJSUjUyTGJhMUEtSU5sbUl0X1UtYXlDMG03RzNVcV9BT096ZEJxcjdkZDFOQUVIQ3U1STltdGRIYzd6NWs3UENRY1o1QlI0Ql9DQVE5MVpyWXVNcFV2YUNKbjFLS3pud0xsUEFPZ1RBSlcxOWFXMXRsS2I2SURHVGt0Q0w3VnIwODNsaFJGNkVaQ0VIVEU5cEg3ZzQxYTl1dV9DcldHQmdSZUJCSW5IcVF3NXJSM0tlRGI4LTVkbGhhY3Jv?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "¿Cuántos muertos hacen falta para que gobernar signifique algo más que salir bien en la foto? El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "410b112becc5dfb0"
+ },
+ {
+  "titulo": "Celebran trayectoria de Manuel García-Rulfo",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZU5MS1ZtVTlTSGRTSnhHdmZLRHdHelhPemJFOWpUOEoxaE0ydV9FMTVUS3NLUTBqRWVnbUJaaGJTUUg2T3lXV0lZNjBXTzBWd0V0RndLelRJcGNhLWVDUkgwZ3hxZjhTMFNIalJ5bGk5bHl6STJaSjNIaW91cE9Ta0phYkc0dkltVUJMM2dOM1BmcHZObDItWUc4Z2ZhaEpLcGNaUQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Celebran trayectoria de Manuel García-Rulfo El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b88b357f38a41713"
+ },
+ {
+  "titulo": "Detienen a hombre con una escopeta",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV0ZXYUF0Z194MzRqS3o4ZmlPYWtBWVZVcXRTOW5idzU0R1hpVUZsbDB6QWRCSmVZcUFGVlVKZ1JsQmFKakVPc3djNmFzTW5Vam80b2RfbjU2amFnSzBOTlE4LXd4T1NoUE41ejByakpzejVQUkZKYVowMFBvdE1VVW50UHM3ZUpnZ3lhNA?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Detienen a hombre con una escopeta El Vigía",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "86097bc8f8f175d7"
+ },
+ {
+  "titulo": "Muere un mexicano en choque de trenes",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlRmNTBGVFFkV2E5b1BQMTFEcDZ4TU9Ea000RlQxQkxsYmJpREItQXBtT3B2X2JrUmdYUG5HcUN5a3RVbzBSVXdORzg4U1ZtWEQ1aW9DRkQ3X0RIYUhKWHdQZWx2Y1NTT0tCZWNoa3dUUG9pZmlvdEh3ZVRzb2hYMFZsYXZERnFoVm9nOHA0a2JKLUQ4LUxj?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Muere un mexicano en choque de trenes El Vigía",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "03ceb240e48a08c6"
+ },
+ {
+  "titulo": "Molina quiere otra Taddei en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2FhUkVhNXR0R0Z1Z2FTV3hVME9XUlE2MEpjYXdyU2g0TEVxdGMtblQyWlYzUmwzbjdDUkQ3cGhJRll5al9BT25vVTVPQjBqVXp6dkJBUF9TYXZfQmJPMnUtREJlem9HZkxpTG54clRtajlQdFFIbmpvb0M5LUxXOFhONU5PT3FGZ2V4NmdXUDdfcXlVMEczeFNtdkk3b3RN?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Molina quiere otra Taddei en Baja California El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "20deb99a129c92b2"
+ },
+ {
+  "titulo": "Concluyen operaciones los refugios temporales",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNblZuNmc0R1FlLTJxaHZBNUVic1ZjN0lwc1IyUUtrMDlNeUNOcWlGZFM1ZW1YTi0tZkZnbVM4VkcxV19QeE5mcnNZV28wMVY1RjVMYWFka2pSRXhiV2NRQ0hCWF93U05oVlFvelRFenFCOFZleXdHeWN2NUlQLV8zQkplWXFFNlhFN2JSTUxYSUdfaVUxUi1rMXdZVHJUMnh6?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Concluyen operaciones los refugios temporales El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5e52502778fc3f2d"
+ },
+ {
+  "titulo": "Zedillo fue el autor de la figura política de AMLO",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmJzTEREdV91MmpaQ0VoX1FKd1pHRENUX0l5cVY3cHZjS2VGZVNrRGl1aE05Wld2amFld2FBUmd0MS1TajBwMTAwTFkxejZtNk9sRUtNMlAtSVVTd2VhRjlkRkxFaVo3Zkt2cWdsUEcxR1IxTnczZjdsekQ0LTNWSDB3aFNZeUpMdmZQRUx2QVprWlRHYk9VZGpZNHdBeHlpejNWZ0dYTlQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-03T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Zedillo fue el autor de la figura política de AMLO El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "103fd717943e29b9"
+ },
+ {
+  "titulo": "Actividades de la International Sherry Week en Jerez incluyen catas y gastronomía",
+  "liga": "https://elcongresista.mx/politica/nacional/actividades-international-sherry-week-jerez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T01:47:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "La International Sherry Week 2026 en Jerez ofrece catas de vino y actividades culturales del 2 al 8 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7e2fbce6a5e52976"
+ },
+ {
+  "titulo": "El \"Gobierno del Agua” avanza en Baja California con inversión histórica de 15,600 mdp para asegurar el abaste",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTno2bkxCTjJ0eF8tUDZaN3NrWjVSXy0wNGhSeFVzaXNRaHNIb3F0Vjg5QzQzNVd6bGRsYUhXeFF0UzFwRVZOd01zWi1HZVY5Q3AtZFRuaUNVRWhraWFoX2djRXFudmZqVkR5VXNoVFdJclBaa09FSlpFQWhVcnZBVlNVVjRndWtyYV9rbzNnLUlsM0pl0gGUAUFVX3lxTE1PUFhiV3hZQ0lYYkJvdW9tYTdUWXNTamxMTHVINmdHRDJQWHFZNFhrTG5FQzhFb09weU9ERFBfTk5wRFBUOFFDTmVLU3otY3lGU3ROZC1NVDU2VXhEX3UtdUpVYkxnckFsTC1pRmZmdVNXOFM3UDUwbk9sUUxlRVVEbTEzN2tPc3k3aWh0LTJFcTBlMHk?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-03T01:46:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "El \"Gobierno del Agua” avanza en Baja California con inversión histórica de 15,600 mdp para asegurar el abaste MILENIO",
+  "temas": [
+   "Agua",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "39da82761dc4c88e"
+ },
+ {
+  "titulo": "Claudia Sheinbaum propone fortalecer Talleres Gráficos, expertos lo ven inviable",
+  "liga": "https://elcongresista.mx/politica/nacional/claudia-sheinbaum-talleres-graficos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T01:45:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "La Presidenta Claudia Sheinbaum propone que Talleres Gráficos produzca la papelería electoral, pero expertos lo consideran inviable.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "931bd7a2a58d5fe2"
+ },
+ {
+  "titulo": "Lesionan a hombre con un arma de fuego en la zona Este",
+  "liga": "https://puntonorte.info/2026/11/02/lesionan-a-hombre-con-un-arma-de-fuego-en-la-zona-este/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-03T01:15:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Tijuana.- Un hombre resultó lesionado por disparo de arma de fuego, la noche de hoy lunes 2 de noviembre en la colonia Ejido Matamoros en la delegación Villa Fontana. Alrededor de las siete y media de la noche, se registró el incidente frente a un local de venta de artículos de s",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e7c554f270b5c833"
+ },
+ {
+  "titulo": "Teatro: celebra 24 años en escena la obra Pedro Páramo en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/teatro-24-anos-pedro-paramo-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T01:01:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "La obra Pedro Páramo de Juan Rulfo celebra 24 años de presentaciones en Michoacán. Es relevante por su conexión con temas actuales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "371684b0dec153d0"
+ },
+ {
   "titulo": "UMSNH exige frenar reforma rectoral y denuncia injerencia del Ejecutivo",
   "liga": "https://elcongresista.mx/politica/michoacan/umsn-rectora-reforma-sucesion",
   "medio": "El Congresista",
@@ -13,6 +857,21 @@
   ],
   "local": false,
   "id": "33c43549d26698ec"
+ },
+ {
+  "titulo": "Fortalece Secretaria de Gobierno alianza con Acnur en favor de las personas refugiadas y solicitantes de asilo en Baja California",
+  "liga": "https://www.uniradioinforma.com/sociedad/fortalece-secretaria-gobierno-alianza-acnur-favor-personas-refugiadas-solicitantes-asilo-baja-california-n911856",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-03T01:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "La extensión de la vigencia del convenio permitirá dar continuidad a las acciones y programas impulsado entre ambas instituciones en favor de las personas solicitantes de refugio y asilo en la entidad.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "473ff263d6a4a21a"
  },
  {
   "titulo": "Incendian un carro en la colonia Obrera",
@@ -1132,6 +1991,34 @@
   "id": "ed339f85a8a54667"
  },
  {
+  "titulo": "Entre teclas / El INE finalmente sí se tocó",
+  "liga": "https://oem.com.mx/lavozdelafrontera/analisis/entre-teclas-el-ine-finalmente-si-se-toco-32930102",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-02T21:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "cb35a9b27eb4cfe2"
+ },
+ {
+  "titulo": "World Wide Web: el proyecto de 1989 que transformó la forma de acceder a la información",
+  "liga": "https://oem.com.mx/lavozdelafrontera/tendencias/world-wide-web-el-proyecto-de-1989-que-transformo-la-forma-de-acceder-a-la-informacion-32934570",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-02T21:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Para 1995, alrededor de 16 millones de personas utilizaban internet; cinco años después, la cifra superaba los 400 millones.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "30870e1053141682"
+ },
+ {
   "titulo": "Ensenada agotó el cempasúchil de Rosarito tras perder producción por el paso de Rachel",
   "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUstZkVJYmVLcGlJMWU5dzZWQktnLWJVOVVnNGZaMkFZellFTm5vRGNGSndZWjQyMUxsemFiY1BQNWV6a09zQXBrcG1TTlNjWkxEN1U4S05YUXBwMlJDNDdnSWN6ZEFNWHhIVlZLVWtkUjN4Q3JwM1oxLXNKa09TVlQ0VXJOdXlBcmlsZTVsQ0JpWUxzYmFLQU9JTkxrbG9Eck96TkdzVHZoVkZrM3N6WEhFWVQzNk9TNzNB?oc=5",
   "medio": "Semanario ZETA",
@@ -1408,6 +2295,20 @@
   "id": "b94607d9fb84fdc1"
  },
  {
+  "titulo": "Noticias sobre direccion municipal de seguridad publica",
+  "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUk2dDNoUUhTU1YtMnFpbk80bGJCVmdObjI4b1Fheko5WUYzaDNjSkczeWFobFhaSmtQTU1JeUk5WVRwanJuSGdjZzN4V1VuWTVQRGJ2eWFVYUdISFZXMW56SHFmQkpfdnFvb2RkdkhKS2M4UUNPR1laTjRidVFHbGk1Q1I?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-02T20:20:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Noticias sobre direccion municipal de seguridad publica Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "90a7774c86996950"
+ },
+ {
   "titulo": "Noticias sobre contingencias meteorologicas",
   "liga": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpQVh2dzNlSXNZZlFSSnpmTC15NmZxMVFVYkE0elVoYVV4ZGJ0dHNQa29lZ3dVRHIzVldyNjV2VXlnQWJVR0IyUlRIMEVQa010MHBzUE1teVkyWlZIbnJWeTAzOUZUTDVHODVLMVNRWlItUnJt?oc=5",
   "medio": "BajaNews",
@@ -1420,6 +2321,20 @@
   ],
   "local": false,
   "id": "e561a89aea7ca476"
+ },
+ {
+  "titulo": "Noticias sobre lluvias por rachel",
+  "liga": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6eXRCV1F3MTU4blp2Q2xXbE12N1lrYVFubXpwQmh4YlNJT2FuS2liSnhiTHpCODFIcGNDTG1SMlVaZ2tHYlNMV2VNcXBVM1lKWWRTRXhKRkF5bHlRWkp4b0dqLUI5QVE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-02T20:20:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T02:32:27-06:00",
+  "resumen": "Noticias sobre lluvias por rachel Baja News",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "0ad54c719fe1d600"
  },
  {
   "titulo": "Noticias sobre residuos irregulares",
