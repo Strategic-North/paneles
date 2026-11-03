@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-02T20:51-06:00",
+ "actualizado": "2026-11-02T20:53-06:00",
  "corte": "2026-11-03",
  "ventana": [
   "2026-11-02T20:00-06:00",
   "2026-11-03T20:00-06:00"
  ],
- "total": 23,
+ "total": 25,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -81,12 +81,12 @@
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 74
+   "notas": 87
   },
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 72
+   "notas": 74
   },
   {
    "fuente": "Google News: site:zonanorte.mx",

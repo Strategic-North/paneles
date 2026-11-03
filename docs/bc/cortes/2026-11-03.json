@@ -1,5 +1,20 @@
 [
  {
+  "titulo": "Dos jóvenes desaparecidas en Puerto Vallarta tras oferta laboral",
+  "liga": "https://elcongresista.mx/politica/jalisco/desaparecidas-melissa-violeta-puerto-vallarta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-02T20:49:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T20:53:43-06:00",
+  "resumen": "Se intensifica la búsqueda de Melissa y Violeta, desaparecidas en Puerto Vallarta tras oferta laboral desde el 27 de julio.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6ed60f3f71a0559c"
+ },
+ {
   "titulo": "Buscan a Joshua Ontiveros Tello de Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vd1RZZllycWE4T19McDZWQ1RtT216enAzRXFJVVJ0Z2ZTTU02Y1ROS3JVcXhOMG5Jb25VaHhRcHVtODloUlIzZGp5c3piSGRFWnh4M2ZLVmVlWTA?oc=5",
   "medio": "Ensenada.Net",
@@ -12,6 +27,20 @@
   ],
   "local": true,
   "id": "a1173f76aaf9a99e"
+ },
+ {
+  "titulo": "Mictlán, el recorrido mexica de almas hacia el inframundo",
+  "liga": "https://elcongresista.mx/politica/michoacan/mictlan-recorrido-almas-mexicas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-02T20:45:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-02T20:53:43-06:00",
+  "resumen": "La comprensión de la muerte y el inframundo en la cosmovisión mexica se refleja en el recorrido de almas hacia Mictlán.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e9abd65329439ed4"
  },
  {
   "titulo": "Túnel Churubusco-Xochiaca mejora desalojo de agua en Nezahualcóyotl",
