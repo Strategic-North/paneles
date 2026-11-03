@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-03T08:57-06:00",
+ "actualizado": "2026-11-03T09:54-06:00",
  "corte": "2026-11-03",
  "ventana": [
   "2026-11-02T20:00-06:00",
   "2026-11-03T20:00-06:00"
  ],
- "total": 280,
+ "total": 304,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -70,38 +70,38 @@
   },
   {
    "fuente": "Google News: Ensenada",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:elvigia.net",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:bajanews.mx",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:afntijuana.info",
-   "ok": true,
-   "notas": 71
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
-   "ok": true,
-   "notas": 1
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
-   "ok": true,
-   "notas": 43
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
-   "ok": true,
-   "notas": 2
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   }
  ]
 }
