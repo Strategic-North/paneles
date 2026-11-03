@@ -1,5 +1,936 @@
 [
  {
+  "titulo": "Sheinbaum respetará cualquier resultado de las elecciones en EU",
+  "liga": "https://riodoce.mx/2026/11/03/sheinbaum-respetara-cualquier-resultado-de-las-elecciones-en-eu/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-03T11:51:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "5ddf4898efe1edd7"
+ },
+ {
+  "titulo": "¡De los pleitos familiares al reality! Leticia Guajardo, mamá de Poncho de Nigris, entra a La Mansión VIP 2",
+  "liga": "https://vivalanoticia.mx/de-los-pleitos-familiares-al-reality-leticia-guajardo-mama-de-poncho-de-nigris-entra-a-la-mansion-vip-2/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:49:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La polémica está por comenzar y una nueva integrante promete ponerle sabor a la segunda temporada de La Mansión VIP. Se trata de Leticia Guajardo, mejor conocida como ‘Doña Alegría’ y madre del influencer regiomontano Poncho de Nigris, quien fue confirmada como la séptima partici",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "29ebb7ed873f7740"
+ },
+ {
+  "titulo": "Sheinbaum confirma que investigación contra Inés Gómez Mont viene de años atrás; esperan su extradición",
+  "liga": "https://vivalanoticia.mx/sheinbaum-confirma-que-investigacion-contra-ines-gomez-mont-viene-de-anos-atras-esperan-su-extradicion/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:47:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum afirmó que la investigación contra la conductora Inés Gómez Mont no es nueva y que se remonta a administraciones anteriores, luego de que fuera detenida en Estados Unidos por motivos migratorios. Durante la Mañanera del Pueblo, la mandataria señaló",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0d9d62260cee59e8"
+ },
+ {
+  "titulo": "Detienen a vecino de Culiacán con pistola calibre .38 súper en Higuera de Zaragoza, Ahome, Sinaloa",
+  "liga": "https://losnoticieristas.com/policiaca/2026/11/detienen-a-vecino-de-culiacan-con-pistola-calibre-38-super-en-higuera-de-zaragoza-ahome-sinaloa-1160259/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-03T11:47:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El detenido fue identificado como José Luis 'N', mayor de edad y con domicilio en el municipio de Culiacán, Sinaloa.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "2cc08b938ac21fca"
+ },
+ {
+  "titulo": "Se encienden alertas en Ahome por hombre herido de bala en Topolobampo",
+  "liga": "https://noticieroaltavoz.com/se-encienden-alertas-en-ahome-por-hombre-herido-de-bala-en-topolobampo/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-03T11:45:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Los Mochis, Sin.- El hecho de que un hombre resultara herido por impactos de bala mientras esperaba un taxi en el puerto de Topolobampo, encendió las alertas entre las autoridades de Ahome, según el presidente municipal Antonio Menéndez. La Vicefiscalía Regional Zona Norte mantie",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "b3036bfec4496435"
+ },
+ {
+  "titulo": "Sheinbaum no asistirá a la Cumbre Iberoamericana en Madrid; México estará representado por su canciller",
+  "liga": "https://vivalanoticia.mx/sheinbaum-no-asistira-a-la-cumbre-iberoamericana-en-madrid-mexico-estara-representado-por-su-canciller/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:45:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La presidenta de México, Claudia Sheinbaum Pardo, no asistirá a la XXX Cumbre Iberoamericana, que se celebrará los días 4 y 5 de noviembre en Madrid, España. En su lugar, el país estará representado por el titular de la Secretaría de Relaciones Exteriores, como parte de una reuni",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "2a257823340d32ed"
+ },
+ {
+  "titulo": "Andy López Beltrán niega vínculos con Jorge Amílcar Olán y el huachicol fiscal",
+  "liga": "https://noticieroaltavoz.com/andy-lopez-beltran-niega-vinculos-con-jorge-amilcar-olan-y-el-huachicol-fiscal/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-03T11:45:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Ciudad de México.- Andrés Manuel “Andy” López Beltrán, hijo del expresidente Andrés Manuel López Obrador, negó tener vínculos comerciales con el empresario Jorge Amílcar Olán Aparicio y participar en operaciones de huachicol fiscal. En un video difundido este martes 3 de noviembr",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "357fb5ecfdf5573f"
+ },
+ {
+  "titulo": "Portero del FC Andorra cierra sus redes tras recibir insultos por la muerte de Jesús de Miguel Alameda",
+  "liga": "https://lineadirectaportal.com/deportes/portero-del-fc-andorra-cierra-sus-redes-tras-recibir-insultos-por-la-muerte-de-jesus-de-miguel-alameda-2026-11-03__1732512",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T11:45:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El guardameta Jesús Owono protagonizó un choque mortal con Jesús de Miguel Alameda en el juego entre Tenerife y FC Andorra en la segunda división de España",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "55de3e5d3df2a093"
+ },
+ {
+  "titulo": "Pretendían cruzar el poblado Carrizalejo a bordo de un 'bocho' cargado con 25 kilos de metanfetaminas en Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSnk0aHl4Szl3cmpocG83VWYtSVFJdlFYdmRwZWNaXzliX2p4Yk44aWk1YmpwaThSdS13eEVrc2wxU0NzUG5jRG1kQ1ZTNmtwZjJpU3A3aDUtS1JOdDZMMGtmQ3kyQkswMV9RUHE4VkgyZ1NfdENfU3dhVVR4dE15c0pidG41TnQzLXJ2RGt5M3k5cXBXZTliRHYxWlJ1OXVXV1V3cVdQdmZoeW1fTnZfazh2TGs2MDBLUm83RUlFZFl3SVd3X0pHQjAzQUZjUERTNm5QS3dMa05fb2NaSFVnZThLbmV1N1kzWjdjOExmN3FhLVpESVAycjVqNHA1aElRQWxN?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T11:44:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Pretendían cruzar el poblado Carrizalejo a bordo de un 'bocho' cargado con 25 kilos de metanfetaminas en Culiacán Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "aef95bd9ccf487c3"
+ },
+ {
+  "titulo": "Licencia de Juan de Dios continuará mientras investigación esté en proceso: Ana Míriam Ramos",
+  "liga": "https://cafenegroportal.com/licencia-de-juan-de-dios-continuara-mientras-investigacion-este-en-proceso-ana-miriam-ramos/",
+  "medio": "Café Negro",
+  "publicada": "2026-11-03T11:42:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Culiacán, Sinaloa (Café Negro Portal).- Juan de Dios Gámez Mendívil permanecerá separado de la alcaldía de Culiacán mientras continúen las investigaciones relacionadas con los señalamientos del Departamento de Justicia de Estados Unidos por presuntos vínculos con el crimen organi",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bb053215f9d7711b"
+ },
+ {
+  "titulo": "Sinaloa, entre los cinco estados con más policías asesinados en México durante 2026",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGtpSjJ2UkFBUk9UekhUTWxGVEk3eGQtQk43N0NaSm51bjdNTHZSTDMxY2I4XzhIVjgwTTh3MERucnlROEs1NFJsSjd4M0NZS0w4bC0yNjhjVWFNSnYyWHRqOFQzaDRDR2w3TGhKZ1Z0R3FBNkEzUGlkcUNrUHlDVDBCV2lYcC1HZ0lWOVlnNUZJM3ltbzVwcHNyZ2h1UjVBUmpPby1GQUNKYU1n?oc=5",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:41:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Sinaloa, entre los cinco estados con más policías asesinados en México durante 2026 Viva la Noticia",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b542cb836073ed33"
+ },
+ {
+  "titulo": "¡Ahí viene el agua! ¿Dónde lloverá hoy 3 de noviembre?",
+  "liga": "https://www.luznoticias.mx/2026-11-03/mexico/ahi-viene-el-agua-donde-llovera-hoy-3-de-noviembre/313273",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T11:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "3c1012f21af77ad5"
+ },
+ {
+  "titulo": "José iba en vehículo a exceso de velocidad, policías de Ahome lo arrestan y le hallan una pistola",
+  "liga": "https://lineadirectaportal.com/policiaca/jose-iba-en-vehiculo-a-exceso-de-velocidad-y-policias-de-ahome-lo-arrestan-y-le-hallan-una-pistola-2026-11-03__1732502",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T11:38:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El hombre es originario de Culiacán y se desplazaba en un vehículo en la carretera en las inmediaciones de la sindicatura de Higuera de Zaragoza en ese municipio",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "812149f535500f9b"
+ },
+ {
+  "titulo": "Día del sándwich: la historia detrás de su celebración y el secreto de una chef en Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOejZDU3B0RjZ1cTMwSG1XZjFpMkl3MWpkdkFjVUFsNG84T1lHUFlvUENpangtSlltaDlpdFNnbDhxUFd6YnFwTVQtdHpySnFLcHc3Nnc4RzVNUkRoeVJFVEhhdjdtaTduZm1UQWxpdXlWWHNxX3M5dzN5d052WkpyblVkc19OdC16MGMtSDZNWS1VMWY3OGhXYjcyOXZHV0FobXZTTG1oUDdPYTA1RkotWDRWTktfRl9NNWp0SjBhRWlBOXNtQ0VuenZ2cWtVcTI3YzZkX1BxbjN1cFh6OVNWbXpILU5XTVFxY05V?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T11:38:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Día del sándwich: la historia detrás de su celebración y el secreto de una chef en Los Mochis Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8d5777bc5535a3c1"
+ },
+ {
+  "titulo": "Mar de fondo seguirá golpeando a El Maviri lo que resta de 2026 y parte de 2027; alerta Protección Civil",
+  "liga": "https://www.luznoticias.mx/2026-11-03/sinaloa/mar-de-fondo-seguira-golpeando-a-el-maviri-lo-que-resta-de-2026-y-parte-de-2027-alerta-proteccion-civil/313272",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T11:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "128e7e71aae0116a"
+ },
+ {
+  "titulo": "¡De las lluvias al calor! Sinaloa destaca a nivel nacional por sus contrastes climáticos",
+  "liga": "https://lineadirectaportal.com/clima/de-las-lluvias-al-calor-sinaloa-destaca-a-nivel-nacional-por-sus-contrastes-climaticos-2026-11-03__1732504",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T11:37:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Del 26 de octubre al 1 de noviembre, Mazatlán destacó por sus acumulados de lluvia y Culiacán por sus altas temperaturas, de acuerdo con el balance semanal del SMN ¿Qué viene para los siguientes días?",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "acdb4024968e03f9"
+ },
+ {
+  "titulo": "Bellakath lanza fuertes indirectas a Yeri Mua y condiciona su pelea en Ring Royale 2",
+  "liga": "https://vivalanoticia.mx/bellakath-lanza-fuertes-indirectas-a-yeri-mua-y-condiciona-su-pelea-en-ring-royale-2/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:37:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El posible enfrentamiento entre Bellakath y Yeri Mua continúa generando polémica en redes sociales. La intérprete de “Gatita” habló sobre las negociaciones para participar en la segunda edición de Ring Royale y lanzó fuertes declaraciones contra la influencer, a quien acusó de no",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4eb4a2f7680076f4"
+ },
+ {
+  "titulo": "Sismo de magnitud 5.6 sacude Colombia; deja un herido y daños en viviendas e iglesias",
+  "liga": "https://riodoce.mx/2026/11/03/sismo-de-magnitud-5-6-sacude-colombia-deja-un-herido-y-danos-en-viviendas-e-iglesias/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-03T11:36:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "8fedab9734e37078"
+ },
+ {
+  "titulo": "Florinda Meza desmiente supuesta demanda contra el Piojo Alvarado por disfrazarse de La Chilindrina",
+  "liga": "https://vivalanoticia.mx/florinda-meza-desmiente-supuesta-demanda-contra-el-piojo-alvarado-por-disfrazarse-de-la-chilindrina/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:34:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La actriz Florinda Meza negó haber iniciado acciones legales contra Roberto Alvarado, futbolista de las Chivas conocido como el Piojo, luego de que circulara en redes sociales un supuesto mensaje en el que lo amenazaba con demandarlo por disfrazarse de La Chilindrina durante las ",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ec02c333e0263a18"
+ },
+ {
+  "titulo": "Originario de Veracruz y baleado en Mazatlán: Lo hallaron sin vida en la colonia Azteca",
+  "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZEVRbktHYV8zV2hObTlTNDNqREVCMXpmbEdIMHhmRWtDVzNtY0lvTzdBZFRkeWVqT0MxNmhGSjVfc1F0MEJWaWtzalFLMTN4NmNYRWhlRXA3ckRQc0xOcW9qbkd6VjlPSnQyMklxQ0s3OU5aY2NIWWR1dEhzbVJRTnlHS096N0dWVk1MQWI4eW9YYWMxcDVhdXRtcFA2NWdqenBNTHp6OTNhN3RHM2lKWk9FVmgzdHJUcmZSQnpOUHhHQ1lKb3hRTG5KLXIwajdBOGpLVUNXaUtROUYwR0djU3diUQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T11:34:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Originario de Veracruz y baleado en Mazatlán: Lo hallaron sin vida en la colonia Azteca Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4b70b73598f9d13f"
+ },
+ {
+  "titulo": "Apagados o bajo resguardo: así aplicarán la prohibición de celulares en escuelas de Sinaloa",
+  "liga": "https://lineadirectaportal.com/sinaloa/apagados-o-bajo-resguardo-asi-aplicaran-la-prohibicion-de-celulares-en-escuelas-de-sinaloa-2026-11-03__1732496",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T11:34:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La titular de Sepyc resaltó que esta medida es por el bienestar de los menores en los planteles de educación básica",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "3f072677639170a5"
+ },
+ {
+  "titulo": "Sheinbaum rechaza llamar terrorismo a los cárteles y advierte sobre riesgos de injerencia",
+  "liga": "https://lineadirectaportal.com/mexico/sheinbaum-rechaza-llamar-terrorismo-a-los-carteles-y-advierte-sobre-riesgos-de-injerencia-2026-11-03__1732492",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T11:33:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La presidenta explicó que las instituciones mexicanas enfrentan a estas organizaciones a través de estrategias de seguridad, inteligencia y procuración de justicia, sin modificar la denominación jurídica con la que son perseguidas",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a3aa1fba7f05026d"
+ },
+ {
+  "titulo": "Sofía Castro celebra sus 30 años con fiesta de brujas, vestido transparente y emotivo baile con su papá",
+  "liga": "https://cafenegroportal.com/sofia-castro-celebra-sus-30-anos-con-fiesta-de-brujas-vestido-transparente-y-emotivo-baile-con-su-papa/",
+  "medio": "Café Negro",
+  "publicada": "2026-11-03T11:32:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Fuente: Agencia México Sofía Castro celebró la llegada de sus 30 años con una fiesta temática de brujas que reunió a familiares y amigos la noche del 31 de octubre. Aunque su cumpleaños fue un día antes, el 30 de octubre, fecha en la que nació en 1996, la actriz aprovechó la cerc",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "c6cedb7468fc18e5"
+ },
+ {
+  "titulo": "Sin financiamiento, peligra la siembra de maíz en Sinaloa; cuesta 60 mil pesos por hectárea",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR0g5WTdBME5wRTJ5Yl9pSUNkek4xRnBTOWk5TnQwczFLYnprbmJRWk9iaEhrU3hlMEluNVBxdVlRbXYydks0aVFUMnozR1ZCUWRGdUlKWGxIM2RqZGV4bTdmSjVJUWxyMUpJZmZxVmFJQTV4Z2dTcFZ4Y0ZLZTlGTDQzbUJjYTEzR0xXMU1GVldVUExpRDczQ2V4dk5qTGFfdGFNWE05TjR4SGZCb3hBZHM2YVE2empMYzdFcHpMWGNla3RRcjUzTm1xajZKcnNSckJ1cQ?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-03T11:32:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Sin financiamiento, peligra la siembra de maíz en Sinaloa; cuesta 60 mil pesos por hectárea El Sol de México",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "6963a6147e83ae4b"
+ },
+ {
+  "titulo": "Detienen a dos personas con 25 kilos de metanfetamina en un Volkswagen en El Carrizalejo, Culiacán",
+  "liga": "https://cafenegroportal.com/detienen-a-dos-personas-con-25-kilos-de-metanfetamina-en-un-volkswagen-en-el-carrizalejo-culiacan/",
+  "medio": "Café Negro",
+  "publicada": "2026-11-03T11:32:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Culiacán, Sinaloa.- Dos personas fueron detenidas por elementos del Ejército Mexicano, la Guardia Nacional y la Policía Estatal durante un operativo en la localidad de El Carrizalejo, donde les aseguraron 25 kilogramos de presunta metanfetamina. La acción se llevó a cabo como par",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0e55ddf76e1f6242"
+ },
+ {
+  "titulo": "Aseguran 22 armas, más de 1,000 cartuchos y 7 vehículos en operativo conjunto",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1RUcDYtNWQzc2R1b0NFa1ZVc3NSYWUyaXVRQnpZSFA1Wk9oX2ZkRzVwM0VzaVI1c3pSMjF1NFRJdk50V1piWjVsRlR0OVg5Wk13YVg5bHdpREduZjhmd3FodmRGQktBVnFaQl90dTVmS3hjRlZjRVIzVW1aazQ5d0hJWkluRGZvWE1ZOHI5QUVqVHg1dThEdjRhUEVhSVA2eWdpWlBmM2dzc0RCQ1d1eTZzMTJOeTR0aXBHRDFGV0RGU2lrWVJZazhXV1lQVldrN1JUbg?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T11:31:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Aseguran 22 armas, más de 1,000 cartuchos y 7 vehículos en operativo conjunto Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9c1193ceb5c57cd3"
+ },
+ {
+  "titulo": "Imcine investiga denuncia por presuntas irregularidades en rodaje de película con actriz menor de edad",
+  "liga": "https://vivalanoticia.mx/imcine-investiga-denuncia-por-presuntas-irregularidades-en-rodaje-de-pelicula-con-actriz-menor-de-edad/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:30:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El Instituto Mexicano de Cinematografía (Imcine) informó que da seguimiento a una denuncia anónima sobre las condiciones de seguridad física y emocional de una actriz de 13 años durante el rodaje de la película Manos negras, del director Xavier Salas Camarena, que se filma en Xal",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "814c659be6dd5c45"
+ },
+ {
+  "titulo": "Angostura reporta saldo blanco en Día de Muertos; acuden 24 mil personas a los panteones",
+  "liga": "https://noticieroaltavoz.com/angostura-reporta-saldo-blanco-en-dia-de-muertos-acuden-24-mil-personas-a-los-panteones/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-03T11:29:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Angostura Sin.– Con saldo blanco concluyó el operativo especial de seguridad implementado en Angostura durante las celebraciones del Día de Muertos y Halloween 2026, informó Juan Carlos Barraza Morales, director de Seguridad Ciudadana y Movilidad Sustentable. De acuerdo con el fu",
+  "temas": [
+   "Cultura y tradiciones",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "ebf2739a2c4627cc"
+ },
+ {
+  "titulo": "Sepyc definirá si retira celulares o los mantiene apagados en escuelas de Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDVvbmEySFdHSHc0aEZmVmdMNUctRm9zSXJBRGxWakYwOHZMVmptUDUxZ0xmRTU4X3BNOGh6RW9iMjlmdVRkZVBpSlhNN1BPbG5abENFSzhxclQyMm1wUVJuSW1wTE0tTVVfM1NNOVgyczRvNHpfUFExVWxKTXhZcnJjdDlJemdmOXlPUE9PSXRyTFZRNmNCZ1g4VkQ1MXdfaTFPTGxtUFZvZ3NLaVh6UTNkRlhPbnZCdXdYRThGeUFqNll3UzNpS3Nn?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-03T11:28:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Sepyc definirá si retira celulares o los mantiene apagados en escuelas de Sinaloa El Sol de México",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "d6fc931bc1021252"
+ },
+ {
+  "titulo": "Trágico accidente en El Rosario deja 2 personas sin vida y 6 lesionados",
+  "liga": "https://www.luznoticias.mx/2026-11-03/policiaca/tragico-accidente-en-el-rosario-deja-2-personas-sin-vida-y-6-lesionados/313269",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T11:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "f8f26b71316bf342"
+ },
+ {
+  "titulo": "Cuauhtémoc Cárdenas: el hombre que abrió el camino de la democracia",
+  "liga": "https://sinaloa.quadratin.com.mx/cuauhtemoc-cardenas-el-hombre-que-abrio-el-camino-de-la-democracia/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T11:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Hay otra virtud de Cárdenas que considero indispensable destacar: su tolerancia.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "872f94a6321fe2ac"
+ },
+ {
+  "titulo": "Dos muertos y seis lesionados, entre ellos un bebé, en accidente de la autopista Tepic-Mazatlán en Rosario, Sinaloa",
+  "liga": "https://losnoticieristas.com/policiaca/2026/11/dos-muertos-y-seis-lesionados-entre-ellos-un-bebe-en-accidente-de-la-autopista-tepic-mazatlan-en-rosario-sinaloa-1160247/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-03T11:27:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Una camioneta Ford Lobo, que transportaba trabajadores agrícolas salió de la carretera tras ser impactada por otro vehículo. Entre los sobrevivientes se encuentran un bebé de seis meses y dos menores de edad.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d891fa6750addbe9"
+ },
+ {
+  "titulo": "Mazatlán recibe este martes a más de 6 mil visitantes a bordo de dos cruceros",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWU5OTkFKSXRoMGZHbHVLQ3ZmMWVBdmFkQ3d6WXJTMThic2QwUi0xaFM2dDBuMUk5VGdraHJXbERjcWRVVFBEWDliUFNrT2tOUl9YSk1xcGt1enVIX0JqTDNZYlY5T2hZeEpqbmFiVmdjcFNQSWdQbWV6VUc5YzZfalNobWZNeHFzajVmSWNramw4UjNZMjJvQjIyaWlzdE5NcDJ4bGt3?oc=5",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:26:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Mazatlán recibe este martes a más de 6 mil visitantes a bordo de dos cruceros Viva la Noticia",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "b38b5307b2c0736b"
+ },
+ {
+  "titulo": "Mazatlán recibe noviembre con más de 6 mil cruceristas a bordo de dos cruceros",
+  "liga": "https://www.luznoticias.mx/2026-11-03/sinaloa/mazatlan-recibe-noviembre-con-mas-de-6-mil-cruceristas-a-bordo-de-dos-cruceros/313268",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T11:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "3866661969ec4b2f"
+ },
+ {
+  "titulo": "Migrantes honran en Nueva York a 21 mexicanos fallecidos bajo custodia del ICE durante el gobierno de Trump",
+  "liga": "https://vivalanoticia.mx/migrantes-honran-en-nueva-york-a-21-mexicanos-fallecidos-bajo-custodia-del-ice-durante-el-gobierno-de-trump/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:25:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Con fotografías, veladoras, flores y caracterizaciones de Catrinas, integrantes de la comunidad migrante realizaron una marcha conmemorativa en Nueva York para honrar a los mexicanos que han perdido la vida bajo custodia del Servicio de Inmigración y Control de Aduanas (ICE) de E",
+  "temas": [
+   "Migración",
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "47560952061d1629"
+ },
+ {
+  "titulo": "Rechaza Sheinbaum llamar terroristas a cárteles mexicanos",
+  "liga": "https://lado.mx/noticia/22223890/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T11:25:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Ciudad de México, 3 de noviembre de 2026.- La presidenta Claudia Sheinbaum rechazó la clasificación de organizaciones terroristas que el Gobierno de Argentina otorgó al Cártel de Sinaloa y a La Nueva Familia Michoacana, al advertir que esa denominación no debe utilizarse como pre",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4fd9eca88b2b5da7"
+ },
+ {
+  "titulo": "Detienen en Escuinapa, Sinaloa a hombre armado y con presunto cristal; lo investigan por feminicidios",
+  "liga": "https://lado.mx/noticia/22223885/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T11:25:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El sujeto fue interceptado tras una persecución en la colonia Ampliación Juárez de Escuinapa, Sinaloa; autoridades señalan que podría estar relacionado con recientes casos de feminicidio en el municipio, aunque no han confirmado su responsabilidad.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "f0121030d9ccff42"
+ },
+ {
+  "titulo": "Invitan a la Expo And Galardón Canaco 2026 en Culiacán, Sinaloa, el próximo viernes",
+  "liga": "https://lado.mx/noticia/22223886/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T11:25:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Aún hay accesos para asistir a la Expo And #038; Galardón Canaco 2026 en Culiacán el próximo 6 de noviembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "06a8f699806b39bf"
+ },
+ {
+  "titulo": "Entra en vigor restricción de celulares en escuelas de Sinaloa para “evitar distracciones y cuidar la salud mental”; SEPyC explica como se aplicará",
+  "liga": "https://lado.mx/noticia/22223883/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T11:25:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La secretaria de Educación Pública y Cultura informó que la medida contempla limitar el uso de dispositivos en aulas y recreos de educación básica; el sistema educativo estatal está preparado para su implementación.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Educación"
+  ],
+  "local": true,
+  "id": "ebdcbd4bad812eb7"
+ },
+ {
+  "titulo": "Distintos operativos del Ejército dejan detenciones y armas y drogas aseguradas en Culiacán",
+  "liga": "https://lineadirectaportal.com/policiaca/distintos-operativos-del-ejercito-dejan-detenciones-y-armas-y-drogas-aseguradas-en-culiacan-2026-11-03__1732491",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T11:25:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Los hechos ocurrieron del 30 de octubre al 2 de noviembre en diversos poblados de este municipio del centro de Sinaloa",
+  "temas": [
+   "Gobierno municipal",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "98f6e4cb45e3978c"
+ },
+ {
+  "titulo": "Rechaza CSP llamar terroristas a cárteles mexicanos",
+  "liga": "https://lado.mx/noticia/22223879/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T11:25:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La Presidenta rechazó la clasificación de organizaciones terroristas que Argentina otorgó al Cártel de Sinaloa y a Nueva Familia Michoacana.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b3b9207499ccb143"
+ },
+ {
+  "titulo": "Las ofertas del Martes y Miércoles del Campo Soriana para estos 3 y 4 de noviembre ¡Aprovecha!",
+  "liga": "https://lineadirectaportal.com/mexico/las-ofertas-del-martes-y-miercoles-del-campo-soriana-para-estos-3-y-4-de-noviembre-aprovecha-2026-11-03__1732490",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T11:25:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La cadena de supermercados vuelve a consentir a sus clientes con descuentos especiales en frutas, verduras, carnes y pescados",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "5b424a88acdfc165"
+ },
+ {
+  "titulo": "Operativos de Halloween y Día de Muertos dejan más de 200 detenidos en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmxkYUxDeEtRaUJuVzRwUEF4NVYyREsxOVAyUThfMVI0aGtFaEZPS1llRGhLOEZTb3ctZnpJemxYZ3NiMDhhZDMzNkFFNGZuVWpsWVlsT0p2ZUJPdUduR1RndUw1YUdYVjRxYW90R1pLZVZKS1JfYjBMcDRpZ01uZlpya3lEa0RvM0JMdEplZ3ZiS2FJM0JyX01BaTdBUmFUX0V1cHhKVQ?oc=5",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-03T11:23:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Operativos de Halloween y Día de Muertos dejan más de 200 detenidos en Sinaloa Viva la Noticia",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "f904d8b5fa59f76e"
+ },
+ {
+  "titulo": "Ejército Mexicano asegura siete áreas con químicos para elaborar metanfetamina en Cosalá y Culiacán",
+  "liga": "https://lineadirectaportal.com/policiaca/ejercito-mexicano-asegura-siete-areas-con-quimicos-para-elaborar-metanfetamina-en-cosala-y-culiacan-2026-11-03__1732493",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T11:22:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Militares decomisaron 7 mil 585 litros y 5 mil 395 kilos de sustancias; estiman una afectación económica de 269 mdp a la delincuencia organizada",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "48f4930efb8f745b"
+ },
+ {
+  "titulo": "Ni corrupción, ni huachicol fiscal: Andy López Beltrán rechaza señalamientos mediáticos en mensaje en video",
+  "liga": "https://losnoticieristas.com/nacional/2026/11/ni-corrupcion-ni-huachicol-fiscal-andy-lopez-beltran-rechaza-senalamientos-mediaticos-en-mensaje-en-video-1160251/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-03T11:21:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El hijo del expresidente Andrés Manuel López Obrador negó tener negocios con Jorge Amílcar Olán o haber intervenido en contratos públicos",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "022df9788bef221a"
+ },
+ {
+  "titulo": "Licencia de Juan de Dios Gámez Mendívil no tiene fecha de caducidad, aclara secretario",
+  "liga": "https://cafenegroportal.com/licencia-de-juan-de-dios-gamez-mendivil-no-tiene-fecha-de-caducidad-aclara-secretario/",
+  "medio": "Café Negro",
+  "publicada": "2026-11-03T11:19:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Culiacán, Sinaloa (Café Negro Portal).- La licencia solicitada por el alcalde Juan de Dios Gámez Mendívil para separarse del cargo no tiene una fecha de vencimiento definida, informó el secretario del Ayuntamiento de Culiacán, José Ernesto Peñuelas Castellón. El funcionario expli",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "388046112ab32b58"
+ },
+ {
+  "titulo": "Rastrean a Érick Gustavo, presunto feminicida de la agente de la Guardia Nacional Christian Ziboney en Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQY050NURMajA5NVg2Y3B5THNGWEt3RHlZdHNiWHFoeGJNb2lxU2U4X2JTaDJyaHFRMFpWb1RzMlJNT29KdGIybEZ6YUtmTHAtNlpNa3BObEt1U1ZBc2taR2hGS2tzMjZJeW5KM09jeTUyQjRNZkZVN1BoZWFIa0taVnJSU0ExVXNpOW9YbDNJREpnUjZhVHpldi13cmQ0dm9ZdjVJR2IyMXkyQWVCSmwyY3NvY0t2cjZXbnh6dC1iaE5zTlpkNXowRnFOUno5My1QWVdVTHVTZEw2cndWV2c3QjM0bFN5MGZOOWJheC1EQjMwdGZGcHFpRDhNaGpySUFYdjZj?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T11:16:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Rastrean a Érick Gustavo, presunto feminicida de la agente de la Guardia Nacional Christian Ziboney en Culiacán Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9be02670625ddda5"
+ },
+ {
+  "titulo": "Buen Fin en Sinaloa: anunciarán descuentos de hasta 100% en impuestos vehiculares",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRExjVlloNnhkLU1oNzlCcHhTWXpEVHdkbVNsb25LWXF1RFdVSmIzd283WGpaM3ZuMUZvUWgwR0JMbEZ6UFhRdFhjcGNOV240bGRPeHJyTllyRUtmNW9BZTZmRjZWVklDZ2RraXlmSWZYZTZINkxlS2pJeU9IMTUzbV9uMmF6UjFnTjY3N2VJbmZkX0pOV0ZFaWh5YUhKb2J2YjFMQzdTTUhiSnAwbmFaaHNOcmhPUU9tb0RJZ1B4ak5wQURSVGxV?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-03T11:15:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Buen Fin en Sinaloa: anunciarán descuentos de hasta 100% en impuestos vehiculares El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ce2a71dbe6d3f178"
+ },
+ {
+  "titulo": "Repunta la violencia en Sinaloa en medio de una crisis política",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGJqd2lTSEtDRDlMRmpKaWRYTTlrSnN4eHZzMUd0UzE4YkwzUDgtMm1zeExmdkl0SjFuWm9Rb3V4YXc2TGZqYjBKRHZOOUl6MUxxb2REWGREbXpSamxfeE1Wb0x6SlFKNHZ6cGp2Wkp5cnFTNDRUVk9XZmdVYjdBV3FCSmJSWi1acDJpVmNVWU_SAZYBQVVfeXFMT21vOWNGd3lVRmJRZVNwSzJtLWpOOE9pVnI1b2J1NlR3MjVNWV83THRpbXBsY2V5MTliNEpZZnFMWWo3b1lrZFE3YzJCbVlIeFpKZUtyN1ZaekZpd0c0VHlsdWlCeS1wbmc1SUFYUXdJSzhJWWVrOEdwZ2V3TFRLZFVvNzc4aDVKSnRQOU5fTnBzbGk3WGN3?oc=5",
+  "medio": "Imagen Radio",
+  "publicada": "2026-11-03T11:14:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Repunta la violencia en Sinaloa en medio de una crisis política Imagen Radio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e025d2239736eb0e"
+ },
+ {
+  "titulo": "Chocan 2 helicópteros cerca del Everest y muere un turista indio",
+  "liga": "https://sinaloa.quadratin.com.mx/chocan-2-helicopteros-cerca-del-everest-y-muere-un-turista-indio/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T11:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El turista fallecido viajaba en el helicóptero de Fishtail Air y fue identificado como Vasanth Kumar Balaramudu, ciudadano indio de 47 años.",
+  "temas": [
+   "Accidentes",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "39dbb1ff784f9a1b"
+ },
+ {
+  "titulo": "INE rechaza a tres aspirantes a consejerías locales señalados por presuntos vínculos con Taddei",
+  "liga": "https://revistaespejo.com/2026/11/03/ine-rechaza-a-tres-aspirantes-a-consejerias-locales-senalados-por-presuntos-vinculos-con-taddei/",
+  "medio": "Revista Espejo",
+  "publicada": "2026-11-03T11:11:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Los consejeros reconsideraron los perfiles de Guerrero y Oaxaca tras recibir nueva información sobre sus antecedentes, en medio de cuestionamientos por posibles relaciones políticas y conflictos de interés.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "e2a109330fbfa366"
+ },
+ {
+  "titulo": "Martes de Frescura Walmart 3 de noviembre 2026: ¿Cuáles son las ofertas de hoy?",
+  "liga": "https://www.luznoticias.mx/2026-11-03/mexico/martes-de-frescura-walmart-3-de-noviembre-2026-cuales-son-las-ofertas-de-hoy/313270",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T11:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4c8604ee18e19359"
+ },
+ {
+  "titulo": "Sinaloa aplicará restricción de celulares en escuelas; buscan proteger la salud mental y el aprendizaje de los estudiantes",
+  "liga": "https://visionciudadana.com.mx/sinaloa-aplicara-restriccion-de-celulares-en-escuelas-buscan-proteger-la-salud-mental-y-el-aprendizaje-de-los-estudiantes/",
+  "medio": "Visión Ciudadana",
+  "publicada": "2026-11-03T11:10:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "*¡Se acabó el celular en las aulas! Culiacán, Sinaloa; noviembre 03 de 2026.- La restricción del uso de teléfonos celulares y dispositivos digitales en los planteles educativos será obligatoria en Sinaloa, como parte de una medida nacional que busca proteger la salud mental y emo",
+  "temas": [
+   "Salud",
+   "Educación"
+  ],
+  "local": true,
+  "id": "fd0dadad898617a1"
+ },
+ {
+  "titulo": "Abandonan camioneta con arsenal y más de 700 dosis de droga en Choix",
+  "liga": "https://noticieroaltavoz.com/abandonan-camioneta-con-arsenal-y-mas-de-700-dosis-de-droga-en-choix/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-03T11:09:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Choix, Sin.- Un importante cargamento de presuntas drogas, un arma de alto poder y una camioneta fueron asegurados por corporaciones de seguridad durante un operativo de vigilancia en la zona serrana de Choix, luego de que los ocupantes del vehículo emprendieran la huida al detec",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2374d631c0c18669"
+ },
+ {
+  "titulo": "Muere Jesús de Miguel tras choque en el partido del CD Tenerife ante FC Andorra",
+  "liga": "https://www.sinaloahoy.com.mx/portal/muere-jesus-de-miguel-tras-choque-en-el-partido-del-cd-tenerife-ante-fc-andorra/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-03T11:08:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Muere Jesús de Miguel tras choque en el partido del CD Tenerife ante FC Andorra Muere Jesús de Miguel tras choque en el Tenerife ⚽ y el club confirma la noticia este martes #sociedad #Tenerife #LigaMx Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Accidentes",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "c038337832f2affa"
+ },
+ {
+  "titulo": "Mazatlán recibe a más de 8,300 visitantes con el doble arribo de los cruceros Koningsdam y Discovery Princess",
+  "liga": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTHBKZ21DNlN3VFBGSDRtQUZZSmlhNGNWZ19CcTc3Q1FKcFloQVBRY1F4QTdLRm92eFNzSEw5VjFnbFJacjFWSlB6MjBoa1dXZC16bm5MZlBZaFF1Sk9zLVhNMk5hNEQ2dzZZeEpNblU1Q3JQSWNQbWFCc3R3OWJ3RXRSbk4yN1dMN3dNa3NHYmVCd3F0RTAycW9aWFUtX2Y4VkJVTUlIbEN5a01ySEp4ZkEydkZNQU9FX09PSEtmR3ZVZU9Rdkdjcmo3bTE5Yl9GQmhRTGVRVEJWckFkbFZwbkZxTTZEV3hTSTd2bm8zY1hyajJTaFpqRjdITndtWUk?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T11:06:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Mazatlán recibe a más de 8,300 visitantes con el doble arribo de los cruceros Koningsdam y Discovery Princess Debate",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "30b960f2fe225883"
+ },
+ {
+  "titulo": "¡Visita inesperada! Lobo marino sorprende al nadar a la orilla en playas de Mazatlán",
+  "liga": "https://www.luznoticias.mx/2026-11-03/sinaloa/visita-inesperada-lobo-marino-sorprende-al-nadar-a-la-orilla-en-playas-de-mazatlan/313266",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T11:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b15bb13f5dd7a317"
+ },
+ {
+  "titulo": "Invita SEPyC a padres de familia a apoyar restricción de celulares en escuelas",
+  "liga": "https://noticieroaltavoz.com/invita-sepyc-a-padres-de-familia-a-apoyar-restriccion-de-celulares-en-escuelas/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-03T11:04:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Guasave, Sin.- La Secretaría de Educación Pública y Cultura (SEPyC) llamó a padres y madres de familia a respetar y respaldar la iniciativa que restringe el uso de teléfonos celulares durante la jornada escolar en planteles de educación básica, medida que entró en vigor este mart",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": true,
+  "id": "4404c6254ca0e284"
+ },
+ {
+  "titulo": "Detienen en Escuinapa a hombre armado y con presunta droga; lo relacionan con feminicidios",
+  "liga": "https://www.noroeste.com.mx/seguridad/detienen-en-escuinapa-a-hombre-armado-y-con-presunta-droga-lo-relacionan-con-feminicidios-PB27047976",
+  "medio": "Noroeste",
+  "publicada": "2026-11-03T11:03:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "ESCUINAPA. _ Elementos del Grupo de Operaciones Especiales Sinaloa (GOES) detuvieron a un hombre en posesión de un arma de fuego y 25 bolsas con presunta droga conocida como cristal, durante un operativo de seguridad en Escuinapa, al sur de Sinaloa. De acuerdo con la narrativa de",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3fa3056b2b18a8bc"
+ },
+ {
+  "titulo": "Cae culiacanense armado en Los Mochis",
+  "liga": "https://noticieroaltavoz.com/cae-culiacanense-armado-en-los-mochis/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-03T11:02:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Los Mochis, Sin.- Agentes de la Secretaría de Seguridad y Protección Ciudadana de Ahome, asignados al Grupo de Operaciones Tácticas Especiales Rural (GOTER), lograron el arresto de José Luis N, mayor de edad y con domicilio en el municipio de Culiacán, Sinaloa, por cometer el del",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "fb0710b8d8e7ee1f"
+ },
+ {
+  "titulo": "Invitan a la Expo & Galardón Canaco 2026 en Culiacán, Sinaloa, el próximo viernes",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/invitan-a-la-expo-galardon-canaco-2026-en-culiacan-sinaloa-el-proximo-viernes-1160239/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-03T11:00:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Aún hay accesos para asistir a la Expo & Galardón Canaco 2026 en Culiacán el próximo 6 de noviembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cfa3565b1678d632"
+ },
+ {
+  "titulo": "LMP: ¿Dónde y a qué hora ver EN VIVO Cañeros de Los Mochis vs Jaguares de Nayarit?",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzNXeGlobEJDYmU2bkNjejk1bWU1MXdIYXdPYWdSOWIzeVhhQ2gycWhyS1AtVUxzNHBjaXpLOHpIamIyd1NBeVZYSDVCN21YLU55NjVPaW9fbmxIdHRvUzhST2xadHZzN1VJMVYySEZkaFBWTW42X2VrNVJyaHhWYmlFeDQzSWNkUE5WSXVNMzBNdVZDSU1wVlpPQ3hWb2dxYnFDbkZ3X2NmTnY5WEd5bS1FdEdBUUs3QmRXUzVQQTBQU0ZtRE1SZ2JhLTVuUQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T11:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "LMP: ¿Dónde y a qué hora ver EN VIVO Cañeros de Los Mochis vs Jaguares de Nayarit? Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e798ff48a5e66cb9"
+ },
+ {
+  "titulo": "Presentan la cuarta Feria Internacional del Libro Culiacán",
+  "liga": "https://sinaloa.quadratin.com.mx/presentan-la-cuarta-feria-internacional-del-libro-culiacan/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T10:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Se realizará del 9 al 15 de noviembre en la Plazuela Álvaro Obregón.",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "c648b01d3ac876a9"
+ },
+ {
+  "titulo": "‘Sobre mis pasos’",
+  "liga": "https://riodoce.mx/2026/11/03/sobre-mis-pasos/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-03T10:55:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "addad802b6da8454"
+ },
+ {
+  "titulo": "Dos personas mueren y seis resultan heridas en salida de camino en la autopista Tepic-Mazatlán, en El Rosario",
+  "liga": "https://www.sinaloahoy.com.mx/portal/dos-personas-mueren-y-seis-resultan-heridas-en-salida-de-camino-en-la-autopista-tepic-mazatlan-en-el-rosario/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-03T10:55:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Dos personas mueren y seis resultan heridas en salida de camino en la autopista Tepic-Mazatlán, en El Rosario Dos muertos y seis heridos en la autopista Tepic-Mazatlán, a la altura de El Rosario, tras la salida de camino de una camioneta 🚐 🚨 #sociedad #ElRosario #Sinaloa Sinaloah",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "80612f3ae76ff314"
+ },
+ {
   "titulo": "Sheinbaum arremete contra Vicente Fox por audio sobre elección de 2006: “Es una confesión”",
   "liga": "https://vivalanoticia.mx/sheinbaum-arremete-contra-vicente-fox-por-audio-sobre-eleccion-de-2006-es-una-confesion/",
   "medio": "Viva la Noticia",
@@ -41,6 +972,34 @@
   ],
   "local": true,
   "id": "586e25fd0624cda4"
+ },
+ {
+  "titulo": "Descarta Rubén Miranda candidaturas de consolación para aspirantes de Morena en Culiacán",
+  "liga": "https://www.noroeste.com.mx/culiacan/descarta-ruben-miranda-candidaturas-de-consolacion-para-aspirantes-de-morena-en-culiacan-MB27047847",
+  "medio": "Noroeste",
+  "publicada": "2026-11-03T10:54:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El aspirante a coordinar los Comités de Defensa de la Transformación de Morena en Culiacán, Rubén Miranda López, descartó que hasta el momento existan ofrecimientos de candidaturas o espacios políticos alternativos para quienes no resulten favorecidos en el proceso interno del pa",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "a53f2d5bdf433c36"
+ },
+ {
+  "titulo": "Zamora avanza en redes",
+  "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzV0SlpkeHZ5WktmNnBrcXRQem1SZWxkd0RMY093Vlp6cnNLcDc4WFZKT3NaUUdXTzRnaUdUX0Q3MmhTV18ydzFsZ19sT04wZG5CWTRTak1Gbm9jN0lTLWI4TVJKUHBScnpEUlBiUXFKRDBWbmFidDY3ZlphRWg3eTZ2ejnSAXZBVV95cUxNTEY4dnFhSjQ2UmIxblRzSmxtVHh5OFFIczFicm4zOE5RdVY2ZmNPTWp0aUNDcmJuNTJQTk9MMjhJU0UzVGU5bnNjZV80SHk3YnBJMlBPekRuYjJsRFdrSXFSSWJ1dVRjRlRFNF9yTl9kdUNCMkFB?oc=5",
+  "medio": "La Política Online",
+  "publicada": "2026-11-03T10:54:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Zamora avanza en redes La Política Online",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "730fa682a920b4d7"
  },
  {
   "titulo": "Era de Ahome: identifican a hombre que murió al chocar contra un árbol en La Costera",
@@ -100,6 +1059,34 @@
   ],
   "local": true,
   "id": "fc1189f469a6bb8a"
+ },
+ {
+  "titulo": "Octubre se convierte en el mes más violento del año en Sinaloa con 169 homicidios",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObzZHT0g3Mnlsb0FvTUFLX29BbFJVcVV5NElFRERjb2x2b0VpRzBUVUgtV3lNa1pwLWNtLV9IYkJIWEpkZTZpRUktS0VIWHAxWFFMbkVFTWdTQmkxbHdOU1o2cnhkZzN6RDcwTUVVcVZBdEVkUXYtTlVPZVJFNlhIQV9zSURFR29DdjdTTndhTFBNUW41NnMyX0E4TURZMzdKN3NoRnBHWDZpb3oyZGdfSTF0MF9pUjBqbFBpeWdvWWszcm1ObUl6ZzhOc9IB0AFBVV95cUxOT1FILWk5aW9LNmdPYy1MREVPR2dUY1FFYVRaWjhBS1Z4SWtON3FUdjZLQmp6SFdfRTlYcWE0b0c2WUszZmZCTlRrYzFnNHpCeUpBcW9uQk9rbTNPTnpheHhNeXFkYTNZSzhkb2kwYU5SR25jYXV3Q09Oazl3VFFOMFdhX3JoNWdpR01VbzFGc1lsd2xveG9iam5ocW9LNEdfOE5FbFp0QnJXcGswcGxjOEtpdENVT0dLTFZKUGVxNVNpemxhX1J5N0doTWlXQW10?oc=5",
+  "medio": "Imagen Radio",
+  "publicada": "2026-11-03T10:49:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Octubre se convierte en el mes más violento del año en Sinaloa con 169 homicidios Imagen Radio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3893d9f464d3e7cd"
+ },
+ {
+  "titulo": "Investigación de La Sultana Informa vincula a la familia de Rubén Rocha Moya con desvío de más de 3 mil millones",
+  "liga": "https://www.sinaloahoy.com.mx/portal/investigacion-de-la-sultana-informa-vincula-a-la-familia-de-ruben-rocha-moya-con-desvio-de-mas-de-3-mil-millones/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-03T10:48:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Investigación de La Sultana Informa vincula a la familia de Rubén Rocha Moya con desvío de más de 3 mil millones Investigación liga a la familia de Rubén Rocha Moya con desvío de 3 mil millones 💰🚨 #ojopublico #Sinaloa #Culiacán Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloah",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ddecab4c4190ef92"
  },
  {
   "titulo": "¿Sinaloa, líder nacional en crecimiento?",
@@ -203,6 +1190,20 @@
   "id": "2d9b59db8e3e48f8"
  },
  {
+  "titulo": "ASF, el único que puede revisar al INE: Sheinbaum",
+  "liga": "https://sinaloa.quadratin.com.mx/asf-el-unico-que-puede-revisar-al-ine-sheinbaum/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T10:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La Secretaría Anticorrupción y Buen Gobierno, solo revisa áreas de la administración a nivel federal y no puede intervenir en la autonomía del INE.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "4ccbd3c294b6bf6d"
+ },
+ {
   "titulo": "Veracruzano es atacado con un arma punzocortante",
   "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlS1JXelJ1VkxJM1Y1STNsUDY3SzFYXzJuVzBKTzQtdEFTcnFwOGE5bEpmVnk4TU0yS2k3SGZ5Q0hDb3g4YXZ3dVJvV2RVbVNmMTEybEIzcmJPOWFtUjh4SmdfZzdueG1tcjZIcFd1LUN1MDBtcHFFM2hrbkc5ZE0?oc=5",
   "medio": "Viva la Noticia",
@@ -271,6 +1272,20 @@
   ],
   "local": true,
   "id": "013482bfb3e98b2c"
+ },
+ {
+  "titulo": "Martes y Miércoles del Campo Soriana: Ofertas del 3 y 4 de noviembre en frutas, verduras y carnes",
+  "liga": "https://www.luznoticias.mx/2026-11-03/mexico/martes-y-miercoles-del-campo-soriana-ofertas-del-3-y-4-de-noviembre-en-frutas-verduras-y-carnes/313265",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T10:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5026e9331deead34"
  },
  {
   "titulo": "Presentan Sheinbaum e Issste programa de 12 puntos en 120 días, incluyendo rehabilitación de hospital en Culiacán",
@@ -419,6 +1434,20 @@
   "id": "6225aa262938e515"
  },
  {
+  "titulo": "Reportan primera muerte infantil por sarampión en Nueva York en 30 años",
+  "liga": "https://sinaloa.quadratin.com.mx/reportan-primera-muerte-infantil-por-sarampion-en-nueva-york-en-30-anos/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T10:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "La gobernadora Kathy Hochul expresó sus condolencias y calificó el fallecimiento como una pérdida devastadora para la comunidad.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "d3dcc129ac2d701e"
+ },
+ {
   "titulo": "Norma Julieta del Río pide a la ASF revisar monederos electrónicos entregados a diputados de Morena",
   "liga": "https://www.sinaloahoy.com.mx/portal/norma-julieta-del-rio-pide-a-la-asf-revisar-monederos-electronicos-entregados-a-diputados-de-morena/",
   "medio": "Sinaloahoy",
@@ -431,6 +1460,20 @@
   ],
   "local": true,
   "id": "fe461bf21e1f0669"
+ },
+ {
+  "titulo": "Inés Gómez Mont: Sheinbaum señala presunto vínculo de la conductora con lavado de dinero y factureras",
+  "liga": "https://www.luznoticias.mx/2026-11-03/mexico/ines-gomez-mont-sheinbaum-senala-presunto-vinculo-de-la-conductora-con-lavado-de-dinero-y-factureras/313267",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T10:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7d05095d07a758fe"
  },
  {
   "titulo": "Andy López Beltrán niega vínculos con negocios de Jorge Amílcar Olán y huachicol fiscal",
@@ -590,6 +1633,21 @@
   "id": "0d7d12d60a4f4d11"
  },
  {
+  "titulo": "Gobierno presenta 12 acciones en 120 días para el ISSSTE",
+  "liga": "https://sinaloa.quadratin.com.mx/gobierno-presenta-12-acciones-en-120-dias-para-el-issste/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T10:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "El proyecto incluye la rehabilitación integral del Hospital Regional Manuel Cárdenas de la Vega en Culiacán.",
+  "temas": [
+   "Servicios públicos",
+   "Salud"
+  ],
+  "local": true,
+  "id": "48108a054ae08551"
+ },
+ {
   "titulo": "Denuncia contra Taddei corresponde a la ASF: Sheinbaum",
   "liga": "https://riodoce.mx/2026/11/03/denuncia-contra-taddei-corresponde-a-la-asf-sheinbaum/",
   "medio": "Ríodoce",
@@ -718,6 +1776,24 @@
   "id": "e50685e98c11ccad"
  },
  {
+  "titulo": "Accidente en la Tepic-Mazatlán deja dos muertos y seis heridos; viajaban menores y un bebé",
+  "liga": "https://www.noroeste.com.mx/seguridad/accidente-en-la-tepic-mazatlan-deja-dos-muertos-y-seis-heridos-viajaban-menores-y-un-bebe-CB27045788",
+  "medio": "Noroeste",
+  "publicada": "2026-11-03T09:57:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "ROSARIO. _ Dos personas sin vida y seis lesionadas, entre ellas un bebé de aproximadamente seis meses y dos menores de edad, es el saldo preliminar de la salida de camino de una camioneta que transportaba jornaleros agrícolas migrantes, registrada sobre la autopista Tepic-Mazatlá",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Migración",
+   "Campo y pesca",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "a22ced62f02c5fb4"
+ },
+ {
   "titulo": "Secretaría de Seguridad Pública detiene a hombre armado con presunta droga en Escuinapa",
   "liga": "https://www.sinaloahoy.com.mx/portal/secretaria-de-seguridad-publica-detiene-a-hombre-armado-con-presunta-droga-en-escuinapa/",
   "medio": "Sinaloahoy",
@@ -759,6 +1835,36 @@
   ],
   "local": true,
   "id": "dbd6411766bb6a69"
+ },
+ {
+  "titulo": "Gobernadora Graciela Domínguez y Alcalde Antonio Menéndez fortalecen a pequeños negocios con Equipa Sinaloa.",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHpLNmloMC1RV1V0ODZxbmFlOUtVWE1OQko1dG9ZdURKdnBhSHQ5VVFndnN0SDVCaHJFalpnb0ZITG5fQm16d0t3b3RFYS0xdVFKRTFhclBfR3Q3LUJlV0MwaURBMjVWdUJuOFRXUkZuVDVNZjloWi1WQms2anMxT09RNmtUaTNOaElhWk9PZlZwTFZrRGlUVUkxaFlWb0V4bEVQZFpsaENFQmVOb3BoamNuLWlNY3cyLV9LRi1uVUVaVUFNRy1Xek1nT0N3Zw?oc=5",
+  "medio": "H. Ayuntamiento de Ahome",
+  "publicada": "2026-11-03T09:52:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Gobernadora Graciela Domínguez y Alcalde Antonio Menéndez fortalecen a pequeños negocios con Equipa Sinaloa. H. Ayuntamiento de Ahome",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "3ca73be8d863b51b"
+ },
+ {
+  "titulo": "Rescatan gato montés en San José Iturbide, Guanajuato",
+  "liga": "https://sinaloa.quadratin.com.mx/rescatan-gato-montes-en-san-jose-iturbide-guanajuato/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T09:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "En total, ocho integrantes de ambas corporaciones participaron en el operativo para reintegrar al ejemplar a su hábitat natural.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b694c5c40f52ec8d"
  },
  {
   "titulo": "“Yo sé que la afición está preocupada, pero al final es estar dentro de playoffs”: Randy Romero",
@@ -932,6 +2038,20 @@
   "id": "24e64311766824e6"
  },
  {
+  "titulo": "Sinaloa registra 0% de sequía mientras aumentan las afectaciones en México",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXRvZnptMzk1RmVtVnZITE0zNFlyQzZRcFV6NEkyWDJoeHlYckpPSWsxdjdCOFAwaHlfNW8yb0lRVG5MdWJRT3h4WlB3X3lSTG5tbHRJd0VMVUs0UFd4enQ1SHBKRFJybHpFSV91Smd3OUQtYmNHTTh0c0VQRUZnNXhpRGRwc2dmTFByeFZ3azd1OENCLVg3aUE4bmNIUWF4Z1h6TXVlN21sM1l0ZTRZcjBJemtuNVA0OHE3LWhMaEZaSXVyYVUwTFVZWWNDellO?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T09:39:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Sinaloa registra 0% de sequía mientras aumentan las afectaciones en México Debate",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "d6dc16eddfd77fc4"
+ },
+ {
   "titulo": "Clima Sinaloa: Continúa el calor este martes 3 de noviembre",
   "liga": "https://revistaespejo.com/2026/11/03/clima-sinaloa-hoy-calor-martes-3-de-noviembre-2026/",
   "medio": "Revista Espejo",
@@ -945,6 +2065,20 @@
   ],
   "local": true,
   "id": "b05f188efa564a62"
+ },
+ {
+  "titulo": "Trump después de la derrota de este martes",
+  "liga": "https://sinaloa.quadratin.com.mx/trump-despues-de-la-derrota-de-este-martes/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T09:36:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Se equivocará quien haya pensado, dentro o fuera del gobierno, que la derrota de Trump significaría el fin de la pesadilla.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fa592b74487ed598"
  },
  {
   "titulo": "Marina golpea estructuras de mando criminal en cinco estados en dos semanas.",
@@ -1034,6 +2168,20 @@
   "id": "0d8e1c6aec23271c"
  },
  {
+  "titulo": "Riña en Marina Mazatlán termina con hombre herido de arma blanca en el cuello",
+  "liga": "https://www.noroeste.com.mx/seguridad/rina-en-marina-mazatlan-termina-con-hombre-herido-de-arma-blanca-en-el-cuello-CB27045070",
+  "medio": "Noroeste",
+  "publicada": "2026-11-03T09:31:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "MAZATLÁN. _ Un hombre resultó con una herida de arma blanca a la altura del cuello tras registrarse una riña en el estacionamiento de una tienda de conveniencia, ubicada sobre la avenida Paseo del Pacífico, en la zona de la Marina Mazatlán. De acuerdo a los primeros reportes, la ",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "fb2f939989518dc2"
+ },
+ {
   "titulo": "La Derecha quiere acabar con el gobierno del pueblo, pero eso está difícil: Sheinbaum",
   "liga": "https://noticieroaltavoz.com/la-derecha-quiere-acabar-con-el-gobierno-del-pueblo-pero-eso-esta-dificil-sheinbaum/",
   "medio": "Noticiero Altavoz",
@@ -1062,6 +2210,20 @@
   "id": "3cb5c2afc0db0437"
  },
  {
+  "titulo": "Muere mujer tras choque contra inmueble y poste en Monterrey",
+  "liga": "https://sinaloa.quadratin.com.mx/muere-mujer-tras-choque-contra-inmueble-y-poste-en-monterrey/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T09:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Tras el percance otra mujer resultó herida.",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "2f13b4e853b33560"
+ },
+ {
   "titulo": "Hombre es perseguido y ejecutado a balazos dentro de su casa en la colonia Azteca en Mazatlán",
   "liga": "https://losnoticieristas.com/policiaca/2026/11/hombre-es-perseguido-y-ejecutado-a-balazos-dentro-de-su-casa-en-la-colonia-azteca-en-mazatlan-1160202/",
   "medio": "Los Noticieristas",
@@ -1074,6 +2236,20 @@
   ],
   "local": true,
   "id": "51a91746a98d4410"
+ },
+ {
+  "titulo": "¿Por qué KFC cerró sus restaurantes en Puerto Rico?",
+  "liga": "https://www.luznoticias.mx/2026-11-03/mexico/por-que-kfc-cerro-sus-restaurantes-en-puerto-rico/313271",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T09:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "701aa5b5b9072a7f"
  },
  {
   "titulo": "Videos exhiben presunto modus operandi de asaltantes en negocios de cuatro colonias de Culiacán",
@@ -1278,6 +2454,21 @@
   "id": "ae363ea62ff16fc0"
  },
  {
+  "titulo": "Hallan en Jalisco a queretano reportado desaparecido por falso trabajo",
+  "liga": "https://sinaloa.quadratin.com.mx/hallan-en-jalisco-a-queretano-reportado-desaparecido-por-falso-trabajo/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T09:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Se trasladó a Jalisco bajo engaños debido a una falsa oferta de empleo.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "45d08a09792544b7"
+ },
+ {
   "titulo": "Alerta en aeropuertos de Europa: amenazas de bomba activan operativos en 4 vuelos internacionales",
   "liga": "https://lineadirectaportal.com/internacional/alerta-en-aeropuertos-de-europa-amenazas-de-bomba-activan-operativos-en-4-vuelos-internacionales-2026-11-03__1732455",
   "medio": "Línea Directa",
@@ -1292,6 +2483,20 @@
   "id": "494188001a747fe5"
  },
  {
+  "titulo": "México, estado por estadoSinaloa: la violencia no puede volverse paisaje - La Prensa",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcGdmU3V2eGpFUVFTT1daQlZYd1hGYjRBX1ZsX1Y0SFNVT0V4VzZrN0laeFg5UXIyQ2hyWHRKS2lTcUNLTEtrb05xcFkxTFdwM0FSR1FXVDBrREdvRWZxNEc5N01vY3pQRFZ3WVhNUFplekEzZFVIaS1rQ1ZtMFFMOVhMS3FadGMzOVAxYkxvTTB3ZDlia3B1bU1zekNKdGtuOU5hcEdnRmt0c3lrUno4RzdycjMyZ3RB?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-03T09:08:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "México, estado por estadoSinaloa: la violencia no puede volverse paisaje - La Prensa El Sol de México",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "87b6b41d550cfbaa"
+ },
+ {
   "titulo": "SIN PELOS EN LA LENGUA",
   "liga": "https://visionciudadana.com.mx/sin-pelos-en-la-lengua/",
   "medio": "Visión Ciudadana",
@@ -1304,6 +2509,20 @@
   ],
   "local": true,
   "id": "e340ce437a78230f"
+ },
+ {
+  "titulo": "Este martes, en Noticiero Noroeste: Disparan contra un policía municipal en Mazatlán",
+  "liga": "https://www.noroeste.com.mx/culiacan/este-martes-en-noticiero-noroeste-disparan-contra-un-policia-municipal-en-mazatlan-BB27043662",
+  "medio": "Noroeste",
+  "publicada": "2026-11-03T09:07:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1eb3d9c13cd91594"
  },
  {
   "titulo": "Estrella Palacios en su narcocarnaval",
@@ -1918,6 +3137,20 @@
   ],
   "local": true,
   "id": "07f4c8058d1f8ec6"
+ },
+ {
+  "titulo": "Detienen a hombre armado y con presunta droga en Escuinapa; investigan posible vínculo con feminicidios",
+  "liga": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY0JNeVRlMGJBckQzTnNFTFgzbk5STDljcTBoV1U0RF91aHlmWWZ1Vk9aVjFzLW1hU1Fja0RWV2xqWDMwLTZTN1NrT3VVWURhUW1GZVFGOGxNSEdFSG80Mk5vTXZyRFBJTkJqdW1TLWU4UWlicUYtR01rUDJBRHFmQTA2Mi0xbDZqT0luSXZiUUJwcHVKVlJvWUZiNEtkQ2c0cWlVQ3Z6WEhwWWhXV2RhdWxiVW4xRGNEVF80NldaUFZJZHFnV0VVamtwQVEtWDRQeWkzdFhpSGtnOFAwakZTbkdwdFpMMXpmVWhjSFZnRGxQSzVZejBNUw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T07:48:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T11:52:00-06:00",
+  "resumen": "Detienen a hombre armado y con presunta droga en Escuinapa; investigan posible vínculo con feminicidios Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ab2638bb1a886b31"
  },
  {
   "titulo": "Destaca investigación nutricional de la UAS en Barcelona: Proyecto sobre la dieta de milpa es reconocido en Congreso Nutrients 2026",
