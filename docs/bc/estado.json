@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-03T05:27-06:00",
+ "actualizado": "2026-11-03T06:26-06:00",
  "corte": "2026-11-03",
  "ventana": [
   "2026-11-02T20:00-06:00",
   "2026-11-03T20:00-06:00"
  ],
- "total": 207,
+ "total": 228,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -45,8 +45,8 @@
   },
   {
    "fuente": "El Congresista",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "notas": 30
   },
   {
    "fuente": "El Portavoz",
@@ -101,7 +101,7 @@
   {
    "fuente": "Google News: site:milenio.com Ensenada",
    "ok": true,
-   "notas": 1
+   "notas": 2
   }
  ]
 }

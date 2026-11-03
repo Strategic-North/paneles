@@ -1,5 +1,233 @@
 [
  {
+  "titulo": "El peor Trump",
+  "liga": "https://lado.mx/noticia/22221420/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T06:25:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "ESTRICTAMENTE PERSONAL Raymundo Riva Palacio En Palacio Nacional llegaron a las elecciones intermedias en Estados Unidos con una victoria pírrica: las amenazas que recibieron de que eran inminentes más acusaciones contra el gobernador de Sinaloa, Rubén Rocha Moya, y otras figuras",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "c198990b3dd92898"
+ },
+ {
+  "titulo": "¡De bajo cero a 40 °C! Frente frío 4 marca contrastes en México; así se espera el clima hoy",
+  "liga": "https://lineadirectaportal.com/mexico/de-bajo-cero-a-40-c-frente-frio-4-marca-contrastes-en-mexico-asi-se-espera-el-clima-hoy-2026-11-03__1732401",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T06:25:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "El SMN prevé chubascos en 14 estados, temperaturas bajo cero en zonas serranas del norte y calor de hasta 40 °C en seis entidades",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "d1f0deec01e7ff09"
+ },
+ {
+  "titulo": "Ana Miriam Ramos destaca la prevención para combatir los delitos en Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYkhGb3dHOEFFNDQ1ekhjd0k2aUNzU09rUnNRVjk0U2ZYcFBCNktLb0VES1dndWR5YmxhSW5aSDBhM25meHgzOTNwWlFfLUhNeDNiZmtPVl9YbmNXbzVyak14VWVkNzN4SVM2WW1zY3dmSThFcE14dmdTbXVwX2o2b2dmUlVXRUNRbDkyc0Z5UkJVdFVfV3NTbTRrV0lrRHQtUWxGUVdkVWJiWEtYZC1FbWh1UU80VnJBbzBzQ2VPTVQ1WVFEbXc2dlFBUkJIU0NxNHpPNw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T06:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Ana Miriam Ramos destaca la prevención para combatir los delitos en Culiacán Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a5978600def88045"
+ },
+ {
+  "titulo": "Sinaloa registra 201 muertes violentas en octubre; homicidios aumentan 31%",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQzRDRlVMVE96M1ZmVHZoV29Hc2ItLVZtLVFnZlhCZEpWb1oxS0k3NmJFWmppQlhTck92TXJrTWI5Vzk2YjRFenNKUHU4VkE3dUxtLXJoOXRWY0pCdmVZcldKbzRkMVlBWjJCcVV2V2ZrYXMwRVRSVGpyNEt4ZE02ci1VUUVxSzlRNy1ZZjZMOXlPZWkzRkRlWjFZSW9hNUZOTXE4?oc=5",
+  "medio": "Enfoque Noticias",
+  "publicada": "2026-11-03T06:19:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Sinaloa registra 201 muertes violentas en octubre; homicidios aumentan 31% Enfoque Noticias",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2c8fce1cc997ee51"
+ },
+ {
+  "titulo": "Un anticiclón llega y frena las lluvias en Sinaloa ¿Cómo vienen las temperaturas para hoy?",
+  "liga": "https://lineadirectaportal.com/sinaloa/un-anticiclon-llega-y-frena-las-lluvias-en-sinaloa-como-vienen-las-temperaturas-para-hoy-2026-11-03__1732394",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T06:16:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "El frente frío número 4 estará activo en México, pero sus efectos no alcanzarán directamente a Sinaloa, donde dominarán el ambiente caluroso, las rachas de viento y la baja probabilidad de lluvias",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "4d66fb547cb9791e"
+ },
+ {
+  "titulo": "Cielo despejado y temperaturas de hasta 34.5 grados marcarán el clima en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRlZJNnZkYmx4NF9RNTdrSlkwNFAxSmRDVEVtLXdWZ0ZweEdCN1hmNDVKR2gyei1YNnYzSXhMNE4zY0E3TnE1d1JpdzZwQ1lyOEZOMEtYbHpTZDFHYS1odWNuT3MtVk9PSnI4Z2RReFRQVExfRDAzZ1RERlhKV0ZvbXhZTXp4OVZDcUNVX3NGYllvQXVkUENKelJfdVdVeGlhcVB2R25ScC1VWFJSUjEwYU8zVExReTFrN3kzTDQ5NXdZd1JrTHlFSUR0N0h3ZEczTXdPTzc3bnNEdEdz?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-03T06:15:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Cielo despejado y temperaturas de hasta 34.5 grados marcarán el clima en Sinaloa El Sol de México",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "78873c9fcaa94769"
+ },
+ {
+  "titulo": "Precios de combustibles en México: ligera alza en Magna y baja en diésel 3 de noviembre 2026",
+  "liga": "https://lineadirectaportal.com/economia/precios-de-combustibles-en-mexico-ligera-alza-en-magna-y-baja-en-diesel-3-de-noviembre-2026-2026-11-03__1732386",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T06:15:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Este 3 de noviembre de 2026, los precios de los combustibles en México muestran estabilidad con un leve aumento en la gasolina Magna y una reducción en el diésel, según datos de PetroIntelligence y la Secretaría de Hacienda.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "80010247ddd9911f"
+ },
+ {
+  "titulo": "Sanoral de hoy 3 de noviembre: ¿Qué santo se celebra este martes y a quién felicitar?",
+  "liga": "https://www.luznoticias.mx/2026-11-03/mexico/sanoral-de-hoy-3-de-noviembre-que-santo-se-celebra-este-martes-y-a-quien-felicitar/313180",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-03T06:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f91d5859f265cdbf"
+ },
+ {
+  "titulo": "Tipo de cambio hoy: ¿Cómo cerró el peso frente al dólar el 3 de noviembre?",
+  "liga": "https://lineadirectaportal.com/economia/tipo-de-cambio-hoy-como-cerro-el-peso-frente-al-dolar-el-3-de-noviembre-2026-11-03__1732382",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-03T06:10:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "El peso mexicano muestra una ligera recuperación frente al dólar este martes 3 de noviembre de 2026, aunque aún se mantiene depreciado respecto a octubre. Conoce el tipo de cambio oficial y su impacto en tus finanzas.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "2bcfed61db72983a"
+ },
+ {
+  "titulo": "Itinerario político",
+  "liga": "https://sinaloa.quadratin.com.mx/itinerario-politico-853/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-03T06:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Sin duda la señora Taddei debe pagar con cárcel sus fechorías,",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e0f15cb2b3911440"
+ },
+ {
+  "titulo": "Édgar González, una imposición en Morena que huele a derrota",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVZKX1gxcUZTVnloV2U4N1hXaUtwQ0pXNEg0b0ZNZzJkT1JMcDU2UjhaRHY2aHA2QWkyQ0d0M25sbUJJWlhZTE9jQmNEWVY4QXA4bzRnWUctV3RfTVNFWVRpclJyVndyalNIcjBBZW8xS0VxZDdLSVFudF9JblBCU3BTQ0huRllxN1RCc1FyWGk0NlEybnlFandTa1ZtOFJzZGJ2anN1LWxOTzBabE4wRWxR?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T06:00:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Édgar González, una imposición en Morena que huele a derrota Debate",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ca4373c519249122"
+ },
+ {
+  "titulo": "Hallabn sin vida a agente de la Guardia Nacional en Culiacán; su pareja es el principal señalado",
+  "liga": "https://lado.mx/noticia/22221219/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T05:50:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Christian Ziboney, agente de la Guardia Nacional, fue localizada muerta en su departamento de Culiacán; autoridades buscan a su pareja sentimental, señalado como presunto responsable.La entrada Hallabn sin vida a agente de la Guardia Nacional en Culiacán; su pareja es el principa",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8fd3a4a2abc860bc"
+ },
+ {
+  "titulo": "En video | Así se despertaron los colombianos tras el fuerte temblor de 5,6 que se registró en la madrugada del 3 de noviembre",
+  "liga": "https://lado.mx/noticia/22221216/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T05:50:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "El sismo fue a las 4:13 a. m. y tuvo como epicentro a Chaparral, Tolima y se sintió en diferentes lugares del país",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "ba1c0780ef357ec4"
+ },
+ {
+  "titulo": "Escuelas de Sinaloa podrían entregar gratis productos de higiene menstrual a alumnas",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjdUQ0o5VGZocGtBVzlCNWdjWGZEWm9zRTlhb000N3N1czQyQ3RJOU9qZXRsUW9TaHZoQlRuLUR6UVZHSmZ4QXI1V2hSRzNBY3FVSmFVazAzaHNYODFSbUtGZnhzOFpFazMzT0t5Q2tRNlZfRHJWd1h2WnRFT1NkZEZmbzhlQzlxOERsMlM2QUc2MUg4N0RSUkJoVjExOWdnZ0M0aERZcXZ0RmVqWUNMMXowVlRNZThUYWdScmd0YnYyOTZGVGpCR25EMktYdw?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-03T05:48:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Escuelas de Sinaloa podrían entregar gratis productos de higiene menstrual a alumnas El Sol de México",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "aacfbcde7597dffc"
+ },
+ {
+  "titulo": "¿A cuánto el dólar? Revisa cómo se mueve la moneda estadounidense en los bancos más grandes de México",
+  "liga": "https://losnoticieristas.com/nacional/2026/11/a-cuanto-el-dolar-revisa-como-se-mueve-la-moneda-estadounidense-en-los-bancos-mas-grandes-de-mexico-1159554/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-03T05:42:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "El dólar estadounidense continúa siendo una de las monedas de mayor relevancia en la economía mundial y sus movimientos también tienen efectos en México. Las variaciones en su valor pueden influir en el precio de productos importados, combustibles y viajes al extranjero, además d",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "1f4f5fb3843d1302"
+ },
+ {
+  "titulo": "Hallan muerta a agente de la GN en Culiacán; reportan a policía herido en Mazatlán",
+  "liga": "https://lado.mx/noticia/22221197/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-03T05:40:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Christian Ziboney, agente de la Guardia Nacional, fue localizada muerta en su departamento de Culiacán; autoridades buscan a su pareja sentimental, señalado como presunto responsable.La entrada Hallan muerta a agente de la GN en Culiacán; reportan a policía herido en Mazatlán apa",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "536bfe184293bfe6"
+ },
+ {
   "titulo": "¿Rumbo a la gasolinera? Revisa el precio promedio de la gasolina en México y Sinaloa en la primera semana de noviembre",
   "liga": "https://losnoticieristas.com/nacional/2026/11/rumbo-a-la-gasolinera-revisa-el-precio-promedio-de-la-gasolina-en-mexico-y-sinaloa-en-la-primera-semana-de-noviembre-1159536/",
   "medio": "Los Noticieristas",
@@ -200,6 +428,20 @@
   ],
   "local": true,
   "id": "7230f50e7de26560"
+ },
+ {
+  "titulo": "Pronóstico del clima en Tepic hoy 03 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZDV1SW50dDlnLXctRC1yT2gzMlZCYlFIcjhNZGRhOXM0UFNWZ2VhQVN2emZoV3hrYU5UZDFDWmdORVdIZlhWNzNHS2NwMHhxWHdHRVZTVUQxQXh0Wi0zU3I5b0xzblZMX3lxQjBhMW90TFM4NG5RZmxGWGtRQ0U4ak11VWxQc0RVTVl5dTVFZEliRkRWQXh3ZjFSVHNqeE42anNxbURva2NMZVR2?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T04:30:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-03T06:26:46-06:00",
+  "resumen": "Pronóstico del clima en Tepic hoy 03 de noviembre de 2026 Debate",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "b905ed70e148a86e"
  },
  {
   "titulo": "Tras atentados en anexos, Mazatlán promete más patrullajes",
