@@ -1,5 +1,80 @@
 [
  {
+  "titulo": "Oposición pide investigar distribución de tarjetas entre diputados",
+  "liga": "https://elcongresista.mx/justicia/oposicion-investigacion-tarjetas-morena",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T03:31:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "La oposición en la Cámara de Diputados pide investigar la entrega de tarjetas de 10 mil pesos a legisladores de Morena, defendiendo la transparencia.",
+  "temas": [
+   "Política y partidos",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4b54108636be2164"
+ },
+ {
+  "titulo": "Demócratas toman control del Senado y la Cámara en elecciones clave",
+  "liga": "https://elcongresista.mx/politica/nacional/democratas-control-senado-camara-elecciones-2022",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T03:15:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "Los demócratas obtienen el control del Senado y la Cámara tras elecciones de medio término en EE.UU., marcadas por el rechazo al mandato de Trump.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c01c1c2aa62a1dc1"
+ },
+ {
+  "titulo": "Javier May cuenta con 66% de aprobación entre tabasqueños",
+  "liga": "https://elcongresista.mx/politica/nacional/javier-may-aprobacion-tabasco-encuesta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T03:02:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "Javier May, gobernador de Tabasco, tiene una aprobación del 66% según encuesta de Enkoll para EL UNIVERSAL.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9fa8e81f8ac5fc5e"
+ },
+ {
+  "titulo": "Madres buscadoras protestan en Tuxtla Gutiérrez por justicia",
+  "liga": "https://elcongresista.mx/politica/chiapas/madres-buscadoras-protestan-justicia-tuztla-gutierrez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T03:01:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "Madres buscadoras de Chiapas protestan por justicia ante la FGE por feminicidios y desapariciones sin respuestas efectivas de las autoridades.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5f9fd463c3d4b76f"
+ },
+ {
+  "titulo": "Cespt informa que noviembre es el último mes para solicitar condonación de adeudos para personas en situación vulnerable",
+  "liga": "https://www.uniradioinforma.com/gobierno/cespt-informa-noviembre-ultimo-mes-solicitar-condonacion-adeudos-personas-situacion-vulnerable-n911998",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T02:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "El Decreto Social permite condonar adeudos por consumo doméstico, recargos y derechos de conexión a quienes cumplan los requisitos.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ef7ef46a298e7342"
+ },
+ {
   "titulo": "Nuevo León reporta 99.6% de cobertura de agua potable y 98.6% de alcantarillado",
   "liga": "https://elcongresista.mx/politica/nuevo-leon/nuevo-leon-cobertura-agua-potable-alcantarillado",
   "medio": "El Congresista",
@@ -815,6 +890,34 @@
   "id": "f917d203a8bcaf97"
  },
  {
+  "titulo": "Suman 30 bajas en el INEtras salida de Taddei",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUQxeW9jMFRMZ21uUFU0UmQ0OU92eGNodkFqN2NoVGVsYVZUcDh4RkI2WFozQWc0X2dFS21wa01KWmNVeUNpbjhhQWp1OW1vaFQtaUZuemgwbEV1QkZXYWxtbDBBTVViaGVSUlBiUnBZRlZMSlQ5U19kdWNmVkpqWG1UcE1KdDcwUTBJUElMVm1Vd3RxT1NMRjdZbkVVZEotRlE?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-04T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "Suman 30 bajas en el INEtras salida de Taddei El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "23e1bc6c4d315e18"
+ },
+ {
+  "titulo": "Pide 20 años de cárcel hermano de El Mencho",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFVxem1EY2RhdTJXU291eVFNSFdmbUxhRWdXUUwyNnNOd29PMkszeHBMdlRTQVl1UENZcjhPWG9Cd0lrR0otVHpoT19RSFJYWWRaZjBXSFZzcl9uRUE0Zk55SHpXNW1jeXlZZDhoUHMzOVdtWmpiN29uUGV0ckhEVTZSdVZ0d1pnS1NCS3NnZ3dHalBMR1lkQmxJWGp6LUE?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-04T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "Pide 20 años de cárcel hermano de El Mencho El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dc579833e4cb393e"
+ },
+ {
   "titulo": "Sentencian a mujer partícipe en asesinato de Damián Sáenz en Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Icm5xbnNKUVZzaGx1al95TjdBUGhuWGduWi1KZHNxSG9Pd1daY0gtLXh5RGtxeEx2T0J6NUptdmxfN1BRZUhPUG1XZk9OSVpQQzFMR3FqOG11Z0k?oc=5",
   "medio": "Ensenada.Net",
@@ -1424,6 +1527,20 @@
   "id": "bdf721d07977f473"
  },
  {
+  "titulo": "Reporta Sindicatura de Tijuana 30 inhabilitaciones y revisión de 919 patrullas",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUFONm82Ul95S0ZOLVhTNE5ZVWRJS0xGRlRER2pLQWxIa3U5a1FUTUVkVlRnbG4zM3lJQi1vb3FhdU1pOUdVYm91VGx4bHFaVGhXVFh3UW5nMl85Uy12LTViaXF5Q0ZZejFRWWVsUVlIODFRTEtYdFBqSU12Sm1mSV9CRGVMcHNHWDhROG9YSS1jNXptTjRBYjI0bWtDTktjUFlsa1prSTNEQnBlcEl0MWwzNmM?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-03T22:19:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "Reporta Sindicatura de Tijuana 30 inhabilitaciones y revisión de 919 patrullas Baja News",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "dc39f38fb158cc18"
+ },
+ {
   "titulo": "Michoacán: inauguran rehabilitación de caminos con 19.6 mdp en Cotija",
   "liga": "https://elcongresista.mx/politica/michoacan/michoacan-rehabilitacion-caminos",
   "medio": "El Congresista",
@@ -1495,6 +1612,20 @@
   ],
   "local": true,
   "id": "1bb44fc227f7d953"
+ },
+ {
+  "titulo": "García Castro vincula obras de agua y energía con la soberanía de Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGpnUUgzTmpGODVpYmtJcDJlaVRXUTctMzVUNWpiVTdXemNxMjVCeUFnTDhfRHdSY3RNNTJOTnJJNm5NMUZ6anVIay1fTHdDcEVmcEhiMzVrRlpRSDV6TzdxY1pmamU1QkZzaEVzRXNjVENtSXVIM0hfWnZneWE5TUVrZGQ3TGtLbjdJN1FXbTRzSUVPcG8tQ283MmVkZm9jOWFieVZHb1JvcS0wTWpSZHhMRVRJaTVP?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-03T21:53:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T03:34:30-06:00",
+  "resumen": "García Castro vincula obras de agua y energía con la soberanía de Baja California Baja News",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "c3da71692401f8a2"
  },
  {
   "titulo": "Resultados Tris Clásico hoy 3 de noviembre: números ganadores",
