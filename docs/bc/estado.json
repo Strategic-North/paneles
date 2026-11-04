@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-04T03:34-06:00",
+ "actualizado": "2026-11-04T05:57-06:00",
  "corte": "2026-11-04",
  "ventana": [
   "2026-11-03T20:00-06:00",
   "2026-11-04T20:00-06:00"
  ],
- "total": 168,
+ "total": 175,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -45,8 +45,8 @@
   },
   {
    "fuente": "El Congresista",
-   "ok": true,
-   "notas": 30
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "fuente": "El Portavoz",
@@ -86,12 +86,12 @@
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 79
+   "notas": 83
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
    "ok": true,
-   "notas": 2
+   "notas": 1
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",

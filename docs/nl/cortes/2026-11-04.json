@@ -1,5 +1,482 @@
 [
  {
+  "titulo": "¿Los robots están reemplazando trabajadores en Nuevo León? Así cambia el empleo con la automatización industrial",
+  "liga": "https://www.posta.com.mx/nuevo-leon/los-robots-estan-reemplazando-trabajadores-en-nuevo-leon-asi-cambia-el-empleo-con-la-automatizacion-industrial/vl2274736",
+  "medio": "Posta",
+  "publicada": "2026-11-04T05:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "5263c0014d4c399b"
+ },
+ {
+  "titulo": "La ASF en el escenario nacional: Nuevo León y Sinaloa bajo la lupa; Tamaulipas con menores observaciones",
+  "liga": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ITURnWXNNUlVTOXBfaW1ndnVkX0xiQUtDMUJkRWxlT1NkRU9FbTJSMVZXRDV5UnZ0SjhTNjNlc19oeTdqdk1kSHhmUlpDSEFkT3dYYTF3?oc=5",
+  "medio": "La Prensa.mx",
+  "publicada": "2026-11-04T05:52:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "La ASF en el escenario nacional: Nuevo León y Sinaloa bajo la lupa; Tamaulipas con menores observaciones La Prensa.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "459e703f96f49a39"
+ },
+ {
+  "titulo": "Noticiero Guillermo Ortega",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPblgwRW8xWUtDdkt3ZC1MdmNyOXBBLWk1U3lmYm9ZR2hrREd2M1FaaFYtM0F1VW9HZDFOTldyS3BjZE9SOVI1UHp3WTJSSC1LaVJRUjh6ZEMxeWZtQ3ZMOEZzRThWVzVjb2ZDMkJILXpvYndWY0g0cVhBNlNXUzAyNFJPTlB2X2M2RUE?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-04T05:46:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Noticiero Guillermo Ortega El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1fadb90549142d4d"
+ },
+ {
+  "titulo": "Desaparece menor de 15 años en Guadalupe",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZktHeXVhbUZLN1Atb2FkLXVpVTFpYy1DMjE2ZHVEMUN2S2NDSmlTaHE1eTlKZWN1N0I4UmtEQldPSEVzQkcxWEJVczRoRjFuSnZ2V21iTnVmQW9yOHdhRHZISDctSXkwcDNMeXNiZWl1SVRpSEdVRDFsTnpDZC1vT2syWEJwS3h1clVhZ2Z2OTVRZlBCUkYtU05VRnZ2QQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-04T05:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Desaparece menor de 15 años en Guadalupe MVS Noticias",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "77d412b314116a3a"
+ },
+ {
+  "titulo": "La economía mundial cambia de motor: ¿puede México aprovechar la revolución de la IA?",
+  "liga": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWVd1Zkc1VWZ3a1Z0OEs0UGNPNVdiQjZQN2JiLTg4N0J5X0FnVFl2VXVNQUlRX3U3RlFKTVdpWHhSQWpSbWFGLXFpa3FPSkk2X1NDRUEybEN3YWV4cEhHdnlKWUJJWk5EekdFSUx3TVJLOW84MXVhd0VqM0ZuSjdWVUdSejN1UUNUME5oTUtUWkg2OHBVMi1nS3BWLUpINmVtU3c0Ylg3T0hkVmtQcWlSNkExSTNEY3p2OWp5NmJLX2pYNkNuaUxRbWVLX0hxb21hbXJhRXdTX19vem1fa2Mxc1BVb2Vfa3gwcDRz?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-04T05:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "La economía mundial cambia de motor: ¿puede México aprovechar la revolución de la IA? El Financiero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "1fe13c4d1b67f7d0"
+ },
+ {
+  "titulo": "Gradúan a 55 nuevos Santa Claus en el Cristo Redentor de Brasil",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGNjU3VlYktfTGR0RjNQTl84QmxZZ1RBMFR6bWpoZGRyX3laU19hTlc4Sl85LWRxQl9OLU5Lc3llNWxoeS1OQkJLRmZnU2ZidEcyT0xUZG5DU1QyTzRIeTdRMnhYQzFhSjlmbHprbmt4RUVxYjRQWlVzMXJqMHp3OVRWU1BfN2ZvS29SRlhWWGxyejktcjhmM0N0SmlOcUpnQ0c3X2hHa1QxRkVN?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T05:03:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Gradúan a 55 nuevos Santa Claus en el Cristo Redentor de Brasil El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1813824a1f9af644"
+ },
+ {
+  "titulo": "Tigres sin Liguilla y con otro torneo de pocos puntos",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjV3OVlMSjJOOHdLeTI0ZzZ1bGdWdGptUHozRzNHRDlDU3VuRDBfWWoyV0NEdS1rY29mT3N6dVpFRE9wS09McW43MmNKNHpYdm84Nnk0c3gxTFhsQlk4MlZKSURWUE5IUU85MjZnd3NxMjhJR3BfcDJMMW8xd3BReXZtVHNPYVNzOFZ4OWVZMEZGZlp0UnJ6TG04dDNteVR0UFE?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T05:03:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Tigres sin Liguilla y con otro torneo de pocos puntos El Horizonte",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "81a0721f27099d34"
+ },
+ {
+  "titulo": "Buen septiembre para las remesas: repuntan 1.6%",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzZnRmRoSmtZLVI0dHRWVGlvSTk1V0R5YmtWaExJYlZfcXBoQmNKZUFoaDNsVmNobEo5Wjl3WDhDS1AxMGkxM0JKYk50RkFVaF9rQ3gzRk0wNk00QmE4MlJ4cnZmLUd2ZW1Qbld5QlhhU05NZVY2Z1RlVVhfUkpvWWRxQld6ZDEydlRtZjlxaDBmQWVjZDhR?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T05:03:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Buen septiembre para las remesas: repuntan 1.6% El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "eb93e4236c354cea"
+ },
+ {
+  "titulo": "Arman caos por tarjeta naranja estatal",
+  "liga": "https://www.elnorte.com/arman-caos-por-tarjeta-naranja-estatal/ar3307858",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T05:01:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Mujeres hacen filas durante horas en el Centro Comunitario San Bernabé para tramitar la tarjeta naranja; reclaman falta de organización.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bc86feb8b362e864"
+ },
+ {
+  "titulo": "Van hoy morenistas a acusar en la FGR a Samuel y familia",
+  "liga": "https://www.elnorte.com/van-hoy-morenistas-a-acusar-en-la-fgr-a-samuel-y-familia/ar3307860",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T05:01:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Morena acudirá a la FGR a denunciar penalmente al Gobernador Samuel García y su familia por presuntas triangulaciones del erario.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "b2a47b979d7d7e7e"
+ },
+ {
+  "titulo": "¿Cómo nos pegan las ‘midterms’?",
+  "liga": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tWXRvTGFINy1PYW5fNGFkZmtwSHRBMWhQdTJNaVlrTkJNc3pHbzl1blF0Zm00bWZMcngwdEZzdllwV01uU1NxMy15X3I1TzdUbVQtaDQ4U0hUTU9zWk8wcUpldDU0b3ZIYjlwcFc2TWE0b29jMjF3Q0xZNktMZw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T05:01:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "¿Cómo nos pegan las ‘midterms’? El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ffa95202b7976184"
+ },
+ {
+  "titulo": "Octavio Pimentel: la Rectoría no es patrimonio familiar",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlJuTjEzVlpwNld1R0FBOGhiM1JZdDkyb0ZNUFgxNFdLWjFMcXpac25sSWZXZy00SXZSS040Y1UzdktnenlKRTl1MlJkdDZGc3R4dFdNblV4TVRseUhvSTRJSklfQW0yM2piSmg5TjRfSnkyNUFiaUpoazIyVFowV25xakVucXpsS0k4WFNqQU5MckNDRjRjdTlmZ25oYWY1NlE?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T05:01:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Octavio Pimentel: la Rectoría no es patrimonio familiar El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e9e52970717d83ac"
+ },
+ {
+  "titulo": "El motor económico de México",
+  "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZUNtY0M4Y0pGemdad21RSGVzTE5QWjMybjdvenJXNzJ6NmNVeGI3cGFoQXlEWEZzNFNhcWVxcUE0TGZQN2ZWQUZhWWZyenY2bE5tc1Rfak1JMkg3aFlzT1poc2hnaUhYdzBFWjZhVnNMWWk1c3JLRlJMTkRtYzA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T05:01:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "El motor económico de México El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7e5ca8514b106500"
+ },
+ {
+  "titulo": "Tocqueville en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yeE5qRXJPZ091TWsxOTBHT0RUdm95M2lUNlYtSE5IVlYwLXQ1bDlsN0t0Q2RoSnpkdXM4dXRPTWtuUk5JcWVFbzJPWVJSRGVRekxzamxRNWM2dW5JMXAwdDZwbUQ2NXc5VGJtWmxSSVVLSE1mbVl1bFVZbw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T05:01:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Tocqueville en Nuevo León El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6d4c237ace69291d"
+ },
+ {
+  "titulo": "Seguridad en las aulas de NL",
+  "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVFVkcFhPUGpla2hXRmxvYXZsRGVudnpMNFk4UGs1ZVc5QXhNaVhGQkhZYXhvZHdEdGluUnZmd05RZ3ZEUkJaVmhSTTBCd0ltT2J4ejY4VXBqajl1QmxrUF9DUkRLR0NtQVU2dlhiQWF0UlRncmdfeGt3N3V2YzA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T05:01:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Seguridad en las aulas de NL El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d47e63911342fec1"
+ },
+ {
+  "titulo": "Festejan caída de dos 'capos´; jueces los salvan",
+  "liga": "https://www.elnorte.com/festejan-caida-de-dos-capos-jueces-los-salvan/ar3307859",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T05:01:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Aunque el Gobierno federal destaca detención de líderes de grupos delictivos, meses después recuperan su libertad por jueces de Distrito.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "09e91fc757998c99"
+ },
+ {
+  "titulo": "Advierte US Chamber golpe por deducibilidad",
+  "liga": "https://www.elnorte.com/advierte-us-chamber-golpe-por-deducibilidad/ar3307831",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T05:01:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "La US Chamber of Commerce envió una carta a la Comisión de Hacienda en la que solicitó que no se apruebe el Paquete Económico 2027.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bb244be87a60c760"
+ },
+ {
+  "titulo": "Restringen celulares sin reglas claras",
+  "liga": "https://www.elnorte.com/restringen-celulares-sin-reglas-claras/ar3307822",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T05:01:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Aunque la restricción de celulares en escuelas ya entró en vigor, planteles enfrentan incertidumbre por la falta de un reglamento claro.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "2047d7698d63d39d"
+ },
+ {
+  "titulo": "Noticias de Palenque",
+  "liga": "https://www.elnorte.com/noticias-de-palenque/ar3307854",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T05:01:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "La familia de AMLO sigue dando noticias, su hijo Andrés López Beltrán y su esposa Beatriz Gutiérrez, quedaron en el centro de la polémica.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7d85d4377b9ebe78"
+ },
+ {
+  "titulo": "Acaba era del Rey Trump",
+  "liga": "https://www.elnorte.com/acaba-era-del-rey-trump/ar3307846",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T05:01:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "El electorado de EU castigó con voto las políticas de Trump, quitándole a los Republicanos control de ambas Cámaras y Gubernaturas clave.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "06cdf389f99a2cc7"
+ },
+ {
+  "titulo": "Denuncia el INE a Taddei ante FGR",
+  "liga": "https://www.elnorte.com/denuncia-el-ine-a-taddei-ante-fgr/ar3307795",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T05:01:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Blanca Cruz, presidenta provisional del INE, promete llevar ante FGR la red de corrupción que involucra a la ex titular Guadalupe Taddei.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "cb915b47599476fa"
+ },
+ {
+  "titulo": "Congreso de NL reprobado en transparencia",
+  "liga": "https://abcnoticias.mx/opinion/2026/11/4/congreso-de-nl-reprobado-en-transparencia-294417.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-04T05:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "a80863306312d60f"
+ },
+ {
+  "titulo": "Vacunación contra influenza y COVID-19 en Nuevo León: módulos, horarios y quiénes pueden acudir",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS0VHVG5wOXlBM0oybUhKTFZhVXNHTkJsRkNxbjZjZG1LUkIwRUktRkhJLVB5V1dUOElRRS1pdHhkdks5TU43clJqazN6MHJpaC1FdEUxN01CS2ZOSi1kVDA2a09YeklCZlFScVNvbTM5ZmJ2LXh2QW4wTHhRejdWWGlJRmd3dTNvbk5xNHo1U0RUTDFZd3NDRGJYVkxSaFBNTkRhQzN0NEFiejI5MEFvWndnMmp0ZVU3bzM2NmpFVndxenc0ZzlQc0czZUpEWTc5YWFUWWpCN3RBZFg2LUJ2OXhxMFc?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-04T05:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Vacunación contra influenza y COVID-19 en Nuevo León: módulos, horarios y quiénes pueden acudir MVS Noticias",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "3fe19606d02f5080"
+ },
+ {
+  "titulo": "Preinscripciones 2027-2028: ¿qué niños deben registrarse en noviembre en Nuevo León?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/preinscripciones-2027-2028-que-ninos-deben-registrarse-en-noviembre-en-nuevo-leon/vl2274637",
+  "medio": "Posta",
+  "publicada": "2026-11-04T04:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cddb421a0bb94a05"
+ },
+ {
+  "titulo": "LANZA Atelier: México conquista el Pabellón Serpentine de Londres",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTV9nMmlIaHVHQkZ4RlJBQUx5NExaOE5vNjZKOWRXN1A3cmx1cUtBU3dyTWNRTEJvaG1IUkZXOHpwaWo2OE41N3FLOC1CMEttSi1xQkJ2UjVvV2Fpemd6aFZoWGpQeFJzWFFiNVl2aVpsd1MxX21TYjdZU3FhbWJlQjUxY2UzUWE4WHZtdEVITEthTkQzR2s0SVNJRHVLR3FSVU0zd09Kb1AzcVo1ajFqc1lSWUlQRGgxVnZEemVtYWNGWmxNSjBmczZB?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-04T04:47:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "LANZA Atelier: México conquista el Pabellón Serpentine de Londres El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7c00fd6155db04df"
+ },
+ {
+  "titulo": "Precio de la gasolina en Nuevo León hoy martes 3 de noviembre: ¿Cuánto cuesta el litro de Magna y Premium?",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT183a3loSEtOS1U0OUNqTzRtZlNHWFFsamhoSDNUUjJhdXFiVnB2YU5Cd2F5eXRyNFJvM3FYN3pQZHhJcEVlc1ZuNnM5aVBuU0Vlb2dweDh3OF83NV9fUVo4c1h6ZlRhLW9SbDJ0OEtHUURaTmFYQ0xjRFI3NXhWTVItemUyS2U4YVBJYjk3SU1JcHp4ZVQzaC01TzBWd1JXYy1kVVNUNlczeEFLSHpNVzJSckc5NTJrY2pOb2tFMlBvcWRLY1V1dmZUdTFvWlFMTWR0V3JnenRoeGRrcEln0gH6AUFVX3lxTFBaSndUNG1SN2ZLbUlxNVdOeGNPRG9CUzRQU2Nzb25QNE01bzJRODBRbGh6VzIzSWVNX1p5aDNQd01WQXdpY2N6UklVTlNJaGJoWmJvR3Q4Q2l6VGZHRE0ycERYQ0J2ejZ1bzJOaTdJamZrVnlMakVFSkw0WXdoVHQwWkE5cWxpNUFGVWw4R1g4TG5fVTVybnVLT3EzZTVxSW9ZRFJwbTVwOVNUZzBOUGRhMEdSbUtON3daMXB6R0FTdVdwWmxZMVFmS1FubER4V3Y5MnVrVkJIQm1PRGJWSGF6NENrbnBRNG5TNjBOeTVST2VodTdwQTlFM2c?oc=5",
+  "medio": "Infobae",
+  "publicada": "2026-11-04T04:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Precio de la gasolina en Nuevo León hoy martes 3 de noviembre: ¿Cuánto cuesta el litro de Magna y Premium? Infobae",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9d8aebf11ce87e9e"
+ },
+ {
+  "titulo": "Consulta si hoy te depositan la Pensión Bienestar en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlJycU0xXzdFYkllcXMxb1hVV25pdGRVLVZybUhRSlh1QnBvSXRTMnZVTTF1TmxRMGZ6RzZJOUtIN1NNcFEzR3RHa20xdzMxTkhCSnVoRGJ4ZlBjbmtBelNZOUMzYmhzLW1PWU1IOHl6OTRreGFUNFBTbkJheDBESzd4OEdueFc3RmQyWGRWeDEwS2RORlJqb3J6dkgzbXFKQThBQTFFTjNEVng3S3c3WDJOOUwyZGdxMGJiVQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-04T04:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Consulta si hoy te depositan la Pensión Bienestar en Nuevo León MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2fc8ec9313101eca"
+ },
+ {
+  "titulo": "La nueva reforma antipiratería: bienvenida, pero…",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUFwNlc1dzRMb1pQdTY1QTlXRzd4dDdxTVR1TXhUMWtEV3Y5V1ZjUHlXaEhaNW1mOXh0elkwTEdrcXdGNGlpTUNtcmpqUG1BazZnOHQzbGR1bkZfbEliYzVxSVNxaHphOEhZNTBpUFhWam13eHg1T2FIbW9yckp4eWxTZjVFOW56N2k2VmhaRU5aZkc4ejRnUEZpSTcxUGpxUWluMERWZFo1bXVXODFNY050c3g?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-04T04:10:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "La nueva reforma antipiratería: bienvenida, pero… El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f34d7314e8c2f19f"
+ },
+ {
+  "titulo": "Dobleces: Volver al pasado",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0M3M1VZa2hvZE9Fa2I5eHlNREtZQUU1YUdVU2pHTXNPdENQVDctQU5QOGVsUmVOd3pGak9GZEtMMVR5eGxFZnlpQm5GRDBwZW8tTzVkMzRXQjlEVUxzb1pHajRmS3l0cnN2V245YUFySDlJOWVCcVBQVjhRRTJOQXlWU19IOXV4QWc?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-04T04:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Dobleces: Volver al pasado Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "399ed1f4c575e0bb"
+ },
+ {
+  "titulo": "¿Las plataformas digitales y los (llamados) intermediarios son autoridades?",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3NISC1ESFVET3RidXJURWZxdjltUkR4bmVyT203ejQ5THNKNm8wazlXS3phUXJ1ZW1rRVM5NUpFWVg3dDdtdlZXdlkxdkRZNVNBNV82cjJYSnUwV1A2bjk4SUphVEllVzQ3ajl5bnVfczhsbjl0SkJyV1JEX01XcVlDUXU1Q1k4aU4wOWlGaFdmSllNSjlpQzBZSkhOWlhmZ3h3NjFSREsxOWRHcWtNVVRISjR3b3hVSWV3MjlNT2dkTmdRM1ltbEJBWmViVE5ZRTdv?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-04T04:01:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "¿Las plataformas digitales y los (llamados) intermediarios son autoridades? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "06ba5c4971bbfec0"
+ },
+ {
+  "titulo": "Sheinbaum gobierna con las migajas del presupuesto",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZDVGREozdm9kSHhaY1ItMWdWV1o3cW1FbFVWOGlKUXVsaFVzV3phYmFQNHR3Z2Q4U29zY09qTmhkRGotUnNMdlcyVVBCN3FRd2ZUSDFfV0Npb0lyNzlsbTVyQVpGeXJiMTVIUFkwRkZXQzdTc241cXRTSHhkcF9PZXE4Ty03UXZBOWhVVUo5akJqMl8teUdWXzJrRFpwZjZPMmxUQ1hJai0wUzIxN1JkNU5wZEt1eTdRWDRBbkZB?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-04T03:50:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Sheinbaum gobierna con las migajas del presupuesto El Financiero",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "714b31f2ad705a33"
+ },
+ {
+  "titulo": "Abdul El-Sayed, la nueva figura a seguir en los Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWw3WUhhNWVCX0o4eFJWODRWZ21wNnBnY2JZVXdlTk9jam01RmROUU5JeXI4VmRueDFqTEFUQ2RDTEJhLVJBa3RCZjdjSXEyYWxrYXl0OGNYdjVsZkVIbFJlVXhxWkxxM1Ezcmg0ZFJ1em1faldadGR0S0xjUjhsXy04VGRGZmU3dDdCT2FLXzlPV1ZlZTZFUHhUd0ZyQWRYSDZKX0RWTFJjV3d4SjlCTTFTdlVFT09VdjNIY0ItWHpTU00?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-04T03:38:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Abdul El-Sayed, la nueva figura a seguir en los Estados Unidos El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "94c67f9bc15921ee"
+ },
+ {
+  "titulo": "Se frena el crecimiento en cadenas comerciales por menor consumo",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaFlJRm5oR3VxZ1d6cDBoaDhvenR0UHNsS081TXJ6SmVfbE02bHZ3R01HelE2Zmk2T1RnMnpZeGoycXVtdHdjUGlXR3E1cVN5WVFLSGxCN2lQMVJfNzZDTjlDN1BkTmI5UkVKS2pjV1A3VjZUejE3TlI3aEdFdVM5Z05hQ2JHT1psaXB3b0lPVl9INm5RcDRWblRrblJtZjhIY3lnQlV5Mmx1MjVZQWtfaXlaaFU4OEJn?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-04T03:33:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Se frena el crecimiento en cadenas comerciales por menor consumo El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f1f7020b20b33f7a"
+ },
+ {
+  "titulo": "Garra de León",
+  "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSENFS0lZZlhmdWdHTHl6LUpKakJIRFJRQnlnY01VZ3FXbl95VWxQSzJnUm5iclJyeVY3bzNGMWhldGlIM0NDU01GX0VUZGxiN2x3X3ZHVHl6bFdKUUZBSFAzQzZOdmpKd3VZbjVROV9zUTdaOHBYbzlfOF9IajhGZ3p6czNIb3U00gGIAUFVX3lxTE1IQ0VLSVlmWGZ1Z0dMeXotSkpqQkhEUlFCeWdjTVVncVduX3lVbFBLMmdSbmJyUnJ5VjdvM0YxaGV0aUgzQ0NTTUZfRVRkbGI3bHdfdkdUeXpsV0pRRkFIUDNDNk52akp3dVluNVE5X3NRN1o4cFhvOV84X0hqOEZnenpzM0hvdTQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-04T03:20:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Garra de León Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9ba12048349b2a15"
+ },
+ {
   "titulo": "México ‘pierde’ con la llegada de demócratas al Congreso de EU: ¿Por qué no será favorable?",
   "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcV91T1l0Q3ZYTFFUUTJEc1J3U3VOenE2c05lRUFwdW1ENm5hQjRqNnJDOTdEVzVHNTE5RnVXdm53SEVsVEpjdGpsSzI3TDdOUGg2MVdxN0x3ZExoMjBXQzVHRjZ1cE1Tb0tMTlFPM1FwamY2aTRtT1YtM2NmT0J6bEc3RFBELTNWQ28zcURlNzNPQmFQWmVLMGkzbktxZWM0OXplYlFmdG9LSzRTY2I0Qmo2Y1lzVWNWdng2Z2FlemVPYlJuNWtJWnJuRUNmNWpjbVdPYVRR?oc=5",
   "medio": "El Financiero Monterrey",
@@ -348,6 +825,20 @@
   ],
   "local": false,
   "id": "aabfff275ba7440d"
+ },
+ {
+  "titulo": "Logran demócratas Gubernaturas clave",
+  "liga": "https://www.elnorte.com/logran-democratas-gubernaturas-clave/ar3307844",
+  "medio": "El Norte",
+  "publicada": "2026-11-04T00:51:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Triunfo demócrata no se limitó a ganar las dos cámaras sino que arrebató a los republicanos Gubernaturas en Texas, Georgia, Iowa y Ohio.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7a437fad0b5a35d7"
  },
  {
   "titulo": "Temblor HOY, 4 de noviembre 2026: ¿A qué hora y de cuánto fue el último sismo en México?",
@@ -704,6 +1195,20 @@
   "id": "fb2304c6f2aab174"
  },
  {
+  "titulo": "Ley antimemes prevé multas de hasta 40 mil UMA a proveedores",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1VkMUdBcUNydENxbW8wV3FyOV9waUYwbGg1ejQ5LVZXMmpUa3o0ZEw4NnJJaU1MaHRqaWxaSmRoYlZEaFpkYkQ3X2g0aU1qTy1od05PTlo5QUJwcmhrYjFTZXFSZm0tQUJpMVNTT1JDR3hSMFFBRF95TmdHel94YmdRaUE5OU45YUVDUUQtSm5EWHVGM0lxM0hLX2VVQQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-03T23:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Ley antimemes prevé multas de hasta 40 mil UMA a proveedores INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "69c418b7c6c7b790"
+ },
+ {
   "titulo": "Rob Sand se perfila como gobernador en Iowa | Perfil y trayectoria",
   "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0FpZ0gwalZ0V1ZwWFFCcy1VcXpjdzM5ZjV1YVR0NUNhbFI3a2hQOURWS0tmM0pMRHB5ZmRaSmpnQ2xWZzJKSUZqSEdUTjhGalB1SWNZeVRDSlFaWXJnNzhuU3I4QUZFSlpoVW5VOTdoYmNwUlgxZEx3Wkltd1liaGU3THNXMGZxYUJfY1NpbzZNTDFqbzdFNdIBmAFBVV95cUxNaEdGZkpOM25Mbk9WRXlGNGRVZHFsb1VpMGhDRFloY0ZvVWZWWHhDSWcycnpZNk51Zmh2eE90NFBzbUY1eWhCc3dURDY3T3ZMWmZLa050Rkl5LWVnbV8wNHdQdGNlTlp6Q0lrbjRTTHNHTDdwaGpBTGZLNW5rdlFqS0stX3JyeDZZb3NldUxXVVlpeWxvTy1ZQw?oc=5",
   "medio": "Milenio Monterrey",
@@ -900,6 +1405,20 @@
   ],
   "local": false,
   "id": "9837eef0b808a8a2"
+ },
+ {
+  "titulo": "Rosas Jr. vence por sumisión a Covington en el Hype FC de Roma",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUhsNXhzdWJld0ZYNFRKX1cwZEk3VVJCX1pnNS1velA4d0p2NzFhZFVlcGtjOFRuZWdaQ21vZmhGeUNkekNiRHNHc2ZpbUZwTlNKN2pMdV9Ga2ZQZTE5LWJyV2F6ZHB4MGlTOFV4TDFyTGxmM1lUMmdtRnlQQmpfek43X0FrV0o1UlBwWVhsczdObFNGYm1rYjdzNHVFYjg?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-03T22:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Rosas Jr. vence por sumisión a Covington en el Hype FC de Roma INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6b637575c6d5a452"
  },
  {
   "titulo": "Detienen a dos personas en Guadalupe por presunto fraude con inversiones en vehículos",
@@ -1114,6 +1633,20 @@
   "id": "0b852c997fbfb43d"
  },
  {
+  "titulo": "Se quedan Auténticos con el Clásico Regio Estudiantil",
+  "liga": "https://www.elnorte.com/se-quedan-autenticos-con-el-clasico-regio-estudiantil/ar3307769",
+  "medio": "El Norte",
+  "publicada": "2026-11-03T22:20:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "En series extras, los Auténticos Tigres se quedaron con el Clásico Regio Estudiantil al vencer 34-31 a los Borregos Monterrey.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "a84767e7f157e60c"
+ },
+ {
   "titulo": "Y ante derrota dice: 'trabajaremos con demócratas'",
   "liga": "https://www.elnorte.com/y-ante-derrota-dice-trabajaremos-con-democratas/ar3307781",
   "medio": "El Norte",
@@ -1197,6 +1730,20 @@
   ],
   "local": false,
   "id": "ccd3d131a44735d8"
+ },
+ {
+  "titulo": "FGR destruye 740 kilos y 2 mil litros de precursores químicos en el Estado de México",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbzhsdWRwdVRrOHJBeVJvQU5KVW5CUFdEcU01WDFRUkFLR1BuUDJLSVdOcFNvVHNRSmFCd2V5R3RnSHpWQzVvQ2hkZTl4TmY2RlJjYjN2bnlFaXVha0JOWnFYN1dKeW45Zy15MHduTWtpSXJuUkh4LUFtYnk0LVp2dmNtcU1qdTdHYnhyUm1KOWFvT3Rrd2RTalp0blhTbnF3OUVzZVBoSFdMS1VVYWJ6cnpENmdzSzVCdkdLMWp4TEVTb2FOZDFOR2YySFhVTnVadFJOTXVDc1M?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-03T22:07:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "FGR destruye 740 kilos y 2 mil litros de precursores químicos en el Estado de México Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "151652c60c381db4"
  },
  {
   "titulo": "Proyectan que demócratas tendrán mayoría en Cámara de Representantes",
@@ -1689,6 +2236,34 @@
   ],
   "local": true,
   "id": "7f3447c3ede90364"
+ },
+ {
+  "titulo": "Con monumental altar de muertos, la Prepa Pablo Livas de la UANL honra la memoria de su exdirector Alejandro Galván",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd0NJWXE4ODRkdGpId3JTc0txLVZ5SHVxdllXOHAtSWVac2F0ZWFhb21UVUNaMkJGX3kya19MeW9UZGNLNW1sV3pQREpWY0xqbEIzaWlPTDB4UEp6RGtuZ1JfcUFTVmRxSHFMRktmZGh5MVZTVXpSYm1sNFB0RXJidWwyZmg3UHprdk90bUpOMVdMQ0FJQ3VYTksxclBXTzZoNWJtSF9nQdIBpwFBVV95cUxNVUtlMERMZ2NsSGRlSjQtWnZ6WDcxejBSckFycGR4dlZWNzBhcFVhb1pPUGFwckx2SjdrRFdEeUhKN2R3ZjJESUY5d1hpWDgwaWVhdElEOFlpMURVV3JXVjdjN3FHR1laZGcxZXhGR05jam9MekNCcUZabWM3Qi1pamlwTzNKN0FLOFhQaXF4ZUM3Q0lHa1pib2U3YmQyeDlQSlRfbEs2QQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-03T21:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Con monumental altar de muertos, la Prepa Pablo Livas de la UANL honra la memoria de su exdirector Alejandro Galván Telediario",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "7e8fa5c720414625"
+ },
+ {
+  "titulo": "Emprendedoras presentan sus proyectos en el CIEM de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1JKUmd1ckdfbUtvTnpOLXJIZjY2bS1zVkhEN2FmcEIyYXdLanRzamhPcF9DY3NORmtQdnBYSEhfaGJBUWRTazdVSERLSnJhMEhiSnF6dzZULTFpTG9ZUDVwdkVnRTMtUW1JQUtBOXRZS2t1QllpY29fM2tacloyeldPUDJaeU11aWpCa09oQjRDZEh5S0ZNWExETGRJbDJnUkEyVEcycU4ydlpqZGc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-03T21:10:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T05:57:25-06:00",
+  "resumen": "Emprendedoras presentan sus proyectos en el CIEM de Monterrey El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e99ac156605e3515"
  },
  {
   "titulo": "Propone Rocío Montalvo garantizar tiempos de respuesta de ambulancias a menos de 10 minutos",
