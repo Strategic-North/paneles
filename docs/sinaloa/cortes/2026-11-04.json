@@ -1,5 +1,559 @@
 [
  {
+  "titulo": "Sinaloa: se prevén temperaturas de hasta 35 grados este miércoles",
+  "liga": "https://lado.mx/noticia/22232378/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-04T09:27:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Este 4 de noviembre, Sinaloa tendrá temperaturas de hasta 35 grados Celsius y cielo despejado, con bajo riesgo de lluvia.",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "4ad214ff6a345f38"
+ },
+ {
+  "titulo": "Ataque con explosivos en Coto Premier Mazatlán; detonan artefacto en cochera y localizan otro junto a la vivienda",
+  "liga": "https://lado.mx/noticia/22232346/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-04T09:26:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Un fuerte estruendo alertó a vecinos del fraccionamiento residencial Coto Premier, cerca de Real Pacífico; elementos de la Policía Municipal y del Ejército Mexicano acudieron al sitio. No se reportaron personas lesionadas, únicamente daños materiales.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b122c23e80f5c09b"
+ },
+ {
+  "titulo": "Choque entre tres vehículos deja daños materiales en la colonia Ermita, en Guasave, Sinaloa",
+  "liga": "https://lado.mx/noticia/22232347/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-04T09:26:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Dos materiales dejó un accidente donde participaron tres vehículo en la colonia Ermita de Guasave, Sinaloa",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "03e7ada1c64fefd9"
+ },
+ {
+  "titulo": "Tomateros se queda con el primero del clásico ante Naranjeros en entradas extras",
+  "liga": "https://lado.mx/noticia/22232348/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-04T09:26:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Culiacán venció 5-4 a Hermosillo en el Estadio Fernando Valenzuela; Charros frenó la racha de ocho triunfos de Algodoneros, mientras que Jaguares, Yaquis y Águilas también comenzaron con victoria la sexta serie de la LMP Banamex 2026-2027.",
+  "temas": [
+   "Campo y pesca",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "490e23f6440160be"
+ },
+ {
+  "titulo": "Proman México informa sobre el retiro de equipos de la Planta de Fertilizantes en Topolobampo",
+  "liga": "https://lado.mx/noticia/22232345/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-04T09:26:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Ataque con explosivos en Coto Premier Mazatlán; detonan artefacto en cochera y localizan otro junto a la vivienda Topolobampo, Sin.- Con relación a la información del retiro de equipos del muelle de la Administración Portuaria Nacional de Topolobampo, y de las instalaciones de la",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ae0a270fc00f33da"
+ },
+ {
+  "titulo": "De los escenarios al Congreso: Bobby Pulido conquista el distrito 15 en Texas",
+  "liga": "https://lineadirectaportal.com/internacional/de-los-escenarios-al-congreso-bobby-pulido-conquista-el-distrito-15-en-texas-2026-11-04__1733108",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-04T09:25:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Pulido consiguió revertir una tendencia reciente favorable a los republicanos en un distrito que había respaldado ampliamente a Donald Trump en la última elección presidencial",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "c51a614914f3f927"
+ },
+ {
+  "titulo": "Exportaciones agrícolas de Sinaloa: cómo las plataformas digitales conectan productores con mercados globales",
+  "liga": "https://lado.mx/noticia/22232306/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-04T09:25:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Las plataformas B2B digitales abren nuevas oportunidades al agro sinaloense para conectar con distribuidores globales, diversificar exportaciones y optimizar procesos comerciales y logísticos mediante tecnología, trazabilidad e inteligencia de mercado",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "ec57977941d9ab4c"
+ },
+ {
+  "titulo": "GPO aclara que retiro de maquinaria en Topolobampo obedece al vencimiento de permisos de importación temporal",
+  "liga": "https://noticieroaltavoz.com/gpo-aclara-que-retiro-de-maquinaria-en-topolobampo-obedece-al-vencimiento-de-permisos-de-importacion-temporal/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-04T09:19:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Topolobampo, Sinaloa.– Luego de que trascendiera información sobre el retiro de maquinaria y equipos del muelle y de las instalaciones de la Planta de Fertilizantes que se construye en Topolobampo, la empresa Gas y Petroquímica de Occidente (GPO), a través de Proman México, emiti",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "cc88e85065eb6282"
+ },
+ {
+  "titulo": "Batalla perdida",
+  "liga": "https://sinaloa.quadratin.com.mx/batalla-perdida/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-04T09:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Su empeño por distanciarse de la renunciada consejera presidenta Taddei resultó en fracaso.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e126a237272522b4"
+ },
+ {
+  "titulo": "¿Quién es Gina Hinojosa? La mujer de ascendencia mexicana que gobernará Texas, EU",
+  "liga": "https://www.luznoticias.mx/2026-11-04/internacional/quien-es-gina-hinojosa-la-mujer-de-ascendencia-mexicana-que-gobernara-texas-eu/313432",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-04T09:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c826c1c6fd5a4386"
+ },
+ {
+  "titulo": "En 2026, “El Niño” trajo lluvias para Sinaloa y ahora traerá más frío, reporta Protección Civil",
+  "liga": "https://lineadirectaportal.com/clima/en-2026-el-nino-trajo-lluvias-para-sinaloa-y-ahora-traera-mas-frio-reporta-proteccion-civil-2026-11-04__1733102",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-04T09:12:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "El director del Instituto Estatal de Protección Civil, Roy Navarrete Cuevas, comentó que los modelos de pronóstico etiquetan la probabilidad de que se presenten 56 frentes fríos en el país",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "f355d61730deaaac"
+ },
+ {
+  "titulo": "Gina Hinojosa vence a Abbot en Texas y será la primera gobernadora latina",
+  "liga": "https://noticieroaltavoz.com/gina-hinojosa-vence-a-abbot-en-texas-y-sera-la-primera-gobernadora-latina/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-04T09:10:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Washington.– La demócrata Gina Hinojosa derrotó este miércoles al republicano Greg Abbott y se convirtió en la primera latina en ganar la gubernatura de Texas, de acuerdo con las proyecciones de CNN y NBC News. Su victoria puso fin a más de tres décadas de gobiernos republicanos ",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "50120e98d08aa738"
+ },
+ {
+  "titulo": "GPO confirma retiro de equipos de FAGIOLI de Topolobampo; esta es la razón",
+  "liga": "https://www.luznoticias.mx/2026-11-04/sinaloa/gpo-confirma-retiro-de-equipos-de-fagioli-de-topolobampo-esta-es-la-razon/313429",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-04T09:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fbeb09e60042298b"
+ },
+ {
+  "titulo": "Proman México explica retiro de equipos de la planta de fertilizantes en Topolobampo",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRHhELTFVQlFBSWVubVp1NlMyNXJFdF9MaHJuYjlHSzU4czdod1p5TEg5QWRwcDg0TWtCdG5JN2J0aUVuZC1zSmFJNENDNWtGOEExMHpVdU9MZEJTeHpLRkxmSVdwbldOUVFoaG1GcmhmbDlGZVpPMDh2LTlNQ1VQT1ltZ09KRWJIaG54QUFzX0ptaHl2V0dTT2EyTXNjS18zRHA4UDV3Nkk1eU1UUXBWVm5wUlJGRzJXclhpNXdrZUsxQ2xhOTc0bTdpTmprdk1GYTFXNm1RLUlNZzFCVEwtbA?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-04T09:05:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Proman México explica retiro de equipos de la planta de fertilizantes en Topolobampo Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "05390fd2047301fe"
+ },
+ {
+  "titulo": "Golpe histórico a Trump: demócratas conquistan el Congreso impulsados por el voto latino y una ola progresista.",
+  "liga": "https://vivalanoticia.mx/golpe-historico-a-trump-democratas-conquistan-el-congreso-impulsados-por-el-voto-latino-y-una-ola-progresista/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-04T09:05:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "04 de noviembre de 2026 00:24 Austin. Los demócratas están encaminados a ganar una mayoría decisiva en la Cámara de Representantes y el control del Senado, tras el resultado de la elección intermedia de este martes que representa un severo repudio a la agenda, y la persona, del p",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "d758d22882b20f6b"
+ },
+ {
+  "titulo": "Nombran a Ana Chiquete presidenta de la Comisión de Cultura del Senado de la República",
+  "liga": "https://lineadirectaportal.com/sinaloa/nombran-a-ana-chiquete-presidenta-de-la-comision-de-cultura-del-senado-de-la-republica-2026-11-04__1733101",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-04T09:05:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "La senadora sinaloense buscará fortalecer el diálogo con artistas, creadores y promotores culturales para incorporar sus propuestas al trabajo legislativo",
+  "temas": [
+   "Política y partidos",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3ab6a17636578e12"
+ },
+ {
+  "titulo": "Guerreros FC 2019 se corona campeón del Grupo A en Pandas de Los Barrios",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFd3cEZQZE5WNFR3S1NDYk51cTZoMDI1amZtNWZhLVpFX0JpQ0VRNUF5OVJiLVB6TTMzU3lqcE5CYUc3Rl9ELUhBNk41NGFFWWJKbTF1S0w1aERfblhpRFc2ZUFpYmhOdE9YNDVNampBNzZFMk9SSWU0RjkxVlBDcW1UM3piRlU5ZVhfMGY5R1lEUTI5OUxIaTYxTVp5S3hSUDIyaDdWS3F5R0VYbVVOUjBncnloajJ6eFZRMnNGSy1pem5MZHdZNHFhQk1YVjJD?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-04T09:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Guerreros FC 2019 se corona campeón del Grupo A en Pandas de Los Barrios Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "add8798d36b58cda"
+ },
+ {
+  "titulo": "Gerard Piqué se despide de Jesús de Miguel tras su trágica muerte en partido de futbol: “Lo siento con toda mi alma”",
+  "liga": "https://cafenegroportal.com/gerard-pique-se-despide-de-jesus-de-miguel-tras-su-tragica-muerte-en-partido-de-futbol-lo-siento-con-toda-mi-alma/",
+  "medio": "Café Negro",
+  "publicada": "2026-11-04T09:01:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Fuente: Agencia México El fallecimiento de Jesús de Miguel, delantero del CD Tenerife de 30 años, fue confirmado este martes 3 de noviembre, luego de que permaneciera hospitalizado en estado crítico por el fuerte choque que sufrió durante un partido contra el FC Andorra. La notic",
+  "temas": [
+   "Accidentes",
+   "Salud",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "db8f9e3e716d465a"
+ },
+ {
+  "titulo": "Buen Fin 2026: Guía para comparar precios con anticipación y evitar falsas ofertas",
+  "liga": "https://lineadirectaportal.com/mexico/buen-fin-2026-guia-para-comparar-precios-con-anticipacion-y-evitar-falsas-ofertas-2026-11-04__1732864",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-04T09:00:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Ante la proximidad de esta jornada comercial, es fundamental que los consumidores tomen precauciones para realizar compras seguras y aprovechar verdaderamente las ofertas.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "5aaeaa36acf786a8"
+ },
+ {
+  "titulo": "Sheinbaum pondera triunfos de candidatos de origen mexicano en las elecciones intermedias ayer en EEUU",
+  "liga": "https://noticieroaltavoz.com/sheinbaum-pondera-triunfos-de-candidatos-de-origen-mexicano-en-las-elecciones-intermedias-ayer-en-eeuu/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-04T09:00:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Ciudad de México.- La Presidenta Claudia Sheinbaum Pardo resaltó el triunfo de dos candidatos de origen mexicano en las elecciones de Estados Unidos ayer, los demócratas de California y Texas, “nos da mucho gusto que mexicano-estadunidenses que están allá tengan esta participació",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "b60bf583ab85d5c0"
+ },
+ {
+  "titulo": "Balacera en Querétarp termina con un hombre sin vida",
+  "liga": "https://sinaloa.quadratin.com.mx/balacera-en-queretarp-termina-con-un-hombre-sin-vida/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-04T08:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Los vecinos al escuchar las detonaciones de arma de fuego, dieron un aviso a las autoridades a través de la línea de emergencias 911.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "fe67b931fe6b052d"
+ },
+ {
+  "titulo": "Marina y SSPC aseguran 15 armas largas, droga y cinco vehículos en Sinaloa; golpean a grupos criminales",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOakFpYTNfZXZtbzBCNVBaOTR6T0hPZURTREZQMWRFczkxbjRaSHJVUzI1WXNnMnhBNEg0RVJ3dmZXMVhSRlAwbm9tQllMVlF1cVkyMHdxd0o5OUVNUWl2TzFFa1hjYnhOU3VMaDdLR3dzcWhla1FYaVVxVjkyVWRValNpQjJwd3Q0LW9EMXQ0T25jSnhld0wxV0Y4WDlsMDZucXZvNC03bkZZekdZMXFTWXg5MXh4OExnb3lfZ2QzOXBaQW4za0dacGVNaDBzVnR3Sk9BUFVOTUxaSUU?oc=5",
+  "medio": "Eje Central",
+  "publicada": "2026-11-04T08:55:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Marina y SSPC aseguran 15 armas largas, droga y cinco vehículos en Sinaloa; golpean a grupos criminales Eje Central",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "76e1fd0ec7e7fef8"
+ },
+ {
+  "titulo": "Sheinbaum celebra triunfo de gobernadores de origen mexicano en California y Texas",
+  "liga": "https://lineadirectaportal.com/mexico/sheinbaum-celebra-triunfo-de-gobernadores-latinos-en-california-y-texas-2026-11-04__1733096",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-04T08:52:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "La mandataria consideró que los resultados electorales reflejan el sentir de una parte de la ciudadanía estadounidense",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "64c3e2432e412274"
+ },
+ {
+  "titulo": "Se reanudan las agroexportaciones de aguacate mexicano hacia EEUU",
+  "liga": "https://noticieroaltavoz.com/se-reanudan-las-agroexportaciones-de-aguacate-mexicano-hacia-eeuu/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-04T08:50:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Ciudad de México.- El gobierno federal anunció que mañana se restablece la agroexportación de aguacate, y el origen del problema fue la baja en el precio del producto, y tuvo que ver con la parte de los jornaleros agrícolas que se están viendo afectados, fueron tres semanas donde",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "47fecfcd770d3d34"
+ },
+ {
+  "titulo": "Aseguran cinco vehículos con armas y droga en la zona rural de Culiacán",
+  "liga": "https://www.noroeste.com.mx/seguridad/aseguran-cinco-vehiculos-con-armas-y-droga-en-la-zona-rural-de-culiacan-MD27066965",
+  "medio": "Noroeste",
+  "publicada": "2026-11-04T08:49:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Elementos de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana aseguraron cinco vehículos, armamento, municiones, presunta droga y equipo táctico durante dos operativos realizados en las inmediaciones de las comunidades de Caminaguato y El Tepuche, en",
+  "temas": [
+   "Gobierno del estado",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a42b2d8a387ccdcb"
+ },
+ {
+  "titulo": "Marina asegura vehículos, arm@s y dr0-ga en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONV9kUGdpWjNBMFlQSExZMlpmYTBCVGVuVUdxYTNOQ3BIS01DQnNOb1dtd0ZSN3QyYTFvOTF3WmZhM05OVEcxUjkwNmt2WUV5amV0WHdVRHNfNUJiOFRsYVctRktnQ3BzNmtFY0xET21JdFlMd25Cd1RRaHFaWmdycDlwUzAxNWYyelpsV3Rn?oc=5",
+  "medio": "Medios OBSON",
+  "publicada": "2026-11-04T08:47:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Marina asegura vehículos, arm@s y dr0-ga en Sinaloa Medios OBSON",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7156ccf96f74e5dc"
+ },
+ {
+  "titulo": "Guardia Nacional rinde homenaje para despedir a la agente Chitis, asesinada en Culiacán",
+  "liga": "https://www.luznoticias.mx/2026-11-04/policiaca/guardia-nacional-rinde-homenaje-para-despedir-a-la-agente-chitis-asesinada-en-culiacan/313426",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-04T08:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5b81c369d94fbe80"
+ },
+ {
+  "titulo": "Descalabro a Trump en las midterms 2026; se impone voto latino y demócratas recuperan el Congreso",
+  "liga": "https://www.luznoticias.mx/2026-11-04/internacional/descalabro-a-trump-en-las-midterms-2026-se-impone-voto-latino-y-democratas-recuperan-el-congreso/313424",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-04T08:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "91b4092f90618d14"
+ },
+ {
+  "titulo": "Gabinete de Seguridad decomisa arsenal y 5 vehículos durante operativos en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1FXQVlxZXhLZmZNT0dyc04tNG1BRXBaU21LM0lHNmt2T0hscFg5VlFHdEtVOUVCdVJEekk4RWt0NHUxYWVmczhMdXNpeU9pemFUUDhJZ1pBdjgtU2xSNGxEN2E5VkZ1b0JLY3lYOWNXWUZ4ZkRpZnFVUXY2U2lPSkNQSE9sSUxJLWRZY0tuVHU5QnlyNE5jMjVEclJYemlVSi10TXZzLXZXSlMxOTgyTXZjNm96OUoyaGx1aGtESWhySFNyZ0dv?oc=5",
+  "medio": "Nación321",
+  "publicada": "2026-11-04T08:44:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Gabinete de Seguridad decomisa arsenal y 5 vehículos durante operativos en Sinaloa Nación321",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "62d0942ed7dbdf0f"
+ },
+ {
+  "titulo": "Ligan con ‘Los Chapitos’ a detenidos por ataque a militares en Feria Ganadera de Culiacán",
+  "liga": "https://www.noroeste.com.mx/seguridad/ligan-con-los-chapitos-a-detenidos-por-ataque-a-militares-en-feria-ganadera-de-culiacan-FD27066883",
+  "medio": "Noroeste",
+  "publicada": "2026-11-04T08:44:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "La Secretaría de la Defensa Nacional informó que los tres sujetos detenidos como posibles responsables del ataque a balazos contra militares en la Feria Ganadera de Culiacán, estarían ligados al Cártel del Pacífico (Cártel de Sinaloa). De acuerdo con el comunicado de las autorida",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones",
+   "Gobierno del estado",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "4ef1f86eeb8d1e36"
+ },
+ {
+  "titulo": "Bobby Pulido gana elección en Texas y será congresista de Estados Unidos",
+  "liga": "https://www.luznoticias.mx/2026-11-04/mexico/bobby-pulido-gana-eleccion-en-texas-y-sera-congresista-de-estados-unidos/313428",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-04T08:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "d333624131f959ff"
+ },
+ {
+  "titulo": "¡Uno tras otro! Choque múltiple entre tres vehículos deja cuantiosos daños materiales en Guasave",
+  "liga": "https://lineadirectaportal.com/policiaca/uno-tras-otro-choque-multiple-entre-tres-vehiculos-deja-cuantiosos-danos-materiales-en-guasave-2026-11-04__1733090",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-04T08:41:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "El accidente ocurrió durante la madrugada de este miércoles en la colonia Ermita, donde una conductora perdió el control de su unidad y terminó impactándose contra otros dos vehículos",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a7d0e22a5e59d329"
+ },
+ {
+  "titulo": "Peso mexicano gana terreno mientras el dólar cae tras elecciones en EEUU; así cotiza el tipo de cambio hoy 4 de noviembre",
+  "liga": "https://noticieroaltavoz.com/peso-mexicano-gana-terreno-mientras-el-dolar-cae-tras-elecciones-en-eeuu-asi-cotiza-el-tipo-de-cambio-hoy-4-de-noviembre/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-04T08:40:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Ciudad de México.– El precio del dólar hoy, miércoles 4 de noviembre de 2026, se cotiza en 18.85 pesos mexicanos por unidad, en una jornada marcada por los resultados de las elecciones intermedias de Estados Unidos. Aunque la divisa estadounidense pierde fuerza frente a otras mon",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "6d38f96387627936"
+ },
+ {
+  "titulo": "Se acaba la era del “Rey Trump” tras derrota histórica de los republicanos y triunfo demócrata en EEUU",
+  "liga": "https://noticieroaltavoz.com/democratas-ganan-el-senado-y-la-camara-de-eeuu/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-04T08:30:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Estados Unidos.- Donald Trump sufrió una derrota política en las elecciones intermedias del martes 3 de noviembre de 2026, luego de que el Partido Demócrata consiguiera el control del Senado y la Cámara de Representantes, las dos cámaras del Congreso de Estados Unidos. El resulta",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "7951a88c71aea06d"
+ },
+ {
+  "titulo": "Muere otro interno en el penal de Aguaruto, en Culiacán; es el segundo caso en una semana",
+  "liga": "https://www.noroeste.com.mx/seguridad/muere-otro-interno-en-el-penal-de-aguaruto-en-culiacan-es-el-segundo-caso-en-una-semana-BD27066711",
+  "medio": "Noroeste",
+  "publicada": "2026-11-04T08:29:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "CULIACÁN._ Una Persona Privada de la Libertad falleció este miércoles 4 de noviembre en el Centro Penitenciario de Aguaruto, en Culiacán, debido a complicaciones de salud, informó la Secretaría de Seguridad Pública de Sinaloa. A través de sus canales oficiales de difusión, la dep",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "952e9689c2f9eeb0"
+ },
+ {
+  "titulo": "¿Frío extremo para Sinaloa y Sonora en 2027? Pronostican invierno intenso por “El Niño”",
+  "liga": "https://www.luznoticias.mx/2026-11-04/sinaloa/frio-extremo-para-sinaloa-y-sonora-en-2027-pronostican-invierno-intenso-por-el-nino/313423",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-04T08:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "58b6d3beef4bb5a3"
+ },
+ {
+  "titulo": "Muere otro reo en el Penal de Aguaruto: la crisis de salud que enciende alertas y suma cuatro fallecimientos en dos meses",
+  "liga": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPX0NmRWlCYmFsSmFYTlppOEdaU1pBMFBPaHRhdXFGWG9MMkxka3k4NC1YU1VsLW41R3R1YkZYTUZ3enkzRXFMNzhDYk9JaHpHV0l6dnNhTTJ1YzJTdUZwTHkzeGQ2eVJsaG1kVFlZYWtFY3VkTEFpU2Iybkc4Um5HR09PSS1ZUHNjOEM3WVhqY18ta1hxdFJnd1BvMXRCTGVuaVZKSzhBN29FbUxQNXRLTnhwTm80bnhNeFZmLU9aZ2hCbmJJc0oxcDlna202dFRHS1R3SklnOWVRbG5pWno0R09VQ2VmQlFSdDV5WnFxZkVXdkZzQW9TT1c0cUtIaGRuUHAxWVlnelZYbDdLM0prTg?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-04T08:26:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Muere otro reo en el Penal de Aguaruto: la crisis de salud que enciende alertas y suma cuatro fallecimientos en dos meses Debate",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "9c0a414e3376d73a"
+ },
+ {
+  "titulo": "Adulto mayor pierde la vida al volcar en su tractor a un canal de riego en Jahuara Segundo, El Fuerte",
+  "liga": "https://www.noroeste.com.mx/seguridad/adulto-mayor-pierde-la-vida-al-volcar-en-su-tractor-a-un-canal-de-riego-en-jahuara-segundo-el-fuerte-JD27066690",
+  "medio": "Noroeste",
+  "publicada": "2026-11-04T08:26:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "EL FUERTE._ Un accidente vial cobró la vida de un adulto mayor durante la noche del martes 3 de noviembre, luego de que el tractor agrícola en el que viajaba se volcara y cayera al fondo de un canal de riego en las inmediaciones de esta comunidad. El percance se registró sobre el",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5c29cff7424b481d"
+ },
+ {
   "titulo": "Clima en Sinaloa: Sin lluvias; cálido por la mañana, y caluroso por la tarde",
   "liga": "https://noticieroaltavoz.com/clima-en-sinaloa-sin-lluvias-calido-por-la-manana-y-caluroso-por-la-tarde/",
   "medio": "Noticiero Altavoz",
@@ -15,6 +569,20 @@
   "id": "a04f246cde15acc5"
  },
  {
+  "titulo": "Marina logra afectación de más de $6.1 millones a delincuencia tras aseguramiento de vehículos, armas y droga en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZmtkMFhjVDBzN2RaWmk3UnpMRDdFZk5pQ0JHaHVwQUFoeTNUc3NCUG50TTZwb1dvSVFHS3EwRlM5VUQ0MWZlQTZqUENDQmY5Sl9oSWNLMlVraFBxTXRJTThhcGQ2QU0tdHJ0Z0JOd3lWUjZULTFvUWdJVEE2U1BpbTRfMVdTN2g5aDFCcmFENTZjQVhsZEVSX3o4amp4a0I2RmlsZzU1N0Vvalh6LWY1bVRhVWFRdVcteVltbDFOcUllZEd1QnVyXzhJSTFHNXBfT3pXZ29pVUtsU1ROaXJuSnFFUG1ZNHhkeVN5am45bldkQUhaQ1N6NE44T01jZzZ5VGR5NFdwcWxoSml6elRXOQ?oc=5",
+  "medio": "La Jornada",
+  "publicada": "2026-11-04T08:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Marina logra afectación de más de $6.1 millones a delincuencia tras aseguramiento de vehículos, armas y droga en Sinaloa La Jornada",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "34bac02e21926acf"
+ },
+ {
   "titulo": "Aseguran vehículos y armas en Culiacán; la afectación económica al crimen organizado es de más de 6.1 mdp",
   "liga": "https://losnoticieristas.com/policiaca/2026/11/aseguran-vehiculos-y-armas-en-culiacan-la-afectacion-economica-al-crimen-organizado-es-de-mas-de-6-1-mdp-1160819/",
   "medio": "Los Noticieristas",
@@ -27,6 +595,20 @@
   ],
   "local": true,
   "id": "6464fdc8022aa4de"
+ },
+ {
+  "titulo": "Autos bajan de precio en México; distribuidores advierten presión sobre sus ganancias",
+  "liga": "https://www.luznoticias.mx/2026-11-04/mexico/autos-bajan-de-precio-en-mexico-distribuidores-advierten-presion-sobre-sus-ganancias/313422",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-04T08:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "979c677b4f7b5e52"
  },
  {
   "titulo": "¡Prepárate, Sinaloa! ¿Primera muestra de frío el jueves? PC anticipa hasta 8 °C en zonas serranas",
@@ -214,6 +796,20 @@
   "id": "cf28401402c1dd80"
  },
  {
+  "titulo": "Marina asegura 15 armas largas y mas de mil 600 cartuchos en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWkptSDUxNUtFR3E3TUxpV3ZBN3FWUHZvSml1YUhxSlhoSEsyZlEwam95M09ORVY2d3RWQlFWTGpZTHlJZ1c2WDZ1NHhwY2xtVTlZU2JoQTA0M2JJWEV2YlR2Y1lvS3FEZWl4ZWZCZFpqYUFCMGxJN1lxQVcyMV9XZW0wY1dFSHpBWlhRVU9JUk1mMnZQaFVXSnFHYnBJNW1jZDNoZWVtZnFnMWhxYTdWVFZUa3JkcFE?oc=5",
+  "medio": "Hoy Tamaulipas",
+  "publicada": "2026-11-04T08:00:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Marina asegura 15 armas largas y mas de mil 600 cartuchos en Sinaloa Hoy Tamaulipas",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8b5b9f64ea90bb9f"
+ },
+ {
   "titulo": "Aseguran armamento y droga en Sinaloa",
   "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlRZTGNNOGxobXVFdTRDSktVaDl3ZHZYZ3BRNFE0SGFVUTExVTg5UzVpNGhyenFSd2VXWEYyS3g1RmJWZHZTR2VWWm1ScklvMHByM3JieVRXbGw0cE45eFdIdlQ1ZjlzUFJCejJHNGJiUEVCcmo5MzRNbC1KQmhRRnNCbVZJY21lZnk1UUplNnprbTczdE9Ma2tjUy0?oc=5",
   "medio": "Quadratin Bajío",
@@ -297,6 +893,20 @@
   ],
   "local": true,
   "id": "6c1c0d1e243937ab"
+ },
+ {
+  "titulo": "Reclutan a cientos de jóvenes para sostener la guerra interna del Cártel de Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUF9URXhKMEhCWTF3cHdIQWl6VjlYYmxMMURnOW5kMVZRZTlSV2pJRGNER3VmWDd4eFUza2lxZ3NCR0luQlFOcjJ6XzdZVHpIcXRJM3JtMERnOE9UT0N6a25pNnFiOXJQWmdwVFdfNnpIeXdIUGVRNjN2LUdrV0lrY3g1NHc1UkREZDQ0M204aEFLZE12Mmd2QV90ZWhGelZna0h0UkJ6ZkpXZk1DVW5Cejh5RVNjOE9ublBUdFBHUjVpNkc2bGx3aEVqLTZkQjdrWnc?oc=5",
+  "medio": "vanguardia.com.mx",
+  "publicada": "2026-11-04T07:52:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Reclutan a cientos de jóvenes para sostener la guerra interna del Cártel de Sinaloa vanguardia.com.mx",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ede8e3ecf0e2400a"
  },
  {
   "titulo": "Decomisan arsenal y cinco vehículos en operativos en Sinaloa",
@@ -1709,6 +2319,20 @@
   "id": "55dd0b3b0215fd83"
  },
  {
+  "titulo": "Pensión Bienestar: Cómo recibir hasta $13,030 con los programas del Bienestar",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeHhPQU9BWVNLYmNIMzRhVWM5ZjF2Q1l5Q1duQnNNeUItc2Z5ekdIRzdMMG9KSU43M3lkX2lqbTNvX000YU9Xd1VRTktZcHFtU3l6OEFsQnpaQ1hZOGVFS190bE8zTjRIUDVZNUpOMTlac0E5ZWZqbFFhMmZsR1VVc0lmeFZHSFdGeXJBQ2dCcV9jLTRoNmNkX1p1bGtJNTBkM20yd1RWQ2Z4eTMxeThRVTBaZ05LeFJ4UzBaaXRUVWEtY1hrUmRj?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-04T00:54:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Pensión Bienestar: Cómo recibir hasta $13,030 con los programas del Bienestar Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "651bfcacfc5f7797"
+ },
+ {
   "titulo": "Fiscalía investiga asesinato de un hombre en Infonavit Las Flores, Culiacán",
   "liga": "https://www.sinaloahoy.com.mx/portal/fiscalia-investiga-asesinato-de-un-hombre-en-infonavit-las-flores-culiacan/",
   "medio": "Sinaloahoy",
@@ -2333,6 +2957,20 @@
   ],
   "local": true,
   "id": "842adb7cda4809db"
+ },
+ {
+  "titulo": "Así influirá en México la caída de Trump y republicanos en las elecciones EU 2026: Analistas",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2VLWVlpcGhaRG4wbVJWbEEzVWZMMDNxbVFQLW1GN0ZwRVQwZHllREtJVTJWeUcwbHIyaXNhY0JoZUxNTHBGcnZqSXRPTUo2RFRVeTV5Y3BjVmNvM0tqOHpGMnN3eTV5ckJCUVdvTlMxeE9jWUlTZVJwZnBUa1VDSURVT09ZYi05LUZZWU5yZGlHNmQ0eUk5UHVyTEhiTlZ4Z0ZrakR4WmtBVGVGWkM1TTU3Wjh1SWtjSGptbVMzMUdhYlhNcmphZnR3dFlsYjF6OHpwSDkwcUNKcl9LVmc?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-03T23:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Así influirá en México la caída de Trump y republicanos en las elecciones EU 2026: Analistas Debate",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "54df1099d5c30aa5"
  },
  {
   "titulo": "Algodoneros de Guasave cae 6-4 ante Charros de Jalisco y pierde su racha de ocho triunfos",

@@ -1,5 +1,411 @@
 [
  {
+  "titulo": "Descubren video que revela torturas previas al triple femicidio en Argentina",
+  "liga": "https://elcongresista.mx/justicia/video-torturas-triple-femicidio-argentina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:22:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Encuentran video de torturas a víctimas de un triple femicidio en Argentina, que revela datos sobre el caso y sus implicados.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ff52c8a322eb76a5"
+ },
+ {
+  "titulo": "Retiran 28 vehículos calcinados en Matamoros tras bloqueos",
+  "liga": "https://elcongresista.mx/tamaulipas/retirar-28-vehiculos-matamoros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:21:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Retiran 28 vehículos calcinados en Matamoros tras bloqueos del 29 de octubre; aún quedan unidades por remover, según autoridades locales.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c11a0d7089619e58"
+ },
+ {
+  "titulo": "Denuncian a hombre por tirar basura en la colonia Hacienda Linda Vista",
+  "liga": "https://www.uniradioinforma.com/sociedad/denuncian-hombre-tirar-basura-colonia-hacienda-linda-vista-n912392",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T09:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "54bd12be69b8cf33"
+ },
+ {
+  "titulo": "Kuri pide cautela sobre resultados de elecciones en Estados Unidos",
+  "liga": "https://elcongresista.mx/politica/nacional/kuri-cautela-elecciones-estados-unidos-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:20:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Santiago Kuri pide cautela ante resultados de elecciones en Estados Unidos por el impacto en relaciones con México.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d0a0c059b0dcbca2"
+ },
+ {
+  "titulo": "Senado rinde homenaje a Cuauhtémoc Cárdenas y proponen incluirlo en Muro de Honor",
+  "liga": "https://jornadabc.com.mx/02_secundarias/senado-rinde-homenaje-a-cuauhtemoc-cardenas-y-proponen-incluirlo-en-muro-de-honor/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-04T09:19:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "El Senado rindió un minuto de silencio y otro de aplausos en memoria de Cuauhtémoc Cárdenas Solórzano y anunció la preparación de un homenaje a su trayectoria política La entrada Senado rinde homenaje a Cuauhtémoc Cárdenas y proponen incluirlo en Muro de Honor se publicó primero ",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "30a07d0ad96be385"
+ },
+ {
+  "titulo": "Infonavit cancela 9,901 hipotecas y edifica 82 mil casas en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/infonavit-michoacan-cancelacion-hipotecas-construccion-casas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:16:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "El Infonavit y la Sedatu cancelan hipotecas y construyen miles de viviendas en Michoacán para garantizar el derecho a un hogar digno.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0cf6e7bea26345cf"
+ },
+ {
+  "titulo": "¡Duelo de emociones! Tomateros derrotan a Naranjeros en entradas extras",
+  "liga": "https://www.uniradioinforma.com/deportes/duelo-emociones-tomateros-derrotan-naranjeros-entradas-extras-n912390",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T09:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "La Escuadra Naranja peleó, pero los Guindas se llevaron el triunfo 5-4.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "7990432e221d47d9"
+ },
+ {
+  "titulo": "Donald Trump pierde control del Congreso, abre etapa de confrontación política",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-pierde-control-congreso-elecciones-intermedias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:15:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Donald Trump ha perdido el control del Congreso tras las elecciones intermedias, lo que complica su agenda política y provoca nuevas investigaciones.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "35ef543a55fb183c"
+ },
+ {
+  "titulo": "Sinaloa: se prevén temperaturas de hasta 35 grados este miércoles",
+  "liga": "https://elcongresista.mx/politica/sinaloa/sinaloa-temperaturas-35-grados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:13:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Este 4 de noviembre, Sinaloa tendrá temperaturas de hasta 35 grados Celsius y cielo despejado, con bajo riesgo de lluvia.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4ad214ff6a345f38"
+ },
+ {
+  "titulo": "Sheinbaum: en elecciones de EU ganó la voluntad del pueblo",
+  "liga": "https://jornadabc.com.mx/principales/sheinbaum-en-elecciones-de-eu-gano-la-voluntad-del-pueblo/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-04T09:12:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Independientemente del resultado, se busca siempre la mejor relación con el gobierno vecino, sin subordinación en materia comercial y de seguridad, aseguró la Presindenta La entrada Sheinbaum: en elecciones de EU ganó la voluntad del pueblo se publicó primero en La Jornada Baja C",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "4a7f0bec627dc238"
+ },
+ {
+  "titulo": "Arratia entrega apoyos a 10 mil mujeres en San Bernabé, NL",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/apoyos-mujeres-san-bernabe-nl",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:11:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Félix Arratia encabezó la entrega de apoyos a 10 mil mujeres en San Bernabé, Nuevo León, que recibirán 2 mil pesos mensuales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6757a3f0992f4fe1"
+ },
+ {
+  "titulo": "CEEPAC aprueba redistribución de financiamiento para partidos en SLP",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/ceepac-redistribucion-financiamiento-slp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:05:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "CEEPAC aprueba nueva distribución del financiamiento para partidos en San Luis Potosí, afectando a los de reciente creación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "771304977acbcabb"
+ },
+ {
+  "titulo": "Entregan 13 viviendas a familias de Irapuato por programa municipal",
+  "liga": "https://elcongresista.mx/politica/guanajuato/13-viviendas-irapuato-programa-hogar-futuro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:05:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Se entregan 13 viviendas a familias de Irapuato como parte del programa 'Tu Hogar, Tu Futuro' para ofrecer certeza y dignidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bc5a530911726e3c"
+ },
+ {
+  "titulo": "James Talarico conquista Senado en Texas y desafía a los republicanos",
+  "liga": "https://elcongresista.mx/politica/nacional/james-talarico-victoria-senado-texas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "James Talarico logra una victoria histórica en el Senado de Texas, rompiendo más de 30 años de dominio republicano con el 54% de los votos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "05f08a461eb4cce1"
+ },
+ {
+  "titulo": "Golpe histórico a Trump: demócratas conquistan el Congreso impulsados por el voto latino y una ola progresista",
+  "liga": "https://jornadabc.com.mx/principales/golpe-historico-a-trump-democratas-conquistan-el-congreso-impulsados-por-el-voto-latino-y-una-ola-progresista/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-04T09:03:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Conservadores pierden en bastiones como Texas, Kansas y las Carolinas; hijo de migrantes mexicanos, indígena y maestro de primaria, entre los triunfadores La entrada Golpe histórico a Trump: demócratas conquistan el Congreso impulsados por el voto latino y una ola progresista se ",
+  "temas": [
+   "Migración",
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": true,
+  "id": "d758d22882b20f6b"
+ },
+ {
+  "titulo": "Trump enfrenta un rechazo electoral que marca el fin de su era",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-rechazo-electoral-2022",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T09:03:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "La derrota de Donald Trump en las elecciones intermedias de 2022 revela un cambio en la política estadounidense y su creciente rechazo electoral.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "787115be5edb1701"
+ },
+ {
+  "titulo": "Demócratas: recuperan el control de Cámara y Senado tras elecciones",
+  "liga": "https://elcongresista.mx/politica/nacional/democratas-recuperan-control-congreso-elecciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:50:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Los demócratas recuperan el control del Congreso en EE. UU., marcando un nuevo rumbo político ante la gestión de Donald Trump.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "06409a653f54b40f"
+ },
+ {
+  "titulo": "Rector Mario Bonillo advierte recorte del 38% en presupuesto de UNJu",
+  "liga": "https://elcongresista.mx/politica/nacional/recorte-38-unju",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:50:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "El rector de la UNJu, Mario Bonillo, advierte sobre recortes del 38% en su presupuesto, que pueden afectar la educación superior.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a8beb27788179c30"
+ },
+ {
+  "titulo": "Giugiaro presenta HOMMAGE 26 del Gallardo, 14,022 unidades vendidas",
+  "liga": "https://elcongresista.mx/vehicular/giugiaro-hommage-26-gallardo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:47:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Fabrizio Giugiaro presenta HOMMAGE 26, una versión modernizada del Lamborghini Gallardo, en Las Vegas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "60da0a0c41f8b23a"
+ },
+ {
+  "titulo": "LOMLOE: educación financiera en ESO y FP sin materia específica",
+  "liga": "https://elcongresista.mx/educacion/lomloe-educacion-financiera-eso-fp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:47:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "La LOMLOE integra la educación financiera en ESO y FP, pero no como una materia individual.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "e2f1d6b40d5b82b5"
+ },
+ {
+  "titulo": "Annie Andrews derrota a Darline Graham en Carolina del Sur",
+  "liga": "https://elcongresista.mx/politica/nacional/annie-andrews-derrota-darline-graham-carolina-del-sur",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:46:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Annie Andrews sorprende al vencer a Darline Graham en Carolina del Sur, lo que representa un desafío para el Partido Republicano y su relación con Trump.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2441b0220ef41d5f"
+ },
+ {
+  "titulo": "David Rodolfo E.J. detenido por feminicidio de Itzel Paola Guzmán",
+  "liga": "https://elcongresista.mx/justicia/david-rodolfo-ej-feminicidio-itzel-guzman",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:35:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Detienen a David Rodolfo E.J., medio hermano de Itzel Paola, por su feminicidio en Candelaria, donde fue hallada sin vida el 25 de octubre.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "97ced614bf7e2b36"
+ },
+ {
+  "titulo": "PJ bonaerense definirá liderazgo y estrategia electoral en reunión",
+  "liga": "https://elcongresista.mx/politica/nacional/pj-buenos-aires-reunion-clave-para-definir-estrategia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:35:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "El PJ bonaerense se reúne hoy para definir liderazgo y estrategia electoral en medio de tensiones internas significativas.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2546e5786f33c6af"
+ },
+ {
+  "titulo": "Gobernador de Hidalgo realiza cambios clave en su gabinete",
+  "liga": "https://elcongresista.mx/politica/hidalgo/cambios-gabinete-julio-menchaca-hidalgo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:33:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "El gobernador de Hidalgo, Julio Menchaca, realiza ajustes en su gabinete para optimizar la administración pública.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2240d4c54d6c454e"
+ },
+ {
+  "titulo": "ASF investiga contrataciones del INE y del extinto IFE desde el 2000",
+  "liga": "https://elcongresista.mx/justicia/asf-investigacion-ine-ife-contrataciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:32:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "La ASF investiga contrataciones del INE y del IFE desde el año 2000 por posibles irregularidades en el uso de recursos públicos.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4e4025c554c59b8f"
+ },
+ {
+  "titulo": "Suben 6.2% las Aportaciones Federales pagadas al gobierno de BC",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTV6Sk9PRkhLaHFvUWpmR3ZITlVBWWlxX0tqTDdYaFJDd0dldDhZX2FaTU5ySUdkY2pGNmRUSk9wel9tbGthbDRZazNJT1VBT0taNUIwSVVZenVHZ25iZEhXRl8yS1cxUktfQXE3cGlkOXdrR1ZTR2hBQXZ6UWRoNG9zWEp0WnRsM1ZTbkFDbDQ4aXluYl9TN2pFazlTMWFqR1pKNnJIZ2M?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T08:32:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Suben 6.2% las Aportaciones Federales pagadas al gobierno de BC AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "53826b6a65e4d5b0"
+ },
+ {
+  "titulo": "Sheinbaum destaca avances en programas sociales durante “La Mañanera”",
+  "liga": "https://elcongresista.mx/politica/michoacan/sheinbaum-avances-mañanera-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T08:31:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum presenta avances en programas sociales y justicia indígena durante la conferencia matutina del 4 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8a1daea2fe5c7e60"
+ },
+ {
+  "titulo": "Desconfianza empresarial se acentuó en octubre; persiste inseguridad para invertir",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlFiS0JUSHM5Wk9KS2hFYm1FOXB1RHpBakZsS2dVVjZ3eU5PQzZLUXNBb3NGVzlHV1JVR3ZaSm5CczZqNkZuWGNvTFd2RHFlQzU4Mm12MWstVWZudGI1SXA4VldBeXItdzBhV09PRVEzWEFYRE9DaEJlUldEUGp1UlRuSGtzOEVFdlExVmdlbGRXNjMzQ1VKNHY2LVE2TE9oSGFPYmEyZnFYRkxqcnpSemYwVHlpUU1iUzFqeGVWV3hCdw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T08:29:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Desconfianza empresarial se acentuó en octubre; persiste inseguridad para invertir AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "b9ecf47fcf1fa0d6"
+ },
+ {
   "titulo": "Pensión Bienestar 2026: hoy cobran 6,400 pesos adultos mayores B",
   "liga": "https://elcongresista.mx/politica/nacional/pension-bienestar-2026-letra-b",
   "medio": "El Congresista",
@@ -354,6 +760,20 @@
   ],
   "local": false,
   "id": "aed63e179a942328"
+ },
+ {
+  "titulo": "El massismo cruzó a Secco por las reelecciones indefinidas: “Mamarracho es no poder armar una sucesión”",
+  "liga": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15M1M0YTZJTHIwdEVLTUhUZDAyanRIaXdMeHBpNXpabWJXUGxXNFpvcjdfU19KX21lVkM4YjhrU2hJbzBKYWwtdmJRT2RhNXhrbXNsZThZWGVLdWxEbTJHYS04S2psOThZTVpFOWotZXk4Nnk4VXp3OXFhdzk?oc=5",
+  "medio": "Diputados Bonaerenses",
+  "publicada": "2026-11-04T06:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "El massismo cruzó a Secco por las reelecciones indefinidas: “Mamarracho es no poder armar una sucesión” Diputados Bonaerenses",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9007276c4dbc26dc"
  },
  {
   "titulo": "Convocatoria solidaria en Ensenada: Bomberos organizan una cena para renovar la fachada del cuartel histórico",
@@ -1501,6 +1921,20 @@
   ],
   "local": false,
   "id": "542686a628b23a9b"
+ },
+ {
+  "titulo": "Noticias sobre mala calidad d",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FTy1pSnZCX2F0bklBM1ZMNjJJdEp2SzlfM19aLW5pUm9OZGw3cXY4OWU1bnRFbUlpVFphTTdmaDlmb0dUU19pSmVUWmJ1ZHZ1UHpVWTNOSzVkMm4tSlAzLXhB?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T01:47:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T09:27:10-06:00",
+  "resumen": "Noticias sobre mala calidad d Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "04e21e4106f7c81d"
  },
  {
   "titulo": "Sentencian a mujer partícipe en asesinato de Damián Sáenz en Ensenada",
