@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-04T12:28-06:00",
+ "actualizado": "2026-11-04T13:36-06:00",
  "corte": "2026-11-04",
  "ventana": [
   "2026-11-03T20:00-06:00",
   "2026-11-04T20:00-06:00"
  ],
- "total": 380,
+ "total": 431,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -96,7 +96,7 @@
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 45
+   "notas": 44
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
