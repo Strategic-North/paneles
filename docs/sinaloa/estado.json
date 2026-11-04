@@ -1,6 +1,6 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-03T20:49-06:00",
+ "actualizado": "2026-11-03T20:51-06:00",
  "corte": "2026-11-04",
  "ventana": [
   "2026-11-03T20:00-06:00",
@@ -100,8 +100,8 @@
   },
   {
    "fuente": "Noticiero Altavoz",
-   "ok": true,
-   "notas": 10
+   "ok": false,
+   "error": "URLError: <urlopen error timed out>"
   },
   {
    "fuente": "Punto MX",
@@ -110,8 +110,8 @@
   },
   {
    "fuente": "Altavoz",
-   "ok": true,
-   "notas": 0
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "fuente": "Google News: site:debate.com.mx Culiacán",
