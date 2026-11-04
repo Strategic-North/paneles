@@ -1,5 +1,509 @@
 [
  {
+  "titulo": "Localizan sin vida a Sayuri, joven de 20 años reportada como desaparecida en Natura",
+  "liga": "https://jornadabc.com.mx/principales/localizan-sin-vida-a-sayuri-joven-de-20-anos-reportada-como-desaparecida-en-natura/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-04T12:25:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El hallazgo se registró alrededor de las 13:00 horas en un paraje ubicado a la altura del bulevar 2000, sobre la carretera que conecta Tijuana con Playas de Rosarito La entrada Localizan sin vida a Sayuri, joven de 20 años reportada como desaparecida en Natura se publicó primero ",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "0a8e4760a7bb49d9"
+ },
+ {
+  "titulo": "Balacera en Ensenada: muere presunto agresor de agentes estatales",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFlnTGo4ZEtXVnBzWHBRYzFuRnpQdDctZ2R0TXZrSjhaSFF3RUNJM1dVd3BsNFkzc0daemhRT1MzUnJhTEo4TnRicDdQWkxyT1pUR3JuSDNzaVN4ODVLVWdTQ3FHNDBUeVhmVm4xMlpUdlVPYks0d1Fqb1h1ZEpmZHliRUUwNWhjMzFfZjZRdTFDZjN5dXdCRFdDdHIzM1Vyc253?oc=5",
+  "medio": "NewsMx Tv",
+  "publicada": "2026-11-04T12:23:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Balacera en Ensenada: muere presunto agresor de agentes estatales NewsMx Tv",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5ee2e6eb271b7909"
+ },
+ {
+  "titulo": "Demócratas toman el Congreso con 218 escaños en EE. UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/democratas-congreso-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:20:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Los demócratas aseguran el control del Congreso con 218 escaños tras las elecciones 2026, estableciendo un nuevo equilibrio de poder.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "472ee82bcd32f2eb"
+ },
+ {
+  "titulo": "Festival Eñe 2026 destaca la poesía en Madrid y Málaga con 100 actividades.",
+  "liga": "https://elcongresista.mx/cultura/festival-enhe-poesia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:19:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El Festival Eñe 2026 en Madrid y Málaga celebrará la poesía con más de 100 actividades y destacará a la Generación del 27.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "1a95815d9fa06cb0"
+ },
+ {
+  "titulo": "Plan Michoacán por la Paz reporta 67% de avance, afirma Sheinbaum",
+  "liga": "https://elcongresista.mx/politica/michoacan/plan-michoacan-por-la-paz-avance-67",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:18:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El Plan Michoacán por la Paz presenta un avance del 67% en su ejecución, según Claudia Sheinbaum, quien señala la necesidad de mejorar la seguridad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d29e62d7634585e3"
+ },
+ {
+  "titulo": "Baja California aprueba inversión de 61 mil mdp en obras públicas",
+  "liga": "https://elcongresista.mx/politica/baja-california/baja-california-inversion-obras-publicas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:17:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Baja California destina más de 61 mil mdp para proyectos de infraestructura, educación y salud, según informe de la gobernadora.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Economía y empleo",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "defa6b67fc588780"
+ },
+ {
+  "titulo": "Tijuana prepara operativo preventivo ante posibles efectos de El Niño",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVF5ZGxiamNWbFJDbnlqSkRMMDVqU2pMS2tWTHZMSUZ1OEVVSDNSVG4ySXBveUF6WnozVlN4aF9Sd3RkdEt6UTZobGpjTWM3Y3ItUWdPeEYtSVJWQnoteE4xRjR4ejQ4dGVtWnNGbFdnUmQ1dkVQS2pmcUVrdzhXSWY4WldzWVFRYTkzdWVKUDVLTThRQzJVVmdSVUF0a0tnNGw0dktRbzc?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T12:16:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Tijuana prepara operativo preventivo ante posibles efectos de El Niño Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fcee3ed24395d33f"
+ },
+ {
+  "titulo": "Ricardo Arjona confirma concierto en Tijuana el 26 de noviembre",
+  "liga": "https://elcongresista.mx/politica/baja-california/ricardo-arjona-concierto-tijuana-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:16:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Ricardo Arjona se presentará en Tijuana el 26 de noviembre con su gira, prometiendo un espectáculo de gran producción.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "b7cdcb1ffd488b4f"
+ },
+ {
+  "titulo": "Jesús Nava impulsa actividades recreativas en espacios públicos de MTY",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/jesus-nava-fiesta-en-tu-parque-santa-catarina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:14:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El alcalde Jesús Nava inicia Fiesta en tu Parque, acercando actividades recreativas y servicios a las familias de Santa Catarina.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a631e592de0ca226"
+ },
+ {
+  "titulo": "Ricardo Arjona traerá su gira “Lo que el seco no Dijo” a la frontera",
+  "liga": "https://zetatijuana.com/2026/11/ricardo-arjona-traera-su-gira-lo-que-el-seco-no-dijo-a-la-frontera/?utm_source=rss&utm_medium=rss&utm_campaign=ricardo-arjona-traera-su-gira-lo-que-el-seco-no-dijo-a-la-frontera",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-04T12:12:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Luego de varios años de ausencia, el cantante guatemalteco aterrizará en Tijuana el próximo 26 de noviembre con su tour del 2026, donde deleitará a sus fans con su amplio repertorio de éxitos como “El Problema”, “Mujeres”, “Historia de Taxi” y “Fuiste Tú” entre otras.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "dd6a5d56ea89e0b1"
+ },
+ {
+  "titulo": "César Jáuregui, exfiscal de Chihuahua, se enfrenta a aislamiento en el Altiplano",
+  "liga": "https://elcongresista.mx/politica/edomex/cesar-jauregui-altiplano-aislamiento",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:10:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "César Jáuregui, exfiscal de Chihuahua, enfrenta aislamiento en el Altiplano tras ser acusado de traición a la patria.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "eb3bf1bfd5ea00ca"
+ },
+ {
+  "titulo": "Tecate: evalúan estrategia de seguridad tras reunión con federales",
+  "liga": "https://elcongresista.mx/seguridad/tecate-revision-estrategia-seguridad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:10:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El alcalde de Tecate y autoridades estatales y federales revisan la estrategia de seguridad “Unidos por Tecate” para mejorar la seguridad en la localidad.",
+  "temas": [
+   "Gobierno municipal",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9b1e3f75cb3d72f1"
+ },
+ {
+  "titulo": "Semot y STCH revisarán seguros de transporte público a partir del 6 de noviembre",
+  "liga": "https://elcongresista.mx/politica/hidalgo/semot-hidalgo-revision-seguros-transporte-publico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:08:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Semot comenzará el 6 de noviembre la revisión gratuita de seguros y licencias para unidades de transporte público en Hidalgo.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ea59dea84a8878f8"
+ },
+ {
+  "titulo": "ENSENADA: Abaten estatales al “Pariente” en Valle de la Trinidad; dos agentes lesionados",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbExxTFZYWUtnT3RSaGs1cW82SW5iU3NXNmJYTDBySUtmcFliUGQ1UWFwbzlIS1B0dnNFMmQ2bUVSVnVreWtaV2doQkdoWDVjZ095VkM0RXNnU2VBWU9Yak1pSFNCcVZGS0U5WWZWNDg1X01YeFBNdmJMZ0IzYXM2Snd1WWJBRllvN0JMV1NXVFoycTgySDJDSGVCSlM2cmhTMVdGN3A2c2FEVFFSOXVfWGdGNkY1Z1ZPcUwzRQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T12:06:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "ENSENADA: Abaten estatales al “Pariente” en Valle de la Trinidad; dos agentes lesionados Baja News",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "c6441bfb1148be1d"
+ },
+ {
+  "titulo": "Aguacateros y empacadoras acuerdan reanudar exportación; Sader descarta gusano barrenador",
+  "liga": "https://jornadabc.com.mx/region/aguacateros-y-empacadoras-acuerdan-reanudar-exportacion-sader-descarta-gusano-barrenador/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-04T12:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Columba López, secretaria de Agricultura, descartó que el origen de las protestas de aguacateros fuera por la presencia del gusano La entrada Aguacateros y empacadoras acuerdan reanudar exportación; Sader descarta gusano barrenador se publicó primero en La Jornada Baja California",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "ed66e2a384d74a18"
+ },
+ {
+  "titulo": "El dólar va a la alza, se cotiza en 18.20 pesos en casas de cambio",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2lzQ3ZhNnhUbTE3c1N2cHE0aEcweWNOMDg4NGdBMXlLczNHaFhGWHJaclpZVm5RUGluc0hkNnBoaWdFR0tkYkZZWUI4LXpsQmFRU245QlE5TkdQTmlncWw4aE1OSkQtYk95aXFKeFBJOG45dUl4eGJHenB2akZrMmdSWk9ZaVRIX3pFOGpDVFhxOTNGazhVaTBfVXM1R0ExNDZ1LUZtLU5XN0xfdExXa1R3V3RWWnc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T12:05:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El dólar va a la alza, se cotiza en 18.20 pesos en casas de cambio AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8064a262f4adc556"
+ },
+ {
+  "titulo": "Lamenta Claudia Sheinbaum muerte del exfutbolista Carlos Albert",
+  "liga": "https://elcongresista.mx/politica/nacional/lamento-sheinbaum-muerte-carlos-albert",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T12:01:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum lamenta la muerte del exfutbolista y periodista Carlos Albert, quien falleció el 3 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5b04c56c4a5f0d97"
+ },
+ {
+  "titulo": "Instalarán un centro de control ante emergencias del fenómeno \"El Niño\"",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnVYdU9QdV95TXRqVmR4aVZCY1o3bHp4MU1BNHlIMm44QVFkNlJSVE9QT2tuSS1ERVdiOGx5aFhfMzMtbHhwM3BtUGtkcGZjXzMycWVxUWt0Rk9ZRjJaTG9SV0hDVVp0ZlZ3M1pEbEx4NmgwbVhzNnN6NWFIb2daUVdKNVdPUEU1MWJ0U2NQWGVWNGVqeXl5RjR1Q2dfeVNvMVRsQ090NHlFaTFfVXRKaF9KNVRnMm12VXpuZw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T11:59:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Instalarán un centro de control ante emergencias del fenómeno \"El Niño\" AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dfc213033d68a751"
+ },
+ {
+  "titulo": "Encuentran cuerpo en maleta y agreden a dos hombres en negocio de maquinitas en Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/encuentran-cuerpo-en-maleta-y-agreden-a-dos-hombres-en-negocio-de-maquinitas-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=encuentran-cuerpo-en-maleta-y-agreden-a-dos-hombres-en-negocio-de-maquinitas-en-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-04T11:59:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "En hechos distintos, una persona fue encontrada sin vida dentro de una maleta en el Cañón San Antonio, mientras que dos hombres resultaron lesionados por arma de fuego cuando se encontraban en un negocio de máquinas tragamonedas en la colonia Nuevo Milenio.",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "cd3f7101e4aa3689"
+ },
+ {
+  "titulo": "Instalan el Gabinete Estatal Sectorial de Administración",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHpTNUFWSmxLR1FSdVdKNTY4VThpdy05OWh1ejNKaEV2ZmFESFBZelNYdzV4YVF0aE9aV3V1NkMtRWxUcnJsdmpkeWdVZUQ1dnJRdzg2RVR4azFqWUFOYkExaHhQNmpOYjdKTFBuM0NnSnBrUDdFWXVKSnNCcGM5NjBWVUkyWVhWRXgzWF8tQnVzWGNQeFVLcVctcVIxWjRLNWZUMDRZeURWVzA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T11:57:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Instalan el Gabinete Estatal Sectorial de Administración AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "16e53a9c2d82dd7d"
+ },
+ {
+  "titulo": "Ayuntamiento prepara un Centro de Operaciones ante lluvias de “El Niño” con Policía, Bomberos y Protección Civil",
+  "liga": "https://puntonorte.info/2026/11/04/ayuntamiento-prepara-un-centro-de-operaciones-ante-lluvias-de-el-nino-con-policia-bomberos-y-proteccion-civil/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-04T11:54:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Tijuana.- El Ayuntamiento de Tijuana prepara un Centro de Control y Operaciones para atender emergencias durante la próxima temporada de lluvias provocadas por el fenómeno meteorológico de “El Niño”. El proyecto estará coordinado entre la Policía Municipal, Bomberos y Protección ",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "a60ee2de2db1ecb5"
+ },
+ {
+  "titulo": "Israel Piña Labra encabeza desfile de Día de Muertos en Temixco.",
+  "liga": "https://elcongresista.mx/morelos/desfile-dia-de-muertos-temixco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T11:51:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Israel Piña Labra lidera el tradicional desfile de Día de Muertos en Temixco, donde miles de personas celebraron con música y culture.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "46da9e2580e56f11"
+ },
+ {
+  "titulo": "Detienen a hombre en San Luis Potosí por posesión de drogas",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/detienen-hombre-posesion-drogas-san-luis-potosi",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T11:50:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "La Fiscalía de San Luis Potosí detiene a un hombre y asegura drogas y efectivo en un operativo en la colonia Simón Díaz.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "02185cfe8e7034d0"
+ },
+ {
+  "titulo": "DURANGO: Atienden caminos afectados por lluvias en Tamazula, Pueblo Nuevo y San Dimas",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlJQN0s3RlpuVi1YMnlvamYyYjBTTXRmbDFQMlNwVGJiTVZBLVJwYzVpT2xnNnI4VW1RMFpYYkNsdUM3clBZb3l2TWNmcnpQeWNJYlJhYTNUZDhGYzJodGpQczhpNFhqa3FkSjZmS3pkYjdvN2pCUC1ITGF4VlBmSW5qT3RXYzZSVzBDUFd0T2dQN2hvNEtHRTJLRkxaM3dSRVhBclJCc2I5N0lTYThxM1BnejdnNTVnaUE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T11:50:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "DURANGO: Atienden caminos afectados por lluvias en Tamazula, Pueblo Nuevo y San Dimas Baja News",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "a8a92efb9cc5ad2c"
+ },
+ {
+  "titulo": "Choque múltiple en filtro de alcoholimetría; una unidad oficial involucrada",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGYxNjBnQlBBa3pEaWt6YXo1Q0pwMXQyUGtHbWtkYU50Z2hkOTRTdEZxS3pQaEpRcGJaN1M2NEVMQ3U0NW1RdEVnYzZQcXpQT05ZaGNfdm1UU0FYNDZMS0pkRlF3ZXhjZFJoT3BzejdDTXlzZkQ3VEZHWTRFVzFVREVfc1otYko1Q3ktclp6elhzaDVwM1JWaFpLem91c3dKc3NySDgtVUprQUlDRFRDeUtCSGpUNTdmU2xodURITWhoRWc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T11:47:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Choque múltiple en filtro de alcoholimetría; una unidad oficial involucrada AFN",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "0f323fe57e199623"
+ },
+ {
+  "titulo": "Bobby Pulido gana el Distrito 15 de Texas por 60% de votos.",
+  "liga": "https://elcongresista.mx/politica/nacional/bobby-pulido-triunfa-distrito-15-texas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T11:45:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Bobby Pulido logra un notable triunfo en Texas con 60% de apoyo hispano en el Distrito 15, marcando un cambio electoral.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c4706f8153847c83"
+ },
+ {
+  "titulo": "Elecciones en EE. UU.: nuevo Congreso dividido impacta a México.",
+  "liga": "https://elcongresista.mx/politica/nacional/elecciones-eeuu-nuevo-congreso-implicaciones-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T11:44:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El nuevo Congreso de EE. UU. impactará la relación con México en comercio y migración, tras las elecciones intermedias.",
+  "temas": [
+   "Migración",
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "676898e1f728aa74"
+ },
+ {
+  "titulo": "Sheinbaum reconoce triunfos de Becerra e Hinojosa y pide esperar ante cambios en EU",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOU5qdEJ6d2dDcW9vSzRCcmlydFRCZnRlSl9CM2FIZjNjVmlvZncyd3pMOF9uMVBkQlpDTlJUZlE0alVVSC1CTnFKeTJtYzA5c0IzcFU3Q2w2TVpoTTBzbDIyLUpfT2VIblpYelZoVk9FTGMxRHFfdXlqSVMyVVVrSlNNbGczREpWWGgtbVpRbG1kVDEyc1dkZVJVcVUxZXZXWFRvMmEzZDBZWkQ0RXpEdVNTcVJiYkZpRXc?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T11:43:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Sheinbaum reconoce triunfos de Becerra e Hinojosa y pide esperar ante cambios en EU Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b730335687b79cef"
+ },
+ {
+  "titulo": "Xavier Becerra, primer latino en gobernar California con 65.2% votos",
+  "liga": "https://elcongresista.mx/politica/nacional/xavier-becerra-gobernador-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T11:41:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Xavier Becerra es electo gobernador de California, siendo el primer latino en lograrlo, con un 65.2% de los votos.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "784717334f8e0512"
+ },
+ {
+  "titulo": "Venta de autos nuevos rebasa expectativas de distribuidores durante octubre",
+  "liga": "https://www.uniradioinforma.com/negocios/venta-autos-nuevos-rebasa-expectativas-distribuidores-durante-octubre-n912442",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T11:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "En octubre, se comercializaron 137 mil 438 vehículos nuevos, un 3.1% más que en el mismo mes del año pasado.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "a34c65391140c013"
+ },
+ {
+  "titulo": "Anuncian cierre vial en la calle Portes Gil por trabajos de rehabilitación en Tecate",
+  "liga": "https://elportavoznoticias.com.mx/anuncian-cierre-vial-en-la-calle-portes-gil-por-trabajos-de-rehabilitacion-en-tecate/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-04T11:36:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "De acuerdo con el aviso del Gobierno de Tecate, el cierre está programado para el miércoles 4, jueves 5 y viernes 6 de noviembre, en un horario aproximado de 5:00 de la... La entrada Anuncian cierre vial en la calle Portes Gil por trabajos de rehabilitación en Tecate se publicó p",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "c5af67011e1bfb02"
+ },
+ {
+  "titulo": "Muere gatillero tras enfrentamiento con agentes de la FESC en Ensenada; dos policías heridos",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVGEwTVdWNmhaWVZlR3ZoVzRIMUF4VDRRS0Y2dFRzem9DTzAyb3JNUzg3QnJtRVBuRkhoYi16ZmhfSEF4cU80bUpCZG9HY0JVQWhxbTVJa25qYW9EdmE3SW05MGYtRnU4WXN2bnRmYzd1WlloTHRrR3RLRWtBZTJlSml4ZjZTb2lWVkNuY2JZVkhaQTFXNEJhbml1UC1yWDVjbGdld3p4SVZpaV9kNFlxYkZXcWd5SEgyVjdhOWtkVEh2dmlGZ1BXbWFB?oc=5",
+  "medio": "PoderMX",
+  "publicada": "2026-11-04T11:35:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Muere gatillero tras enfrentamiento con agentes de la FESC en Ensenada; dos policías heridos PoderMX",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "239aeff32b394772"
+ },
+ {
+  "titulo": "El portero del Andorra, Jesús Owono, publica comunicado tras la muerte de Jesús de Miguel",
+  "liga": "https://www.uniradioinforma.com/deportes/el-portero-andorra-jesus-owono-publica-comunicado-tras-muerte-jesus-miguel-n912437",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T11:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f021d2daa4eb53f2"
+ },
+ {
+  "titulo": "Premiación del concurso ‘Pinta tu música’ en Torreón el 6 de noviembre",
+  "liga": "https://elcongresista.mx/politica/coahuila/premiacion-concurso-pinta-tu-musica-torreon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T11:28:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El 6 de noviembre se realizará en Torreón la premiación del concurso 'Pinta tu música', que unió arte y música local en una expresión creativa.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b0cbb81ac4bc97e0"
+ },
+ {
   "titulo": "Bloquean pensión del bienestar a Ernesto Ruffo Appel",
   "liga": "https://zetatijuana.com/2026/11/bloquean-pension-del-bienestar-a-ernesto-ruffo-appel/?utm_source=rss&utm_medium=rss&utm_campaign=bloquean-pension-del-bienestar-a-ernesto-ruffo-appel",
   "medio": "Zeta Tijuana",
@@ -14,6 +518,20 @@
   "id": "7730bb0b79536715"
  },
  {
+  "titulo": "Aleks Syntek confiesa que su familia quiso internarlo en una clínica psiquiátrica",
+  "liga": "https://www.uniradioinforma.com/fama/aleks-syntek-confiesa-su-familia-quiso-internarlo-una-clinica-psiquiatrica-n912434",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T11:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "\"Llegaron los hombres de blanco a amarrarme\"",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "39dd6246bee4c37e"
+ },
+ {
   "titulo": "Xavier Becerra llega a la gubernatura de California con raíces mexicanas y una historia ligada a Tijuana",
   "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN0RqSjFYTHlleHpQbUprOEhiTjJUY3lOZUJtOW5wT2c4clh0SURrcVhyRFloZUVSMVhqb3VlTkRhVE5hYl80a2lORnB0Q0lVMWlyb0dtR1RVMnk5aGRTWUQ5RG9WTHlZZFh2Y2JWcW1qTHhzMXljYVVyYXlLMlM0SVdQcVlSY19iV2ZycFB1c2tyZ3FaS1RFM0FUbV95MmVlaEtUd2tHSFBfVFJYRTV1UnVpVkN1NC1lRkxFd1lYaDJKdFhYOUFCYVpkRlB2MldpQmVsZ2NXZw?oc=5",
   "medio": "BajaNews",
@@ -26,6 +544,35 @@
   ],
   "local": true,
   "id": "c7d6768a1e91497b"
+ },
+ {
+  "titulo": "Enfrentamiento deja un presunto delincuente abatido y dos agentes lesionados en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXpBRVp2YnVHUnh6cmxERFItNzNDTG50Z0NxNU04M1AwRGEtelBUbkNBY0RFUktmb1JPcVduVzRERHRJaWx0UElERHdlMkRtV0lGdzc0a1BwNHlXTkVyUm1OelVmbDcxSG43cF9oS0xOaXRVWXNyUmtuaFhnSERSaENtQnIyLUJBTXprd3RIa0J5YjJTa0JTOXRwVW80MThxR3hSaHhkNFE2SVlVY0ZRbTgwc0d6dlhabUI1OTVQbkFsNUY2ejh4Q1dR0gHPAUFVX3lxTE5QZjU0S2dJUE1zZVBfTGZRZ2VwNVRsUV94QUNod1k1Ykt1cWdmV29sT1BBVWF6U2FrYkxuNkMxa3RrZThlZldMa0NOVUhlNmpnbmFUMjEyTlp1VWpNTHp0U1FDSUU1WE9qS2VuQUlXLUdRNk85ZnB0b2FGMjNNQVpqSE14OV9aOEs1QUJrQmJoWFFGVzZ5eW14ejd5YV9OM3pxa0NYczJoZlZ1SlJvRlozZ05NVGNDeVllaUFDaHoxQWRWS2xFUUYxaEtsX3ZsTQ?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T11:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Enfrentamiento deja un presunto delincuente abatido y dos agentes lesionados en Ensenada Uniradio Informa",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "51eca04d67fd3b1a"
+ },
+ {
+  "titulo": "Chivas rechaza fichar a Efraín Álvarez, quien iba al América.",
+  "liga": "https://elcongresista.mx/politica/jalisco/efrain-alvarez-chivas-america",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T11:21:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Efraín Álvarez reveló que estuvo cerca de fichar con América, pero finalmente decidió unirse a Chivas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a9b155726edcfa25"
  },
  {
   "titulo": "El piloto de Ferrari, Charles Leclerc y Alexandra anunciaron el nacimiento de su primera hija, Bianca",
@@ -1987,6 +2534,20 @@
   "id": "af5ecd6687733b1b"
  },
  {
+  "titulo": "Comienza el ciclo para los fanáticos de Dark: Todos buscan a Mikkel Nielsen",
+  "liga": "https://oem.com.mx/lavozdelafrontera/tendencias/comienza-el-ciclo-para-los-fanaticos-de-dark-todos-buscan-a-mikkel-nielsen-32962482",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-04T07:06:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "Este 4 de noviembre es recordado por ser el inicio de la gran historia que fue desarrollada en la serie alemana Dark",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a6a7e02e9cd4be83"
+ },
+ {
   "titulo": "México busca proteger su industria con reformas aduaneras centrales",
   "liga": "https://elcongresista.mx/politica/nacional/anamexico-reformas-aduaneras-proteccion-industria",
   "medio": "El Congresista",
@@ -2002,6 +2563,20 @@
   "id": "4557d3efdad6cdb6"
  },
  {
+  "titulo": "Estados Unidos 2026: nuevo mapa político y México",
+  "liga": "https://oem.com.mx/elsoldetijuana/analisis/estados-unidos-2026-nuevo-mapa-politico-y-mexico-32963183",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-04T07:01:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6096ea58caa4ece8"
+ },
+ {
   "titulo": "Mueren en Ensenada 19 por rickettsiosis · El Vigía",
   "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSERGdVQxY2FyUjFBdHRHRG9QUVdHUl9XOFVmUWxRUldha0paZThpUWZQWXRSYzNSb3VRUlVEWDV6RlhUSXkyNFljd1o5Z0ZyRzJ2SjN2MjhzWjZDaVdTTUlld0oxX0QxODc0dkFpRzNic1R0UVk0YjkxeDcwdlFtN2RMWGgtdw?oc=5",
   "medio": "El Vigía",
@@ -2014,6 +2589,20 @@
   ],
   "local": true,
   "id": "df899e060522230f"
+ },
+ {
+  "titulo": "Expediente Confidencial / Esta derrota es culpa de Trump",
+  "liga": "https://oem.com.mx/elsoldetijuana/analisis/expediente-confidencial-esta-derrota-es-culpa-de-trump-32963129",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-04T06:47:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "68f756dcf1bcf73f"
  },
  {
   "titulo": "El Frente Renovador cruzó a Secco por las reelecciones indefinidas",
@@ -2042,6 +2631,35 @@
   ],
   "local": false,
   "id": "9007276c4dbc26dc"
+ },
+ {
+  "titulo": "Bobby Pulido: del “Desvelado” de las quinceañeras al Congreso de EU, el ídolo tejano que conquistó el Valle del Río Grande",
+  "liga": "https://oem.com.mx/lavozdelafrontera/mundo/bobby-pulido-del-desvelado-de-las-quinceaneras-al-congreso-el-idolo-tejano-que-conquisto-el-valle-del-rio-grande-32962441",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-04T06:26:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El cantante de Edinburg derrotó a la republicana Monica De La Cruz y se convirtió en el nuevo representante del Distrito 15 de Texas, pero su victoria se construyó sobre tres décadas de música que unió a generaciones",
+  "temas": [
+   "Gobierno del estado",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "967473b301f9de32"
+ },
+ {
+  "titulo": "¿Ya terminaste de pagar tu crédito Infonavit? Conoce cómo solicitar la devolución de pagos en exceso en diciembre 2026",
+  "liga": "https://oem.com.mx/lavozdelafrontera/finanzas/ya-terminaste-de-pagar-tu-credito-infonavit-conoce-como-solicitar-la-devolucion-de-pagos-en-exceso-en-diciembre-2026-31764693",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-04T06:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T12:28:01-06:00",
+  "resumen": "El trámite es gratuito y puede realizarse de dos maneras, según la situación digital de cada persona. ¡Conoce más aquí!",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ce3399e64dcb73b1"
  },
  {
   "titulo": "Convocatoria solidaria en Ensenada: Bomberos organizan una cena para renovar la fachada del cuartel histórico",
