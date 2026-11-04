@@ -1,5 +1,560 @@
 [
  {
+  "titulo": "Luis García Montero destaca importancia de la memoria cultural en idioma español",
+  "liga": "https://elcongresista.mx/cultura/luis-garcia-montero-simposio-china",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:20:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Luis García Montero, director del Instituto Cervantes, reflexionó sobre la memoria cultural en el simposio \"El español en China\".",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fdbe3cc72224687a"
+ },
+ {
+  "titulo": "Salón de belleza: filtro de redes falla y muestra rostro natural",
+  "liga": "https://elcongresista.mx/viral/salon-belleza-filtro-falla-video-viral",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:19:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Un video de un salón en Nueva York se vuelve viral tras mostrar un filtro fallido que exhibe el rostro natural de una clienta.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ccc2984ec4afea8d"
+ },
+ {
+  "titulo": "Rels B anuncia concierto de dos horas y media en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/rels-b-concierto-cdmx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:19:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Rels B anunciará un concierto en CDMX, con un setlist de dos horas y media. Expectativa entre sus fans por la fecha y lugar.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9486d1c7e86eff64"
+ },
+ {
+  "titulo": "Héctor Serrano no se preocupa por 13 impugnaciones ante la SCJN",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/impugnaciones-scnj-serrano-san-luis-potosi",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:17:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Héctor Serrano minimiza 13 impugnaciones ante la SCJN relacionadas con reformas en San Luis Potosí, defendiendo la legalidad de su legislación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "60eb28ee61bf657d"
+ },
+ {
+  "titulo": "Asesinan a José Alfredo García Gutiérrez, coordinador en Tijuana, el 1 de noviembre",
+  "liga": "https://elcongresista.mx/politica/baja-california/asesinan-jose-alfredo-garcia-gutierrez-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:16:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "El coordinador municipal del Movimiento del Sombrero, José Alfredo García, fue asesinado el 1 de noviembre en Tijuana durante una agresión armada.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1b91161b9a79e6ca"
+ },
+ {
+  "titulo": "Identifican a joven encontrada sin vida y con heridas de bala en el bulevar 2000: llevaba 4 días desaparecida",
+  "liga": "https://puntonorte.info/2026/11/04/identifican-a-joven-encontrada-sin-vida-y-con-heridas-de-bala-en-el-bulevar-2000-llevaba-4-dias-desaparecida/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-04T15:15:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Playas de Rosarito.- Sayuri Tajimaroa Ponce, de 20 años, es la joven que fue localizada sin vida en un paraje deshabitado a la orilla del bulevar 2000, en los límites entre Tijuana y Playas de Rosarito. Su cuerpo presentaba signos de violencia como heridas de bala, por lo que su ",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "85118b1744747fd6"
+ },
+ {
+  "titulo": "Tráfico pesado por bloqueos en CDMX en diversas alcaldías",
+  "liga": "https://elcongresista.mx/vehicular/bloqueos-manifestaciones-cdmx-octubre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:12:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Hoy en CDMX, bloqueos y manifestaciones afectarán el tránsito en diversas alcaldías. Se recomienda precaución a los automovilistas.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "ff07d335bbbc9b71"
+ },
+ {
+  "titulo": "Buen Fin en Reynosa ofrecerá descuentos de hasta 40% del 13 al 17 nov.",
+  "liga": "https://elcongresista.mx/tamaulipas/buen-fin-reynosa-descuentos-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:10:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Del 13 al 17 de noviembre, Reynosa ofrecerá descuentos de hasta 40% para atraer compradores del Valle de Texas durante el Buen Fin.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b1d63dd6e7678068"
+ },
+ {
+  "titulo": "Invierte Durango casi 40 mdp en colectores para evitar descargas al río Tunal",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakhUUTg5THgxUHc1Y0dZLUU1SGJKUVJMeGtTOGhhSm80amltaUdWTE1SX0VLbmkwMVRHS3M1YkpkaXlGWDNvVDNiV0R3TC1LOWRjQnBxczkxQlZWWkZ0aXIyMjBhZjIteWRZdjNjaS1GT3pMOFBuNnp5TGFpbzNQektlUFotUG4wSUVwb3ZQQXVqYlJLWFV4SlJJUm14ZWFzMGtRaWZENEdHQjZYYzZnZ3hR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T15:08:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Invierte Durango casi 40 mdp en colectores para evitar descargas al río Tunal Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b6a209a8d08552b4"
+ },
+ {
+  "titulo": "Democratas perfilan victorias en frontera sur de Estados Unidos",
+  "liga": "https://elcongresista.mx/politica/nacional/democracia-frontera-sur-estados-unidos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:04:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Los demócratas se perfilan para controlar los gobiernos en California, Arizona, Nuevo México y Texas según un reporte electoral.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "62ba80d8278e4dc3"
+ },
+ {
+  "titulo": "Fiscalía de NL asegura que hallazgos de ASF sobre Samuel García son diferentes",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/fiscalia-nl-hallazgos-asf-samuel-garcia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:02:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "La Fiscalía de Nuevo León afirma que los hallazgos de la ASF sobre Samuel García son diferentes a investigaciones previas.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ff435922527d5014"
+ },
+ {
+  "titulo": "Repatrian a Tijuana a Menor que Intentaba Ingresar de Manera Irregular Sin Compañía a EUA",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU240aVdnc3ZlLWRvck9ULXlVazdJck5xbndTTEFzbTlfWlRLZk8wOFJJYkEtcmZLQ3lxQzAwWnN1bkI4WlhEbjZCOHktTXoyMlBDUWE0RXRUS1Q3RG9EUUJLSmpqVXVKU3lHZy1DV1BBN3pJYU9xRTRCNlowdUlaVGExbWZ2NDk0RlJCWXRURThZaDVSaXRhZHRTSkRzZ2ZjUFh0MkhrY19GU3FQREVITHN0NDdINkVzb1dTdXA4U3dES21PbFkwRmVlNzQya2VNVDdSS0lB?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-04T15:01:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Repatrian a Tijuana a Menor que Intentaba Ingresar de Manera Irregular Sin Compañía a EUA N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "464c0576473807f4"
+ },
+ {
+  "titulo": "Graciela Domínguez separa a 21 funcionarios en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/21-cambios-gabinete-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:01:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Graciela Domínguez, gobernadora interina de Sinaloa, destituye a 21 funcionarios de su gabinete en una reestructuración clave.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e90bd1c26af25b07"
+ },
+ {
+  "titulo": "Concanaco plantea agenda para México tras elecciones de EE.UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/concanaco-agenda-mexico-elecciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T15:00:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Concanaco-Servytur presenta una agenda enfocada en fortalecer la relación comercial entre México y Estados Unidos tras las recientes elecciones.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ae590d383f3b9a9b"
+ },
+ {
+  "titulo": "Bomberos de Ensenada arriesgan la vida con uniformes desgastados y equipo estructural obsoleto",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlRuVmdIRHVWaU8zWEM4ZlpRdGd2c1N3X0tUSHlUQ0ZvQnc3bGs5SzFFOWxDdS1DZ0RzZnFOeEdoekhTN0pJN1p0aVJ5bzNFN1JidGVjaXdnWVh1T2RuenVodXNFVzNPSFM2MWJoV1IzSFF5UnRjaTF1MTU1eDV1ZHNONFp3eDg3bmZSYms4WWNMTy0zeVRoVG9nbTVONHJNWGJFOVlNbWU0S0Z6ejh0bmRERkxwMEtDLWJYVU9SbTAtVXE1Tm9OQVB3RFpDREQ4LUhhNklNajBHMmptZzlxY9IB-wFBVV95cUxPeUxpNGpiRjdKNThNMkRDM2FsVGFoODU5NFpOSDBGYnZsRDJITHpSVC1aZDlWOWcwNWpaemtMSVdxRGhxUGx2cUwweFRySF90aEdkMUNEajhzSDl3QkxibmJhSGhBMVR0VERoeDZoc0pxY216RDZFb0h5R2VJU2Uza0tKa0E2OFZqS3JMZHhXa2xKc19iWEhFam5QSC1KdjR6NEtqUE53U0lUNlB4WTExeG1PcV9RSzhYWFU3eDVoWDZocTltc19oalpYQm1YOVQ1V1NMT2RneEFpTkJyOUxPWjZiVVBGOEJ3WlVLX0ZFaWFHTkp6aUFIal9tRQ?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-04T14:57:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Bomberos de Ensenada arriesgan la vida con uniformes desgastados y equipo estructural obsoleto El Imparcial",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "30e2face3e0cc05b"
+ },
+ {
+  "titulo": "Responde BC a señalamientos por alimentos en mal estado durante jornada de búsqueda en Mexicali",
+  "liga": "https://jornadabc.com.mx/principales/responde-bc-a-senalamientos-por-alimentos-en-mal-estado-durante-jornada-de-busqueda-en-mexicali/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-04T14:55:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Luego de que madres buscadoras denunciaran la entrega de alimentos en mal estado, tras detectar frijoles descompuestos en algunos platillos distribuidos durante la Jornada Estatal de Búsqueda 2026 realizada en Mexicali La entrada Responde BC a señalamientos por alimentos en mal e",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9c70129a31e506eb"
+ },
+ {
+  "titulo": "Abandera SEPESCA selección de pesca deportiva de kayak",
+  "liga": "https://www.uniradioinforma.com/policiaca/abandera-sepesca-seleccion-pesca-deportiva-kayak-n912502",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "El selectivo representará a Baja California en el Campeonato Nacional de la modalidad a celebrarse en Playa Manzanilla, Jalisco",
+  "temas": [
+   "Campo y pesca",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "189bb534b9cf89c2"
+ },
+ {
+  "titulo": "Revisará Durango programas y reservará recursos ante posible sequía para 2027",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkpFZEhJN0M4UUF3bDlFelc4V1JBQmh6ajBXY2V0Qi1hS0lWNnF3Um5oTUx2RHFsN1NPdlJaMko2NmNvZnFxY2hqRlVUU2pVZU8zbG96Ym9FaHJCZ3QycHRHbWYxQ2RtMzdVekF0NTN0TVlFdUhuQ090S1JwdTcxV2FSMldVZkhRZkhhWUlYU045TE5UVk1vaXlhaFhIZVdsQVhCOWxOSUQwUldmM05CRW53?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T14:51:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Revisará Durango programas y reservará recursos ante posible sequía para 2027 Baja News",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "db6e0ab4b3207f56"
+ },
+ {
+  "titulo": "Celebra Sheinbaum triunfo de hijos de mexicanos en gubernaturas de EU",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEZ1VzZZbjZYX0FsMVhfODRDOG5yQmduY21oVWhOV0twaFMzUHBWcThVa0tPa1VRTUhQZ3dtMG1uRktNcWgwS0tqcmdOOHhibm84eG5VUW5LOVZGLUtSMVp5eHVGMkVYSDl6NE5LX2ZqbGlaYnlqYng0b0plcDZaUmhOUGlYaGJaZEpSa0ExR19uR1RPdEduQW1zQjJnM3ZmYzJkOW95S3JHdGxIbDZ3Nw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T14:51:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Celebra Sheinbaum triunfo de hijos de mexicanos en gubernaturas de EU AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0faf26c943b04252"
+ },
+ {
+  "titulo": "Jubilados bloquean la Cámara de Diputados; exigen sus prestaciones",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpZQlpfaFo4bGNBMVdnU3g0eTVVeUl2TzhTMEo2SmFXcnhqZDhuTUJtNHF1ZDVyV2t0RUhidGExSVJJLUIzVVkxd2tMUGxWUTlFOW1UcVFqOGctWjB3WExYMmN4cmFKNG4wUW83cXpIeUxrNmthZ2FmN0plUmhXaGp3SEN6MjBCVi1jc05sNFI4QXJVUEh1MEloNTNyMUZzWWRCNm82dl9uT2M?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T14:50:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Jubilados bloquean la Cámara de Diputados; exigen sus prestaciones AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "42296afad6ec0229"
+ },
+ {
+  "titulo": "Impulsa regidora Brenda Mendoza entrega de becas a deportistas ensenadenses",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0RPMV9MMEhkMWpvNWoyOF9YcGFxNzZuWGlCdUZzODBFalhRbWJlNUJhVzA5OVVkTmtRQTREUGJJTkZOTVVERXF1Q1NKcWwwNjJMeThpZUdwemtxZnhJYmdGZDFVamJtbmVQa2JFaks0TC1JeF9nTnRRQS15NFNpdXlMUEI4R0UxSjZOcU1ncFp5SFRwMmhTYTA5VXV5RnFPV3lva0xoWnBqbmVkN3FHSVBLaw?oc=5",
+  "medio": "En Contraste News",
+  "publicada": "2026-11-04T14:49:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Impulsa regidora Brenda Mendoza entrega de becas a deportistas ensenadenses En Contraste News",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "c0d1ae7179c4e014"
+ },
+ {
+  "titulo": "Inés Gómez Mont y su detención: así quedaron sus seis hijos entre México y Estados Unidos",
+  "liga": "https://www.uniradioinforma.com/fama/ines-gomez-mont-su-detencion-asi-quedaron-sus-seis-hijos-mexico-estados-unidos-n912500",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9556b130379ac653"
+ },
+ {
+  "titulo": "Demócratas arrasan en elecciones intermedias de EE.UU. con 54 senadores",
+  "liga": "https://elcongresista.mx/politica/nacional/democratas-54-senadores-eeuu-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:46:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Demócratas logran una importante victoria en las elecciones intermedias de EE.UU. con 54 senadores, señalando la salud de la democracia.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Salud"
+  ],
+  "local": false,
+  "id": "d73e300ae2b40b1a"
+ },
+ {
+  "titulo": "Pide CANACO Durango revisar cargas patronales ante aumento de salarios y reducción de jornada laboral",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkJkc2xqWHdoVUt1MjIwajhkTUkyQ1hEZnZZVTV6Z0lFOWpBM0JULWs0cHJwTUpzM0kybGY4REpJWHBub3gwdEstcW1NeE5OQldZdjNwN2stelpTOUtRZk9BaFZXM1M3ZEE5R0xuYXZFOU5Fa09XekNiWVRweVdrS2hLczd6ZUpwQ2JzaG1vU1lNdmFid3B3N1ppZVlTcEhmcmdVLV9qaFpUWUp5eDFIY2ExM2Q0Wm9KcTdhMW5wdE9SblctUEJFOU4zYVhsZ0lNcXc?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T14:46:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Pide CANACO Durango revisar cargas patronales ante aumento de salarios y reducción de jornada laboral Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0cf5ef12ce894cf1"
+ },
+ {
+  "titulo": "¿Quién puede ser candidato indígena en BC? Comunidades lo definirán en consulta del IEEBC que llega a Tijuana este fin de semana",
+  "liga": "https://www.uniradioinforma.com/sociedad/quien-puede-ser-candidato-indigena-bc-comunidades-lo-definiran-consulta-ieebc-llega-tijuana-fin-semana-n912327",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Las reglas buscan evitar usurpaciones como las que en 2021 llevaron a tribunales a revocar dos candidaturas; los lineamientos deberán estar listos el 15 de diciembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "505fdf68bbd9eb66"
+ },
+ {
+  "titulo": "Celebra Marina del Pilar triunfo de Xavier Becerra en California",
+  "liga": "https://jornadabc.com.mx/principales/celebra-marina-del-pilar-triunfo-de-xavier-becerra-en-california/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-04T14:43:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Destacó que se trata de un gobernador con ascendencia mexicana y reiteró el compromiso de su administración de seguir trabajando en beneficio de las comunidades de ambos lados de la frontera La entrada Celebra Marina del Pilar triunfo de Xavier Becerra en California se publicó pr",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "7ca629e0da681308"
+ },
+ {
+  "titulo": "Trump reconoce costo electoral de la guerra contra Irán y afirma que valió la pena",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSk5fMUZWMEo2R3o3a3BVUGdzeTloa2MyUVoxbENxdVJfZVVzVE9qRGxKcjhzSlgtNTdjeGZtTEcxeVVXOS1OLW1Ec211R2VJTlROcHNURXlXQ0VLWTNVY3RoaDdKbmNhTFNydERvc3pKOEc2bDhkeWp2OG94amJrQ1AtS0dRekkyYmRVUlpNQ2Y1SGkza3h2bWlDZGJlOHdNTWQ2Uk9LZ3NGYXNDbURWa0JOWWpvS21ZZGxvc2IwVQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T14:42:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Trump reconoce costo electoral de la guerra contra Irán y afirma que valió la pena Baja News",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "750df033f6093af4"
+ },
+ {
+  "titulo": "Cierran actividades por celebraciones del \"Día de Muertos\" en Rosarito",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGxySG5vQnlVZ25rVU02cU1CTDl1Q2xvZzhoN0FuYnZiSnF0Zmp3MURsaVgydEhYRXdGQ09UcUNfOE83Znc3cUd1QkZXTi1aUTFfcHc1bDZDSGRrUUs4LWNTTUc4RlBTbnRpZDBHZExVTzFPbEljeWN2UGN5d1dZZTRGcmxJQmpYRUFiSVRqUXV5cjBybUkyQkw2anhOT2dVSTNGVjQ2YjVpUmMtMDhuczVxYlpsTjNSc1lJ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T14:42:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Cierran actividades por celebraciones del \"Día de Muertos\" en Rosarito AFN",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "65ff719eb05c9c36"
+ },
+ {
+  "titulo": "Asesinan a balazos a coordinador de Movimiento del Sombrero en Tijuana: líder estatal",
+  "liga": "https://zetatijuana.com/2026/11/asesinan-a-balazos-a-coordinador-de-movimiento-del-sombrero-en-tijuana-lider-estatal/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-balazos-a-coordinador-de-movimiento-del-sombrero-en-tijuana-lider-estatal",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-04T14:40:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "“El gobierno no se ha dedicado a combatir la delincuencia organizada”, consignó el día de los hechos el activista político",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "96524311984223d6"
+ },
+ {
+  "titulo": "Gobierno de Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxN3UwRXpMSkRqSWVvbmJBdmZ0aHFjdVBSa0haRnY2aTVRTXFtQ3MteHV3anFCWThHVzBEYmU0RFZLYWtMRjJJcmNlaVlHZnpwV3lmV3JwUmE0bVNEbnJoaDkwSTU?oc=5",
+  "medio": "Gobierno de Baja California",
+  "publicada": "2026-11-04T14:38:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Gobierno de Baja California Gobierno de Baja California",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c52f1735982dd00c"
+ },
+ {
+  "titulo": "Construcción de la Terminal 2 en el Aeropuerto de GDL avanza 10%",
+  "liga": "https://elcongresista.mx/politica/jalisco/avance-terminal-2-aeropuerto-guadalajara",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:37:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "La Terminal 2 del Aeropuerto de Guadalajara avanza más del 10% en construcción y se espera que inicie operaciones en 2029.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "797ee83b4d01dd4e"
+ },
+ {
+  "titulo": "Michoacán inicia temporada de avistamiento de ballenas jorobadas",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-avistamiento-ballenas-jorobadas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:35:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Michoacán inicia su primera temporada de avistamiento de ballenas jorobadas del 15 de diciembre al 20 de marzo de 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4deb6379712c72f2"
+ },
+ {
+  "titulo": "Clara Luz Flores denuncia a Samuel García y Adrián de la Garza por desvío de recursos",
+  "liga": "https://elcongresista.mx/justicia/clara-luz-flores-denuncia-samuel-garcia-adrian-garza",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:34:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Clara Luz Flores denuncia a Samuel García y Adrián de la Garza por desvío de más de 7 mil millones de pesos en recursos públicos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "eca04ca71c3c434c"
+ },
+ {
+  "titulo": "Semarnat presenta en Ginebra estrategias para proteger a la vaquita marina",
+  "liga": "https://elcongresista.mx/politica/nacional/semarnat-ginebra-estrategias-vaquita-marina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:34:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "La Semarnat expone en Ginebra las estrategias para preservar a la vaquita marina, en peligro crítico de extinción.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "63b0aee59f589837"
+ },
+ {
+  "titulo": "Anuncia Alejandro Mojica nuevas propuestas para fortalecer la protección animal en Durango",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWxNZ0R2ODEtcHg3RGNIalRfa0dwQURCOWJZRVd3QVFwSlFYWEdXRExwV2xqd0UwYkpEZzFlY09XUi1OZlpoUHRBSHl0T3ZDdjhmNzhiZFBfSm9tMElsamNFV1I1Q01LamVpZFdsbExGTDZiUmlwMmxwQUt1Y2Vwby0yUXphWG9WME1HMVZYVFFOa3ZFSXgyRUdjc0k1YTBQd0xoWTVVTk9wVEdjOVdMUWNpQ3pNZkJqU3FXRXBhSEF2ODA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T14:32:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Anuncia Alejandro Mojica nuevas propuestas para fortalecer la protección animal en Durango Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f9bc28702123848b"
+ },
+ {
+  "titulo": "Plan Michoacán por la paz y la justicia registra un avance de 67% a un año de su implementación",
+  "liga": "https://www.uniradioinforma.com/gobierno/plan-michoacan-paz-justicia-registra-avance-67-ano-su-implementacion-n912495",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Se han realizado mil 680 obras y acciones de más de 2 mil 500 programadas y se reporta un 61 por ciento de inversión ejercida respecto a los 118 mil millones de pesos (mdp) destinados para el periodo 2025-2030",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "e401c9deeeb6efb4"
+ },
+ {
+  "titulo": "Aseguran agentes de la SSPCM a un hombre por su presunta portación de arma de fuego y orden de aprehensión activa por homicidio calificado",
+  "liga": "https://www.uniradioinforma.com/policiaca/aseguran-agentes-sspcm-hombre-su-presunta-portacion-arma-fuego-orden-aprehension-activa-homicidio-calificado-n912493",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "47ec766ec7dc91bc"
+ },
+ {
+  "titulo": "Invitan a participar en jornada de acopio de pilas alcalinas en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDM3WUtJNEo1Q0hvanV6OXBCTHBhbEdkemJ6WVhiSDFMTTZhMlprRWdjR0g2dGEzM1Nrb0JWazVIWjNTMnUyQTFzTDdmVWNlaHJqRGhqamU5RFdkS0I0M0xnUUp5MlZGZGxwRFh0M2o0VkpXdW5MNHNGMjd4SkgwZWRVT1dYdzViZVktRVY4MWJUQzJUWklpM3YyTEV3QXhKdERxSjhyTXBILVE?oc=5",
+  "medio": "elportavoznoticias.com.mx",
+  "publicada": "2026-11-04T14:29:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Invitan a participar en jornada de acopio de pilas alcalinas en Ensenada elportavoznoticias.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "990fdc8eae864669"
+ },
+ {
+  "titulo": "Detectan posible caso de cáncer de mama en hombre de 42 años en Durango",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHlEY2V0dDZ5R09TWHRyRXRvSEluN1JOSEdMTDVycjhXY25jdGJsUHg0aHRhMWdkaWZNU2VLZk9LUDBHeUhhZ0RhdTdraEFMYmVjUDJKZHd2R18xdUhzd1JJR0h1VDdnOXpMY3dHS19LM1ZUcVBsVFNrV3dRTExtQkVEOEFYYnBGQU5DNDZSVVE5V0ktOENTTWgyQklRU29rUmltVHZvc2JXdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T14:26:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Detectan posible caso de cáncer de mama en hombre de 42 años en Durango Baja News",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "ecd0bd2e8164a6e2"
+ },
+ {
   "titulo": "Detienen a hombre con droga y cartuchos de uso exclusivo en Parral",
   "liga": "https://elcongresista.mx/politica/chihuahua/detienen-hombre-droga-cartuchos-parral",
   "medio": "El Congresista",
@@ -43,6 +598,20 @@
   "id": "7a0fe1b900b4869b"
  },
  {
+  "titulo": "Suspenden a 30 Funcionarios Municipales por Faltas Administrativas en Tijuana este 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcW55NmFFOXRYd2tibGJLQnhYWkhtdDU2REFaQnBXSURJbHJWd1k2VHhXaXlVaDFMSlNSREcxVjhWbnNqcjNJTm1uYlNfVTg2R1RWRGw1VjI0Z3c4anF2Zm9wQUozWEwyMkhZOFdYVHBIRG1VQVY5a1RqX0hoVEkxVFJ1ZTJWZVRfbFdNcGpsZUV6UkxfV0czZWhvbEFIcDRmUC1qLWZJaHhIM1UzYkl5SDZWdTllSHk2Z1ItdGRlcjBKWk83TlZsRWNndE1GMFNuWWtv?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-04T14:20:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Suspenden a 30 Funcionarios Municipales por Faltas Administrativas en Tijuana este 2026 N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b39f655f954ccb42"
+ },
+ {
   "titulo": "Tren México-Querétaro alcanza 32% de avance, habrá tres estaciones",
   "liga": "https://elcongresista.mx/politica/queretaro/tren-mexico-queretaro-avance-32",
   "medio": "El Congresista",
@@ -71,6 +640,21 @@
   ],
   "local": false,
   "id": "c93fa96be9d019de"
+ },
+ {
+  "titulo": "Exigen diputados federales del PAN un INE ciudadano y libre",
+  "liga": "https://www.uniradioinforma.com/gobierno/exigen-diputados-federales-pan-ine-ciudadano-libre-n912491",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Guadalupe Taddei debe ser investigada y que no quede impune",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "6415b65898a0f778"
  },
  {
   "titulo": "ENSENADA: Piden celeridad en reparación de carretera hacia La Bufadora",
@@ -116,6 +700,21 @@
   "id": "ac03318df774ef1d"
  },
  {
+  "titulo": "Una burla, los 300 mdp para rehabilitar hospital del Issste en Hermosillo: abogado",
+  "liga": "https://www.uniradioinforma.com/sociedad/una-burla-300-mdp-rehabilitar-hospital-issste-hermosillo-abogado-n912489",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "\"No podemos conformarnos con 300 millones de pesos, que tal cual van a ser tirados a la basura. Este hospital no se puede rehabilitar\", afirmó Andrés Ortega.",
+  "temas": [
+   "Servicios públicos",
+   "Salud"
+  ],
+  "local": true,
+  "id": "503b99036133f5cb"
+ },
+ {
   "titulo": "Designa Guakil a Enrique Salcedo como su representante del PVEM en Rosarito",
   "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDRSX2k0c09VS1lqVUxzUnFnVGk3c19oZ0ptaGdPalk4Vl9qd05IdHVhT3F4RHF3ME5CX0cyU1JieGtka3lYZmx2NUhjWThUX3ctOFRPdHl6TlRKd2VHZUR1RDdGd2tEOFJwLUY4QklSUm9IMHo0SGlSLU1qLWtZLXpIdllKbzR5MjI5b3F4UWpIenViYnBJRC1ZMGVqR3VSbW4wczA0ZGpvUkRpeG1qazRQWmk5R3dab09ld05Mcnpma002?oc=5",
   "medio": "AFN",
@@ -128,6 +727,34 @@
   ],
   "local": true,
   "id": "0cc341e4c36a4939"
+ },
+ {
+  "titulo": "\"Aún soy el presidente\": Trump desafía la derrota republicana en las urnas",
+  "liga": "https://www.uniradioinforma.com/gobierno/aun-soy-presidente-trump-desafia-derrota-republicana-urnas-n912487",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Oficialmente, el presidente de Estados Unidos se ha convertido en un \"pato cojo\", para los dos años que le quedan en el poder",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2b919643061a68eb"
+ },
+ {
+  "titulo": "Bobby Pulido consigue escaño en Texas; salta del regional mexicano al Congreso",
+  "liga": "https://www.uniradioinforma.com/gobierno/bobby-pulido-consigue-escano-texas-salta-regional-mexicano-congreso-n912485",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "El ganador del Grammy sella el triunfo de la oposición en un hasta ahora bastión republicano",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "65018873282537d0"
  },
  {
   "titulo": "Alcalde de Parral, Chava Calderón, cae al quinto lugar con 51.7%",
@@ -175,6 +802,21 @@
   "id": "335bb73b53871d80"
  },
  {
+  "titulo": "Agua de Hermosillo lanza programa para condonar deudas de usuarios morosos",
+  "liga": "https://www.uniradioinforma.com/gobierno/agua-hermosillo-lanza-programa-condonar-deudas-usuarios-morosos-n912483",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T14:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "El programa \"Congela tu Deuda\", estará vigente durante noviembre y diciembre.",
+  "temas": [
+   "Gobierno del estado",
+   "Agua"
+  ],
+  "local": true,
+  "id": "3bb592a7c84f67f3"
+ },
+ {
   "titulo": "Gina Hinojosa se convierte en primera gobernadora latina de Texas",
   "liga": "https://elcongresista.mx/estados-unidos/gina-hinojosa-gobernadora-texas",
   "medio": "El Congresista",
@@ -215,6 +857,20 @@
   ],
   "local": true,
   "id": "99ec21654b52d5c8"
+ },
+ {
+  "titulo": "Mónica Vargas pone su experiencia de gobierno rumbo a la contienda por Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnNaQkZzWDBtelBuelZQZmxJc3dPQW9tWGN4N3ZfQ2xadTlVMnRTUzZJUWZYcW5uUXpVc29QR1RlRzV6bDlpQ1VHV1RYOUV1Y1Bhcm5PLU9nTFdBMU5hN1pZZVhKNy04QjktXzNZTHJZUG5FYmNBM0NmVmhScUh6YlBn?oc=5",
+  "medio": "NDT Noticias de Tijuana",
+  "publicada": "2026-11-04T13:56:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Mónica Vargas pone su experiencia de gobierno rumbo a la contienda por Ensenada NDT Noticias de Tijuana",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f8b568d272e1482c"
  },
  {
   "titulo": "A 20 años de la elección de 2006, Sheinbaum vuelve a cuestionar el proceso electoral",
@@ -2210,6 +2866,20 @@
   "id": "16f176269ae81b74"
  },
  {
+  "titulo": "“La Pulga” prepara su regreso al ring",
+  "liga": "https://oem.com.mx/lavozdelafrontera/deportes/la-pulga-prepara-su-regreso-al-ring-32967437",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-04T10:24:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "El ex campeón mundial reaparecerá en una cartelera de box en Mexicali después de más un año de su último combate",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "03b72202b8f32e64"
+ },
+ {
   "titulo": "Disparan contra dos agentes de la FESC y lesionan a uno; agresor fue abatido",
   "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEs1Z3hQS2ticHJ0dzVKUGhwYjN5WFBIRWxJc3JEWF93QnJ4akZiakFVbUg2N0JOY0lta0NjZnJWdkY3MTd6aHVBUjA5UmFISEZ6SkNkNTFLNjJLcHBMRUZEYUZiWUc3NVFxa3Vrblp1bER6Wk1aVF9JMGZ1aExjdnRVMmVIVW43d0tSSHBpU0FHdllsckNqeEJHMHRBMUFGQWxCcnZRcXJleWZwcFNUZXlUcmNMSnM?oc=5",
   "medio": "AFN",
@@ -2351,6 +3021,20 @@
   ],
   "local": false,
   "id": "fa83816ec362f7fc"
+ },
+ {
+  "titulo": "Alerta repunte de matanza de perros en Cemca de Mexicali",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/alerta-repunte-de-matanza-de-perros-en-cemca-de-mexicali-32966988",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-04T10:14:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "El 86% de los perros que son capturados en situación de calle son exterminados; una estrategia que ha sido considerada fallida por activistas, que anualmente termina con la vida de entre 5 mil a 7 mil caninos",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4b469bf532bbb096"
  },
  {
   "titulo": "Muere “El Pariente” tras enfrentamiento con agentes estatales en Ensenada: dos policías resultaron heridos",
@@ -2567,6 +3251,21 @@
   ],
   "local": true,
   "id": "5769cc9e9cf9805a"
+ },
+ {
+  "titulo": "Detienen a 32 presuntos “gaviotones” que facilitaban el ingreso de vehículos a las filas de las garitas de Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/detienen-a-32-presuntos-gaviotones-que-facilitaban-el-ingreso-de-vehiculos-a-las-filas-de-las-garitas-de-tijuana-32966260",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-04T09:48:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "David García Barraza, director general de Policía y Tránsito Municipal de Tijuana, señaló que el operativo se realizó a finales de octubre.",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": true,
+  "id": "58f6f1efa8d6a46a"
  },
  {
   "titulo": "Enrique Peña Nieto ya sabe de la bioserie de Angélica Rivera",
@@ -3440,6 +4139,20 @@
   ],
   "local": true,
   "id": "1fdebfba92aece74"
+ },
+ {
+  "titulo": "Confronta madre de familia a integrantes del Poder Judicial; desde 2012 es víctima de violencia del padre de su hija",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/confronta-madre-de-familia-a-integrantes-del-poder-judicial-desde-2012-es-victima-de-violencia-del-padre-de-su-hija-32964683",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-04T08:13:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T15:27:08-06:00",
+  "resumen": "Refirió que en febrero de 2027 se cumplirán cinco años sin resolución definitiva",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9f307254b417d2d7"
  },
  {
   "titulo": "Vecinos de Valle Dorado exigen retirar antena y verificar permisos de instalación",
