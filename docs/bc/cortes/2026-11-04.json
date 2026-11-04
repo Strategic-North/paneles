@@ -1,5 +1,109 @@
 [
  {
+  "titulo": "Buscan a familiares de Pablo Pérez González",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVXdMYmNNODFnRF92NDJCQTB6amYyazJiUGJ1X25CVHdCeFBEV2I4c0xKeFducTNDaUxjeEdZSlNBbHo0eTNLLTczWDl5UmpfS0UyazJESzVJLWc?oc=5",
+  "medio": "Ensenada.Net",
+  "publicada": "2026-11-04T00:59:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Buscan a familiares de Pablo Pérez González Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5a7b2ea213930501"
+ },
+ {
+  "titulo": "Conmemoran 499 años del Astillero de Zacatollan en Lázaro Cárdenas",
+  "liga": "https://elcongresista.mx/politica/michoacan/conmemoracion-499-anos-astillero-zacatollan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T00:15:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Lázaro Cárdenas celebra 499 años del Astillero de Zacatollan destacando su herencia naval y cultural.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1a2eaf93e75c713a"
+ },
+ {
+  "titulo": "Inversión histórica transformó la infraestructura pública en 5 años: Marina del Pilar",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/inversion-historica-transformo-la-infraestructura-publica-en-5-anos-marina-del-pilar/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-04T00:04:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Destaca obras como el Viaducto Elevado de Tijuana, la Desaladora de Rosarito, los nodos del Programa Respira y proyectos viales, hidráulicos, parques y hasta instalaciones de seguridad La entrada Inversión histórica transformó la infraestructura pública en 5 años: Marina del Pila",
+  "temas": [
+   "Agua",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ea63b1fe149d8745"
+ },
+ {
+  "titulo": "Xavier Becerra es el primer gobernador latino de California desde 1875",
+  "liga": "https://elcongresista.mx/politica/nacional/xavier-becerra-gobernador-california-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T23:48:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Xavier Becerra se convierte en el primer gobernador latino de California desde 1875, tras ganar las elecciones del 3 de noviembre de 2026.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "56c4ebfa60720248"
+ },
+ {
+  "titulo": "Deb Haaland es la primera mujer nativa americana gobernadora en EU.",
+  "liga": "https://elcongresista.mx/politica/nacional/deb-haaland-gobernadora-nuevo-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T23:47:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Deb Haaland es electa gobernadora de Nuevo México, haciendo historia como la primera mujer nativa americana en ocupar un cargo así en Estados Unidos.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6373a4b0d39ca5b2"
+ },
+ {
+  "titulo": "Keisha Lance Bottoms se convierte en la primera gobernadora afroamericana de Georgia",
+  "liga": "https://elcongresista.mx/politica/nacional/keisha-lance-bottoms-gobernadora-georgia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T23:47:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Keisha Lance Bottoms se convierte en la primera gobernadora afroamericana de Georgia tras obtener 54.2% de los votos en las elecciones de 2026.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "419d392aae308c66"
+ },
+ {
+  "titulo": "Pappas se convierte en el primer senador abiertamente gay en EE. UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/pappas-primer-senador-abiertamente-gay",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T23:45:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Christopher Pappas es el primer senador abiertamente gay en la historia de EE. UU., al ganar en Nuevo Hampshire.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5f507f122cdea554"
+ },
+ {
   "titulo": "Tecate en crisis y Román Cota hace campaña en Tijuana para convertirse en diputado",
   "liga": "https://puntonorte.info/2026/11/03/tecate-en-crisis-y-roman-cota-hace-campana-en-tijuana-para-convertirse-en-diputado/",
   "medio": "Punto Norte",
@@ -101,6 +205,21 @@
   "id": "6eddc93191813c5a"
  },
  {
+  "titulo": "Sofía Zavala destaca el trabajo curatorial en exposición artística",
+  "liga": "https://elcongresista.mx/politica/michoacan/sofia-zavala-curadoria-exposicion-angela-rivera-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T23:03:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Sofía Zavala destaca el desafío del trabajo curatorial en la exposición de Ángela Rivera en Morelia.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b7983334ee676498"
+ },
+ {
   "titulo": "Becerra, hijo de migrantes mexicanos, gana California y será el primer gobernador latino desde 1875",
   "liga": "https://zetatijuana.com/2026/11/becerra-hijo-de-migrantes-mexicanos-gana-california-y-sera-el-primer-gobernador-latino-desde-1875/?utm_source=rss&utm_medium=rss&utm_campaign=becerra-hijo-de-migrantes-mexicanos-gana-california-y-sera-el-primer-gobernador-latino-desde-1875",
   "medio": "Zeta Tijuana",
@@ -132,6 +251,21 @@
   "id": "2093eca71b35123c"
  },
  {
+  "titulo": "Encuentran a mujer asesinada en Playas de Rosarito",
+  "liga": "https://elcongresista.mx/politica/baja-california/mujer-asesinada-playas-de-rosarito",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T23:01:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Encuentran el cuerpo de una joven mujer con huellas de violencia en Playas de Rosarito, sumándose a la ola de homicidios en la región.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "6f08c9312d6dcf25"
+ },
+ {
   "titulo": "California poised to elect its first Latino governor in more than 150 years",
   "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXppZ2pzNndhZzlZaW83LXFxTmZ3QkVJZ1RMUXJOekpuOGRkeTdRSEZvUkktdDN1QWc0ejRiR0NsZVZjTUlpdG5BUlJld29GeDZtSVNXRDRYWWV4cC1kaE5rMUtaYUVJeVpCXzF3RTM2OXhTRF9FYnNjZVR1ZXRXR21rbjdpZWxVNnQyOF9MM2xJSEhjUzRZTDVjajZLNkZwSDhMY1VCN0JGTWJBQnJOcw?oc=5",
   "medio": "BajaNews",
@@ -144,6 +278,21 @@
   ],
   "local": false,
   "id": "1062af0eb81abab6"
+ },
+ {
+  "titulo": "Gina Hinojosa derrota a Abbott y rompe control republicano en Texas",
+  "liga": "https://elcongresista.mx/politica/nacional/hinojosa-derrota-abbott-gubernatura-texas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-03T23:00:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T01:13:36-06:00",
+  "resumen": "Gina Hinojosa gana la elección gubernamental en Texas, rompiendo 31 años de control republicano al derrotar a Greg Abbott.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "effb44d1916d1afb"
  },
  {
   "titulo": "Pronóstico del clima en Ensenada: miércoles 4 de noviembre con cielo claro y ambiente templado",

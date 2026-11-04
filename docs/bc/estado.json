@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-03T23:59-06:00",
+ "actualizado": "2026-11-04T01:13-06:00",
  "corte": "2026-11-04",
  "ventana": [
   "2026-11-03T20:00-06:00",
   "2026-11-04T20:00-06:00"
  ],
- "total": 83,
+ "total": 93,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -45,8 +45,8 @@
   },
   {
    "fuente": "El Congresista",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "notas": 30
   },
   {
    "fuente": "El Portavoz",
