@@ -1,5 +1,428 @@
 [
  {
+  "titulo": "Detienen a hombre con droga y cartuchos de uso exclusivo en Parral",
+  "liga": "https://elcongresista.mx/politica/chihuahua/detienen-hombre-droga-cartuchos-parral",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:26:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Alejandro D. J. fue detenido en Parral con cocaína, marihuana y cartuchos de uso exclusivo del Ejército Mexicano.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6008dc77903655c6"
+ },
+ {
+  "titulo": "Reynosa: aplican 18 mil 220 dosis en campaña de vacunación invernal",
+  "liga": "https://elcongresista.mx/tamaulipas/reynosavacunacion-invernal-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:25:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "En Reynosa, se han aplicado 18 mil 220 dosis en la campaña de vacunación invernal, centrada en influenza y neumococo.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "7736ff23cefdc812"
+ },
+ {
+  "titulo": "Cuatro soldados heridos tras explosión en el Batallón San Mateo",
+  "liga": "https://elcongresista.mx/justicia/explosion-batallon-san-mateo-cinco-soldados-heridos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:23:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Cuatro soldados resultaron heridos tras una explosión en el Batallón San Mateo en Pereira. La justicia militar investiga el incidente.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7a0fe1b900b4869b"
+ },
+ {
+  "titulo": "Tren México-Querétaro alcanza 32% de avance, habrá tres estaciones",
+  "liga": "https://elcongresista.mx/politica/queretaro/tren-mexico-queretaro-avance-32",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:19:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "El Tren México-Querétaro ya tiene un avance del 32% y contará con tres estaciones en Querétaro, mejorando la movilidad en la región.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "44d73b62a960e8d2"
+ },
+ {
+  "titulo": "Extorsión en México aumenta 65% de 2015 a 2026, alerta ONG",
+  "liga": "https://elcongresista.mx/politica/nacional/extorsion-aumenta-65-mexico-evalua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:18:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "El informe de México Evalúa revela un aumento del 65% en víctimas de extorsión en México entre 2015 y 2026, a pesar de las estrategias del gobierno.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c93fa96be9d019de"
+ },
+ {
+  "titulo": "ENSENADA: Piden celeridad en reparación de carretera hacia La Bufadora",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXFVcHhMa0pfWjAyRGdVZzhvQlBucWVYS2psMjd6MV9vaFoyTnQ2RXA0ekZ2X3FUbnQxc3FPN1lOZzd6TWIwWjIzQ19WTmhzbFU5SmxsMkhHd0xRdEtJa0RVSER3VGdsMDZkNzczVXlsWTlTVndtNC1sMzJmSHFtX1gyT2dMRFIzRWtCRnEwYTZlb20yaXZsOWZqY2Vlb0RSWklkZVdudWQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T14:17:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "ENSENADA: Piden celeridad en reparación de carretera hacia La Bufadora Baja News",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "7c1053b416d68a3f"
+ },
+ {
+  "titulo": "Socialistas triunfan en EE. UU. con cinco nuevos congresistas electos",
+  "liga": "https://elcongresista.mx/politica/nacional/victorias-socialistas-midterms-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:17:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Las recientes elecciones en EE.UU. dejaron cinco victorias socialistas, destacando la llegada de nuevos congresistas con propuestas progresistas.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "50ea50dc2d419d69"
+ },
+ {
+  "titulo": "Encuentran sin vida a Sayuri, joven reportada como desaparecida",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLU52SlRZbzRXcDJzMWdBajQya1hpN2JHR2luNkRYR0FKa0F2QlZ0QndBbVkwajEzSl9IbWJmbjM5YVhSVElYcE5zb1hGbmJXeXo0eUZuWlctTmh0SzVsbnJ0Zll6bjNMTzFNVmJ0blFad0N2bkcyYk1NcktCODllOGRBTnhaaHRiTEc0Y1Z4NTVKNDVsQmdzSXFjOF8yYkdIX3ZLWW1B?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T14:13:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Encuentran sin vida a Sayuri, joven reportada como desaparecida AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ac03318df774ef1d"
+ },
+ {
+  "titulo": "Designa Guakil a Enrique Salcedo como su representante del PVEM en Rosarito",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDRSX2k0c09VS1lqVUxzUnFnVGk3c19oZ0ptaGdPalk4Vl9qd05IdHVhT3F4RHF3ME5CX0cyU1JieGtka3lYZmx2NUhjWThUX3ctOFRPdHl6TlRKd2VHZUR1RDdGd2tEOFJwLUY4QklSUm9IMHo0SGlSLU1qLWtZLXpIdllKbzR5MjI5b3F4UWpIenViYnBJRC1ZMGVqR3VSbW4wczA0ZGpvUkRpeG1qazRQWmk5R3dab09ld05Mcnpma002?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T14:07:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Designa Guakil a Enrique Salcedo como su representante del PVEM en Rosarito AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "0cc341e4c36a4939"
+ },
+ {
+  "titulo": "Alcalde de Parral, Chava Calderón, cae al quinto lugar con 51.7%",
+  "liga": "https://elcongresista.mx/politica/chihuahua/parral-chava-calderon-aprobacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:05:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "La aprobación del alcalde de Parral, Chava Calderón, cae al 51.7% según reciente encuesta de Demoscopía Digital.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4127991b9eceb3fa"
+ },
+ {
+  "titulo": "Deb Haaland y Chris Pappas hacen historia en elecciones de EE.UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/deb-haaland-chris-pappas-victorias-historicas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:03:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Deb Haaland y Chris Pappas hacen historia en elecciones estadounidenses, marcando un avance para los pueblos indígenas y la comunidad LGBTQ+.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "af9a68707aa8b6f1"
+ },
+ {
+  "titulo": "Santander conectará México y EE.UU. a través de Openbank en meses",
+  "liga": "https://elcongresista.mx/finanzas/santander-openbank-mexico-estados-unidos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:03:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Santander conectará Openbank entre México y Estados Unidos, reforzando su presencia en el mercado financiero y la integración comercial.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "335bb73b53871d80"
+ },
+ {
+  "titulo": "Gina Hinojosa se convierte en primera gobernadora latina de Texas",
+  "liga": "https://elcongresista.mx/estados-unidos/gina-hinojosa-gobernadora-texas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:02:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Gina Hinojosa se convierte en la primera mujer latina gobernadora de Texas y propone reembolsos a las familias desde su gestión.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "4c7be3dfd35b848a"
+ },
+ {
+  "titulo": "Multas de hasta 11,540 pesos por no activar Buzón Tributario del SAT",
+  "liga": "https://elcongresista.mx/finanzas/multas-sat-buzon-tributario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T14:00:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "El SAT impondrá multas de hasta 11,540 pesos a quienes no activen su Buzón Tributario antes de diciembre de 2026.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "8dacb47f66e241fc"
+ },
+ {
+  "titulo": "Alertan por Fraudes a Jóvenes Migrantes a Través de Juegos en Línea en Tijuana, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQW4yejRYd0U0LWI4TTU4OWFTLXVETGdqUHlHWFNNMlNDWldFYjgxTHUtX2dOd3lxbUo4VmR1VUpLQnczNkZ3ay1BZ2psQUFISXZob3R1WXhmOV9ybVVNYXZRN2FOdTJRZDBrNWRaT3l0Q3J4MzVkZlZUamVibmFCMVdHWmVoZDRvZTJpYUVQd1hmT2hpdkFxakg4Rm5QZHpJbDNrOF9LZllSaWVucHhOaUx0a1BlS2dUVXZOdWdJUklSb1hSRlVROHhwYw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-04T14:00:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Alertan por Fraudes a Jóvenes Migrantes a Través de Juegos en Línea en Tijuana, BC N+",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "99ec21654b52d5c8"
+ },
+ {
+  "titulo": "A 20 años de la elección de 2006, Sheinbaum vuelve a cuestionar el proceso electoral",
+  "liga": "https://www.uniradioinforma.com/gobierno/a-20-anos-eleccion-2006-sheinbaum-vuelve-cuestionar-proceso-electoral-n912481",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T13:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Cuestionó la autoridad moral de Luis Carlos Ugalde para hablar de democracia y acusó a Fox de intervenir para impedir el triunfo de López Obrador.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "6298f7d827d52900"
+ },
+ {
+  "titulo": "FGE obtiene vinculación a proceso por allanamiento de morada y violencia familiar en playas de Rosarito",
+  "liga": "https://www.uniradioinforma.com/policiaca/fge-obtiene-vinculacion-proceso-allanamiento-morada-violencia-familiar-playas-rosarito-n912478",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T13:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0131b5e15f948a60"
+ },
+ {
+  "titulo": "Inicia Defensoría para docentes en Querétaro con 500 escuelas seguras",
+  "liga": "https://elcongresista.mx/politica/queretaro/defensorias-docentes-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T13:51:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Querétaro implementa defensa para docentes en más de 500 escuelas seguras ante el incremento de la violencia.",
+  "temas": [
+   "Seguridad",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3f3e336b3051df9e"
+ },
+ {
+  "titulo": "Incendio en Metro CDMX: servicio restablecido en línea B únicamente",
+  "liga": "https://elcongresista.mx/politica/cdmx/incendio-linea-b-metro-cdmx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T13:49:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Este 4 de noviembre, un incendio afecta el servicio de la línea B del Metro en la CDMX, que solo opera de Oceanía a Buenavista.",
+  "temas": [
+   "Movilidad",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5ce493afccd70061"
+ },
+ {
+  "titulo": "Mara Lezama presenta la guía “Caminar y Rodar a la Escuela” en Cancún",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/guia-caminar-y-rodar-a-la-escuela-cancun",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T13:48:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "La gobernadora Mara Lezama presenta la guía “Caminar y Rodar a la Escuela” en Cancún para promover la seguridad vial en entornos escolares.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "92d1fdb6508dc0a6"
+ },
+ {
+  "titulo": "Hallan osario con restos de al menos nueve individuos en Buenavista",
+  "liga": "https://elcongresista.mx/politica/nacional/hallan-osario-restos-humanos-buenavista",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T13:47:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Se descubrió un osario con restos de al menos nueve individuos en Buenavista, revelando prácticas funerarias prehispánicas y coloniales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ee41eaa371831b86"
+ },
+ {
+  "titulo": "INAH localiza osario prehispánico en tren Buenavista de CDMX",
+  "liga": "https://elcongresista.mx/cultura/inah-osario-buenavista",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T13:47:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "El INAH ha hallado un osario en la terminal Buenavista, con restos humanos que podrían datar de la época prehispánica.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "093e77c920a9dd6d"
+ },
+ {
+  "titulo": "Soles, a un triunfo de la gran final de la LNBP",
+  "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSVlIcG1mcGVTQkJpZFhFNGFzaWxabldyXzVfV0g0aml5TFlJU3otQVZta1Z5QjBlTWZxdGlvWnAzc2w1Sy0wMDFFOEw2VmZCSHhrT1E3QUdHN3poeVNPVlI5SFJxSGxlNzNfSEwyUlFnZi02RGFkLWR1SnRUdE84dVVhQ2JhTVAz?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-04T13:46:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Soles, a un triunfo de la gran final de la LNBP Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a53ff05abff6ac30"
+ },
+ {
+  "titulo": "Aseguran oficiales de la SSPCM a un hombre por presunto delito de cohecho",
+  "liga": "https://www.uniradioinforma.com/policiaca/aseguran-oficiales-sspcm-hombre-presunto-delito-cohecho-n912476",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T13:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0ccd0d90f021a965"
+ },
+ {
+  "titulo": "Elecciones de EU: De la primera gobernadora latina al primer senador musulmán; los hitos de las minorías en los comicios",
+  "liga": "https://www.uniradioinforma.com/gobierno/elecciones-eu-primera-gobernadora-latina-primer-senador-musulman-hitos-minorias-comicios-n912474",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T13:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Las victorias en los comicios intermedios tienen muchos rostros, de Deb Haaland a Abdul el-Sayed",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "54eab37533e6d15d"
+ },
+ {
+  "titulo": "Mantendrán por una semana la limpieza en panteones tras el Día de Muertos",
+  "liga": "https://www.uniradioinforma.com/gobierno/mantendran-una-semana-limpieza-panteones-tras-dia-muertos-n912472",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T13:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Para retirar la basura que dejaron los visitantes durante el Día de Muertos",
+  "temas": [
+   "Cultura y tradiciones",
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "304a35efa7f6fadf"
+ },
+ {
+  "titulo": "Inician IX Jornadas de Psicopedagogía del Comahue con expertos de cinco países",
+  "liga": "https://elcongresista.mx/educacion/ix-jornadas-psicopedagogia-comahue",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T13:38:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Inician las IX Jornadas de Psicopedagogía del Comahue el 4 de noviembre, con expertos de cinco países discutiendo temas relevantes de la disciplina.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "b223f555d7e86d0f"
+ },
+ {
+  "titulo": "Avanza Plan Michoacán con 2.5 millones de vacunas aplicadas",
+  "liga": "https://elcongresista.mx/politica/michoacan/avanza-plan-michoacan-2-5-millones-vacunas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-04T13:36:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "El IMSS destaca avances en el Plan Michoacán con 2.5 millones de vacunas y nuevas construcciones hospitalarias.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ce2f993e77b74c08"
+ },
+ {
+  "titulo": "Denuncia Morena a Samuel García en la FGR por lavado de dinero",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVlHRzVIa2lLRTJQQ0NPYXJSUHhBc3l5Z2hONmlvZ2tXNU1MZUFmekpidUktY2xJNFRvSGhIS0JUTnZHV3Q1YW0ya18wU3Y5QVVNY2t6VnRaZVBrZm93RG1YZ0ROM2daNVd1UUxmeTdMQ2dwVEVhdDZMdTczcHBDRmM4a2hxXzR3LTAzSXhMZTRKUVNGWGdFZnNqM3ZwTEd6Q2I1Z2pqMA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-04T13:35:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Denuncia Morena a Samuel García en la FGR por lavado de dinero AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "71cf06156523b1fd"
+ },
+ {
   "titulo": "Resultados Tris Medio Día hoy 4 de noviembre: números ganadores",
   "liga": "https://elcongresista.mx/sorteos/resultados-tris-medio-dia-sorteo-36888",
   "medio": "El Congresista",
@@ -57,6 +480,20 @@
   ],
   "local": false,
   "id": "2bd7a8b4a2a91eac"
+ },
+ {
+  "titulo": "¿Debes el predial en Hermosillo? Anuncian descuentos del 4 al 10 de noviembre",
+  "liga": "https://www.uniradioinforma.com/gobierno/debes-predial-hermosillo-anuncian-descuentos-4-10-noviembre-n912470",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-04T13:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Tres de cada 10 propiedades en Hermosillo tienen adeudos de predial.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "15840ad0ba4e4d66"
  },
  {
   "titulo": "Pepe Aguilar hace inesperada confesión sobre su infancia: dormía con sus papás hasta los 11 años",
@@ -2582,6 +3019,20 @@
   "id": "6757a3f0992f4fe1"
  },
  {
+  "titulo": "Vecinos de Altavista Norte protestan en Palacio Municipal por departamentos en riesgo de colapso",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/vecinos-de-altavista-norte-protestan-en-palacio-municipal-por-departamentos-en-riesgo-de-colapso-32965623",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-04T09:06:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Denunciaron que la constructora responsable desapareció sin responder por las irregularidades ni entregar la documentación técnica de los inmuebles.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "effcef9fad6c3321"
+ },
+ {
   "titulo": "CEEPAC aprueba redistribución de financiamiento para partidos en SLP",
   "liga": "https://elcongresista.mx/politica/san-luis-potosi/ceepac-redistribucion-financiamiento-slp",
   "medio": "El Congresista",
@@ -2681,6 +3132,20 @@
   ],
   "local": true,
   "id": "9c9118d259b9e99c"
+ },
+ {
+  "titulo": "Identifican 27 hallazgos localizados en la colonia Miguel Alemán",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/identifican-27-hallazgos-localizados-en-la-colonia-miguel-aleman-32965478",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-04T08:55:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-04T14:28:37-06:00",
+  "resumen": "Van 51 hallazgos y 26 fosas localizados, confirmó la fiscal general del estado, Ma. Elena Andrade Ramírez",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fd46b916d5f2d5ad"
  },
  {
   "titulo": "Demócratas: recuperan el control de Cámara y Senado tras elecciones",
