@@ -1,5 +1,61 @@
 [
  {
+  "titulo": "Itinerario político",
+  "liga": "https://sinaloa.quadratin.com.mx/itinerario-politico-855/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-05T06:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T06:00:25-06:00",
+  "resumen": "En México vivimos sometidos a una dictadura",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e0f15cb2b3911440"
+ },
+ {
+  "titulo": "Graciela Domínguez respalda a Ana Miriam Ramos en Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVdTU1I1N01PRnRSaVlfeFZ4eUk4WHFuSGZjUTBFRzE4bkozdmN4V2NmTU9GZ0k2eFY3TXJETG14b1JmMWozeG15S3R4M3dpbEswcXg5b2ZmbnRYSVZmd1JVRm1QcDBmZzk4eGVhMHlmOGptOG02SVhvRTdYVVlCZl9oVExDd0RiV256c2p2Yl9ETjZZNDNVeHVUd05nVTRKUTFaUzRYSjRWWWI2NzRhag?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T05:19:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T06:00:25-06:00",
+  "resumen": "Graciela Domínguez respalda a Ana Miriam Ramos en Culiacán Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3f09ada452add711"
+ },
+ {
+  "titulo": "Pronóstico del clima en Culiacán hoy 5 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEFnU0wyUEptUF9aZVc2X0FzU3NGTVJyUy1iZ08tQ0lETVRpeUtiVHYzOXlfYVYwZmRuUzlCV2pHa2dBdjEzQjV6OXZrS1k2Nk5sRkp4T0FXZ2pvVldMN1JodzgwNzZwa0czTnY4c2IxTDBld3V2dldJcWdCWGlzVVFSaUVWSnRfRkFOeVpfMzhaaTJaNElyNzNGZHpYVk51LXBjZkpsSlI3dU9uOFpr?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T05:15:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T06:00:25-06:00",
+  "resumen": "Pronóstico del clima en Culiacán hoy 5 de noviembre de 2026 Debate",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "5d47c5315ba41e47"
+ },
+ {
+  "titulo": "Cruje Alianza Opositora en Sinaloa Roxana Rubio mete presión al PRI",
+  "liga": "https://www.noroeste.com.mx/culiacan/cruje-alianza-opositora-en-sinaloa-roxana-rubio-mete-presion-al-pri-KN27086059",
+  "medio": "Noroeste",
+  "publicada": "2026-11-05T05:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T06:00:25-06:00",
+  "resumen": "Como en la mayoría de los intentos de alianza que involucran a los partidos Revolucionario Institucional y Acción Nacional en Sinaloa, primero aparece el peine antes de que cuajen los cómo y qué de los esfuerzos políticos coalicionistas, como preámbulo de pactos donde pesan más l",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1b9d24694f5173f7"
+ },
+ {
   "titulo": "Pronóstico del clima en Los Mochis hoy 5 de noviembre de 2026",
   "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3RrTWNSOXlOWkE0bzA2eWM1MTdCdWtnbGNqZWcxN09uQWZRM3Nic3NoWEVJdDUtcVVwUUxFak11ZU9sd2FkbjVFdEZLcWZrOV8zNk9sczJ0WVZvTGNwSm5KOXVIZjlYSFlHNUNSZEJ6WlREM2lmdFJJSS1ZcXRYZGc4MVJWb1QxUnkxeldTNmRRbnFqUWlWU2xYV3hIN2tzbUR2alIyYXN5SE93OE5tUEZR?oc=5",
   "medio": "El Debate",
@@ -12,6 +68,34 @@
   ],
   "local": true,
   "id": "eb870ddea49bfc0c"
+ },
+ {
+  "titulo": "Malecón",
+  "liga": "https://www.noroeste.com.mx/mazatlan/malecon-GN27086880",
+  "medio": "Noroeste",
+  "publicada": "2026-11-05T05:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T06:00:25-06:00",
+  "resumen": "La barbarie porteña",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "33c65c6d4e067b24"
+ },
+ {
+  "titulo": "Vulnerables",
+  "liga": "https://www.noroeste.com.mx/seguridad/vulnerables-JN27085509",
+  "medio": "Noroeste",
+  "publicada": "2026-11-05T05:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T06:00:25-06:00",
+  "resumen": "A la crisis de violencia que se ha instalado en Sinaloa desde septiembre de 2024, se ha sumado desde hace algunos meses la violencia que se ha estado ejerciendo en contra de las mujeres. Las agresiones del crimen organizado también las han alcanzado a ellas, algunas perdiendo la ",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "027f3764a65bc27e"
  },
  {
   "titulo": "Una maestra, una abogada, un comerciante… Violencia no da tregua en Mazatlán",
