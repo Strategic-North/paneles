@@ -1,5 +1,366 @@
 [
  {
+  "titulo": "Alejandro Sabella y Estudiantes, un amor de 40 años en el fútbol",
+  "liga": "https://elcongresista.mx/cultura/alejandro-sabella-estudiantes-40-aniversario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:19:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Alejandro Sabella dejó un legado en el fútbol argentino tras su llegada a Estudiantes en 1982, que se recuerda cada 5 de noviembre.",
+  "temas": [
+   "Educación",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "30d643668c953a05"
+ },
+ {
+  "titulo": "Elon Musk pierde influencia en elecciones tras donaciones a MAGA",
+  "liga": "https://elcongresista.mx/politica/nacional/elon-musk-perdedor-elecciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:18:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Elon Musk pierde influencia en las elecciones de Texas tras donar 212 millones a MAGA, marcando un cambio en el voto latino.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "172a2d996e4f7df9"
+ },
+ {
+  "titulo": "Aseguran 51 máquinas tragamonedas en operativos en Uruapan",
+  "liga": "https://elcongresista.mx/politica/michoacan/fiscalia-michoacan-asegura-maquinas-tragamonedas-uruapan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:17:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "La Fiscalía de Michoacán asegura 51 máquinas tragamonedas en Uruapan durante operativos contra delitos relacionados con la extorsión.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c5a66187d39001c6"
+ },
+ {
+  "titulo": "Festival de Música de Morelia revela precios de 400 a 1,600 pesos",
+  "liga": "https://elcongresista.mx/politica/michoacan/festival-musica-morelia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:17:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "El Festival de Música de Morelia se realizará del 13 al 22 de noviembre, con actividades gratuitas y costos de boletos desde 400 hasta mil 600 pesos.",
+  "temas": [
+   "Economía y empleo",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d037b20f76788c32"
+ },
+ {
+  "titulo": "Sheinbaum confirma viaje a China del 15 al 20 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-viaje-china-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:16:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Claudia Sheinbaum viajará a China del 15 al 20 de noviembre para la Cumbre APEC 2026, delegando conferencias matutinas a Rosa Icela Rodríguez.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fdde799b1785a6a0"
+ },
+ {
+  "titulo": "Cristiano Ronaldo se retira de la selección de Portugal tras 23 años",
+  "liga": "https://elcongresista.mx/politica/nacional/cristiano-ronaldo-retiro-seleccion-portugal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:06:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Cristiano Ronaldo anuncia su retiro de la selección de Portugal tras 23 años y 146 goles, cerrando una era en el fútbol luso.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "becd105387c576ef"
+ },
+ {
+  "titulo": "Estados Unidos: Trump sufre revés electoral en elecciones legislativas",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-reves-elecciones-legislativas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:05:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "En las elecciones legislativas de Estados Unidos, Trump enfrenta un revés significativo que podría cambiar su futuro político.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "202aea7b15b04333"
+ },
+ {
+  "titulo": "Cancún: 90% de avance en conexión de ciclovías con Puente Nichupté",
+  "liga": "https://elcongresista.mx/vehicular/cancun-avance-90-conexion-ciclovias-nichupte",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:03:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "En Cancún, el proyecto que conecta ciclovías al Puente Nichupté avanza un 90%, mejorando la movilidad ciclista en la ciudad.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "5606c46f94e86c8a"
+ },
+ {
+  "titulo": "Murió el periodista cultural Humberto Musacchio a los 83 años",
+  "liga": "https://elcongresista.mx/cultura/humberto-musacchio-fallece-83-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:02:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "El periodista cultural Humberto Musacchio falleció a los 83 años, dejando un importante legado en la cultura e historia de México.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "baee27d834efe7c4"
+ },
+ {
+  "titulo": "Atacan a balazos a cuatro mujeres en Mazatlán; dos fallecen",
+  "liga": "https://elcongresista.mx/politica/sinaloa/ataques-balas-mujeres-mazatlan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:01:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "En Mazatlán, cuatro mujeres fueron atacadas a balazos en 48 horas; dos han fallecido y una se reporta grave.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1d2839058beb1b96"
+ },
+ {
+  "titulo": "Murió el periodista cultural Humberto Musacchio",
+  "liga": "https://zetatijuana.com/2026/11/murio-el-periodista-cultural-humberto-musacchio/?utm_source=rss&utm_medium=rss&utm_campaign=murio-el-periodista-cultural-humberto-musacchio",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-05T08:54:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "La Secretaría de Cultura federal confirmó la muerte del periodista cultural y escritor Humberto Musacchio, a la edad de 83 años",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "b30bfbca6586de1f"
+ },
+ {
+  "titulo": "Claudia Sheinbaum asegura que red de corrupción en INE data de 27 años",
+  "liga": "https://elcongresista.mx/politica/edomex/claudia-sheinbaum-corrupcion-ine-27-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T08:50:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum afirma que irregularidades en el INE provienen de antecedentes de 27 años, no solo de Taddei.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "468f34c924d6d27c"
+ },
+ {
+  "titulo": "CineSonora cierra temporada 2026 en Florianópolis con documental sobre Sun Ra",
+  "liga": "https://elcongresista.mx/cultura/cinesonora-florianopolis-cierre-temporada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T08:50:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "El cineclube CineSonora cierra su temporada 2026 en Florianópolis el 11 de noviembre, proyectando un documental sobre Sun Ra y un corto local.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "74535cbd9a6a8643"
+ },
+ {
+  "titulo": "El super martes",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vcXBZLTdLbHFrWEtOcHdrYlI5U1ppdXJ4c1gxand2eDduRnlPM19oeVNjY016bjNLbThFX3dRbVpRckF5TmJPVUVCMEZPUXdfS2NCU1NfSGp2azRrMXJPaExXcjhSdw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T08:49:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "El super martes AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4494ff95057e3971"
+ },
+ {
+  "titulo": "Huída en el ine",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9USzR5Xzhlb2d0YzhLNjhVQ0djMmhhOGRybVNEQ1VRNlZ6TS1LOUJQWlc2OXFobE02UFpKQzVkcURONjdKYnBWWjNEd29ONUxVaGFmNE5WQ2FNTWc2MnpfM2hMZTM3UQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T08:49:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Huída en el ine AFN",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "6d2a7affc151bbc7"
+ },
+ {
+  "titulo": "Taddei a la orilla",
+  "liga": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44MXQ5cXFBTUFMc1VQWHowV2YxZGxZTHoxNUZOa0FWUkpsZUxRcWJGcWxMLXJVZU5YWjlwaVE1LW1sWlNzTmE0Zm1TQXN2c1BqaEJFY0dzRk92V25yUTI4YXUwd1dZN09XU1E?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T08:48:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Taddei a la orilla AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4f819b0d2a3a89ad"
+ },
+ {
+  "titulo": "IPET 51 presenta Muestra Activa el 13 de noviembre en Marcos Juárez",
+  "liga": "https://elcongresista.mx/educacion/ipet-51-muestra-activa-marcos-juarez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T08:48:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "El IPET 51 de Marcos Juárez llevará a cabo su Muestra Activa el 13 de noviembre para presentar los proyectos de los estudiantes.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "9aa00a53b2c06e89"
+ },
+ {
+  "titulo": "Ronnie Wood improvisa con Pablo Vignatti en programa argentino",
+  "liga": "https://elcongresista.mx/cultura/ronnie-wood-pablo-vignatti-improvisacion-argentina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T08:47:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Ronnie Wood toca con Pablo Vignatti de Niño Monja en Buenos Aires antes de su show en el Movistar Arena.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b51b1e9b146b7305"
+ },
+ {
+  "titulo": "Lorenzo Córdova califica de cortina de humo la indagatoria de la ASF",
+  "liga": "https://elcongresista.mx/justicia/lorenzo-cordova-cortina-de-humo-asf-taddei",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T08:45:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Lorenzo Córdova considera que la ASF actúa como una cortina de humo en indagatorias sobre corrupción en el INE.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "653efc4ca9aea7ed"
+ },
+ {
+  "titulo": "En megaoperativo en el Edomex, detienen a 32 presuntos integrantes de “Los Gigan”, vinculada al CJNG",
+  "liga": "https://jornadabc.com.mx/02_secundarias/en-megaoperativo-en-el-edomex-detienen-a-32-presuntos-integrantes-de-los-gigan-vinculada-al-cjng/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T08:44:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "El despliegue, dirigido a combatir la extorsión, los homicidios y otros delitos violentos, fue resultado de siete meses de investigación contra dicha organización criminal La entrada En megaoperativo en el Edomex, detienen a 32 presuntos integrantes de “Los Gigan”, vinculada al C",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c940dae8f340ff3b"
+ },
+ {
+  "titulo": "Acelera cierre de maquiladoras con programa IMMEX en BC",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHFBUDhnSk8xek5WUFpVMEFUZFozSjhXYmJJSTBqZFctOFNFQ2dtLUIxNEpTYy1YZlFtY0w4U2RhWkcyTGdscVhKZTNzQzYtd2EtRkVnRUstQzFUYzdEYXZzdnZ6S2Z2X0pMOXVOYkJpUVhnT0NJbUc4Nkx2bWFxRjRDREVKN0Ywd28xMlhYaXd1TTg4OXBLU0N6Ti1yX1U?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T08:43:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Acelera cierre de maquiladoras con programa IMMEX en BC AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9f9eb32b201d7061"
+ },
+ {
+  "titulo": "Ensenada podrá cumplir con créditos contratados, según HR Ratings",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVFVaGpqel9iU2NsQkFVYy03RWRCUlZJSWlieHZHY0ZmZGg1QVFNYUZzT1Q5WXFQc0kyLV9JTm9aRzdocXppd1daZU43MkZnZFNxdU84YnAzS0dvckZ3Q1NwaEVFQmdvNl9IWVhSaGRiancyZ2dGVEhlbGQxRGNGTnRKaTZUVGFqZEZwNFdBTDBlWTNNOTBlb2Z0S0dnZDZOUnBxOXFGZ0k3VTQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T08:39:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Ensenada podrá cumplir con créditos contratados, según HR Ratings AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "dc3013c9c287192b"
+ },
+ {
+  "titulo": "UIF congela cuentas de la red de corrupción en el INE: Taddei, Hernández Casillas y proveedores electorales",
+  "liga": "https://jornadabc.com.mx/principales/uif-congela-cuentas-de-la-red-de-corrupcion-en-el-ine-taddei-hernandez-casillas-y-proveedores-electorales/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T08:36:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "En la mira, 25 personas y 15 empresas; el anuncio de la unidad de Hacienda se da a más de dos semanas de que empezara una oleada de filtraciones sobre presuntas prácticas de corrupción y tráfico de influencias La entrada UIF congela cuentas de la red de corrupción en el INE: Tadd",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "9f26936fd83f2b85"
+ },
+ {
+  "titulo": "Bankaool prevé cambio de accionistas antes de 2027",
+  "liga": "https://elcongresista.mx/finanzas/bankaool-cambio-accionistas-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T08:35:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "Bankaool espera autorización de reestructura accionaria antes de 2027, buscando fortalecer su presencia en el mercado financiero mexicano.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "8840edb557a96b70"
+ },
+ {
+  "titulo": "Chihuahua: TSJ recibe donación de 21 volúmenes de Martha Lara",
+  "liga": "https://elcongresista.mx/politica/chihuahua/tsj-chihuahua-donacion-martha-lara",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T08:34:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "El TSJ de Chihuahua recibe 21 volúmenes donados por la embajadora Martha Lara para fomentar el estudio jurídico en el INFORAJ.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5e769071827d83e6"
+ },
+ {
   "titulo": "Capturan a fugitivo estadounidense buscado por tráfico desde 2000",
   "liga": "https://elcongresista.mx/justicia/captura-fugitivo-estadounidense-jalisco-2026",
   "medio": "El Congresista",
@@ -220,6 +581,20 @@
   ],
   "local": false,
   "id": "845bc6785d304feb"
+ },
+ {
+  "titulo": "Aranceles, migración y costo de vida explican la victoria demócrata ante el desgaste de las políticas actuales de EU: Experto Cetys",
+  "liga": "https://www.uniradioinforma.com/sociedad/aranceles-migracion-costo-vida-explican-victoria-democrata-desgaste-politicas-actuales-eu-experto-cetys-n912512",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T08:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T09:32:49-06:00",
+  "resumen": "El Dr. Ismael Plascencia López, experto CETYS en Campus Tijuana analiza las razones detrás del avance demócrata y las posibles implicaciones para la relación entre México y Estados Unidos.",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "2a7f708a8866426c"
  },
  {
   "titulo": "Desvían 14 vuelos en Europa por amenazas de bomba, sin explosivos",
