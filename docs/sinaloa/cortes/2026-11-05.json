@@ -1,5 +1,632 @@
 [
  {
+  "titulo": "Fallece migrante oaxaqueña Gabriela Gómez durante su traslado a la Mixteca",
+  "liga": "https://lado.mx/noticia/22246415/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-05T16:48:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La migrante oaxaqueña Gabriela Gómez Santiago falleció en un hospital de Culiacán, Sinaloa, tras presentar complicaciones durante su traslado hacia su comunidad en la Mixteca. La joven, que padecía cáncer cerebral terminal, buscaba regresar a casa para despedirse de su familia. L",
+  "temas": [
+   "Migración",
+   "Salud"
+  ],
+  "local": true,
+  "id": "2bc1dd197b53316e"
+ },
+ {
+  "titulo": "Eduardo Sánchez Arias asume la dirección del Centro de Salud Guamúchil",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUmpwcWVSMjg1Q3k1THZCcmtXZkdJWHlrVE54YmlwVEM1cHdURTZpdDJXNHJpYnIxdkVDZ0lEUHB1aHRta3B1RV9YQ3dsOXE3YWtBeHdhNDVZcElVV1FmbXI0NG1yNEgtUXZJT3lXNGp2TF9ja2xfdTVPSEwyT3pydFVFeTBtZGY0TnJvM3pwa2pZRURQZzJ2a1dHQ2V4aFJWcTBoQVlqdEJmYUFJVldic0N1VXBwWXVrRlR4ZWtac3RzSlNKSEE3dDFoRTNTdw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T16:44:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Eduardo Sánchez Arias asume la dirección del Centro de Salud Guamúchil Debate",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "891d8163d3f79f1b"
+ },
+ {
+  "titulo": "Muere joven estudiante tras ser arrollado por un camión refrigerado en El Fuerte, Sinaloa",
+  "liga": "https://losnoticieristas.com/policiaca/2026/11/muere-joven-estudiante-tras-ser-arrollado-por-un-camion-refrigerado-en-el-fuerte-sinaloa-1161807/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-05T16:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "El joven, identificado como Jesús Manuel “A”, de 21 años, presuntamente intentaba ayudar a unas personas que se habían quedado sin gasolina cuando ocurrió el accidente.",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4f2aec41fec0013d"
+ },
+ {
+  "titulo": "Anuncian choferes marcha para exigir al Gobierno de Sinaloa subsidiar descuentos del transporte público",
+  "liga": "https://www.noroeste.com.mx/culiacan/anuncian-choferes-marcha-para-exigir-al-gobierno-de-sinaloa-subsidiar-descuentos-del-transporte-publico-KE27109311",
+  "medio": "Noroeste",
+  "publicada": "2026-11-05T16:39:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Choferes del transporte urbano de Culiacán marcharán el próximo lunes para exigir al Gobierno de Sinaloa que subsidie los descuentos que se otorgan a estudiantes y adultos mayores, cuyo costo recae sobre sus ingresos y de los permisionarios. Flavio Rolando Ibarra, dirigente del S",
+  "temas": [
+   "Política y partidos",
+   "Servicios públicos",
+   "Movilidad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "5d07054c7aa6c57a"
+ },
+ {
+  "titulo": "Despliegan 3 mil elementos de seguridad en la Feria Ganadera Culiacán",
+  "liga": "https://lado.mx/noticia/22246354/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-05T16:38:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Tres mil elementos de seguridad operarán en la Feria Ganadera de Culiacán tras un ataque armado reciente en sus instalaciones.",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "d979e7d8207ecb42"
+ },
+ {
+  "titulo": "El clima da un respiro a restaurantes de Guasave: apagan aires acondicionados y ahorran energía",
+  "liga": "https://lineadirectaportal.com/sinaloa/el-clima-da-un-respiro-a-restaurantes-de-guasave-apagan-aires-acondicionados-y-ahorran-energia-2026-11-05__1734062",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:37:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La disminución de las temperaturas permitirá reducir el uso de aires acondicionados durante las noches; Canirac también espera un repunte en las ventas durante el cierre de año",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "254326b4d6c606ca"
+ },
+ {
+  "titulo": "Lady Gaga hace historia: nominada al Salón de la Fama de los Compositores 2027 junto a Shakira",
+  "liga": "https://lineadirectaportal.com/entretenimiento/lady-gaga-hace-historia-nominada-al-salon-de-la-fama-de-los-compositores-2027-junto-a-shakira-2026-11-05__1734038",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:35:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Las cantantes encabezan la lista de nominados, cuyos nuevos integrantes se anunciarán a principios del próximo año",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "319beb3cca562010"
+ },
+ {
+  "titulo": "Presunta red de proveedores electorales opera desde hace tres décadas: Sheinbaum",
+  "liga": "https://punto.mx/2026/11/05/presunta-red-de-proveedores-electorales-opera-desde-hace-tres-decadas-sheinbaum/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-05T16:35:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum señala una presunta red de corrupción electoral con tres décadas de historia y contratos millonarios durante la gestión de Lorenzo Córdova La entrada Presunta red de proveedores electorales opera desde hace tres décadas: Sheinbaum se publicó primer",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "e1c94e6ea3c2bd40"
+ },
+ {
+  "titulo": "¿Tu apellido empieza con C? Este viernes continúa el pago de la Pensión del Bienestar",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjZsMzVFQnJoQlVhUTAwNHk2aFNDVk91amJ4cWwtOF9TUXpJNGZSU0pubW1YdW9yTTZsRFV1ZFdYaUZ4OGE4T1lJdkh0YjBUemZ0djMxVTZfNWItb2ZyX2dsSmFKN1Q3QUhhYTBNcG00MEdKcTVTOEszQ3NLQUkxd1dvS3lUUlpOZzVZaVhiV3JuQS14ZldVckdYd0J5MEFGTkFoUkd0Yk9rR0pGVG5Bcjc5T2ZGdlAzMmc5ZG5JeUVUcTVjSWRlU0c3bGswandNSVNWWThrMHNiS1Z2d19r?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T16:34:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "¿Tu apellido empieza con C? Este viernes continúa el pago de la Pensión del Bienestar Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3eba6118a95e1394"
+ },
+ {
+  "titulo": "Supervisan trabajos de ampliación de la vialidad Pedro Anaya en Los Mochis, Sinaloa; esperan abrir circulación este mes",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/supervisan-trabajos-de-ampliacion-de-la-vialidad-pedro-anaya-en-los-mochis-sinaloa-esperan-abrir-circulacion-este-mes-1161795/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-05T16:33:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La obra implica una inversión de aproximadamente un millón 200 mil pesos; la apertura dependerá del retiro de postes de CFE y Telmex, apuntaron",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "ec0e23213375f27b"
+ },
+ {
+  "titulo": "Invierno muy frío en Sinaloa: especialista del IPN explica qué esperar por El Niño",
+  "liga": "https://lineadirectaportal.com/sinaloa/invierno-muy-frio-en-sinaloa-especialista-del-ipn-explica-que-esperar-por-el-nino-2026-11-05__1734061",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:32:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Enrique Morales Acuña, del Ciidir IPN, explica que El Niño “canónico” traerá días más fríos y noches un poco más cálidas, lo que reduce el riesgo de heladas, aunque algunos cultivos podrían resentir la falta de horas frío",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "839ad90bf5bd7e06"
+ },
+ {
+  "titulo": "Respalda Graciela Domínguez propuesta de Sheinbaum contra corrupción electoral tras señalamientos al INE",
+  "liga": "https://www.noroeste.com.mx/culiacan/respalda-graciela-dominguez-propuesta-de-sheinbaum-contra-corrupcion-electoral-tras-senalamientos-al-ine-DE27109093",
+  "medio": "Noroeste",
+  "publicada": "2026-11-05T16:32:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La Gobernadora de Sinaloa Graciela Domínguez Nava respaldó la propuesta de la Presidenta Claudia Sheinbaum Pardo para fortalecer Talleres Gráficos de México y modificar los mecanismos de adquisición de materiales electorales, luego de los señalamientos sobre una presunta red de c",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "dcb4bbc9040c6d4a"
+ },
+ {
+  "titulo": "Pez toro en Topolobampo: piden estudio científico y comercialización",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUE0cmszUWJNREU3WEI5TVVBTjJsVGExc3VJUXdWd0IyVHRNYXZ6NDZBdnNVSlFpcXNVU2RZeldhdGowdmd1SEVQZ1ZHc3FwVkt1bTV3dUhHOXZZdG9RVWwtUUx6SXhTaFp1QzMzNlBvZzJsUFhLdWd4Ty1Lak5yMV8wRmwxaEdsWThYbm9HOXpHYWlhQ2dRUmtsZHdmX21fUk5Qd1Y4UjFEd2R4MUJPNHVXdlZ1STJiN2p0MmxKaWFNbkhVZG1WanlB?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T16:31:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Pez toro en Topolobampo: piden estudio científico y comercialización Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a14cb1b7a60c2367"
+ },
+ {
+  "titulo": "Acusa regidora del PRI uso de vehículos oficiales para mudar barbería del esposo de Estrella Palacios",
+  "liga": "https://riodoce.mx/2026/11/05/acusa-regidora-del-pri-uso-de-vehiculos-oficiales-para-mudar-barberia-del-esposo-de-estrella-palacios/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-05T16:29:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "083ae66d5aee2d3b"
+ },
+ {
+  "titulo": "Anuncian descuentos de hasta 100% en trámites vehiculares por el Buen Fin en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVFnV2VZd3Bka1IyWTFscDZrT24yUDY5NENpd3E1dS1lWEQ3TUxTY2tLNmc5TXJqQ3lLa2w5Q1NxeVBvTDFaU0ZSQy10QTFTaVh3MWotSEhfbEV4NUNBQ1NKcktTSjZUNEgwQ1d5X2czb3ExRE1pX2NONGhpSXM5eE1wMjhOYWxrcWhYa0tUNmQyQ1JiTEw2YkdJNVhTemFaNjZyblBSdkM4MnZyMUdndWpzNmI?oc=5",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-05T16:29:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Anuncian descuentos de hasta 100% en trámites vehiculares por el Buen Fin en Sinaloa Ríodoce",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3105e4b28052c1cd"
+ },
+ {
+  "titulo": "A un año de solicitar licencia, Yeraldine Bonilla regresa al Congreso de Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPXzlaZVhGTFM0Znp5SWdiMDB2UGw5UW9nUTJDdWdsWFY1UDdtN1VBVmpYVW45NUM0MlJTTU5fU2VaclB5N2NjTEN1Ymp6OHYyVlJ1UTNaNkppYVNydUpoRDhsazd5TENQODVCUFZzZEl4RnhWMEY5S29ja3o3QUllMEZUaVo0aG5OR0tqdWRQNzNsZ1JzODhsVThFc3dodlYxVXlsc1ZzWHlLcUg2V2RpSDZzbVpPdXNQUHo4NU1YcDFsNndET3BFZHJUZ3EzamtZOUJMYVprZ1paa09HZXlpNVkwOVBUS29GWTVOSXFkRmlCRm01YVZqeHdkZmlCT3hKcjNQMw?oc=5",
+  "medio": "El Universal",
+  "publicada": "2026-11-05T16:27:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "A un año de solicitar licencia, Yeraldine Bonilla regresa al Congreso de Sinaloa El Universal",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "119cd50f71c55f6b"
+ },
+ {
+  "titulo": "Detienen a Severo “N” por tentativa de feminicidio en colonia popular de Mazatlán",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcXB6cTVHQWNHQWJEbXVTYzl3WG04a2tlQTRtc0hwSG1pV0wwX0todTRybkpOZUJVY0lqYjVQcVRTa013T053d1RzOU1aRmdTNWRsd1NzY2ZmYVBFRnFzYWVXWlFsQWExOG1DeVc1TmR0Y2NLZW53Y0ROQTdKTzU2QS02SkZpbVJoMHlYeDY2djBxWmNnSmIwcUI3eUxndTdIaTVZYUdqRGJILWhEZy11bC1oZHdQbkw4cjg2a2tnbE1ROWh3SVFJQTNTdGJ2b21maGFjTS0zMVJnQQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T16:25:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Detienen a Severo “N” por tentativa de feminicidio en colonia popular de Mazatlán Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ce8679701cda86c7"
+ },
+ {
+  "titulo": "Restricción de celulares en escuelas desencadenará abstinencia y ansiedad en menores, dice psicóloga",
+  "liga": "https://lineadirectaportal.com/sinaloa/restriccion-de-celulares-en-escuelas-desencadenara-abstinencia-y-ansiedad-en-menores-dice-psicologa-2026-11-05__1734049",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:25:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "El uso excesivo de pantallas generó que las personas sean cada mes menos tolerantes e impacientes, pero los estudiantes se acostumbrarán a no revisar periódicamente el teléfono",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "6bccecae4edd5818"
+ },
+ {
+  "titulo": "Hombre resulta herido de bala al interior del basurón municipal de Mazatlán, Sinaloa",
+  "liga": "https://lado.mx/noticia/22246211/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-05T16:25:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Un hombre de 38 años resultó lesionado por disparos de arma de fuego al interior del basurón municipal de Mazatlán.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "cf76eb6317054cf6"
+ },
+ {
+  "titulo": "Activan Protocolo Alba por desaparición de Karina Joseline, de 20 años, en Mazatlán, Sinaloa",
+  "liga": "https://lado.mx/noticia/22246208/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-05T16:25:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La joven de 20 años fue vista por última vez el 3 de noviembre en la colonia Lomas de Ébano en Mazatlán, Sinaloa; la Fiscalía advierte que su integridad podría estar en riesgo y pide ayuda para localizarla.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "825095c50d7def8f"
+ },
+ {
+  "titulo": "Aprueba Congreso de Sinaloa reformas para garantizar salud menstrual de alumnas en planteles educativos",
+  "liga": "https://lado.mx/noticia/22246209/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-05T16:25:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Se busca garantizar la educación menstrual, el acceso gratuito a productos de higiene y mejores condiciones para las estudiantes durante su periodo menstrual",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Educación"
+  ],
+  "local": true,
+  "id": "f560cbfca5db359c"
+ },
+ {
+  "titulo": "“27 años operando la corrupción en el INE”: Graciela Domínguez respalda a Sheinbaum tras destape de red de empresas fachada",
+  "liga": "https://lado.mx/noticia/22246210/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-05T16:25:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La gobernadora de Sinaloa respaldó la propuesta de fortalecer Talleres Gráficos de México para evitar irregularidades en la elaboración de materiales electorales.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "0d38c6f837f82144"
+ },
+ {
+  "titulo": "Óscar regala esperanza de vida al donar sus órganos; su generosidad trasciende a la muerte",
+  "liga": "https://lineadirectaportal.com/sinaloa/oscar-regala-esperanza-de-vida-al-donar-sus-organos-su-generosidad-trasciende-a-la-muerte-2026-11-05__1734053",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:25:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Despiden con aplausos y agradecimiento a quien donó sus órganos para cambiar las vidas de quienes estaban a la espera de un trasplante",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "625cc107a920a04f"
+ },
+ {
+  "titulo": "Habrá vacunas, pruebas de glucosa y revisión de ojos gratuitas en Guasave ¡Checa dónde y cuándo!",
+  "liga": "https://lineadirectaportal.com/sinaloa/habra-vacunas-pruebas-de-glucosa-y-revision-de-ojos-gratuitas-en-guasave-checa-donde-y-cuando-2026-11-05__1734042",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:23:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La Feria de Salud Preventiva tiene el objetivo de detectar oportunamente los casos de diabetes en el municipio y combatir las enfermedades respiratorias con el descenso de temperaturas",
+  "temas": [
+   "Clima",
+   "Cultura y tradiciones",
+   "Gobierno municipal",
+   "Salud"
+  ],
+  "local": true,
+  "id": "4f130d61b6ffc95f"
+ },
+ {
+  "titulo": "Suman 270 casos de secuestro virtual en Michoacán desde 2025",
+  "liga": "https://sinaloa.quadratin.com.mx/suman-270-casos-de-secuestro-virtual-en-michoacan-desde-2025/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-05T16:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Los casos involucraron a 285 personas",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6a5adb3e75bf6456"
+ },
+ {
+  "titulo": "Detectan pseudoefedrina en productos herbolarios procedentes de Estados Unidos en el AIFA",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcWJqYk1lVUtvdFI1dGZvZ2lsZFdoNEw2SVcyMjhSOVBQQjhwdzA5eUhtdmRlaWxOcG5oZC1vcXl6d1lpdldWRFl6TVR0ZHhhWFVCSUhaNkwyaVdFclNoMklyQkhEYlNhaTI1dmJXM0loVjFtdkFEMng1dkNELU9INXNZVmtVdlNJY3dRWjl2V1JFYl9ZQTQxSVpSRE5nVUVua250d1FiMV9HQjVUN3NwNV9BUUhnc19IM2l3RWhka3g4NXJxMXMzZE5Pd1EtOGJwNDNkOFROdHZpMkVBQUMzTUZtVXQ5TkU?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T16:19:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Detectan pseudoefedrina en productos herbolarios procedentes de Estados Unidos en el AIFA Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0b95de1bffa26ffd"
+ },
+ {
+  "titulo": "Dan lectura a iniciativas de Ayuntamientos que establecen Valores Unitarios del Suelo",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnNscXJQVU1Ca2pzU0ZCczd6cUdCY3dpZzlRVXJKUXl3TDRsRlZVeXVCc0Y0MWxpejkyUDhscUJxam1HcjZuRVRqXzVDazg2MFZ3SGFLT1U4eENlQkp6ZHRPMkNsV3dyUVFaT0gzLXE2ZG5FOHdLRmpmX0haeWFnQW13c2M2Rl83cE1SaVc3a3BOY3BacEJFa0NZRi00WlhzR3NHcTZnc2RIcW1nRGRIMUJGNXZhQVp0X055YkpCQjdpUC1PcWlRZ2VnSm4yQQ?oc=5",
+  "medio": "Congreso del Estado de Sinaloa",
+  "publicada": "2026-11-05T16:18:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Dan lectura a iniciativas de Ayuntamientos que establecen Valores Unitarios del Suelo Congreso del Estado de Sinaloa",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "2ffc636e69881b21"
+ },
+ {
+  "titulo": "En Escuinapa agentes del GOES detienen a dos hombres con arma larga y droga",
+  "liga": "https://lineadirectaportal.com/policiaca/en-escuinapa-agentes-del-goes-detienen-a-dos-hombres-con-arma-larga-y-droga-2026-11-05__1734046",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:17:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Elementos policiales los pusieron a disposición de la autoridad competente para que inicie las diligencias correspondientes",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e0211a72e783f41e"
+ },
+ {
+  "titulo": "Abren oportunidades laborales para veterinarios en Feria del Empleo de la UAS y la Unión Ganadera",
+  "liga": "https://lineadirectaportal.com/sinaloa/abren-oportunidades-laborales-para-veterinarios-en-feria-del-empleo-de-la-uas-y-la-union-ganadera-2026-11-05__1734045",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:17:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "El presidente de la Unión Ganadera Regional de Sinaloa reconoció la ética, la preparación y el profesionalismo de quienes trabajan en la protección de la salud animal",
+  "temas": [
+   "Cultura y tradiciones",
+   "Salud",
+   "Economía y empleo",
+   "Campo y pesca",
+   "Educación"
+  ],
+  "local": true,
+  "id": "eb55435b46759cd1"
+ },
+ {
+  "titulo": "Ataque a balazos deja dos heridos en la Avenida Rafael Buelna, en Mazatlán",
+  "liga": "https://www.noroeste.com.mx/seguridad/ataque-a-balazos-deja-dos-heridos-en-la-avenida-rafael-buelna-en-mazatlan-DE27107631",
+  "medio": "Noroeste",
+  "publicada": "2026-11-05T16:13:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "MAZATLÁN. _ Dos hombres resultaron heridos de bala tras ser atacados desde otro vehículo cuando circulaban en una camioneta Hyundai Creta por la avenida Rafael Buelna, en la colonia Infonavit Playas, en Mazatlán. El ataque se registró sobre la avenida Rafael Buelna, casi en el cr",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "dd361924ec677fb3"
+ },
+ {
+  "titulo": "Reconocen a 49 establecimientos y guías por impulsar la Ruta del Tequila",
+  "liga": "https://sinaloa.quadratin.com.mx/reconocen-a-49-establecimientos-y-guias-por-impulsar-la-ruta-del-tequila/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-05T16:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "El galardón premia el compromiso de los prestadores de servicios con la difusión de la Cultura del Tequila y la profesionalización del capital humano.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1ddeca42b08e1f09"
+ },
+ {
+  "titulo": "Buscan fortalecer la pesca y acuacultura del golfo de California en encuentro regional en Los Mochis",
+  "liga": "https://lineadirectaportal.com/sinaloa/buscan-fortalecer-la-pesca-y-acuacultura-del-golfo-de-california-en-encuentro-regional-en-los-mochis-2026-11-05__1734031",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:06:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Del 11 al 13 de noviembre, el V Festival Regional de Pesca y Acuacultura Sostenible 2026 reunirá a representantes de la actividad de 5 estados, con paneles, mesas de trabajo y espacios de vinculación empresarial",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "4a141e0ce95c18b1"
+ },
+ {
+  "titulo": "Nuevo penal en Sinaloa requerirá más personal; Estado asumirá su operación: Gobernadora",
+  "liga": "https://lineadirectaportal.com/sinaloa/nuevo-penal-en-sinaloa-requerira-mas-personal-estado-asumira-su-operacion-gobernadora-2026-11-05__1734026",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:05:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La gobernadora Graciela Domínguez explicó que el Gobierno Federal se encargará de la construcción, mientras que el Estado deberá aportar el personal necesario para su funcionamiento",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "ef63cc9c94370818"
+ },
+ {
+  "titulo": "Detienen a un menor de edad junto con dos personas con armas y equipo táctico en Concordia",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU1dNSElZMnlnaENULUVfWEE4bkFFcHVmNFFOeEZ5dThzWWFBa0pTMjZ5LTN4ZzRndG92d3VWSmc3bDJsQTNTTFdpLTBraHVCaDAtbTlCOTVPZi1lbW5pbGxVRE1UVW5CU0NPRmFXUmZtRThIZzMydnFPbXJKOUM5dUFZcGx6cUpCcktIMlVjN0xzSXFQeDlqT3pLcDByMWxYdy1iNmhwMVozS2Q0bk5maGNHc1dxYkZjOHJaT3dyZ2k5WXg4T1haNnE5WHpvUUFEOVNvOQ?oc=5",
+  "medio": "LatinUS",
+  "publicada": "2026-11-05T16:02:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Detienen a un menor de edad junto con dos personas con armas y equipo táctico en Concordia LatinUS",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b840c9d3d820e7d4"
+ },
+ {
+  "titulo": "Detienen a dos hombres con fusil AK-47, droga y una motocicleta robada en Escuinapa",
+  "liga": "https://www.noroeste.com.mx/seguridad/detienen-a-dos-hombres-con-fusil-ak-47-droga-y-una-motocicleta-robada-en-escuinapa-ME27106857",
+  "medio": "Noroeste",
+  "publicada": "2026-11-05T16:01:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "ESCUINAPA. _ Dos hombres fueron detenidos por elementos de la Policía Estatal Preventiva y del Ejército Mexicano en la colonia Pueblo Nuevo, en Escuinapa, donde les aseguraron un fusil AK-47, 72 dosis de presunta metanfetamina y una motocicleta con reporte de robo. De acuerdo con",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5d4935b24d553bf8"
+ },
+ {
+  "titulo": "Antonio Menéndez supervisa la rehabilitación de un socavón en la colonia Álamos en Los Mochis",
+  "liga": "https://lineadirectaportal.com/sinaloa/antonio-menendez-supervisa-la-rehabilitacion-de-un-socavon-en-la-colonia-alamos-en-los-mochis-2026-11-05__1734021",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:01:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "La autoridad municipal explicó que están rehabilitando un colector sanitario de 42 pulgadas",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "9df7a36069e64299"
+ },
+ {
+  "titulo": "Esto está pasando en Paraguay; Desaparece el banco Ueno y renuncia el presidente Peña",
+  "liga": "https://lineadirectaportal.com/internacional/esto-esta-pasando-en-paraguay-desaparece-el-banco-ueno-y-renuncia-el-presidente-pena-2026-11-05__1734008",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-05T16:00:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "El país sudamericano se encuentra en medio de una crisis política y financiera que puso en jaque al gobierno actual",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7e5c42231c49d5db"
+ },
+ {
+  "titulo": "Renuevan colector de 42 pulgadas en el sector Álamos; rehabilitan 137 metros de red sanitaria",
+  "liga": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1NBRFY4WS0wQV9teHZrV2g0MG5TWFZMOEQ5a0FfSXJFcHlOOXVreUZtLXViQmFvSmg5a0h4d2pRYnVLcjVXaDMzR2ktWFd4OUhWZXNHY29HdjNIMTFuNURlTWp6X3dScldKOFhhSFBnRVA5bDVfMWdtUXV3MENzN3lVT2VnN0RyVUM4VU0tcHRGdWNzbWFVeWJRb0U0T21ENkZHM0pWSmdzUEtRdDVLSXpvQUd4UWRlQWZpVXJZV09sR0p6QVFyZzZhQlYtSjB2bU1HTlcwTG5vWktkTFhwS0JJRjhFdDFpSm5J?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T15:56:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Renuevan colector de 42 pulgadas en el sector Álamos; rehabilitan 137 metros de red sanitaria Debate",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "9d8f0be115a7b2d3"
+ },
+ {
+  "titulo": "Diputado Mario Zamora denuncia \"abandono total\" a Sinaloa en la propuesta presupuestal 2027",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPblJJZkkwVXhQQ0xLcG9vSWh3YlctR3BWQjVCTXh4bnMzRlJPV3lNMHpCYTBUVGxKVE9fdzloeDQxbWpWaWRzZ3NobFNWbjY2V0pXUjBwcVRhN1hMNF9XbllCZ2tuaC1FZmkzd2lRcFBHeDNHUjJDbEJ5a2xtOGhxSF9zSmNOdU9uQ2JzRWZMMVUtRTRhTmU3ZTlOU0wxUFZUcFNXUUx2Q1dEM05BVGZENkhVVWo3NGRrN3hleFU1WXBxYWFybzY5cVVwVjhxbG16Z3RSXzBRMkJJVzg?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T15:53:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Diputado Mario Zamora denuncia \"abandono total\" a Sinaloa en la propuesta presupuestal 2027 Debate",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "86d9d987cbdf2e41"
+ },
+ {
+  "titulo": "Intensifica JUMAPAM trabajos de desazolve en la red de alcantarillado de Mazatlán.",
+  "liga": "https://vivalanoticia.mx/intensifica-jumapam-trabajos-de-desazolve-en-la-red-de-alcantarillado-de-mazatlan/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-05T15:52:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Los cuatro distritos de la zona urbana despliegan operativos simultáneos en colonias y fraccionamientos del puerto para mejorar la captación y conducción de las aguas servidas_ Mazatlán, Sinaloa, 5 de noviembre de 2026.- Luego de que, durante el pasado mes de octubre la Gerencia ",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a1f049fe624c07d8"
+ },
+ {
+  "titulo": "Alistan calendario de comparecencias y acuerdos para cerrar año legislativo",
+  "liga": "https://sinaloa.quadratin.com.mx/alistan-calendario-de-comparecencias-y-acuerdos-para-cerrar-ano-legislativo/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-05T15:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "El procedimiento para las comparecencias se revisará con los coordinadores parlamentarios, a fin de definir la logística.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e9c67cc02fa1d06b"
+ },
+ {
+  "titulo": "Escuelas en Sinaloa 2025-2026: 95 más y 864 mil estudiantes",
+  "liga": "https://www.tusbuenasnoticias.com/noticias/sinaloa/2026/11/05/66621-escuelas-en-sinaloa-2025-2026-95-mas-y-864-mil-estudiantes",
+  "medio": "Tus Buenas Noticias",
+  "publicada": "2026-11-05T15:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Escuelas en Sinaloa 2025-2026: cuántas hay, con cuántos estudiantes y maestros, por nivel y en público y privado.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "961dc425e91bf2fe"
+ },
+ {
+  "titulo": "Ampliación del bulevar Pedro Anaya, en Los Mochis, entra en su etapa final",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUHBXVVdMSnp3OEFJNmdCYmZ0N084X2FEdEZOX2VxYmdjdHpHRjgtNGREdkhETkR2UjRhSHpwSzZmRFNpd09saVIwQ1hxaHBYXzBkVllvNUkzZjliaXhwZ0xJSld1eHk5aFl5SU9WdUhOS25SYjJEUEY3QVhNUzJOZldoRUJzd2FYNzlNNjVmcHVrMkFsUlVaTmxqbHdUWkI2V0lOdkpiZjl2cXZtVjI3Q2pwcTZWbzV4NWtOV0VuSW03N3hUNmRDYVFURzdSOXBr?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T15:50:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Ampliación del bulevar Pedro Anaya, en Los Mochis, entra en su etapa final Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "01eede5bfe612225"
+ },
+ {
   "titulo": "Motociclista resulta lesionado al ser atropellado por conductor de un automóvil en Los Mochis",
   "liga": "https://lineadirectaportal.com/policiaca/motociclista-resulta-lesionado-al-ser-atropellado-por-conductor-de-un-automovil-en-los-mochis-2026-11-05__1734006",
   "medio": "Línea Directa",
@@ -28,6 +655,21 @@
   ],
   "local": true,
   "id": "6e34771a0308da2b"
+ },
+ {
+  "titulo": "Tractocamión presuntamente se queda sin frenos y provoca carambola de siete vehículos en Los Mochis",
+  "liga": "https://www.luznoticias.mx/2026-11-05/policiaca/tractocamion-presuntamente-se-queda-sin-frenos-y-provoca-carambola-de-siete-vehiculos-en-los-mochis/313715",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2a9aeedcb60c331f"
  },
  {
   "titulo": "UGRS refrenda colaboración con la UAS para el desarrollo de veterinarios",
@@ -59,6 +701,20 @@
   "id": "11335ea16093831d"
  },
  {
+  "titulo": "Cocido durante ocho horas con leña, el menudo de Margarita tiene 30 años conquistando paladares en San Ignacio",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2hSYS0tZlF0cV93MGNkQmYybndQY1BSOExJQUJBZkVFS0JtU1JSc2FGaGVENFllWHMzUW5YWmlpbWgzcFNlRURaeG1YQUs3Tjh6bVJiUXBIaUEwRGlWY3lDY0x3VmsxcnpOMENIQkZzaDNtd2tNRDZjMDV1ZTZRQkpJYlZvVlRoeXA2emF3dnlYOUJNWFVNTHFVSEpfWG5JeGt6VmUxQ1h5MGJS0gGyAUFVX3lxTFBwdXJYM0hnNG5odDlILWZyYUxadDFxVXdSUHo0QUJFQzNnTUxYQmcydE0tTUhBdU9vWVA4bXduVVk2OEdSZ0NRQ3RBcC05cVBMODZZVG1MM0RyU2Y3cWxKZ0dQdXVUU0VBdEZXQW45bTNsZUszYUVaZl9uMXd4ZUFZTVE5QTZKRVR4WHdreDNVRzRkNHdRNktkS1dWUHFET05pMGZEbE1xUnhmcEh2aEg4OHc?oc=5",
+  "medio": "Tus Buenas Noticias",
+  "publicada": "2026-11-05T15:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Cocido durante ocho horas con leña, el menudo de Margarita tiene 30 años conquistando paladares en San Ignacio Tus Buenas Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "44b5cf50ecc78146"
+ },
+ {
   "titulo": "DIF Guasave entrega apoyos funcionales a cinco personas",
   "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUNLdlptdmdQRjBvY0lJaTNPV3FMeG1aWERmOGhOS2JZUU5WVEU1X194dTNlclpEQ2V2TzEwWDB2eGxrRTltVUdFSlk4cmxjZUdsNEJRZ1E1Z0dzQ2hZUWJwdkZxR1hOSlJTaS16MS16bDFNZTBNa3hKb2hoaWZJTGlHS2NpanRwS2NibERBd2ViN09MRG5YbDZIanBQTHZVVC1WOW5abFBxWjRxaVc0SFpKQmgxOWM?oc=5",
   "medio": "El Debate",
@@ -73,6 +729,20 @@
   "id": "f6bbff9be0127aa4"
  },
  {
+  "titulo": "Graciela Domínguez apoya propuesta de Sheinbaum contra la corrupción en el INE",
+  "liga": "https://www.luznoticias.mx/2026-11-05/sinaloa/graciela-dominguez-apoya-propuesta-de-sheinbaum-contra-la-corrupcion-en-el-ine/313716",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "45c9735ac504c9cd"
+ },
+ {
   "titulo": "Todo listo para presentar el 5.° Informe ante el Congreso, solo falta conocer el formato: Gobernadora",
   "liga": "https://lineadirectaportal.com/sinaloa/todo-listo-para-presentar-el-5-informe-ante-el-congreso-solo-falta-conocer-el-formato-gobernadora-2026-11-05__1734002",
   "medio": "Línea Directa",
@@ -85,6 +755,20 @@
   ],
   "local": true,
   "id": "9e4e8ddf9a34ab43"
+ },
+ {
+  "titulo": "Exigen justicia por feminicidio de Christian Ziboney, agente de la Guardia Nacional en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZl9nSnJyMUJYMmplQkd3ckZsdUJWMlYyUWRQczg3RVI5RHNvdDJ2ZzlTNFA0Z3NWcXdlTmxENTRhcE5keXNyd2NWc255UTJIMEc3Ql9ST1ozRlNabk9WTXBZdzFqZkEzY2dYZ2tweUJESHppbE9tQ18xZ09jYTJ4cnM1QnRzTVNpaXdYU0R3V0s5dFFMNTBBdEVIQ3FTVkEyNEVoUFBJbDJqZkx2ZkttbUVOMXB5NkVyYnFkZmhoV0xMWWNSRVpxVmQ5Wm9sLWlaazZsTFlhUUp5Yl9RR3p2WS1Pc2szMWRDeUd3?oc=5",
+  "medio": "Imagen Televisión",
+  "publicada": "2026-11-05T15:44:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Exigen justicia por feminicidio de Christian Ziboney, agente de la Guardia Nacional en Sinaloa Imagen Televisión",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6b3857cf710e7bfd"
  },
  {
   "titulo": "Jaguares de Nayarit cesa a Luis Carlos Rivera y nombra a Erik Rodríguez como nuevo manager",
@@ -129,6 +813,20 @@
   "id": "69533f1ec8a2b49e"
  },
  {
+  "titulo": "Atacan a balazos a una persona en la colonia Benito Juárez en Mazatlán",
+  "liga": "https://www.luznoticias.mx/2026-11-05/policiaca/atacan-a-balazos-a-una-persona-en-la-colonia-benito-juarez-en-mazatlan/313714",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5c288beeca1775fd"
+ },
+ {
   "titulo": "Justificar faltas por periodo menstrual y entregar toallas sanitarias, nuevas obligaciones de las escuelas",
   "liga": "https://cafenegroportal.com/justificar-faltas-por-periodo-menstrual-y-entregar-toallas-sanitarias-nuevas-obligaciones-de-las-escuelas/",
   "medio": "Café Negro",
@@ -143,6 +841,20 @@
   ],
   "local": true,
   "id": "9c73ea4583dde8b6"
+ },
+ {
+  "titulo": "Tres ataques armados en Mazatlán dejan cuatro personas lesionadas en distintos puntos de la ciudad",
+  "liga": "https://www.sinaloahoy.com.mx/portal/tres-ataques-armados-en-mazatlan-dejan-cuatro-personas-lesionadas-en-distintos-puntos-de-la-ciudad/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-05T15:39:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Tres ataques armados en Mazatlán dejan cuatro personas lesionadas en distintos puntos de la ciudad Tres ataques armados dejan cuatro lesionados en Mazatlán 🚨 #ojopublico #Mazatlán #Sinaloa Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "86bebeab7050cc63"
  },
  {
   "titulo": "Sheinbaum alista decreto para fortalecer Talleres Gráficos y frenar intermediarios en contratos electorales",
@@ -186,6 +898,21 @@
   ],
   "local": true,
   "id": "fffeb1cbaedd457a"
+ },
+ {
+  "titulo": "Drones vigilarán desde el aire y habrá filtros en los accesos: así cuidarán la Feria Ganadera 2026 en Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnFHQ0cycVVZakpTYlJNS1Atald3OVNrMmFPM1NIVk5GLTVWdEpFOGN5RC1SdWZXY0d5VTdremxXWkZ4T2QxUDBETWtVbGhxQ29Wa0hJY0dQbnBDX19iVzg0aXVHZ3BjZGVGMW5fUWN5UkwyYXoxQ09CTnJ5Q2YxUV9rQmRRakZPMGFoZzVDMW4zVEZKcDdoLUREODBmZVRZWnFZNDJucVpyMUFEbFY40gG0AUFVX3lxTE9uRDE0VzVNbUN6c2E0ZWQ0TS1EajJSVkpiYzNzR2JITDJsVFI0RmxtU0dYU3ZMMzVmdnBhWlZ2aVZhNXBHaC16RVo3bWlyWVhrWVpmRFBQamFSSlhCRlJKYlRkSjlvRnFKcm5UUi05UEo3dTROWWN2dmR1TGtQV1NuUnpOUGoyS2lFWEttNzllbk9VT2lVeC1OS2VJanpVdFJUUEZTOXY4SmlhYm9sVTAxNkFZSQ?oc=5",
+  "medio": "Tus Buenas Noticias",
+  "publicada": "2026-11-05T15:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Drones vigilarán desde el aire y habrá filtros en los accesos: así cuidarán la Feria Ganadera 2026 en Culiacán Tus Buenas Noticias",
+  "temas": [
+   "Cultura y tradiciones",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "5e480cc24fbf35a5"
  },
  {
   "titulo": "Persiste incertidumbre en la UAS por salarios y aguinaldos: Plata Rocha",
@@ -302,6 +1029,62 @@
   "id": "8cbc2eb8951f6f91"
  },
  {
+  "titulo": "Jornadas de Paz y Desarme Voluntario en Lomas del Ébano, Mazatlán",
+  "liga": "https://www.luznoticias.mx/2026-11-05/sinaloa/jornadas-de-paz-y-desarme-voluntario-en-lomas-del-ebano-mazatlan/313712",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6fb802d57a64c042"
+ },
+ {
+  "titulo": "Sondas gemelas de la NASA pasarán cerca de la Tierra antes de viajar a Marte",
+  "liga": "https://www.luznoticias.mx/2026-11-05/mexico/sondas-gemelas-de-la-nasa-pasaran-cerca-de-la-tierra-antes-de-viajar-a-marte/313720",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e47661d65aa8d31b"
+ },
+ {
+  "titulo": "Hallan a un hombre asesinado a balazos dentro de una camioneta en Pericos, Mocorito",
+  "liga": "https://www.sinaloahoy.com.mx/portal/hallan-a-un-hombre-asesinado-a-balazos-dentro-de-una-camioneta-en-pericos-mocorito/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-05T15:32:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Hallan a un hombre asesinado a balazos dentro de una camioneta en Pericos, Mocorito Hallan a un hombre sin vida dentro de camioneta en Pericos, Mocorito 🚓 #interesciudadano #Mocorito #Sinaloa Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "62a4b54860cdcd3c"
+ },
+ {
+  "titulo": "Carambola de seis vehículos deja varios lesionados en el fraccionamiento Tabachines Dos de Los Mochis",
+  "liga": "https://www.sinaloahoy.com.mx/portal/carambola-de-seis-vehiculos-deja-varios-lesionados-en-el-fraccionamiento-tabachines-dos-de-los-mochis/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-05T15:29:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Carambola de seis vehículos deja varios lesionados en el fraccionamiento Tabachines Dos de Los Mochis Carambola de seis vehículos en Los Mochis deja varios lesionados y moviliza a cuerpos de emergencia 🚗 #ojopublico #Ahome #LosMochis Sinaloahoy - Noticias de Sinaloa y el mundo Si",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "f343a88ec2e2f73e"
+ },
+ {
   "titulo": "Cámara de Comercio anuncia que Mazatlán se prepara para la edición número 16 del Buen Fin 2026",
   "liga": "https://lineadirectaportal.com/sinaloa/camara-de-comercio-anuncia-que-mazatlan-se-prepara-para-la-edicion-numero-16-del-buen-fin-2026-2026-11-05__1733994",
   "medio": "Línea Directa",
@@ -373,6 +1156,20 @@
   ],
   "local": true,
   "id": "abe26dc969d10572"
+ },
+ {
+  "titulo": "¡Aprovecha el Buen Fin! Ahome condonará el 100% de multas y recargos; también habrá 60% de descuento en infracciones de tránsito",
+  "liga": "https://www.luznoticias.mx/2026-11-05/sinaloa/aprovecha-el-buen-fin-ahome-condonara-el-100-de-multas-y-recargos-tambien-habra-60-de-descuento-en-infracciones-de-transito/313710",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b3a4d5f5e542b8bd"
  },
  {
   "titulo": "Graciela Domínguez se reunirá con diputados el 2 de diciembre por el Quinto Informe de Gobierno",
@@ -474,6 +1271,34 @@
   "id": "d4a5368cb1f409f0"
  },
  {
+  "titulo": "Juez federal de Miami niega liberar a Inés Gómez Mont tras recurso de habeas corpus",
+  "liga": "https://www.sinaloahoy.com.mx/portal/juez-federal-de-miami-niega-liberar-a-ines-gomez-mont-tras-recurso-de-habeas-corpus/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-05T15:23:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Juez federal de Miami niega liberar a Inés Gómez Mont tras recurso de habeas corpus Juez federal de Miami niega liberar a Inés Gómez Mont ⚖️ bajo habeas corpus y sigue detenida en Estados Unidos #ojopublico #Miami #InésGómezMont Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloa",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "dd30f74ae5e9ee7c"
+ },
+ {
+  "titulo": "Carretera México 15 en Mazatlán recibirá proyecto de reencarpetado, 55 kilómetros serán rehabilitados",
+  "liga": "https://www.luznoticias.mx/2026-11-05/sinaloa/carretera-mexico-15-en-mazatlan-recibira-proyecto-de-reencarpetado-55-kilometros-seran-rehabilitados/313706",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "250b7fac256d8463"
+ },
+ {
   "titulo": "Aseguran químicos por 57 millones de pesos en dos poblados de Culiacán",
   "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcUhBV3BrdmhnTUR3OHRHS0I5SWhsU1R0eld4b0Z3alNfWVpiWnlaYlZZa1lVOE9SWlpzb0lHV3lMZ3g4aHF4V01YQTl1cUFiWkFWeDlZUTc5QW5qYU03bGQ2aFZ5NVV3VThhYmdkeTBUQ0F1S3RkTGlOTG85UHRNQWgzdF9kMXB1RXVuVHJkbnFBc0ZqTlpxUWxhZWRRUWFYc0FTaTJ3S05YODlKRGo5S0ZaUm1HV1R5eXh1bWdnNk9aNzZmNjdGUW5iTWM2Zw?oc=5",
   "medio": "El Debate",
@@ -500,6 +1325,20 @@
   ],
   "local": true,
   "id": "46225ae6c3e3e610"
+ },
+ {
+  "titulo": "Hallan a hombre ejecutado a balazos y con huellas de tortura dentro de una camioneta en Mocorito",
+  "liga": "https://www.luznoticias.mx/2026-11-05/policiaca/hallan-a-hombre-ejecutado-a-balazos-y-con-huellas-de-tortura-dentro-de-una-camioneta-en-mocorito/313705",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "df85a98fda57068c"
  },
  {
   "titulo": "Visane-Ramada y Deportivo IMSS disputarán la final de Copa de la Intermédicos",
@@ -602,6 +1441,20 @@
   "id": "c5a410ed253c1288"
  },
  {
+  "titulo": "Banxico baja la tasa a 6.25% y abre presión sobre el peso y el diferencial con Estados Unidos",
+  "liga": "https://www.sinaloahoy.com.mx/portal/banxico-baja-la-tasa-a-6-25-y-abre-presion-sobre-el-peso-y-el-diferencial-con-estados-unidos/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-05T15:12:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Banxico baja la tasa a 6.25% y abre presión sobre el peso y el diferencial con Estados Unidos Banxico baja la tasa a 6.25% y el peso queda bajo presión 📉💵 #interesciudadano #TipoDeCambio #Sinaloa Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8be457342443c980"
+ },
+ {
   "titulo": "Refuerza «El Capy» Rivera bacheo en carretera Angostura-Playa Colorada",
   "liga": "https://noticieroaltavoz.com/refuerza-el-capy-rivera-bacheo-en-carretera-angostura-playa-colorada/",
   "medio": "Noticiero Altavoz",
@@ -658,6 +1511,21 @@
   ],
   "local": true,
   "id": "c0213dba33daf113"
+ },
+ {
+  "titulo": "Elecciones en EU 2028: los nombres que suenan como posibles candidatos para suceder a Trump",
+  "liga": "https://www.luznoticias.mx/2026-11-05/mexico/elecciones-en-eu-2028-los-nombres-que-suenan-como-posibles-candidatos-para-suceder-a-trump/313709",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T15:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "9db32a2e67697288"
  },
  {
   "titulo": "Lo asesinan y lo dejan al interior de una camioneta doble rodado",
@@ -732,6 +1600,20 @@
   ],
   "local": true,
   "id": "8c56cd3e4a87321b"
+ },
+ {
+  "titulo": "Bomberos veteranos trasladan a hombre lesionado tras ataque armado en colonia Benito Juárez de Mazatlán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/bomberos-veteranos-trasladan-a-hombre-lesionado-tras-ataque-armado-en-colonia-benito-juarez-de-mazatlan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-05T15:05:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Bomberos veteranos trasladan a hombre lesionado tras ataque armado en colonia Benito Juárez de Mazatlán Bomberos Veteranos trasladan a hombre lesionado tras ataque armado en Benito Juárez, Mazatlán 🚑 #ojopublico #Mazatlán #Sinaloa Sinaloahoy - Noticias de Sinaloa y el mundo Sinal",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c6157e843c8e624f"
  },
  {
   "titulo": "Mazatlán registra tres ataques armados con apenas unos minutos de diferencia; hay cuatro lesionados",
@@ -836,6 +1718,20 @@
   "id": "0489b0e198f3d8a3"
  },
  {
+  "titulo": "Jesús es detenido en SLRC, Sonora, acusado de feminicidio e intento de homicidio en Escuinapa",
+  "liga": "https://riodoce.mx/2026/11/05/jesus-es-detenido-en-slrc-sonora-acusado-de-feminicidio-e-intento-de-homicidio-en-escuinapa/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-05T15:00:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d50082b724081e4f"
+ },
+ {
   "titulo": "Se disparan incendios en lotes baldíos de Guamúchil; Bomberos llama a no quemar maleza",
   "liga": "https://lineadirectaportal.com/sinaloa/se-disparan-incendios-en-lotes-baldios-de-guamuchil-bomberos-llama-a-no-quemar-maleza-2026-11-05__1733978",
   "medio": "Línea Directa",
@@ -882,6 +1778,20 @@
   "id": "c7a188d8b9ca7574"
  },
  {
+  "titulo": "Dos hombres y un menor de edad son detenidos con armas cargadores, cartuchos y un vehículo en Concordia",
+  "liga": "https://riodoce.mx/2026/11/05/dos-hombres-y-un-menor-de-edad-son-detenidos-con-armas-cargadores-cartuchos-y-un-vehiculo-en-concordia/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-05T14:56:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6bf385816173b2e7"
+ },
+ {
   "titulo": "Atacan a balazos a pepenador dentro del Basurón Municipal de Mazatlán",
   "liga": "https://www.noroeste.com.mx/seguridad/atacan-a-balazos-a-pepenador-dentro-del-basuron-municipal-de-mazatlan-CE27104611",
   "medio": "Noroeste",
@@ -894,6 +1804,20 @@
   ],
   "local": true,
   "id": "a466ef1f829e8f94"
+ },
+ {
+  "titulo": "¿Te quitará el SAT parte de tu aguinaldo en 2026? Esta es la cantidad exenta",
+  "liga": "https://www.luznoticias.mx/2026-11-05/mexico/te-quitara-el-sat-parte-de-tu-aguinaldo-en-2026-esta-es-la-cantidad-exenta/313719",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T14:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "693d485b6f1a2db4"
  },
  {
   "titulo": "“Se está creando una falsa narrativa para hacer creer que la Coordinación la encabezará una mujer en Culiacán”: Serapio Vargas",
@@ -1011,6 +1935,20 @@
   "id": "902268a0a9070475"
  },
  {
+  "titulo": "Socavón obliga a renovar 137 metros de colector sanitario en Los Mochis",
+  "liga": "https://www.luznoticias.mx/2026-11-05/sinaloa/socavon-obliga-a-renovar-137-metros-de-colector-sanitario-en-los-mochis/313702",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T14:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "2acb73c0dfab2f4e"
+ },
+ {
   "titulo": "Hallan a hombre asesinado a balazos dentro de camioneta en Mocorito",
   "liga": "https://riodoce.mx/2026/11/05/hallan-a-hombre-asesinado-a-balazos-dentro-de-camioneta-en-mocorito/",
   "medio": "Ríodoce",
@@ -1066,6 +2004,20 @@
   ],
   "local": true,
   "id": "cfc36c45e8956fb1"
+ },
+ {
+  "titulo": "Huawei Watch D2: estudio compara su medición de presión arterial con un monitor de brazo",
+  "liga": "https://www.luznoticias.mx/2026-11-05/tecnologia/huawei-watch-d2-estudio-compara-su-medicion-de-presion-arterial-con-un-monitor-de-brazo/313704",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T14:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b83fd06f8c72540b"
  },
  {
   "titulo": "Viene a Los Mochis postulador de la causa de canonización de Juan Diego y experto guadalupano",
@@ -1213,6 +2165,20 @@
   ],
   "local": true,
   "id": "19a130215626fac3"
+ },
+ {
+  "titulo": "Si le doblas el sueldo a mi papá, firmo”: la noble condición de Bobby Pulido para trabajar con su primera disquera",
+  "liga": "https://www.luznoticias.mx/2026-11-05/espectaculos/si-le-doblas-el-sueldo-a-mi-papa-firmo-la-noble-condicion-de-bobby-pulido-para-trabajar-con-su-primera-disquera/313700",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T14:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f7f710a6a8fad16e"
  },
  {
   "titulo": "Aprueban en Sinaloa justificar faltas escolares por salud menstrual",
@@ -1385,6 +2351,20 @@
   "id": "6a135b1538303edc"
  },
  {
+  "titulo": "Aprueban reformas para garantizar salud menstrual en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1p5aHNQbERDNVhIM25HUm4xb21FMXMwMnFuN25obU1OeF9oQnkwSGtESGVOSFcxNlhiV3JFRktYeTZldl9IcWlzUklWTG9PZnp5MWgxaURQUGRiS3VnM05WcTJBNXNBYUtKbFpDbFJOVlZEdWxjRWx1OW5XS3JPQVVvUElhZHZoOVZJRTZlNjdXT1BIVVZwank4alo5QnBUNnlFME8ydXBCckdVd3ViLTl3?oc=5",
+  "medio": "Meganoticias.mx",
+  "publicada": "2026-11-05T14:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "Aprueban reformas para garantizar salud menstrual en Sinaloa Meganoticias.mx",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "d6bfe7afb76b0a09"
+ },
+ {
   "titulo": "Menstruar no será motivo para perder clases: Congreso de Sinaloa aprueba derechos para alumnas",
   "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHhjb041blZGckltLWVRUWVYbVFlc1l6WENxVjF1U0k0UjNrRm42U2V6ZWo4MlIwSGY5dHpRZ3dPRFdLRWd5cUFxNWZsWXlHMG5pQnhzWV9XVG1SLXFtOGF6NW9aeUFSLUxvME11LUlMRnFaN0VBNjNSVUd1X2cwVm9KOTlNZDFyLTFVQ1ZiXzd0YlJlNFlCNTNVQnE1QTBrSDBFWnBfM0pycEdUbHpXSEk3ZXNqdw?oc=5",
   "medio": "ADN Informativo MX",
@@ -1441,6 +2421,20 @@
   "id": "1468d4a0eef0dc2f"
  },
  {
+  "titulo": "Nace Bianca, hija de Charles Leclerc: el vínculo de la familia con México",
+  "liga": "https://www.luznoticias.mx/2026-11-05/espectaculos/nace-bianca-hija-de-charles-leclerc-el-vinculo-de-la-familia-con-mexico/313699",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T14:29:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f50929d0358ed264"
+ },
+ {
   "titulo": "Morena se deslinda de Guadalupe Taddei y exige investigar presunta corrupción en el INE",
   "liga": "https://riodoce.mx/2026/11/05/morena-se-deslinda-de-guadalupe-taddei-y-exige-investigar-presunta-corrupcion-en-el-ine/",
   "medio": "Ríodoce",
@@ -1468,6 +2462,20 @@
   ],
   "local": true,
   "id": "01002a74719114f5"
+ },
+ {
+  "titulo": "¡El Buen Fin está por llegar a Mazatlán! Habrá descuentos de hasta el 50 % durante cinco días",
+  "liga": "https://www.luznoticias.mx/2026-11-05/sinaloa/el-buen-fin-esta-por-llegar-a-mazatlan-habra-descuentos-de-hasta-el-50--durante-cinco-dias/313697",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T14:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "91c7df94b0130a6d"
  },
  {
   "titulo": "En manos de veterinarios está el patrimonio ganadero de Sinaloa: Sáinz Aispuro",
@@ -1658,6 +2666,21 @@
   ],
   "local": true,
   "id": "2837309abe606ac7"
+ },
+ {
+  "titulo": "Ataque armado en el Infonavit Playas en Mazatlán deja dos lesionados",
+  "liga": "https://www.luznoticias.mx/2026-11-05/policiaca/ataque-armado-en-el-infonavit-playas-en-mazatlan-deja-dos-lesionados/313692",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T14:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "c0735abc4e0dad77"
  },
  {
   "titulo": "Irma Moreno cuestiona cambios en Gobierno de Sinaloa: funcionarios mantienen sello de Rocha Moya",
@@ -2417,6 +3440,20 @@
   ],
   "local": true,
   "id": "154fc7ce37df8875"
+ },
+ {
+  "titulo": "¿Quién es Carolina Gaspar? La exdiputada de Morena condecorada por Vladimir Putin en Rusia",
+  "liga": "https://www.luznoticias.mx/2026-11-05/mexico/quien-es-carolina-gaspar-la-exdiputada-de-morena-condecorada-por-vladimir-putin-en-rusia/313701",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-05T13:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "263913e9f3751352"
  },
  {
   "titulo": "Será el 2 de diciembre cuando Graciela Domínguez presente Quinto Informe de Gobierno ante el Congreso de Sinaloa",
@@ -7097,6 +8134,20 @@
   ],
   "local": true,
   "id": "a228920954b7a649"
+ },
+ {
+  "titulo": "El legado eterno de Cristiano Ronaldo: los 9 récords históricos que deja en la selección de Portugal",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU5Gbno5aWFmQnV1MmxuUFpOX2FZTlEyQnRKekxKYmVnTjhzVzRiTXZJZUt4ZUVJQUFyb0JFQkc3aTZxQkJ6el8xNHM4cGV0cnF6cGpwRW0zYXpveVJ2bUh2dU9ucGFJLUw2YXdmODJLUHczZmZBcmV2N1BnVFpPN0FXZW1ZeE9LbHdGTkw0M1prVnViU0dPTVMzcUNGZlZTVW1YeXNEb2hsdnNocVE3Y2J2cDJIX3EwLTYxRm8xbXlZTEdiNHVtN3g4b1ZxOThqbzdXX19EM18wZTRS?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-05T09:26:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T16:50:01-06:00",
+  "resumen": "El legado eterno de Cristiano Ronaldo: los 9 récords históricos que deja en la selección de Portugal Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "33e7990df3ed90fd"
  },
  {
   "titulo": "Ferias del libro fortalecen la cultura y acercan la lectura a Sinaloa: Graciela Domínguez",
