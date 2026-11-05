@@ -1,5 +1,597 @@
 [
  {
+  "titulo": "'Siempre vamos a defender el agua de NL': Estado ante posible trasvase a Tamaulipas",
+  "liga": "https://abcnoticias.mx/local/2026/11/5/siempre-vamos-a-defender-el-agua-de-nl-estado-ante-posible-trasvase-a-tamaulipas-294584.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T11:55:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "d4596462d463e794"
+ },
+ {
+  "titulo": "Debemos respetar decisión de trasvase, dice Estado",
+  "liga": "https://www.elnorte.com/debemos-respetar-decision-de-trasvase-dice-estado/ar3308832",
+  "medio": "El Norte",
+  "publicada": "2026-11-05T11:51:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "El Secretario Miguel Flores asegura que Estado debe esperar y respetar la decisión de la Conagua sobre el trasvase de la Presa El Cuchillo.",
+  "temas": [
+   "Clima",
+   "Agua"
+  ],
+  "local": true,
+  "id": "407e5771a7f4fb67"
+ },
+ {
+  "titulo": "Dictan 74 años de cárcel a mujer por triple homicidio en San Nicolás",
+  "liga": "https://horacero.com.mx/nuevo-leon/triple-homicidio-en-san-nicolas",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-05T11:50:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Una mujer fue sentenciada a 74 años de prisión por su responsabilidad en el homicidio de tres personas y lesiones a dos hombres en San Nicolás de los Garza. The post Dictan 74 años de cárcel a mujer por triple homicidio en San Nicolás appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5c5d241e3b0ecff2"
+ },
+ {
+  "titulo": "Presa León, nueva fuente de abastecimiento de agua en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RYnRGOEZfZ3NNQ2otaDRuSFdNX0ctNmt3b0hNTmxBY3NFNkg3WVRRWkMwX0liOEppRWdNYXZhNlRNLXNLbmpmN3ZYYkN3cXMtUTRPcnpKSXBuaUFBbEQ1c1NGWHZyNFpnZmRLeF9jaTZvUkp3S1E?oc=5",
+  "medio": "Almomento.mx",
+  "publicada": "2026-11-05T11:49:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Presa León, nueva fuente de abastecimiento de agua en Nuevo León Almomento.mx",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "0bde2ff2dc82a52b"
+ },
+ {
+  "titulo": "Agencia de UE vigilará situación ante amenazas de bomba contra vuelos europeos",
+  "liga": "https://horacero.com.mx/internacional/agencia-de-ue-vuelos",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-05T11:49:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Agencia de UE investiga tras registrarse amenazas de bomba contra más de una decena de vuelos de pasajeros en Europa. The post Agencia de UE vigilará situación ante amenazas de bomba contra vuelos europeos appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f616602d67132340"
+ },
+ {
+  "titulo": "¡Golpe al huachicol! Aseguran más de 300 mil litros de hidrocarburo en Montemorelos, NL",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVmlOdkEza3huNXRtRjF6R2Nmak9jZlNmWEkwODBPam03V01SM3pGQTZVX1k5QXBjajBpdHJaZnBkUmc5VktJYXJUaFpHTlJhTE04SkpwQ0dyVUdzdEZ2OTAwcFRFSVRXNE9XZmhxQUJCMnI5Y2RpcWJ2THhkSDhVMzRJU1kxTmdBaFpWQ3Y0U2Fnd2dyRENmSjNkdnFfQUd4Q0dtWG5WRm1CNTljX0hqNGhObnR1Zm1LczBId0RqVWtuQ1BmM2hOQnY2VGJ1NEZjVk5jUVdCalA2MkE?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-05T11:48:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "¡Golpe al huachicol! Aseguran más de 300 mil litros de hidrocarburo en Montemorelos, NL Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "96d412f6b14e91ea"
+ },
+ {
+  "titulo": "Comando armado roba empresa de Ciénega de Flores y somete a guardias",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWZjclVpVjU4VHlzRkp6QzZGWTlYV2Q0a216bGJFYzBRVkhBTmdreUxKcHpkNjhnZnpkdnVnNmtKWF9WVlE1eHFNMzd3YWFyWk90NENPZWlOX0hjYUNIVWdTOTdCYTA5cjZBUDZVM3dZc1RrWlQzT2VneUJldXBjWTdEc3JXWXVWc2VFMEczVkU4NGlPcHZPODVib05KbmN3RXlyb2JTV29vVzFDS01waTRwaktxdU9QaEhLMUo5LTVZVEU?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-05T11:45:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Comando armado roba empresa de Ciénega de Flores y somete a guardias MVS Noticias",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "f8c98b1c75c2a912"
+ },
+ {
+  "titulo": "Hallan a hombre muerto con un impacto de bala dentro de su carnicería en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXBMWXlVQi1mbE0zTVIyTjQtbmlVUTBVckZpOENDQklwZGpuRnhWbUlucmJoM0hneFBBSjZzR2E0TXF5ZlVhdlNXaDB5QjdVcDQyd25IQkxLTGpVbTEwdUtwRGRhQ3NHMkY4X2FGb21Tc1VuaTllMFJmVFdJaEFyVUp5MHZpakRXNkFBel9Id2pQZzJUMkQ4U3hraHfSAZwBQVVfeXFMTWlwTFl5VUItZmxNM01SMk40LW5pVVEwVXJGaThDQ0JJcGRqbkZ4Vm1JbnJiaDNIZ3hQQUo2c0dhNE1xeWZVYXZTV2gweUI3VXA0MnduSEJMS0xqVW0xMHVLcERkYUNzRzJGOF9hRm9tU3NVbmk5ZTBSZlRXSWhBclVKeTB2aWpEVzZBQXpfSHdqUGcyVDJEOFN4a2h3?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T11:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Hallan a hombre muerto con un impacto de bala dentro de su carnicería en Monterrey MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8181ecfac8e74e8b"
+ },
+ {
+  "titulo": "¡Inicia la Feria de la Naranja este viernes 6 de noviembre! ¿Cuánto cuesta entrar y qué habrá?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/inicia-la-feria-de-la-naranja-este-viernes-6-de-noviembre-cuanto-cuesta-entrar-y-que-habra/vl2275479",
+  "medio": "Posta",
+  "publicada": "2026-11-05T11:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "4112714193ce1a51"
+ },
+ {
+  "titulo": "Presidente de Paraguay renunció ante crisis bancaria y un inminente juicio político",
+  "liga": "https://horacero.com.mx/internacional/presidente-de-paraguay-renuncia",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-05T11:43:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Santiago Peña renunció a su cargo como presidente de Paraguay tras el colapso del Ueno Bank y un inminente juicio político en el Congreso. The post Presidente de Paraguay renunció ante crisis bancaria y un inminente juicio político appeared first on Hora Cero Web .",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "7b8b589b45406a12"
+ },
+ {
+  "titulo": "Regios se desvelan y hacen largas filas en plaza comercial por videojuego The Legend of Zelda",
+  "liga": "https://abcnoticias.mx/tendencia/2026/11/5/regios-se-desvelan-y-hacen-largas-filas-en-plaza-comercial-por-videojuego-the-legend-of-zelda-294582.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T11:41:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "65d2ba712cf3b885"
+ },
+ {
+  "titulo": "LaLiga detendrá partidos en el minuto 9 para rendir homenaje a Jesús de Miguel",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/5/laliga-detendra-partidos-en-el-minuto-9-para-rendir-homenaje-a-jesus-de-miguel-294581.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T11:38:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "c2ee79ba2b8051fd"
+ },
+ {
+  "titulo": "Cateos en Valle Soleado dejan cuatro detenidos; los investigan también por homicidio",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3Y3dWkxcFUyOVVscG1Uc3o0dG9BQVdIZGpqVktza1hNWHhvWXNoRmZ5WHVmY3owY0VnQXBPNHRRbXl0MkZ1U1JKUXMzNm1ZODFoVFJJbHRuNUlIdTR6cEsyLV9TaVRydHFuU3hzbVFjYWlJQkRoZ1F6TjhYWFdJbFBhUFBMcTN6T1Q2Zm9BUHdlSzhLMzRpV2xvbW01YU02ZUoxRGs3SkVrR213UTFaczBTamFNXy1uMTFwYUlKeGE4WmpPYWJJWm0ybDZZamVoV2JPbnlTTQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-05T11:38:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Cateos en Valle Soleado dejan cuatro detenidos; los investigan también por homicidio MVS Noticias",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "64a4791ac8511812"
+ },
+ {
+  "titulo": "Lady Gaga y Shakira, nominadas al Salón de la Fama",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1JGQWpnWl8tc1ZaMGZUSjFiTUNRSTlGbGNoRWtGUFFjMzNyeXZCSjAwRzVRYmw2YXdodXloeW93SF8xMS1mZE1VZms0MzdYSkd4NHNTcDBuQ21qakYzX29uWjh2V2prMGk0bWhxZmFfTkdnY0dwWFZ1emJkbFdkYy0xTmlxSEY2US1rZllCRVNTUEpTUmhXQ2F3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T11:32:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Lady Gaga y Shakira, nominadas al Salón de la Fama El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "71e9a1a890bb0086"
+ },
+ {
+  "titulo": "Zelensky pide ayuda a México para restablecer energía en Ucrania",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0l5ME1IQjFGOU5JOGRrajZkUEN2bTRBRGU3YjJvbFNUWjM2WkVXNzhHdU03UkljUDJlczZtR1ZYQWRuZTRSc1N1bTdUOFI2WWo5T3hRX2wtT3ZaZ2dsSE1XbzJIYUN3ZjA4SW5kV3NoXzRRbjZwSzFRY3pHd0V6NXBFQTBUSzZRcGNDZmw1dHlKZHdXOXYwOU9wc3FhdmpkUEQwZWYzNTRfWjJycVphOWN0NjFwNlU?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T11:32:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Zelensky pide ayuda a México para restablecer energía en Ucrania El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b8fedf300f1cc599"
+ },
+ {
+  "titulo": "¿Te toca cobrarlo? Estas personas recibirán el AGUINALDO en noviembre 2026",
+  "liga": "https://abcnoticias.mx/tendencia/2026/11/5/te-toca-cobrarlo-estas-personas-recibiran-el-aguinaldo-en-noviembre-2026-294579.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T11:27:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "704065edee39011b"
+ },
+ {
+  "titulo": "San Pedro, NL dialoga con vecinos de Olinalá sobre convivencia con osos",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1dVUzdvWDhNSFNNTDJUV1B4dDBxY0pZWjdEdVBzTXFDTHBGYzVldEVTUmhpdEdnRjhYclk3SkpTQmhrLU01WVJjcml1eDUwc0tFNmxtMnFQb0x2T25kQ1RPcXZCOC1YbFRlOUVBcl9jQzJiQ3UwOFA5eTJ2OWRaOTA0ZmFSRE5fZmlhZjgzeUJmbmdmdFlmcUFmcEZrWnQyMTdTSEZEZUQ5MFpjc05OV1Jzc283LURqTWhZU3pfYnhRQzBZSHIyNQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-05T11:25:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "San Pedro, NL dialoga con vecinos de Olinalá sobre convivencia con osos Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0316dddfcadd14ab"
+ },
+ {
+  "titulo": "SEP defiende el restringir celulares en escuelas",
+  "liga": "https://www.elnorte.com/sep-defiende-el-restringir-celulares-en-escuelas/ar3308814",
+  "medio": "El Norte",
+  "publicada": "2026-11-05T11:20:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Durante un evento de Educación Inicial en NL, Mario Delgado, Secretario de Educación, defiende restringir el uso de celulares en escuelas.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": true,
+  "id": "4dad64c60d6c2581"
+ },
+ {
+  "titulo": "Defiende SEP el restringir celulares en escuelas",
+  "liga": "https://www.elnorte.com/defiende-sep-el-restringir-celulares-en-escuelas/ar3308814",
+  "medio": "El Norte",
+  "publicada": "2026-11-05T11:20:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "De visita en NL, titular de SEP defiende restringir celulares en escuelas y dice que uso excesivo de tecnologías impacta desarrollo mental.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "c6577a9ea9c1e9e2"
+ },
+ {
+  "titulo": "Karol G en Monterrey: Todo lo que debes saber sobre su concierto",
+  "liga": "https://abcnoticias.mx/show/2026/11/5/karol-g-en-monterrey-todo-lo-que-debes-saber-sobre-su-concierto-294574.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T11:19:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "735d891880eb9cb2"
+ },
+ {
+  "titulo": "Denuncian abuso animal: mantenían a oso mutilado y amarrado",
+  "liga": "https://horacero.com.mx/nacional/abuso-animal-oso-piedras-negras",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-05T11:16:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Autoridades ambientales aseguraron un oso que permanecía amarrado y mutilado en un domicilio de Piedras Negras, Coahuila. The post Denuncian abuso animal: mantenían a oso mutilado y amarrado appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6a0b5526ec2680ed"
+ },
+ {
+  "titulo": "Danza Folklórica de la UANL alista celebración por su aniversario número 16",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZS1fWkZBQWdtaVNKTm11MUhKR2d2MmNWa1IxWUtya3lzdjRxajUyb0pSNXRpR2RYTjVmdGhQY3RreW5QOGl3cUhvRFJvT0tteXlYUlhIbFprTEwxZlBwemQ2QWthVDUyZHRIaW4wQkk2UzBsazlwdnFVUWZSVTVxcUp0VU9ibEljRWd3QW9pV3VfeDMxZXZwTTRJc0ZBUXJPZTdTSEFtLWhOYU04VEpwcnVDWHJnc0lMRXNoTnFPcTNvcFZtRzdQZEF4Vndlazg?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-05T11:15:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Danza Folklórica de la UANL alista celebración por su aniversario número 16 Reporte Indigo",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "de0e1b4fa1d94edb"
+ },
+ {
+  "titulo": "Leviatán: es política, no dramaturgia",
+  "liga": "https://abcnoticias.mx/opinion/2026/11/5/leviatan-es-politica-no-dramaturgia-294580.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T11:12:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "716a5090c48a5460"
+ },
+ {
+  "titulo": "Transporte público gratuito e ilimitado para beneficiarias de \"Ayudamos a las Mujeres\" en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSTkwUUlfMFNsRWNsbTFTdDNCc3ZGbnZoYXlQOEwwTk5IZmFYOGFPOHRtY1BzeEU4NHhQWGl0NzNTV2dTODJCQjJ0NVVUYVFwNkwzeS1lTWhTdTFyWmFSTFZhUWdVdzl0SmFrUEFZdllYdDBKeUdNQVpsS2xrTGhGS3dqc3Z2ZHd0Q2lBZ1I1WklzbjVyb0N4TGZFTEF3Vl9RSUV3aEU1Y0hXQkFFYmRxRjdoQzJOZ0JvNzl4Skt2Q2JyQTdNYzR2Mg?oc=5",
+  "medio": "UnoTV",
+  "publicada": "2026-11-05T11:08:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Transporte público gratuito e ilimitado para beneficiarias de \"Ayudamos a las Mujeres\" en Nuevo León UnoTV",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "569ead0302b8a8b8"
+ },
+ {
+  "titulo": "Despiden personalidades del futbol a Miguel de Jesús en funeral",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdVBLZHpia0RZR0hyTGNCbG1kMktndUxJT3ZxNnMyTUlUcjFrdURjaDVVaHJpb0xRSDJna2JfUGtDX2t5LU11dE12Sm1aQUdYNUo4SEhQeFBVeS1qcklacEJ3MzZNNjNSZVZFSThFeEJkNTVFQ0U4UDBjSFpkdE4yQkRCanFXOFJxUExMeHIyLS1mUE5QNWk5VHFwbll6bHNPaUE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-05T11:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Despiden personalidades del futbol a Miguel de Jesús en funeral INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "80dd44c33da0a35a"
+ },
+ {
+  "titulo": "Despiden personalidades del futbol a Jesús de Miguel en funeral",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX181Q19aQ2c0b01LbDZ1MmJCWGNUZC04U3lxdmhOWlVFRGk3bEJxQkkyWHNrbEJ6ZmIyRjJtUjFQRWxvaHI0RjVsQ25QZXRPeEhwRXFpYXJQTEhDTTdkRDhqSkZKVUtjaVFEWDc4bEFIbjJBakhuYlpkRGNsN1ZHZXllaDVQcmt5OEpxMjJ0T1lkcG5yUXdZYVdNT0tCeFNkVmc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-05T11:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Despiden personalidades del futbol a Jesús de Miguel en funeral INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "f5dabfff22360625"
+ },
+ {
+  "titulo": "La problemática del agua en Tamaulipas y los desacuerdos con Nuevo León; la consideración de revisar el tratad",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUERPQ19sTjEtYkh3US04OWJ5SmpEZlB2cGg4STBhNWcweTV6NmZYSU1Dc29nTkY0X3lIX19PZno2Z2xoU0tuV0tldlYtWW5VenZkbW9VSVBnczMyMGRKQWFmUy1XM251Mm5SOVAtX0lsUV85TldRMnRndDZabTRtNHNaQTFNRXdURkhsUGl2aWJWTWZqR29EWkwtVFZkMTl3ZzF30gGjAUFVX3lxTE9NUFVabGZEd05lUGwtVlB3VThqZUQ3Zmo2QVJzdC0xMFQ1b3V3U1dZU01rRUtNQ0xvbTdaQkxOdTZYUER4UTNHTENVUFRDRzk1OTg0cUVzcWI2elRucjM3MldKTTN4NWkwMjJuWFY0MWZqXzF0dExFVzlhZzlhSl81YkdVcERXVi1lLVB0RFh3TEFndXlXeUdJMkFGTVdGLU13czA?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-05T11:07:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "La problemática del agua en Tamaulipas y los desacuerdos con Nuevo León; la consideración de revisar el tratad Milenio",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "94b943a62af96316"
+ },
+ {
+  "titulo": "Sasha Sokol rechaza disculpa de Luis de Llano",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVFA0SVFEZE5idGo0Z0JERTZzUUNnQ2NoWlVYSWQ4OGF6dnZSMGk2U0NsVjlTeWJBN2xUbkZvbjRtS3pTRTdRZmJnVnNRank2UDF0RXNBd2xvZ0lJdVNLTXhqM0dGVXNtb3dwcDRieFlzTmxqM1FLQ1gzWklSTDc3bnFSRGEzSm1nYVlqMm82bEdGc3pr?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T11:07:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Sasha Sokol rechaza disculpa de Luis de Llano El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fd21d8426144bc87"
+ },
+ {
+  "titulo": "Gobierno federal no sancionará presunto desvío millonario de Samuel García: Sheinbaum",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDk3TFVhbTdOZTc2OE5PUTBoSks5R2NMSlV3ckNza09kc05nRUtwdDZhVFgxOThfaU1WQ0dxLXRFWlFZWkd0V01RanhCU3c3SGRiS21ub2hDZ1hpdXppbWhqYjNqalhCV2ZJMjh3WGh2Wm8yb0JpejZnOGtjTjZPNVU5amdYRlA4aGE1QmZ4MHBfU2tKQlRndm1JZzN4aW1adXBxdUllXzRydWpiRVZGQ050TFVYZw?oc=5",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-05T11:04:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Gobierno federal no sancionará presunto desvío millonario de Samuel García: Sheinbaum Ríodoce",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cb2d514952b7ffc8"
+ },
+ {
+  "titulo": "Juan José Cerón",
+  "liga": "https://horacero.com.mx/columnas/juan-jose-ceron",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-05T11:03:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Contar el periplo de mi carrera dentro del periodismo estaría incompleto, si no dedicara un capítulo entero al fotoperiodista Juan José Cerón. The post Juan José Cerón appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "120b47e6d67ca493"
+ },
+ {
+  "titulo": "Se acerca frente frío 4 a Nuevo León; prevén lluvias y temperaturas de 13°C",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ05wY2JGTm83ZXBCR1JzWXgyNkU4NS1rUzBta1RRYW5tSVEwNWMxcDdZcHlMYzlzYUZSN0xZNzBzcE5QZkhWTWwyYWRFLW5RMl95T3A4VVdtMldEYXMyajdRa0JvdUx2S2pmbUlMWTVVT1p2THZfUFR3ekdRNjltRUU1bjdObXRoMFZCSENNRUtSaHN1bnY0RzBIMUdMcDlYeUNhTzZRN0JxMlFoV0FXV2c2alpFUllWQTNDWDlEdjQzUQ?oc=5",
+  "medio": "Quadratín Nuevo León",
+  "publicada": "2026-11-05T11:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Se acerca frente frío 4 a Nuevo León; prevén lluvias y temperaturas de 13°C Quadratín Nuevo León",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "b85def4ac934167e"
+ },
+ {
+  "titulo": "CR7 recibe mensajes del Balón de Oro, Al Nassr y sus excompañeros tras su retiro de Portugal",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/5/cr7-recibe-mensajes-del-balon-de-oro-al-nassr-y-sus-excompaneros-tras-su-retiro-de-portugal-294576.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T11:00:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "a90d64a3de2b8816"
+ },
+ {
+  "titulo": "Joy Huerta logra sold out en el Auditorio Nacional; Jesse recibe críticas por su nueva música",
+  "liga": "https://abcnoticias.mx/show/2026/11/5/joy-huerta-logra-sold-out-en-el-auditorio-nacional-jesse-recibe-criticas-por-su-nueva-musica-294577.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T10:58:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "0792d841a6211d2e"
+ },
+ {
+  "titulo": "¿Qué estudió Santiago Peña? Grado de estudios y trayectoria del presidente de Paraguay que HOY renunció tras c",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTY0WWZZbk1CRmU0b0pfZUhGMmRHZUZBQWV6bEl2QzI1b2pWUkxROUdGVnZGUGFFY2NtWk5JZ0EtdmI2U2ctRkJFaUtudTlfQ1JhOHpady13dGMxNm9aT0ZuNEZXaWxYQU9XYjdER1NQRWZDanltMXpoaEg1Mi1xTVN3aUlsUjRHX1hZZi1rTVFhYzlzMUVZemxQWdIBmwFBVV95cUxQOTY0WWZZbk1CRmU0b0pfZUhGMmRHZUZBQWV6bEl2QzI1b2pWUkxROUdGVnZGUGFFY2NtWk5JZ0EtdmI2U2ctRkJFaUtudTlfQ1JhOHpady13dGMxNm9aT0ZuNEZXaWxYQU9XYjdER1NQRWZDanltMXpoaEg1Mi1xTVN3aUlsUjRHX1hZZi1rTVFhYzlzMUVZemxQWQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T10:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "¿Qué estudió Santiago Peña? Grado de estudios y trayectoria del presidente de Paraguay que HOY renunció tras c Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "aab6ad8e2d089aa2"
+ },
+ {
+  "titulo": "Motociclista Muere al Derrapar en Carretera a Saltillo en Santa Catarina, NL",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmhDNHlXTWVEYkt3TDBobUxrZ2VsLUQweFp3OXVzWlViM2l1V012Y29NUFVJd0hka0VhRTROV0ZWd09DTDZ1c3h2STVOeHIzN0NmMG9GOVdtMXJ5NUtBRmVYbDg4cnFPT2hoZ0hhTTRvY2JudEg0MEo0NUFZWkZFQzFWcEdQWWxmN09ma1lsQmw1QXBzS0lQWl9zcHQtLVZfREhrcXl0T2prUzRrRUk0Z2xFUEVIU2RRMkFwME9GYnM5MlZ4dndWODFiSGc?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-05T10:56:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Motociclista Muere al Derrapar en Carretera a Saltillo en Santa Catarina, NL N+",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "c24b217290e34bad"
+ },
+ {
+  "titulo": "Regresa el Buen Fin de Fomerrey con descuentos y facilidades",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWVNU21hRE9KU2JucHU5R0NBYWo5SG9zQUNxLWFiR0VJV3UwLXMxay0wT2w5RTZnMURTbkdyY0lsWDRUM2I3MjVIYjlQVFdrbUhINUZNeWpfdnhuQVZMempXZ3FFZ2hfYWNORnpldU5RNGM3WWJtUTR1cUxwMXNVUHk3b21hU2F4R1UwTlduNmhNMEp3MGJ0czNJUDFYNG5Ra0tFZW82WG1GY0Jk?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T10:52:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Regresa el Buen Fin de Fomerrey con descuentos y facilidades El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "223a211d5818fa37"
+ },
+ {
+  "titulo": "Pierde a su bebé tras agresión de su expareja en Piedras Negras",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2w0dXdFaFRITTlsaXgzeFBEaG16aG5wT2RwLXl5Y0RfUTBrZnR2WVRqSDJTcEhZZWNpR0hGRXd3Y0JqU0pIZ3gxeklSNldSb05aRHRjSWhXY05nbUh2OC1yWTNkQmYya0Q3aTRuM0ltbkQxUXlUUi1fNkUzRklmRDVhUEdpWXFRVEhzcE4wVms3b0NJdFp6S2hDc2hGZGlka1E?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-05T10:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Pierde a su bebé tras agresión de su expareja en Piedras Negras INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "db6577d7062f2ac2"
+ },
+ {
+  "titulo": "Renuncia Santiago Peña como presidente de Paraguay por crisis bancaria",
+  "liga": "https://abcnoticias.mx/global/2026/11/5/renuncia-santiago-pena-como-presidente-de-paraguay-por-crisis-bancaria-294578.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T10:50:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2766622be228680e"
+ },
+ {
+  "titulo": "Yuri llega a Monterrey con Icónica Recargado: ¿a qué hora llegar y qué canciones podría cantar?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/yuri-llega-a-monterrey-con-iconica-recargado-a-que-hora-llegar-y-que-canciones-podria-cantar/vl2275441",
+  "medio": "Posta",
+  "publicada": "2026-11-05T10:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e3a5b644dbe9fc98"
+ },
+ {
+  "titulo": "Dean Norris se divorcia en medio de crisis financiera",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnByZUxhcndHUEVydnItd2Z6S2UwTWo4Xzd1WncwYUROTWpaSFlVRmYtd3FocFJsbk13YTVqV1dOUnNfZndNbUQzc0dRV2xwcEFVaEM3WWR0QVBKbmI1YnMtT2c2dDZQcVczS3NvZTNTeDFLbmFhT21FZEhlamZrY2tSR1lMOE1vbVctUnl6cTdPR18zU01pVkRJZGxJWkE?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T10:47:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Dean Norris se divorcia en medio de crisis financiera El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1c917d7dcf7ec0dd"
+ },
+ {
+  "titulo": "¿Tienes que hacer una mochila de vida para tu mascota? Los 8 básicos que no pueden faltar",
+  "liga": "https://abcnoticias.mx/tendencia/2026/11/5/tienes-que-hacer-una-mochila-de-vida-para-tu-mascota-los-8-basicos-que-no-pueden-faltar-294564.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T10:46:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6122276f2cd8b149"
+ },
+ {
+  "titulo": "Del CISEN a ‘corromper’ el INE: Así los hermanos Hernández Casilla, enlace de Taddei, recibieron millones",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSHhUWGJacDB1aVJlMmlfV3drUVBQN3B5Z1lwOEkxUHJNbTlyaHVXV1BkRXhFOFQxNndtUHJfMldnR2ZOeC1vWHc2dm1fV1hFUmIzTVBvUlJEUGRsRk95QnpiNlRNQXlZNzRwWVBTeDV3YURuNDYyZFRHY29yRE95V25UWkpLbFZqcVQydmRRVzRvOVdHa2JkeTVoeUJVMHE2cTFOZjlYcFRCWlR4QWpsZ2hkVkRhVG84dVk4bXMzbk9OUmM1Ulo5SndHMkt0X3VhR1hmWXpzWVpoSC13ZmhXX1pZYWZObFJ6?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-05T10:44:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Del CISEN a ‘corromper’ el INE: Así los hermanos Hernández Casilla, enlace de Taddei, recibieron millones El Financiero",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "8e3b2fa39d383573"
+ },
+ {
   "titulo": "Feministas de Monterrey denuncian a influencer Kalel Reyna por polémicos videos",
   "liga": "https://abcnoticias.mx/local/2026/11/5/feministas-de-monterrey-denuncian-a-influencer-kalel-reyna-por-polemicos-videos-294575.html",
   "medio": "ABC Noticias",
@@ -28,6 +620,20 @@
   "id": "62ceb1666f52fda5"
  },
  {
+  "titulo": "Detienen en Edomex a objetivo prioritario por secuestro en Hidalgo",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTBYWnM0d1lrWWVocUNIemdPQ25NeHVrZU9pYk1tbk16eWYzVHhnc2FRcnFjSXpMVkpNdUFDc19FV2R1b3FuRXFLRnc1RFlXRnQ2ZkVZeGZPdVZKMEdkX0ZCMXIxZnV0Nl9NXzdmbjNYaTBmWVhsQUQ4Z0lqV3VUby1uZDJCNzMxRlAtcmVhVS00bmJmZEphTVR1VndKUdIBngFBVV95cUxQRTBYWnM0d1lrWWVocUNIemdPQ25NeHVrZU9pYk1tbk16eWYzVHhnc2FRcnFjSXpMVkpNdUFDc19FV2R1b3FuRXFLRnc1RFlXRnQ2ZkVZeGZPdVZKMEdkX0ZCMXIxZnV0Nl9NXzdmbjNYaTBmWVhsQUQ4Z0lqV3VUby1uZDJCNzMxRlAtcmVhVS00bmJmZEphTVR1VndKUQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T10:37:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Detienen en Edomex a objetivo prioritario por secuestro en Hidalgo Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "74f2dbb980f99dae"
+ },
+ {
   "titulo": "Choque múltiple en la Carretera Nacional deja dos heridos graves en Santiago",
   "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjcyNWF1MU1zaHFORmpSQlVzMXhhMUtCa2UwbmNsd1RrWW1IVVlWcHQyekM4WUZWUldhLURTSHpaNVg1WG93TGZvcTVHbXhnVHRMOHVwSG91WkphWVJOYjNWMncydk9KQno2Y1dSc2U4R0FsUzZEU1NpaWFNTER6d2tQNFBqVUNuQUFlaUI2ZjNkUUR5UGJSRnkwODNkd193UHhrZ2hjNVhVdHItZUFEcnc3dG93YWtYRkdwb3hzSHl5YXBUZ2N1WlRWdUxtQQ?oc=5",
   "medio": "MVS Noticias",
@@ -41,6 +647,20 @@
   ],
   "local": false,
   "id": "bbc34018aa227afd"
+ },
+ {
+  "titulo": "Cae juez por soborno de narco ligado a ex atleta canadiense",
+  "liga": "https://www.elnorte.com/cae-juez-por-soborno-de-narco-ligado-a-ex-atleta-canadiense/ar3308785",
+  "medio": "El Norte",
+  "publicada": "2026-11-05T10:35:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Juez mexicano acusado de recibir 2 mdd para liberar a narcotraficante ligado a Ryan Wedding es detenido en Colombia; pide EU extradición.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "28228bbec9d8c678"
  },
  {
   "titulo": "Muere policía de Monclova tras caer de una patrulla durante operativo",
@@ -97,6 +717,34 @@
   ],
   "local": true,
   "id": "8caa6a93f106c4eb"
+ },
+ {
+  "titulo": "Clima en Nuevo León: Nuevo Frente Frío Ingresará con Probabilidad de Lluvia",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUhMd1p6XzlIbFQtSVRzdU9DYUpjRDA3bnQtdUUyQkYwc3BhVzFFVExSZHNsRG53TzUxRHQ1Z0U1ZGR6ZDdGcVNvbUdMYks4TUUzMC16eDFES1k1dVZPMEVxVS1WLVp6T0VNUGZYcjcxVXJySVlpVkl6TTRXUnhYaTN6NVJvVTRESk0wekp2dEJIX2RxTkVzdU1XVVpoUVdhbWJmODhLeHdIUDVJYnRIVXZMb2ZKX3NEeGI4MnBMVkh1eXdjWWFDSlU1aG13dkVGdkE?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-05T10:31:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Clima en Nuevo León: Nuevo Frente Frío Ingresará con Probabilidad de Lluvia N+",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "4671907b683903c5"
+ },
+ {
+  "titulo": "Macarena García enfrenta críticas por doblaje en Wildwood",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlU0b0JkMjhVRWpkVENHbkFXbFc5UmpVTWV2aGhBUWNkYkMxcTVhX1Z6TTdma3JDVXpZMzhET1Bta25rT05oUVhNZ2MxM01FMUF0dFJOQXFlY0VWU3ppMFhiOW1yekdQdzBYeEM3QVEzem0tQUVkYVR2VHhoV0VOV0l1STl2MUh3a2hyamxxLW12LVpoNG9ZTGhRNHhnbjBrMlRWeA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T10:30:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Macarena García enfrenta críticas por doblaje en Wildwood El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f1bcf3179ba47dbe"
  },
  {
   "titulo": "Gestoras del PRI en Saltillo acusan exclusión del Rodeo Saltillo",
@@ -238,6 +886,20 @@
   ],
   "local": false,
   "id": "73f202c1e2b83c30"
+ },
+ {
+  "titulo": "Asocia Sheinbaum redadas del ICE con pérdida del voto latino",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWNsdXBickJmYmFENmRMQmJhMjFDTVBPOTNhYVdzdk1WRGtZcmZRY2IxUFI1cnFvMmhmT0lOd3FJc2QwNkFOTDRQckNvLUVHdFJKRFBvb1ctaTIybE52WXZVTFdlSGF3UG9mZ0RpZ2JsaFhpcTVxS3JkU05Xb3FaNm1RN0NjdWRNbk44N3NxV0F1cWdmLWMxdFFvWnV3Zw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-05T10:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Asocia Sheinbaum redadas del ICE con pérdida del voto latino INFO7",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "16a26e3c0721be48"
  },
  {
   "titulo": "Clima en Nuevo Cielo nublado y hasta 22°C el viernes 6 de noviembre",
@@ -859,6 +1521,20 @@
   "id": "2546d54dba6bef7d"
  },
  {
+  "titulo": "Detienen a cuatro personas en cateos simultáneos en Guadalupe",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzN1QmtRWmVpRHhqU1dBTnRYUXgyY3VHQU04Qno5U3I0QzV1OUFBXzlBZElRT29MVkhiM2twZ29qVnJweVpZSTBrSWw5bmdoM0NXUEF1Mm1iN0xILTJfYkMxTTBTUjdRQjloZnc2VjN3R2Rrd3ZRTXJEOXhiSmpHQ0pDdGZ1c3pkazdFcVdFUVN4ZHFCMjRoRVVHZzUxNkhl?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-05T09:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Detienen a cuatro personas en cateos simultáneos en Guadalupe INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "9718548ea5984240"
+ },
+ {
   "titulo": "Wall Street abre mixto ante empresas que impulsan a la IA",
   "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1NwUnRGZ0staXo3d2hXQjZRUk1fTEU1TFk2SzJHRTNjVk94d18yOTRlcUpwZU00clkyMFpfZ3R3Yk1jbHNoWHQyb3JkNmtjcjJPRFBORkNVQjdUdHU5NzFhckZqSTNuTzlzS1Qtc0dDVEdwTHlWMG5jdml5U29iMk0zTUJIZGRmdTN2c3A0WjQ2MEtITl92S3ZPeDRNVTR3NHUzblJqWQ?oc=5",
   "medio": "El Horizonte",
@@ -987,6 +1663,20 @@
   "id": "e71361b682763af7"
  },
  {
+  "titulo": "Buen Fin 2026: cómo evitar fraudes y proteger tu dinero",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnc5WlRZazdYMnNwb2dreFJzZVFYOFFBc2UtSFl1aTkySGlsNmxaa0FlRWpGRm82MjB4Ry0wblptQjdRRlVMY1NaUmtwcW5RcnNWb0lkWEZDTmE2MTV4emIxR1VKUWhzQk5kaThiS3MtWWJhMVFNdlF3NHNnT3d4b3E2NWI4cm5zWG96Wm91WjZXN19aYXFFMkZETk5hRU4xTnpjb2ZDWFFyZHZXUzIwNw?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-05T09:15:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Buen Fin 2026: cómo evitar fraudes y proteger tu dinero MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c6c7a395f24d1123"
+ },
+ {
   "titulo": "A NL le urge justicia y transparencia",
   "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByUWhnZ1JZb3Qxd181RUVXUzlWSTNDUWRvbW51QWVuYnBFV1p2N3pDLVAtZnd1dXVvcXJRT3REQXZzVHVyUXUyQUkySHcwd0dWUHpidEdFOWE0UVR5NEtMdjdrbXdjZGtpWHpwY3Jn?oc=5",
   "medio": "El Heraldo de Aguascalientes",
@@ -999,6 +1689,34 @@
   ],
   "local": false,
   "id": "6b7829dab2a4730f"
+ },
+ {
+  "titulo": "Amenazas de bomba paralizan vuelos en Europa: Aviones reciben escoltas, cambian de ruta y aterrizan antes",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbWRTMW5EZTFjWXRNNk9md3BBeW5adWdLOVlUak9vay10emlXWjNtV2hJUklLWnhjN0NLaG51bWJjQXA3WmdBZGp4eGZmRGJLWl8waF9GNC1rVGNiVzY1SjJ3dFNnSEpOTTVsN0liQTR2bDg5RjdzUWxLQ0U1VFlWZi1WU1RUZ3d1VGpKNjgwaURGN3g4Q3ZqLUR1ODdiQ1RLOWI2RlpITUx3T01RVWZnU25yekdGMXVvNkJXX0UwRTM4NURkeXAzSGVuT3gzU2R0aDJkbzJTbC04T3hMQnphNEZLa3lVdzd3?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-05T09:14:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Amenazas de bomba paralizan vuelos en Europa: Aviones reciben escoltas, cambian de ruta y aterrizan antes El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8066db4552ce98b1"
+ },
+ {
+  "titulo": "Suprema Corte perfila blindaje a Samuel García para impedir que el Congreso de Nuevo León lo destituya mediante juicio político, mientras enfrenta una nueva denuncia ante la FGR por presunto peculado y enriquecimiento ilícito",
+  "liga": "https://news.google.com/rss/articles/CBMihgNBVV95cUxONGM5Zl9sWjQ2QTJDSmt0LUxZbVo4T1dmdXBEeS1KLXdrUTZpQmVrRXFjS2s3VWJVWmVQS3piSGU5NUVvZzhjcmc3TmZMMXotNGFURWZ1eU12NFRkR1ZSMGJYUmt6d2QwRDd4U1lBbXprakxnRVBZTE1HVWVic25qT0xIeE1XUlBIWUVvUU5Fb3k1TXphLVhaeU1VUm1aSTF1X1htZ2VDMEZWQkJGYVhhYTFmT1BjV3A4RlFDbDdTcUZ2ZjJpamJ4bjZQeUlJQlZqbjFXb2NTaTA2VTFxd0dPc0taZTJGRXF5U2tUYmg5MDJlbTNlS094RG5wdDMwWi1FM3BDZ0RlN193b1VyYXc3QUtBMGpmd1dHTTRKNGYwcjQwNVVGeVBDRTJXYk05dFM3cGpMT081YmhIbXNQbUtQSE5hNllGaEJVSTdwSUtuQzU1YjhCQzJJWjZ6U25pbmN3V283RXVkR2Rja29mZnluNkI5SFFvZTdWdVVRN0xXTUEzemZoQWfSAaADQVVfeXFMTVpoLUpiZzhjNTdGQm84T3ZwSnBrbW54bGdhODlwckZUNlV6cDVMc3ZrcVFUVUM5SEJvaGg0UnpSNlM2Q0pLRktCdHVOcFRkeFY2VnBLSjlHekVPNENxMnJLRjRkU1JrOW1TMk9RQ1M5MEMzMTRqSGE1TVlZblNXRHowdGxoQlJZTFE0a3BSdkJPTXI1R085dHh5THRzWEpPT0UzU1ZiUy1uSDlZY1dtR1MwUUdabV9mdzhZU2xlbE50NkdBUmhIUG9OREJmQmR5RS1hRENwbkk3WEtPYmdCX0dvbHZBN1VzejdVN0U4V0J3LTJfb2RMMWR4eFJwZ0hjZ0tBNm5fZ0hyM3BVUlh6akxGVVE1MXdieGdMNmJvNFNNdTRYaGRyWlpSdEFsME11SXhRNnJheGY0cGI2VjhqVHRjN3BYZC1xX3kxMndkTmNXNWI0UGZVRXZpdEVFV3F1MU12TkpJYVBHMmRENW5odXpCRnBDcUdST2ZOOW5kaXRncENFVHFWWjFxbk9XLXE1a1JlSGRNV29aSi0wYTVXVUQ?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-05T09:12:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Suprema Corte perfila blindaje a Samuel García para impedir que el Congreso de Nuevo León lo destituya mediante juicio político, mientras enfrenta una nueva denuncia ante la FGR por presunto peculado y enriquecimiento ilícito El Imparcial",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "4e76afdee0358a71"
  },
  {
   "titulo": "Taylor Swift tendrá documental de conciertos cancelados en Viena",
@@ -1299,6 +2017,21 @@
   "id": "612cfdc84eddc20d"
  },
  {
+  "titulo": "Declaran culpable a Russell Brand de violación y agresión",
+  "liga": "https://www.elnorte.com/declaran-culpable-a-russell-brand-de-violacion-y-agresion/ar3308693",
+  "medio": "El Norte",
+  "publicada": "2026-11-05T08:51:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "El actor Russell Brand es declarado culpable de violación y 3 agresiones sexuales contra 4 mujeres; recibirá su sentencia el próximo lunes.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "eceaf62ebedcc2ec"
+ },
+ {
   "titulo": "Caribe mexicano cierra con récord de 156 mil toneladas de sargazo",
   "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1RRXlBNm9KMDlEUzdBbjNwLWdUSEJ1ekwxTmJFTzVFUjBrcDJFWGtyRmZWczc4bEV1OGpRTGhMYjNIc2dwcHFSYW1xYWI4emQ1ZVpTeE1VMXExMnRxS3BlMndkY1o2MW1VTThGaU1FWWg1RG1zaHpURFB0TDRERmdLQnlzUnRIb0RFVjNrS1pUODdjVE13NjZjMGxpNnQwSXN1Z0M5UkQ3d2Y2UUREbXd3?oc=5",
   "medio": "El Horizonte",
@@ -1381,6 +2114,20 @@
   ],
   "local": false,
   "id": "4666a99e6a327eef"
+ },
+ {
+  "titulo": "Cristiano Ronaldo se despide de Portugal: así se reparten sus 146 goles y sus asistencias",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ2JEUUZ6TXowaDhXb25iS3FlM0lBSmY1ZWZFVURkZVFnNVVmWHdZdmZTRGVoS3JuZ1ZlclJTZGpxODlpY0ZkR3lINTV2R0I0dDJ6elJmMEdMdW5BcnNPb1d5THRQZXEzOElRMlBDbHdOSVcxek5Vc0JCX19GaGZHOXVaV0RsUWZsRloxUE1JcE10NWI4QVNTWXl6azRBLXBFRXZadGpuYVpDVllBa3pHWEVUcWRvN1RJSURubmhUNGtETkZaZTlVLUhPZjBWLW1VNVJiVjUybkluZVlSTVlv?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-05T08:45:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Cristiano Ronaldo se despide de Portugal: así se reparten sus 146 goles y sus asistencias Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d70ad34c186c78bb"
  },
  {
   "titulo": "Fuerte accidente múltiple deja 2 lesionados en la Carretera Nacional en Santiago, Nuevo León",
@@ -1525,6 +2272,20 @@
   "id": "a7b7eb0ced251526"
  },
  {
+  "titulo": "Rusia y Ucrania lanzan bombardeos durante negociaciones de paz",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlpwSnB3cFhTTDk0SjYwWWJvWEFsdW9IX3d5Qk8zRThsT3h1cVR2TVgyREVISlB0U0VWNEotY2ZudFJYMDh0RTVmZE5rN0ZtMzJacDh5clV1LVdfV0p2ZmM0Q0ZTRGttc0dYY1AxMzFVak8zeFdSRXJTZWMwd3Y3SG1INGVqeERSVXBFZllFVVlRYXRHcFEyLXFrOUo5Yk9CMlROVDk4RG1nM0ZXQTFZOHZrWjY?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T08:35:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Rusia y Ucrania lanzan bombardeos durante negociaciones de paz El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d5628bbbf521f638"
+ },
+ {
   "titulo": "Carlos Alcaraz avanza como favorito en el Masters 1,000 de París",
   "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnplY0xuRGFmY2t3UEJZcnR3NFhWSUhTLVhqM0tXaTlZT0ZVMHhnU2dBZ0E3bC1QWUFlOTZOT3h0NG8yal9JaWtrc1ppZldpaFprQmd6SVdCZzN0SHJhVGdrTUlXd0JpcERfcjY4WVpBVmVVN1ZKUTI5aThkeDU4S3ZTVFdOVEdHUlRwc1M0ZGpzNFNyNXEtcHhFWElUNVNSV2RBal9fSUN1eDFkbDd2eQ?oc=5",
   "medio": "El Horizonte",
@@ -1552,6 +2313,21 @@
   ],
   "local": true,
   "id": "895d0d4e36eb30f6"
+ },
+ {
+  "titulo": "Detienen a presunto montachoques en Monterrey; exigía 5 mil pesos tras provocar accidente",
+  "liga": "https://www.posta.com.mx/nuevo-leon/detienen-a-presunto-montachoques-en-monterrey-exigia-5-mil-pesos-tras-provocar-accidente/vl2275396",
+  "medio": "Posta",
+  "publicada": "2026-11-05T08:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "db4324b2a72bd6cd"
  },
  {
   "titulo": "Más amenazas de bomba afectan al menos 25 vuelos en Europa",
@@ -2402,6 +3178,20 @@
   "id": "67809d9a81b72980"
  },
  {
+  "titulo": "GrupoVx",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmF2Y1NPTC1obDVUbURXNWRhWEl6VDZmTk5GY01yX3NyNUxfc3hqdVZpckkxa0x5eXlicFJkNXl2OUk4M0lkX3cxV0FINWpKWUNWMkRNTUgzUnVQbmFjajRFLUF2WkVDcTFTWlJBMS02WnZ6M0JjOFB5OERzeEw5Tmo2UnZER0ZyYTdxZ0hqTjgyNmpSMGk0YWxVMlMxcEVsZzR4U3NHY29hbTdrNTJPLQ?oc=5",
+  "medio": "GrupoVx",
+  "publicada": "2026-11-05T06:50:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "GrupoVx GrupoVx",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5574cae0cebd75d7"
+ },
+ {
   "titulo": "Clima de hoy jueves 5 de noviembre de 2026 | Nelson Val",
   "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmRPUW1QYm5KVDR4YmktVGROSkhCWFJ2dGQ0czdoR2NtaXVaRFdZQldJZnRkVXo1VkJ4QkZRZkMzWjVZZHVjazdYa25ncVl6bm1HY3lGdFhFVmdUTm45R0EwUG1QWk45NzZPSjRsa3dpbVhMeE5qeWUtNTZ2TGpuQkFRMFZDbTE1eUgxME9YNG9rQVFFV1g2LXVB0gGaAUFVX3lxTE0tb2l2QXNrTk5hX0hia0l6WVg3WVRXSEZPZHQyaDRqREdFTWlfcVVZTUgxaS1OSGxkcTVvVlRwa2c5ZWdXczBram5ZaFVoQVVsTE5pOENPWVJhbzJuV0ppcmRJdFJpbXZuVE9iTThCcVNXMHlwbFJNZEw2dEVKeHdEM0l1a0hUMW9VLWRvUVRZVnVtdHlqY29uSEE?oc=5",
   "medio": "Milenio Monterrey",
@@ -2722,6 +3512,20 @@
   ],
   "local": false,
   "id": "91c95c38e6af01c1"
+ },
+ {
+  "titulo": "Solo 1,670 de 50 mil jóvenes pasaron filtros para ser agentes de investigación e inteligencia",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQTdXVFVBTXJSaWliT2RPZUhjUGFYSE5kNlQ0U0xVV0N2OTN3QThxdzdhdlVJbjlDcDBZaVVEV1QyUmpYUTFQaTBUVFNaYy1wNlhDcHJiOFlDZ0hadmZxZG1KZUEwYU1DYXdHNkdjbkd0bVJjX290RkwxRDc1cXNXOXpmY0c4MGxRNS1wczUtc1phZ3RVajF2NnBObEprN3pxLTFxRXp6MkVwNTY2dDJjb1BxYjE2MHdwX1BnNjhRNmEyekZtTGpHMlRFeHViX3gyazE0bVlCMmloVGQzZjAyMTBsQUc?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-05T05:15:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Solo 1,670 de 50 mil jóvenes pasaron filtros para ser agentes de investigación e inteligencia Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c8c1aa29b4617d29"
  },
  {
   "titulo": "Ante los mismos números, los empresarios turísticos no están tan optimistas como el gobierno",
@@ -5570,5 +6374,19 @@
   ],
   "local": false,
   "id": "fd977a81cd4f202c"
+ },
+ {
+  "titulo": "Noticias de Día de Muertos en Telediario",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU2VRSVNiODFuVWJ2R21PSElmYjJsV3M0X0VmR2QyeGJQblBacEdDSF9IR3lRR2h5b3ozeWhwbW1vWnpGWUk5UEwtNHY4ZkNJZUF2LW4tVkdfTmNsbnBabGZBN1ZLQ3NmVU1WSzZhRnZRTDdsYnJweGlETENqcjM4RDRCdVRPZWFoaDZScGZpSQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-04T20:01:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T11:56:22-06:00",
+  "resumen": "Noticias de Día de Muertos en Telediario Telediario",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "91aba3b473163a1c"
  }
 ]
