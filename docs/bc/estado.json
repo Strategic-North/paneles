@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-04T18:17-06:00",
+ "actualizado": "2026-11-04T19:48-06:00",
  "corte": "2026-11-04",
  "ventana": [
   "2026-11-03T20:00-06:00",
   "2026-11-04T20:00-06:00"
  ],
- "total": 641,
+ "total": 704,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -21,7 +21,7 @@
   {
    "fuente": "El Imparcial",
    "ok": true,
-   "notas": 4
+   "notas": 3
   },
   {
    "fuente": "Zeta Tijuana",
@@ -81,7 +81,7 @@
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 96
+   "notas": 99
   },
   {
    "fuente": "Google News: site:afntijuana.info",
@@ -96,7 +96,7 @@
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 39
+   "notas": 38
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
