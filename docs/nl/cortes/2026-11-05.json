@@ -1,5 +1,602 @@
 [
  {
+  "titulo": "Carlos Alcaraz avanza como favorito en el Masters 1,000 de París",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnplY0xuRGFmY2t3UEJZcnR3NFhWSUhTLVhqM0tXaTlZT0ZVMHhnU2dBZ0E3bC1QWUFlOTZOT3h0NG8yal9JaWtrc1ppZldpaFprQmd6SVdCZzN0SHJhVGdrTUlXd0JpcERfcjY4WVpBVmVVN1ZKUTI5aThkeDU4S3ZTVFdOVEdHUlRwc1M0ZGpzNFNyNXEtcHhFWElUNVNSV2RBal9fSUN1eDFkbDd2eQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T08:30:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Carlos Alcaraz avanza como favorito en el Masters 1,000 de París El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "03dc0cd25d99c52e"
+ },
+ {
+  "titulo": "Detienen a presunto montachoques en Monterrey; exigía $5 mil tras provocar accidente",
+  "liga": "https://www.posta.com.mx/nuevo-leon/detienen-a-presunto-montachoques-en-monterrey-exigia-5-mil-tras-provocar-accidente/vl2275396",
+  "medio": "Posta",
+  "publicada": "2026-11-05T08:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "895d0d4e36eb30f6"
+ },
+ {
+  "titulo": "Detienen a presunto “montachoques” por intentar extorsionar a conductor en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXUxbFlDamxnbXR5UV9lU1p6bFJfUF9GVWQ4V1dsd2FuN09lM3pMZklJTnkxTUdWb1hFY1RxcENLTmxiQldCMXVEZjR2VHhuekFNSjMzcmMzV2hYY0dsZUFQRFR0TkFHaTZpa1pmRFBCTWo3R2RxeGFsSFlhbEVzYlMyYWE3cnlwRGl6YldfTXZfTUlRTVk3T2t3VHdCRl9ZYkVNYdIBpAFBVV95cUxONENWTHpWRkFFeFl6QXpmazRoQmtCVTBXNVpobDY4Q3FsY3R6ZW5CWFBraTQyX21vSjczdUFiWXBfQkl2YW9EN1lHLVZ3ZFhuWXNCVWs5cS15eXF4a00wVElrWFFEeW9uVi02bVk5MVF5aEtkbXNqS2psbUlTYzRlbTZnRWpxMDRoZXNYRHZQNHpnLTRHVThWcnBhZEM2M2dlZFpKaA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T08:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Detienen a presunto “montachoques” por intentar extorsionar a conductor en Monterrey Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f0207489badb6d60"
+ },
+ {
+  "titulo": "Chivas cumple su primer centenar de goles en la era de Gabriel Milito",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDJvTElEbnh3a05uSjZESzBhMVl5ZkgxRnBCTHZGSTRpbEFmUmJFZlg2Ujk3cUxjeENSZ0xPQWxXbjR5N1dWQldpMkR1Yk4tNXVpQkllTngzbmo4djBmeXdoTXUwdHpuRFFadVRUaWp4Z1hfVl82Mi1uY3FDRVE2MzFBczRPdTdhSFRoS1JB0gGOAUFVX3lxTE1pS1p2Wk9yTnhBYkQzOHY0OThYa0Q4akJycW80dV9VYkQ2MGpPeGNwY1I1aVVuZlV6VkFKTUxUeUY5Q21tSzQ3YnByVkVPRFU0dHgtUEhjbFNPQThlQXVoWE5raG5QVzF0ZVpSTV9kSUhrRVZ6aFJHeG1JOWRRTmx3UDVsazUxNHRIaVF0bmc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T08:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Chivas cumple su primer centenar de goles en la era de Gabriel Milito Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a55a964c992f720c"
+ },
+ {
+  "titulo": "Diputados reprobados | Congreso NL obtiene malas calificaciones en primera evaluación",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalFPcWFUb3V1MlpfVkxLSEdHY3VWbTZQVFJfQ0U5M2pvVzVxOGIwX21aVDdtV2FPcl9DNnJYaFkyaXZETUtaRTB0Yk54cTF0RngwdjNzV0MybURnZ1UtOE9sSHdxRmd6OFNRbXBVQWZ0bXRGMV9KZmNWRWdtbDV2TWNuYW42bTRSTkxnRzVPZzhEcmNRdUdmTE1ZcFJsSnN6NkxwVlpyTE5ObTdrTEEtUU1fdk9XYWtOcTBSc1FDWnBxOEtKSEc2N3NDRDJGbHNsWWwwQnM5SXJBNEk?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-05T08:23:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Diputados reprobados | Congreso NL obtiene malas calificaciones en primera evaluación Reporte Indigo",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "09b3a7608cce0464"
+ },
+ {
+  "titulo": "Buenrostro rastrea el origen de una red de empresas proveedoras del INE hasta los años ochenta",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/5/buenrostro-rastrea-el-origen-de-una-red-de-empresas-proveedoras-del-ine-hasta-los-anos-ochenta-294550.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T08:16:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "4f4d87089b08dda0"
+ },
+ {
+  "titulo": "Cómo Vamos NL reprueba el segundo periodo de la Legislatura local",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV2lzcE1meEtNR2JKLUFnZkg5UmFwNGFHT2VDYVBNcXh2MXBWWlpIWGJEY204bENqM0ZjRFhIazVBNVJtaHhFNWdUTUMwOTcyX2lTQmljeDRqTDZ2bTMtLXo5RjBPM25ndldPNDhnaHJjTXJONEhUUGJmT25LLUFhSkdFaTF6ZFM0bXViYjYyQl85T0c5dkJZVzE5V1ZmSE5lNWZfbENDY2MxNXZDVFNyTURMS3Voa2NKUWdTNUhSTQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-05T08:10:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Cómo Vamos NL reprueba el segundo periodo de la Legislatura local MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9a0c15c039459d82"
+ },
+ {
+  "titulo": "SEDUMA invita al encuentro por el Día Mundial del Urbanismo",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGdIWjZnc3ZPcVBucVJSdjhvMkt2UDBxUWx0YkhXcTA0VjJOMnBHbkluU2ZJaEJqa2Y1UGlaTmFWRFo0dVB0RklGZEh1MU1WYnJJSmdXRGtVR0o5S1ZvRkQtMUJSUFE4c2RHdk1aLUFkNnRNSHlhWnRmOEprMnZRakg0cTBBN0VaQjFGM1NGdzl0WmhMb1AwMXZmQjY3Si1IaHVvQUdCNUF0dWJp?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T08:10:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "SEDUMA invita al encuentro por el Día Mundial del Urbanismo El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "864d58c5c4498bbb"
+ },
+ {
+  "titulo": "Sombreros, música y sorpresas: así fue el festejo del 20 aniversario de Chic Magazine",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0pZR1dVRjJXMEZsOTRHbFNnMlRQaTkxU3lIUnhENUE2Yy1kSW9RWHZZcGY4OTg5LWZ4SExCbVVnSkg3aXlCYjkzNURzZWlVMzJiTGo2c1dwZUtZN0h4dkZrUkJERl9VdWRMRnJxYmRMa21Ec3ptdV8wRTZXb3ZScTZPc245bjhNTE92dFZn0gGOAUFVX3lxTE9XSllHV1VGMlcwRmw5NEdsU2cyVFBpOTFTeUhSeEQ1QTZjLWRJb1FYdllwZjg5ODktZnhITEJtVWdKSDdpeUJiOTM1RHNlaVUzMmJMajZzV3BlS1k3SHh2RmtSQkRGX1V1ZExGcnFiZExrbURzem11XzBFNldvdlJxNk9zbjluOE1MT3Z0Vmc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T08:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Sombreros, música y sorpresas: así fue el festejo del 20 aniversario de Chic Magazine Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "03c1f7c3f62c0c62"
+ },
+ {
+  "titulo": "Cómo Vamos, Nuevo León, evalúa al Congreso; detectan desconocimiento ciudadano sobre diputados",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2hrUXJHVDVaVVZoYWVlQlRKZkdaSzdmUmRuaTJuaXVqcWRuaURTb3N1RUhaNjI5TnFZeFM5aDhOVGNQcko2eFRBUFdiRlMzVTJuVloxV1NXbC1HeWN1dzNFV2VvVFZpdXBQRWE5WHhZZlY3SUlYRDhIWHRpaUxrUUx5akpSWTlkVWZJNjF30gGOAUFVX3lxTFB2d1JUUGM2Z05jN3hvN081Y2Z4UTg4RG5pY2ZWMjBsUy0yRzhtVlg3eXhpNlVZelFoOE1UU1NlZjRzbmR3d2pST0ROaXpoQWdKdTJaaWg3dWVKay1hbVlmUlFXQXVUX2sxOXVtTDFzX3Z4bk9OTXNOdF8yMVJNaWlnN043X3U5YlJ6U1RaYlE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-05T08:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Cómo Vamos, Nuevo León, evalúa al Congreso; detectan desconocimiento ciudadano sobre diputados Telediario",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "9a766647415be34a"
+ },
+ {
+  "titulo": "GarciBús tendrá conexión gratuita con Ecovía en García; estos días comenzará a operar",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYi02SVdIeFNTN3ZMX2Vmc0VySGdMaUhBcnZUZmFyNGZvSjV4MkUySzNXdEU2ZTR6cTdpN1ZfUGRlaU9VYW5oQy01eEVkYzJOV2YtNldHNjRvdTZ0MGRScTdSLWZsSUwwTWVwZk9oalJxcVRRd1VmbXR5UVZJX0oxc202STFXajNDMnU0LUJiLUNkMEUybmtmZS1mNDNzVU00NGo1eFlYSHd4WWlLOEhHb002QnE0MUg5T1BRQk9hTFZScnpjWjY4amtDUFdzdDB1MFQzNk42VlM?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-05T08:04:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "GarciBús tendrá conexión gratuita con Ecovía en García; estos días comenzará a operar MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3a15c73e27668de9"
+ },
+ {
+  "titulo": "Pronostican lluvias fuertes y frío para Nuevo León: ¿a partir de cuándo?",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTdiYXpHNTlMN0lNVUVvVmgwYnZ1b0ZtUFBhOWtjN3RHeFZwV3RmQ2VNSFpaNVhUS3dudHpKRHVQYVEyOExIbmU5QUxvRG9SUXUtTkFUS0pqMkpSMHZaaXhUSWxYd3VhZlZ5a004TlQ3RUt5bm1GYnNBbXI3UWhwYUF2SFhFRmJSVkR2UVZGLU1mZWFCbmhsUFM2VENhb3c5NmFlRUptNlJrN2pIR1haUnRkYlQweGFoYVdzTQ?oc=5",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T07:57:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Pronostican lluvias fuertes y frío para Nuevo León: ¿a partir de cuándo? ABC Noticias",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "0047bf81f58c27bd"
+ },
+ {
+  "titulo": "Liam Neeson reacciona a Meryl Streep como Aslan en Narnia",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVlU3RXVVclk2TnN0TVVZdmNsbjhma3VpcDJZZFVWYy1IV19iZnk5VXRfZHV4aVVtdEJhYW5rbnNXU3AzRGpNTW00cTdxcm5vellfR2RUbzRtcnRiMnFCSjJyNzdYNVZkeTdyLVN1MHY1ajZ0a245VmQyaXVIWXNMRkZ0ZW0tNF84RHJWVlZnQ0laR2dqQV9nQkFPdmZXd3Bnb2VpeQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T07:55:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Liam Neeson reacciona a Meryl Streep como Aslan en Narnia El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7cb1b453270e1e7e"
+ },
+ {
+  "titulo": "Scarlett Johansson revela dificultad con su papel en Batman 2",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakNpZElucHFrVnZxSnJiNEZqRDdmRGpFcTNPX0tHLTd6RVVnSjlRR2lhMVVicGlSc0NhZHM5ai1MZ0kwTk5JNTNwUHB2Sk9McFQ0d2R2ai1nenVKcFdHREcySG1KZlVxMU4tZTNJVXVGVHZObG9IWWNzWk1mYmZPZEkzdlpfYXJkS3BEUkdkcjYyb3NQbXBRclJORlpXWXA3SFVYcVh0S2duZw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T07:54:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Scarlett Johansson revela dificultad con su papel en Batman 2 El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3855632ff6da32b9"
+ },
+ {
+  "titulo": "Hijo encuentra muerto a su padre en su vivienda en Santa Catarina, NL; tenía dos días sin saber de él",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWFLanotRjhzZVFPeUc2SHotOEtua3F1LWNmeTQ5Q3VlVEpHUDU0NzJKWjNXUTlWLVN4OWlFQ0cwdXAyUGFXSkJtY2Z0ZkhxQ1p1WG5Oai1GeENVSG9LUmxTNlFBdzdENVpEdm9wU2NrSjlrbVdORUQ3c25QMDVPZEx3Y1ZPTllhNUJXNU9PWnlyd0o5eXBr0gGXAUFVX3lxTFBpYUtqei1GOHNlUU95RzZIei04S25rcXUtY2Z5NDlDdWVUSkdQNTQ3MkpaM1dROVYtU3g5aUVDRzB1cDJQYVdKQm1jZnRmSHFDWnVYbk5qLUZ4Q1VIb0tSbFM2UUF3N0Q1WkR2b3BTY2tKOWttV05FRDdzblAwNU9kTHdjVk9OWWE1Qlc1T09aeXJ3Sjl5cGs?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T07:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Hijo encuentra muerto a su padre en su vivienda en Santa Catarina, NL; tenía dos días sin saber de él Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0654eed95cfa7264"
+ },
+ {
+  "titulo": "Investigan Muerte de Hombre en Taller Mecánico en Santa Catarina, NL",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkhoekJvcC1sMkk4b21Tb2hGSzBQamxCWjVCTXRFRzF5T25QOG92V1U0QXZOa1hMTml1Q0JPM1l6YWw3clZmcDVZdy03eTZzSWYwY3lXX2hjN3JuTGt6Q2ZYbGl4YWF4bVlWX01wN3NDSG5TLXNxVjNoR0h1S3RPYi1tVTRfYXVxSDFQZTNublhWVXplMEl0OWhyMk5SWWxZUkdyd3Z5U2F1MFVNcGl6ejBpbVozMW02YTNReTF3?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-05T07:52:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Investigan Muerte de Hombre en Taller Mecánico en Santa Catarina, NL N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e4fda7f76d619645"
+ },
+ {
+  "titulo": "Aseguran más de una tonelada de cocaína frente a Chiapas y Oaxaca",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEltU215R2F4bHRUWlNWVFplUDRaMnc4aHR4LUdhZkR0OXNPaDNEdTl3OF9sampRdDhNWEctVEVuZVhlSXZMQzR0MC1PZWlSdjBTRUR6bUNyOFFLMFF5cEpQLUwwQlIwUWI1cDVzOVk4LVVWRFBFTmc5SUNwTUdCZkRoQ1B0YmRib1pwMENBWmR3eU9iX21oTWVxbXBYN2l6NktSRGZFajlnU1JmMjgzVUd3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-05T07:52:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Aseguran más de una tonelada de cocaína frente a Chiapas y Oaxaca El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "827d26c6c1287ee1"
+ },
+ {
+  "titulo": "Clima en Monterrey con Gaby Lozoya: ¿qué temperaturas se esperan este jueves 5 de noviembre?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/clima-en-monterrey-con-gaby-lozoya-que-temperaturas-se-esperan-este-jueves-5-de-noviembre/v-vl2275383",
+  "medio": "Posta",
+  "publicada": "2026-11-05T07:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "116d8b0462da45cb"
+ },
+ {
+  "titulo": "Vuelca vehículo tras choque múltiple en Escobedo",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWhVR3YyR1BtTm5OV2NQaFlCQ0xZQmRBajNLUlNfVzYxbmI2QWRpTXNfTVFfY21vaUhLSk5VNlNxVkpDaldQZTFHNmJ3SS14bDFmdUZGZGJXd1pNdk1mN3dXek1VQ0J4ZDNIZDVETnY1TmEwMmp4QkNYaElJMnM2ZGZjdHJvVG1YaElBd0JJd1U4TUNwUzNF?oc=5",
+  "medio": "Quadratín Nuevo León",
+  "publicada": "2026-11-05T07:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Vuelca vehículo tras choque múltiple en Escobedo Quadratín Nuevo León",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "4d46e204db7ec50b"
+ },
+ {
+  "titulo": "Lead Belly: el hombre que inventó el rock & roll antes de Elvis y Chuck Berry",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkFTVkxySGRsbE9TeGRZeU9UdThJYm9fSTJ1dVBkNl9BcVhoRFpwX0RfRmtrbFB6U3ZlbXdLdjZXQ0p3b1ZFX1NqeHM4cWR2N0lWVFg5cjRBUWh3SzN2cXFCdGZWRE55V1JrSUVrbl9td3hFckVURDhOZXBCZlBmV1RCZklyVDFWRXRxOC1hMi1pb2E4S0lsa1BQemp6NmfSAZ8BQVVfeXFMTWhGdnh0TzJIdVlsNy1ab21sWW8zekRvemlUS3BkcmU1d0lpRk9fT0RVTXRVSHI5amo4WGZSX1MybVh4RHF1UWlKamRYUVVhNmREbU1LZTZTNmxaVEstbm93cW5FQ0Y4YzB6RU5EWDhNUFo2Y1JDNDFfNVZOUW52M25VaWlZNFdYVGpVanNaMlFUZ0UwS3pMb2E5U1lfOUo4?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T07:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Lead Belly: el hombre que inventó el rock & roll antes de Elvis y Chuck Berry Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f10af87726db5712"
+ },
+ {
+  "titulo": "Clima en Monterrey: parcialmente soleado y 27 grados de temperatura máxima hoy jueves 5 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX09nN2E2R2czZ3NfSnZvRGx2d1RhY3JqTW5aSEUyZU5LQjZyaC1RbC1CRHFEaXBNUGZibUYzdDRCUkw0UDNxc29LT2x2aDl3eEhaaHZ6c0tnMFFKSUxhQ0psXzM0YzJ2RnlZUWFLeXlnRk1jcVJUMm03OGN3M1F1N3FEUEVZVHZweHo3S280SVpFLWMzSlk1SXgxanBHcTNYVVFNMWFQdVRXRTdnWTlweS03N3ZudlAwYXF6SHJiLWpYYnZKeTNiQml0UFVLZkV0UU5Pa2YyNFJDc3BhRHVWTTlGY0k2ZG5sbDBhTUY3SQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-05T07:46:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Clima en Monterrey: parcialmente soleado y 27 grados de temperatura máxima hoy jueves 5 de noviembre Reporte Indigo",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "7fcd26e9cbe38b50"
+ },
+ {
+  "titulo": "Sasha Sokol reacciona a disculpas de Luis de Llano: ‘No es lo que le ordenó publicar el tribunal’",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmZDUkVkbUFzZG45WVN6S0ljS1NrOXFONktGN3dwV1FZaU5FQXBvcWVpY19HcUVjekZQVmJJQ1Fud1ZYUnpqcFhsOFJPZlNQY1ZTSDFCSlpQc3dfVFdnMzVUb0dPYmk4YVNrbk9RVnhld0pBU18tdl8ybDExWU5HajluTDhHUnBxQVBjaWMwSEJIZWctZ3k0LTdxNVpoN0JXbUx2a2J2VENISDg?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-05T07:42:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Sasha Sokol reacciona a disculpas de Luis de Llano: ‘No es lo que le ordenó publicar el tribunal’ El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "22bf006d5e0da40c"
+ },
+ {
+  "titulo": "Detienen a 'El Gigan', presunto líder criminal vinculado al CJNG,",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/5/detienen-a-el-gigan-presunto-lider-criminal-vinculado-al-cjng-294549.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T07:39:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d0db5ef664528d61"
+ },
+ {
+  "titulo": "AmCham Monterrey llama a reforzar la integración tras resultados de elecciones en EU",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXkxbTdscHVWbHRVOGpTaEZTYWpYV21PTmJxLU01UmZTTUlYeEM4aEM3T2lfMVh1a3k3VE5MRVIxX2dqc1Q4ZFp6MnRhSDlvNDBpSHQ2Z1hoVTBzMU1kU0NFMUd0SkJ3dm5ZMWl2ZHR4UTRUVGFzeTh6OUt2S09LTUd5cGFLdE81bWE4ZlJvQXhBQdIBkgFBVV95cUxOWnBvZWlnUkhzM19xQ1RRYk12WUxtT3VLMV8wLTdJRlJSWDVJQmRPTHdHRVNWcVE0MHRGMHZMbmdscm9kMU5WNlBvb3JnTDFxTDVyZnJWMDk2MWV4LVBxZE5uMzhVSnZhTEkyM1JySVNxdThNaDBCTzFfaHV2dHA2ZTJvVkVSajBoZ0JZZFJpMmNRdw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T07:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "AmCham Monterrey llama a reforzar la integración tras resultados de elecciones en EU Milenio",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "8c110472a09a323e"
+ },
+ {
+  "titulo": "Cámaras del C4 detectan dos autos robados en Guadalupe; detienen a dos mujeres",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWV4eXFRaXFubHFTa3phOEFuZ1Z1MU0xRE1zNTlXcU84eGJhTXNsWDVpRGFMRGs5MG1oRzZpNWpOaDdtQ1pRaW01cXlCTjMwN2N1TUJzWTZqcENPU0FfcndQMS02dmtGVkVONExiX0w1Mk91MkRkS2FQcmRFUlNLZTJtZUM3eWNqZTdDQ0tBTnVPbXhqNmF3VS1FckxFYjc0Nzg1VVZQMG1aY3NSNHZHelZkb1Q4UGwwUWI4VDFHbEQ0blU4dlE0akFxdGRtR1k?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-05T07:36:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Cámaras del C4 detectan dos autos robados en Guadalupe; detienen a dos mujeres MVS Noticias",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "589f5a1a2f5c9889"
+ },
+ {
+  "titulo": "Cristiano Ronaldo anuncia su retiro de la Selección de Portugal",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/5/cristiano-ronaldo-anuncia-su-retiro-de-la-seleccion-de-portugal-294548.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T07:34:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5381b247afaaf4b0"
+ },
+ {
+  "titulo": "Al menos 20 ballenas quedan varadas en playa de Nueva Zelanda",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWNySWY5cWdrWk92Z05QZnhzR3BvaTBJbTNYb1V0eUMxWlNseVZfR2FUWGpKUHE1R0hxb2NyMFM2NDNyZTcxbUY2bEJJNkIwTmhmMThUVmxXeHR1c3FxQWZLR2VTMVA2eXVISk1DT3hZZERfOTdwY3o3TjJyNHFXSXN6YjFPdkJyY0d3dVRDZlNvUDRtcDVMT0VvXzNBS0FvM1hiSUln?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-05T07:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Al menos 20 ballenas quedan varadas en playa de Nueva Zelanda INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "627ad958e2e05bda"
+ },
+ {
+  "titulo": "Choque múltiple y volcadura afectan vialidad de carretera a Laredo en Escobedo, NL",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1lnU3N6OFZncnpsaFBERDdDa3lnbmRSd2pYcm9iMVZRemlzVmsxTnNQRUs1amFvRldYUDVfcDdBanJ1NkRrLWUzYTVUNjhrMk1Wck9oMDRjb0s5NzUydWNXS19KbW4tVWdHdWlYWG1HU2MxYmI1bUtWalcyODFQbmcyWnJMSXBBTkZzYlJxdDl1cE15ZFdXdExlZFIzTEXSAZ8BQVVfeXFMT2xPOThrbVpieFFiVmpZZ3hXTzROQ0N4RkdaRkJWR1V1TlpFVTVoai1BNmJocmlGZ3YwUzJWQjk0S0g3bkhsOGNvTi0tRWwyb1k1aWJsaVJkUGZiMUh5TGtGSm5WYlFJbkxVZjhwbnJMc2RfSnhSNGQyRW5aT2dtM3VRVy0yVWtBOFUweU1QTURmb3paUGlKZ0E5dUh1T2ZB?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-05T07:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Choque múltiple y volcadura afectan vialidad de carretera a Laredo en Escobedo, NL Milenio",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "2e0e3534adf086f9"
+ },
+ {
+  "titulo": "Choque múltiple en Escobedo deja un vehículo volcado",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzRYR20wLUpTaUdxSlJmMEVuOUcwOHBiY21nVzRVaDFCUWVMQ3ZYcEVmakVydHFTbU1BZHFwNlRrd0lPeWl4aEw1RnZ2OEJQbXFmc1ROSzNiTDd6TTU5Tld4Zkh0M1U3bnVtazhIQU1vU0Y5eWRwME00VXNkdXBzNFR5SHZ6b25va2dveTVJNndjajlyUDZZT3F2emNhY0xNRUZNVjloSUdueHlrUkE?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-05T07:31:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Choque múltiple en Escobedo deja un vehículo volcado MVS Noticias",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "c2979e2892236e29"
+ },
+ {
+  "titulo": "Choque de 3 Vehículos Deja Dos Personas Lesionadas en Santiago, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWURfdTdsczZHSVZZeDRPdk92QVhyVzRjWXlsSVk1Nk1SN1AyOFJTRVNFVWNZMnhGZHJmR04tbmdtM204dmZyWVlKaUFaV0pRdGJ2ZTVXWF9TSnRvWUZRSUdSUUM5ZEljZHBreGRJRXdqVW5DTktPelkyRndTaWVQWTRPZ3Iwa2swRFFlZHdfZkd4THFfeTd4dkZGVXZGS3EzMVR2VGt2M2N3S0xjUExJMEJ6VnMyQV9DbUU1aFlQSWJFT2FxWTFMTm1n?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-05T07:29:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Choque de 3 Vehículos Deja Dos Personas Lesionadas en Santiago, Nuevo León N+",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "9eb3b48eb5abf2fc"
+ },
+ {
+  "titulo": "Luis de Llano ofrece disculpa pública a Sasha Sokol; cantante responde",
+  "liga": "https://abcnoticias.mx/show/2026/11/5/luis-de-llano-ofrece-disculpa-publica-a-sasha-sokol-cantante-responde-294547.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-05T07:28:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "be45f1c8599e1759"
+ },
+ {
+  "titulo": "Vuelca ambulancia en la Carretera Nacional en Linares, Nuevo León; hay 2 paramédicos lesionados",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakR1TEc1cW5YQS1WLWNqamlnRUFEN012ZS1yaWliZURLSlVRMEozaXZULWdFV09PUS0zcVkxaTFSeEdFMVVMZjNDZ19zelhlUEFNeTI0QUFsUy10MEZlWWs3VjFRcjZaR2lrdFB2WmhHYnlyTVg5bkRLdXVDTkl5bHJLX3JrRzNhcnJYa0p0WTFsdE1uRU5PRHMybHlTY3VGSTJianZn0gGmAUFVX3lxTE5IU3g1WTEwMEZ3MklObEo5WGVTQVFnN3lTZEJyNmQyVnNGekMzRElNcnZUYUVnYmN3SFdFTzk5VXdEdWV6ZTQ5RXFtdE5zR256MjNNRXl0MlJuc1VOaE95eTU0RHhFQnROME90YUNRSGxBX21pTktJb2NVaFRUWUhfYS1IeENWRmczT1BTcHJHM0R2WmJMME41N1NJbC1rcGdkQUhwaVE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-05T07:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Vuelca ambulancia en la Carretera Nacional en Linares, Nuevo León; hay 2 paramédicos lesionados Telediario",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "532ec49c9fbcd603"
+ },
+ {
+  "titulo": "Jueves 2x1 Ticketmaster para HOY 5 de noviembre: Estos son los conciertos válidos en la promoción",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONlh4N3hqTVQtVXpvQ0k2RllVeTB0cTZhcEhGeUd2X3M0d21DLTRmSUpBNEo4a2o3MF9iS3R3LW1Xaml3OHBQTU5Hb0ZvbXFBZ19WaF9ldTR2SHdTb0dDN1dZYmVVRUFoM1o4TW5PT3hoQjlXVWNjaHpUM2dKcEUwRER4NU9laFU1bXVqTnZuWmpFUjVCVmtEWjd3V2hSbVJSWGlrcnoxSkJmbFZQZEVyenV3WmdyR3kwRzZvRld2OG1vc2xlWWlTaVB4VmF6aWlkdVQ4OEFUSnByX0VicHI2TExLZG5BQQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-05T07:25:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Jueves 2x1 Ticketmaster para HOY 5 de noviembre: Estos son los conciertos válidos en la promoción Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "f5b5b98816f0c197"
+ },
+ {
+  "titulo": "Muere motociclista tras derrapar en carretera libre a Saltillo en Santa Catarina, NL",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVRhejF5OU1QZ1pGVkRjXzZJaWV1eGg4REYtenJWRTJLcy1WYm4wMmZGVlN1eUM3enRFQ0hyUUNoRzlUVWppRjZZRGJWNFY2MUx4Uk9HOWNyY3BpTG1YNW9NNktXdlBYNnprRzY4d1F5QVVNbXVKaF9HcjlDRHA1NTYwcURXSk41Q25xUUx6VWxmSmpnYXoyUklVdTM1QdIBngFBVV95cUxNRFhXVi1jYlhZZFRNbHhDX2ZXdE1ZczlldEdVbDA5bnVJY0tkZW0zLWkycWJ3RXZOQXNWWXRzazVROFRwaGhjTXRLblowTHp0MGw3QmE0bFExemdOeEYwNU0yQVJ0c1VVVHBQQW1RRXVITWVxQzJLaGZQdWQzX1NOUk0zX0VYZ3F1TzRBMmZ5cmw5eExETVYyaFNYSjJrUQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T07:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Muere motociclista tras derrapar en carretera libre a Saltillo en Santa Catarina, NL Milenio",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "cfd8f895c7173665"
+ },
+ {
+  "titulo": "Coparmex NL urge a atender la movilidad laboral; pide planeación urbana",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWlSU1VYRk9iZjFkc2I2ZzBtb2R0WkpBeks3Tmk4N0Q4LWJoMFZLaEVrcC1mb2plc2hXcGkyY000YXBuT2FQbm5wSjhTdEVlaFpxTVpkWHpwRTFZVm1jWFdRcDdFdndsRldpUHE0N1pWMGFOa3h4bno3VGp6dEZYVGZJYVFyU0NzYlFPTjRSUGFmUdIBkgFBVV95cUxNQXQ3eVJNVy1wVjNtMWFuZ3pRc20yamNKYzFMcnFkWEhVTEdVRUVBcmVzUHZNN2h2NmZqRFJVZ05ZSFJ1ZlRIaXRFUXVxN2ZqX0E3dFBVU2ZlX0EyTkkwWlZtdGp6eUpZZk1MZXVqUVVDOGZfbnhaTG1Wc3ZsMHUxTHAxeS1BV2RJeE5yY3ZsX1JVUQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T07:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Coparmex NL urge a atender la movilidad laboral; pide planeación urbana Milenio",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "ae0fba41dc33ae41"
+ },
+ {
+  "titulo": "Asesinan a Gabriel Rivas Ríos, regidor de Morena en Cuernavaca",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWtxNTMyRUxKcXZBdXhENm5ieVBqbUtZVGFRaTJodGllMmlGbjJ3aXh1c3FXV0tBeUV5Y0FHaDkyaDdiUnlnRTFXVUdBY1Q2RjhoVFpoRml3T2pINUxGeWZGd2w3b0JMaVgwQ2N4a0Vrc0NMU0RmMVBObVNfNExzX1hnbVFlam1abFc5amZxOEJlYTUtUnF1WWhOaC1mZWtqMXfSAaIBQVVfeXFMTnRkd3g0emQ2eGxFdmlGaHExT01OVnktbzZPYWJTU3pFclhWX2ZmcHhrV2h5b05oSm5SQW0tal9KVGFmWVZONkhvalRIRnQ1YmpVX0tFM3k0Qzhtc0RBWU01Q2JubWR3Z0NXMEp1dzJFWTBORFY5QmZvWndvRWZ1VnA3MTR1NHNIaURMeEJ2UXVpN1RsZjdFTWZ6d1pjOUlyWFNn?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T07:20:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Asesinan a Gabriel Rivas Ríos, regidor de Morena en Cuernavaca Milenio",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "173bb93d59c24444"
+ },
+ {
+  "titulo": "Vuelca ambulancia en la Carretera Nacional; hay dos lesionados",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUUJHZF9GWFdkQjhlQTdGYVBPOW8wZmtFeTExVzBBc0ZjM1VTUlcxeVVtYVladlItMUxoM28zVS1KMWFkQ1ZhQzBndjBqTGxIcUlOb3diM3ZpNGFVcU1oUXIxb3VNdlgxZ1ZxVGdkNjFHZHN2bEJnWi1XT05qRWZ6TWMxRnR2YkdqZTIzT3ZpX3RYWWJ1bFRueVlRM0RlRXctQW1rdVR5YjZnSmNRdmE1NG43QVBiM1JBOUE?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-05T07:18:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Vuelca ambulancia en la Carretera Nacional; hay dos lesionados MVS Noticias",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "2a5f88561d254605"
+ },
+ {
+  "titulo": "Prevén neblina y lluvias cerca de la medianoche en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVlhd0ItYWMyS0xoUGE5dzB4WjBaZkRMMFdXZHFoMXVjc05ZOGxqMUdfSU9VaEEzOEg1T3FnTkw5U2tkRGNNLUh6V0RueUVObHY5N2lMRTBsVHVkWDhYMTdra05pcVpGS0hGTzctcVd0WnBfMTJVeUJLcEJOVHdDM0VMNWVKbVo1M2M2YUZRbWxSYzREbXJsTHB4RnVHZkptNHdMRERXR0lUVWFRZTA2M1VB?oc=5",
+  "medio": "Quadratín Nuevo León",
+  "publicada": "2026-11-05T07:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Prevén neblina y lluvias cerca de la medianoche en Nuevo León Quadratín Nuevo León",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "2f0512e9d3aeec13"
+ },
+ {
+  "titulo": "Brian Rodríguez sufre lesión y no jugará contra los Pumas",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVphY2F3aFEzN1RISW9JSXpQWlQtU3BVSmltRUh4bmEzdG1IdDQydzNJamVwQTRqRTlPQWxiU2ttQTZYcG5Oclk0Ni1wVXE4YWNzVWpkaTJ2clN4dlc1ZTZHeVhOanhiTWI1ejFsRzJBR3puZzBZaGprWWotd2hZQVRXaGM0MGFaVXlabW1hTFE4b19MeFZxLUxR?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-05T07:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Brian Rodríguez sufre lesión y no jugará contra los Pumas INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d6a55b37d649724f"
+ },
+ {
+  "titulo": "Dos trenes chocan en Bélgica y provocan daños, sin dejar heridos",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHlCYmRMdUs4TXkwOGpsWThqVndYNW1yQXFvbEFFQVBOaVpKdlJyUUMyNlR3aE10TnFGUDhic282dDhoRDU4X2VwclVITHRySC0yYU1UMFlyQXFVM3ZOOTNTRjFuLVlHX2tFVW5rUFpGQ2FLV2dZUHZET1lxNnNUeDBwRHhpa204cENoLUFEVklORGdJSmltMnBYTHhNQUl1OGpXdHpoSjg?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-05T07:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Dos trenes chocan en Bélgica y provocan daños, sin dejar heridos INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "61d7e5904849036b"
+ },
+ {
+  "titulo": "Detienen a objetivo prioritario en Pesquería, Nuevo León; lo investigan por robos a tiendas Oxxo",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDQtb3loMmJqMlE3OXZGZWQycGVDV0lpVVdnWlJLekx2SkhNN3EyM0lzWUdfdDFhX2pucU56dWJzX2lmWXUzMUxXYTBMeDUxZWx1ekZyaTVhUDhGNWNGUk9FOXdBa2YxVDUxd0FQUHZLVmxjU0RaZ1BMTW9ycnV0WWZNNzNpM2VyZkE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-05T07:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Detienen a objetivo prioritario en Pesquería, Nuevo León; lo investigan por robos a tiendas Oxxo Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "233d42a4493e3765"
+ },
+ {
+  "titulo": "Laredo se alista para alta afluencia de visitantes con su maratón y el Black Friday",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFl0UlhTVjZ6bl94VktILWp6SS1DaWUwbVNwTnNPclZUSW9admQzaV85REFhSE5FSGxvVWtHa2FBWE5zLTJjcGtiR2FpN0tiSjV1LXZuZTlHa3lybEx3eHhwODFfU29WZ1ZwWWZ3SE5Lc2lzaklSb0VyNlJmOUowel9LVkI3dE56QTNjRmlxU05kcUhGVnBz0gGXAUFVX3lxTE9WVlNodjFqMVRJZ25yYXZuV2ZEdWRRWEJHY3l2d1MyOEtGckJnSExSTVZrelVNbzc2UHp1UDlTUE1WamF6ejNHdVdYdTVMT0EtSURJMXNIM3pqR1BlMnAzRzlBQ2JJd09DbjVzdXRoRlpGLWdYRmNlUTQ2SzBid1R5bjNBWWZ4U0taNHJmc2paNFF6cXdZRDA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T07:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Laredo se alista para alta afluencia de visitantes con su maratón y el Black Friday Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1676e37d5062d5cb"
+ },
+ {
   "titulo": "Dueños del Liverpool comprarían Cadillac de la F1",
   "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDNmY2c3WlpFWWxjX0NFZ2dkcnRQaFdVS183UUtGc0o1czZzb2k5c1Brek5TTGctRmNIbHNEYXY0bmdNTU5jOTBEYXBSZmFSS2V1VjNKd2RhUDZZd0VVZzVaOEdid0xfQ000Q25rYjdmVlJnV1pHRVhXeGRyUFZvVVhhU3ZEU3RpNXJUcExVZ1llc1lJeGtyU2F0WDQ?oc=5",
   "medio": "El Horizonte",
@@ -12,6 +609,20 @@
   ],
   "local": false,
   "id": "f215da76183f3fc2"
+ },
+ {
+  "titulo": "¿Se espera lluvia en Monterrey? Este es el pronóstico del tiempo para el jueves",
+  "liga": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDV3Um5aWHhILVY0NkJIN1lJbjU2dW1fYktuNFJPN0lqMVg1UU9tY2FMZndldmd4UW9UdGZnaHFTVEtYWEx4Q09OaGI1ZDR2ekV6bDdLRDRGVjlWRzhiUUI0ZWRCTjhwUjZXRkNxQ2c0Y3BmbXdmMHJ6Q1hfTUJsMGVB0gGCAUFVX3lxTE90NXdSblpYeEgtVjQ2Qkg3WUluNTZ1bV9iS240Uk83SWoxWDVRT21jYUxmd2V2Z3hRb1R0ZmdocVNUS1hYTHhDT05oYjVkNHZ6RXpsN0tENEZWOVZHOGJRQjRlZEJOOHBSNldGQ3FDZzRjcGZtd2YwcnpDWF9NQmwwZUE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-05T06:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "¿Se espera lluvia en Monterrey? Este es el pronóstico del tiempo para el jueves Milenio",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "6c4544480cf02aa5"
  },
  {
   "titulo": "Cristiano Ronaldo anuncia su retirada de la selección portuguesa",
@@ -236,6 +847,34 @@
   ],
   "local": true,
   "id": "2ee97d6b134f207b"
+ },
+ {
+  "titulo": "Clara Luz Flores denuncia ante la FGR a Samuel García, Mariana Rodríguez y al alcalde de Monterrey por presuntos desvíos de recursos públicos y pide investigar operaciones millonarias en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQWGJRWnhQckdacGZSZmNLU3QxSjR6dkVzRVRubFlWakNYQ2hONU40OWNlNXRTZktRdFFMVzA5U2FqNlBUakRKZ2ZLRlJxZFhyMUk5NmpqWVhwbGhzR2E3UGhRVGJLamI0R0I0WnFVU2RYRWVvekFUYVhBWUNWMkdtRTVsdHMyb0M0SUgzYkNvZEVaMWN2c3U2N3Npb09OelFoWngyVENrTFVLWFRxVVgxSWQtak5pSDBrWWt2OFlFUnZEN1JGaGxEME0wUHk5WUpSaE5NSW1ZaUFUOFBlX1ZFUEh4X1VCakhoQklSTVVjTE1HS05sOFIzM0tYekZuYmtIV0swRjZBdTk3VDFXWUVYSnprV3lQaFc2MG15UEJZdkVZQU1vMENRemFTcjZjRjVMNHVvSU5YemNwRG56TlMwZXFqLTZfd051cWFlc19SQmFDd1ZVbTVaVFZyNmVIZTVt0gH7AkFVX3lxTE81ZHBCSkc3cWE1MnBlQlJjbUZycHVmaF9BY3pDSmZleUNjTlVkUy1kYlM3RkNodi1ySTJOeWdPNXhZZVFBZDBDVi1LOXlxek5yUWx5SXVGN2RkY1dwSmNTT3lHU01wX0RxS2w1S3RnQi0wWDhFLXBWblpjOGhrN1pxWk1Rck5qUGExWUZPanRSNkdEWDVXcDRORV9EVWhLMUpsWlJZLXBfQzdfRFlsbEl1TjFsTzEyY1BzTmhoUVY1UmVnWXpSR1NjTUtnSWJjQlpzRW05cmpLZmlxNmx2NEVmbndhV3hLSGJVd1JGVGlXX09lYVBraUlpMTBJcjVzSWM4T2FGeWZvbDloQkJ6QWEyX0p0dVNxbk5na2w3N2hKZ3UwMnVMelZHS1Z0dTNpMk0wR25oY0RXYTI2R0JJREVTMTB6cVZWOFQ3OGhyRlozcnNLWWR5SHpmUTRUV1VaRkhaWmdoZmt6ZjZvQmVEczBnQnA3dk1RWm1NTjA?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-05T06:32:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Clara Luz Flores denuncia ante la FGR a Samuel García, Mariana Rodríguez y al alcalde de Monterrey por presuntos desvíos de recursos públicos y pide investigar operaciones millonarias en Nuevo León El Imparcial",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "edb80caad8e31491"
+ },
+ {
+  "titulo": "Conferencia ‘mañanera’ de Claudia Sheinbaum hoy 5 de noviembre: Síguela aquí en vivo",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1BCbld6RWt3aGFyQXNhV0hqeWxvSUJUWWhZUDNsMkwzbTJSTklGQ05Jbm1WSjZZWjJMbFJ6ZERWN2VSQlBJaFJ4UUE4S2FoUnNsMF9WdmtMdEluT2RIeHV4eWRGQXZJUG1rdnFDbUliUGdXaUFUYnF1WExGRGU1RHdnNDNFeXdnVU9SdnltbW9GOXVWV0RFV1VHbmRtQ0FZNnN1OXlzMFpvNnZfcHJ0VTRYRHV0M3ZCcVZDYw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-05T06:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Conferencia ‘mañanera’ de Claudia Sheinbaum hoy 5 de noviembre: Síguela aquí en vivo El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2e6fca9cc993a52d"
  },
  {
   "titulo": "Cómo Vamos, Nuevo León revela que 8 de cada 10 ciudadanos desconocen a su diputado",
@@ -1522,6 +2161,20 @@
   "id": "40632ba98aece427"
  },
  {
+  "titulo": "Paraguay en crisis bancaria; miles pierden acceso a sus cuentas y dimite director del Banco Central",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZkVZRUNMQWV0ZHFkRGlzM2pSSHY3ZWtjakRrdkVvUE9CUmlnQ3BRTlZzWFRNSVdRNDBXT3JpRExRX29TS29OUzBBWkJqZlJ0SjB0eVQtZERsNUVueVI5bjNRbzgxb1EyRkZRX3g3Y0ktUGxJLVR0bW1Zc3hCMFczeVprS0V3c0wyMWo0SXpQZTB2ZTh5NTZMSkNqT1VuY0FXekw2WWxucDZXUHpuMS0weERrM0VZSzdfSXU2TUlhQXBjamF6ak00OVdpdkg5RHlkOS1KRzNGRVMtNHBNaFVmb1d3?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-05T00:30:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Paraguay en crisis bancaria; miles pierden acceso a sus cuentas y dimite director del Banco Central El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "050761d4c27ddf46"
+ },
+ {
   "titulo": "Encienden Romeo Santos y Prince Royce Monterrey con su bachata",
   "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1dlTnJPNjJZdmkxRmtaaWNlaXpUcjQzT1VBd0cybHM1VnBWRU94V1dPczJaeDgzWGFKZUllM2VLSEFxeFBqVGRTLTBMT2dfbGR2SkVVQnc4d054YVI1QTRnYUNhbWx4WXhMS2hpVnNES0F1VHpBQWtxb1BiM2pucWtsN2tjWF9OMHJWWGtHMkptSk5pWGxmTDZRSGg0YWQ0OXNXZkZuTVhjM2M?oc=5",
   "medio": "El Horizonte",
@@ -1717,6 +2370,20 @@
   ],
   "local": true,
   "id": "977e0c903d46e8c2"
+ },
+ {
+  "titulo": "Cierran cruce de San Ysidro tras tiroteo y persecución",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2ZEZlJKYWI0dVJrRnR3elpsX1BENTdtdlZQd2g4eW1TbzBBUk16a3FzTElPUEg1cExhamhUVDRha3RyRFRpZnZFaTJTQ0tWWS1CckZiNEJQOGV3UzZDcXJNN3RPY3c3TEUwUWxmRGkydV9Iek9mZlZqNTlmUFJ3dFZEaWFoQnBSTlQtdWt4YXVhTHpFajNmaWtTcWJrVzFMU2Q0?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-04T23:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T08:35:05-06:00",
+  "resumen": "Cierran cruce de San Ysidro tras tiroteo y persecución El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fd02d7f33c38098d"
  },
  {
   "titulo": "Movilidad busca a familiares del bebé que murió atropellado por transporte escolar en Zuazua",
