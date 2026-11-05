@@ -1,5 +1,760 @@
 [
  {
+  "titulo": "Cristiano Ronaldo se retira de la selección de Portugal tras 234 partidos",
+  "liga": "https://elcongresista.mx/politica/nacional/cristiano-ronaldo-retiro-seleccion-portuguesa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:38:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Cristiano Ronaldo se retira de la selección de Portugal con un récord de 234 partidos y 146 goles, dejando un legado imborrable.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ed30315539b6dc1e"
+ },
+ {
+  "titulo": "La Secretaría de Anticorrupción investiga a los Hernández en el INE",
+  "liga": "https://elcongresista.mx/politica/edomex/red-hernandez-casillas-ine-27-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:36:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "La Secretaría de Anticorrupción denuncia que la red de los hermanos Hernández operó en el INE por 27 años con empresas fachada.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "36c5b32e22efd569"
+ },
+ {
+  "titulo": "Lorenzo Córdova acusa al Gobierno de usar auditoría al IFE como \"cortina de humo\"",
+  "liga": "https://www.uniradioinforma.com/sociedad/lorenzo-cordova-acusa-gobierno-usar-auditoria-ife-como-cortina-humo-n912632",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T10:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Buscan eludir la responsabilidad de Morena y del oficialismo, señaló.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "2858c2f616b46167"
+ },
+ {
+  "titulo": "Sheinbaum cuestiona a Córdova sobre inacción ante red electoral",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-cordova-red-electoral-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:32:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Claudia Sheinbaum critica a Lorenzo Córdova por no actuar ante irregularidades en el INE y exige una investigación profunda.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0d2f0904b058f10e"
+ },
+ {
+  "titulo": "Claudia Sheinbaum afirma que clan Taddei permanece en México",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-clan-taddei-presente-en-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:32:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Claudia Sheinbaum informa que el clan Taddei se encuentra en México y desestima acusaciones de lavado de dinero.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7aa3434105aa686f"
+ },
+ {
+  "titulo": "Sheinbaum asegura que recorte al presupuesto del INE es posible",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-recorte-presupuesto-ine-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:31:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Claudia Sheinbaum no descarta recortes al presupuesto del INE para 2027 en contexto de corrupción.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "28b74299b82f173c"
+ },
+ {
+  "titulo": "Sheinbaum vincula red de contratos del INE con Somos; no sabe dónde está Taddei",
+  "liga": "https://zetatijuana.com/2026/11/sheinbaum-vincula-red-de-contratos-del-ine-con-somos-no-sabe-donde-esta-taddei/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-vincula-red-de-contratos-del-ine-con-somos-no-sabe-donde-esta-taddei",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-05T10:25:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "La presidenta admitió que el Gabinete de Seguridad no le ha informado si los señalados permanecen en territorio mexicano",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "66f18d13b2800562"
+ },
+ {
+  "titulo": "UPSA llevará a cabo 33 actividades en la Semana de la Ciencia 2023",
+  "liga": "https://elcongresista.mx/politica/nacional/upsa-semana-ciencia-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:25:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "La Universidad Pontificia de Salamanca ofrecerá 33 actividades en la Semana de la Ciencia del 7 al 15 de noviembre, abiertas al público.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "220cbc2a683fb241"
+ },
+ {
+  "titulo": "Hombre pide ayuda a policías tras ataque armado, pero muere en Lomas del Porvenir",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY00xc1VfZC1OdTNaNVo1OWdmODRPSDJjQi1UX0RFYW1KUGgtdlplQW5KTDk1bzVEWkY5OGNrNGRfb2JiRVV4U09OaldyejFBVEZYVVBUN0wwTGdvamJ1Y2Y2NnNhclZWU1hJWEpDRm5hLVRhWHZlQWlpSEEyUWFMVi1MRi1oWXRzTC1MemZhcFk2Y0RNZjF5WXlGMmxucGlhUWlFY0o1YW42bDlEY2VZOHlWMU5TQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-05T10:22:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Hombre pide ayuda a policías tras ataque armado, pero muere en Lomas del Porvenir Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ef73df7a1943a0c1"
+ },
+ {
+  "titulo": "\"Presumimos que Guadalupe Taddei sigue en México\": Sheinbaum",
+  "liga": "https://www.uniradioinforma.com/gobierno/presumimos-guadalupe-taddei-sigue-mexico-sheinbaum-n912629",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T10:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Descartó que los hermanos Hernández Casillas \"laven\" dinero para el narcotráfico.",
+  "temas": [
+   "Seguridad",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "0104eadbb8b406af"
+ },
+ {
+  "titulo": "Claudia Sheinbaum investiga corrupción por 2,740 mdp en CDMX",
+  "liga": "https://elcongresista.mx/justicia/claudia-sheinbaum-red-corrupcion-2740-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:19:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Claudia Sheinbaum presentó una investigación sobre una red de corrupción relacionada con contratos electorales por 2,740 millones de pesos.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "9a1c0a980b477cfd"
+ },
+ {
+  "titulo": "Rosa Villavicencio critica al Gobierno por parálisis consular en TJ",
+  "liga": "https://elcongresista.mx/politica/baja-california/rosa-villavicencio-consulado-tijuana-criticas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:18:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Rosa Villavicencio exige explicaciones al Gobierno de Abelardo de la Espriella por la parálisis del consulado en Tijuana.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ed7baa625ffff97f"
+ },
+ {
+  "titulo": "Morena en Michoacán: ventaja de 10 puntos rumbo a elecciones 2027",
+  "liga": "https://elcongresista.mx/politica/michoacan/morena-michoacan-ventaja-10-puntos-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:17:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Gladyz Butanda revela que Morena tiene una ventaja de 10 puntos sobre la oposición en Michoacán para las elecciones del 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "a79b00fe8ece1fad"
+ },
+ {
+  "titulo": "Una mujer muerta y un hombre herido tras ataque en Ensenada",
+  "liga": "https://elcongresista.mx/politica/baja-california/ensenada-mujer-muerta-hombre-herido-ataque-armado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:16:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Ataque armado en Ensenada causa la muerte de una mujer y deja un hombre herido. La Fiscalía investiga los incidentes.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "d0c76aa0e7326d20"
+ },
+ {
+  "titulo": "En Ensenada, Baja California, ataque armado deja una mujer muerta y un hombre de 57 años herido por disparos.",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWU3d3NfS0x0a1JuWEhBd1l6X3NLZHVpdEVjVFhKZnJmWklWcFpvNFJHeUdHWWt1dnB5NUhBUTJwMzJfcG5KeDI5M0c0cTdGdnE1cGtKdUlmRmkyeUsyTU81ekRwTmhLcE9USHBZRGZ0Qlh1dlpNRmZMQnFiRGlWQzNoV29xUTBqbjM0N3BUdmpSaWpzaFZ2WXRpay1raHFo?oc=5",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:16:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "En Ensenada, Baja California, ataque armado deja una mujer muerta y un hombre de 57 años herido por disparos. El Congresista",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ee430c67ea159b0c"
+ },
+ {
+  "titulo": "Costco y MetLife destacan entre 10 empresas estadounidenses en México",
+  "liga": "https://elcongresista.mx/politica/nacional/empresas-estadounidenses-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T10:15:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Costco y MetLife son algunas de las empresas estadounidenses que generan billones en ingresos y miles de empleos en México.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "26e190b587a3c49a"
+ },
+ {
+  "titulo": "Tras el “el cochinero” electoral, Sheinbaum prepara cambios en Talleres Gráficos de México",
+  "liga": "https://jornadabc.com.mx/general/mexico/tras-el-el-cochinero-electoral-sheinbaum-prepara-cambios-en-talleres-graficos-de-mexico/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T10:12:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "La propuesta contempla incorporar más secretarías del gobierno y a representantes de instituciones académicas, anunció la mandataria La entrada Tras el “el cochinero” electoral, Sheinbaum prepara cambios en Talleres Gráficos de México se publicó primero en La Jornada Baja Califor",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "d036891cdc794be5"
+ },
+ {
+  "titulo": "Sheinbaum viajará a China; buscará reunirse con Trump durante foro de APEC",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-viajara-china-buscara-reunirse-trump-durante-foro-apec-n912626",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T10:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Rosa Icela Rodríguez encabezará las mañaneras mientras la presidenta esté en China.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "18075b570d0be621"
+ },
+ {
+  "titulo": "“Millonarios del agua”: alrededor de 3 mil 300 usuarios explotan el líquido en México",
+  "liga": "https://jornadabc.com.mx/general/mexico/millonarios-del-agua-alrededor-de-3-mil-300-usuarios-explotan-el-liquido-en-mexico/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T10:05:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Acaparan casi una quinta parte del líquido concesionado. En un estudio, ubica a 966 compañías, mil 537 personas físicas y 800 grupos civiles; suman 514 mil títulos repartidos entre 361 mil beneficiarios La entrada “Millonarios del agua”: alrededor de 3 mil 300 usuarios explotan e",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "b09f92c57bac8089"
+ },
+ {
+  "titulo": "Persecución Policial Provoca Cierre Temporal de Garita El Chaparral en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHNKRXhUZWRuTWNZUURPVmp5QVV0WEZDSVd0UUtlUWt1N3ZzaEhPZ1JZdnNuWGI1ZjdlOU55bWVjaDZGYlU3aEg3SGdXeDFDc2RCYjV5MUl6Ym1KQU1rN0FxZkxfTzhsOWNONU5KTGZGYUQ3UmQ0V0djNjlXVU04Wlc0LXpFVWZ0QkNFQU1uWVpwaTBqMW5kaV9jU0ZIYjc3Yy1jcEg2akFieXpYd29Sc3FBX2pYOFoybENCYWdQOXBhMm5nWjllMg?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-05T10:04:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Persecución Policial Provoca Cierre Temporal de Garita El Chaparral en Tijuana N+",
+  "temas": [
+   "Seguridad",
+   "Migración",
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "4c1aad83310f314c"
+ },
+ {
+  "titulo": "Impulsa DIF BC autonomía e inclusión social con entrega de apoyos funcionales en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemYyWUFZdk1FSzViLUV3U1BFZHdSYUM2ZFNENEptY2pKTS1hZFN3YkhNSUs5SGRsMFotQ25YSDllUmpSOUZ4bk51VmZrY2xrREZLcW1lOVczS2owR0RWSXFiWGI5MlV2ZlE5RjFGZW9hcFRNVnFZdGJsdVNSNVFMZDJxR3U4OFF3QU1KbkdhdlJDUjYxRUIwN2VPcGNxNkJaTndtUnRIU3R5dnRwSTZ3b181QWhCQnUwRlFOU254Qm15dm1Ca1BSYVRPdzNYNmJxRERGcHV3?oc=5",
+  "medio": "En Linea BC",
+  "publicada": "2026-11-05T09:59:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Impulsa DIF BC autonomía e inclusión social con entrega de apoyos funcionales en Ensenada En Linea BC",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7ae699895fab7260"
+ },
+ {
+  "titulo": "Promulga Claudia Sheinbaum Ley de Economía Digital para reducir efectivo",
+  "liga": "https://elcongresista.mx/politica/nacional/ley-economia-digital-sheinbaum",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:58:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Claudia Sheinbaum promulga Ley de Economía Digital, que busca regular pagos y fomentar la digitalización en México.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bf12ac68663c010c"
+ },
+ {
+  "titulo": "QUEDÓ \"HUÉRFANA\"",
+  "liga": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TZm1nRFlWaHdnLWVqc25CSkd0bGV3WDFEY1k1ejNKeUc3c0czalFmSGtIX1kyR3UxelkxUjlXSXBnMmhzTW5UZF9qZ3V5WkFzSU16R2piX0JRelBkeGhVTTM4RGpYQm1M?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T09:57:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "QUEDÓ \"HUÉRFANA\" AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "876217733427170e"
+ },
+ {
+  "titulo": "Autoridades de Chihuahua detienen al hermano de César Duarte con dosis de droga y municiones de uso militar",
+  "liga": "https://jornadabc.com.mx/region/autoridades-de-chihuahua-detienen-al-hermano-de-cesar-duarte-con-dosis-de-droga-y-municiones-de-uso-militar/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T09:57:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "La AEI detuvo en Parral a Alejandro D. J., con dosis de cocaína, mariguana y cartuchos de uso exclusivo del Ejército La entrada Autoridades de Chihuahua detienen al hermano de César Duarte con dosis de droga y municiones de uso militar se publicó primero en La Jornada Baja Califo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "195fab797f4b327b"
+ },
+ {
+  "titulo": "Lynnwood celebra el Día de Muertos con música y arte para mil personas",
+  "liga": "https://elcongresista.mx/cultura/dia-de-muertos-lynnwood-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:57:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Más de mil personas celebraron el Día de Muertos en Lynnwood, promoviendo la cultura mexicana y uniendo familias en un evento lleno de tradición.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "f1c84caac23e08ed"
+ },
+ {
+  "titulo": "Muere Kimmarie Johnson, actriz de \"Beverly Hills, 90210\"",
+  "liga": "https://www.uniradioinforma.com/fama/muere-kimmarie-johnson-actriz-beverly-hills-90210-n912623",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T09:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Rhonda Scott, sobrina de la actriz, contó que Kimmarie sufrió un incidente cardiaco.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "c5a7a73940d0cf46"
+ },
+ {
+  "titulo": "Fallece Alan Jones, excampeón de Fórmula 1 y figura de Williams",
+  "liga": "https://elcongresista.mx/vehicular/alan-jones-fallece-f1",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:56:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Alan Jones, campeón de Fórmula 1 y figura de Williams, fallece dejando un destacado legado en el automovilismo.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "68e14aaa65ccfaa6"
+ },
+ {
+  "titulo": "Estéreo Picnic 2027 revela su cartel con más de 30 artistas confirmados",
+  "liga": "https://elcongresista.mx/cultura/estereo-picnic-2027-cartel-artistas-bogota",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:52:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Estéreo Picnic 2027 presenta su cartel con más de 30 artistas, destacando a Charli XCX y Travis Scott en Bogotá, del 19 al 21 de marzo.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "4f1e649015504081"
+ },
+ {
+  "titulo": "Detienen a exvocalista de Los Sebastianes por agredir a enfermero",
+  "liga": "https://elcongresista.mx/justicia/detenido-exvocalista-agresion-enfermero-piedras-negras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:51:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Rafael N, exvocalista de Los Sebastianes, fue detenido por agredir a un enfermero en Piedras Negras, causándole severas lesiones.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "59a9bfa2ba4e7e18"
+ },
+ {
+  "titulo": "Defensa a trabajadores y migrantes, la clave del triunfo de demócratas en elecciones de EU",
+  "liga": "https://jornadabc.com.mx/02_secundarias/defensa-a-trabajadores-y-migrantes-la-clave-del-triunfo-de-democratas-en-elecciones-de-eu/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T09:50:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Candidatos electos ofrecen sacar el dinero de la política, aun a costa de sus dirigentes partidistas La entrada Defensa a trabajadores y migrantes, la clave del triunfo de demócratas en elecciones de EU se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Migración",
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "3ee6a13302ee83cd"
+ },
+ {
+  "titulo": "Recibe la FGR a activistas y colectivos de 11 estados",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVFmVDlRTHZvbVdvUmFWbkNMN1ItUGRLZm1IZkxJeVZIUWxQdkZNSHo0V2xLTnh4Mm8zM1E5Njl0ZFZFV1FXTVA1SnFSSDVhWmo0TFRjMlFtV1YtWk9aTzMwX1hEb29QY1M5TC1ZYkQ1dE5rcVRJeTVoYnlzMTZrM1dmdFRHYlBIaS1qbnl2a0xRc3NpaUVWeU5hYw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T09:50:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Recibe la FGR a activistas y colectivos de 11 estados AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "577e9e475f19f34d"
+ },
+ {
+  "titulo": "Aguakan invierte 7 millones en colector sanitario en Puerto Morelos",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/aguakan-inversion-colector-sanitario-puerto-morelos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:49:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Aguakan invierte más de 7 millones de pesos en nuevo colector sanitario en Puerto Morelos que beneficiará a más de 10 mil habitantes.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7aea775e349e47f0"
+ },
+ {
+  "titulo": "El Trompo conmemoró día de muertos con arte, música y moda",
+  "liga": "https://www.uniradioinforma.com/sociedad/el-trompo-conmemoro-dia-muertos-arte-musica-moda-n912620",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T09:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Edición reunió talento local de variadas expresiones artísticas y tradiciones.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "1ce266fb611552ab"
+ },
+ {
+  "titulo": "José Eduardo Derbez admite que las polémicas de su familia sí lo afectan",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTEyMTc2ZDYyRnBJclViWnlNQzFzd2R2SWRlRUVZcFp4S2U1SXJqODl1OE50eENTQ0hIU3BxT293cUNvS1BpR21pcHNtajFVanktejFoNXFCQjloWkpCZTNpVkJ3aUxkZEZ6d0VzUjFBczZyMkRVY2xqVjhpVWh3RjB3dzRERmtmcGZsbW9saHJQU1NQZS1GN0dSU1pMLXg0U0R1VW14T1llUDA4elplTWtsdHRWLU0?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T09:48:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "José Eduardo Derbez admite que las polémicas de su familia sí lo afectan AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d49b5a79a750eae0"
+ },
+ {
+  "titulo": "Se fuga reo del Centro Penitenciario El Hongo I",
+  "liga": "https://www.uniradioinforma.com/policiaca/se-fuga-reo-centro-penitenciario-hongo-i-n912618",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T09:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "549acc630e12db94"
+ },
+ {
+  "titulo": "Titular de la UIF se reserva información sobre posible bloqueo de cuentas de Amílcar Olán",
+  "liga": "https://www.uniradioinforma.com/gobierno/titular-uif-reserva-informacion-sobre-posible-bloqueo-cuentas-amilcar-olan-n912616",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T09:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Señaló que la UIF trabaja en coordinación con todas las instituciones de seguridad y \"actúan de manera inmediata sin importar quién sea\".",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "be94ceef8d95ab13"
+ },
+ {
+  "titulo": "Movimiento Independiente del Sombrero exige justicia por asesinato de su enlace en Tijuana",
+  "liga": "https://www.uniradioinforma.com/gobierno/movimiento-independiente-sombrero-exige-justicia-asesinato-su-enlace-tijuana-n912613",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T09:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e83c9a531a25d318"
+ },
+ {
+  "titulo": "Pepe Aguilar hace inesperada confesión sobre su infancia",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDBGck54MzBkb0U3UkVhbjRkcGJrZ0JnaHM4aW0wckZlYXlBb0dqeTZVdlpYWTBMZS1TVnczVmZLY3B1ZWIxUnRrbGU3Q0ptRUJzbUZBTDl3M3hSRDJkMUhSSlA4b09NTzdHS21GQmo2a0dQOG1NRkZrZ0JRWEh2N0x5TkpNTUVsbVFxLWZGcEdheGI4a003TkZPTkNvNnlSeEE?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T09:42:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Pepe Aguilar hace inesperada confesión sobre su infancia AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "db88b97b84fc81b1"
+ },
+ {
+  "titulo": "Cazzu comparte nuevas fotos de Inti en medio de su batalla legal con Christian Nodal",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMm56V2lUaklyeWF2Y211YnR4VTJhUVowY1JqNHdsNGNCd2J5S0xBc1FXeUtKNmF0cEVBZDJad1lyNjg2WVZ4RFpXN1hCZmFicUU2ZTh5SWRiMWFMWVB2VVBBVkp2ZW9JanFFOTJtMDE0djdaYUlOaDV4dTVjU1VrQ2Z4Ml9HY05rMG9HM0ZWZ25IbThLU092UVhsRTZKMjZwQUloZzRXUmJPZ1Q2Ui1JS3lRQTc4eXlaZ2V6ODJ0ajBYVEpSV180?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T09:42:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Cazzu comparte nuevas fotos de Inti en medio de su batalla legal con Christian Nodal AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f115571b9562a1bf"
+ },
+ {
+  "titulo": "Luis de Llano ofrece disculpa pública a Sasha Sokol; la artista la rechaza, “no es la que ordenó el tribunal”",
+  "liga": "https://jornadabc.com.mx/principales/luis-de-llano-ofrece-disculpa-publica-a-sasha-sokol-la-artista-la-rechaza-no-es-la-que-ordeno-el-tribunal/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T09:41:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "La cantante asevera que la disculpa que debe recibir, reconoce expresamente que a sus 14 años no podía consentir una relación con él productor y que él actuó desde una posición de poder La entrada Luis de Llano ofrece disculpa pública a Sasha Sokol; la artista la rechaza, “no es ",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "0e32fd6341edca7f"
+ },
+ {
+  "titulo": "Procuraduría investiga consulados de Colombia en México y Turquía",
+  "liga": "https://elcongresista.mx/politica/nacional/investigacion-sedes-consulares-colombia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:41:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "La Procuraduría General de la Nación investiga irregularidades en las sedes consulares de Colombia en México y Turquía.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4b87a3d24c53e038"
+ },
+ {
+  "titulo": "VIDEO.- Persecución desde Riverside terminó con disparos y cierre por horas de la garita de San Diego a Tijuana el Chaparral - San Ysidro",
+  "liga": "https://www.uniradioinforma.com/sociedad/video-persecucion-riverside-termino-disparos-cierre-horas-garita-san-diego-tijuana-chaparral-san-ysidro-n912611",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T09:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Fue una Persecución de 190 kilómetros desde Riverside que terminó con disparos a metros de Tijuana y cierra la garita de San Ysidro - El Chaparral.",
+  "temas": [
+   "Seguridad",
+   "Migración",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "de987229f0754265"
+ },
+ {
+  "titulo": "Sheinbaum: red de proveedores electorales viene del salinismo y creció en la gestión de Córdova en el INE",
+  "liga": "https://jornadabc.com.mx/principales/sheinbaum-red-de-proveedores-electorales-viene-del-salinismo-y-crecio-en-la-gestion-de-cordova-en-el-ine/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T09:35:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Desde el 2000 empezaron a ser proveedores de material electoral y desde 2014 fortalecieron sus empresas a falta de lineamientos claros de contratación, explicó Raquel Buenrostro, secretaria Anticorrupción y Buen Gobierno La entrada Sheinbaum: red de proveedores electorales viene ",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "f52dc2787645292f"
+ },
+ {
+  "titulo": "Fallece la primera actriz María Alicia Delgado a los 77 años",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkFwOVl1VDFYcE1rZlRiZ1h0OWJaMWtqSzM5bFl1RzJKRkE5WF9tSmNxbk5ackxMdy02NS00ZUpDNjVEWU1ISDF4YU1NTnZqbS1SVkRoWG8tMGxyWDY4QlpDU2p0cHlIUHRtMEN2T2pqUDZJbDYycWJPTHpHXzdzV0V4R2JLNi1SZGxjX2h6cC1KaDhsMzBvaXduRHdMN0tFcVN6T05IQQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T09:35:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Fallece la primera actriz María Alicia Delgado a los 77 años AFN",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "8ca5966808807bd8"
+ },
+ {
+  "titulo": "Russell Brand es declarado culpable de violación y tres agresiones sexuales en Londres",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1B5X1FLVXVwb1lCMU54Ui1JVFZyY0dvZ3F0VEJtaXo0aENBQXRkRDVEbGVoWEFuYzZKRWhVYU5GNExVMjFJN0R0V2pmMjBhOVVGclJyeUIzR1VLQlQtWno4QnZMb0tZRk9pdFZCVWJLbTlubVVtTkozRENSYWJGb3pEdTQ3a1pVYkd1a2xDaGoxaWZjUW9QaTBMRWpVOFhpbl9Nd3piUjJKLVc4SzdkRWN6UURXeUJsQ2JpQlpPcTZVU2VVU3lUVmdB?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T09:33:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Russell Brand es declarado culpable de violación y tres agresiones sexuales en Londres AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "47f9289d054c8725"
+ },
+ {
+  "titulo": "Fallece Humberto Musacchio, periodista sonorense y referente de la cultura en México",
+  "liga": "https://www.uniradioinforma.com/sociedad/fallece-humberto-musacchio-periodista-sonorense-referente-cultura-mexico-n912609",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T09:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "El periodista, ensayista, cronista y editor, fue uno de las más importantes voces críticas del periodismo en México.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6e41287af48ce7f3"
+ },
+ {
+  "titulo": "Hubo un muerto y dos heridos en balacera, en barbería del Centro",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVNKbzUwalZnaVEzWXgtLTdUWjdKV1Q4N0Z5TUNDLThrNHpYQVY2dlVhZ3hNM05RbjVmdE5CNDZybzIzWTd0dW91Y2FuQzA4d3ItRVhXNnFOQ2JWSURONzJ6dmh1TDB3dUlRcExrcnFHRmhGVFV5djRZeWhpdkIwanoyX3VINFF1YmJyOG8wSHRMOVNmRGw1X0V2UjVmak9KVXBNc3Zlcw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-05T09:32:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Hubo un muerto y dos heridos en balacera, en barbería del Centro AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e8002e5ed52e1495"
+ },
+ {
+  "titulo": "Muere futbolista de liga amateur tras choque en Cabo San Lucas",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/muere-futbolista-cristian-omar-hernandez-cabo-san-lucas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:32:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Cristian Omar Hernández, futbolista amateur, falleció tras un choque en Cabo San Lucas, generando luto en la comunidad deportiva local.",
+  "temas": [
+   "Accidentes",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "23e8e503235ddbb1"
+ },
+ {
+  "titulo": "Alfredo Anaya Gudiño reúne a líderes agroindustriales en Sahuayo",
+  "liga": "https://elcongresista.mx/politica/michoacan/congreso-proveedores-sahuayo-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:31:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Inicia el 34 Congreso Nacional de Proveedores en Sahuayo, encabezado por Alfredo Anaya Gudiño, con temas sobre agroindustria y tecnología.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "57d92f86feffe503"
+ },
+ {
+  "titulo": "Macarena Chávez se une a Movimiento Ciudadano en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/macarena-chavez-movimiento-ciudadano-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:31:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Macarena Chávez se incorpora a Movimiento Ciudadano en Michoacán, sumando su experiencia política al proyecto del partido.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "41fb662b9bf1972a"
+ },
+ {
+  "titulo": "Arranca el Jazztival 2026 en Morelia, con homenaje a Coltrane y Davis",
+  "liga": "https://elcongresista.mx/politica/michoacan/jazztival-2026-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T09:30:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "El Jazztival 2026 inicia hoy en Morelia con un homenaje a Coltrane y Davis, ofreciendo actividades gratuitas hasta el 7 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "da0f8c4a4c6c4a0a"
+ },
+ {
+  "titulo": "Culpa TSJE a la Fiscalía de generar judicializaciones para simular resultados",
+  "liga": "https://jornadabc.com.mx/principales/culpa-tsje-a-la-fiscalia-de-generar-judicializaciones-para-simular-resultados/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T09:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Envía casos que no tienen sentido para cumplir con el programa operativo anual y provocan el diferimiento de audiencias, lo que cuesta millones, señala Alejandro Fragozo ante el Congreso de BC La entrada Culpa TSJE a la Fiscalía de generar judicializaciones para simular resultado",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "c41655614170c53a"
+ },
+ {
   "titulo": "Alejandro Sabella y Estudiantes, un amor de 40 años en el fútbol",
   "liga": "https://elcongresista.mx/cultura/alejandro-sabella-estudiantes-40-aniversario",
   "medio": "El Congresista",
@@ -28,6 +783,21 @@
   ],
   "local": false,
   "id": "172a2d996e4f7df9"
+ },
+ {
+  "titulo": "Bajo investigación red empresarial con 27 años de contratos en organismos electorales",
+  "liga": "https://www.uniradioinforma.com/gobierno/bajo-investigacion-red-empresarial-27-anos-contratos-organismos-electorales-n912606",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-05T09:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Documenta el origen de este grupo empresarial, sus vínculos laborales y la manera en que fue ampliando su presencia en las contrataciones.",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "b60c1e24f43c0cd7"
  },
  {
   "titulo": "Aseguran 51 máquinas tragamonedas en operativos en Uruapan",
@@ -1318,6 +2088,20 @@
   ],
   "local": false,
   "id": "27bfca8470eefae3"
+ },
+ {
+  "titulo": "Pronostican cielo mayormente despejado para este jueves",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/pronostican-cielo-mayormente-despejado-para-este-jueves-32978309",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-05T05:08:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T10:40:23-06:00",
+  "resumen": "Se espera una temperatura máxima de 24° centígrados en la ciudad",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "54221549dd27324f"
  },
  {
   "titulo": "Dólar en RD: compra a RD$60.5704 y venta a RD$61.0459 hoy",
