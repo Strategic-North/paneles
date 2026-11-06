@@ -1,5 +1,371 @@
 [
  {
+  "titulo": "Paro de trabajadores del PJF: 32 mil empleados sin actividades hoy",
+  "liga": "https://elcongresista.mx/justicia/paro-trabajadores-pjf-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:17:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Más de 32 mil empleados del Poder Judicial suspenden actividades; protestan por un nuevo esquema de evaluación que amenazan sus puestos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b8f1d7a01149e1a9"
+ },
+ {
+  "titulo": "Juez de EU fija para 2028 el juicio contra los hermanos Treviño Morales, por narcotráfico",
+  "liga": "https://zetatijuana.com/2026/11/juez-de-eu-fija-para-2028-el-juicio-contra-los-hermanos-trevino-morales-por-narcotrafico/?utm_source=rss&utm_medium=rss&utm_campaign=juez-de-eu-fija-para-2028-el-juicio-contra-los-hermanos-trevino-morales-por-narcotrafico",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-06T08:16:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "La defensa podrá pedir que se excluyan las intercepciones de comunicaciones reunidas durante la investigación federal estadounidense",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b437a50a11e1b836"
+ },
+ {
+  "titulo": "Juan Carlos Padilla se deslinda de conexiones con Hernández Casillas",
+  "liga": "https://elcongresista.mx/justicia/juan-carlos-padilla-deslinda-hd-corrupcion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:15:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Juan Carlos Padilla niega vínculos con José Alfredo Hernández, quien está implicado en un escándalo de corrupción en el INE.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "95dfc22cee991145"
+ },
+ {
+  "titulo": "Poder Judicial de México inicia paro nacional con 32 mil trabajadores",
+  "liga": "https://elcongresista.mx/justicia/poder-judicial-paro-nacional",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:07:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Trabajadores del Poder Judicial de México inician un paro nacional por un nuevo esquema de evaluación laboral considerado injusto.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "6f73de9a4c6b677a"
+ },
+ {
+  "titulo": "Gobierno de Javier Milei cierra oficina de ANSES en Berisso",
+  "liga": "https://elcongresista.mx/politica/nacional/gobierno-cierra-oficina-anses-berisso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:06:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "El Gobierno de Javier Milei cierra la oficina de ANSES en Berisso, obligando a los vecinos a desplazarse a La Plata para realizar trámites.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cea6c1a927f0f69d"
+ },
+ {
+  "titulo": "Estudiantes avanza a semifinales tras vencer a Universal 74-64",
+  "liga": "https://elcongresista.mx/politica/nacional/estudiantes-avanza-semifinales-basket",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:05:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Estudiantes avanza a semifinales tras vencer a Universal 74-64 en el Torneo Oficial de básquet platense.",
+  "temas": [
+   "Educación",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "994b007b3eb9f1d0"
+ },
+ {
+  "titulo": "Corregidora realizará 14 jornadas gratuitas de esterilización animal.",
+  "liga": "https://elcongresista.mx/politica/queretaro/coraegidora-jornadas-esterilizacion-animal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:03:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Corregidora realizará 14 jornadas gratuitas de esterilización animal en noviembre para promover la tenencia responsable y el bienestar.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e73a339fbe3a5ae2"
+ },
+ {
+  "titulo": "Toluca ofrece más de 50 mil atenciones a animales en dos años",
+  "liga": "https://elcongresista.mx/estado-de-mexico/toluca-bienestar-animal-atenciones-animales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:03:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Toluca reporta más de 50 mil atenciones a perros y gatos en dos años, destacando en el cuidado de los animales y la tenencia responsable.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "09e5edb03107a971"
+ },
+ {
+  "titulo": "Alerta por frente frío en México: temperaturas de hasta -5 grados",
+  "liga": "https://elcongresista.mx/politica/nacional/alerta-frente-frio-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:52:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "México enfrenta un nuevo frente frío del 6 al 9 de noviembre, con temperaturas de hasta -5 grados y lluvias severas en varias entidades.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "13e50f5a7de98a5c"
+ },
+ {
+  "titulo": "Frente frío 4 provocará lluvias en 27 estados y bajas temperaturas",
+  "liga": "https://elcongresista.mx/politica/nacional/frente-frio-4-lluvias-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:51:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "El frente frío número 4 provocará lluvias en 27 estados de México y descensos de temperatura este 6 de noviembre, advierte el SMN.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d95b629b7b2dd5b4"
+ },
+ {
+  "titulo": "Cruz Azul Femenil se despide del Apertura 2026 frente al León",
+  "liga": "https://elcongresista.mx/morelos/cruz-azul-femenil-despide-apertura-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:50:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Cruz Azul Femenil cierra su participación en el Apertura 2026 con un encuentro ante León en Cuernavaca.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "21e76f824dfd5df1"
+ },
+ {
+  "titulo": "CFE suspenderá suministro eléctrico en Tecate por 6 horas",
+  "liga": "https://elcongresista.mx/politica/baja-california/cfe-tecate-apagon-6-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:49:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "La CFE interrumpirá el suministro eléctrico en Tecate, Baja California, el 6 de noviembre, por trabajos de mantenimiento preventivo.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "2036d1c62cdb6a69"
+ },
+ {
+  "titulo": "Trabajadores del Poder Judicial protestan en CDMX contra nuevas evaluaciones",
+  "liga": "https://elcongresista.mx/justicia/protestas-poder-judicial-cdmx-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:48:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Trabajadores del Poder Judicial de la Federación protestan hoy en CDMX contra nuevas evaluaciones que amenazan su estabilidad laboral.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ecd1d293997600ac"
+ },
+ {
+  "titulo": "Los bomberos de Ensenada organizan una cena solidaria ante el retraso de subsidios y los altos costos operativos",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY00zUHFsYXNSZ2JCRFBlM1R3SXBwaUh5MUhQdEpVek1zemlFVjJ5azBJRVhoNEktVTlzM2hSRkQ3S2Fsc0tYMXExRHNUVGF4eUtWNkZyNEJzYTZabXJPVTg3eUotQVNFNmVGZzUteUp6dGhkTEVzUlI0TlBhNGRmZ0V1aG1wdFlybTRIdlZOZ2dQbFl5WGM4U1M3M1JQNHBqaHp1NHpKdnA5YUk5X045VDNnSlV1RWt2SVVQZHBtNmx1LVhKel8zVzI3UVphb0RWX1h4Yy15c0dsVHFlaHNVcA?oc=5",
+  "medio": "Infocielo",
+  "publicada": "2026-11-06T07:47:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Los bomberos de Ensenada organizan una cena solidaria ante el retraso de subsidios y los altos costos operativos Infocielo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2212337416318348"
+ },
+ {
+  "titulo": "Oso grizzly intenta 46 veces cruzar carretera en Montana",
+  "liga": "https://elcongresista.mx/politica/nacional/oso-grizzly-cruzar-carretera-montana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:35:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Un oso grizzly intenta cruzar una carretera en Montana 46 veces, resaltando los peligros de un entorno fragmentado.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0dd261c6569d111e"
+ },
+ {
+  "titulo": "La Plata licita $19.000 millones para pavimentar 25 avenidas",
+  "liga": "https://elcongresista.mx/vehicular/la-plata-licita-obras-pavimentacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:35:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "La Plata abre una licitación de $19.000 millones para pavimentar 25 avenidas y mejorar su infraestructura vial.",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "accc9a4a6f1cf5fb"
+ },
+ {
+  "titulo": "Frente frío 4 provocará lluvias intensas en ocho estados de México",
+  "liga": "https://elcongresista.mx/politica/nacional/frente-frio-4-lluvias-ocho-estados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:33:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "El frente frío 4 provocará lluvias intensas y riesgos de inundaciones en ocho estados de México este 6 de noviembre.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c85d4371a05d3466"
+ },
+ {
+  "titulo": "Transforman departamento de 10 m² en elegante refugio en París",
+  "liga": "https://elcongresista.mx/politica/nacional/departamento-paris-10m2-renovacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:32:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Un departamento de 10 m² en París se transforma en un elegante refugio, maximizando el uso del espacio y la luminosidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "86847e6be40d4eb5"
+ },
+ {
+  "titulo": "Acusa líder migrante en Michoacán falta de diputación migrante",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-lider-migrante-falta-diputacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:31:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "El líder migrante Pedro Fernández Carapia denuncia la falta de representación migrante en Michoacán y critica la inacción del Gobierno local.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3965d924cfa6a604"
+ },
+ {
+  "titulo": "La frontera entre México y EE. UU. se tiñe de azul por demócratas",
+  "liga": "https://elcongresista.mx/politica/nacional/frontera-entre-mexico-y-eeuu-se-tiene-de-azul",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:07:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Las elecciones intermedias en EE. UU. alteran la política fronteriza con gobernadores hijos de migrantes y un nuevo contexto cultural.",
+  "temas": [
+   "Migración",
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bf8bbb5a3ec34a0b"
+ },
+ {
+  "titulo": "Juanfran Funes asegura que el Málaga debe vivir cada partido como si fuera el último",
+  "liga": "https://elcongresista.mx/politica/nacional/juanfran-funes-malaga-vivir-partidos-ultimos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:06:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Juanfran Funes, técnico del Málaga, habla sobre la importancia de vivir cada partido como el último y rinde homenaje a Jesús De Miguel.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f33bb772db421d71"
+ },
+ {
+  "titulo": "Cerrarán 72 Registros del Automotor en Argentina en 60 días",
+  "liga": "https://elcongresista.mx/vehicular/cierre-72-registros-automotor-argentina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:05:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "El gobierno argentino cerrará 72 Registros del Automotor en diversas provincias en un plazo de 60 días, impactando los trámites vehiculares.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a9c5abd8dfa6fba7"
+ },
+ {
+  "titulo": "Cientos de manifestantes cierran División del Norte en Coyoacán",
+  "liga": "https://elcongresista.mx/sociedad/bloqueos-manifestaciones-coyoacan-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:04:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Manifestantes cierran División del Norte en Coyoacán; diversas protestas generan afectaciones en el tráfico de la capital.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "bbd0cb7af993c3af"
+ },
+ {
+  "titulo": "Incendio en la Zona Norte de Tijuana Moviliza a Elementos de Bomberos",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZS1aeGVkbTRZdEtLcEU3Vl9HX1doRlVvT0M0blJRT3BxRTlsMmJaZW51N1NzYmtkckJ2dzVXdUdNM1hNZ0tHM002ZEp5WVY1bC15UGNVLVlRenA2dlowUnR6Z21sN1cwZTZoX1c2NkpSb1hUTXFYaGk4WDhZZXBXSlBTU1Z0TFg1OFl3eVNfRnV3ejU2RE9kZzBKZzVOQjVadDZMYVExTGY4MDJSWms3MHFmbzlFLVhTclktejJfVUx0bElxdU05Y2pyTElsS3llVzRiX05FTmQtVkpYY1E?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-06T07:03:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Incendio en la Zona Norte de Tijuana Moviliza a Elementos de Bomberos N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "a4c4ac9f8db91f84"
+ },
+ {
+  "titulo": "Sancionan a 7 mil 500 establecimientos en Morelia por incumplimiento",
+  "liga": "https://elcongresista.mx/politica/michoacan/morelia-sanciones-establecimientos-proteccion-civil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T07:02:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "En Morelia, 7 mil 500 establecimientos han sido sancionados por no cumplir con las normativas de Protección Civil, buscando mejorar su seguridad.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "20c09b90b40e4fd5"
+ },
+ {
   "titulo": "Guillermo Ramírez presenta 45 millones en obras en su Informe Legislativo",
   "liga": "https://elcongresista.mx/politica/hidalgo/guillermo-ramirez-informe-legislativo-parral",
   "medio": "El Congresista",
@@ -1701,6 +2067,20 @@
   ],
   "local": false,
   "id": "e46e0fd0cd69cc6f"
+ },
+ {
+  "titulo": "Atropella a mujer auto fuera de control",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2ZBUjFycWswS0hGMmVuUHpwTm00czc5MUlZQWlYbmpwbmpSd3ZyaFBfUHpPZ3Ffa3g3R2EzQW9RZG14QldReGw4Um1xS1ZlZHhvYVExSWtpbS1kVlFXcElYb2NfUjdvc0NMdWtYcmYxQUkzdkpNMi1FZktfdFBjTFlRbkNFSDhkS3ljQXpkb2xaeWs?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-06T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T08:17:58-06:00",
+  "resumen": "Atropella a mujer auto fuera de control El Vigía",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "40639c7a45e76349"
  },
  {
   "titulo": "DA2 Salamanca: Aura Satz presenta exploración sonora en Visiones Contemporáneas",
