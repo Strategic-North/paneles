@@ -1,5 +1,553 @@
 [
  {
+  "titulo": "IMSS-Bienestar instala laboratorios con internet en 8,200 clínicas",
+  "liga": "https://elcongresista.mx/salud/imss-bienestar-laboratorios-internet",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:32:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "El IMSS-Bienestar modernizará 8 mil 200 clínicas con internet, impactando a 55 millones de pacientes en México.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "a744f1650c20ae2e"
+ },
+ {
+  "titulo": "América enfrenta a Pumas en el Clásico Capitalino sin Brian Rodríguez",
+  "liga": "https://elcongresista.mx/politica/nacional/america-pumas-clasico-capitalino-brian-rodriguez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:27:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "El América se enfrenta a Pumas sin Brian Rodríguez en el Clásico Capitalino, crucial para el liderato del Apertura 2026.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "921ac586b97086d8"
+ },
+ {
+  "titulo": "Arde departamento en tercer piso de edificio en Infonavit Lomas Verdes",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUR3YkdjY0pETVhfZjFwTFJfRmNxaExzWnFUZjhqT2hyRzZVTUM0dnFhNHN0RXZ0ems4QXJJcnM5Z0xGZnU2UWxadWt5Qk9IRDFERG0yekI3ZkgxSmFCR2pabXpXSDhNWnlsVHBtWHZ4VTJvNDFJMkpWWW1YZEZ3WFo5MVp6QUlaaDZZVzlTOHlsM0dadDNiQnl2SmxGeHhZQmFWdXZoVGFyM3I5eVZXZkdtM05fT1NuYUlZWXJB?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T13:25:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Arde departamento en tercer piso de edificio en Infonavit Lomas Verdes AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "be56c0e3d38e4c02"
+ },
+ {
+  "titulo": "Mexicanos Primero Sinaloa denuncia recortes educativos de 36% en 2026",
+  "liga": "https://elcongresista.mx/politica/sinaloa/recortes-educativos-sinaloa-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:22:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Mexicanos Primero Sinaloa denuncia recortes de hasta 36% en presupuesto educativo para 2026, afectando infraestructura y formación docente.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a916a2fe8b90ae75"
+ },
+ {
+  "titulo": "Mara Lezama inaugura Copa Mundial de Aguas Abiertas con 122 nadadores",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/mara-lezama-copa-mundial-aguas-abiertas-cancun",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:20:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Mara Lezama da inicio a la Copa Mundial de Aguas Abiertas en Cancún con 122 participantes de 37 países.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a7355b35b79a5cc4"
+ },
+ {
+  "titulo": "Trabajadores del Poder Judicial paralizan actividades en varios estados de México",
+  "liga": "https://elcongresista.mx/justicia/trabajadores-poder-judicial-paro-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:19:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Trabajadores del Poder Judicial de México realizan paros y bloqueos en protesta por nuevas evaluaciones que amenazan su estabilidad laboral.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d838031f97fd4eb7"
+ },
+ {
+  "titulo": "Entregan quinto informe de Marina del Pilar en Baja California",
+  "liga": "https://elcongresista.mx/politica/baja-california/quinto-informe-marina-pilar-bc",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:18:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Marina del Pilar presenta su quinto informe junto a críticas de la oposición sobre la situación en salud e inseguridad en Baja California.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "81eeb57ba401a66a"
+ },
+ {
+  "titulo": "Ramón Vázquez realiza asamblea informativa de Morena en Leandro Valle",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVRSUWRNYlZoSldobWtYaVRheFZ0SFpPc1BlUFp4RkJtRjJ3TWJJWlVaVUszc1RWb0pVOEY1QnN2SHhNYmxKRkZYT1M4MnRmMklicEhuUEU1VUJDM1dDMWdGekxsTzEzazlvblBZdVZyU0VJSGM4SEFUVjRuMUFEOU9mM0JpVkxIaUJCYXBSY3VXRDZlalFjem9tc21La1hiWlptemxkZ00?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-06T13:17:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Ramón Vázquez realiza asamblea informativa de Morena en Leandro Valle Baja News",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a49742c7079b5fd2"
+ },
+ {
+  "titulo": "Golpean a pasajero por reclamar su cambio, detienen a un \"calafiero\"",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHBTNmhWS2pmT2hGT0ZOT3BXQXI2MlFUY1RqR20wNS1wU2ptbEVaVTZvRUhzN0tydHkxN2lCYWxHWHNTVjdUckdUNVM5V19zWG14Tm8xRTZJWUtMWHd6T1BpUG5UdTNTTV9WdHJVS0llWW52RWdzdElvaDd3cGxoUm9QcDZMN3NhTmR4ZDQ2M0VIejRyaTVfeU5ISUN5eVNwOE95OUk3cmpZdw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T13:14:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Golpean a pasajero por reclamar su cambio, detienen a un \"calafiero\" AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "175121b8f191cdea"
+ },
+ {
+  "titulo": "Aseguran oficiales de la SSPCM a un hombre por su presunta responsabilidad en violencia familiar",
+  "liga": "https://www.uniradioinforma.com/policiaca/aseguran-oficiales-sspcm-hombre-su-presunta-responsabilidad-violencia-familiar-n912905",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T13:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "09dc363200e16b1d"
+ },
+ {
+  "titulo": "Tijuana prepara refugios y operativos ante posibles lluvias por El Niño",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZTZ5dFNJdEJkT3M5VWZGWGhmZi1YNm10TDBqaF9OZmo5dDZsMy1CUlpZTU9fUmUyYXN5aXdNUXVpVkNlWXZBOHVrZ05vdTROalhQWXplTjZxN2NPclBZdFZoei05WmtGdEVkOFFzejc1bjZYQkpfcE5jSXBNRUdjT0VHYUFhdWVycjhuVXBoc2FsY2hCLUpNek1kS2JpYzdVakwxOU9DSUdZa2M?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-06T13:13:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Tijuana prepara refugios y operativos ante posibles lluvias por El Niño Baja News",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "bcefa542c58dab19"
+ },
+ {
+  "titulo": "Presentan quinto informe de Marina del Pilar ante el Congreso de BC",
+  "liga": "https://zetatijuana.com/2026/11/presentan-quinto-informe-de-marina-del-pilar-ante-el-congreso-de-bc/?utm_source=rss&utm_medium=rss&utm_campaign=presentan-quinto-informe-de-marina-del-pilar-ante-el-congreso-de-bc",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-06T13:12:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "El secretario general de Gobierno, Juan José Pon Méndez, presentó ante el Congreso del Estado el quinto informe de gobierno de la gobernadora Marina del Pilar Ávila Olmeda, resaltando avances en educación, infraestructura e inversión.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Educación"
+  ],
+  "local": true,
+  "id": "a51248ff9563361a"
+ },
+ {
+  "titulo": "Pronostican fuertes vientos de Santa Ana en Tijuana",
+  "liga": "https://puntonorte.info/2026/11/06/pronostican-fuertes-vientos-de-santa-ana-en-tijuana/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-06T13:08:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Tijuana.- Se esperan fuertes ráfagas de viento de hasta 50 kilómetros por hora para la ciudad a partir de hoy, viernes 6 de noviembre y hasta el domingo 8, informó el gobierno municipal. Esta mañana, el Ayuntamiento de Tijuana emitió un aviso meteorológico con pronóstico de condi",
+  "temas": [
+   "Clima",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "a3af62adca59db75"
+ },
+ {
+  "titulo": "Retiran 43 toneladas de basura en Tijuana para mejorar vialidades",
+  "liga": "https://elcongresista.mx/politica/baja-california/tijuana-retiran-43-toneladas-basura",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:06:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Tijuana retira 43 toneladas de basura en tres delegaciones para prevenir inundaciones y mejorar vialidades.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "979e9d009701f2b4"
+ },
+ {
+  "titulo": "Cierra papelera en Argentina tras 66 años y despide a 160 empleados",
+  "liga": "https://elcongresista.mx/politica/nacional/cierre-papelera-sur-argentina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:05:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "La Papelera del Sur cierra tras 66 años, despidiendo a 160 trabajadores en medio de políticas de importación en Argentina.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "062b80d37fa5d200"
+ },
+ {
+  "titulo": "Atienden tres emergencias relevantes en Tijuana; un hombre murió por quemaduras",
+  "liga": "https://www.uniradioinforma.com/policiaca/atienden-tres-emergencias-relevantes-tijuana-hombre-murio-quemaduras-n912901",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T13:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e12216743f3acc00"
+ },
+ {
+  "titulo": "Meta, Google y TikTok impugnan ley que restringe redes a menores",
+  "liga": "https://elcongresista.mx/politica/nacional/meta-google-tiktok-ley-ab-1709-restringir-menores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:02:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Meta, Google y TikTok impugnan la ley AB 1709 que prohíbe el acceso a redes sociales a menores de 16 años en California.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "722db5aa9e7c1f39"
+ },
+ {
+  "titulo": "Crisis en Paraguay: renuncia presidencial tras protestas masivas",
+  "liga": "https://elcongresista.mx/politica/nacional/crisis-paraguay-renuncia-santiago-pena",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:02:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Santiago Peña renuncia a la presidencia de Paraguay tras protestas masivas por la pérdida de ahorros.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5397ca92ae34d846"
+ },
+ {
+  "titulo": "Juego Piak, tradicional de los pueblos originarios de Baja California, es celebrado por la presidenta Claudia Sheinbaum",
+  "liga": "https://www.uniradioinforma.com/sociedad/juego-piak-tradicional-pueblos-originarios-baja-california-celebrado-presidenta-claudia-sheinbaum-n912899",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T13:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Como parte de la estrategia de difusión Suave Patria, transmitidas los viernes en el marco de la conferencia matutina presidencial, se mostró la práctica tradicional de la comunidad kumiai de San Antonio Necua.",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "2115a2f228d1d790"
+ },
+ {
+  "titulo": "Jubilados de Pemex protestan por falta de medicamentos y médicos en Rosarito",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXA0dHBWeFp5Zks2UnFvRjl0Wkp3MVN1Vi04dWl5YWFuQnZnUE5Ed3JoOVBnbnRNVUszT0h1TUNSUG1KV0N2VWxPSEZqb2pKV3QxOUIyRVlGTl9Ic2EwQmh0Q3pwMzVvV1ZWRHBLNUtYYWxrLTE3TzI5Y1V3N1JES3RGbmxtb040NXBmTnpHOUZvVWVHaDV6aW9OUDUxSTZlZ1hJSjZTdXA1Z0ZQRnN5RzdB?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-06T13:00:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Jubilados de Pemex protestan por falta de medicamentos y médicos en Rosarito Baja News",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "e31c5626c498fcae"
+ },
+ {
+  "titulo": "Aguinaldo: exento hasta 3,519 pesos en impuestos para 2026",
+  "liga": "https://elcongresista.mx/finanzas/aguinaldo-exencion-impuestos-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T13:00:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "El aguinaldo estará exento de impuestos hasta 3,519 pesos en 2026 para trabajadores en México. Conoce más detalles.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "b88d340dcc363ea1"
+ },
+ {
+  "titulo": "Denuncian Presunto Maltrato Animal Tras Muerte de Caballo en Ensenada, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTG41MDVzZjZGRldwNmRRRWl1YjR5WUZJQU9ITi01dWVmZ3JscVc2UWpxNE90Wi1hS3RMNDVJcWJOUDYwdExKSEVRWmY5UGlEbjljcWhrcmxraEVHcHlxVF9jcmdtZ2xZQkV5cG90VWpiNnVCaW1VbngxY1UxcmZ5VTdhTHBKSVR2cTQ2c2FsSGFERGJWdUNqb3Z1cXEzazlNSmVEb0dNeEtKdnl5VEhvanNLaV9qUDFoV0p5ZUt0REM?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-06T12:56:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Denuncian Presunto Maltrato Animal Tras Muerte de Caballo en Ensenada, BC N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e0d5b816f870ef88"
+ },
+ {
+  "titulo": "Advierte Burgueño por arribo de vientos de Santa Ana",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemtzV0NxUFRKMHdpaFNHcml4ejJfeUxNMWx6YUpPWnUtbTlheVZrZ3M0NURpYUlpNDhNd0xyRm5wcUtNaU1QRGdpUHNXcm9qRWNsRk1wMnh2Y29zX1o1NmsyRG9ZOEhnWG5JT3VEbTNmMk9ONm9DYld4b2IycnFSMzhTbHhrNzNOMWo5RGZQQ2VnaWxSMjJTbmJ0LWtSMlBLdTJTdzZn?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T12:55:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Advierte Burgueño por arribo de vientos de Santa Ana AFN",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "11be67356c2d4b6b"
+ },
+ {
+  "titulo": "Román Cota despidió a directora del Instituto de la Mujer por denunciar uso de recursos del Ayuntamiento para promover su candidatura",
+  "liga": "https://puntonorte.info/2026/11/06/roman-cota-despidio-a-directora-del-instituto-de-la-mujer-por-denunciar-uso-de-recursos-del-ayuntamiento-para-promover-su-candidatura/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-06T12:55:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Tecate.- La exdirectora del Instituto Municipal de la Mujer (Immujer) de Tecate, María de Jesús Simental Luna, dio a conocer que semanas antes de que el alcalde Román Cota Muñoz le pidiera renunciar a su cargo, ella denunció a su secretario particular y a la directora de Bienesta",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "0ce6c785b727f0c8"
+ },
+ {
+  "titulo": "Carlos Cabezas celebra 40 años de carrera con disco en vivo",
+  "liga": "https://elcongresista.mx/cultura/carlos-cabezas-lanza-disco-en-vivo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T12:50:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Carlos Cabezas celebra 40 años de carrera musical con el lanzamiento de “Mil Cabezas en vivo” en Santiago.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "0d497c85bf97436c"
+ },
+ {
+  "titulo": "Gréthel Ávila: problemas educativos tienen raíces en el pasado",
+  "liga": "https://elcongresista.mx/educacion/grethel-avila-problemas-educativos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T12:50:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "La diputada Gréthel Ávila señala que los problemas educativos actuales tienen raíces en deficiencias de administraciones pasadas.",
+  "temas": [
+   "Política y partidos",
+   "Educación"
+  ],
+  "local": false,
+  "id": "0c0d3f5cd8036663"
+ },
+ {
+  "titulo": "Liga MX: nueve duelos decisivos en la Jornada 16 del Apertura 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/jornada-16-liga-mx-apertura-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T12:49:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "La Jornada 16 de la Liga MX se llevará a cabo del 6 al 8 de noviembre, con nueve juegos clave para definir clasificaciones a la Liguilla.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "abc6f9bd27150996"
+ },
+ {
+  "titulo": "Mesa de Seguridad en Juárez aborda incidencia delictiva reciente",
+  "liga": "https://elcongresista.mx/politica/chihuahua/mesa-seguridad-juarez-analiza-incidencia-delictiva",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T12:48:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Autoridades de Ciudad Juárez revisan incidencia delictiva del 30 de octubre al 5 de noviembre durante la Mesa de Seguridad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8270cad72ec40d03"
+ },
+ {
+  "titulo": "Paro nacional del Poder Judicial impacta 16 estados por evaluación",
+  "liga": "https://elcongresista.mx/justicia/paro-nacional-poder-judicial-evaluacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T12:47:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Trabajadores del Poder Judicial realizan un paro en más de 16 estados en rechazo a nueva evaluación de desempeño que consideran perjudicial.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "5f4eb5ad7b572481"
+ },
+ {
+  "titulo": "Sentiste los chingazos por Rachel: Bertín a Tulio; es ruin sacar raja, le revira",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXVac2pTM083NFZKQmw1SU1qVG8zbm1VaXhhTEdqVldQMUFOcFhIaWU1bENoUEd5NXp1UTZoRVBYbVp0REZTV0lpUVpuLVRlaElpcEpacXpvZEE3TGppV0FqNTVxNWlsVWJSUWpJWlN4SjZHTmw5N0NhNGwzdDVzUGpWa2sycGsyWVlGbHRjUFk5Z3BseGotcXN3dThwb0JXUmNUcENDbndEZl9QQVE5Q2F1cw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-06T12:45:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Sentiste los chingazos por Rachel: Bertín a Tulio; es ruin sacar raja, le revira Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0a7d07eaac7594d4"
+ },
+ {
+  "titulo": "Realizan paro laboral trabajadores del Poder Judicial en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDQwaE5peThwaVV0YzVOUzRxaVhnWWlFUWI0bEpWdThWcWJrSjBIU0JRNkkzaHE1ekxqNkNVOWY1Nk5KOTZFZDlYc2hVbC11S2lhT1pQRG1hQ1dhV3dBZFp4ZXFlVWQwSDhlaml3dWpITlNiRndJTDFydWNDR0kyaHhveUJ3QmFtTHZWdUR0RHFEUU42ZDhBbnZFSnVyZnFqendFLUl0cmdKSi15b0FyZUNaa3JiQQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T12:42:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Realizan paro laboral trabajadores del Poder Judicial en Tijuana AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "93a69d26d5447485"
+ },
+ {
+  "titulo": "Dejan a madres buscadoras y a otros fuera del presupuesto 2027, denuncia el PRI",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZm9SbmFIbXF1ZlFVWXJ4aTVBQVYwZDQzdWdRLUNQaGVBQUl5cUdmZFdoTmN2NkhaYk9pRXotZmNEcFBDaXQzZzE5UnlYZ1JkQVk4ZjB2WGtPTjhDTXVkTS1FVGZCVmh3N1hwMWJLN1AzUGc2TVdPN2FwX3BTaHVZQUxSQ1FaQW9YVUdOTS1pZTJnZU51ZDM1aXV2RzFWOGVjVFhrQ256QXNEYnlxZ3dYYmVWWFU3aVhLU2NFYw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T12:33:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Dejan a madres buscadoras y a otros fuera del presupuesto 2027, denuncia el PRI AFN",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "3c6ef44cfddbf7ae"
+ },
+ {
+  "titulo": "Gobierno estatal revisa avances de proyectos económicos en Baja California",
+  "liga": "https://elportavoznoticias.com.mx/gobierno-estatal-revisa-avances-de-proyectos-economicos-en-baja-california/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-06T12:29:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "La reunión fue encabezada en Tijuana por Ariel Alejandro Lizárraga Montero, titular de la Coordinación de Gabinete, quien señaló que la revisión busca alinear las acciones institucionales y dar continuidad a los... La entrada Gobierno estatal revisa avances de proyectos económico",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "2d46d0060163e058"
+ },
+ {
+  "titulo": "Expo Industria Tecate 2026 fortalece la vinculación empresarial y proyecta el potencial industrial de la región",
+  "liga": "https://elportavoznoticias.com.mx/expo-industria-tecate-2026-fortalece-la-vinculacion-empresarial-y-proyecta-el-potencial-industrial-de-la-region/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-06T12:27:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Con una importante participación del sector empresarial, representantes de la industria, organismos especializados y autoridades de los tres órdenes de gobierno, se llevó a cabo con éxito la Expo Industria Tecate 2026,... La entrada Expo Industria Tecate 2026 fortalece la vincula",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "8a18e7e3a9e51349"
+ },
+ {
+  "titulo": "Marina del Pilar destaca inversión para atender rezagos y ampliar oportunidades en Baja California",
+  "liga": "https://elportavoznoticias.com.mx/marina-del-pilar-destaca-inversion-para-atender-rezagos-y-ampliar-oportunidades-en-baja-california/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-06T12:26:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "En su declaración, señaló que las acciones de infraestructura y desarrollo buscan mejorar aspectos de la vida cotidiana, como los tiempos de traslado, así como generar condiciones para trabajar, emprender y desarrollar... La entrada Marina del Pilar destaca inversión para atender",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "72406a97e97bb664"
+ },
+ {
+  "titulo": "Bomberos reaniman a hombre tras presunta sobredosis en Zona Centro",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzBxazBWcHdKUU4xNGFWTUZ4U2RCYWdlZjlCRWZYOGktYTBDbTBKOUlmS3ZkU0xhVkxWNE03aDhFbmR4TURvMHNiVkJRajRYODdfWjJpTVY4SGdPb1RMc3BCNVREeDhiQWItWG00eXRSRXlmbFJsREFMTkN1anlxX2plckZKc0lqbXV5UzVtVU9wanh1NmZfU04zNTgwYlpSR2dzbg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-06T12:26:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Bomberos reaniman a hombre tras presunta sobredosis en Zona Centro Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1263d85abf27a04a"
+ },
+ {
+  "titulo": "Municipal detiene a dos hombres que asaltaron un hotel de la Zona Norte",
+  "liga": "https://puntonorte.info/2026/11/06/municipal-detiene-a-dos-hombres-que-asaltaron-un-hotel-de-la-zona-norte/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-06T12:24:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Tijuana.- Policías municipales detuvieron a dos delincuentes que ingresaron hasta el cuarto de un hotel de la Zona Norte para someter a un hombre a golpes y robar sus pertenencias. Los hechos ocurrieron la tarde del jueves 5 de noviembre, en la avenida Constitución, entre Primera",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "142afb23741d315c"
+ },
+ {
+  "titulo": "Estudiantes de la ENFT asistirán a la fase nacional de la Feria de Ciencias Internormales",
+  "liga": "https://www.uniradioinforma.com/sociedad/estudiantes-enft-asistiran-fase-nacional-feria-ciencias-internormales-n912897",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T12:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Presentan proyecto para involucrar a escolares en el ahorro del agua ante la falta del vital líquido en la entidad; el evento finalista será el 10 de Noviembre en la Ciudad de México",
+  "temas": [
+   "Cultura y tradiciones",
+   "Agua",
+   "Educación"
+  ],
+  "local": true,
+  "id": "2010f1567cc7d981"
+ },
+ {
   "titulo": "Sacerdote denuncia discriminación al solicitar pasaporte en SRE",
   "liga": "https://elcongresista.mx/justicia/sacerdote-discriminacion-pasaporte-sre",
   "medio": "El Congresista",
@@ -12,6 +560,20 @@
   ],
   "local": false,
   "id": "ce02d384c3312073"
+ },
+ {
+  "titulo": "Aseguran agentes de la SSPCM a un hombre por violencia contra la mujer y lesiones con arma punzocortante*",
+  "liga": "https://www.uniradioinforma.com/policiaca/aseguran-agentes-sspcm-hombre-violencia-mujer-lesiones-arma-punzocortante-n912895",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T12:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f20a2f246f6a7792"
  },
  {
   "titulo": "Alertan sobre fraude telefónico del SAT que vacía cuentas bancarias",
@@ -1269,6 +1831,20 @@
   "id": "fa8f6d597edf1fc8"
  },
  {
+  "titulo": "Investigan Presunto Maltrato Infantil Contra Menor Detectada en Preescolar de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSWxIaS1JMDMyMGJwbmRSbWdSWWtZQnpqSjBHY3IyR2EtUVJycm9oZUlhQzg0VTlLSWNkUmtJcHl2bWRZREc2cGVfZFFwMWxtZHpyN2VLTlpfYkpFSjl4a3V2Szdhc3U1aVRuY09tS2VhdThYT3JmektlNFpiazJ4YW42elZCWkJxQWVybXNjNnlJUU9acW5sdlIxcThXRmZqZnhMRVNVWHlHbmczc016U1FmdFZ4ekFURS14NHZZbkxJQUd0dFhfSDZPYTBzeTBWYmFv?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-06T09:51:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Investigan Presunto Maltrato Infantil Contra Menor Detectada en Preescolar de Ensenada N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d7593e96fcf6b5fb"
+ },
+ {
   "titulo": "Arrestan al padre de Meghan Markle en Lakeland por posesión de material infantil",
   "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVc1MjZTV1ZOa2liaDlVUVRiTFNRYTYwYUVuNFk1Nk10Si1VUjRhOXRvUEJXYzItWG5aNy1HRHJoWXRKUnk1MHJ0alZHdjB1M3prTnE3eGwwcUtOX2FRRjk4aGJ0a3dSWXh2MkhLeW82cndWYm9ORFB1TEQ3VDk4Wk1uQ1p3ZjFuMGNOdzg2eEpjSXIxNEVvNmhQcjJZOTZ4SWVtT3gwYm9hZmx3dS0wNjhSaGpid3Bla2JER2Z0Wks3QQ?oc=5",
   "medio": "AFN",
@@ -1788,6 +2364,20 @@
   "id": "95dfc22cee991145"
  },
  {
+  "titulo": "Ejecutivo entrega quinto informe de gobierno al Congreso del Estado",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/ejecutivo-entrega-quinto-informe-de-gobierno-al-congreso-del-estado-32997569",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-06T08:12:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "El secretario General de Gobierno anunció que solicitaron la desactivación de la alerta de género",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "4d0d38fa924a822a"
+ },
+ {
   "titulo": "Poder Judicial de México inicia paro nacional con 32 mil trabajadores",
   "liga": "https://elcongresista.mx/justicia/poder-judicial-paro-nacional",
   "medio": "El Congresista",
@@ -1858,6 +2448,35 @@
   ],
   "local": false,
   "id": "09e5edb03107a971"
+ },
+ {
+  "titulo": "Borrón y cuenta nueva: la innovación del Infonavit para los morosos en 2026",
+  "liga": "https://oem.com.mx/lavozdelafrontera/finanzas/borron-y-cuenta-nueva-la-innovacion-del-infonavit-para-los-morosos-en-2026-28189346",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-06T08:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "El Infonavit lanzó un nuevo beneficio para todos sus afiliados. Entérate de qué se trata",
+  "temas": [
+   "Política y partidos",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "58dd32157ef80d62"
+ },
+ {
+  "titulo": "Protestan trabajadores del PJF en Tijuana; denuncian falta de transparencia en evaluaciones",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/protestan-trabajadores-del-pjf-en-tijuana-denuncian-falta-de-transparencia-en-evaluaciones-32997242",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-06T07:56:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "El representante sindical precisó que aproximadamente 500 trabajadores participan en el paro de labores, de los 800 empleados del Poder Judicial Federal que hay en Tijuana.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "bb0ccfdb626a3136"
  },
  {
   "titulo": "Alerta por frente frío en México: temperaturas de hasta -5 grados",
@@ -1976,6 +2595,20 @@
   ],
   "local": false,
   "id": "accc9a4a6f1cf5fb"
+ },
+ {
+  "titulo": "Sector restaurantero deberá automatizar procesos con tecnología para auto ordenar y ser más eficientes",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/sector-restaurantero-debera-automatizar-procesos-con-tecnologia-para-auto-ordenar-y-ser-mas-eficientes-32996860",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-06T07:34:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T13:32:12-06:00",
+  "resumen": "Como parte de las mejoras que deben de aplicar para la reducción de la jornada laboral",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ef8ad629e47ed357"
  },
  {
   "titulo": "Frente frío 4 provocará lluvias intensas en ocho estados de México",
