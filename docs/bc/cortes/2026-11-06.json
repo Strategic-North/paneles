@@ -1,5 +1,527 @@
 [
  {
+  "titulo": "Tres personas lesionadas por incendio en ducto de Pemex en Jalisco",
+  "liga": "https://elcongresista.mx/politica/jalisco/tres-lesionados-incendio-ducto-pemex-jalisco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:32:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Tres personas con quemaduras graves tras incendio en ducto de Pemex en Tototlán, Jalisco. Las autoridades investigan las causas del siniestro.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "42b2be18d255ad5a"
+ },
+ {
+  "titulo": "GHAPAD encuentra hogar para 114 perros rescatados en 2026",
+  "liga": "https://elcongresista.mx/politica/michoacan/ghapad-adopcion-114-perros-morelia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:31:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "GHAPAD adopta 114 perros en Morelia durante 2026, aunque 40 canes aún buscan un hogar.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cf6aa0aeb00e2b99"
+ },
+ {
+  "titulo": "Inicia construcción de alcantarillado en El Chauz con 12.2 mdp",
+  "liga": "https://elcongresista.mx/politica/michoacan/construccion-alcantarillado-el-chauz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:30:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "La Huacana inicia la construcción de una red de alcantarillado que beneficiará a cinco mil habitantes con una inversión de 12.2 millones de pesos.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "53041a174bfb725a"
+ },
+ {
+  "titulo": "Impulsa Rocío López rehabilitación de calles y apoyo a afectados por lluvias en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmthRlQ2ZS1MODhmM3JxQnNWRThJLU9SU3NKeHR4cHllcUxrT0h0TTIzOTJRQmhic00tUlNtcFdDUzRENFotU0tzbngyZGN3NzFaQ1BiRVFYZzJzeE1RZE9kMW05WVh4WHhRZXVNcTBMQWJHcUVjRUZSWnA2NDRKQ3pPaHg2YTdrNmdORkpDQQ?oc=5",
+  "medio": "En Contraste News",
+  "publicada": "2026-11-05T22:29:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Impulsa Rocío López rehabilitación de calles y apoyo a afectados por lluvias en Ensenada En Contraste News",
+  "temas": [
+   "Servicios públicos",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "16d6c6558557bc23"
+ },
+ {
+  "titulo": "Avanza Gobierno en inclusión, a 5 años de la gestión de Avila Olmeda",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/avanza-gobierno-en-inclusion-a-5-anos-de-la-gestion-de-avila-olmeda/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T22:26:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "La mandataria destaca que \"garantizar que todas las personas puedan ejercer sus derechos y acceder a oportunidades\" ha sido prioritario en su mandato La entrada Avanza Gobierno en inclusión, a 5 años de la gestión de Avila Olmeda se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "df36e9f4a821dceb"
+ },
+ {
+  "titulo": "Lo extorsionaban para que pudiera vivir en el ejido Santa Rosa",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsQUoyeTdyanM0MGZrMXV0aGNONDlVWl9iNVUwSXQyRHBhVFRmaU5oRUtxQUowa2lyZkQzdDRsaldUdWYzWmx0S3ZyNG94UlJKUUtWaERnbDI5cUE?oc=5",
+  "medio": "Ensenada.Net",
+  "publicada": "2026-11-05T22:26:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Lo extorsionaban para que pudiera vivir en el ejido Santa Rosa Ensenada.Net",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1a47c94b705ac8fe"
+ },
+ {
+  "titulo": "Por vencer decreto para condonar adeudos de agua",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fa1JCcjZVSHN2UUd1eDk2YlNIVjRMUkstaUh0SFMydVo5eW1sR3dFQVNtNE5xc013QTFFWmdBVE5VOXBlaG4yNERBUkFUVnRocG1MeTVrdmRXcWc?oc=5",
+  "medio": "Ensenada.Net",
+  "publicada": "2026-11-05T22:26:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Por vencer decreto para condonar adeudos de agua Ensenada.Net",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "759d3999eca4900a"
+ },
+ {
+  "titulo": "Inicia Temporada Baja con Caída de Ventas en Restaurantes de Playas de Rosarito",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUVEOFR0UEhIT1BBWklDUXJaN2pqY1RvVWlxSzlpaVRPekhPb2VDdUJzcDNJaWRRUGM1SEVmbWlDSUZ4aWVhNjFlbTNvQ19HOEdyVVFtYXlhaU1RdHpmMHJucVZBWHFJZmQyc0Z3bU5xRnlFelA2UkpIdFIwRjE5RFI2MkdvWWRNamh1UEp3RTB3eTVOSVU4d0U3bkkyNG9FaGUzeFlncHdRblBhcFU5cFlqaUlhOTNib25hblRLcmltY1gyTXhlcA?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-05T22:23:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Inicia Temporada Baja con Caída de Ventas en Restaurantes de Playas de Rosarito N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "21168cbe52e1acf5"
+ },
+ {
+  "titulo": "Retiran más de 43 toneladas de basura en tres delegaciones de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWG1YREZqcXJiWlMyOWZoR0o2T1BjSHZjbkNJWFQxeUtJcDRVZFYxbTRROTF6Q0ZoaTlGekMyeEhxTnJMOTVydzM1ZklPd3JtNENNSUczQkV4N3E2STVaazlGOGhZYWZNaGpuV05tT1JaTXJudGQ2UWZpVW9Vd0NfMTdhSEFEd0ZlTnhqdFdVYl91a09tTHBJLUhkQVdUQkNTWkxIN05TMVM?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-05T22:21:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Retiran más de 43 toneladas de basura en tres delegaciones de Tijuana Baja News",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "5ce0b2a1f57d67e7"
+ },
+ {
+  "titulo": "Resultados Tris Clásico hoy 5 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-clasico-sorteo-36897",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:20:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "El sorteo Tris Clásico número 36897 se celebró este 5 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "94563c661419f3c5"
+ },
+ {
+  "titulo": "Detienen a Alejandro Duarte, hermano de César Duarte, en Chihuahua",
+  "liga": "https://elcongresista.mx/politica/chihuahua/detienen-alejandro-duarte-hermano-cesar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:19:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Arresto de Alejandro Duarte en Chihuahua reaviva el interés por la situación legal de su hermano, el exgobernador César Duarte.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9b951810c6704b13"
+ },
+ {
+  "titulo": "Monumento a la Revolución: concierto gratuito de rock español el 6 de noviembre",
+  "liga": "https://elcongresista.mx/cultura/concierto-gratuito-monumento-revolucion-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:18:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Este 6 de noviembre, el Monumento a la Revolución será sede de un concierto gratuito de bandas de rock en español en la CDMX.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "9c7c73ff00e7b92f"
+ },
+ {
+  "titulo": "Cancún acoge la Copa del Mundo de Aguas Abiertas con 119 atletas",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/cancun-copa-mundo-aguas-abiertas-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:17:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "La Copa del Mundo de Aguas Abiertas se realizará en Cancún, con 119 participantes, el 6 y 7 de noviembre de 2026.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9ace6aef134133d8"
+ },
+ {
+  "titulo": "Rescatan a osezna amarrada en domicilio de Piedras Negras",
+  "liga": "https://elcongresista.mx/politica/coahuila/rescatan-osezna-piedras-negras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:15:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Rescatan osezna en Piedras Negras, Coahuila; el animal será atendido en el Museo del Desierto tras recibir denuncia ciudadana.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a1bcc9a9c3b3a030"
+ },
+ {
+  "titulo": "Marina del Pilar y gobernadores de la 4T respaldan a Sheinbaum contra el INE",
+  "liga": "https://jornadabc.com.mx/principales/marina-del-pilar-y-gobernadores-de-la-4t-respaldan-a-sheinbaum-contra-el-ine/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T22:15:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Los mandatarios coincidieron en que la autonomía de los organismos electorales no debe representar un obstáculo para la transparencia La entrada Marina del Pilar y gobernadores de la 4T respaldan a Sheinbaum contra el INE se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "bcf2be9ea2cc73d0"
+ },
+ {
+  "titulo": "Incendio en Plaza Publitextil de Morelia genera daños materiales",
+  "liga": "https://elcongresista.mx/politica/michoacan/incendio-plaza-publitextil-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:06:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Un incendio en la Plaza Publitextil de Morelia causó daños materiales, sin reportar heridos ni víctimas. Investigan las causas del siniestro.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2c4458090e53643e"
+ },
+ {
+  "titulo": "Detienen a Dos Hombres por Hacer Cobro de Piso a su Vecino en Ensenada, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMklJZk1LUzJRWVVHN1d5bHZnRDlkdlMxZGlodFZnYjhpLWhPYmxkTGM0MHVOaU5NZ1VkaS1ySTZtSV9GeW9ybEtYblBoVG42YjhWdG9TXzVNSGo1bVZLcGZtZFNpUlBrdlhobFFHWHpXb2JBMnJxV3pkNjAySk5WQlBqaXR0Y2pEOXBPaEVzMlg0ZkRQZUhySWRnUjdlbXpKNTZoUzVlQW1UUWFFeXVRX1pCcXlReHJ0NWFnaC1xUEZGdw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-05T22:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Detienen a Dos Hombres por Hacer Cobro de Piso a su Vecino en Ensenada, BC N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "7a493d29b01e71e8"
+ },
+ {
+  "titulo": "Programas de Bienestar benefician a 42.8 millones de mexicanos en 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/programas-bienestar-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:04:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Los Programas de Bienestar de México benefician a 42.8 millones de personas con una inversión de un billón de pesos en 2026.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c613bbf17d2f88a9"
+ },
+ {
+  "titulo": "ChrisFix rescata Nissan 300ZX de 1990 tras 28 años en desuso",
+  "liga": "https://elcongresista.mx/vehicular/chrisfix-rescata-nissan-300zx-abandonado-28-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:02:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "ChrisFix logra rescatar un Nissan 300ZX de 1990, abandonado desde 1998, en un sorprendente estado de conservación.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "df7f634f334c4d40"
+ },
+ {
+  "titulo": "Baja California lanza campaña invernal para prevenir la contaminación del aire",
+  "liga": "https://elportavoznoticias.com.mx/baja-california-lanza-campana-invernal-para-prevenir-la-contaminacion-del-aire/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-05T22:01:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "La dependencia explicó que, durante el invierno, ciertas condiciones atmosféricas favorecen la acumulación de partículas contaminantes, por lo que se reforzarán las acciones de vigilancia y prevención en la entidad. Entre las... La entrada Baja California lanza campaña invernal p",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "587212f0c0a610c5"
+ },
+ {
+  "titulo": "INE multa con 1.17 mdp a PRI, PAN, Morena y PAZ por irregularidades",
+  "liga": "https://elcongresista.mx/justicia/ine-multa-pri-pan-morena-paz-irregularidades",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T22:00:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "El INE multa con más de 1.17 mdp a PRI, PAN, Morena y PAZ por no reportar gastos, en un esfuerzo por garantizar la transparencia electoral.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f0cebf64514c56b2"
+ },
+ {
+  "titulo": "Realizan segundo Foro de Cocina Tradicional Mexicana en Tijuana para preservar la gastronomía de Baja California",
+  "liga": "https://elportavoznoticias.com.mx/realizan-segundo-foro-de-cocina-tradicional-mexicana-en-tijuana-para-preservar-la-gastronomia-de-baja-california/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-05T21:58:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "El encuentro reunió a Beatriz Haros Farlow, cocinera tradicional y artesana de la comunidad kiliwa, y a Josefina Sánchez Aguirre, cocinera tradicional y embajadora gastronómica de Playas de Rosarito. La conversación fue... La entrada Realizan segundo Foro de Cocina Tradicional Me",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "0099948045cf60e8"
+ },
+ {
+  "titulo": "Coordinadores de Morena en los 32 estados respaldan investigaciones sobre contratos electorales",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2ZvWndtS0RoaV9RSVhMdTBVMHhqNlJ0Tl9Vclc5VnVCbWJCakRDV3VKV0d3WUVadmNwUGVrM0l1SVFnV2JRWHV3dEJNMk9HX0xrS0NTM2RYektwOVpDeXlPMVA4UHQwNE92Q2gyQzBjTVJ5QS1oUWpqQkFhcldKWmc3Rm53RHFVSGVSUUFmMGRnMW1EM2wyTDlUOUtPVURyWUZ0X3ZWazNWZGpTYUhjOFhUZS1pbmtMMTZ3aGwxSjZGb2hHeEtTWGJn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-05T21:54:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Coordinadores de Morena en los 32 estados respaldan investigaciones sobre contratos electorales Baja News",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "d4353af6187273dd"
+ },
+ {
+  "titulo": "México Evalúa: 85% de víctimas de extorsión en corredores económicos",
+  "liga": "https://elcongresista.mx/politica/nacional/extorsion-corredores-economicos-mexico-evalua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:52:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "México Evalúa reporta que el 85% de las víctimas de extorsión en México se localizan en corredores económicos del centro y norte del país.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9444011cdfbfcfb8"
+ },
+ {
+  "titulo": "Se alían CETYS y Banca Mifel para impulsar oportunidades educativas",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/se-alian-cetys-y-banca-mifel-para-impulsar-oportunidades-educativas/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T21:52:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Los titulares de ambas instituciones anunciaron la creación de un fondo de becas para beneficiar a jóvenes talentosos bajacalifornianos a partir de 2027 La entrada Se alían CETYS y Banca Mifel para impulsar oportunidades educativas se publicó primero en La Jornada Baja California",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "304b7248a8f554ea"
+ },
+ {
+  "titulo": "Pedro Páramo cumple 25 años de presentaciones ininterrumpidas",
+  "liga": "https://elcongresista.mx/politica/michoacan/pedro-paramo-25-aniversario-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:48:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Pedro Páramo celebrará 25 años de presentaciones con conferencias y actividades especiales en Morelia en 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8508a5b9eb3ec3a6"
+ },
+ {
+  "titulo": "Cancillería expide pasaporte a sacerdote tras negar renovación con traje eclesiástico",
+  "liga": "https://elcongresista.mx/justicia/cancilleria-pasaporte-sacerdote-coyoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:47:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "El canciller Roberto Velasco ordena la expedición de un pasaporte a un sacerdote tras negarle su renovación por usar traje eclesiástico.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "2e38f4efd78805e1"
+ },
+ {
+  "titulo": "CFE: comparecen ante diputados tras recorte de 31 mil mdp",
+  "liga": "https://elcongresista.mx/politica/nacional/cfe-comparecen-ante-diputados-recorte",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:46:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "La CFE presenta proyectos para aumentar su capacidad de energía ante un recorte presupuestal de 31 mil millones de pesos para 2027.",
+  "temas": [
+   "Política y partidos",
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "456bdf8f1d7c49b2"
+ },
+ {
+  "titulo": "Tribunal de Disciplina investiga a juez por presuntos sobornos en CDMX",
+  "liga": "https://elcongresista.mx/justicia/tribunal-disciplina-juez-belenitez-investigacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:45:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "El Tribunal de Disciplina investiga al juez Luis Benítez, detenido en Colombia por acusaciones de soborno de dos millones de dólares.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "894f9eed83f2fcca"
+ },
+ {
+  "titulo": "Jorge Romero del PAN deslinda a Vicente Fox de comentarios sobre 2006",
+  "liga": "https://elcongresista.mx/politica/nacional/jorge-romero-pan-deslinda-vicente-fox-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:41:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Jorge Romero, líder del PAN, aclara la postura oficial del partido sobre los comentarios de Vicente Fox sobre las elecciones de 2006.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "bbe82f3d80c2aae3"
+ },
+ {
+  "titulo": "PAN designa a Antonio Astiazarán como candidato al gobierno de Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/pan-antonio-astiazaran-candidato-gobernatura-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:37:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "El PAN confirma a Antonio Astiazarán como candidato a la gubernatura de Sonora, respaldado por la ciudadanía.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5bde94a5c5921edb"
+ },
+ {
+  "titulo": "Nuevo Laredo: abre museo de ciencia con inversión de 277.5 millones",
+  "liga": "https://elcongresista.mx/tamaulipas/nuevo-laredo-museo-ciencia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:37:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Carmen Lilia Canturosas inaugura museo de ciencia en Nuevo Laredo con inversión de 277.5 millones de pesos, enriqueciendo la oferta cultural.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "084b7d3b736920fe"
+ },
+ {
+  "titulo": "Atlante recibe a Santos Laguna con urgencia en la Liga MX",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/atlante-santos-laguna-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:36:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Atlante se enfrenta a Santos Laguna el 6 de noviembre en Cancún, en un partido clave por la Liga MX para ambos equipos.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "09bffe749608e6c4"
+ },
+ {
+  "titulo": "Galilea Montijo evita opinar sobre la detención de Inés Gómez Mont y dice que reza por ella",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWM5elBRWEZPNk1uV2JxbjF4dEZROTVzZFlkemctRWNQYjdvdE04MjF0R1J4OXpybVFNNTFvSm5YRkc5cXQ5VGNsNTFYUGhfZWh3bHdQT0xKUXphd0hDcV8wSWpsdmVkUnk0bzU4TVZqaVB3RkF6djdabDBmZ0tDTEZSb1Jsb2MwY0RGcDRmaVp3OXFObHByR2xtM1pWZ0hKU3RBUVowejVUbGdrUzdZQ1luRHp3VHhjbmxBRkpBLUF3SlRSLUxUOXRIMFdadw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-05T21:32:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Galilea Montijo evita opinar sobre la detención de Inés Gómez Mont y dice que reza por ella Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6913cc2627e47725"
+ },
+ {
+  "titulo": "Ajuste en tandeos de agua mejora distribución en Guadalajara",
+  "liga": "https://elcongresista.mx/politica/jalisco/ajuste-tandeos-agua-guadalajara",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:30:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "El SIAPA de Guadalajara ajusta el calendario de tandeos de agua para mejorar la distribución y responder a las quejas ciudadanas.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1beeda8707829914"
+ },
+ {
+  "titulo": "Mujer resulta lesionada en choque múltiple en bulevar Rosas Magallón",
+  "liga": "https://jornadabc.com.mx/02_secundarias/mujer-resulta-lesionada-en-choque-multiple-en-bulevar-rosas-magallon/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-05T21:28:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Bomberos acudieron a la emergencia y peritos de la Policía Municipal quedaron a cargo de las diligencias para determinar responsabilidades La entrada Mujer resulta lesionada en choque múltiple en bulevar Rosas Magallón se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "6f25f5ea43c042c2"
+ },
+ {
   "titulo": "Asegura Cantón que es falsa la conversación que se le atribuye",
   "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWZwUmZNanAwd2w1bkYyR1ZZX00zSnRRQkZNYW1qdkRWMHVBM1hZdlh0U0NGWUZ3RC0zbmg4ZElzd0dicUF4WVEycEViOUlkZkJwWTRjdFRxelBGTjJHU2dvMkVUYWxlSlVSV1BFQ3J0aU1VNE5ZRlZLSEtRWmNybkNiNFpqNldxbG5aQy1HSUhVUHdTWFNUbXdRSHFsMVdNUFBXRGZGX05CbThNdEp1QURFYw?oc=5",
   "medio": "AFN",
@@ -12,6 +534,22 @@
   ],
   "local": false,
   "id": "7ce9b0c3afb10fdc"
+ },
+ {
+  "titulo": "Aprueba Comisión de Diputados presupuesto federal 2027 por 10.6 billones de pesos",
+  "liga": "https://elcongresista.mx/politica/nacional/aprobacion-presupuesto-federal-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:17:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "La Comisión de Presupuesto aprobó el presupuesto federal para 2027, que incluye recortes al INE y recursos para Jalisco.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "9c37e54601df58f4"
  },
  {
   "titulo": "Ken Salazar confía en que nuevo Congreso de EU frene las redadas migratorias del ICE",
@@ -29,6 +567,20 @@
   "id": "601450d7f155a79a"
  },
  {
+  "titulo": "Dictan Cinco Años de Prisión a Sujeto con Envoltorios de Droga en Ensenada, BC",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0xwZW1MZ0pEWndwdEc5OC1nWlJRSGJXR1cyZEV1ZUY4eDl0Q1Z2ZFgtXzkxYnUxQlJHNVJ2YVU5WXdoeTVrWW1VYmdnYlktMUtfWXJfMnMtTl9qVFNLT29QOEw4NDJsNms4Qkc3eHlidU9xUlpyQWgySnFicGlZRXo5SExjN1JVUXNqTVJwY1VHTUVXUXBJRHVpWVJmdUs5UHgzUlY0OERDTktkT1RYdXMtcGh1bUpTSUg4eldRZnYzQmVH?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-05T21:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Dictan Cinco Años de Prisión a Sujeto con Envoltorios de Droga en Ensenada, BC N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4aa8fa032b890870"
+ },
+ {
   "titulo": "Trabajan Ayuntamiento de Tijuana-Insus en la regularización de tierras",
   "liga": "https://jornadabc.com.mx/bajacalifornia/trabajan-ayuntamiento-de-tijuana-insus-en-la-regularizacion-de-tierras/",
   "medio": "La Jornada Baja California",
@@ -41,6 +593,82 @@
   ],
   "local": true,
   "id": "38e55e4dee93406b"
+ },
+ {
+  "titulo": "EE.UU. sanciona a cuatro empresas por transporte de petróleo a Cuba",
+  "liga": "https://elcongresista.mx/politica/nacional/eeuu-sanciones-empresas-transporte-petroleo-cuba",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:13:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "EE.UU. impone nuevas sanciones a empresas por el transporte de petróleo a Cuba, intensificando el impacto económico en la isla.",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "247ba46de56e7c2c"
+ },
+ {
+  "titulo": "Sedapal suspenderá agua en Lima este 7 de noviembre por mantenimiento",
+  "liga": "https://elcongresista.mx/politica/nacional/sedapal-suspension-agua-lima-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:10:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Sedapal suspenderá el suministro de agua en Lima el 7 de noviembre por trabajos de mantenimiento en diferentes distritos.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4c42a249ba15ebbd"
+ },
+ {
+  "titulo": "Gobernadora de Morelos promete justicia por asesinato de exregidor",
+  "liga": "https://elcongresista.mx/justicia/justicia-exregidor-gabriel-rivas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:08:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "La gobernadora de Morelos promete justicia por el asesinato del exregidor Gabriel Rivas Ríos tras un ataque armado en Cuernavaca.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "fbacf0bd8e898daa"
+ },
+ {
+  "titulo": "Asesinan al director de Policía de Huehuetla en asalto en Pachuca",
+  "liga": "https://elcongresista.mx/politica/hidalgo/asesinato-director-policia-huehuetla-pachuca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:07:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "El director de Policía de Huehuetla, Fausto Aparicio Herrera, fue asesinado durante un intento de asalto en Pachuca, Hidalgo.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b054245fc176a1c9"
+ },
+ {
+  "titulo": "Desaparece en Mexicali \"Bertho\", perro K9 especializado en narcóticos",
+  "liga": "https://elcongresista.mx/politica/baja-california/desaparecido-bertho-mexicali",
+  "medio": "El Congresista",
+  "publicada": "2026-11-05T21:05:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-05T22:32:39-06:00",
+  "resumen": "Un perro K9 llamado Bertho desapareció en Mexicali, Baja California, y autoridades intensifican la búsqueda tras su extravío.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "8e453204d28e2a1f"
  },
  {
   "titulo": "Inspeccionan policías en CBTis ante supuesto ingreso de personas armadas",
