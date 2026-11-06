@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-06T09:20-06:00",
+ "actualizado": "2026-11-06T10:27-06:00",
  "corte": "2026-11-06",
  "ventana": [
   "2026-11-05T20:00-06:00",
   "2026-11-06T20:00-06:00"
  ],
- "total": 322,
+ "total": 393,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 520
+   "notas": 521
   },
   {
    "fuente": "Los Noticieristas",
@@ -40,8 +40,8 @@
   },
   {
    "fuente": "Viva la Noticia",
-   "ok": true,
-   "notas": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "fuente": "Revista Espejo",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 2
+   "notas": 4
   },
   {
    "fuente": "Noticiero Altavoz",

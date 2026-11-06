@@ -1,5 +1,507 @@
 [
  {
+  "titulo": "Lakers asignan a Bronny James a G League tras un inicio de temporada limitado",
+  "liga": "https://elcongresista.mx/politica/nacional/lakers-bronny-james-g-league",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:20:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Bronny James, jugador de Los Angeles Lakers, es enviado a Coachella Valley en la G League tras un inicio de temporada limitado.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "17d74b1446130eb6"
+ },
+ {
+  "titulo": "Trabajadores del PJF hacen paro en 17 estados por evaluación judicial",
+  "liga": "https://elcongresista.mx/justicia/paro-trabajadores-pjf-evaluacion-judicial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:18:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Trabajadores del PJF inician paro de labores en 17 estados del país por inconformidad con un nuevo esquema de evaluación que consideran riesgoso.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "10c16b8c733bbf7c"
+ },
+ {
+  "titulo": "Sheinbaum asegura que recorte de Banxico no afectará a la economía",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-recorte-tasa-interes-banxico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:18:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Claudia Sheinbaum asegura que el recorte de Banxico a la tasa de interés no tendrá consecuencias económicas adversas.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "28795720226a4058"
+ },
+ {
+  "titulo": "Descarta presidenta impacto económico por recorte a tasa de interés",
+  "liga": "https://www.uniradioinforma.com/negocios/descarta-presidenta-impacto-economico-recorte-tasa-interes-n912861",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T10:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Señaló que Banxico es un organismo autónomo y que la determinación corresponde a sus integrantes.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ce70cc547f6a87cf"
+ },
+ {
+  "titulo": "Claudia Sheinbaum afirma que Taddei y los Casillas siguen en México",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-taddei-casillas-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:17:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "La presidenta Sheinbaum confirma que Taddei y los hermanos Casillas están en México, a pesar de rumores sobre su salida.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "378bd4e401165a84"
+ },
+ {
+  "titulo": "Sheinbaum responde a posible demanda de Somos por daño moral",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-responde-demanda-somos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:16:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Claudia Sheinbaum defiende acusaciones de Somos y asegura tener pruebas en su respaldo ante posible demanda por daño moral.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "9b5051b23e61fde1"
+ },
+ {
+  "titulo": "Advierten que México debe fortalecer su industria ante alianza económica entre Canadá y Europa",
+  "liga": "https://elportavoznoticias.com.mx/advierten-que-mexico-debe-fortalecer-su-industria-ante-alianza-economica-entre-canada-y-europa/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-06T10:11:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Así lo señaló la CEO de TLC Asociados, Daniella Martínez Rodríguez, quien consideró que el país debe fortalecer su capacidad tecnológica, talento especializado y proveeduría nacional para aprovechar las oportunidades del nearshoring... La entrada Advierten que México debe fortale",
+  "temas": [
+   "Política y partidos",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "bb101c0096e2e620"
+ },
+ {
+  "titulo": "El Flaco Ibáñez vuelve al trabajo pese a la advertencia de sus médicos",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUhMeUIzcmh5UmZqR3MyY0xGYmN0ckI0d01MckpFYnF0LWtmUTAzbWVraVczeDJOVFQ3UmhFeFB3eGZHckl3WW1tZGxQQ3JISDRYZjJrZXczcFRoM2RIR1VfTXVHcERKbTJ4Tk1mMF9fckluMVpFNy1MZ3hLdUUtM1RhazVrWnpPalZ2MmZTbzh0NFAzNnhHNHZpcFpFQVVVcWpTX2dXa0tydGpiY1VTWDJwMTk?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T10:08:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "El Flaco Ibáñez vuelve al trabajo pese a la advertencia de sus médicos AFN",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "cdaa6d2007944cd1"
+ },
+ {
+  "titulo": "Junta de Evaluación de Discapacidad evalúa a 60 personas en Famaillá",
+  "liga": "https://elcongresista.mx/salud/junta-evaluacion-discapacidad-famailla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:05:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "La Junta de Evaluación de Discapacidad realizó evaluaciones para 60 personas en Famaillá con el objetivo de gestionar Certificados Únicos.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "0bba30c95932747b"
+ },
+ {
+  "titulo": "Conductor ebrio atropella a pareja en Escobedo; una mujer muere",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/conductor-ebrio-atropella-pareja-escobedo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:03:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Un accidente en Escobedo, Nuevo León, dejó una mujer sin vida y un hombre herido tras ser atropellados por un conductor ebrio.",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2503493f7358b7c7"
+ },
+ {
+  "titulo": "Arrestan a padre de Meghan Markle, por poseer material de abuso sexual infantil; tuvo bodega en Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/arrestan-a-padre-de-meghan-markle-por-poseer-material-de-abuso-sexual-infantil-tuvo-bodega-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=arrestan-a-padre-de-meghan-markle-por-poseer-material-de-abuso-sexual-infantil-tuvo-bodega-en-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-06T10:02:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "La Fiscalía de Baja California aseguró revistas, videos y equipo de cómputo en una bodega de Tijuana alquilada por el detenido",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2d152d9bcb244dee"
+ },
+ {
+  "titulo": "Policía Morelia participa en cumbre de ciberseguridad en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/policia-morelia-cumbre-ciberseguridad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:02:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Policía Morelia participa en cumbre de ciberseguridad en CDMX, buscando estrategias para proteger a las familias morelianas ante fraudes digitales.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a71889c8690f9e14"
+ },
+ {
+  "titulo": "Más de 155 mujeres en el Congreso de EE.UU. marcan un hito histórico",
+  "liga": "https://elcongresista.mx/politica/nacional/155-mujeres-congreso-eeuu-hito-historico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:01:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Un total de 155 mujeres en el Congreso de EE.UU. marca un hito en la política del país, con cambios significativos en el liderazgo.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c800282a7ecdf317"
+ },
+ {
+  "titulo": "Incertidumbre laboral provoca paro de trabajadores del Poder Judicial en 17 estados",
+  "liga": "https://www.uniradioinforma.com/sociedad/incertidumbre-laboral-provoca-paro-trabajadores-poder-judicial-17-estados-n912858",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T10:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Los manifestantes consideran un riesgo para su estabilidad laboral y la permanencia en sus plazas, el nuevo proceso de evaluación.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "988910f1ebd371ab"
+ },
+ {
+  "titulo": "Relaciones entre México y España son “excelentes,” afirma Roberto Velasco",
+  "liga": "https://elcongresista.mx/politica/nacional/relaciones-mexico-espana-velasco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T10:00:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "El canciller Roberto Velasco asegura que las relaciones entre México y España son excelentes y se centran en la cooperación a futuro.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "26d7f9aaabfc45d3"
+ },
+ {
+  "titulo": "¡Belinda conquista la moda! Lanza colección de ropa y protagoniza divertido comercial",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0VhaVM3YXhwd0M2OUlMSlpXZGRFTktCZU9aMzJ0Q0tOVHRwWjA1RWNGcThOSmlyREl4SkdtMzh5cENJazZXT08tOTJhNG94UjNXNXpHbUNZRkw4aVk2eUhvaUtERjJzUGItdGJHX3M2Z0VoQ0lTVzY0aEVrakRlTm1JZVJVQVEzOWtpRnhKRmJyb1RHM21qdXEwd0NOazhvZ3JJQV9GRmhEeG9uOW9sdFpHSWxEX2MzUUdBOHNFYXJPdF9CS0E?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T09:52:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "¡Belinda conquista la moda! Lanza colección de ropa y protagoniza divertido comercial AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fa8f6d597edf1fc8"
+ },
+ {
+  "titulo": "Arrestan al padre de Meghan Markle en Lakeland por posesión de material infantil",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVc1MjZTV1ZOa2liaDlVUVRiTFNRYTYwYUVuNFk1Nk10Si1VUjRhOXRvUEJXYzItWG5aNy1HRHJoWXRKUnk1MHJ0alZHdjB1M3prTnE3eGwwcUtOX2FRRjk4aGJ0a3dSWXh2MkhLeW82cndWYm9ORFB1TEQ3VDk4Wk1uQ1p3ZjFuMGNOdzg2eEpjSXIxNEVvNmhQcjJZOTZ4SWVtT3gwYm9hZmx3dS0wNjhSaGpid3Bla2JER2Z0Wks3QQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T09:49:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Arrestan al padre de Meghan Markle en Lakeland por posesión de material infantil AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a785b4e7d6f17b77"
+ },
+ {
+  "titulo": "Toman instalaciones del Poder Judicial en la CDMX",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVFDUGxvTjdqT1ozSDIzaU10U1VqeHgwRkhzRmgtSXBqd1MzNG04alk3VVozYVNvSWowMWlfQldqVGpqeGVteHBxUkFCcjQydUtmZnU1OEItUWpLbDhHRHhGRktZOGc3d21CTHdlS2J3dTEzdWo1VWwzcVhXVmhsV0t1MENuLXluQk9UM2QtaHNkRDdadHc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T09:44:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Toman instalaciones del Poder Judicial en la CDMX AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ab8083b62763a294"
+ },
+ {
+  "titulo": "El misil más poderoso",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRSEJVYmtHWDVGMHVQMktWQW1JaWFrQTlwT0F6R1dtWm5rMVBJakNHUG9nTDNVem5GS3RxZXl2bzNnbXNtZWI3dlV4X3BZWXphdFdUXzN0WVhFV3JHbDZmc0p6cHgwSkhHMU9BM3VR?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T09:44:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "El misil más poderoso AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d7e08e0c6b6c62de"
+ },
+ {
+  "titulo": "Credibilidad",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQmFsZkJpMTlBM2VDQ2pqTzhzQ2N2Z2dFSWZVZEdoNVdya2Q4U29PN054QVdlWVBCMTFGbTR6a2N1bk5POC0tWS1OZW45OERBWkJ3aHNtWEpHVTFPLUZYSVlR?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T09:44:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Credibilidad AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "204e545df750360d"
+ },
+ {
+  "titulo": "Aprueban convocatoria para candidaturas independientes en BC en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWmdjREJ6dWd0NWh5MkJSZ0hWQzlwQV9HY3RJa0M3UGNSRVJiMWZzYUlRYTByQTc0Y1dZQW1SSUNhRW9qR0stRDZWRkdUamtLNXdzcWR4ZFNBaGFkQ0k5RHdQU0NScW9iVEFfZ3hYNkpPeUp4dUZzZHBfV3FaQ3ZTRG9Gc2pQdDNTbmNNekVwckxnUmd2aEVuTEJaZ3dkQ1JhWXV6cFNDTkJFbG9HYlQ2NHVUc29VcGh4ZW1V?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T09:43:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Aprueban convocatoria para candidaturas independientes en BC en 2027 AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c9d20e91a1e1d021"
+ },
+ {
+  "titulo": "Diputado pide incremento del presupuesto educativo para 2027",
+  "liga": "https://elcongresista.mx/politica/chihuahua/diputado-avitia-presupuesto-educativo-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T09:42:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Óscar Avitia presenta un exhorto en el Congreso de Chihuahua para aumentar el presupuesto educativo y proteger al magisterio en 2027.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "e1477aa4b1e9f086"
+ },
+ {
+  "titulo": "Claudia Sheinbaum exige sanear el INE y transparentar contratos de proveedores electorales",
+  "liga": "https://www.uniradioinforma.com/gobierno/claudia-sheinbaum-exige-sanear-ine-transparentar-contratos-proveedores-electorales-n912855",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T09:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Sostuvo que el Instituto debe garantizar la voluntad popular, elecciones limpias y un funcionamiento basado en la transparencia y la austeridad.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "241111868fc2db58"
+ },
+ {
+  "titulo": "Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ySk1pVU50QXdGUEwtMlFpSzk3eHRfSjlKVjZTZ19QNlZwLVlUNmJJSFJoXzgtTENCbEZfM3FQSHZtdnJIZFkxVF9vZ292UE8zRFJ1SjJ6dC1zRHM?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-06T09:40:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Sinaloa AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8dab03b0fa6524de"
+ },
+ {
+  "titulo": "Teleférico de Uruapan trasladó 60 mil usuarios en Día de Muertos",
+  "liga": "https://elcongresista.mx/politica/michoacan/teleferico-uruapan-60-mil-usuarios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T09:37:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "El teleférico de Uruapan transporta a 60 mil usuarios durante festividades de Día de Muertos, un nuevo atractivo turístico.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1ebf37821e54b7f8"
+ },
+ {
+  "titulo": "Atlético Morelia busca su sexta victoria ante Cajeteros en TDP Femenil",
+  "liga": "https://elcongresista.mx/politica/michoacan/atletico-morelia-cajeteros-torneo-liga",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T09:36:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Atlético Morelia se enfrenta a Cajeteros en la TDP Femenil buscando mantener su liderato en el torneo.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f722601f6476f797"
+ },
+ {
+  "titulo": "Detiene FGE Michoacán a Rafael “N” por abuso sexual a sus hijas",
+  "liga": "https://elcongresista.mx/justicia/detencion-rafael-abuso-hijas-coalcoman",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T09:32:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "La Fiscalía de Michoacán detuvo a Rafael “N” por delitos de abuso sexual a sus hijas. Autoridades se comprometen a buscar justicia.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "def31c0835034c24"
+ },
+ {
+  "titulo": "Aumenta 11.6% uso de mecanismos alternativos en el Poder Judicial de Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/aumento-mecanismos-alternativos-justicia-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T09:31:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "El Poder Judicial de Michoacán reporta un crecimiento del 11.6% en el uso de mecanismos alternativos de solución de controversias en 2025.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3684ed3e88ba7e3b"
+ },
+ {
+  "titulo": "Diplomáticos y activistas reunidos en México llamaron a cerrar filas con Cuba ante la “asfixia” de EU",
+  "liga": "https://jornadabc.com.mx/region/diplomaticos-y-activistas-reunidos-en-mexico-llamaron-a-cerrar-filas-con-cuba-ante-la-asfixia-de-eu/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-06T09:30:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "En un conversatorio organizado por la artista y activista Renata Wimer en el Museo Nacional de las Culturas del Mundo, Tablada convocó a la unidad de los países Latinoamericanos, pues “si no fuera porque hay gobiernos y pueblos que ceden a las presiones de Estados Unidos, en Cuba",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "539f86154973ae55"
+ },
+ {
+  "titulo": "Tenis de mesa tendrá Estatal en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XZVNkMVlTQzZmQmpvZGpJLWJzSGhPaG9Oc0hSdk80NEdoNTBhMVFGTTd5UF9CeFZMaHNWdXJ6bndMYTVkSGI2R3ZhOFE4VnNfTkhMTklVMno?oc=5",
+  "medio": "PSN Noticias",
+  "publicada": "2026-11-06T09:24:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Tenis de mesa tendrá Estatal en Ensenada PSN Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4feae576b9d5582b"
+ },
+ {
+  "titulo": "Juan Carlos Padilla se deslinda de empresario ligado a presunta corrupción en el INE",
+  "liga": "https://www.uniradioinforma.com/sociedad/juan-carlos-padilla-deslinda-empresario-ligado-presunta-corrupcion-ine-n912852",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T09:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Defendió que tuvo una \"relación exclusivamente laboral\" con Hernández Casillas y \"tengo más de 30 años sin saber nada de él\".",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "4b1fd23c5dc5a483"
+ },
+ {
+  "titulo": "Gabinete de Seguridad estatal rechaza disculparse por represión en Casa Jalisco",
+  "liga": "https://jornadabc.com.mx/02_secundarias/gabinete-de-seguridad-estatal-rechaza-disculparse-por-represion-en-casa-jalisco/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-06T09:21:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Pese al reclamo de víctimas y opositores en el Congreso, los mandos justificaron la fuerza y abandonaron la comparecencia por una puerta trasera La entrada Gabinete de Seguridad estatal rechaza disculparse por represión en Casa Jalisco se publicó primero en La Jornada Baja Califo",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "0d4cc6e2dc84193e"
+ },
+ {
+  "titulo": "Niegan recurso a Inés Gómez-Mont para frenar su traslado a otro centro de confinamiento en EU",
+  "liga": "https://jornadabc.com.mx/region/niegan-recurso-a-ines-gomez-mont-para-frenar-su-traslado-a-otro-centro-de-confinamiento-en-eu/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-06T09:14:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "El juez Jeffrey T. Kunt negó el habeas corpus a Inés Gómez-Mont tras su arresto por el ICE por cargos de inadmisibilidad migratoria La entrada Niegan recurso a Inés Gómez-Mont para frenar su traslado a otro centro de confinamiento en EU se publicó primero en La Jornada Baja Calif",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "0c850c5558ce1211"
+ },
+ {
+  "titulo": "Banco de México sorprende y baja la tasa de interés a 6.25%",
+  "liga": "https://jornadabc.com.mx/principales/banco-de-mexico-sorprende-y-baja-la-tasa-de-interes-a-6-25/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-06T09:10:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Por mayoría decidió disminuir en un cuarto de punto porcentual La entrada Banco de México sorprende y baja la tasa de interés a 6.25% se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f5c151f5dabfe1bf"
+ },
+ {
+  "titulo": "¡Noche de poder! Naranjeros castiga a Tomateros con cuatro jonrones",
+  "liga": "https://www.uniradioinforma.com/deportes/noche-poder-naranjeros-castiga-tomateros-cuatro-jonrones-n912849",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T09:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Víctor Mendoza conectó dos cuadrangulares y Naranjeros derrotó 7-3 a Tomateros en el tercero de la serie.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e393e48d486a7953"
+ },
+ {
   "titulo": "La tradición argentina llega a las vidrieras de Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMURtZENPY1dvMW1pTDlDMzR1MXFBc1lVUnNrcm83czFWTGhkZEJYV1BMR3pfa1MyQ1p4dHVvbFlwX1dLSGZ4LUdaZFVtZkdmMV80M29UZFJuQXRPUlRuWGJreFlqcUhDMTNURlJiNHI0Z1d6bGw1OUs5OWxwM09QMXpyYVBndGp1QnF1R2piOVBjQnFBOW9xYVE5TlpQdGNn?oc=5",
   "medio": "Fuerte Barragán",
@@ -29,6 +531,38 @@
   "id": "220f3b616d04fbfc"
  },
  {
+  "titulo": "Lluvias intensas y frío impactan ocho estados de México",
+  "liga": "https://elcongresista.mx/politica/nacional/lluvias-intensas-frio-ocho-estados-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:58:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Este 6 de noviembre, lluvias intensas y frío impactan ocho estados de México, con acumulaciones de hasta 75 mm y temperaturas mínimas de -5°C.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "96d7a3d26689ab1a"
+ },
+ {
+  "titulo": "Pronóstico del clima en Quintana Roo: chubascos y lluvias fuertes",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/pronostico-clima-quintana-roo-06-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:56:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Pronóstico del clima en Quintana Roo para hoy incluye chubascos y lluvias fuertes. Se esperan vientos de hasta 30 km/h.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "73bfa1ecc34bf470"
+ },
+ {
   "titulo": "INE aprueba plan de auditorías y controles ante señalamientos de corrupción",
   "liga": "https://jornadabc.com.mx/principales/ine-aprueba-plan-de-auditorias-y-controles-ante-senalamientos-de-corrupcion-2/",
   "medio": "La Jornada Baja California",
@@ -41,6 +575,65 @@
   ],
   "local": true,
   "id": "6bb7c131ff4743b5"
+ },
+ {
+  "titulo": "ATY realiza operativos contra taxis piratas en Tizimín; 3 detenidos.",
+  "liga": "https://elcongresista.mx/politica/yucatan/aty-yucatan-operativos-taxis-piratas-tizimin",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:52:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "La ATY inicia operativos en Tizimín contra taxis piratas; al menos tres unidades fueron detenidas tras protestas del gremio transportista.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "830bac616d4c968b"
+ },
+ {
+  "titulo": "Tráfico leve en la autopista México-Querétaro antes del fin de semana",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/autopista-mexico-queretaro-trafico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:51:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "La autopista México-Querétaro presenta tráfico leve en diversas secciones antes del fin de semana, facilitando el tránsito vehicular.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "273de512db91089f"
+ },
+ {
+  "titulo": "Mujeres nicaragüenses en Upala enfrentan desigualdades económicas",
+  "liga": "https://elcongresista.mx/politica/nacional/mujeres-upala-desigualdades",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:50:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Mujeres nicaragüenses en Upala enfrentan barreras económicas y sociales tras décadas de trabajo en la agricultura.",
+  "temas": [
+   "Campo y pesca",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6bbd18c9ffd317c3"
+ },
+ {
+  "titulo": "VIDEO.- Mochila de emergencia no es por una guerra nuclear: Protección Civil de BC aclara que es para sismos y lluvias",
+  "liga": "https://www.uniradioinforma.com/gobierno/video-mochila-emergencia-una-guerra-nuclear-proteccion-civil-bc-aclara-sismos-lluvias-n912533",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T08:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "¿Mochila de emergencia por una guerra nuclear? No. Protección Civil de Baja California aclara que es parte del Plan Familiar para enfrentar sismos, lluvias y otras emergencias durante las primeras 72 horas.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "576150fa1edbc448"
  },
  {
   "titulo": "Industria de la Construcción de Baja California entró en recesión",
@@ -69,6 +662,49 @@
   ],
   "local": true,
   "id": "58c277e35825f100"
+ },
+ {
+  "titulo": "Vicente Amigo presenta su nuevo trabajo 'Andenes del Tiempo' en Cádiz",
+  "liga": "https://elcongresista.mx/cultura/vicente-amigo-andenes-del-tiempo-cadiz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:20:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Vicente Amigo presenta su nuevo trabajo 'Andenes del Tiempo' en Cádiz este 7 de noviembre a las 20:00 horas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a5a3a21e7a85e5f1"
+ },
+ {
+  "titulo": "Rafa Nadal: jóvenes tienen más oportunidades que antes",
+  "liga": "https://elcongresista.mx/educacion/rafa-nadal-jovenes-oportunidades",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:19:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Rafael Nadal afirma que los jóvenes de hoy tienen más oportunidades que en el pasado y resalta la importancia del esfuerzo y la educación.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "93962e9877e0a823"
+ },
+ {
+  "titulo": "Palmeiras vence 6-1 a Remo; Flaco López brilla con gol y asistencia",
+  "liga": "https://elcongresista.mx/politica/nacional/palmeiras-goleada-fiesta-flaco-lopez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T08:18:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Palmeiras derrota 6-1 a Remo con destacada actuación de Flaco López, quien suma un gol y una asistencia; se preparan para la final de Libertadores.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2b31c9a9084a439f"
  },
  {
   "titulo": "Paro de trabajadores del PJF: 32 mil empleados sin actividades hoy",
@@ -463,6 +1099,20 @@
   ],
   "local": false,
   "id": "f17f463ae6751ea3"
+ },
+ {
+  "titulo": "Vinculan ataques con narcomenudeo · El Vigía",
+  "liga": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TbmtmS2pfTGp2R1JLaTdkRWJ0bFJYWmhELUFVZnBQS1RWYV9EbkpFdTR6RXpkbTJHN0UxMVh3RVVKV25OUXlZdXNkX2RQUGpIM2lJUEpwMC1JejYwdmJqQ3hnOVBNZy1tbVVMRFcwRUlXN3dTdjFGc0ItMGJ5UQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-06T06:49:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Vinculan ataques con narcomenudeo · El Vigía El Vigía",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f143f3d3763e95d8"
  },
  {
   "titulo": "Kicillof clausura el programa Futuro Memoria con 18 mil estudiantes",
@@ -886,6 +1536,20 @@
   "id": "3c145112407b6935"
  },
  {
+  "titulo": "Insisten en solicitar recursos a EEUU por descanso de tierras por Acta 334 de la CILA",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/insisten-en-solicitar-recursos-a-eeuu-por-descanso-de-tierras-por-acta-334-de-la-cila-32995143",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-06T05:11:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "De alguna u otra manera les quitarán volúmenes de agua a los usuarios, por lo que requieren de ese recurso",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "1a2abbf37e56f038"
+ },
+ {
   "titulo": "Estados Unidos: los precios de autos usados suben hasta 48% desde 2019",
   "liga": "https://elcongresista.mx/vehicular/precios-autos-usados-eeuu-2023",
   "medio": "El Congresista",
@@ -1191,6 +1855,20 @@
   ],
   "local": false,
   "id": "361fd7d0e49b5fd9"
+ },
+ {
+  "titulo": "Refiere FGE 6 denuncias formales contra ginecólogo de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yNlF1RWROeFpCUFliTEV6XzdKWnRCUld2ZEdHR1ZKT0xZYUgzTGZ0emhwNnVkSk8tNEROS2ROWGpfLVhzekstM0c1R0xOck1xbG1rd1N3?oc=5",
+  "medio": "Zona Norte",
+  "publicada": "2026-11-06T03:24:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T10:27:08-06:00",
+  "resumen": "Refiere FGE 6 denuncias formales contra ginecólogo de Ensenada Zona Norte Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "28df0976a74c12c3"
  },
  {
   "titulo": "México: 51% se siente seguro al caminar solo de noche desde 2020",
