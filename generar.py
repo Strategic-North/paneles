@@ -246,7 +246,8 @@ def recolectar(cfg, ahora):
     fuentes = [dict(f, local=f.get("local", True)) for f in cfg.get("feeds", [])]
     for g in cfg.get("google_news", []):
         q = urllib.request.quote(g["q"] + " when:2d")
-        fuentes.append({"medio": g.get("medio"), "feed": GNEWS.format(q=q), "local": False,
+        # "local": true en la configuración, para medios locales cuyos titulares no nombran el lugar
+        fuentes.append({"medio": g.get("medio"), "feed": GNEWS.format(q=q), "local": g.get("local", False),
                         "etiqueta": "Google News: " + g["q"]})
     lugares = [sin_acentos(l) for l in cfg.get("lugares", [])]
     notas, estado = [], []

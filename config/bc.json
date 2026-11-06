@@ -97,6 +97,25 @@
     {
       "q": "site:milenio.com Ensenada",
       "medio": "Milenio"
+    },
+    {
+      "q": "site:ensenada.net/noticias",
+      "medio": "Ensenada.net",
+      "local": true
+    },
+    {
+      "q": "site:ensenadahoy.com/noticias",
+      "medio": "EnsenadaHoy",
+      "local": true
+    },
+    {
+      "q": "Ensenada policías municipales detenidos"
+    },
+    {
+      "q": "Ayuntamiento de Ensenada deslinda"
+    },
+    {
+      "q": "Ensenada (detenido OR detienen) funcionario"
     }
   ],
   "temas": {

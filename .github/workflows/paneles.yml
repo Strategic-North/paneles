@@ -4,8 +4,11 @@ on:
   schedule:
     # Cada 30 minutos. GitHub usa UTC: 02:00 UTC = 20:00 h CDMX (hora del corte).
     - cron: "7,37 * * * *"
-    # Una corrida extra justo después del corte (20:03 h CDMX).
-    - cron: "3 2 * * *"
+    # Corridas extra alrededor del corte: 19:47, 19:57, 20:03, 20:13 y 20:23 h CDMX.
+    # GitHub retrasa las programadas de 15 a 55 minutos en horas de carga; con varias,
+    # alguna suele llegar a tiempo. Se evitan los minutos en punto, que son los más cargados.
+    - cron: "47,57 1 * * *"
+    - cron: "3,13,23 2 * * *"
   workflow_dispatch: {}
 
 permissions:
