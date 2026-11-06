@@ -1,5 +1,346 @@
 [
  {
+  "titulo": "Fallecen dos adultos mayores atropellados en ocho días en Oaxaca.",
+  "liga": "https://elcongresista.mx/politica/oaxaca/fallecen-adultos-mayores-atropellados-oaxaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T04:34:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "En Oaxaca, dos adultos mayores han fallecido tras ser atropellados en menos de una semana, subrayando un problema de seguridad vial.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e2f4029446155145"
+ },
+ {
+  "titulo": "Trump pierde en elecciones intermedias; demócratas recuperan Congreso",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-pierde-elecciones-intermedias-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T04:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "En las elecciones intermedias de 2026, Donald Trump enfrenta una fuerte derrota en EE. UU.; los demócratas recuperan el control del Congreso.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a4b73fa59dca84a9"
+ },
+ {
+  "titulo": "Sheinbaum llama “mafia electoral” a contratos de 2,740 mdp del INE",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-mafia-electoral-contratos-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T04:20:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Claudia Sheinbaum denuncia irregularidades en contratos del INE, calificando de “mafia electoral” la red de proveedores de los hermanos Hernández.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e4c179c94880b52a"
+ },
+ {
+  "titulo": "Hoy No Circula viernes 6 de noviembre: placas 9 y 0, engomado azul",
+  "liga": "https://elcongresista.mx/vehicular/hoy-no-circula-viernes-6-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T04:05:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Este viernes 6 de noviembre de 2026 descansan los vehículos con engomado azul y terminación de placa 9 y 0 (hologramas 1 y 2), de 5:00 a 22:00 horas, en CDMX y los 18 mun",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a1985f2ef708771e"
+ },
+ {
+  "titulo": "Detienen a joven por robo de herramientas en Hermosillo",
+  "liga": "https://elcongresista.mx/politica/sonora/detencion-joven-hermosillo-robo-herramientas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T04:04:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "La Policía Municipal de Hermosillo detuvo a un joven de 23 años por el robo de herramientas de una vivienda en la colonia Jorge Valdez.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cc447206d5e68b8f"
+ },
+ {
+  "titulo": "Jóvenes menores de 30 años impulsan victoria demócrata en midterms",
+  "liga": "https://elcongresista.mx/politica/nacional/jovenes-menores-de-30-anos-victoria-democrata-midterms",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T04:02:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Los jóvenes menores de 30 años impulsaron la victoria demócrata en las midterms, marcando un cambio en las preferencias electorales.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1cbb47d6f8c2187e"
+ },
+ {
+  "titulo": "Luis de Llano no se disculpa con Sasha Sokol tras la condena recibida",
+  "liga": "https://elcongresista.mx/justicia/luis-de-llano-sin-disculpa-sasha-sokol",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T04:01:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Luis de Llano sigue sin disculparse con Sasha Sokol tras una condena judicial por abuso sexual en su juventud.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d59e5301bed68aff"
+ },
+ {
+  "titulo": "Fernando Aramburu elogia 'Coloquio de invierno' de Luis Landero",
+  "liga": "https://elcongresista.mx/politica/nacional/fernando-aramburu-elogia-coloquio-invierno",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:51:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Aramburu elogia 'Coloquio de invierno', la nueva novela de Luis Landero, ambientada en una nevada en Madrid, publicada en febrero de 2026.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5f053d7aef332360"
+ },
+ {
+  "titulo": "Detienen a hombre que amenazó de muerte a su madre en Hermosillo",
+  "liga": "https://elcongresista.mx/politica/sonora/detienen-hombre-amenaza-madre-hermosillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:51:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Detienen a Daniel, un hombre de 34 años, por amenazar de muerte a su madre en Hermosillo. La mujer se negó a darle dinero para drogas.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0f456665569ec54b"
+ },
+ {
+  "titulo": "Gobernador Durazo entrega 564 apoyos a productores de trigo en Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/sonora-durazo-apoyos-productores-trigo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:50:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Alfonso Durazo entrega 564 apoyos a productores de trigo en Sonora, buscando fortalecer la producción agrícola y coordinar esfuerzos.",
+  "temas": [
+   "Gobierno del estado",
+   "Campo y pesca",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3e7ea57a6024b01e"
+ },
+ {
+  "titulo": "Bomberos de Hermosillo controlan incendio en terreno del centro",
+  "liga": "https://elcongresista.mx/politica/sonora/bomberos-hermosillo-incendio-predio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:49:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Bomberos de Hermosillo controlan un incendio en un terreno del centro donde se resguardan personas sin hogar.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7c8f307b8d851bd2"
+ },
+ {
+  "titulo": "Lidl inaugura dos supermercados en España con 11 millones de euros",
+  "liga": "https://elcongresista.mx/politica/nacional/lidl-abre-dos-nuevos-supermercados-espana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:47:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Lidl ha inaugurado dos nuevos supermercados en España, invirtiendo 11 millones de euros en Amposta y Valdebebas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c8442182f4333c8d"
+ },
+ {
+  "titulo": "Corte invalida distribución de regidurías en Puebla; revés a Armenta",
+  "liga": "https://elcongresista.mx/politica/puebla/corte-invalida-regidurias-puebla-armenta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:25:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "La SCJN invalida fórmula de regidurías en Puebla, impactando las elecciones de 2027 y reabriendo el debate sobre la sobrerrepresentación política.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "188dadd794941d27"
+ },
+ {
+  "titulo": "Cintalapa reconoce a selección de fútbol 6×6 que competirá en Veracruz",
+  "liga": "https://elcongresista.mx/politica/chiapas/reconocimiento-seleccion-cintalapa-futbol-popular",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:24:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Cintalapa reconoce a su selección de fútbol 6×6 que competirá en los Juegos Nacionales Populares 2026 en Veracruz.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "361fd7d0e49b5fd9"
+ },
+ {
+  "titulo": "México: 51% se siente seguro al caminar solo de noche desde 2020",
+  "liga": "https://elcongresista.mx/seguridad/mexico-seguridad-nocturna-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:24:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "El 51% de los mexicanos se siente seguro al caminar solo de noche en 2024, un aumento significativo desde 2020.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "788461a9586fb7fd"
+ },
+ {
+  "titulo": "PAN arranca campaña electoral en Hermosillo con Toño Astiazarán.",
+  "liga": "https://elcongresista.mx/politica/sonora/pan-sonora-astiazaran-candidato-gobernador",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:23:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "El PAN presenta a Toño Astiazarán como candidato a la gobernatura de Sonora en un contexto electoral desafiante.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "05bcb621daf18b3e"
+ },
+ {
+  "titulo": "Claudia Sheinbaum: el 54.6% de latinos apoya a demócratas",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-voto-latinos-democratas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:20:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Claudia Sheinbaum menciona que el 54.6% de los latinos apoyará a los demócratas, influenciados por políticas migratorias de Trump.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dd87b2bc75bba5c9"
+ },
+ {
+  "titulo": "Demócratas en el Congreso obtendrán más poder para fiscalizar redadas",
+  "liga": "https://elcongresista.mx/politica/nacional/democratas-fiscalizacion-redadas-migratorias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:08:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "La nueva mayoría demócrata en el Congreso podría supervisar redadas migratorias, pero no detendrá deportaciones, advierten expertos.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "79e464937169cc2e"
+ },
+ {
+  "titulo": "Gobierno de Sonora apoya a mipymes con 70% en membresías de GS1",
+  "liga": "https://elcongresista.mx/politica/sonora/apoyo-mipymes-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:07:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Sonora ofrece un subsidio del 70% a mipymes para membresías de GS1 y Syncfonía, buscando fortalecer su competitividad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4d513390ad8bd41d"
+ },
+ {
+  "titulo": "Avanza campaña de vacunación en Sonora con 108,901 dosis aplicadas",
+  "liga": "https://elcongresista.mx/politica/sonora/sonora-vacunacion-campana-invernal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:06:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "La Secretaría de Salud de Sonora informa que se han aplicado 108,901 dosis en la campaña de vacunación invernal contra influenza y Covid-19.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "495a93943456e177"
+ },
+ {
+  "titulo": "Estrenos de cine: Godzilla, 'Los miserables' y 'Sacamantecas' llegan a la pantalla",
+  "liga": "https://elcongresista.mx/politica/nacional/estrenos-cine-godzilla-los-miserables-sacamantecas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:05:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Este viernes, llegan a los cines de México Godzilla, 'Los miserables', 'Sacamantecas' y más estrenos en cartelera.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d304f31f54b266b5"
+ },
+ {
+  "titulo": "Prevén lluvias en Sonora con acumulados de 30 mm a partir de hoy",
+  "liga": "https://elcongresista.mx/politica/sonora/lluvias-sonora-semana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T03:04:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "La CEPC de Sonora informa sobre lluvias de hasta 30 mm y frío en zonas altas a partir de hoy y el fin de semana.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0d34b6979896db61"
+ },
+ {
+  "titulo": "Municipales de TJ alertan a asaltantes colombianos sobre operativos",
+  "liga": "https://elcongresista.mx/politica/baja-california/municipales-tijuana-alertan-asaltantes-colombianos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T02:46:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Policías municipales en Tijuana alertaron a asaltantes colombianos, lo que permitió su fuga tras ser denunciados por víctimas.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "6a49cf56d643a7b7"
+ },
+ {
   "titulo": "Municipales protegen a comando colombiano: Podcast.",
   "liga": "https://zetatijuana.com/2026/11/municipales-protegen-a-comando-colombiano-podcast/?utm_source=rss&utm_medium=rss&utm_campaign=municipales-protegen-a-comando-colombiano-podcast",
   "medio": "Zeta Tijuana",
@@ -12,6 +353,20 @@
   ],
   "local": true,
   "id": "19da9e28fc489281"
+ },
+ {
+  "titulo": "Banxico registra mínimo histórico en diferencial de tasas a 225 puntos",
+  "liga": "https://elcongresista.mx/finanzas/banxico-minimo-historico-diferencial-tasas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T02:20:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Banxico establece diferencial histórico de tasas en 225 puntos, impactando el tipo de cambio y la inflación en México.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "cd79e74c1be1b33a"
  },
  {
   "titulo": "Culto a la Santa Muerte reúne a familias en Tepatepec, Hidalgo",
@@ -657,6 +1012,76 @@
   ],
   "local": false,
   "id": "4d817a9a9cd861a7"
+ },
+ {
+  "titulo": "Hoy y mañana Clínica Mil Sonrisas del Club Rotario de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYU55ZDJ0U2xPQzVLNWduQ2RrZDJkbU9SME10SC0xYkRYZDFJUnZxZ3gycUREX2dtR18tM0ExbDZrZkF3SU5kZEpUY0lDU3NKMDlBM2g1YnlBdk51clp2bDlBUm1RUXNRMnp2RUVTakZKNHN6SmdOcURfSGdqWE5vemZoOVlMWDVucVdiX0JBeG1EdVdTQ0xBd3FwLVUzMHdZeGYxMGxHWjgzTVlIdU1LeTVtVWFUUXM?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-06T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Hoy y mañana Clínica Mil Sonrisas del Club Rotario de Ensenada El Vigía",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "c4df46d27b1a519d"
+ },
+ {
+  "titulo": "Tiroteo ofensivo entre los Devil Bats y Sharks",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2gyT0VzdHdNRWlQWTFqNDdBeGVOczR6VWFxN3ktbzRJV2R0QmFKSWlqQmcwbFlXdDk4QTlROTNuSEkwa0Z1ZUdQNWRQNFREYWJRUXduQVBlOGsxZmcwTlY0YVUxUFByYnl6dm0zYTdYZHJWNHFmX1podFAyY25udnZvdURWczhfVC1HMmY4UUF4dmoyWVhHU2tkREhNSngyUzRr?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-06T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Tiroteo ofensivo entre los Devil Bats y Sharks El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0bddf1cb1384bb99"
+ },
+ {
+  "titulo": "Toma ventaja Publicidad Márquez en la serie final",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUg3dnhyOFVXcWxibnpSeTNLSGF5aTNKdDZoNV9oaGN5MW5zaGpWdXlSVVY2TWd1UFNZa0ZjWmtGYzBpQ05EMUFNV2xRX081SjhpOGhyN1c2RkVOcXhPN1FJYV9mMWctWHRqTWgyYjYxWFQyNmFieWRLZmlrRFItNU9JbXh3YjBVaHhkM2wxOUVkZkM3eTVjMmRZVFlFOUUwRFRkT1d0SQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-06T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Toma ventaja Publicidad Márquez en la serie final El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d2d32936e26b2507"
+ },
+ {
+  "titulo": "Los Tigres del Norte celebran el voto latino",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVF9Dckl0amdYTkVad3FUUDdkc19OcnA4cTZ0S0Y5SDViWDRVZVkxaGlDaXBSZEtlYm1ORzBMdHd3dUJndTJTYTFZZ2VZc1REQ1F5RmN4UmwxX3d5dHczNlp2OWp3YlU0U09ZOXdueXQ3a3BEQk1jMzJXNlZVWElnWHpuM0ZaemY1dWNVNXBPWXlmbm1nSk5ub2JHbHVvZ3JZLTJRbTNR?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-06T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Los Tigres del Norte celebran el voto latino El Vigía",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "9e6386b539b4d0bb"
+ },
+ {
+  "titulo": "Amplía BC acceso a DH con inclusión",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWpVaHNSYUFCZl93WnpiX3dLSVczYWhpeFlwTlkxRFBRbU5keEswVHc4THlybU1oN1ZpclQ1em9OMXdFZ2sxWVM0U3o5YXNTVEtuQTJSVUZzNzJMZ0lkWldXTlp5dVdQQ0IxLUN6c1JrdzB5YzhrMW8xbU1mUUxyMEVaYXk4bE1nZkRHdDlDemlvM3c?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-06T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T04:37:20-06:00",
+  "resumen": "Amplía BC acceso a DH con inclusión El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "da06e6d44ad08d82"
  },
  {
   "titulo": "DA2 Salamanca: Aura Satz presenta exploración sonora en Visiones Contemporáneas",
