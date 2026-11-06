@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-06T02:19-06:00",
+ "actualizado": "2026-11-06T03:30-06:00",
  "corte": "2026-11-06",
  "ventana": [
   "2026-11-05T20:00-06:00",
   "2026-11-06T20:00-06:00"
  ],
- "total": 122,
+ "total": 168,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -45,8 +45,8 @@
   },
   {
    "fuente": "El Congresista",
-   "ok": true,
-   "notas": 30
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "fuente": "El Portavoz",
@@ -71,12 +71,12 @@
   {
    "fuente": "Google News: Ensenada",
    "ok": true,
-   "notas": 92
+   "notas": 100
   },
   {
    "fuente": "Google News: site:elvigia.net",
    "ok": true,
-   "notas": 70
+   "notas": 100
   },
   {
    "fuente": "Google News: site:bajanews.mx",
@@ -91,7 +91,7 @@
   {
    "fuente": "Google News: site:zonanorte.mx",
    "ok": true,
-   "notas": 0
+   "notas": 1
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
