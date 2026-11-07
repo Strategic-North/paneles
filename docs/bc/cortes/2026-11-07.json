@@ -1,5 +1,106 @@
 [
  {
+  "titulo": "Esteban Capella se postulará como candidato independiente a TJ.",
+  "liga": "https://elcongresista.mx/politica/baja-california/esteban-capella-tijuana-candidatura-independiente",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T01:48:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Esteban Capella Ibarra busca nuevamente la alcaldía de Tijuana como independiente, logrando 44 mil 262 firmas para su candidatura.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "4bb741970cb165b6"
+ },
+ {
+  "titulo": "Titulares de salud destacan avances en infraestructura hospitalaria",
+  "liga": "https://elcongresista.mx/salud/titulares-salud-avances-infraestructura-hospitalaria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T01:30:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Titulares del sector salud reportan 34 hospitales inaugurados en dos años de gobierno de Claudia Sheinbaum, buscando mejorar la atención médica.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "c5dd0d2b634a65d9"
+ },
+ {
+  "titulo": "Carrera contra la Violencia de Género en Salamanca provoca cortes de tráfico",
+  "liga": "https://elcongresista.mx/politica/guanajuato/carrera-violencia-genero-salamanca-cortes-trafico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T01:24:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "La Carrera contra la Violencia de Género en Salamanca provocará cortes de tráfico este domingo a partir de las 10:00 horas.",
+  "temas": [
+   "Seguridad",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aefc68edfa864ff5"
+ },
+ {
+  "titulo": "En prisión, tres de los asesinos de Dayna Molina registrado en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3cU9kVHhOZXNPcGdQNzdtcWVaSUlVNml5ay01WDlBS0lUZzg3bFBuWWZhTjluTFFxVnlrVnZSYUZvbHp2ZGdOTmpINjA3NEhpcVc5RVFSV1h0YWs?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-07T01:20:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "En prisión, tres de los asesinos de Dayna Molina registrado en Ensenada Ensenada.Net",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "340fd9fec9c278f6"
+ },
+ {
+  "titulo": "Trabajadores del Poder Judicial protestan en 20 estados por nueva evaluación",
+  "liga": "https://elcongresista.mx/justicia/protestas-poder-judicial-evaluacion-laboral",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T01:16:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Trabajadores del Poder Judicial en México protestan en más de 20 estados contra nueva evaluación laboral del Órgano de Administración Judicial.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "94f67ffa1d61350c"
+ },
+ {
+  "titulo": "Legisladores acusan a Morena de manipular comparecencia en salud",
+  "liga": "https://elcongresista.mx/salud/comparecencia-sector-salud-morena",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T01:15:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Legisladores critican manipulación de comparecencia del sector salud en la Cámara de Diputados y exigen explicaciones.",
+  "temas": [
+   "Política y partidos",
+   "Salud"
+  ],
+  "local": false,
+  "id": "7eba9d4563e385e0"
+ },
+ {
+  "titulo": "Trabajadores del Poder Judicial inician huelga en 17 entidades.",
+  "liga": "https://elcongresista.mx/justicia/huelga-poder-judicial-17-entidades",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T00:47:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Trabajadores del Poder Judicial inician huelga en 17 entidades por un nuevo esquema de evaluación considerado arbitrario.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b8a2bd0412402672"
+ },
+ {
   "titulo": "La Brújula Octubre 2026 No.157",
   "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVF81WlZDeEs0YWpEVGxid3VTeDFqU1VjcEtVQTh5MURLRHJMZzlSN0JuZF96VHJSS0FaYWxLN0J6UWRFQXlUbFBBZHM3NEZDczBMTkU2elBVOEtzcFVLZVFhV05HRDFZLTI5OEhuS1hCQVE5QnpVM2UxRkdBSG1DOHFCOXhVREI4WEFhdjZzMVc?oc=5",
   "medio": "El Vigía",
@@ -12,6 +113,63 @@
   ],
   "local": false,
   "id": "2c197c5ea6ffb7ae"
+ },
+ {
+  "titulo": "INE denuncia a ex consejera por sobornos en comedores por 17 millones",
+  "liga": "https://elcongresista.mx/justicia/ine-denuncia-taddei-sobornos-comedores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T00:46:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "El INE denuncia a Guadalupe Taddei por sobornos en comedores, revelando un esquema de corrupción por 17 millones de pesos.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f936aec9fcc2df4a"
+ },
+ {
+  "titulo": "Condenan vandalismo con esvástica en sitio histórico de Ciudad Juárez",
+  "liga": "https://elcongresista.mx/politica/chihuahua/condenan-vandalismo-esvastica-ciudad-juarez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T00:24:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Autoridades de Ciudad Juárez investigan vandalismo con esvástica en complejo histórico, generando repudio en la comunidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c687b7178d1519bc"
+ },
+ {
+  "titulo": "Padres firman a Nick Pratto y Ángel Hernández en movimientos offseason",
+  "liga": "https://elcongresista.mx/politica/michoacan/padres-firman-nick-pratto-angel-hernandez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T00:23:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Padres de San Diego firman a Nick Pratto y Ángel Hernández en su inicio de pretemporada, buscando reforzar su plantilla.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d1902f577967807a"
+ },
+ {
+  "titulo": "Investigadores revelan fragmentos de ADN de coyote en chihuahuas",
+  "liga": "https://elcongresista.mx/politica/nacional/adn-coyote-chihuahuas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T00:22:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Investigadores de Stanford hallan ADN de coyote en chihuahuas, revelando un legado genético de perros indígenas de México.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ad907dd03ca147bc"
  },
  {
   "titulo": "INE denunció ante la FGR a Taddei y otros exfuncionarios",
@@ -40,6 +198,50 @@
   ],
   "local": true,
   "id": "d670841dc5608285"
+ },
+ {
+  "titulo": "SSEM evita que familias mexiquenses paguen 3.7 millones por extorsión",
+  "liga": "https://elcongresista.mx/seguridad/ssem-evita-pagos-extorsion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T00:10:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "La Secretaría de Seguridad del Estado de México impide que familias paguen 3.7 millones de pesos ante intentos de extorsión.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "bcc5e5a81d3aad8b"
+ },
+ {
+  "titulo": "Gobierno del Estado de México supervisa 48 consultorios en Toluca",
+  "liga": "https://elcongresista.mx/politica/edomex/supervisa-consultorios-toluca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T00:09:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "El Gobierno del Estado de México supervisa la instalación de 48 consultorios en Toluca, que comenzarán a operar en 2027.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e75289b60e9e7749"
+ },
+ {
+  "titulo": "Heredero, artista de 'Coqueta', alcanza más de 300M de reproducciones.",
+  "liga": "https://elcongresista.mx/cultura/heredero-coqueta-300-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T00:04:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "El artista colombiano Heredero supera 300 millones de reproducciones de 'Coqueta' y presenta su música en Estados Unidos.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "ba08a853ff193959"
  },
  {
   "titulo": "Realizará Estado colecta de juguetes para niños de San Quintín",
@@ -298,6 +500,20 @@
   ],
   "local": false,
   "id": "2eda7a616c5219cc"
+ },
+ {
+  "titulo": "Clima Ensenada: Sábado 7 de noviembre con cielo claro y temperaturas agradables",
+  "liga": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWk1NbDhkcnRRUjdzcVlRS2l4cDdkUWpOTVpGUEhJb2dCMmpteC1DMDBNWTN2SUZhYkR2eHVqRnR2U0NwMjFLcUU3VkZSaU1vQURqX1NUV1BkM3NGQ2pZWkxaLVk2M2VwbnNyWVhWZG93S2xud3JNYy1Nb1NvdkRtdXBCck5tcGw5S1BhUVhQS1dvYnFreUJNWEEyamtkUEZLaGJ6VWJ4cFM4bFhPVjNxMVdJWWJYeWo2dTVQcXFlVXcwRXVfeXNmNVNxalZqc1pqNVdhWjJqTEtXdkdld2hMWUJBV01nWjJwc2RoVW02Y25RWEFreUh3ZndJTDBkR084TWVSUHlZX0h5emdaeVJZVFJRSThHeG5qbG1zRA?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-06T23:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Clima Ensenada: Sábado 7 de noviembre con cielo claro y temperaturas agradables El Heraldo de México",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "1325efd0b0036c1b"
  },
  {
   "titulo": "Congreso define calendario para la glosa del Quinto Informe de Gobierno",
@@ -1519,6 +1735,20 @@
   ],
   "local": true,
   "id": "e8163c68c383eb1d"
+ },
+ {
+  "titulo": "Yael Padilla e Ian Olvera irán a giras con selecciones menores",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/yael-padilla-e-ian-olvera-iran-a-giras-con-selecciones-menores-33006503",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-06T20:08:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T02:00:24-06:00",
+  "resumen": "Los futbolistas de Xolos irán con la sub 23 y la sub 20 respectivamente",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e7c80cb494a0abcf"
  },
  {
   "titulo": "Entregan 62 apoyos económicos a familias de Tijuana para cubrir gastos básicos",
