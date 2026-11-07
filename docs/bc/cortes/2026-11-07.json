@@ -1,5 +1,335 @@
 [
  {
+  "titulo": "Con misa, mariachi y altar de muertos, honran memoria de 88 policías estatales caídos",
+  "liga": "https://puntonorte.info/2026/11/06/con-misa-mariachi-y-altar-de-muertos-honran-memoria-de-88-policias-estatales-caidos/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-06T22:49:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Tijuana.- Agentes de la Fuerza Estatal de Seguridad Ciudadana (FESC) y otras corporaciones estatales que perdieron la vida durante su labor, fueron homenajeados con un Altar de Muertos, en las instalaciones de la corporación bajacaliforniana. Una ceremonia para honrar su memoria,",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6a75c4af15af3e7a"
+ },
+ {
+  "titulo": "Geyse Ferreira se consagra campeona de goleo en Liga MX Femenil",
+  "liga": "https://elcongresista.mx/politica/nacional/geyse-ferreira-campeona-goleo-liga-mx-femenil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:35:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Geyse Ferreira se consagra campeona de goleo en la Liga MX Femenil con 21 goles en su primera temporada con el América.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5edb3600ea0d9f48"
+ },
+ {
+  "titulo": "Andrea Legarreta lleva a Alfredo Adame ante los tribunales por declaraciones en su contra",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTRjSTBwT015dU5XZGM1T091UVFGT1p0MTBxbFBSckZfOFlLcjlSV2lXV196TGFmSUdqZ0VrQ3MxdUJ1ZEE1QnM4eFFaWU1kNWhtaFl4cjJZTWh1UWZEUEwwUEswTmFabnozRThBVmxaUXVCUGI5dnNlZnpyY0VfZ1FPdk1WSmFYUFZIbGJpaW8xNHBaZkFmLTI4ZWo3dmxEb1c0TFJfdEg5cWtHeVFPeWlZeVgxYWJVVU5Cek00MGFzdXZJZ3hQOGZONA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-06T22:35:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Andrea Legarreta lleva a Alfredo Adame ante los tribunales por declaraciones en su contra Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6ebd280602e54dde"
+ },
+ {
+  "titulo": "Detienen a Erick \"N\" por feminicidio de Christian Ziboney en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/detienen-erick-n-feminicidio-christian-ziboney-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:34:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Erick “N” fue detenido en Sinaloa por el feminicidio de su pareja Christian Ziboney, elementos de la Guardia Nacional implicados en el caso.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e2b3e298adacf941"
+ },
+ {
+  "titulo": "Sheinbaum alerta sobre violencia en el noviazgo y el uso excesivo de celulares",
+  "liga": "https://elcongresista.mx/sociedad/sheinbaum-violencia-noviazgo-celulares",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:33:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Claudia Sheinbaum advierte sobre la violencia en el noviazgo y el uso excesivo de celulares durante la Jornada Nacional por La Paz en Chiapas.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0ae6c837529fc23f"
+ },
+ {
+  "titulo": "Protestan personas trans en Segob y exigen renuncia de Medina Padilla",
+  "liga": "https://elcongresista.mx/justicia/protesta-segob-personas-trans-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:32:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Personas trans manifiestan en la Segob exigiendo la renuncia de Arturo Medina Padilla por falta de atención a sus demandas.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "3540cd89d6c14e36"
+ },
+ {
+  "titulo": "INE denuncia a Guadalupe Taddei por presunta corrupción ante la FGR",
+  "liga": "https://elcongresista.mx/justicia/ine-denuncia-taddei-fgr",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:31:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "El INE presenta una denuncia formal contra Guadalupe Taddei ante la FGR por presunta corrupción en su gestión.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ff34aa657dc2c06e"
+ },
+ {
+  "titulo": "Colapsan Vialidades y Bulevares Principales en Villas del Sol en Ensenada, BC",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVllEZFZSREhMV0dJVHprS21xTG9rN28xRUdwcC02UWJ5WDM3WjdQSVc0bXBZNnFTUFpWcmlGMG9IX05HanJMWjhFenBZaG1UVDlmUFctM2VaRnM0U2VhR0lwd1hXTzBxOTFWS3pUSTRYNTVSU0FBVzdjLURUc2lJVVlpcU9vX0txVXRoUmtzVmJXVHlLWGZqV3B0Y2dtSUZwX0RBMG13Yml0OVBoVUpUZ0tkZTByRl9sY01KMnU5NER2b1My?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-06T22:26:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Colapsan Vialidades y Bulevares Principales en Villas del Sol en Ensenada, BC N+",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "48c3646793666f9c"
+ },
+ {
+  "titulo": "Hallan cuerpo dentro de un tambo azul en Ejido Matamoros; detienen a un hombre",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWm50WXMtUGRsdXltSDZCQk85TC1RYWV0SXR3LUNKdFhLZGtuSW1BRktRWDYxUmwyMWJDZ0dFUWhFaExmclp0RFhvS09oVlNPWU5DbXl0c1kxMmpwQlVtaHFVbml3dUs2eWdDd3AxSXYxczZwMDIyRDFwVXJBQkVuMjVTMFIwemNna0o3bEl3Nk1RNUd3NTNkbDQzRC01QVd3eHZTUnl4NzVDUGticDFBWTJxVQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-06T22:21:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Hallan cuerpo dentro de un tambo azul en Ejido Matamoros; detienen a un hombre Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "51a8596aa28afaa6"
+ },
+ {
+  "titulo": "Resultados Tris Clásico hoy 6 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-clasico-sorteo-36902",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:20:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "El sorteo Tris Clásico número 36902 se celebró este 6 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7cc621b03e7b3bef"
+ },
+ {
+  "titulo": "Vadhir Derbez bajo investigación por violación; obtiene amparo",
+  "liga": "https://elcongresista.mx/justicia/vadhir-derbez-investigacion-violacion-amparo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:15:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Vadhir Derbez está bajo investigación por violación y ha obtenido un amparo que le permite enfrentar el proceso en libertad.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7f4c39092ce66b5b"
+ },
+ {
+  "titulo": "Dejan tambo con un cadáver dentro; hay un detenido",
+  "liga": "https://puntonorte.info/2026/11/06/dejan-tambo-con-un-cadaver-dentro-hay-un-detenido/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-06T22:08:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Tijuana.- El cadáver de un hombre con huellas de violencia fue encontrado dentro de un tambo de plástico azul, abandonado a mitad de una calle cerca del inmueble conocido como “El Barretal”. Policías municipales detuvieron a un hombre como sospechoso de haber abandonado el cuerpo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "15b2e7951c72c566"
+ },
+ {
+  "titulo": "Vuelca tráiler en bulevar Bellas Artes y provoca congestionamiento vial en Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/vuelca-trailer-bulevar-bellas-artes-provoca-congestionamiento-vial-tijuana-n913020",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-06T22:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "La volcadura de un tráiler en Bellas Artes y carretera Aeropuerto provocó congestionamiento vial; no se reportaron lesionados y se estimó liberar la circulación a las 22:00 horas.",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "f15875e389b492bc"
+ },
+ {
+  "titulo": "Atacan cancha de fútbol en Miacatlán, Morelos; un muerto y un herido",
+  "liga": "https://elcongresista.mx/morelos/ataque-cancha-futbol-miacatlan-morelos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:06:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Un ataque armado en una cancha de fútbol en Miacatlán, Morelos, dejó un muerto y un menor herido. Las autoridades investigan.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "bf07685510f2cebd"
+ },
+ {
+  "titulo": "Baja California rinde homenaje a 82 agentes de la FESC caídos en deber",
+  "liga": "https://elcongresista.mx/politica/baja-california/homenaje-fesc-agentes-caidos-baja-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:04:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "La FESC conmemora a 82 agentes caídos en homenaje con misa en Mexicali, recordando su sacrificio en servicio.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "29632e74a3338bb3"
+ },
+ {
+  "titulo": "Xolos cae por la mínima ante Necaxa en Aguascalientes",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3Bub2pXS3I0QUE4dHBKckF2anJqVGhxek9TYzNZLUp0Nkc4aHF5Uk5PM05VMkxJcnVzN291VVBibm1xVldzcW1tejc3VTVNQXNZeGJrTlE2M08wVERxSVZ1czdOLUE2eUxsSUdPSzJ2OFY3QllLVHlJUk5JUTc3WFpYaXAxMHBNYjZyblNqaHVPamRKSGhka1oxUEdQbXZKU0RCNlp3?oc=5",
+  "medio": "En Linea BC",
+  "publicada": "2026-11-06T22:03:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Xolos cae por la mínima ante Necaxa en Aguascalientes En Linea BC",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "d1f933eea7de62a3"
+ },
+ {
+  "titulo": "Itzela Meza denuncia falta de motivo tras su despido en la FESC",
+  "liga": "https://elcongresista.mx/politica/baja-california/itzela-meza-despido-fesc",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:03:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Itzela Meza es removida de su puesto como coordinadora en la FESC y espera regresar a patrullar en Tijuana.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "2066cf3e9d7abf5f"
+ },
+ {
+  "titulo": "Localizan cadáver en tambo en Tijuana; hay un detenido",
+  "liga": "https://elcongresista.mx/politica/baja-california/hallan-cadaver-tambo-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:03:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Un hombre fue encontrado sin vida en un tambo en Tijuana. Las autoridades han detenido a un sospechoso vinculado al caso.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "4a726800ca7d9e82"
+ },
+ {
+  "titulo": "Volcadura de Tráiler Colapsa Tránsito en Bulevar Bellas Artes en Tijuana, BC",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYk5KOTVUSG95TThWZ0J4bDllTm5BWkRJRXhtbWswbWV0UkRkTmhza3BHSkNVUmF3dllyYW8tM0NoZDlZU2RCY2NyX1FxVzdVRGU5RU1odmhiRGlGbU16YVIyU0pqZ19HSTdMa2FjZkpPMUlSLXkwdHNRS1gzbGZaZkFqSnNfT1V5aTZPWENoWXpqM2tGdGVNTUpHZ1BHdktDOFpJeGlac0xGeGJHQkVISUdHYWdhNDhsbExDcExETVlIRWFIMGxlcERuVUZNQVRrQ2Q0?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-06T22:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Volcadura de Tráiler Colapsa Tránsito en Bulevar Bellas Artes en Tijuana, BC N+",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "cf94fac8a3a828c9"
+ },
+ {
+  "titulo": "Leobardo Alcalá critica a Sheinbaum y defiende a Guadalupe Taddei",
+  "liga": "https://elcongresista.mx/politica/baja-california/leobardo-alcala-sheibaum-taddei-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T22:01:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Leobardo Alcalá, secretario del partido Somos, defiende a Taddei y critica acusaciones de Sheinbaum, durante su visita a Tijuana.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1af438831e879765"
+ },
+ {
+  "titulo": "MURO DEPORTIVO: Pacers y Nuggets celebran Día de los Muertos con juego de la NBA en México",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZllRMkIydHQxOF9EWnlxSmxnektQRnVJSE15djRmd1U1N3VyMW9nR3dlSThQX19HMk9pME9qOUlMZnU5TWx4b2Zlb2NZVHdEMmc5aVY5SlZxX19YaXNibVBKbHNmMmJ2QVc5eUp3LVZMbEtHRWFmckFTUDlXcEk3Tkk4dy1GYUp3SjYyWUZoaVFtT0p1THNaekxLdmduc3EyRGdweGxfQnVUY0MxNnpNMmNlOC1lT1VWNUN3MGdGVHJrTGM?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-06T21:59:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "MURO DEPORTIVO: Pacers y Nuggets celebran Día de los Muertos con juego de la NBA en México Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "ac3820ce4f0fa01c"
+ },
+ {
+  "titulo": "Absuelven a dueñas de perros que mataron a ‘Amparito’ en Mexicali",
+  "liga": "https://jornadabc.com.mx/principales/absuelven-a-duenas-de-perros-que-mataron-a-amparito-en-mexicali/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-06T21:57:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "El tribunal ordenó levantar de inmediato la prisión preventiva oficiosa que pesaba sobre ambas mujeres dueñas de los animales La entrada Absuelven a dueñas de perros que mataron a ‘Amparito’ en Mexicali se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d59950d58551d268"
+ },
+ {
+  "titulo": "Ejercito libera a hombre secuestrado en Culiacán; un detenido",
+  "liga": "https://elcongresista.mx/politica/sinaloa/ejercito-libera-hombre-secuestrado-culiacan-detenido",
+  "medio": "El Congresista",
+  "publicada": "2026-11-06T21:50:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "El Ejército Mexicano rescata a Joaquín, un hombre secuestrado en Culiacán, y detiene a un implicado en el suceso.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4e99254813c21168"
+ },
+ {
   "titulo": "Gobierno de Parral invierte más de 381 mil en restaurar monumentos.",
   "liga": "https://elcongresista.mx/politica/chihuahua/gobierno-parral-restauracion-monumentos",
   "medio": "El Congresista",
@@ -29,6 +359,21 @@
   ],
   "local": false,
   "id": "7fe5dc1d4ef0550e"
+ },
+ {
+  "titulo": "Fiscalía realiza jornada de salud para promover la detección temprana del cáncer de mama",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNFY1eHNJdnlhN293bXRfMmVrYTN5Mmo0aVRPS2RjMG5wbVVzTDNOeDNwcS12cXhpekFyXzl1Q2VYN3hreEg5SUY5TlJWNTA0OVVqaS1kT25wSmR4YXd4dFNkWmJ3b3hpa1M4dWZncGdQTXZHTUZJRVhCQXAzX3VWb3Ffa1NNR0YtdnNlX1FsQUM1MW5zT3B1MWdua3lyOVpBZVhrb0NDT2tCRzM4OG1Xa0JaVG5RQkYyUWZzRDJVRlhLQjJxMjJfSjBRRkFObFBXLUUxdmhydkpIOWM5?oc=5",
+  "medio": "En Linea BC",
+  "publicada": "2026-11-06T21:48:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "Fiscalía realiza jornada de salud para promover la detección temprana del cáncer de mama En Linea BC",
+  "temas": [
+   "Seguridad",
+   "Salud"
+  ],
+  "local": false,
+  "id": "27d6f9f523d48042"
  },
  {
   "titulo": "Feria de Querétaro: Evento Canino Navideño se realizará en noviembre",
@@ -410,6 +755,20 @@
   ],
   "local": false,
   "id": "3326345deb30a27b"
+ },
+ {
+  "titulo": "Hallan cadáver dentro de un tambo en Ejido Matamoros; hay un detenido",
+  "liga": "https://zetatijuana.com/2026/11/hallan-cadaver-dentro-de-un-tambo-en-ejido-matamoros-hay-un-detenido/?utm_source=rss&utm_medium=rss&utm_campaign=hallan-cadaver-dentro-de-un-tambo-en-ejido-matamoros-hay-un-detenido",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-06T21:00:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-06T22:53:16-06:00",
+  "resumen": "El cuerpo de un hombre, que no ha sido identificado, fue localizado dentro de un tambo azul en la colonia Ejido Matamoros, en Tijuana. Por estos hechos, hay una persona detenida",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "efb260dec04208ed"
  },
  {
   "titulo": "Hutchison Ports invierte 20 mdp en tecnología para capacitación portuaria",
