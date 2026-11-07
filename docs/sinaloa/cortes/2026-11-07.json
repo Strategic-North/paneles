@@ -1,5 +1,508 @@
 [
  {
+  "titulo": "Gobierno de Sinaloa reconoce esfuerzo ciudadano y empresarial en la recuperación de espacios del centro de Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWjVUeGJXTXpLaWlYYzZOTmw3aDNxWlprb0pSSU5FU2dNek1nY1RWNi05Qm43Z1h3cGxQZUJHWUVDbHpKN2g4VGdQQnZjZXB2ODU5Z3B0anNsZktQeUs1MlhMaTlZS3pKcEwtSXlVcS1ldGhmYnRsSzEyckh1TmpTbHB5ZlpoQV8zNUtzclZRVl9YbE5Fc2MzVjJaX3JQN25TbEI5cUhQblNUNUp0OW5ISTBTWGRURGVuWjZWVmdidzU2Rk5WdnAzNzFlM0lMTHdLUjFhckNwWXdRQU9B?oc=5",
+  "medio": "Cafe Negro Portal",
+  "publicada": "2026-11-07T13:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Gobierno de Sinaloa reconoce esfuerzo ciudadano y empresarial en la recuperación de espacios del centro de Culiacán Cafe Negro Portal",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "6779e8cd2502b119"
+ },
+ {
+  "titulo": "Matan a Balazos a Enrique Quiñones, ex Pitcher de Tomateros, en Mazatlán, Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPck9Ub0Vrb21vc1VuZ1pWM2FjZ1hQbWFaS0NGMzlxRElvTUs0MUp0R0JzQjg2MkEteDlHQ1hlSGxXSUU3MjNkQjRFb0FGRnJ6Q3Rrbm5nNDQtcTJMdkdzOEs2R092VGpSS3NtV05jYlRIa0V2ckpsRFE5cEFmN3FoWmNsZFB6dzFScXozUWpWY2NacHExV1lETndXSG83QmhqeWhUYl9ySzdjanVlX2lCNmM2T3RIbktEMnJzYg?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-07T13:39:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Matan a Balazos a Enrique Quiñones, ex Pitcher de Tomateros, en Mazatlán, Sinaloa N+",
+  "temas": [
+   "Campo y pesca",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3bbf407aa3e76992"
+ },
+ {
+  "titulo": "UAdeO enfrenta déficit de 105 millones de pesos; rector confía en reunir recursos para pagar aguinaldos",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/uadeo-enfrenta-deficit-de-105-millones-de-pesos-rector-confia-en-reunir-recursos-para-pagar-aguinaldos-1162970/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-07T13:39:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Pedro Flores Leal señaló que mantienen gestiones con autoridades federales y estatales; la universidad requiere alrededor de 100 millones de pesos para cubrir aguinaldos y prima",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "9d7e058cede39955"
+ },
+ {
+  "titulo": "Identifican a hombre localizado sin vida en la Antonio Toledo Corro; tenía ficha de búsqueda",
+  "liga": "https://lineadirectaportal.com/policiaca/identifican-a-hombre-localizado-sin-vida-en-la-antonio-toledo-corro-tenia-ficha-de-busqueda-2026-11-07__1735095",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-07T13:38:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Se trata de Jesús Dayan, de 29 años, quien fue privado de la libertad por hombres armados cuando se dirigía a un supermercado en la colonia Lázaro Cárdenas",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "75a6b167c3c420e4"
+ },
+ {
+  "titulo": "Trasladan a hospitales a pacientes del IMSS incendiado en Uruapan",
+  "liga": "https://sinaloa.quadratin.com.mx/trasladan-a-hospitales-a-pacientes-del-imss-incendiado-en-uruapan/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-07T13:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "El siniestro se reportó la medianoche del viernes",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "ee817edb5d4c0e4d"
+ },
+ {
+  "titulo": "Ante violencia en Sinaloa, proponen comunicación de emergencia entre escuelas y padres",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQkQxY2tQZ0FrUzZnZHJfTEZ4SXBGVHpKWElvUi1TM2o4NVZzRzl2QmlrTWR5ak5vR2lFTTRFaW5CUUdJMU9MbkVZZlB4V2JablpOcGVBZFBHSUZmWnNyNE4yVWhkeC02NHU2R2ZlamZGZGpJMGpROFdrZXBvVjZ0U0RRemFONHVJQ09xeGVfZlRLOFplRERGMGpZV0x5aXhqVlcxeTA3VlBicXBKNnh2WWdnVkl1NWhlRlNUYlVBenZGNHBrdnl2SElhZVE2ZGc?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-07T13:33:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Ante violencia en Sinaloa, proponen comunicación de emergencia entre escuelas y padres El Sol de México",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "a57cd227c2fcdcd5"
+ },
+ {
+  "titulo": "Profeco suspende tiendas chinas en 2 estados por estas razones",
+  "liga": "https://www.luznoticias.mx/2026-11-07/mexico/profeco-suspende-tiendas-chinas-en-2-estados-por-estas-razones/313997",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T13:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3033f89e72e27c59"
+ },
+ {
+  "titulo": "Recibo de la luz CFE: cómo descargarlo para comprobante de domicilio",
+  "liga": "https://www.luznoticias.mx/2026-11-07/mexico/recibo-de-la-luz-cfe-como-descargarlo-para-comprobante-de-domicilio/313605",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T13:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "b1554f56638fb4ce"
+ },
+ {
+  "titulo": "Sin apoyos extraordinarios, UAS enfrenta otro cierre de año complicado",
+  "liga": "https://punto.mx/2026/11/07/sin-apoyos-extraordinarios-uas-enfrenta-otro-cierre-de-ano-complicado/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-07T13:28:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "La UAS requiere $1,380 millones para cubrir las últimas quincenas de este año y el aguinaldo de sus casi 20 mil trabajadores y empezar un 2027 'tablas' La entrada Sin apoyos extraordinarios, UAS enfrenta otro cierre de año complicado se publicó primero en Punto MX .",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "7799a0fb578605cc"
+ },
+ {
+  "titulo": "Las emergencias no paran: Bomberos Culiacán atendió 167 servicios en octubre",
+  "liga": "https://lineadirectaportal.com/sinaloa/las-emergencias-no-paran-bomberos-culiacan-atendio-167-servicios-en-octubre-2026-11-07__1735092",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-07T13:27:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "En un reporte compartió por el departamento de Bomberos, se indicó que los principales reportes fueron por fugas de gas LP",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7024cf72b4e1b222"
+ },
+ {
+  "titulo": "Enrique Quiñónez, el mazatleco que escribió una página histórica con Tomateros: su brazo consiguió el primer sin hit ni carrera del equipo",
+  "liga": "https://losnoticieristas.com/deportes/2026/11/enrique-quinonez-el-mazatleco-que-escribio-una-pagina-historica-con-tomateros-su-brazo-consiguio-el-primer-sin-hit-ni-carrera-del-equipo-1162969/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-07T13:27:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "El expelotero profesional construyó una carrera de casi dos décadas en el beisbol mexicano y alcanzó la inmortalidad deportiva el 21 de noviembre de 2000, cuando silenció por completo a los Águilas de Mexicali en el antiguo estadio Ángel Flores en Culiacán, Sinaloa.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "dfd790d0ca7202b5"
+ },
+ {
+  "titulo": "Asesinan en Mazatlán a ex pitcher de Tomateros",
+  "liga": "https://lado.mx/noticia/22256385/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-07T13:26:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Asesinan a balazos en Mazatlán, Sinaloa, a Enrique Quiñones, histórico ex lanzador de los Tomateros de Culiacán.",
+  "temas": [
+   "Seguridad",
+   "Campo y pesca",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5e56cde6cdaeb55a"
+ },
+ {
+  "titulo": "Balean a hombre en la colonia Rincón de Mazatlán cerca del Hospital militar",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2tPTkVSbTRZLTVJZ3BOV0hDU2pVMGNqVFFTZVRlZnhmT3JmUTM4SFFrSEtnYURkQUo4dm1rSF9nVHYwZ0QzUXItTkRlYkllaVFiUTBZRGhLWjJEUElOZmhtTlBSclBQTjY5Q2Y4QVJpQkhJN2U4M2JYWUZzOE8wbVMyOUNoVVdTckZSNWc4TlJFc1BxYktaaXlqaVVrWlZxQ25fLWJScWdoYVl4bmFhaWtlNEU3bjJXQXBDc1RzWVFkUXF4TlRKeTVRVU16VTFvY2IwMQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-07T13:26:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Balean a hombre en la colonia Rincón de Mazatlán cerca del Hospital militar Debate",
+  "temas": [
+   "Seguridad",
+   "Salud"
+  ],
+  "local": true,
+  "id": "14b4c1552784aef5"
+ },
+ {
+  "titulo": "Inicia cosecha de cacahuate en Sinaloa con precio de 15 pesos el kilo",
+  "liga": "https://www.luznoticias.mx/2026-11-07/agro/inicia-cosecha-de-cacahuate-en-sinaloa-con-precio-de-15-pesos-el-kilo/313996",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T13:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "54cb8b79dc8bdc84"
+ },
+ {
+  "titulo": "Hijos de Rubén Rocha Moya acumulan negocios con el gobierno de Sinaloa por casi 100 mdp",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSldDTThKQmFGUmlzcmdRUlpqeWd1LTdLN25RMUpGY0FxN0JOTmRPQnUxTDhweG9HOXhqaWJhXzZOZmQwVm1sSm96TGt3bGZFMWQtb1p3TmltYTRGV2k4d0lfOWFaMTVVWjRhaGlUc1VVd1F0RDctZkVDQ3lWS0ZPWjJaSlNQbUJQQzdBa19CMjk2OVdVa3N1Wm5yaDYtaVNBd29YdXdRRk9ydXFoUldaTlVCY25aTXlhaDd3?oc=5",
+  "medio": "PolíticoMX",
+  "publicada": "2026-11-07T13:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Hijos de Rubén Rocha Moya acumulan negocios con el gobierno de Sinaloa por casi 100 mdp PolíticoMX",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "16e1a3434a8303b8"
+ },
+ {
+  "titulo": "Asesinan a tiros al ex jugador de Los Tomateros de Culiacán, Enrique Quiñonez",
+  "liga": "https://reflectores.mx/asesinan-a-tiros-al-ex-jugador-de-los-tomateros-de-culiacan-enrique-quinonez/",
+  "medio": "Reflectores",
+  "publicada": "2026-11-07T13:25:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "El ex jugador profesional fue interceptado por hombres armados que viajaban en otro vehículo y le dispararon en repetidas ocasiones. The post Asesinan a tiros al ex jugador de Los Tomateros de Culiacán, Enrique Quiñonez appeared first on ReflectoresMX .",
+  "temas": [
+   "Seguridad",
+   "Campo y pesca",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "9a9216d64a5046be"
+ },
+ {
+  "titulo": "Imelda Castro se reúne con dirigente nacional del SNTE, Alfonso Cepeda y líderes del magisterio de Sinaloa",
+  "liga": "https://lado.mx/noticia/22256353/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-07T13:25:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "La coordinadora de la Defensa de la Transformación y la Soberanía Nacional de Morena en Sinaloa destacó la importancia de mantener el diálogo cercano con los dirigentes magisteriales de la entidad",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "3f0e34d7d65912a2"
+ },
+ {
+  "titulo": "Sábado de buen pitcheo en la Liga Mexicana del Pacífico Banamex",
+  "liga": "https://lado.mx/noticia/22256354/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-07T13:25:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Uno de los duelos que llama la atención será el enfrentamiento entre Cañeros de Los Mochis y Águilas de Mexicali.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "df290ab705eaf65b"
+ },
+ {
+  "titulo": "Inicia SICT trabajos de bacheo en salida y acceso norte de Mazatlán, Sinaloa",
+  "liga": "https://lado.mx/noticia/22256355/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-07T13:25:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Los trabajos consisten en la reparación de los puntos que presentan daños en la superficie de rodamiento, con el propósito de mejorar las condiciones de circulación y brindar mayor seguridad a automovilistas y transportistas que utilizan diariamente esta carretera.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "d580013e3540b8c9"
+ },
+ {
+  "titulo": "Adolescente de 17 años pierde la vida en un hospital tras accidente en motocicleta en el sector Las Cerezas, en Los Mochis",
+  "liga": "https://lado.mx/noticia/22256356/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-07T13:25:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Quién falleció fue fue identificado como Héctor Santiago “M”, de 17 años de edad, con domicilio en la colonia Nuevo Siglo, en esta ciudad",
+  "temas": [
+   "Accidentes",
+   "Salud"
+  ],
+  "local": true,
+  "id": "4c9f9be1915f6ff7"
+ },
+ {
+  "titulo": "Arrastra UAdeO déficit de 105 mdp; aún no garantiza aguinaldos: Rector",
+  "liga": "https://www.noroeste.com.mx/culiacan/arrastra-uadeo-deficit-de-105-mdp-aun-no-garantiza-aguinaldos-rector-EB27159184",
+  "medio": "Noroeste",
+  "publicada": "2026-11-07T13:23:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "La Universidad Autónoma de Occidente (UAdeO) arrastra un déficit financiero de 105 millones de pesos desde 2024 y todavía no tiene garantizados los recursos para pagar los aguinaldos de sus trabajadores, reconoció el Rector Pedro Flores Leal. Explicó que el desequilibrio financie",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "9d5dd412a4b435f9"
+ },
+ {
+  "titulo": "PRI Mazatlán renueva su estructura municipal con nuevos perfiles y sectores",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmE3S1lWVVRCeWJqUWUtVFdycVBWSm5ONFkzLTFleXFsSFY5QVN2cXV1Qjlia25KVmozemRnMzJQNjhuaWsyaGlLaHpJSHdleXFsamFva25nQTJtVHA3MEc1eWhrZDUyMExNaW9PaDR2NkxaX2xNSzRCOHJISUpvYnZYek0tMDVKYkJKY3NHeXFtTmJWb2JoMTdLU2pGU3gtQmlraTg1TVBSeVpOWFZsOTJkOUxobVRXbFNNYnlTSWtNNEE4MnBJT25WdE9RQVhQQlZJ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-07T13:22:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "PRI Mazatlán renueva su estructura municipal con nuevos perfiles y sectores Debate",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ac39aa151ca1db7e"
+ },
+ {
+  "titulo": "¡En venta general! Starbucks lanza selección de piezas navideñas este 9 de noviembre; conoce precios y modelos",
+  "liga": "https://losnoticieristas.com/no-le-pierdas/2026/11/en-venta-general-starbucks-lanza-seleccion-de-piezas-navidenas-este-9-de-noviembre-conoce-precios-y-modelos-1162960/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-07T13:16:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Los coleccionistas y seguidores de Starbucks en México podrán adquirir las piezas de la temporada navideña de este año, especial para darle calidez a la temporada",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "dadfe9f1c0fc3d9c"
+ },
+ {
+  "titulo": "¡De Los Mochis a Miami! Estudiante de Medicina de la UAS gana concurso nacional de Neurocirugía",
+  "liga": "https://www.luznoticias.mx/2026-11-07/sinaloa/de-los-mochis-a-miami-estudiante-de-medicina-de-la-uas-gana-concurso-nacional-de-neurocirugia/313995",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T13:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "1b93bd813eb66b47"
+ },
+ {
+  "titulo": "Regresa a Yucatán el Congreso Mundial Brahman tras 22 años",
+  "liga": "https://sinaloa.quadratin.com.mx/regresa-a-yucatan-el-congreso-mundial-brahman-tras-22-anos/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-07T13:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Se realizará del 10 al 15 de noviembre",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "eb1bbc8ba4b1bc2e"
+ },
+ {
+  "titulo": "Definidas las semifinales de la categoría Pandas en el Torneo de los Barrios El Debate Guamúchil",
+  "liga": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcnBYMXpPZGN2QndNWWxDNGZpMXhaWFJ2Si1JLWRQdlpWOUtFYThMbG9Ba1RKOVBvaGplZTNoNGctR0tucGxoa2xxamJYbUYxbGdFdVQ2WWNNZldoZTd4VXg5Y3FJRl9tOEhSSTlSbDZndmpnemJPaGp6NE9xWC1uNEtyN0hjVzNsUHN3c0VvR19BaVNpNi1EOGlXeW9TLW9fVm51cEJYYzNzZ1YzMzNTVUd2V3pyQ3plc01LcWc2eFh0ZzkxeDN4OXN4MDRFbC1ZaUJOd1RxalpJZHo3ZUViV3g1R3h3VUZlYXJsNExTNDE?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-07T13:15:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Definidas las semifinales de la categoría Pandas en el Torneo de los Barrios El Debate Guamúchil Debate",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3ddc958ced5a0022"
+ },
+ {
+  "titulo": "Aseguran 50 equipos para minería de criptomonedas en Puebla y detienen a un hombre",
+  "liga": "https://riodoce.mx/2026/11/07/aseguran-50-equipos-para-mineria-de-criptomonedas-en-puebla-y-detienen-a-un-hombre/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-07T13:13:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e943dc1428e16936"
+ },
+ {
+  "titulo": "Héctor fallece en el hospital tras ser atropellado por conductor de aplicación en Los Mochis",
+  "liga": "https://lineadirectaportal.com/policiaca/hector-fallece-en-el-hospital-tras-ser-atropellado-por-conductor-de-aplicacion-en-los-mochis-2026-11-07__1735089",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-07T13:11:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "El adolescente de 17 años permaneció internado en una institución de salud, pero no logró recuperarse de sus lesiones",
+  "temas": [
+   "Accidentes",
+   "Salud",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a80560c411404b3a"
+ },
+ {
+  "titulo": "Ataque a balazos contra una vivienda en la colonia Salvador Allende desata persecución y deja dos detenidos en Mazatlán",
+  "liga": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOT1p1a0dyY3NaRVJjc0FKQzg0NFZQSlRWQ2ZhMGRyaENVMEd0SC1qN2NVQTRZck5pdGl5dXI5T1hxcnFxR3A4LVlldTZ1R3N5WV93cV8wVXhiNE1VVFNwTm5yWGhVU2xRQXppTHBNYVc2ZXR1VU9XT2FTc2pIQllBYmV5b25rZVNVUWdsdDNrdW9FWjBvUFhvMlZ0UFF2d21mS2p2MktLbmZxMU92RDNmcmZXLWhWckd4aEJ2R3pJQ0dKSThtSG9rTjNBNXd0RlVGNlZ1bUtEdG83X2c3cHBZa0h2VFgtdkxEemhtLWV6V0pEZ1BNWU9vdXhqMGs0VGJkZ3lHVDVCVG9rX0ZGeEdv?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-07T13:10:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Ataque a balazos contra una vivienda en la colonia Salvador Allende desata persecución y deja dos detenidos en Mazatlán Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5b043e0829c64f2a"
+ },
+ {
+  "titulo": "Día del Ferrocarrilero: el tren que impulsó el nacimiento de Guamúchil",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPekhBZEhrZ1lDeGEweXh0WDNBWlFpX2tlb1oyMkdvZUxmeWdDSTEyOFI1d0taOGRLS0xXSF8yVGNmQk5oV1ZNeUV4clBqeWpUcUl5Y0Q5STFxbFRtdW0wOFNwTG1DeXRjUnlWdUxnUXAwTG5xT2FaZEdoekFqeHcwR29rblItNThzQkZZSVBkVVctWExjbzRUNjJxTl8wWWdwdWNBS3dha0pxYk1XMi1XekNCRjJKcEdVZTk3TzlVcXNLaWlPeWdfb25qVlk?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-07T13:09:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Día del Ferrocarrilero: el tren que impulsó el nacimiento de Guamúchil debate.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "90c4d8c07128de1b"
+ },
+ {
+  "titulo": "Organiza Sinaloa Incluyente brunch revolucionario para recaudar fondos para el Pride 2027",
+  "liga": "https://www.noroeste.com.mx/culiacan/organiza-sinaloa-incluyente-brunch-revolucionario-para-recaudar-fondos-para-el-pride-2027-AB27158329",
+  "medio": "Noroeste",
+  "publicada": "2026-11-07T13:07:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Con presentaciones de drag queens sinaloenses, baile K-pop, música y comedia, Sinaloa Incluyente realizará el próximo domingo 15 de noviembre el Brunch Revolucionario, un encuentro multicultural con el que busca recaudar fondos para la organización del Pride 2027. Merlin Salcedo,",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "33bbc7a834417b16"
+ },
+ {
+  "titulo": "Inauguran primera etapa del Andador de la Salud en el centro de Culiacán",
+  "liga": "https://www.noroeste.com.mx/culiacan/inauguran-primera-etapa-del-andador-de-la-salud-en-el-centro-de-culiacan-AB27158945",
+  "medio": "Noroeste",
+  "publicada": "2026-11-07T13:07:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Con la instalación de 24 macetas inteligentes, fue inaugurada la primera etapa del Andador de la Salud, un proyecto ciudadano y empresarial que busca mejorar la imagen urbana y fortalecer la actividad económica en el centro de Culiacán. Durante el acto, realizado el viernes 6 de ",
+  "temas": [
+   "Salud",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "6ccc09db933f531d"
+ },
+ {
+  "titulo": "Recibe Cuypers su primer llamado con la Selección de Bélgica",
+  "liga": "https://sinaloa.quadratin.com.mx/recibe-cuypers-su-primer-llamado-con-la-seleccion-de-belgica/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-07T13:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "El atacante del Monterrey fue tomado en cuenta por Mark Van Bommel",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "14d910a84c64b558"
+ },
+ {
+  "titulo": "Qué impacto podría tener en México: Vórtice polar se debilita antes de tiempo y aumenta riesgo de frío",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZDNydFl2a2kwQlFqVGlVTnJ1a0lrQ0h6b0dIT2dIZ3ZZbjM4TDFja0hVUzdIcTcwTkYzRVRfTlFtbzN0Xy1PMWxmU2VRVkJqNlI0VmFGQXA2UkZUbnBHNnJsZHhXb2IwUmo5VXowZUR6dlFOU0ZrMWlMbkVYckttOFE3SkJFaTZhNkVDdFllM2ZWX2VfSVJEdkR4YmZoYWpHNG9FQzNfZExxTUMwZmlqT3praXp4QVZobHowRFNyQXVkUTdGaTkwXzdCWndYNm5MWGxoTGZhUjhFV3NxSTl1Q19NSC0yMzQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-07T13:03:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Qué impacto podría tener en México: Vórtice polar se debilita antes de tiempo y aumenta riesgo de frío Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "acf222291c4ee380"
+ },
+ {
+  "titulo": "¿Qué hacer en Mazatlán durante el invierno? Playas y paseos para disfrutar un fin de semana",
+  "liga": "https://www.luznoticias.mx/2026-11-07/sinaloa/que-hacer-en-mazatlan-durante-el-invierno-playas-y-paseos-para-disfrutar-un-fin-de-semana/313513",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T13:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ae39668bf87e6753"
+ },
+ {
   "titulo": "Llega La Magia del Cine al Teatro Ángela Peralta",
   "liga": "https://punto.mx/2026/11/07/llega-la-magia-del-cine-al-teatro-angela-peralta/",
   "medio": "Punto MX",
@@ -26,6 +529,22 @@
   ],
   "local": false,
   "id": "d6b6f78589495a62"
+ },
+ {
+  "titulo": "Asesinado en Mazatlán es exbeisbolista de Tomateros de Culiacán",
+  "liga": "https://sinaloa.quadratin.com.mx/asesinado-en-mazatlan-fue-pitcher-de-tomateros-de-culiacan/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-07T12:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Registró el primer juego sin hit ni carrera en la historia del equipo",
+  "temas": [
+   "Seguridad",
+   "Campo y pesca",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "4791defef3d8a613"
  },
  {
   "titulo": "Estados Unidos inicia operación para bloquear comercio terrestre de Irán",
@@ -203,6 +722,20 @@
   "id": "b190f32a12862001"
  },
  {
+  "titulo": "¡Reabre el Hotel Colinas de Los Mochis! Invierten 70 millones de pesos y generarán 80 empleos",
+  "liga": "https://www.luznoticias.mx/2026-11-07/sinaloa/reabre-el-hotel-colinas-de-los-mochis-invierten-70-millones-de-pesos-y-generaran-80-empleos/313994",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T12:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "5a3e9ba8edf5da89"
+ },
+ {
   "titulo": "Visita el Papa León XIV Uruguay en su primer viaje a América",
   "liga": "https://punto.mx/2026/11/07/visita-el-papa-leon-xiv-uruguay-en-su-primer-viaje-a-america/",
   "medio": "Punto MX",
@@ -319,6 +852,22 @@
   "id": "baf985c4abe182d8"
  },
  {
+  "titulo": "¿Quién era Enrique Quiñones? El histórico lanzador de Tomateros de Culiacán asesinado en Villa Unión, Mazatlán",
+  "liga": "https://www.luznoticias.mx/2026-11-07/policiaca/quien-era-enrique-quinones-el-historico-lanzador-de-tomateros-de-culiacan-asesinado-en-villa-union-mazatlan/313992",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T12:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Campo y pesca",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e370599e0ad5199c"
+ },
+ {
   "titulo": "Por vender falsas plazas de la Policía de Investigación, aprehenden a maestra de criminalística",
   "liga": "https://losnoticieristas.com/nacional/2026/11/por-vender-falsas-plazas-de-la-policia-de-investigacion-aprehenden-a-maestra-de-criminalistica-1162944/",
   "medio": "Los Noticieristas",
@@ -421,6 +970,20 @@
   "id": "573169810b54cca3"
  },
  {
+  "titulo": "Graciela Domínguez se reúne con Estrella Palacios: nuestra meta es la tranquilidad de los mazatlecos",
+  "liga": "https://www.luznoticias.mx/2026-11-07/sinaloa/graciela-dominguez-se-reune-con-estrella-palacios-nuestra-meta-es-la-tranquilidad-de-los-mazatlecos/313991",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T12:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f4faeaabbccaec8a"
+ },
+ {
   "titulo": "Alertan en NL por trasvase de la presa El Cuchillo hacia Tamaulipas",
   "liga": "https://sinaloa.quadratin.com.mx/alertan-en-nl-por-trasvase-de-la-presa-el-cuchillo-hacia-tamaulipas/",
   "medio": "Quadratín Sinaloa",
@@ -435,6 +998,20 @@
   "id": "1f1f0c069421cd27"
  },
  {
+  "titulo": "Cacería en Barobampo, Ahome: qué especies están permitidas y cuáles abundan",
+  "liga": "https://www.luznoticias.mx/2026-11-07/sinaloa/caceria-en-barobampo-ahome-que-especies-estan-permitidas-y-cuales-abundan/313990",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T12:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fe7aaadffb283d14"
+ },
+ {
   "titulo": "Pago de aguinaldos se complicará en Guasave; patrones tendrán que recurrir a préstamos: Coparmex",
   "liga": "https://lineadirectaportal.com/sinaloa/pago-de-aguinaldos-se-complicara-en-guasave-patrones-tendran-que-recurrir-a-prestamos-coparmex-2026-11-07__1735062",
   "medio": "Línea Directa",
@@ -447,6 +1024,22 @@
   ],
   "local": true,
   "id": "deac75355945f302"
+ },
+ {
+  "titulo": "Muere trabajador de una mina de Sonora al chocar contra un poste de CFE en El Fuerte",
+  "liga": "https://www.luznoticias.mx/2026-11-07/policiaca/muere-trabajador-de-una-mina-de-sonora-al-chocar-contra-un-poste-de-cfe-en-el-fuerte/313989",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T12:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Servicios públicos",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b31c6792690c076c"
  },
  {
   "titulo": "En diciembre entrará en operación la planta potabilizadora Surponiente en Culiacán",
@@ -505,6 +1098,20 @@
   ],
   "local": true,
   "id": "d71a7e00110109cb"
+ },
+ {
+  "titulo": "Chepe Express invierno 2026: un viaje donde el destino comienza desde el primer kilómetro",
+  "liga": "https://www.luznoticias.mx/2026-11-07/mexico/chepe-express-invierno-2026-un-viaje-donde-el-destino-comienza-desde-el-primer-kilometro/313150",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-07T12:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fab446c9a8e5689f"
  },
  {
   "titulo": "Matan a balazos a un hombre en Villa Unión, Mazatlán",
@@ -1195,6 +1802,21 @@
   ],
   "local": true,
   "id": "cbb4c56d9506ca2f"
+ },
+ {
+  "titulo": "Sindicato de la Universidad Autónoma de Sinaloa votará si va a huelga",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVdsSU1YRDJsQnFGaXdYY2I1RFJhMmV2VXBWaURDUmsxYmFudUZLTkVUajR0RVlneEpta2huOEN6QTNMTDltZGJmY01DdS1hM3hURFBJTDdPbkoyYmFIYmhWSzhZWDZJdjBROTRrLVhPV2hoNmM2bGpCM0pIWFlLc280WERLenRGMTRMMEM4NmlnNy10bFpzVFMzMTJYdVVmRmMtNFIxNlk0d1FQQ0RkUWw3YXk0MXZPeEszakZR?oc=5",
+  "medio": "Meganoticias.mx",
+  "publicada": "2026-11-07T10:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Sindicato de la Universidad Autónoma de Sinaloa votará si va a huelga Meganoticias.mx",
+  "temas": [
+   "Gobierno municipal",
+   "Educación"
+  ],
+  "local": true,
+  "id": "a94edd991b7380af"
  },
  {
   "titulo": "Balean fachada de una vivienda en la colonia Villa Galaxia, en Mazatlán",
@@ -1954,6 +2576,20 @@
   "id": "790b22e2c0442fc6"
  },
  {
+  "titulo": "Trigo en México: producción repunta 28.6%, pero la rentabilidad sigue en riesgo",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUZpTG1JREhHUmVma0YwU1oxMkVRcnpRYm43UWFZWjZxMHJ4clptQW1iSXA5Vk41UG1lY3FEdTc1b2JuODI4eWdfTEdYYlA2YjVfS0JZanJ1em03b3VORG1ROVVjM2c1ejFFYV9UN3BvY3pLcTB5V0x0UU1NMmpSVmo3VXo4MmdnZkVlLWNWT1ROdkhGLWhZY2NNSnBfb2tsVkNYR3N2SDNzUzVNX3k1alpQeFdha3JsX0E5STg1TThKcUJK?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-07T09:00:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Trigo en México: producción repunta 28.6%, pero la rentabilidad sigue en riesgo Debate",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "d680797627cf7709"
+ },
+ {
   "titulo": "Empresas señaladas por la ASF recibieron 72 millones del IEES",
   "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWmI4ZzJxWjRqUFRFYTU1MDJCMHRnc3JHMW5tczVfVlJoTnJJNXBLZHg4NHJjV1ZpZWRLdEh1aUU4TG1xQTdCNC1ma3VCSkVnWlNwZS1IWjZPalpES3VhRDVyZzJLdUlaNmRId1EybEVBMC1TaFJYSWN3RTAtV0MyQWw3TkRtQURzVU0tdVEwdHNKSWh6SENKMnhtYXVuZ2xCOHo1bW02dkZnUzJtdGlJT2xkX1V0SGp2M1EwNmozQVM?oc=5",
   "medio": "El Debate",
@@ -2023,6 +2659,20 @@
   ],
   "local": false,
   "id": "7fdce4869abd63a4"
+ },
+ {
+  "titulo": "Boxeador sinaloense Pedro Guerrero representará a México en torneo de Turquía",
+  "liga": "https://oem.com.mx/elsoldesinaloa/deportes/boxeador-sinaloense-pedro-guerrero-representara-a-mexico-en-torneo-de-turquia-33013657",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-07T08:31:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "El pugilista suma 14 años de trayectoria y trabaja en su preparación técnica y táctica para los combates",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3e1be8f3249ac822"
  },
  {
   "titulo": "De vender 80 panes en la calle a preparar 300 al día en su local: la historia de Nallely en Culiacán",
@@ -2151,6 +2801,34 @@
   ],
   "local": true,
   "id": "48cab9b6c57e8619"
+ },
+ {
+  "titulo": "Invitan a inscribirse en bachillerato Margarita Maza en Mazatlán; inscripciones cierran el 23/11",
+  "liga": "https://oem.com.mx/elsoldemazatlan/local/invitan-a-inscribirse-en-bachillerato-margarita-maza-en-mazatlan-inscripciones-cierran-el-23-11-33012896",
+  "medio": "El Sol de Mazatlán",
+  "publicada": "2026-11-07T08:02:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "El plantel, ubicado en Pradera Dorada, tiene una matrícula de 24 estudiantes; ofrecen modalidad mixta, beca y seguro social para quienes buscan concluir la preparatoria",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "0d7a5660e535b702"
+ },
+ {
+  "titulo": "¿Quién fue Enrique Quiñones? El lanzador inmortalizó su brazo con los Tomateros",
+  "liga": "https://oem.com.mx/elsoldemazatlan/deportes/quien-fue-enrique-quinones-el-lanzador-inmortalizo-su-brazo-con-los-tomateros-33012839",
+  "medio": "El Sol de Mazatlán",
+  "publicada": "2026-11-07T07:50:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "El mazatleco dejó huella en el beisbol profesional, especialmente con Culiacán, donde consiguió el primer juego sin hit ni carrera en la historia de la franquicia",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "8e8d55dffd61a43a"
  },
  {
   "titulo": "Entregan pavimentación de calle Deportistas en Mazatlán; invierten casi 2 millones de pesos",
@@ -3802,6 +4480,20 @@
   ],
   "local": true,
   "id": "1f4859d532e8f72c"
+ },
+ {
+  "titulo": "Israel denuncia campaña de desinformación en México y aclara acusaciones",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOXl5eFFIeHpZMWtBVUFBN2k4bS1SUURva1RCc3Z6dGMtWDVaSDIxeUFlLVZGYlZrbkllY1VhWW9JaXRONDg1d2FoVkNfMFdYeHNqWURXZG14THBhYlJOTnZDV043OHp2Z3AxbVJaZ3EyMjJqNkhNMUxjNmVoYVRnYk5samF1TjFXWUpfalFxTUVtVWhjNXFzWFFQSjktVklITEJvTDFpY1haZ0Q2QnQ5dGd1enFrd01Hd3M1dkZmMGM?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-06T23:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T13:43:28-06:00",
+  "resumen": "Israel denuncia campaña de desinformación en México y aclara acusaciones Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "05244834b68d4273"
  },
  {
   "titulo": "Paraguay: Santiago Peña es trasladado al Regimiento Escolta tras protestas frente a su residencia",
