@@ -1,5 +1,397 @@
 [
  {
+  "titulo": "Aporta Tecate 23% de las exportaciones de las maquiladoras en BC",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjNMRENqLWs1c2ROQWRNMmgxdHNpU1FvZUNkY2RPcFpDam5leHh1aFRIUlVJelVGVG9jd3huc3k5R0dicWtOLWZaTlEzdE9URmJ4c0lfNUNRbXRjbHRhM1dFaVBJeGItblBsTE53MWM4ckV4NzZaREIyckFjNlFDSmdUVG5WNkx5V081aHR0ZGdTbjFObmFKVlRLTUNzR0lUX0ZMdGhrOXlBUQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-07T10:37:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Aporta Tecate 23% de las exportaciones de las maquiladoras en BC AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "aebb3a472454000f"
+ },
+ {
+  "titulo": "Aumentan 33.8% los recursos de fomento municipal a BC",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTJjTm0tT0MtU042U0NqQy1VNW9VTHVQX2NQV2xnTlNpLVdPVnBZSFAyUWhydmxJTUl0UFhqY1FFMjJRTm13YWtaQk5ZOExnVzVUZWw3UTNZODNmQkxlNFBqSkRQdkhYSUIyZnFuZzN0UVhSaUVWTkxWVFAwZnBWenprZFphLUpuZDdWY2pEMnZ3elpCWVNmWmdiZw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-07T10:37:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Aumentan 33.8% los recursos de fomento municipal a BC AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "91630834bfe3c597"
+ },
+ {
+  "titulo": "Necaxa logra su primer triunfo 1-0 ante Tijuana en la Liga MX",
+  "liga": "https://elcongresista.mx/politica/aguascalientes/necaxa-triunfo-tijuana-liga-mx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:34:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Necaxa logra su primer triunfo 1-0 ante Tijuana y rompe una mala racha en la Liga MX.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "640e12a51748b0c3"
+ },
+ {
+  "titulo": "Investigación en Tamaulipas por muerte de niña en operativo",
+  "liga": "https://elcongresista.mx/justicia/investigacion-muerte-nina-operativo-matamoros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:34:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "La Fiscalía de Tamaulipas investiga la muerte de una niña de siete años durante un operativo policial en Matamoros.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b2bed2743cc8572d"
+ },
+ {
+  "titulo": "Tigres y Rayados: polémica y críticas tras desempeño en torneo",
+  "liga": "https://elcongresista.mx/politica/nacional/tigres-rayados-criticas-desempeno",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:33:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Tigres y Rayados enfrentan críticas severas en Monterrey debido a su bajo rendimiento en el torneo y la lucha por la Liguilla.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a3af7db24997a371"
+ },
+ {
+  "titulo": "Ataque armado en Tecate deja cuatro muertos y un herido",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWZZYXdISE9NQVQ0ZzBDeXBBbi1yVERIcHdUUUNCeEJqcUFVVld6U09hVFdKOC05aVc2cng1U1NqOTV1RUZlN1JDV1A1NU1HTHhiZUpYOUVqZ0phRm1Fdl96ZnJ5a1BjaDhHY2VqYkZob2Q5R3MtdUhJT3Boak5nZVFkLUpyUG84eVJaTzk2ZkVPSU5HU1N2TFU2Sng?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-07T10:32:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Ataque armado en Tecate deja cuatro muertos y un herido AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bd6c94843c803698"
+ },
+ {
+  "titulo": "Aumenta a 124 millones de dólares el costo de mina El Tigre en Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/aumento-costo-mina-el-tigre-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:32:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Silver Tiger Metals anuncia que el costo de la mina El Tigre en Sonora se eleva a 124 millones de dólares, un aumento de 37 millones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "078a150e71ffaed9"
+ },
+ {
+  "titulo": "Joven de 23 años muerto tras riña en Buenavista, Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/joven-muerto-buenavista",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:31:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Un joven de 23 años murió tras una riña en La Ruana, Buenavista, Michoacán, el 7 de noviembre. Las autoridades investigan el caso.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3d5740af7c777978"
+ },
+ {
+  "titulo": "HBO Max estrena tráiler del documental sobre Valentín Elizalde",
+  "liga": "https://elcongresista.mx/tamaulipas/hbo-max-documental-valentin-gallo-de-oro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:22:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "HBO Max presenta el tráiler del documental \"Valentín: la muerte del Gallo de Oro\", a casi 17 años de su asesinato.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a0cd92ddff71009f"
+ },
+ {
+  "titulo": "Frente frío 4 traerá lluvias de hasta 150 mm en Coahuila y Nuevo León",
+  "liga": "https://elcongresista.mx/politica/coahuila/frente-frio-4-lluvias-coahuila-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:21:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Se espera que el frente frío número 4 genere lluvias intensas en Coahuila y Nuevo León, con riesgos de inundaciones.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "26ddbca7cfcdfd18"
+ },
+ {
+  "titulo": "Pronostican lluvias fuertes y temperaturas de hasta 40 grados en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/pronostico-lluvias-fuertes-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:20:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Pronostican lluvias fuertes y temperaturas de hasta 40 grados en Sinaloa para este sábado, con riesgo de inundaciones y descargas eléctricas.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a4ae581b9eb6217d"
+ },
+ {
+  "titulo": "Liga MX: jornada decisiva con cuatro duelos este sábado",
+  "liga": "https://elcongresista.mx/estado-de-mexico/liga-mx-jornada-7-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:19:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Cuatro partidos clave se jugarán hoy en la Liga MX, con equipos luchando por su lugar en la Liguilla.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "e49d2e974a056c90"
+ },
+ {
+  "titulo": "Homicidios en Tecate: cinco muertos y un herido en ataques armados",
+  "liga": "https://elcongresista.mx/politica/baja-california/homicidios-tecate-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:15:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Este 6 de noviembre, Tecate registra cinco homicidios y un herido en atacas armados, a pesar de un operativo de seguridad en la zona.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "b03d6fa121d065f5"
+ },
+ {
+  "titulo": "Jornada violenta en Tecate deja cinco homicidios y una persona lesionada",
+  "liga": "https://zetatijuana.com/2026/11/jornada-violenta-en-tecate-deja-cinco-homicidios-y-una-persona-lesionada/?utm_source=rss&utm_medium=rss&utm_campaign=jornada-violenta-en-tecate-deja-cinco-homicidios-y-una-persona-lesionada",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-07T10:09:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Cinco homicidios fueron registrados este viernes en el municipio de Tecate, además de una persona lesionada por arma de fuego en distintos puntos de la ciudad. En la zona rural, un cuerpo fue localizado al interior de una caja de plástico, pese al operativo que congrega a más de ",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "0e5ee45f012b8ec0"
+ },
+ {
+  "titulo": "Hardwell y 4444 OF A KIND lanzan 'RE4SON' tras estreno en Tomorrowland",
+  "liga": "https://elcongresista.mx/politica/nacional/hardwell-lanza-re4son-4444-of-a-kind",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:06:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Hardwell y 4444 OF A KIND lanzan la colaboración ‘RE4SON’, uniendo ritmos de EDM y hardstyle tras el estreno en Tomorrowland.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7579f0794daf4983"
+ },
+ {
+  "titulo": "El costo del tráfico en México alcanza 203 mil millones de pesos",
+  "liga": "https://elcongresista.mx/vehicular/costo-trafico-mexico-203-mil-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:06:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "El costo del tráfico en México alcanza los 203 mil millones de pesos anuales, afectando seriamente la movilidad en las grandes ciudades.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "bfadf493f0efad02"
+ },
+ {
+  "titulo": "Avanza rehabilitación de calles en Celaya con recursos estatales",
+  "liga": "https://elcongresista.mx/politica/guanajuato/rehabilitacion-calles-celaya-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:03:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "El Gobierno de Guanajuato avanza en la rehabilitación de calles en Celaya para mejorar la infraestructura y los servicios a las familias.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2f447ecd81ea38a7"
+ },
+ {
+  "titulo": "José Clemente Orozco: un muralista crítico que perdió una mano",
+  "liga": "https://elcongresista.mx/cultura/jose-clemente-orozco-legado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:02:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "José Clemente Orozco, un referente del muralismo mexicano, transformó su tragedia personal en una crítica incisiva del poder y la sociedad.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "36820ac85b7f47d6"
+ },
+ {
+  "titulo": "INEA entrega 88 certificados de educación en penal de Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/inea-michoacan-certificados-penal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T10:01:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "El INEA entrega 88 certificados educativos a reclusos en el penal de Michoacán, promoviendo la alfabetización y la reintegración social.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "13e32a7912d1a5c1"
+ },
+ {
+  "titulo": "Aumentan esfuerzos para prevenir la violencia política en Coahuila",
+  "liga": "https://elcongresista.mx/politica/coahuila/coahuila-capacitacion-violencia-politica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:51:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Coahuila se esfuerza por prevenir la violencia política electoral a través de capacitación para funcionarios municipales.",
+  "temas": [
+   "Seguridad",
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d4c7b68653cc6cf0"
+ },
+ {
+  "titulo": "Policías y familiares despiden a José de Jesús Villasana López",
+  "liga": "https://elcongresista.mx/morelos/policia-jose-de-jesus-villasana-fallecido",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:50:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "La comunidad de Seguridad Pública se reunió en Morelos para el emotivo adiós a José de Jesús Villasana López, fallecido en cumplimiento del deber.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c7f2446609f2254c"
+ },
+ {
+  "titulo": "Los bomberos voluntarios de Ensenada cobraron una deuda de $94 millones de Nación",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmZ4c3ZqUEVTYnRCMUZUY0VUdmZkR3I1ZXZWaEM5aS1icm1CMDl2U3pUNkVIS21VTVZmWEcteFJhMFc4LWFwcVhZd3RBMjJxWnY3YjlBNzhUWDhySU4tcjVFVFV1NkY5cXo1Q2VIb1liMjdFUEl5eDZrWFFsaEZuUldZVlpkYURkMVR3eFBUaEg0RGFKMmxud29wakZkMHNiUURfVEdZT2hnRVZ6LUlRZ25B0gG3AUFVX3lxTE93ZXNTa3o4dU9DM2w5dFBJOXgzWmVhZXNoVzdESXJuVVhjenAzLTUxdHdBVFBkem1YNXljX1VOVVZ1MGhjTGNkclJMZVVJcnJ4djFzLWNnY0VtS0NGNVM3WXV6QVMzd25LWjhsMWZMQmkxVXhmZ1hGYkVrZ0l6ZzhhY0lPX3M3REVnaFlIQ1JBeGFma0pxdTQybktINGdSSVNwNFdRMFVxTm5naE85OGt5TW0tNWlIQQ?oc=5",
+  "medio": "0221",
+  "publicada": "2026-11-07T09:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Los bomberos voluntarios de Ensenada cobraron una deuda de $94 millones de Nación 0221",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "0f493bac5c1cbe5f"
+ },
+ {
+  "titulo": "Festival Cervantino: cinco compañías se presentan en Pachuca",
+  "liga": "https://elcongresista.mx/politica/hidalgo/festival-cervantino-pachuca-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:49:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "El Festival Cervantino llega a Pachuca con actividades del 13 al 30 de noviembre, promoviendo diversas expresiones artísticas.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e02e54af43eddc70"
+ },
+ {
+  "titulo": "Profepa informa sobre muertes de delfines en Sonora y Quintana Roo",
+  "liga": "https://elcongresista.mx/politica/sonora/mueren-delfines-sonora-quintana-roo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:48:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Profepa informa sobre las muertes de delfines \"Moana\" y \"Mincho\" en Sonora y Quintana Roo tras necropsias que revelan las causas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f19d20e14833a198"
+ },
+ {
+  "titulo": "Honda ensamblará en Jalisco motos para evitar despidos tras caída en producción",
+  "liga": "https://elcongresista.mx/politica/jalisco/honda-jalisco-produccion-motos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:47:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Honda traslada su producción de motocicletas a Jalisco para mitigar despidos y responder a la creciente demanda de motocicletas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "09e515a11a5b9825"
+ },
+ {
+  "titulo": "INE denuncia a FGR irregularidades en contrataciones millonarias",
+  "liga": "https://elcongresista.mx/justicia/ine-denuncia-fgr-irregularidades-contrataciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:46:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "El INE denuncia ante la FGR irregularidades en contrataciones millonarias, tras la renuncia de Guadalupe Taddei.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b56cb36623746eb2"
+ },
+ {
+  "titulo": "Una policía se tiró a un arroyo en Ensenada y salvó a una jubilada que había quedado atrapada en su auto",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWXQ2bU5QZ1A5YUFhYnpDWVRCd0pzTVc5a0J1LVBWZm50ZTJhNDdqM05JN1RjU3UtblpRcDgyTkttWl9Cbkh4dFdYQ2lYaURQM3RnR3BURGtlQjd6c1R0ZkNBTVB6NkhDc0FYYXNfejYxSkl4Y21aYVJnRjI2SHVIYkJyT2JyaEZFQlZXY2JreHJhR2ZORHlWYmVlcndURGpjY2tzYjhkRXcxN05uRUd0N1d3a1FoenQ1UW1oSnpJY0RjN2pxcVpmZFUtSFpheVVVYmVuMVFlYlExTC1vYTMxdnF3?oc=5",
+  "medio": "La Plata 1",
+  "publicada": "2026-11-07T09:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Una policía se tiró a un arroyo en Ensenada y salvó a una jubilada que había quedado atrapada en su auto La Plata 1",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2908c32c52e62830"
+ },
+ {
   "titulo": "Conductor ebrio provoca choque en Saltillo y es detenido.",
   "liga": "https://elcongresista.mx/politica/coahuila/conductor-ebrio-choque-saltillo",
   "medio": "El Congresista",
@@ -74,6 +466,20 @@
   ],
   "local": false,
   "id": "f2585da721d53b0a"
+ },
+ {
+  "titulo": "Baja California, el estado de la frontera norte que menos se considera impulsivo",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-estado-frontera-norte-menos-considera-impulsivo-n912398",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T09:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "21% de sus habitantes se describe como mucho o algo impulsivo, cuatro puntos debajo del promedio nacional; Sonora, su vecino, registra 33% y ocupa el segundo lugar del país.",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "0a9cf876cdaa2bb6"
  },
  {
   "titulo": "Cada 12 horas se denuncia a un servidor público en Baja California; Tecate, entre los 20 municipios con mayor tasa del país",
@@ -977,6 +1383,34 @@
   ],
   "local": false,
   "id": "1d3fc2831309e5d2"
+ },
+ {
+  "titulo": "Celebra “The Crash” XV aniversario con lleno total en el auditorio municipal",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/celebra-the-crash-xv-aniversario-con-lleno-total-en-el-auditorio-municipal-33010962",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-07T05:35:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Con 40 luchadores presentes en 7 luchas, la compañía tijuanense celebró su aniversario.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ee2f8b9682609738"
+ },
+ {
+  "titulo": "Pronostican cielo despejado para este sábado",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/pronostican-cielo-despejado-para-este-sabado-33010901",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-07T05:18:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Se espera una temperatura máxima de 28° centígrados en la ciudad",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "d716deb5ee3f1356"
  },
  {
   "titulo": "Farruko reinventa su sonido con el sencillo “QUE TALENTO”",
@@ -2561,6 +2995,20 @@
   ],
   "local": false,
   "id": "3d183a1b1c6224f6"
+ },
+ {
+  "titulo": "Recibe presidente del Congreso quinto informe de la gobernadora Marina del Pilar Ávila",
+  "liga": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xZFphRmlDMkx4S213ZzB0NjhFd0pydVZCZEVnRlZNTEdIRmZQR25QUTlZTlFrdHBtNmE3UnpiNHcyTWZYX09hT1BLblhNemFjd2NmOTRn?oc=5",
+  "medio": "Zona Norte",
+  "publicada": "2026-11-06T23:12:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T10:41:32-06:00",
+  "resumen": "Recibe presidente del Congreso quinto informe de la gobernadora Marina del Pilar Ávila Zona Norte Noticias",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "dc1a507a2ced9995"
  },
  {
   "titulo": "Comerciantes rescatan las letras de Playas de Tijuana; el malecón acumula hasta tres años de retraso",
