@@ -1,5 +1,47 @@
 [
  {
+  "titulo": "Telediario México Nacional: Noticias de última hora",
+  "liga": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBET1dPQkNLa0FwZGNBUEZZSHhFLU1YZmJqQW1vaTAwV3ZuWV9tRWxycG8xNDBfU3AwMlpMaUtIek01MVNKOGFTSE5n?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-07T04:30:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T04:43:40-06:00",
+  "resumen": "Telediario México Nacional: Noticias de última hora Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f4c83f48caa3ad78"
+ },
+ {
+  "titulo": "Precio de la gasolina en Nuevo León hoy viernes 6 de noviembre: ¿Cuánto cuesta el litro de Magna y Premium?",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ09Jd1ZfUnBSdjY1eG1tdUZnYmF3UnZCajFCRUdTalExNmRlSnJtRzFlUGM0QnJjTmg0VmlsOURvREdhMnppVWJpZDZzaXB3akdVVkJTR1VkQ21Yc0dQeXVNb3JFcmR4VnMtZWZGdjdsNndGTnpib2NwUC1IbHYtNUxGUEZPbzd0RTFZVmdWZk51RzBhNFNONkxLQ2VuRThjbWhJMC1lQ185ajUwNHRLN2lDVUNhNjNUay0xck1YS3JuUHRrODNrQXBmT2pHOUZERDByVFhGeHBtT1k0S1pTONIB-wFBVV95cUxPTlA3SlloX2N0Q0NqU3gxRUw0WDZydFBNN01ubVhOamc0bXlJNUgxMEFKQU9jcGJBVW1wLW13SzVnS1ZzVTJZbkNJbWxiaC1YQldHSTVuNnVPaXZrYXBPNXV0dzhBUUNFQUgwQVp6QXFYd0xOQkhhdXBZT0NPNnJtUnA3c3YtU3cxX3UxMlQwaXg5MkpoWGJuZmQ2QTVkZktrbHlXOGxYUTlsVVJCRzFXdk41MXBUV0t5UnRCTGFXOFRqZmhIRWlDQmNabklpNjMtbmQxUFZweThmdnZtRF9Bc3lEVS1LQ2xuY2N5ZFZYbWgyM2RqejhHMTBrMA?oc=5",
+  "medio": "Infobae",
+  "publicada": "2026-11-07T04:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T04:43:40-06:00",
+  "resumen": "Precio de la gasolina en Nuevo León hoy viernes 6 de noviembre: ¿Cuánto cuesta el litro de Magna y Premium? Infobae",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "1a387ac6a3f43ba5"
+ },
+ {
+  "titulo": "¿Hay contingencia ambiental HOY, 7 de noviembre? Calidad del aire y autos que No Circulan en CDMX y Edomex",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUlZGTXBlM2VEVkhmYzdaRVl1SVp2cHlKUGo2U0J2V24yb3A3bThteDlCWEpiQnk2TlRBNjdHYjQ2d2NRVGd1aEl6dlQ3aUc0VElxOUYyU3RKTHlmZWUtZnhNdzBETk1ZRHFvWldTNVNNVjV6Wkk3eWNjRVRJMWFySDFuRElPcWZtdWpBNkVLTE1oSGJ4aDN6Sm9HMTR3NEpMRk52cGdsTzYzRDRmZHRTMU1vU2dtT1ZDMGZkaUlDbmE4UnltQkRnd1VKV1hnZC00emNUMl9rd1VQRmtfZDlzWHVBOU5VU0E?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-07T04:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T04:43:40-06:00",
+  "resumen": "¿Hay contingencia ambiental HOY, 7 de noviembre? Calidad del aire y autos que No Circulan en CDMX y Edomex Reporte Indigo",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": false,
+  "id": "c28e908dbf6baded"
+ },
+ {
   "titulo": "Exposición IN PULVEREM de Federico Jordán-Gómez en Nuevo León",
   "liga": "https://www.posta.com.mx/nuevo-leon/exposicion-in-pulverem-de-federico-jordan-gomez-en-nuevo-leon/vl2274331",
   "medio": "Posta",
@@ -647,6 +689,20 @@
   ],
   "local": true,
   "id": "910c3f56272a1693"
+ },
+ {
+  "titulo": "SEGOB “Condena actos de violencia y daños a sus instalaciones tras jornada de agresiones”",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQi1panpqcGdJQUtKNkl6Q1c2SGtsdEU3NDdSV1EyV25GRE81bm4yZ0VGbmRPY2pybmxVelVWNFN6dVQxSmxWRmtkWmNNNnBkWHdYaHY1S2FEWHhzVXFpcTFERkFHSDRlZHZhSnliQkU3a215Q1RvaXY2dkg0SENORVN4NWZKYnV6WFdUaHJLZ2NjQm1pMnNzV3VJeVFoXzN3SGs1bV9YOVEwM2p1dHJuc0hTQjhHV2xlOGhDSmUwU2d2WW4xenRvaGQxOG9SNmFTSGt0Nk9QbXB3cWRnNUE?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-06T21:55:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T04:43:40-06:00",
+  "resumen": "SEGOB “Condena actos de violencia y daños a sus instalaciones tras jornada de agresiones” Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "bfb6d0c332a2c424"
  },
  {
   "titulo": "Comunidad",
