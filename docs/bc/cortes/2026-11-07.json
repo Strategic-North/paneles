@@ -1,5 +1,81 @@
 [
  {
+  "titulo": "Conductor ebrio provoca choque en Saltillo y es detenido.",
+  "liga": "https://elcongresista.mx/politica/coahuila/conductor-ebrio-choque-saltillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:36:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Un conductor en estado de ebriedad provoca un accidente en Saltillo y es detenido por la agresión de sus familiares.",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ec8dd3f655cc4dc9"
+ },
+ {
+  "titulo": "El voto de jóvenes dominicanos cambia la dinámica electoral en EE.UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/voto-jovenes-dominicanos-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:34:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "El voto de jóvenes dominicanos en EE.UU. redefinió la dinámica electoral en las elecciones de noviembre, destacando sus prioridades.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2d484bb08614dc71"
+ },
+ {
+  "titulo": "Frente frío 4 ocasiona lluvias intensas en Coahuila y Nuevo León",
+  "liga": "https://elcongresista.mx/politica/coahuila/frente-frio-4-lluvias-coahuila-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:34:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "El frente frío 4 trae lluvias intensas a Coahuila y Nuevo León; las autoridades advierten sobre condiciones climáticas severas.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "843e2c942f2bd2cb"
+ },
+ {
+  "titulo": "Irapuato aprueba proyecto de ingresos por 4,173 mdp para 2027",
+  "liga": "https://elcongresista.mx/politica/guanajuato/irapuato-aprueba-ingresos-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:32:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Irapuato aprueba un presupuesto de 4 mil 173 millones de pesos para 2027, con beneficios fiscales y apoyo a sectores vulnerables.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f2e7c8413ccd2d8f"
+ },
+ {
+  "titulo": "UNAM Morelia recibe Premio OLACDE por proyecto energético sustentable",
+  "liga": "https://elcongresista.mx/politica/oaxaca/unam-morelia-premio-olacde-energia-sustentable",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:31:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "La UNAM Morelia recibe el Premio OLACDE por su proyecto de sostenibilidad energética en la producción de mezcal.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f2585da721d53b0a"
+ },
+ {
   "titulo": "Cada 12 horas se denuncia a un servidor público en Baja California; Tecate, entre los 20 municipios con mayor tasa del país",
   "liga": "https://www.uniradioinforma.com/sociedad/cada-12-horas-denuncia-servidor-publico-baja-california-tecate-20-municipios-mayor-tasa-pais-n912396",
   "medio": "Uniradio Informa",
@@ -12,6 +88,153 @@
   ],
   "local": true,
   "id": "0026673db91d1473"
+ },
+ {
+  "titulo": "Yangwang presenta el Altior, sedán eléctrico de lujo con 1,000 km de autonomía",
+  "liga": "https://elcongresista.mx/vehicular/yangwang-altior-automovil-lujo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:20:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Yangwang presenta el Altior, un sedán eléctrico de lujo con una autonomía superior a 1,000 kilómetros.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "831bbc1753afbad4"
+ },
+ {
+  "titulo": "Samsung ofrece guía para localizar un Galaxy perdido y proteger datos",
+  "liga": "https://elcongresista.mx/tecnologia/samsung-guia-localizar-celular-galaxy-perdido",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:19:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Samsung presenta cinco recomendaciones para localizar un celular Galaxy perdido y proteger datos personales ante un robo o pérdida.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "3ea4922d347262e8"
+ },
+ {
+  "titulo": "Irapuato: temperaturas de hasta 30°C y frescura nocturna este sábado",
+  "liga": "https://elcongresista.mx/politica/guanajuato/irapuato-clima-30-grados-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:18:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Irapuato tendrá clima cálido con temperaturas hasta 30°C por la tarde y frescura nocturna el 7 de noviembre.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b2c1a1b303321352"
+ },
+ {
+  "titulo": "Nueva caravana migrante hondureña llega a México con mil personas",
+  "liga": "https://elcongresista.mx/politica/nacional/nueva-caravana-migrantes-hondurenos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:16:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Una nueva caravana de migrantes hondureños, con mil integrantes, llegó a México, buscando avanzar hacia EE. UU.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "16b88e8c40147ba5"
+ },
+ {
+  "titulo": "Incendio en lavandería del IMSS en Uruapan causa traslado de pacientes",
+  "liga": "https://elcongresista.mx/politica/michoacan/incendio-imss-uruapan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T09:15:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Un incendio en el IMSS de Uruapan resultó en el traslado preventivo de pacientes sin lesionados.",
+  "temas": [
+   "Accidentes",
+   "Salud",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "430f6e220b72a57a"
+ },
+ {
+  "titulo": "Tribunal autoriza a ICE hacer redadas sin identificación en California",
+  "liga": "https://elcongresista.mx/justicia/ice-redadas-sin-identificacion-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T08:59:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Un tribunal de California permite a ICE realizar redadas sin identificación visible, revocando una ley del estado.",
+  "temas": [
+   "Migración",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e7c417138a683660"
+ },
+ {
+  "titulo": "ChatGPT crece al 20% del volumen de búsquedas de Google",
+  "liga": "https://elcongresista.mx/tecnologia/chatgpt-20-busquedas-google",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T08:59:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "ChatGPT alcanza 1,200 millones de usuarios semanales, representando el 20% del volumen de búsquedas de Google.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "12b2cd1565de1652"
+ },
+ {
+  "titulo": "Peso mexicano termina racha de pérdidas y cierra en 18.70 por dólar",
+  "liga": "https://elcongresista.mx/finanzas/peso-mexicano-cierra-18-70-dolar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T08:58:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "El peso mexicano cierra en 18.70 por dólar tras elecciones en EE.UU., recuperándose tras ocho semanas de pérdidas.",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "ee14668ebb264893"
+ },
+ {
+  "titulo": "Demócratas en el Senado bloquean nombramientos de Trump con 54 bancas",
+  "liga": "https://elcongresista.mx/politica/nacional/senado-eeuu-democratas-bloquean-nombramientos-trump",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T08:56:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Los demócratas logran el control del Senado con al menos 54 escaños, lo que les permite bloquear nombramientos de Trump.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e842ff5b0ad723af"
+ },
+ {
+  "titulo": "Albufeira: descubre 9 rincones históricos en el casco antiguo",
+  "liga": "https://elcongresista.mx/politica/nacional/albufeira-casco-antiguo-rincones-historicos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T08:50:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Descubre 9 rincones del casco antiguo de Albufeira, llenos de historia y cultura, desde el túnel hasta el castillo.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c3c6ea470d415c8d"
  },
  {
   "titulo": "Capturan a prófugo en Río Negro tras intensa actividad policial",
@@ -41,6 +264,20 @@
   ],
   "local": false,
   "id": "2f33dfb5ef9113ac"
+ },
+ {
+  "titulo": "Peso mexicano pone fin a racha de ocho semanas de pérdidas; cerró con apreciación de 12 centavos",
+  "liga": "https://jornadabc.com.mx/region/peso-mexicano-pone-fin-a-racha-de-ocho-semanas-de-perdidas-cerro-con-apreciacion-de-12-centavos/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-07T08:36:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "En operaciones de mayoreo, el tipo de cambio cerró en 18.62 pesos por dólar, una recuperación de 12 centavos (0.65 por ciento) para la moneda mexicana La entrada Peso mexicano pone fin a racha de ocho semanas de pérdidas; cerró con apreciación de 12 centavos se publicó primero en",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1c692edf1fcf8b2d"
  },
  {
   "titulo": "Frente frío 4 provoca tormentas severas en Tamaulipas",
@@ -306,6 +543,20 @@
   "id": "75e98d3f70788f94"
  },
  {
+  "titulo": "Llevan a cabo jornada de salud dental en albergue Madre Asunta de Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/llevan-cabo-jornada-salud-dental-albergue-madre-asunta-tijuana-n912742",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T08:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Se realizó la atención dental con \"robotines\", unidades dentales portátiles.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "98f3f1b9601ab96c"
+ },
+ {
   "titulo": "A 40 años de la muerte de Jorge Luis Borges sigue la celebración de su legado",
   "liga": "https://jornadabc.com.mx/principales/a-40-anos-de-la-muerte-de-jorge-luis-borges-sigue-la-celebracion-de-su-legado/",
   "medio": "La Jornada Baja California",
@@ -436,6 +687,20 @@
   ],
   "local": false,
   "id": "e358ae23b59c8a7f"
+ },
+ {
+  "titulo": "Una mujer cayó con su auto a un canal en Ensenada y tuvo que ser rescatada por una policía",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ljR2VGc1dZdkdqc3cxeko4TnpCVUx0N2tmSmJwMU1YTWxfem5BNGFzd2VmUHY3MFpBOXJqVGk5UkpVWkNwcExhbGFYeHU2Tk50OGdvT0hpT01ReGF5b2tEcmtZa1l3Z0xfUjhSV1AzdTRGUkkyZ0JuUGZVd3BQOWRiNGNfbzFKRndicEM0WFk2czc2aU94bWFjc3RWVjA4azJkT1Fpd1V5c3dBRWfSAbMBQVVfeXFMT3hzTEstenJkcDhPbm9qdjJDdFctN2ZmSFVSQVlac1h0YllnYzA1YnlvM3ZlMndQX0hTLWtuVGhUV0EzQThUUG1WYmRaa1FnQ0UtMzYydklkNGJMYTFDVkVhWVo3Rmg0ZWc4N3BNWE5Lb2ZKR0xmeEFLV0JfR0pFbDdoOFl2UFp6RDhmeU1PQm1jd0dhbWZldXRIQmVROUNPREhDQ3o5VWxubWExNGN5cWtwb3M?oc=5",
+  "medio": "0221",
+  "publicada": "2026-11-07T07:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T09:40:23-06:00",
+  "resumen": "Una mujer cayó con su auto a un canal en Ensenada y tuvo que ser rescatada por una policía 0221",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3b80469f3962aeb6"
  },
  {
   "titulo": "CFE suspenderá electricidad en Veracruz por 12 horas el 7/nov.",
