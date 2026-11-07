@@ -1,5 +1,95 @@
 [
  {
+  "titulo": "Toyota fabrica papamóvil para el papa León XIV con dos Hilux",
+  "liga": "https://elcongresista.mx/vehicular/toyota-papamovil-leon-xiv",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T03:25:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T03:48:26-06:00",
+  "resumen": "Toyota adapta dos Hilux como papamóvil para el papa León XIV en Argentina, garantizando seguridad y eficiencia.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d17de6232cfa675d"
+ },
+ {
+  "titulo": "La maestra venezolana Marilú Paredes enfrentó detención en EE. UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/marilu-paredes-detencion-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T03:24:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T03:48:26-06:00",
+  "resumen": "Marilú Paredes, maestra venezolana, fue detenida en EE. UU. tras pedir asilo y trasladada a la República Centroafricana, generando serias preocupaciones.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a5d6976d3ff28914"
+ },
+ {
+  "titulo": "Disciplina a policía tras represión en manifestación en Jalisco",
+  "liga": "https://elcongresista.mx/justicia/disculpas-proteccion-civil-jalisco-represion-manifestacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T03:17:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T03:48:26-06:00",
+  "resumen": "Sergio Ramírez, titular de Protección Civil en Jalisco, se disculpa tras represión en manifestación por agua contaminada.",
+  "temas": [
+   "Seguridad",
+   "Agua",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "a49cdb184b15c5bd"
+ },
+ {
+  "titulo": "San Luis Potosí: acumula 9,800 millones de dólares en inversiones",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/san-luis-potosi-inversion-9800-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T03:16:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T03:48:26-06:00",
+  "resumen": "San Luis Potosí acumula inversiones privadas por 9,800 millones de dólares durante los últimos cinco años, según su gobernador.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f8a3531d35cd9b67"
+ },
+ {
+  "titulo": "Scorpions anuncia gira en México y película \"Wind of Change\"",
+  "liga": "https://elcongresista.mx/politica/nacional/scorpions-pelicula-gira-mexico-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T02:55:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T03:48:26-06:00",
+  "resumen": "Scorpions anunciará una nueva película y tres conciertos en México en 2027, centrados en su emblemática canción \"Wind of Change.\"",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b4c1d7255eadb1cc"
+ },
+ {
+  "titulo": "Noticias",
+  "liga": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGY0ZLZldQOWxUanFtbk4tUHJPOGNyYkFBeDh0Zm9SdmtVRTFZcFl6cVoxRWZfTjRSTzRNQy1vVGVlbEhUdk1PQ1pfaTFod0FVUEJrLWp5dHRJWHBaS244cmRnT1VNWGJvUl9ETWpXWHNBem8?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-07T02:54:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T03:48:26-06:00",
+  "resumen": "Noticias Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "869f15a237a2cdb5"
+ },
+ {
   "titulo": "Concierto de Mozart reúne a cientos en la Catedral de Mérida",
   "liga": "https://elcongresista.mx/politica/yucatan/concierto-mozart-catedral-merida",
   "medio": "El Congresista",

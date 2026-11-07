@@ -1,12 +1,12 @@
 {
  "panel": "Nuevo León",
- "actualizado": "2026-11-07T02:53-06:00",
+ "actualizado": "2026-11-07T03:48-06:00",
  "corte": "2026-11-07",
  "ventana": [
   "2026-11-06T20:00-06:00",
   "2026-11-07T20:00-06:00"
  ],
- "total": 102,
+ "total": 103,
  "fuentes": [
   {
    "fuente": "El Norte",
@@ -26,7 +26,7 @@
   {
    "fuente": "Posta",
    "ok": true,
-   "notas": 100
+   "notas": 93
   },
   {
    "fuente": "N+ Monterrey",
