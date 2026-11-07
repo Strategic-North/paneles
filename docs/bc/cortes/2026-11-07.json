@@ -1,5 +1,413 @@
 [
  {
+  "titulo": "Resultados Tris De las Tres hoy 7 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-tres-sorteo-36904",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:36:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El sorteo Tris De las Tres número 36904 se celebró este 7 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cac5cd823a41971f"
+ },
+ {
+  "titulo": "Resultados Tris Medio Día hoy 7 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-medio-dia-sorteo-36903",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:36:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El sorteo Tris Medio Día número 36903 se celebró este 7 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0612885210f78191"
+ },
+ {
+  "titulo": "Cypress ofreció sándwich a 10 pesos por su sexta edición del Día del Sándwich",
+  "liga": "https://elportavoznoticias.com.mx/cypress-ofrecio-sandwich-a-10-pesos-por-su-sexta-edicion-del-dia-del-sandwich/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-07T15:35:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "De acuerdo con Kurt Matzke, director de Mercadotecnia de Grupo AFAL, la promoción estuvo disponible durante la jornada y hasta agotar existencias en las cuatro sucursales de Cypress en Tijuana: Agua Caliente,... La entrada Cypress ofreció sándwich a 10 pesos por su sexta edición ",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "9121a9085486e9cc"
+ },
+ {
+  "titulo": "Detienen a policía de Zapotlanejo por desaparición forzada",
+  "liga": "https://elcongresista.mx/justicia/detienen-policia-zapotlanejo-desaparicion-forzada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:30:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Un policía de Zapotlanejo fue detenido por su presunta participación en la desaparición forzada de un hombre en 2025.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0e389713136a58f6"
+ },
+ {
+  "titulo": "Gobierno de Hermosillo bachea un millón de metros cuadrados en 2026",
+  "liga": "https://elcongresista.mx/politica/sonora/hermosillo-bacheo-un-millon-metros-cuadrados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:26:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El Gobierno de Hermosillo trabaja en bacheo de un millón de metros cuadrados en diversas colonias para mejorar circulación.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "16d114761ffdef68"
+ },
+ {
+  "titulo": "Inauguran puente Rizo de Oro en Chiapas; ahorrará 2.5 horas en viaje",
+  "liga": "https://elcongresista.mx/politica/chiapas/puente-rizo-de-oro-chiapas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:25:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Claudia Sheinbaum inaugura el Puente Rizo de Oro en Chiapas, beneficiando a más de 300 mil habitantes y reduciendo los tiempos de traslado.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "13e5c36a8c5c0c09"
+ },
+ {
+  "titulo": "Paula Pimenta lanza nuevo libro en Recife con música como inspiración",
+  "liga": "https://elcongresista.mx/cultura/paula-pimenta-lanza-libro-recife",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Paula Pimenta presenta su nuevo libro \"A música da minha vida\" en Recife, destacando su conexión con la música en la narrativa.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "5eb48fbf3a21294e"
+ },
+ {
+  "titulo": "Drama en Ensenada: una mujer cayó con su auto a un arroyo y una policía se lanzó al agua para salvarla",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFk1cENSU0Ezd0IzMGNValZjZFJsLUdOSmZCR1Q5bmpEV1gzcS1xcWI4WE9Pc3d0M204SFI5VkVTckhJQmlwb1d3QlhXWkxhNEc3eXVvR2hGWkhhM2tzOG1fTEs2Ri1mZDhWTE0weXF1Sm1JeHBJZ0VxTGRTQjAtT1JKTUd0d0tva3BITy14WUVweV9YT0h1WTdtaVJTZ1pyZFUydWkzTWZJcHZya3JLLU9DS19Uekx5QjVOSTNmbEg0dw?oc=5",
+  "medio": "Notife",
+  "publicada": "2026-11-07T15:19:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Drama en Ensenada: una mujer cayó con su auto a un arroyo y una policía se lanzó al agua para salvarla Notife",
+  "temas": [
+   "Seguridad",
+   "Agua"
+  ],
+  "local": true,
+  "id": "4d7571a2d9fe23aa"
+ },
+ {
+  "titulo": "Gallardo se reúne con Grupo Valoran para evaluar autopistas",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/avances-autopistas-san-luis-matehuala-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:18:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El gobernador Ricardo Gallardo y Grupo Valoran se reúnen para revisar avances de las autopistas San Luis–Matehuala y San Luis–Querétaro en San Luis Potosí.",
+  "temas": [
+   "Gobierno del estado",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "78e98e359e16b8d7"
+ },
+ {
+  "titulo": "PAN Chihuahua aprueba exploración de alianzas hacia 2027",
+  "liga": "https://elcongresista.mx/politica/chihuahua/pan-chihuahua-alianzas-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:11:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El PAN en Chihuahua explora alianzas electorales y define encuestas para seleccionar su candidatura a la gubernatura en 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "9178f13459692728"
+ },
+ {
+  "titulo": "UAT impulsa vinculación empresarial y crea centro de innovación",
+  "liga": "https://elcongresista.mx/tamaulipas/uat-tampico-nuevo-centro-empresarial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:10:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "La UAT inaugura un centro de desarrollo empresarial en Tampico, apoyando 12 negocios en incubación y fortaleciendo la vinculación con el sector productivo.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "15b9b474d2eed4a2"
+ },
+ {
+  "titulo": "Trump lleva su agenda espacial a Florida tras el revés republicano en las elecciones",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblRKR0RyZy1OdE9NNkh2eGtWcEZUQ1NSS0ZycU5SZmlNNk9lVDdEcTgtTUNsRHFkMks1WHZCc3ZyX1Y4dGNINzZrYU9sYmZoeE5NX3BsTm1TLWJ3NHBPejBfdzJMODRWVGphcHA4Nk91UnpPbnlsUHlaZ1ZyY0ZhNUVMZWxRVFUwRVhWSW9FNndrUHUzZE5IblQzNmx2alBPekYwcWs1aXB3QlpjZG1yZ1ZnMWVJVWc2NmxZMS0xOVRmdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-07T15:09:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Trump lleva su agenda espacial a Florida tras el revés republicano en las elecciones Baja News",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "efd52996b1e0475e"
+ },
+ {
+  "titulo": "AVA Resort Cancún inaugura capilla para bodas católicas frente al mar",
+  "liga": "https://elcongresista.mx/politica/nacional/ava-resort-cancun-capilla-bodas-catolicas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:08:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El AVA Resort Cancún inaugura una capilla para bodas católicas, ofreciendo una experiencia única para parejas latinas en el Caribe.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "affaf4abd119c785"
+ },
+ {
+  "titulo": "CFE invierte 73.5 millones para ampliar capacidad eléctrica en Cancún",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/cfe-amplia-capacidad-electrica-cancun-73-5-mdp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:07:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "CFE concluye ampliación de Subestación Kohunlich en Cancún con 73.5 mdp, beneficiando a 45 mil habitantes.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "88dd62f94b1e2d4c"
+ },
+ {
+  "titulo": "Quintana Roo impulsa turismo médico tras éxito en WTM Londres 2026",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/quintana-roo-wtm-londres-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T15:07:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Quintana Roo afirma su presencia en el turismo médico tras el WTM Londres 2026, recibiendo más de un millón de visitantes europeos en 2025.",
+  "temas": [
+   "Salud",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c1d338944c501970"
+ },
+ {
+  "titulo": "Torneo UMPAM reúne a jóvenes futbolistas en Hermosillo",
+  "liga": "https://www.uniradioinforma.com/deportes/torneo-umpam-reune-jovenes-futbolistas-hermosillo-n913065",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T15:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Fútbol y formación en valores.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "57fa648eb6216305"
+ },
+ {
+  "titulo": "Arancel, cuota compensatoria y valor en aduana: términos del comercio exterior explicados",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbnA1N3NYNUJFRVAtamFrZUJwYlRYams4UzgwZktBSnJhV3N6SnIxYTJDOTE2QWpnZWVqUDhTQ21IS2psNEJOOXV4OFhHLUZxZ1h6WGE4YXpaY0NjRW1JWVRaY2NGZVJtbzIzb29hZ3J5ZVRMS3AteUJHRm1qOW9UaWczVUMzR0M2OE5XT3BMUnp2dC02Z1RtdTF6cUh1RkdqU1A4VFpxQnBwUmRad0t1NDZGbENrS0Yxc0F3UkdjLVVZVzRMeFBHZTE5Mm9nc202LW1YcQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-07T14:58:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Arancel, cuota compensatoria y valor en aduana: términos del comercio exterior explicados AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "fc351ce268fa4e4a"
+ },
+ {
+  "titulo": "Migración en América Latina: 78.7 millones de migrantes en la región",
+  "liga": "https://elcongresista.mx/politica/nacional/migracion-en-america-latina-78-7-millones-migrantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T14:55:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "América Latina cuenta con 78.7 millones de migrantes, revelando un nuevo mapa migratorio complejo en la región.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "652b4c40eed9e685"
+ },
+ {
+  "titulo": "Detienen a dos hombres por presunta extorsión agravada en el Ejido Santa Rosa, Ensenada",
+  "liga": "https://elportavoznoticias.com.mx/detienen-a-dos-hombres-por-presunta-extorsion-agravada-en-el-ejido-santa-rosa-ensenada/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-07T14:55:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Los detenidos fueron identificados como Sergio Eugenio “N”, alias “El Queko” o “Keko”, y Luis Alberto “N”, conocido como “El Beto”. De acuerdo con la carpeta de investigación, ambos habrían amenazado a... La entrada Detienen a dos hombres por presunta extorsión agravada en el Eji",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "46e846681559255f"
+ },
+ {
+  "titulo": "Festival Gastronómico en Tijuana contará con más de 65 expositores",
+  "liga": "https://elcongresista.mx/politica/baja-california/festival-gastronomico-tijuana-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T14:55:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El Festival Gastronómico Tijuana 2026 se celebrará el 7 y 8 de noviembre con más de 65 expositores y música en vivo, ¡con entrada gratuita!",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "31bf034ae8cfc281"
+ },
+ {
+  "titulo": "IEE Sonora aprueba topes de precampaña de 22 millones para 2026-2027",
+  "liga": "https://elcongresista.mx/politica/sonora/iee-sonora-aprueba-topes-precampana-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T14:54:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El IEE Sonora aprueba un tope total de 22 millones para precampañas de 2026-2027, estableciendo límites en gubernatura y diputaciones.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "03ffa485513f5f99"
+ },
+ {
+  "titulo": "Lluvias en Hermosillo: 15% de probabilidad entre 16:00 y 20:00 horas",
+  "liga": "https://elcongresista.mx/politica/sonora/pronostico-lluvias-hermosillo-sabado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T14:53:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El clima en Hermosillo será soleado, pero podría haber lloviznas con 15% de probabilidad entre las 16:00 y 20:00 horas.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1a63344197a555dd"
+ },
+ {
+  "titulo": "La UNLP y la Provincia entregaron las primeras viviendas sociales en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM285QXZjMkVPbzhnUGRHTXhXQnAwbUR1eldMcXotYWRnRF9XMGhEeUVZbWJneE5LbHVBeGpsakdPZGh1ZkNoZl92T3FuN29BN19KOUJiZ3JHT19rd05iZ2FVSUZYVmtjbjdfNVJQbG9lemZEc091RnJGUEtYS3didlJDODM3VzFib1lQMVdrZ2ZUX2pEbE8xcmdpZlNhSXJvMEdPb0lXSmw2dldXQVF2V3lWRWNYd9IBuwFBVV95cUxQTHl3Z2ZTem9FZ1pNY2tPZ1AxanluQ2Jhd204dzgzTDhtZFBUa3c4VkUwNm56VFNpd1RzTmZBcno5V1RMUHl1TFZ4RjBjNUZsSVRkbnhtbXhvdElEcWhHZTFobS1CV29pWlNuaUJFUjdHeDRRdE5HZnpzbUxMVEJJMi1QVXh2NmE5a21tYVZHenU5amVBQklLSTVBTWVfSWtMMFkyTWFEd29RbENyclBjcVVzUGE2QnRQSk5J?oc=5",
+  "medio": "0221",
+  "publicada": "2026-11-07T14:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "La UNLP y la Provincia entregaron las primeras viviendas sociales en Ensenada 0221",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c24b74d1ea640a00"
+ },
+ {
+  "titulo": "Detienen a joven en patinete eléctrico por resistencia en la AP-7",
+  "liga": "https://elcongresista.mx/justicia/detenido-joven-patinete-electrico-ap7",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T14:49:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Un joven de 25 años fue detenido en la AP-7 por conducir un patinete eléctrico y evadir a la policía al menos en dos ocasiones.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4dc1a90b9dfee9ec"
+ },
+ {
+  "titulo": "Coepris Baja California brinda asesoría sanitaria a albergue del DIF en Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/coepris-baja-california-brinda-asesoria-sanitaria-albergue-dif-tijuana-n912497",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T14:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Para prevenir riesgos sanitarios y garantizar condiciones adecuadas para las personas que requieren alojamiento.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e9fb1e2a7346041c"
+ },
+ {
+  "titulo": "Diputada señala omisiones y falta de coordinación ante daños por lluvias en Ensenada y San Quintín",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU3dwZDNEeVpzR0doZVpNN243aEV0bUItbWFMcVFaYWZKMXhWN3ZFWlJrSklZeWRvaTB6TnBHd3ZXUDN4OXM0aUR6emhrd3BDWHowT0Q2TWVMWjE3a3NJYXFpR0dScjd3TVpCUGRKV1J4T3E2amFlZWxlakVOaFAtOVNIX2t2ZlNLd1ZYbndjNm1qUVU1by0yeUFPVHAta0xaQmhNVEpqQ29tZDJodEhHaEk4ZWFwMDZBTW16d3BfVFN0bnQzZV9EbjIyRE5DMVE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-07T14:42:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Diputada señala omisiones y falta de coordinación ante daños por lluvias en Ensenada y San Quintín Baja News",
+  "temas": [
+   "Política y partidos",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "8c7b44002e4d1098"
+ },
+ {
+  "titulo": "Video: una policía se tiró a un arroyo de Ensenada para rescatar a una mujer de 76 años atrapada en su auto",
+  "liga": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZFVMcG5ZUUlOakctWTlqVVU1OTJsZlVyeW1RRmVJazUyaVZteEhrM0NENnFsSjVyUDdsTVliLWk3VE1BNjdrUWxkSzhQMmxMeU8yMlZOZzZCMW1GWDhBRHRHYXBKaWVfd28zX2d3TVhmSkpFLTZUUnE5ZFJEejdOOWN2V3ZmN1BlRkx6ZDVaREZSekhxTkFqMEYzeURGb0xTczZNSzVLaUZzODlsbHZKWkNrVFh5WXJZdEJsYnRucEctR3ZkQUpObFFsdXpUdGJmSXJXOVhJVzVkR1FIdnUxOEFEOEROSEEwcTU1V0FjNmVvUU9ZT3fSAYoCQVVfeXFMUHZRM2VSWjREcWRFaEJyd1pCcnFic3MwdVJWS3haT084TW8zRHVVWlkxSTNmRHF2UDdZNlAwYmpuaWFXbk9CZU40ZXZJX19kYlhyRVRHWjAtM1FreHk4M1o0V1RodUlyVk9rOV8tUHV1LUZSdTNpYzZ2WTB1S3BJS2Q3SVJfeXY1Nzl3a2dGNkNHQzRSOGVUTTh6LTREeF94WXpVandwN0V6U29hdi1LSjg1azkxTGFpZU0yX2k5Y2l6ZGFjQU1ib2NlQnNYMWI2a1haRTBVTHVhSlA1dzdYN3dOa2lTcjg2enAtYWtHNC1DTktoVDRZY1k3VGRLZHJieUhUNG1YWG5KZ3c?oc=5",
+  "medio": "TN",
+  "publicada": "2026-11-07T14:39:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Video: una policía se tiró a un arroyo de Ensenada para rescatar a una mujer de 76 años atrapada en su auto TN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "164ac371e5d141fd"
+ },
+ {
+  "titulo": "PAN Chihuahua abre opción a alianzas electorales hacia 2027",
+  "liga": "https://elcongresista.mx/politica/chihuahua/pan-chihuahua-alianzas-electorales-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T14:39:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El PAN en Chihuahua abre la posibilidad de alianzas electorales hacia 2027, buscando sumar esfuerzos y atender necesidades ciudadanas.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "d266f680e9299800"
+ },
+ {
   "titulo": "Nombran a Ángel Soto al frente de la Secretaría de Educación Municipal",
   "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDBXVFdGRXYtdnhoQ0s1QmxrWjBCYVpBWUVxOU9BWXlFYzYzMjcwWEs4NlZYV3c5WVZUa0swQUgtV1NEOVZEYVUwNjVyVEpkaF8xU3FFdFZrQ21kZHpIMXNLTHMwYWFoVDBrUWlwRnRHNUJmV2s2YTdNUUN0UjFiTXl3dm9MVVRtc09qLWZRblM2UzZfOFhOeGtPdzViNEwwajhkdmlBUGpSOWtvMllSdmp3?oc=5",
   "medio": "AFN",
@@ -29,6 +437,51 @@
   "id": "0d9a82e959c0613e"
  },
  {
+  "titulo": "Comerciantes de El Crucero buscan restaurar la confianza con seguridad y cultura",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/comerciantes-el-crucero-cancun",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T14:35:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Comerciantes de El Crucero en Cancún trabajan para cambiar la percepción de inseguridad mediante seguridad y cultura.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fdf47aacf2caccd7"
+ },
+ {
+  "titulo": "Detienen en Tecate a hombre con orden de aprehensión por narcomenudeo",
+  "liga": "https://elportavoznoticias.com.mx/detienen-en-tecate-a-hombre-con-orden-de-aprehension-por-narcomenudeo/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-07T14:34:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "La detención ocurrió durante un recorrido de prevención y vigilancia sobre el cruce del bulevar Universidad y bulevar Nuevo León, en la colonia Guajardo, como parte del operativo Unidos por Tecate. De... La entrada Detienen en Tecate a hombre con orden de aprehensión por narcomen",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "a3e8f6c9d1ad820e"
+ },
+ {
+  "titulo": "Inicia ampliación de Avenida Olímpica en León con inversión de 10.3 mdp",
+  "liga": "https://elcongresista.mx/politica/guanajuato/inicio-ampliacion-avenida-olimpica-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T14:34:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "La ampliación de Avenida Olímpica en León comenzará con una inversión de 10 millones 382 mil pesos, beneficiando a más de 236 mil personas.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "873978f3acef54c1"
+ },
+ {
   "titulo": "Senado analiza protocolo para proteger derechos de mexicanos en el extranjero",
   "liga": "https://elcongresista.mx/justicia/senado-protocolo-proteccion-mexicanos-extranjero",
   "medio": "El Congresista",
@@ -43,6 +496,20 @@
   "id": "87dac2e5b2271fa4"
  },
  {
+  "titulo": "Reconocen a siete mujeres que abren camino en el sector empresarial de Sonora",
+  "liga": "https://www.uniradioinforma.com/sociedad/reconocen-siete-mujeres-abren-camino-sector-empresarial-sonora-n913063",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T14:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Entregan primeros Galardones AMMJE.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "007dde5034342f70"
+ },
+ {
   "titulo": "La herencia cultural de Estados Unidos sufre por la indiferencia",
   "liga": "https://elcongresista.mx/cultura/herencia-cultural-eeuu",
   "medio": "El Congresista",
@@ -55,6 +522,20 @@
   ],
   "local": false,
   "id": "eef2db1e49f93856"
+ },
+ {
+  "titulo": "COBACH BC realiza foro sobre industria, innovación e infraestructura sostenible",
+  "liga": "https://elportavoznoticias.com.mx/cobach-bc-realiza-foro-sobre-industria-innovacion-e-infraestructura-sostenible-2/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-07T14:30:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "La actividad se realizó en el teatro del plantel Mexicali, como parte del ciclo de conferencias sobre los 17 Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030 de la Organización de... La entrada COBACH BC realiza foro sobre industria, innovación e infraestructura sosteni",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "e87f7c3dd56b79d5"
  },
  {
   "titulo": "Plantea Evelyn Sánchez fortalecer a pequeños negocios en Tijuana",
@@ -99,6 +580,20 @@
   ],
   "local": true,
   "id": "4ce73dd7aec11292"
+ },
+ {
+  "titulo": "¡Don Omar vuelve a México!",
+  "liga": "https://www.uniradioinforma.com/fama/don-omar-vuelve-mexico-n913061",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T14:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Anuncia tres conciertos para noviembre de 2027.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "6b307a2df569b563"
  },
  {
   "titulo": "Michoacán registra más de 500 mil empleos formales ante el IMSS",
@@ -176,6 +671,20 @@
   ],
   "local": false,
   "id": "4e0ef3283327a24a"
+ },
+ {
+  "titulo": "Amapolas recibe jornada de atención comunitaria",
+  "liga": "https://www.uniradioinforma.com/sociedad/amapolas-recibe-jornada-atencion-comunitaria-n913058",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T14:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "DIF Sonora acercó atención sin costo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "291e7532e6bd2b31"
  },
  {
   "titulo": "Investigan a elemento de la Guardia Nacional por feminicidio de una compañera en Culiacán",
@@ -304,6 +813,20 @@
   ],
   "local": false,
   "id": "7f541629dd8401a3"
+ },
+ {
+  "titulo": "La caída de Santiago Peña: el eslabón roto de la derecha continental",
+  "liga": "https://jornadabc.com.mx/opinion/la-caida-de-santiago-pena-el-eslabon-roto-de-la-derecha-continental/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-07T13:58:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "La hegemonía de la derecha en América, impulsada por figuras como Javier Milei, Daniel Noboa, Keiko Fujimori y Abelardo de la Espriella con el apoyo total de Donald Trump, ha comenzado a fisurarse de forma acelerada La entrada La caída de Santiago Peña: el eslabón roto de la dere",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f56bb17e1b0843fa"
  },
  {
   "titulo": "Motociclista intenta soborno con refresco en CDMX y es rechazado",
@@ -2305,6 +2828,21 @@
   "id": "e49d2e974a056c90"
  },
  {
+  "titulo": "Dependencia del automóvil cuesta tiempo, dinero y tranquilidad a tijuanenses: Alianza por la Movilidad Activa",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/dependencia-del-automovil-cuesta-tiempo-dinero-y-tranquilidad-a-tijuanenses-alianza-por-la-movilidad-activa-33015926",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-07T10:17:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Daniel Gómez Patiño hizo énfasis en una mayor disponibilidad de infraestructura ciclista y peatonal para incentivar a más personas a utilizarla.",
+  "temas": [
+   "Política y partidos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "cc9bc1eb931074d6"
+ },
+ {
   "titulo": "Homicidios en Tecate: cinco muertos y un herido en ataques armados",
   "liga": "https://elcongresista.mx/politica/baja-california/homicidios-tecate-noviembre",
   "medio": "El Congresista",
@@ -2333,6 +2871,20 @@
   ],
   "local": true,
   "id": "0e5ee45f012b8ec0"
+ },
+ {
+  "titulo": "“No hay que recuperar nada, el equipo está bien. Tuvimos traspié matemático no emocional” Sebastian Abreu",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/no-hay-que-recuperar-nada-el-equipo-esta-bien-tuvimos-traspie-matematico-no-emocional-sebastian-abreu-33015677",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-07T10:06:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "El estratega rojinegro mantiene la esperanza de que Xolos los califiquen a liguilla.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "9b90167f066f7435"
  },
  {
   "titulo": "Hardwell y 4444 OF A KIND lanzan 'RE4SON' tras estreno en Tomorrowland",
@@ -2405,6 +2957,35 @@
   ],
   "local": false,
   "id": "13e32a7912d1a5c1"
+ },
+ {
+  "titulo": "El Cine Lux es una inversión a largo plazo: Beltrán",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/el-cine-lux-es-una-inversion-a-largo-plazo-beltran-33014532",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-07T10:00:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Quien no conoce el presupuesto, no conoce el gasto",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "38802b51f95fd419"
+ },
+ {
+  "titulo": "Urge crear una estrategia para controlar sobrepoblación de gatos en Mexicali",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/urge-crear-una-estrategia-para-controlar-sobrepoblacion-de-gatos-en-mexicali-33014521",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-07T09:53:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "En la ciudad no existen un esquema por parte del Cemca para capturar, regular la sobrepoblación y garantizar la esterilización y manejo de felinos de manera responsable y adecuada",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e89e27a4da4dbd05"
  },
  {
   "titulo": "Aumentan esfuerzos para prevenir la violencia política en Coahuila",
@@ -2494,6 +3075,20 @@
   "id": "09e515a11a5b9825"
  },
  {
+  "titulo": "Sin solución problema del agua en ejido Islas Agrarias B",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/sin-solucion-problema-del-agua-en-ejido-islas-agrarias-b-33014668",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-07T09:47:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "A pesar de contar con un caso de E.Coli por la mala calidad del agua, el conglomerado ejidal no ha mostrado interés por solucionar el problema",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "93d785bd19bb5d94"
+ },
+ {
   "titulo": "INE denuncia a FGR irregularidades en contrataciones millonarias",
   "liga": "https://elcongresista.mx/justicia/ine-denuncia-fgr-irregularidades-contrataciones",
   "medio": "El Congresista",
@@ -2521,6 +3116,21 @@
   ],
   "local": true,
   "id": "2908c32c52e62830"
+ },
+ {
+  "titulo": "Sindicatura ha separado del cargo a 27 policías por faltas graves",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/sindicatura-ha-separado-del-cargo-a-27-policias-por-faltas-graves-33014150",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-07T09:41:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Las principales causas son por reprobar el examen antidopaje, por cuestiones del mal actuar, ya sea por asociación delictuosa o por no apegarse a los procedimientos legales, por no aprobar las evaluaciones del C3 e inasistencias",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "1327935016f191cd"
  },
  {
   "titulo": "Conductor ebrio provoca choque en Saltillo y es detenido.",
@@ -2566,6 +3176,20 @@
   ],
   "local": true,
   "id": "d6f17f0775aecfbe"
+ },
+ {
+  "titulo": "Denuncian estafa de gestores de migración a ciudadanos",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/denuncian-estafa-de-gestores-de-migracion-a-ciudadanos-33014359",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-07T09:34:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T15:39:20-06:00",
+  "resumen": "Según el testimonio de Dora Sereno, su esposo pagó 20 mil pesos por una mica; hasta la fecha no la ha obtenido",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "ab277516bacb0a11"
  },
  {
   "titulo": "Frente frío 4 ocasiona lluvias intensas en Coahuila y Nuevo León",
