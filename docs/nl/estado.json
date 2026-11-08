@@ -1,12 +1,12 @@
 {
  "panel": "Nuevo León",
- "actualizado": "2026-11-08T12:44-06:00",
+ "actualizado": "2026-11-08T13:45-06:00",
  "corte": "2026-11-08",
  "ventana": [
   "2026-11-07T20:00-06:00",
   "2026-11-08T20:00-06:00"
  ],
- "total": 318,
+ "total": 363,
  "fuentes": [
   {
    "fuente": "El Norte",
@@ -21,7 +21,7 @@
   {
    "fuente": "ABC Noticias",
    "ok": true,
-   "notas": 81
+   "notas": 88
   },
   {
    "fuente": "Posta",
@@ -81,7 +81,7 @@
   {
    "fuente": "Google News: site:elfinanciero.com.mx Monterrey",
    "ok": true,
-   "notas": 98
+   "notas": 93
   },
   {
    "fuente": "Google News: site:reporteindigo.com Monterrey",
