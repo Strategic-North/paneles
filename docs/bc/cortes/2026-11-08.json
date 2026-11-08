@@ -1,5 +1,505 @@
 [
  {
+  "titulo": "Académica de CETYS imparte taller sobre semiconductores a estudiantes y docentes de ingeniería en Tijuana",
+  "liga": "https://elportavoznoticias.com.mx/academica-de-cetys-imparte-taller-sobre-semiconductores-a-estudiantes-y-docentes-de-ingenieria-en-tijuana/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-08T12:40:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "La Dra. Nataly Medina Rodríguez, académica y coordinadora de Ingeniería en Cibernética Electrónica de CETYS Universidad Campus Tijuana, impartió el “Taller de Introducción a Pruebas Eléctricas con Enfoque en Semiconductores”, dirigido a... La entrada Académica de CETYS imparte ta",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "d99be41e14a454bd"
+ },
+ {
+  "titulo": "Detiene SSPCM a joven con más de 45 envoltorios de presunta marihuana",
+  "liga": "https://www.uniradioinforma.com/policiaca/detiene-sspcm-joven-mas-45-envoltorios-presunta-marihuana-n913133",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T12:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Policías intervinieron a un joven que circulaba en una motocicleta azul, infringía el Reglamento de Tránsito y arrojó una bolsa al suelo al notar su presencia; además, no contaba con licencia de conducir.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2c8c5bce6cc44f55"
+ },
+ {
+  "titulo": "Óscar Puente dimite como ministro tras accidente ferroviario en Urda",
+  "liga": "https://elcongresista.mx/politica/nacional/oscar-puente-dimision-ministro-transportes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:35:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Óscar Puente dimite como ministro de Transportes tras el accidente en Urda y no liderará la candidatura del PSOE en Valladolid.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "bb7c3020bbe95ded"
+ },
+ {
+  "titulo": "Acude Ismael Burgueño al 5to. Informe de Actividades de la gobernadora de Baja California Marina del Pilar Avila Olmeda",
+  "liga": "https://www.uniradioinforma.com/gobierno/acude-ismael-burgueno-5to-informe-actividades-gobernadora-baja-california-marina-pilar-avila-olmeda-n913131",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T12:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Ismael Burgueño destacó los resultados del Gobierno estatal y la coordinación con la Federación y el Ayuntamiento para impulsar proyectos y acciones en beneficio de Tijuana.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "33ef0881e89247d5"
+ },
+ {
+  "titulo": "PAN aprueba alianzas en Juárez y dedazo para candidatura",
+  "liga": "https://elcongresista.mx/politica/chihuahua/pan-chihuahua-alianzas-dedazo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:34:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "El PAN de Chihuahua aprueba alianzas y un dedazo en Juárez para la candidatura a la alcaldía, mientras impone elecciones en su capital.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "63ff6a285c81de30"
+ },
+ {
+  "titulo": "Alcalde de Río Bravo es privado de la libertad durante viaje familiar",
+  "liga": "https://elcongresista.mx/tamaulipas/alcalde-rio-bravo-secuestrado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:33:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Miguel Ángel Almaraz, alcalde de Río Bravo, fue secuestrado durante un viaje familiar en Tamaulipas; las autoridades buscan localizarlo.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "a0d9db592bfe593a"
+ },
+ {
+  "titulo": "Xóchitl Flores logra 62.9% de aprobación en séptimo lugar en Edomex",
+  "liga": "https://elcongresista.mx/politica/edomex/xochitl-flores-aprobacion-chimalhuacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:32:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Xóchitl Flores obtiene 62.9% de aprobación en Chimalhuacán, destacando su trabajo en educación y bienestar social.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2cab0391ea16a47b"
+ },
+ {
+  "titulo": "Seimujer recupera cancha deportiva en Huetamo con jornada de limpieza",
+  "liga": "https://elcongresista.mx/politica/michoacan/seimujer-limpieza-huetamo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:31:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Seimujer realiza jornada de limpieza en una cancha deportiva de Huetamo, promoviendo entornos seguros para la comunidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1658c6996e51a456"
+ },
+ {
+  "titulo": "Marina del Pilar anuncia más becas, mayor respaldo a mujeres y retiro digno para policías en su quinto informe de gobierno",
+  "liga": "https://www.uniradioinforma.com/gobierno/marina-pilar-anuncia-mas-becas-mayor-respaldo-mujeres-retiro-digno-policias-su-quinto-informe-gobierno-n913129",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T12:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Duplicará los recursos de la Beca Corazón de Cimarrón para cubrir la inscripción del alumnado de licenciatura de la UABC en 2027",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "0330d0286ba083a6"
+ },
+ {
+  "titulo": "Lluvias en Piedras Negras y Acuña dejan más de dos pulgadas de agua",
+  "liga": "https://elcongresista.mx/politica/coahuila/lluvias-piedras-negras-acuna",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:21:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Las lluvias en Piedras Negras superan las dos pulgadas, provocando el rescate de una camioneta. Protección Civil llama a la precaución.",
+  "temas": [
+   "Agua",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "524c04d5b1f34708"
+ },
+ {
+  "titulo": "Movimiento CONSTRUIR reúne a ciudadanos y líderes sociales en Parlamento Ciudadano realizado en Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/movimiento-construir-reune-ciudadanos-lideres-sociales-parlamento-ciudadano-realizadoen-tijuana-n913127",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T12:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Alumnos del Diplomado «Construir buenos ciudadanos, mejores seres humanos» participaron en un ejercicio de formación cívica, oratoria y debate parlamentario, con la presencia de representantes de organizaciones sociales, empresariales y políticas de Baja California.",
+  "temas": [
+   "Economía y empleo",
+   "Educación"
+  ],
+  "local": true,
+  "id": "516bdf79f86aab0f"
+ },
+ {
+  "titulo": "Alcalde de Río Bravo, secuestrado en carretera de Zacatecas",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/alcalde-rio-bravo-secuestro-zacatecas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:19:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "El alcalde de Río Bravo, Miguel Ángel Almaraz, fue secuestrado en Zacatecas mientras viajaba con su familia y su equipo.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e0b4e87aa4d2a43e"
+ },
+ {
+  "titulo": "Irapuato destaca en el Festival de Tradiciones de Xcaret con fresas",
+  "liga": "https://elcongresista.mx/cultura/irapuato-festival-tradiciones-xcaret",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:18:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Irapuato se hace notar en el Festival de Tradiciones de Xcaret promoviendo su cultura y fresas emblemáticas.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "490533f068fe506a"
+ },
+ {
+  "titulo": "Luis Carlos Ugalde rechaza acusaciones de fraude electoral en 2006",
+  "liga": "https://elcongresista.mx/justicia/ugalde-rechazo-fraude-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:16:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Luis Carlos Ugalde defiende su papel en la elección de 2006 y desacredita acusaciones de fraude presentadas por Morena.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "5270c1961d44e96d"
+ },
+ {
+  "titulo": "Encuentran con vida a Miguel Ángel Almaraz, alcalde de Río Bravo",
+  "liga": "https://elcongresista.mx/tamaulipas/localizan-miguel-angel-almaraz-rio-bravo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:16:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Miguel Ángel Almaraz, presidente municipal de Río Bravo, fue localizado con vida tras su desaparición en Tamaulipas. Acciones coordinadas permitieron su rescate.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "54ddd40516a3a673"
+ },
+ {
+  "titulo": "Isaac del Toro cierra el 2026 con el título Tour de France EFGH Singapore Criterium",
+  "liga": "https://jornadabc.com.mx/principales/isaac-del-toro-cierra-el-2026-con-el-titulo-tour-de-france-efgh-singapore-criterium/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-08T12:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Se impuso al francés Paul Seixas en el circuito de Marina Bay para dar cerrojazo al mejor año de su carrera profesional La entrada Isaac del Toro cierra el 2026 con el título Tour de France EFGH Singapore Criterium se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e6505c9f522e8350"
+ },
+ {
+  "titulo": "Riña en cuartería de Playas de Tijuana deja un hombre sin vida",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEZsazk2VWJUNUxHUlV4VnVfLXBVQ0R2VEQ0bjZTY1gyUnA1dEZOSzNIcFVjNE01UVd3T2JFcjA4RElqb1oxMEFHSmlUU1FzNU9mM1BUYTdfTm1VU0dVd2NTeXVINjd3eVdIZ0pIaDRjdDBzSjh2MEpRNXgzS2VyQlA4N19TTklsVW81UHFaSDVGYzZYZlNCQmpyZjdJVGM?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-08T12:12:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Riña en cuartería de Playas de Tijuana deja un hombre sin vida Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4282278ccb5aaf61"
+ },
+ {
+  "titulo": "Marina dice en su Quinto Informe que gobernará “hasta el último minuto”",
+  "liga": "https://puntonorte.info/2026/11/08/marina-dice-en-su-quinto-informe-que-gobernara-hasta-el-ultimo-minuto/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-08T12:11:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Mexicali.- La gobernadora Marina del Pilar Ávila Olmeda ofreció su Quinto Informe de Gobierno, el penúltimo de su gestión, con un mensaje en el que retomó las principales obras y programas de su gobierno, anunció una iniciativa para reducir el periodo de jubilación de policías, p",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "bbfda5a8dfecea8a"
+ },
+ {
+  "titulo": "Estrena este domingo \"Las Mujeres de Lorca\" en el teatro Broadway",
+  "liga": "https://elcongresista.mx/cultura/obras-mujeres-lorca-broadway",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Este domingo se estrena \"Las Mujeres de Lorca\" en el teatro Broadway de Rosario, una obra musical sobre el legado del poeta español.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "6de7c2c5b35eb2a2"
+ },
+ {
+  "titulo": "Plaza Cívica con Fernando Núñez - 08 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2t1Y0pGcHY4TFZoVGpDX0t3V0dVVGgtdVduWHlYbkJObUlWbXRPZHBrQWNINmw2N3A3YjkyYWp4b2pxVHZWU0J2SE8yUm82UUNhbmpraTF2d2pHRUV2aHQ1bXAxc3ZQaDdEd0hjSldFR09haXRFX3VORG5uVkdwYlRlcGhhVFM3VEtXLUpQN01uTU9X?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-08T12:05:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Plaza Cívica con Fernando Núñez - 08 de noviembre AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "986e8e510290aeb4"
+ },
+ {
+  "titulo": "Elpidio Díaz afirma que no hay desbandada en Fuerza por México",
+  "liga": "https://elcongresista.mx/politica/puebla/elpidio-diaz-descarte-desbandada-fuerza-por-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:04:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Elpidio Díaz, líder de Fuerza por México, descarta una desbandada tras el registro de Modesta Delgado en Morena y analiza futuras elecciones.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "dd6642859b4e07d9"
+ },
+ {
+  "titulo": "Xóchitl Flores Jiménez mantiene 62.9% de aprobación en Edomex",
+  "liga": "https://elcongresista.mx/politica/edomex/xochitl-flores-aprobacion-chimalhuacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:03:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Xóchitl Flores Jiménez mantiene un 62.9% de aprobación en Chimalhuacán, destacando programas en educación e infraestructura.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b1cf0ea9cf1455e1"
+ },
+ {
+  "titulo": "Gabinete de Seguridad busca a Miguel Ángel Almaraz en Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/gabinete-busca-miguel-angel-almaraz-tamaulipas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:01:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "El Gabinete de Seguridad colabora para encontrar al presidente municipal de Río Bravo, Miguel Ángel Almaraz, tras su privación de libertad.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "ad9232f1b6b5152e"
+ },
+ {
+  "titulo": "Detienen a “La Pocha” y a “El Nazi”, líderes del Cártel del Noreste",
+  "liga": "https://elcongresista.mx/tamaulipas/detienen-la-pocha-el-nazi-nuevo-laredo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Detienen a Gerardo Javier “La Pocha” y su hijo “El Nazi” en Nuevo Laredo, vinculados al Cártel del Noreste y a graves crímenes.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "6c907b1f8c93bfbd"
+ },
+ {
+  "titulo": "Integran nuevas vocalías ciudadanas al Comité de Bienestar Animal de Baja California",
+  "liga": "https://elportavoznoticias.com.mx/integran-nuevas-vocalias-ciudadanas-al-comite-de-bienestar-animal-de-baja-california/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-08T11:58:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "El Comité de Bienestar Animal de Baja California realizó su segunda sesión ordinaria de 2026 en Tecate, donde se incorporaron nuevas vocalías ciudadanas y se aprobó una guía para la habilitación de... La entrada Integran nuevas vocalías ciudadanas al Comité de Bienestar Animal de",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "03cd633af4e98d6f"
+ },
+ {
+  "titulo": "Isaac del Toro gana en Singapur; venció a Paul Seixas en el Criterium",
+  "liga": "https://elcongresista.mx/vehicular/isaac-del-toro-victoria-singapur-criterium",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:49:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Isaac del Toro se impone en el Criterium de Singapur 2026, venciendo a Paul Seixas en una emocionante final.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ad29662466d8649b"
+ },
+ {
+  "titulo": "Bomberos de Ensenada obtienen 94 millones de pesos de la Nación",
+  "liga": "https://elcongresista.mx/politica/baja-california/bomberos-ensendada-deuda",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:48:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "La Asociación de Bomberos de Ensenada cobró 94 millones de pesos tras diez meses de reclamos al Estado, aunque otros cuarteles continúan sin pago.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "bee8a515c45667be"
+ },
+ {
+  "titulo": "Bomberos de Ensenada reciben 94 millones de pesos tras diez meses de reclamos al Estado",
+  "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNeklRaDV0RGpaWlVQZ0gxVzlnVmhLRjJzVmd1TWlUWXpNY1VzZXZnS3pYQzNSMm5DQWZTZXI5eFNGckVyRllTQ25xQ1FlQW5ZbkJyTkdDLVZQSnNEV1daYVBSczEtN2k5N091VjBaQXFNRGtpbEdtaDBJMTAwWWs?oc=5",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:48:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Bomberos de Ensenada reciben 94 millones de pesos tras diez meses de reclamos al Estado El Congresista",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fc21d99b6a539926"
+ },
+ {
+  "titulo": "Fiscalía de Tamaulipas coordina búsqueda del alcalde Miguel Ángel Almaraz",
+  "liga": "https://www.uniradioinforma.com/gobierno/fiscalia-tamaulipas-coordina-busqueda-alcalde-miguel-angel-almaraz-n913125",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T11:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Fue privado de la libertad en Zacatecas, junto a sus acompañantes.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "ac5ee9234bb5b75a"
+ },
+ {
+  "titulo": "Isaac del Toro gana el Tour de France Singapore Criterium 2026",
+  "liga": "https://elcongresista.mx/politica/michoacan/isaac-del-toro-gana-tour-singapore-criterium-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:47:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Isaac del Toro gana el Tour de France Singapore Criterium 2026, cerrando su temporada con una notable victoria en un circuito exigente.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "90e2530439da47d6"
+ },
+ {
+  "titulo": "Tres jóvenes asesinados en Zamora, dos de ellos menores",
+  "liga": "https://elcongresista.mx/politica/michoacan/tres-jovenes-asesinados-zamora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:46:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Tres jóvenes, dos menores de edad, fueron asesinados en Zamora, Michoacán. La investigación ha comenzado para esclarecer el crimen.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "da7b55ffa675bd6c"
+ },
+ {
+  "titulo": "Retoman proyecto de transporte exclusivo para mujeres en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/rutas-transporte-exclusivo-mujeres-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:46:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Se busca reactivar las rutas de transporte público exclusivas para mujeres en Morelia, ante altos índices de acoso.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f4f8552ba857471f"
+ },
+ {
+  "titulo": "Choca camioneta contra muros de contención en el Libramiento Sur de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVFxQ1dvVkV5ZVQxS2o0aExMNWdYUEE0d3JYU0xkaVI4MUplLUt4aFNXeUN6VGlmYWdmQUR4ZkFpVWlfZnYya0RPREprTkcwQ25WNUV0YTF6cUs1RDVXdzVVd2hWX3hxVjNHTENoUHdaZy1CNWJMYVBLOUVyMjQ4emJvUE1MN1ViaTJsWmlyRU9SWmtyMVlOdjZKbnhKU202X2p6dk4wSE1ZRkVLcUtabg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-08T11:45:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Choca camioneta contra muros de contención en el Libramiento Sur de Tijuana Baja News",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "92fbf42e96b72a79"
+ },
+ {
+  "titulo": "Conductor en aparente estado de ebriedad impactó su vehículo en el Libramiento Sur",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONk40WXNKNF81ZEpFX1ZEWlZ0ZnpPam8wZ3U3R1V0Z2l0aHlaTVFYRWlmVGlHM0t3X3QyMUZRTWNiMENGMjBSWWxKem5OQmdxSG5QRF95LU5wdjA1VmJ5TV9CVVlVZ1kwUDduN2pwSlY4Y2RLaDI0U0I0dmpXMGlERW56Vk9QLUNKbDFjNzRCSmNpdzE2dkM1NUhtVXBVeVhfcU9TUXA4N3kzeGNHYjRyLWlYUGNNb0JMcDNhRXh0UWU?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-08T11:38:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Conductor en aparente estado de ebriedad impactó su vehículo en el Libramiento Sur AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f4e9eaf4281c40fc"
+ },
+ {
   "titulo": "Almada critica arbitraje tras penal erróneo en Clásico Capitalino",
   "liga": "https://elcongresista.mx/justicia/almada-critica-arbitraje-clasico-capitalino",
   "medio": "El Congresista",
@@ -59,6 +559,20 @@
   "id": "9016ac629bc61f0c"
  },
  {
+  "titulo": "Naranjeros cae ante Guasave en el segundo juego de la doble cartelera",
+  "liga": "https://www.uniradioinforma.com/deportes/naranjeros-cae-guasave-segundo-juego-doble-cartelera-n913122",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T11:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Algodoneros se impuso 4-1 a Naranjeros en el segundo duelo del sábado en Guasave.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "376b5207a6e3c97d"
+ },
+ {
   "titulo": "El alcalde de Río Bravo, Miguel Ángel Almaraz, fue secuestrado en SLP",
   "liga": "https://elcongresista.mx/politica/san-luis-potosi/alcalde-rio-bravo-secuestro-san-luis-potosi",
   "medio": "El Congresista",
@@ -73,6 +587,20 @@
   ],
   "local": false,
   "id": "806a55781edf6a71"
+ },
+ {
+  "titulo": "Dan marcha atrás a evaluación que amenazaba con sanciones en el Poder Judicial",
+  "liga": "https://www.uniradioinforma.com/sociedad/dan-marcha-atras-evaluacion-amenazaba-sanciones-poder-judicial-n913120",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T11:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Los juzgados y tribunales del Poder Judicial laborarán con normalidad este lunes 9 de noviembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6a921deadb2237f9"
  },
  {
   "titulo": "Fechas estimadas para citas de visa B1/B2 en México desde nov. 2026",
@@ -541,6 +1069,20 @@
   ],
   "local": true,
   "id": "e4838f82e2af9b7b"
+ },
+ {
+  "titulo": "Privan de la libertad a alcalde de Río Bravo",
+  "liga": "https://zetatijuana.com/2026/11/privan-de-la-libertad-a-alcalde-de-rio-bravo/?utm_source=rss&utm_medium=rss&utm_campaign=privan-de-la-libertad-a-alcalde-de-rio-bravo",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-08T10:17:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "El alcalde de Río Bravo, Miguel Ángel Almaraz Maldonado, habría sido privado de la libertad cuando viajaba con familiares hacia Real de Catorce. Sus acompañantes fueron abandonados en Zacatecas y solicitaron ayuda en Cedral, San Luis Potosí.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "b5329148733752b8"
  },
  {
   "titulo": "Refuerza Gobierno de Tijuana medidas preventivas ante posibles efectos del fenómeno de El Niño",
@@ -1157,6 +1699,34 @@
   ],
   "local": true,
   "id": "41e527aacb57c336"
+ },
+ {
+  "titulo": "La autoexclusión es una opción para quienes quieren dejar de jugar: Pasos Ríos",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/la-autoexclusion-es-una-opcion-para-quienes-quieren-dejar-de-jugar-pazos-rios-33027086",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-08T06:44:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "Durante la pandemia, se incrementó la adicción a los juegos en línea, lo que es más grave, porque la gente puede jugar en sus teléfonos sin necesidad de acudir a un casino",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e6f46ec48bf6e0a8"
+ },
+ {
+  "titulo": "Sigue sin ser localizado agente K9 de la FESC",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/sigue-sin-ser-localizado-agente-k9-de-la-fesc-33027508",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-08T06:40:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T12:44:22-06:00",
+  "resumen": "El can de nombre Bertho, estaba adiestrado para la localización y búsqueda de explosivos",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7cabade3cef2092f"
  },
  {
   "titulo": "Conagua pospone trasvase de El Cuchillo a Tamaulipas tras petición de García",
