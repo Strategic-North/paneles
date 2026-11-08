@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-08T05:40-06:00",
+ "actualizado": "2026-11-08T06:51-06:00",
  "corte": "2026-11-08",
  "ventana": [
   "2026-11-07T20:00-06:00",
   "2026-11-08T20:00-06:00"
  ],
- "total": 173,
+ "total": 183,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 476
+   "notas": 477
   },
   {
    "fuente": "Los Noticieristas",
@@ -95,8 +95,8 @@
   },
   {
    "fuente": "Lado.mx",
-   "ok": true,
-   "notas": 24
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "fuente": "Noticiero Altavoz",
