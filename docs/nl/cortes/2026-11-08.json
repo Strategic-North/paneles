@@ -1,5 +1,597 @@
 [
  {
+  "titulo": "Frente frío deja 175.4 milímetros de lluvia en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0dKUDZFcGJ1VHdxeHFVX09PbXdRTmZCYUtNV1VCS0h0U0JfMXFJLUV3NDBQU3NVM1RhbEJNUzl5N3dWX2NDWjdUVHRsMGpFU0pFcWV0NWNFS09mcnZGcXJ3bDdaSHlxTTFnZVdnZ1NnVDlIMFp3aXRVeW9MQzVRTWNfREtaZDlJdGxJWTYydHFiSklVeWZ3ZzNUanU4YVhjSzNSVU9Fbmk?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T17:37:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Frente frío deja 175.4 milímetros de lluvia en Nuevo León El Horizonte",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "a6c4c989766f0658"
+ },
+ {
+  "titulo": "Vecinos de Monterrey plantean necesidades a Lorena de la Garza durante recorridos por colonias",
+  "liga": "https://abcnoticias.mx/local/2026/11/8/vecinos-de-monterrey-plantean-necesidades-a-lorena-de-la-garza-durante-recorridos-por-colonias-294877.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T17:36:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8a47e6ddd5dfbe3b"
+ },
+ {
+  "titulo": "Pese al frío, cientos de personas recorren el Centro de Monterrey",
+  "liga": "https://abcnoticias.mx/local/2026/11/8/pese-al-frio-cientos-de-personas-recorren-el-centro-de-monterrey-294874.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T17:35:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "de17b7710e9329f1"
+ },
+ {
+  "titulo": "Lluvias complican la circulación en avenidas de Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmc4ZHVBN2NuS09CdC1lWkJ4czRZUHROTDZzVnR5YXNSU1d3TGVOanM3X09oZEZUT2hEUnRBUWRlcjNHTFVvY2xaQV9BY0t4NzFhXzhGN185OWhjMzhzVGx0WGplYUstRTRRV3hVNVl4dUFiRkVBTE1tbXBQLVIzVmRWd1pxOHVTTGlLVUozN2NreWxqeklCakd1andqY21kTXN3OGpYdFYyZw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T17:33:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Lluvias complican la circulación en avenidas de Matamoros El Horizonte",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "11393e9c1edb8d12"
+ },
+ {
+  "titulo": "Cierre de planta de Tyco afectará a mil trabajadores en Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOci1CVWc2X0Y1MWZYVWZ1VklSWmxsS05GUV9aMkFKSjQwa19pLThQd0p2aU9zN21uSFFLY1ZVTTZRUU8xU09HUzhTXzRwVG1HTVNfakswQ1lNUkg5b2FuU0hvT3prdkhFcGpyalRYOF9ZMzRVT09yS045UlBMM21rVW8xckdVTXFIWmFHOHRkaDY1VHI1YUJCc0VuUjRrUHJRUkxJdVdiVW1NUUVfQVZPOERsemI?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T17:32:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Cierre de planta de Tyco afectará a mil trabajadores en Matamoros El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e3129eb24de84ec6"
+ },
+ {
+  "titulo": "Movimiento Ciudadano pactó con Morena fondos extraordinarios en el Presupuesto 2027 para Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUVFckdybXhoSllBT1lyNXNHanRxbmNESU5jZGZBM0JkRkJ6Mmd4Q2Vic255R2F4MVkwYU93cm8wVldZWnk1NWhfSFB0ZV80czhjV1NwWTVFRG1Pb0Jnb1R3eUZieTZvSWUyOGFBUGY5alhEM2Z6eXJ4UFlrdnEzckdvTTlfd0NpMzBJaWxCWkd4ZDBVWDBPa2tLejRsNV9ZRklB0gGjAUFVX3lxTFBsMVhqSkZmc21Ba25KTkRHNnVDbW9LMXdoa0RrMS1oYjJscWJTREhib3p5aVdBU0cxRTBBVUpibUJ0eHFlODQ5WXRGa01MMnM5M0licTdSR1R1U3VfZUhsR1h0YjhqSVRPR29ENmNEdENlNV9fNUhUYlU4QXR5N08yUmM3SkpwWUZMZkxHYUE5MDlBSXA4dlJXNVNJd1RBblhhYjg?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-08T17:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Movimiento Ciudadano pactó con Morena fondos extraordinarios en el Presupuesto 2027 para Nuevo León Telediario",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "35ed3b2c33b683ce"
+ },
+ {
+  "titulo": "Liverpool saca el triunfo ante Crystal Palace y corta racha negativa en la Premier League",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0F3SjliVTJRVzM5WlZXUWg1WmlnUU4xSDZfQ21ISFdDMkIzMWhYSXRUeXBYNnZyYWVlTWtaY2RtM3R1YWdkRmdUT095MnA1ZEZxZDkzQkJtdWpFT0c1WDBNakdtU2JVV1k4OGFtdEhwX0otSnJkQVlnVFQ0YUZkS2tEa1V3MlRmNkhKTVpocHplNW1iQ3hlQnMtc3U4bWx3MFBpQ3RPQ2xfdjNRaXZPSzVaelE4QnZoZTJ1bEh30gG-AUFVX3lxTE5iRU1ZUmRySzUxaE9LeF9QZy1FcThUVHJzbVlpTU12NXhNRDh0TnhWTHhYYkhCV29NdElXOWRVcmN6OGlyVG5oZjQzLUhDbHhmVUJteFpZSEx6LUtJVld0bmlGWnFQdlFmNjRBTl9GMkhzVlV2d2pxZW9wR25zdkhpa1hWdVRza1ppVGk2SUF2UlYwSjJycGJTMGVQV3pQMkN6ZVdLSVZoSnJBTjVjVVdTMWxwQ3lkS0kyYUlSelE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-08T17:28:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Liverpool saca el triunfo ante Crystal Palace y corta racha negativa en la Premier League Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4c86c5605685ae2e"
+ },
+ {
+  "titulo": "Detienen a ‘R2’ en Zapopan: Lo vinculan con el asesinato de Carlos Manzo",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdGhhazhvN1RJNjdjTnZNQmN4V09xQ011V2xDNThoX3lWd09vaE5kYWNnSjRwR2Q2R3hDc2RfTmdVM3BoTmhpQjUyaGFPSjJPZjc0R1BPRjlNZTdpVGUteUdPNm1JSGl0Q2Y3T0JoUHhQejJTSGhXbEU0bG5ocTNFWUVrWGlUd21QOVhDUlhQbldIcy1HMGpSNmtuOVItYS1jU3FUTE9YOC1mMk1DYUpsYWw4ZnVoeGVwQ2l3azh0QQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-08T17:27:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Detienen a ‘R2’ en Zapopan: Lo vinculan con el asesinato de Carlos Manzo El Financiero",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f184979a65d3068f"
+ },
+ {
+  "titulo": "Investigan a tres policías por la muerte de Aranza en Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2pJMTJ4YjNkNFpwUmttMm8wRHctQXBKRV92LUJHanh1dExYYUUxSGZER0pSdzl5bGppNm9LV3VueWlHNnNhaXdNLUpYeVQwYmk3VlNmMDB6eFBaeXBJcTdNSFVXTDhxSHIyQW9FeXh0emZLdXh6YjJZdE45NnNYZ2E0Qzk5eU5tUkFRWlBUR1VYeV9nNnVjRTg1UkZBZjcweGloMXJHbTVEUHJTdTJOcGpn?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T17:27:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Investigan a tres policías por la muerte de Aranza en Matamoros El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f0de7dc7a98d8fed"
+ },
+ {
+  "titulo": "Desmantelan narcolaboratorio en Puebla: aseguran 650 kilos de metanfetamina y caen 2 personas",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/8/desmantelan-narcolaboratorio-en-puebla-aseguran-650-kilos-de-metanfetamina-y-caen-2-personas-294878.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T17:25:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e6f6c1cfbe0a35fd"
+ },
+ {
+  "titulo": "Detienen a ‘R2’ y otras 19 personas tras enfrentamiento en Jalisco",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/8/detienen-a-r2-y-otras-19-personas-tras-enfrentamiento-en-jalisco-294875.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T17:24:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "53a5199f7a33a8b3"
+ },
+ {
+  "titulo": "Rescatan a hombre tras caer a tumba en panteón de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYTlCVTRjSHBCMFVCbl8zTUpiY3RYcGJGTk5venFEeU0wbkdhTC15QmZwMDhrbHNjLXRKV0dnS0pFTDhfTFViLVU4aGpoTThBOEJDbWF5MUk4T3ZaOVpkODdqamlkbzJkVVp3NjJVV21wTDBnUU9uckNBREVERV9oZ0N0NmkxcVZ0S3dFYXRWcUxEOVVZY2l2T2xkVTMtZw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T17:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Rescatan a hombre tras caer a tumba en panteón de Monterrey INFO7",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "871c07eed649ce15"
+ },
+ {
+  "titulo": "Despide Yuri su gira musical con emotivo concierto en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTZ1eXlTdW8yU3Exdi1lS25GYzVtUlZvb1RjbnVCVVNVZGpFU0NoYWxlSFR1ZV8zYkpkZm96SWNMS2QzQmxKQ040UEhVMU9VZVpHUUpnaTJrVW41dnNlZEN4V29CSmpZRWpSYTdYWTlyRmZaV2pjN1ZxVlZ3bEdhd2sweWh6RWJGM0lqNnlDbUx4SDVCVFo5RUZTZmlGYkNvRlhlWTJ4OFFHaWNsc0E?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T17:22:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Despide Yuri su gira musical con emotivo concierto en Monterrey El Horizonte",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ccedf4fb470baa05"
+ },
+ {
+  "titulo": "Dictan 50 años más de cárcel a 'El Mochaorejas'",
+  "liga": "https://www.elnorte.com/dictan-50-anos-mas-de-carcel-a-el-mochaorejas/ar3310691",
+  "medio": "El Norte",
+  "publicada": "2026-11-08T17:18:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Daniel Arizmendi, 'El Mochaorejas', recibe otra condena de 50 años y acumula más de 398 años de prisión en al menos siete sentencias.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "533703c33c9df250"
+ },
+ {
+  "titulo": "Ofrece Yuri espectáculo lleno de nostalgia y baile en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUy04U1FQY0tEQ25PbVpKV0xEdHVRUmYyWTZNb0VHU1VZYnI1MWdadEh2SjB2Q19IT092bWduTGRDUUp3blI5bkVHVDdUOHdfNV9zaXBZNDhnaW4zMEdaM2dBYk5hY09jdGhsbnp0NU5zR05MOUN4TUwzMnRUc0NzaDBoWUpyTTk3dldKNTI0ZlNkSExCUnNuM3dlbjFxWFEyTkRnclo1TUc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T17:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Ofrece Yuri espectáculo lleno de nostalgia y baile en Monterrey INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "51e0cb7f5c0d72c5"
+ },
+ {
+  "titulo": "ITB Américas llega por primera vez al continente y tendrá como sede a Guadalajara",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFFXMXJKV18xWEdNMmJYWEtWeTBtNkxiaWtRaTViVmlvS2NmYlpzZVBwb3hzV25QU3hTdjFmZXJRNnFURTFRRjNMUVd3aXNSTThmWXdiUkw5VjhETzBpY1pyTnBjWW5aWF9xR2otOGowR29uc0JzWGd0Z3RnTWZFWTlHYjhzNC00QXJvNXVpMHRDdzF3amdnYXp0aEZPV1VEMWtFNVd4amZ3bGZBMURJMEFlS0I4ejVhZVdnOEZsaWRHaHNtbVRURUtrNVpSdXhZWlpLcV9R?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-08T17:14:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "ITB Américas llega por primera vez al continente y tendrá como sede a Guadalajara Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c89c2bc7e84ad84f"
+ },
+ {
+  "titulo": "Luto en la TV: Muere actor de 'Dr. House' y 'Bones' a los 47 años; esto sabemos",
+  "liga": "https://abcnoticias.mx/show/2026/11/8/luto-en-la-tv-muere-actor-de-dr-house-y-bones-a-los-47-anos-esto-sabemos-294876.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T17:13:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "9f7ddebdbdcb9994"
+ },
+ {
+  "titulo": "INE ofrece alza del 6% y paquete de mejoras a personal de módulos, a horas del paro del 9 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYmpRS29GVVhsdVRqWlhCcnBJZDlvYUdXZVlxRkpSbVBlbVBHUXJEcU5rSk9rT3U4Q0hINWprUlRCR0xLalV5YzV1YlBqbU9UVlhSR1RBSmxUSWlXeFhNblU4eUxvSVRNdzRsaE9ZYTlaeUktWldaVUJVbmNtTVVET2s1aEJQOWJIdnlKM3FlWHBwbk5oek5RUHNhMnk5QVV4X1FSVHFVWjIyNGlXbmtHUmFRTWFvczBqa2ctcVhtTDZObTlNOWdnbjhJUlZRMWJlNFl6T2l1YWYzQ0REWjRVWHZLWGQ4aUNWenAtS3F6OA?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-08T17:12:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "INE ofrece alza del 6% y paquete de mejoras a personal de módulos, a horas del paro del 9 de noviembre Reporte Indigo",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "725ff07f3e0362c1"
+ },
+ {
+  "titulo": "New Orleans Saints vencen a Cleveland Browns 23-22",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblJoU1drbzR5TEhYWldxNHM4SVpmel9lNHVqYTZYWlZTOWN4LXI4R3d3cEdFLWpjNzdOdWUwQkVMTDFnU3ptUWJ2Qy1mYy1neHpfSm5SSWhfOFBTQkotMW1ick91c2p6ck9zS1ZuY0l0czVRcnYtaXRsdXVkeVI2OVFJQ2tJcWNLRVdmTHdiY1JNSEFzMG1yQmtvaUJhQQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T17:12:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "New Orleans Saints vencen a Cleveland Browns 23-22 El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ba8be6ea2998d467"
+ },
+ {
+  "titulo": "Dallas Cowboys remontan y vencen 27-23 a Indianapolis Colts",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXh5ZV90Y29uZGVjZnZiOGhEQVJFNXR4bW5TdUlGVnJvNmxLNElfVEZaLVc2bTJtRlFGUXdpb2FUQTR4c1Q1cnVwLXZfYzdCVFFpS2dMOWhLUHBiSWUtQnBkU0lXRl90YTd1Y19XSkVFLXVNZFRDWVN3S25WTThRdWxLckJENzItUTY0Tk1KTlZ0SmtWam1PLUZaUzQxeC1kcTZ3dGJFZi13dw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T17:12:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Dallas Cowboys remontan y vencen 27-23 a Indianapolis Colts El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b79def30d2561998"
+ },
+ {
+  "titulo": "Sentencian a 50 años de prisión a El Mochaorejas",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcE9ETkJObDlkX1ZYcE5FeTllQUpkV3VjTWtvUzRWWnJxMl90b1I0OFhuWGRKSzQ0ZlByYWlvMDlJbG1vTjNLN1VjTHBJNEg0LWlNYUxoMHVoSHVKdE42Yml1TGhFcFFXNnVmRDBMOG9Xa3htMHdlN3hzZVk5TE92LUVfblg4Q1NCMkJkeVJDQWZoR0JKLXVCWkdldkhxWnp3S1BuWXBEczFnY2JZb25BaHd5SQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-08T17:11:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Sentencian a 50 años de prisión a El Mochaorejas MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6ac1c9faaa9d294a"
+ },
+ {
+  "titulo": "Capturan a 'R2' junto a 19 personas en Zapopan, Jalisco: SSPC",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUF9HY3g5dzYwVlZFbFVuaXNQVHRzNkhIaGhoNWRZc1A2bzRscmdxZ044cjBkeHN4TzNJa0t5Y1pmV0VrZG55bmtuaXZPTkZIcU5XMGtxRElpdEMteW9oODFEOHh6SUw1VXYtSWh1Qzk4SHFNWkFubVktRF9pcm1oRWM2YnZPMWtqVHplWHo0a2JEZGg1ZzBCcWpn?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T17:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Capturan a 'R2' junto a 19 personas en Zapopan, Jalisco: SSPC INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "56a6ecff4465cf84"
+ },
+ {
+  "titulo": "Cae 'R2', líder de los 'Rs' junto a 19 personas en Jalisco: SSPC",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkNibGxsOVBILVBmX1ozck1LaGdlaHZBaTNTYmNhTjFxQnN0MU5NcXJvMHlTeVNXbnJvM3NpM1V6MVdmSXlDZHZlS1JGVFg5TVZEYVZHbWs3YkNlZUZ2MEdsQ0E2a2JjLUREcnJ0OW5YUjM3MTJYZlJfSzlnY0JHaDgwQjByRFVLaDVkWVpIWUNKYjlfR0Z3UXN3R3ZXc1VpVjBFYkd5Z3g?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T17:04:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Cae 'R2', líder de los 'Rs' junto a 19 personas en Jalisco: SSPC El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e524322c8683bdaf"
+ },
+ {
+  "titulo": "Realiza Medio Ambiente cuarta edición de ReciclaLeón en Monterrey",
+  "liga": "https://abcnoticias.mx/local/2026/11/8/realiza-medio-ambiente-cuarta-edicion-de-reciclaleon-en-monterrey-294868.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T17:03:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "ffd76705cb07513e"
+ },
+ {
+  "titulo": "Rescata PCNL a hombre que cayó seis metros dentro de una tumba en Monterrey",
+  "liga": "https://abcnoticias.mx/seguridad/2026/11/8/rescata-pcnl-a-hombre-que-cayo-seis-metros-dentro-de-una-tumba-en-monterrey-294873.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T17:02:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Movilidad",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "724353e06af84200"
+ },
+ {
+  "titulo": "Desmantelan laboratorio de metanfetamina en Atempan, Puebla",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWxfelRMa05FQTZrUFZ1a01kSE02S2VITHNHM1RhQ3lxUHZYdW80Zmtjb012b19JUW9IdExLdFNyZHBGMThFdGhSbXlsSXdyX1RsUWY4Q2I1aVd0Yk5mRmdROFBlVko1OE9SYXp5bTlGb0VXeHV4QktPY1hJY3N4a3pwTXZLa3MyQWNXZWJza1lJd0ZHR2pSZkYxaw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T17:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Desmantelan laboratorio de metanfetamina en Atempan, Puebla INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "65045d6dd3888e6d"
+ },
+ {
+  "titulo": "Realizará San Pedro Drive-Thru de vacunación en Auditorio San Pedro",
+  "liga": "https://horacero.com.mx/nuevo-leon/san-pedro-drive-thru-vacunacion",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-08T16:57:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Con el objetivo de acercar los servicios de salud a la comunidad y promover la prevención de enfermedades, el Municipio de San Pedro Garza García realizará una jornada de vacunación gratuita este lunes 9 de noviembre, en modalidad Drive-thru, en el estacionamiento del Auditorio S",
+  "temas": [
+   "Gobierno municipal",
+   "Salud"
+  ],
+  "local": true,
+  "id": "9fec89ec81b45cec"
+ },
+ {
+  "titulo": "Colosio Riojas dice que la presidencia es una posibilidad… pero paso a pasito",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXpteFo4RDZSYy1WWWM1VS1uWnlnR3JCRHpZRWZHVjZuTHdURjRkZUswRHk1V2JWTEtIYkQwR3lGVF8ySWl1TXJuRk9BZ3E5RFBqazRJSEZvZDM4cWJQTVlVWmlJYUVWQk8zSi1nd3pqUXVyakhMbVFPREs2QllEMXJWdFd0UGEzV3h1V2xId3Q5WHd5S0Joa1lxTDM4dnZWbmhySnc0THpfbnM1WFhCdkZpeDVfLVREVHBtaGVSMVNBVFo1ckk0WQ?oc=5",
+  "medio": "Publimetro México",
+  "publicada": "2026-11-08T16:54:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Colosio Riojas dice que la presidencia es una posibilidad… pero paso a pasito Publimetro México",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0571f1414492d4a0"
+ },
+ {
+  "titulo": "Álvarez Máynez pide a Samuel García responder a señalamientos de la ASF",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeE5SMjRjNUQ3RTFZUWFON2ZWSW5zMDMzLVZVUTVhbUZKcnNxLWxuZVpvV25nWWwzckVGUjd3WU1kakNfcTd0bUNQT0Q3eC11b2I0MXkxR0NNSDBDeVp2cUlkel9XZ2M5cHVnU3lTZVl5OGs5Q2RiLXppSEE0c0hqN1FUQS02ZkhyTTZfd2d0Y2tQRGpEOUs2blZhYTh3b19DRndXcU5ETDF5dmVKN0dUdkhfYUhTb2F4Ql9NMA?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-08T16:52:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Álvarez Máynez pide a Samuel García responder a señalamientos de la ASF El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1da84ae466d9c4df"
+ },
+ {
+  "titulo": "Cierran campamento de protesta por presos en Venezuela",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmJSb3prOHFBejRhaVZLVjdOUGtpNWFTemJBQ0lCZWNlQmpEME9lQlRhQS16QzJjcmtheHNuaUxycnZIZXd1bWdMRmRFdzl2b0NuaGxUeDkwQWJBcHZta1pkd3VUeE56RXZURldMOFRmN2ZITmFtSXRaNl9KMHJoT1NyM1BncVR2WUp0VlYtZ2ZrdVoyazdJVkVVbUc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T16:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Cierran campamento de protesta por presos en Venezuela INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3c65468c6c2959ad"
+ },
+ {
+  "titulo": "Lluvia y frío no frenan el paseo dominical en la Presa La Boca",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaW85SVU2QjhObEdjVnhTTHNjSDMtN1VuTnZLWUowY1Vuam5VUG93Z3c1NFU4TmM2UkQ1NzBkall0UzVQbHpUb1lRZHRJdmhIanRmcFA1TGRuU3ZSWUFfN2ZFdXl4dW5Md0dQb3VjLXdDRjdfVW1JUHlUYlhDS1JxQzR0S01pTVVtZGZDT0loZ2J1ODR6N01tbkY4cTU1Tmxub24wa1lVQXFzWElKS25EVWU4NA?oc=5",
+  "medio": "abcnoticias.mx",
+  "publicada": "2026-11-08T16:50:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Lluvia y frío no frenan el paseo dominical en la Presa La Boca abcnoticias.mx",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "1635a5852bf41c72"
+ },
+ {
+  "titulo": "IPN rompe récord de patentes en México: registra 73 títulos durante 2025",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUFzNGNqaTJMLXFVWHhxTWtHTDRYaDR6Wmw1X2lvNVhnMVZzckpNYnBCRW5rZldiejVJVmduMDZlZ016N0VZWXVSV3k4YUxqaEZwZHVPZHJRM1NPWlFjLVF0MEhBVV9NSzlFWVFlTjhSYXlOYmd5U0Z3OGVVa3d4UmRkSENDa1Z6WTJpd2RsY1BfemJ5bzV4eE1sM2RyR09jejFGZnBSQThQbDUwbW1ZZ08tYzh1aUZ2SlVWdVFES2lUb0FadnZRQw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-08T16:48:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "IPN rompe récord de patentes en México: registra 73 títulos durante 2025 Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "55b043f6cbbc1a90"
+ },
+ {
+  "titulo": "Llega Liz Galicia hasta la cocina de simpatizantes y militancia de la 4T",
+  "liga": "https://horacero.com.mx/nuevo-leon/liz-galicia-hasta-la-cocina",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-08T16:48:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Elizabeth \"Liz\" Galicia Ruiz, aspirante a la Coordinación Municipal de los Comités de Defensa de la Transformación y Soberanía Nacional en Santa Catarina, continúa teniendo acercamiento en recorridos con militancia y simpatizantes de la 4T, donde prácticamente ha llegado hasta la",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "cd2c7eaaba861f4d"
+ },
+ {
+  "titulo": "Eliminado de ‘Exatlón México’ HOY: ¿A qué hora y dónde ver en vivo el reality show?",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWxqQlhRLTZfdWt6UFAtZzFrR29hMlFpdllKMmZjcFpmQm51emJ1NWs4VmdBWF8zaFpEZEkzY0dxOWJqWnUyelN0bGhfbkJlVG1kYWF6VmRmeTVsZkNBcWp0eE9ScDV3SUlKRWxONFVVUXhjUHZjNFp4RkZzNlM4eHE1NTVodVhuVXkzUjNacFplZ2NBWTlVQWNpY1NtalB3Wm4yUnNJeklHaU0?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-08T16:47:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Eliminado de ‘Exatlón México’ HOY: ¿A qué hora y dónde ver en vivo el reality show? El Financiero",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "8dc842e574785cd6"
+ },
+ {
+  "titulo": "Celebran con ‘Trote Lechuza 5K’ el 52 aniversario de la primera Cátedra de Criminología de FACDyC",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/8/celebran-con-trote-lechuza-5k-el-52-aniversario-de-la-primera-catedra-de-criminologia-de-facdyc-294871.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T16:47:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "57aa7937b233a835"
+ },
+ {
+  "titulo": "Salvan paramédicos a bebé recién nacido en Michoacán",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUdGT1d6bi1zZzl2dW9lZ3NSTS1HeFF0cWNyaG15V1dCNHljbU4xdjRfZW1UYVdUb3YxUW5lSkRlaEo3bzJIVW1YNENfWWx2eG9oNnJaenhUZ1lCNUp2a0lJbTBqaHk1a2trdjd1ZXA1M253Ql9NZlpWRlQ5b2JZc3ZzMkJJVTdOa0ItUk1UeXoyQms?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T16:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Salvan paramédicos a bebé recién nacido en Michoacán INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "03cef6d3038547bb"
+ },
+ {
+  "titulo": "Barcelona remonta al Atlético con doblete de Fermín López",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcktMVlpHenQ0ektZV3R2TVVDVzNlM3lreV9GNVNWNkpOaDJ4WDdYS0dqcGt3YlJ3RVJJOWxTM2FTdFRPTEVVaE5pT1Flc0NwOHJMZEp0UzhITnJsYkdyUmtiMkZ4MjRDMzhMaGQ3bmYwQlIxQmFTblRPWlVFOFJUZ09TZEI3cTBhcldOSndnaURRMVFSZWRXRW93?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T16:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Barcelona remonta al Atlético con doblete de Fermín López INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d98abd6756a8f0ee"
+ },
+ {
+  "titulo": "Movimiento Ciudadano definirá candidato a la gubernatura de Nuevo León el 12 de diciembre",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUtDSHp0ckdpTXM4eDJQTlVWMnI1c1JPTVBXNXJETmFlZldTVWVYcjVOZnZUVHFCU3Y1aW5LaXRvUmdDd0FwenNtWlQwMnh5ZzhNaUowYUlKNkRLaFFXTDFwREtsSGxxdk00VWZUVFN6dHhLRmhIcTJ2TVFobkIwX0ZFNFVTd2ZOc0loWjhQN25VSXNURThEVDExVThrRllJNDE3TtIBpAFBVV95cUxNTDVRdmotaDZYV2JxbGdOakc2Q2lPanFCZnlobHNQZVNoMFlrOTJNVWJocWFaaUEtbklpbElYM1VpbFE4dGpnaks5QVZxZm85OXFFNl9WNzZUcnhoUnI1Q2MxLXFJTUFZaUdDbWUtSUZGLUhwdkZYTzVWd3k3aXJBZVFEWU82SmF6b1VRdE5MejZxRjNuem1UWWVySFBOXzVjUUptMw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-08T16:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Movimiento Ciudadano definirá candidato a la gubernatura de Nuevo León el 12 de diciembre Telediario",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1ee6818cb3a8c9db"
+ },
+ {
+  "titulo": "Visita Liz Galicia hogares de simpatizantes de la 4T en Santa Catarina",
+  "liga": "https://abcnoticias.mx/local/2026/11/8/visita-liz-galicia-hogares-de-simpatizantes-de-la-4t-en-santa-catarina-294870.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T16:43:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9e7cf81adbb909d2"
+ },
+ {
+  "titulo": "Patrick Mahomes sufre lesión en el brazo derecho durante el Chiefs vs. Jets de la NFL | VIDEO",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/8/patrick-mahomes-sufre-lesion-en-el-brazo-derecho-durante-el-chiefs-vs-jets-de-la-nfl-video-294866.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T16:42:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "2d16b1e4654af7fd"
+ },
+ {
+  "titulo": "Sorprende Carlos Vives con dueto junto a Juan Luis Guerra en Perú",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWJTQXY5TThtbW5rQzB3QTVoZW9VdWt3Y0JTLS1adGdjVlJfNnFBQm9ISTl2TkRoTm0xb0llSi1BQVBmV1N4bTZFbFpwVmV3VTFsOUNOUUF4VGlqOVZLM2Y1RGtLSW5aV3p4UmtEN0RHLV9ZRDhwMUV0VjIzQ2xPZTFDcDAteGNSUHdROHl3Yk4yT21UWGZHT1BaN18zaGJfNFJ1NHBxWW5sQQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T16:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Sorprende Carlos Vives con dueto junto a Juan Luis Guerra en Perú INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ec3a34b06a5555c7"
+ },
+ {
+  "titulo": "Rescatan a hombre que cayó a una tumba de 6 metros en panteón de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZldnRWhSZHdzbDhfdzB4ajZMZEEyWWpnTHdlVEFVM3d0bW9GdUp0VmtrRlZkRDhMWVJJb3FLNFVBNkFBUWcwVUlrV3d5YURiaEtyT3lURlNHU1lsMU9ZQ1BqdEhQYXVYMVJRX09BZ2tXMkMtei1rcjJkeEVjT0ZfRVpjT0xvMmc5UHZVM09pU01tLTBXOVl3aUdYMnV6YUhUdXFmNlJyZVlJbEUwd25zMWdOSFFmQTNTTFE?oc=5",
+  "medio": "Quadratín Nuevo León",
+  "publicada": "2026-11-08T16:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Rescatan a hombre que cayó a una tumba de 6 metros en panteón de Monterrey Quadratín Nuevo León",
+  "temas": [
+   "Cultura y tradiciones",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "66a0a5ea576523a3"
+ },
+ {
   "titulo": "Plantea Colosio ampliar facultades y presupuesto para municipios",
   "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkxXSmFGVnI1NnJHMDltUWgxVTg3aGY2M084bTdjUmcyWjBFNE9aekNDV0lGeWh1NHZBcXg4RzVZOUl6Y01wUk1ZMmlodEdRZFM5WVBnRmNUQjMtZ0VFeEkxbTV6ZVg3UzNjYjhGMWk2NjlRSG0zQ2FOeHhnOFVmWkxXUi1pSXI0dTNhR1lyQkJLd3VDV0NYSWNLczNWLVAxdzMzTjNwWWtfYUt5YXMxb2xn?oc=5",
   "medio": "El Horizonte",
@@ -15,6 +607,20 @@
   "id": "ffb8185a1aec8dcb"
  },
  {
+  "titulo": "Remonta Max Verstappen del puesto 21 al podio en Brasil",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQjlJZEhvcGlnU2NveGJhMWRLWGhfQVJnWWgxNWZrUm5QM0Z2eGF6T01RdlV0M2t2b0d1eTlwMm5CX3NPMUl6ZVNrZ3B5VF9BN2lmb21xUWxLMFFqZlJPbmtBUW1WXzJ2V0tTQXlMTjU2YkZGcUFNNzhsLVNxUUFXeTNuM0tDbFNQOUQ0Y0tOeEdzaGFvVm9z?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T16:36:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Remonta Max Verstappen del puesto 21 al podio en Brasil INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "d8be26c49ab1697e"
+ },
+ {
   "titulo": "Sótano se incendia por corto circuito en Nuevo León; se descartan personas lesionadas o intoxicadas https://mile.io/4z9Bhgf",
   "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNkgteFhURk91S2RET21CYnlhRkhsUFpxQVVwRDZxOVNqenlvR2J2cmJvWThGTTFlalBWZ18ydlg2eklrbHhpU3UxNDJhOE4xR1R6LWJJa0k1dTFjMDI0UXh2cGZYSmJVUUxVNnJIRzFYSUhrVUhvVzNBaWRrTXJmVmtyRUtQTTE3Rlg4dFpxR2VnZjBtMDdEVTJGSXl4aF9sOGRTdHhuWl91REp2OVhVLTRTTFhZYUtnaTlRNTg0aDl5aFc3WU5QV3U2cjE0aWJBVzUtckNwdkJidDI1NXpMRm1EbHpzRFd5?oc=5",
   "medio": "Facebook",
@@ -27,6 +633,20 @@
   ],
   "local": true,
   "id": "4ee24f73e3c2c889"
+ },
+ {
+  "titulo": "'Del norte no me van a mover', afirma Colosio; no aclara si va por Sonora o NL",
+  "liga": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RMUhoMlpFWUVrTmYtTFlNMHlhdHdUdGtJWnh0ZFU3N2JETkZMandITFZxd05nWDBLZENWSU13R3R1SWMzdFUyZUI2TFI1a3RFM1dsZER6NTR2UEQ4UC1EUmM1cHJjTTJQdko2RlYzU295N0ppaFJUV3ZyWTJWQdIBfkFVX3lxTE1RdjVvUEJ0cmtBd1gyR1d2a3VjVV9QaERFZC1MTmhSR01maExXNEpMbHU0MW5hUC1mN3Z1bF9mY2VCdEVNc1pGOXMzTkJxZHhDN3VSbjh4d1VULUhqUHU1Sk5kR1ZpeS05Ym9KNlhfVkFnMXgtU2xmWjNEVXM2dw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-08T16:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "'Del norte no me van a mover', afirma Colosio; no aclara si va por Sonora o NL MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dfc2a26017e89e56"
  },
  {
   "titulo": "Policía de Monterrey detiene a 2 tras riña en una taquería donde el saldo fue de dos muertos",
@@ -139,6 +759,20 @@
   ],
   "local": false,
   "id": "f4254ccd3cfd26d0"
+ },
+ {
+  "titulo": "Detienen al 'R2' en Jalisco y a otros 19 ligados al CJNG",
+  "liga": "https://www.elnorte.com/detienen-al-r2-en-jalisco-y-a-otros-19-ligados-al-cjng/ar3310662",
+  "medio": "El Norte",
+  "publicada": "2026-11-08T16:23:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Rafael Álvarez, R2, líder de una célula ligada al CJNG y buscado por EU, es detenido en Jalisco, junto con otros 19 criminales.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "84502aee9de3017d"
  },
  {
   "titulo": "Tras casi 40 años, un papa vuelve a Argentina: así fue la llegada de León XIV",
@@ -1816,6 +2450,22 @@
   "id": "0a6bebee062ca5cc"
  },
  {
+  "titulo": "Procesan a dos hombres por robo a transporte público en la autopista México-Puebla",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1lQalFSTW95dHR2ZDM3QkRRM0RhWjE2bnh1OGVzcFZqNkU5b3hlSldTSmRfZjhBTzRoUXI0dTZhbTN6T0g0a2ZSdXpaMDdsMFVqaUNrZjM2T1dERXlwQlB3dl9hbmJBdkRKTEFTa21DRVoyTktGT2F4V2pMb3MzYVFsaWZscW9HMDBqNUk4Qy1Ga2RaQldUb2lRbU1zb3p6TmfSAaIBQVVfeXFMTXNibzVkRFowRVo2MFBoNm9PbkE5U1MxdzRvODZtdnpwZ0cxd1lRZ0dkYnY1eWVRZE1BOFZWakRoX3RhM2Y0RWFJMDNVb19YeThFZnV5d3BfaWZtd2xma3RPU0x6amZZNkZvNmZNUTNJVk03X2xsdkI4S3plR255UjZzZEdScEFzV3dyX2RyaTdxcHFxRFhwa3NVazRzdnVTYUdB?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-08T13:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Procesan a dos hombres por robo a transporte público en la autopista México-Puebla MILENIO",
+  "temas": [
+   "Seguridad",
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "5acef0a94a8c50bf"
+ },
+ {
   "titulo": "Manuel Turizo pone su propio ritmo al partido de la NFL en Madrid",
   "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JlN29wZnRnYW1VQ0VnU2Z4bzRCdVFnQi16N3FlTmI5d1dfMDlhUXkwSjJacFVWOGJ5VTBOd3dBUlY0R25sTkZkYTJMN3NEbFpPNFV4OUFLUzJvSU1vY2RpMEI5YWN2S1NrTVU4b2FBaFE2Z3g1YzlGN3BwRGZRZG5vV0tiOUhnTDhuMm5mNF84S3BLcHFpNndJaFhZSXVfRTFhMUFmVUcycnJIY29r?oc=5",
   "medio": "El Horizonte",
@@ -2535,6 +3185,20 @@
   ],
   "local": false,
   "id": "4ffe34eef42cd5d9"
+ },
+ {
+  "titulo": "Monterrey inicia Jornadas de Vacunación 2026 en Plaza Zaragoza",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXhoSFJDbW11VnZzZVBkeVMyNjNYSzBmOUtxSDlBNmJOUk5Qc2JjcjNORmxSdVo4TnkxOTdBS2VjLXhGRHhlRGNuZGlVa1oxQkl4ZERaRElWOVlLMXRHQ2NDQXoxUDVBNDk3YTMxQkpKdS1LQ1B0ckV1TTdNY25EVE5UOHh5RmVkenNpaE9ENklMNjhlTkJudTE2YUtiZTNlbWpPVkVlbU1yblJPbF9F?oc=5",
+  "medio": "sdpnoticias",
+  "publicada": "2026-11-08T12:22:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T17:38:52-06:00",
+  "resumen": "Monterrey inicia Jornadas de Vacunación 2026 en Plaza Zaragoza sdpnoticias",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "e3055b1e1c72162b"
  },
  {
   "titulo": "Lluvias provocan inundaciones en Matamoros; caen 4 pulgadas",
