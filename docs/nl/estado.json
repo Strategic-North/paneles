@@ -1,12 +1,12 @@
 {
  "panel": "Nuevo León",
- "actualizado": "2026-11-07T19:02-06:00",
- "corte": "2026-11-07",
+ "actualizado": "2026-11-07T20:04-06:00",
+ "corte": "2026-11-08",
  "ventana": [
-  "2026-11-06T20:00-06:00",
-  "2026-11-07T20:00-06:00"
+  "2026-11-07T20:00-06:00",
+  "2026-11-08T20:00-06:00"
  ],
- "total": 507,
+ "total": 0,
  "fuentes": [
   {
    "fuente": "El Norte",
@@ -21,7 +21,7 @@
   {
    "fuente": "ABC Noticias",
    "ok": true,
-   "notas": 139
+   "notas": 140
   },
   {
    "fuente": "Posta",
@@ -55,38 +55,38 @@
   },
   {
    "fuente": "Google News: \"Nuevo León\"",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:milenio.com Monterrey",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:info7.mx",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:elhorizonte.mx",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:telediario.mx Monterrey",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:elfinanciero.com.mx Monterrey",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:reporteindigo.com Monterrey",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "notas": 100
   }
  ]
 }
