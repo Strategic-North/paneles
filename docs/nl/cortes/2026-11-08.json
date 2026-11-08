@@ -1,5 +1,401 @@
 [
  {
+  "titulo": "Herzog encarga a Eisenkot formar el próximo Gobierno de Israel",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEVrNVlJejFaUmlCX213cVo0MklUb0h0ZVFnSkx3UXRReEktQmRvUzBZLTdUU0duRXVQRkJLUXVmYTZqLThpUTNfTkFISi1KNWd5YjRTYW9EOTk2YWNvblV1clV5NHhUMzdqZzYwTmtWeno3cDZ5RW9KaENhQ2s2Q1hfZVlaTWltaUxwazNzaUx6LWh0S1ItSm1KT0ZWRkxQLUdYd0FxYw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T10:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Herzog encarga a Eisenkot formar el próximo Gobierno de Israel INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dea488fc6cda2cca"
+ },
+ {
+  "titulo": "Choque en Montemorelos deja dos muertos; identifican a las víctimas",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkdFeVAzTGdkOFFhdDhWeXFhZVpuWVQ2NTU3YlNjX0l5cHZnbTlBSER0Ny1rekZfSFF3VjMtbUZwMll5RzhoQjZoM0RXVFZ5OTcwVmRPTTJ1dWhUdVoxcnZnLWdXVmxnR3pCSlU5eFZaMkxIb2pDZnktUnRocFVNSXZKeGRsLU9vQUN4R29STGZFVFVLQ0dzV3hTbm9QeUxjaEpDbDFLMlVBUVNJaWpsUmg2SG5xOWZTTkVxQXVRd3E?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-08T10:29:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Choque en Montemorelos deja dos muertos; identifican a las víctimas MVS Noticias",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "7a073615eaf24ab4"
+ },
+ {
+  "titulo": "¿Qué hay detrás del freno a la producción de la Cybertruck de Tesla?",
+  "liga": "https://abcnoticias.mx/negocios/2026/11/8/que-hay-detras-del-freno-a-la-produccion-de-la-cybertruck-de-tesla-294827.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T10:28:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "092338b57897b1e9"
+ },
+ {
+  "titulo": "NFL en Madrid: Rinden homenaje a selecciones campeonas de España y víctimas de accidente ferroviario",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/8/nfl-en-madrid-rinden-homenaje-a-selecciones-campeonas-de-espana-y-victimas-de-accidente-ferroviario-294828.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T10:23:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ee0dde176d457c71"
+ },
+ {
+  "titulo": "Detienen a futbolista de Colo Colo tras accidente automovilístico",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1lLY1dVallYOU5obTFqZTV1cFZRYXUzVldKSWxOLTAxbnFIXzBzMWt4WEs1d3J3M3NoNmE3d09fVmpwVjAwanlnV0lVX2UyaFNUVTQ1Um1WV2c3SkNtTDl3d1hxX0tmaFQ0UUJzcXVLdG83dk5TSXBwbFM4VlVmVnh5OEU4Y1oybmVNRTNqMVZDTlQxcUd4UGxMQlhhTlVnT3VVSA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T10:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Detienen a futbolista de Colo Colo tras accidente automovilístico INFO7",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "4ba5e5d7a110ef13"
+ },
+ {
+  "titulo": "Vinculan elemento de Guardia Nacional por feminicidio en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZG0xdUJWelpGenFEWldkSE5XbHhQR1J4UWRMbURrY2haOU9EY1dKbHpfWFlON1JvcU5zc0FBWVZzZUEzU2s4Q3ZlVGhCM09QYXJFSVFIdVUyWFlXSXdYdy1GSVowNVVXVWl2WHd3SVVBMmtEMFZsV2tjYi00TGQyc0hHYUlhcU0yTFRFQzVsa1ZOa0FGYjN2Y3N4MEVRZl95YkdtQlUyblloZDJndkRWcw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T10:21:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Vinculan elemento de Guardia Nacional por feminicidio en Sinaloa El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c41369ba35e9f109"
+ },
+ {
+  "titulo": "Rusia ataca equipos de rescate en Ucrania y deja 50 desaparecidos",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWhvbTVISTFUTE1EeVhzOHMzWFR5X1Y1V242RnJicTVvak1ORjJyTkV5VWlrWDVEejQwWG5hUDN4LUlCM18yN1pKbnlJTGFSb3ZEYVp6a212TVc3WlFROWYzLXU4UllJSmVPQmJRU1hvMWo5V3dkOUJCdUpITEVaYnVDd3FJUmtZZlBMWUcwc2dPMUtHMmxmbzJQVTg3V0lrZWtaLTdUS0gyNmNOY3pmYjFVdDU5OWg5?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T10:19:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Rusia ataca equipos de rescate en Ucrania y deja 50 desaparecidos El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ae93df1841ae7c41"
+ },
+ {
+  "titulo": "Acuerdan evaluaciones no punitivas en el Poder Judicial",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0pJZDQ3b0F4dGhlYkJrbjFLbHhwUmdpMklTNmw4WXhPN0ZJSFhLNmlmb0ZMTFhCanJxUEZNLTFLR2pnakdENEFXQks0SC1iOUZ6WGlvUEpCQU95aEpQaVg3Y3ZBei1BUnRyTzE2OU1LbEppekFuUjVway1PX25DV1BVLWRIa05GN0syRWRXNy1FZ193bExGbERXNU1QaTBxZjhRSTM2aE5ZbUtVMUxR?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-08T10:19:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Acuerdan evaluaciones no punitivas en el Poder Judicial MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d85c450def329124"
+ },
+ {
+  "titulo": "Horóscopo semanal: predicciones en el amor, dinero y trabajo del 9 al 15 de noviembre",
+  "liga": "https://abcnoticias.mx/tendencia/2026/11/8/horoscopo-semanal-predicciones-en-el-amor-dinero-y-trabajo-del-9-al-15-de-noviembre-294824.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T10:18:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d68cb6238da44e97"
+ },
+ {
+  "titulo": "La La Love You lleva a sus fans a un viaje intergaláctico en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFluUS1ISW14U2JzTHp2S2NFTXRWVmFzTENwaDhQemt4ZklxNWUzTFlCaWZmVDhsWUlYZ3FWMXZGT01DNnI0aEdxU0VSd3RKMjdXUlRlZl9abGFjb0pYYmVfM2d2aTdTSklkVGJMSkZwM2I2bzRjbEhxbTdIWHNNUHhibGZBemx1NC1kTVJNbGZXYU1DaEHSAZYBQVVfeXFMT0FvczhOM1Q0VTBwcWdfNDRYVUZUaktCdXN1TmlTbUJITjNNc2FCTjZ6MzdmZGhBLXNPbVFfLU5SaFV2YU1EYzJLU2ZsdDdBZ0UxSFpvci1xbklnOHlaRDhJNV83V1l4cDctTjhXdm1Xa0lrWmkyOU9KaWRpQXNPNm96X2hJT0dfRUdZb09ONjYteVZESWd3?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-08T10:13:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "La La Love You lleva a sus fans a un viaje intergaláctico en Monterrey Telediario",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fbba69dcfbac73ad"
+ },
+ {
+  "titulo": "Desaparece adulto mayor de 93 años en Pesquería, NL; piden ayuda para localizarlo",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2pwZU93MFVERlMyZmNCODJQTWNCQWxrRjhwM0Ryd2k5NWZkV3JFZTFaOXdkRHlSQllhbjUxdnNqMU1XQ1hfSkdXQVpqTV8zRDlSY2dlYU10Z1BnRHlNZ1Jsc0preXVrVVNxbU1TQmtqM004MkdIeVhmVDhfdnRraWhYOE1SblM1UTB4NkFpM0hLQTFjYlJtYtIBmAFBVV95cUxPMjBIVkJqMzZXUnVvMFNkTmJ6QUxad196bTgyamx2czNvWGhFbmptMlVsRk5KcFJNYXNfbUgwVUNjUnl1WFNkWUtacUQ5OThDRWFWZnVZYjg5b2dIRXNUWlgyWFZpb1gxQ1lGR09valIwWktVb01IWm4xd1ZqSzlXTWpDQnR3elJBMERiU1lsS3ZsZWg5Uld1aQ?oc=5",
+  "medio": "MILENIO",
+  "publicada": "2026-11-08T10:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Desaparece adulto mayor de 93 años en Pesquería, NL; piden ayuda para localizarlo MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7fb182c3455a075c"
+ },
+ {
+  "titulo": "Premian a tres jóvenes con Medalla al Mérito de la Juventud Regia",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWI1ZHBDN2Y5RXJTM1oycGxpU0w1TWpoWHp3TlRGelJiaU9nSlF1VGFTQVd0a3VHLW4xc3lpZU9GaUNpLTVYYldIRmw5emkzSUlDb3VtSVJQSERMM3hrblYyaHNIaXBmb25ncEMtSjJvR1h0M3pCVXA5bXhUamtYT214TGV0eS16cGpGZWR2a1F1ZmdRY0tXdE5kN0phUlZUd1FFN3BWVVpTeTRlZTNucFNmWQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T10:06:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Premian a tres jóvenes con Medalla al Mérito de la Juventud Regia El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ebc0857769690983"
+ },
+ {
+  "titulo": "Detienen a un hombre por amenazas al papa León XIV en Argentina",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NQSVNIa2RrY2lHX1Z2ZFlBUWZTNy1yWS1vLW5qekkyUUVpa01XZUxWdzd5c09pMWlZUmhGRlFsUmZoMk1TTS1hdGFocTgxdThHVjEzNzJrd0pHdXFGNURUQUo2VHBtVnhfNzBoU3JQQ2UtNGJMLWItV1R1THEwVWtWVV9SVTRMVlpyUTVZbFQwNnRIamZlS2JKR1I1VjFQSklPd2xzOU8?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T10:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Detienen a un hombre por amenazas al papa León XIV en Argentina INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "bf7f0fe7ba34bbe2"
+ },
+ {
+  "titulo": "Felipe Canales impulsa asambleas informativas en Escobedo",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGNaRThodEFfRnlvMkVQSWljVXZ4LWRONU9WM1MtVVVQRlA4X3FCTzB2XzBKa1dkdklzY2FQdHhhRktaOHczTVVXMk5Yc3FEVDYtWVo0a0UxNlFnM2I4c25zTkNBVHhqSHpJRURneW8wSFlHVVRoZUJwdC1UWU5vMGtleVh0RHo5WWNiQnd4bUw2b2I0OHdLWmR4UFZfdUFiTXBYb1Rqbk4?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T10:01:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Felipe Canales impulsa asambleas informativas en Escobedo El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3c16256801013a70"
+ },
+ {
+  "titulo": "Monterrey premia jóvenes con Medalla al Mérito de Juventud Regia",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTdrUEtvSVNfd1BvT0JMeFlDSkp0Q0U0ajQ0NWV1TUlkYlB0c3A1eEdEQk9VY045LS1DcUFtSFFDaFpnNUVmOGVmMldxbG1GTG9kYzFYemRPMDV6SnBBVy1ld09oeURYbWNGd0VpSmVnbUp3WXl3WExZT3V3NGh4WTV0angwcXZpUWlZTkhnNzEyREc5ZFg4SGJmY3NQMC1qUUVxTg?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T10:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Monterrey premia jóvenes con Medalla al Mérito de Juventud Regia INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "04573309c8eae9fa"
+ },
+ {
+  "titulo": "Guadalupe Nos Mueve: ¿cuál es el recorrido de las nuevas rutas Morada y Amarilla para estudiantes?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/guadalupe-nos-mueve-cual-es-el-recorrido-de-las-nuevas-rutas-morada-y-amarilla-para-estudiantes/vl2276556",
+  "medio": "Posta",
+  "publicada": "2026-11-08T10:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "6a04df82f372a405"
+ },
+ {
+  "titulo": "Andrés Mijes lleva Feria de la Paz a familias de Lomas de Aztlán",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUwyOVRkODl3dUJ4M2NTMENRc0RRdGMtdUV4RVhEeXBRMm00dHZiRF9IN3dYWFpWTUpEV1FHdUxqLWZPVE9GUW5sUl9MeFZBVHEyUWZMc3Y0bFVONEdMTmdBRVF5ZXhjaTNERkRsYWZsa3hRTGM2bFZxcG9MbnVMSTRYZmhGZTdPN1pPZFBXaGJLREpGYVQ2SXl6NjloZjk0SEVYNGMyeGZ0QklTdEFTRDRR?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T09:56:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Andrés Mijes lleva Feria de la Paz a familias de Lomas de Aztlán El Horizonte",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "b9b8c9027dae7d8f"
+ },
+ {
+  "titulo": "Felipe Canales promueve participación ciudadana en Escobedo",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXUzcVdGbXdZUEg0eUhOTTdwTWtpTjZyU0VFLUZDX3lXLS1XWWJRR3RyWnl4OHlwVDY5VV9PeUV2TDhLUFN1NW5IRUF3OWtEOFU2dHpFWVctZEFYQ05fU19GQzUwd041cm5ua2tpeHlRYkFndTFnSlEzUE1GYnN1Rmw5eEdwN0JpVHBZNzY0SmtvNWZvVGthVmpNOWV6UQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T09:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Felipe Canales promueve participación ciudadana en Escobedo INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8defbdd8a0f9078d"
+ },
+ {
+  "titulo": "Abre FROC de NL sus puertas a todos los partidos políticos",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWR5ZU84elRFSDFMdm9SRUxpMXg1MEVWRGNBWXlvVWpHeWJRVHRidnlBU1NfRlZsSndmLUk3WVVKTVA3SjdITUwtYnZKNkVzLWtXeS0wVUU4NmZmZ1k4OFpYX3ZjeFNrS2JtZ2c3aTFCc0FzNnVMWUFhVzZmR0FnbWFTODF3NzMxMm1IQlBNQQ?oc=5",
+  "medio": "Detona, Real News",
+  "publicada": "2026-11-08T09:51:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Abre FROC de NL sus puertas a todos los partidos políticos Detona, Real News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2d2e94fef6a5bbe2"
+ },
+ {
+  "titulo": "Incautan más de 33 mil “Artículos Apócrifos” en la Aduana de Lázaro Cárdenas, Michoacán",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVzdtYWVMY3dMeEtwbTU2WFFscWtOT2JhS3pvTElnOF9aeXpJTG1mc3d3eUsxSzZyejlmaExWVUg2V3R2ZUdjbGVpMkZKNVZVM1pZbGQ5Skd5OEN0Nk9iVGF5Q2ZNZlZGUERRaG9nZzFLbWh3elJHdl8yV2RKUzNtMENEZkVJcldWTHRVY0ZYSlN4UWVib2Q3Z285SVpxZzhDeldNajc5UXVYTzVUd2xkekNmVjFwQlg2Z2tYTVFhbTZHSkhKZUdIbVNZNGpIYmEyOXVFWVVFV1NCZw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-08T09:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Incautan más de 33 mil “Artículos Apócrifos” en la Aduana de Lázaro Cárdenas, Michoacán Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "593e9a5e2410db4e"
+ },
+ {
+  "titulo": "Escobedo lleva Feria de la Paz a familias de Lomas de Aztlán",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFctek5WLWQ5Q0lveE4zUGpuTm1FaE9kbTlEVHVUR05DVXF0THV3eU1zSGpVLXlBQnlBY01Lb1VtME9UeEpPdkFMNHoyNWlQSkFQaU9DTUZyekNScTh1cWhBWXVSR3VWZTBmQ3RSUXlMZFhXTkZfbGQ1ZndIX2k4aVFSNWxLX2xhS0l5bjRhUElrbmlQYmNnWWF6RWxHcE0?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T09:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Escobedo lleva Feria de la Paz a familias de Lomas de Aztlán INFO7",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "c9c3395a1ac15e54"
+ },
+ {
+  "titulo": "Camión pierde el control, sube a camellón y derriba poste en la Carretera Nacional en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWFFS2NDSk5rSDJhYjhUTHM1SFphdnJFaEl0d3NvNXZlMEpMMGVoY1JrT2FYcjJoMWRIWEJaQzJjemcxVmoyTmpmWnEyZW9lOTRDUmlFTTUtZTRMc25SalV0bEZHS2czaVBBSDdlaEFCU2xRRmhmV0pVdkxqLWxHU1FXQ2lKWTZuZ2dFLdIBjAFBVV95cUxPSkMtWHR2R1Bwa255ekxVbF81bFZNdEJCcGVyQXdYRjNLcUJhY0lNTEg3T2dOM19oQjlHS2RhVEFEanItUG5CdExuWW1OYUZyUkRhR2YyTGRTa0U0czVia2x6N3hHd1RXTWg1YW1rcWdLV19JTTAxLTRaTmMwM0diOWpLaDFUTXN5dDg2TA?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-08T09:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Camión pierde el control, sube a camellón y derriba poste en la Carretera Nacional en Monterrey Telediario",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "3e58630998ca7cfc"
+ },
+ {
+  "titulo": "Deja al menos 4 muertos colisión de trenes en Egipto",
+  "liga": "https://www.elnorte.com/deja-al-menos-4-muertos-colision-de-trenes-en-egipto/ar3310515",
+  "medio": "El Norte",
+  "publicada": "2026-11-08T09:46:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Dos trenes colisionan al sur de El Cairo, Egipto, y provocan descarrilamiento de vagones y un saldo de al menos 4 muertos y 88 heridos.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "31ae20a63361e2dd"
+ },
+ {
+  "titulo": "Buscan alcalde de Río Bravo; coordinan acciones con otros estados",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVBjaFZPaEtXXzlWd0pLUFRsQmtsNGlkdjVfLVo2Vk1hckJnblhZM251bDdJam5yWHdaUWVzcTJvbHJ4V3dPN0NmMHpteGRHaUp2QktDQnJqanZodjdhczlKTS0yc2lJN0hCSkVjNDVCdHNBQTFHVm5wdUNYSjBRUk12S25QbFAyMDNKUjhFNjM2enVJc1Q1akN6S3dVY1E3cW9abzFZUWJlRzVfTGZQNml4WQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-08T09:46:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Buscan alcalde de Río Bravo; coordinan acciones con otros estados El Horizonte",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "98c92fb24d814533"
+ },
+ {
+  "titulo": "¿Fue un descuido? Camarógrafo sufre caída durante concierto de Karol G en Monterrey",
+  "liga": "https://abcnoticias.mx/show/2026/11/8/fue-un-descuido-camarografo-sufre-caida-durante-concierto-de-karol-g-en-monterrey-294822.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-08T09:45:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "a4de778e343edc04"
+ },
+ {
+  "titulo": "Despliegan acciones por posible secuestro de alcalde de Río Bravo",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEtTeXNYd3BPMUVVOGhib1EzVVZVdVd3bFdsUUk5UHdRaFN0U0ZGaFBSWVlOVmduMWdSNmwwRlJKTHVyRWlZOU44UFVfSkJLVlJxcUI1QXBXa0l3X210QUVLRVRKSGo0d214bGJtU012QXktNms0WnpqN3pGVlJsQi1VWTRBUmlhT1phbDBmWHZ1T245MldTZnRyRklUbFZBVHFvdUloWQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T09:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Despliegan acciones por posible secuestro de alcalde de Río Bravo INFO7",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "abe6dc9161dd6648"
+ },
+ {
+  "titulo": "¿Lloverá hoy? Frente Frío 4 provocará tormentas y bajas temperaturas en estos estados este domingo 8 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXlzb3h2Y01oQWZ4VVVFdzJyRlB0Wk5EZU1NengyY3RjN0NxY0dHb0ZUZDY5ZmExbVZseTAxY2RiYjZFM0l3Q05fV1NFdXF1T1RHQlJKTWs0bWVBVjAxNEFKcldCRkdhVHNvTDBCUVFmb05KM0t3QjVGNnhyZTc2TGtiTU4zTnlrZEtYWUk4ekpCZGxyNllz?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-08T09:42:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "¿Lloverá hoy? Frente Frío 4 provocará tormentas y bajas temperaturas en estos estados este domingo 8 de noviembre Reporte Indigo",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "0f35e43abe41db84"
+ },
+ {
+  "titulo": "Aseguran a un cachorro de león africano en Aguascalientes",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXBvLTVKMGw1cUV3cU5mdS1oXzBYcVdhRmQxVW5leVFYRElQaG05OG83bmtNZHV3Z01ud1dtQXRaVTZkTk1EdlRaU191elBUUmIwVEdIRnFxU3B6VXdCOTNlRVRLN3JBMW1meVRucHlaRmFDbVpEYVhTZWt2MU1QVEZ6QkNvZzBvQ0V4ekdZejhmVUNQSDRaUGR3?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-08T09:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Aseguran a un cachorro de león africano en Aguascalientes INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8794f8e0fbf63210"
+ },
+ {
   "titulo": "Miguel Ángel Almaraz: su presunta privación de su libertad fue en Zacatecas",
   "liga": "https://horacero.com.mx/tamaulipas/miguel-angel-almaraz-rio-bravo",
   "medio": "Hora Cero",
@@ -140,6 +536,21 @@
   ],
   "local": true,
   "id": "b70cead065a839a5"
+ },
+ {
+  "titulo": "Cortocircuito en sótano provoca incendio en vivienda de San Pedro, NL; descartan lesionados",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZnNlbWFZWnNnLVZRWXRwbUszdDFnU3k0eml5QW9IdldITExtVnVxZjMxOGMzdnJsaEpaUzZURGFpWWs4XzZ4bFpnYS1Tclo1WngwOGR6MXlELXZwTXF6a3kwbE5sSWRDOUJrOERKZ19SMFZHSHMtZ29IMXB0aS03NjdqdzBCVE5Fa3pKYzc1bkFoaE5UUTUwNkd30gGaAUFVX3lxTE5QeEtWUWQwaTh3U2NkVHg4ZFdfakRhd1JQUWl6X3FoSWcwNHBSZUREcXlHQ2pIRlY0SjNLc3dybEtUYWYzR3h2Wkdfa01yN0tFNC01Nzg2bEhLYkxNT1dKWU5PZFFkTmF3UTlPYUtqcThUVjVZYVZabW1vN2dmUDkyUm1NNG4yd0h4M3ZfazVXbVFWQ29NUnBjY3c?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-08T09:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Cortocircuito en sótano provoca incendio en vivienda de San Pedro, NL; descartan lesionados MILENIO",
+  "temas": [
+   "Accidentes",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "ba48532771c7962d"
  },
  {
   "titulo": "Clima en Monterrey: ambiente fresco y lluvias se esperan hoy 8 de noviembre",
@@ -583,6 +994,20 @@
   ],
   "local": true,
   "id": "16cd2c571876a2ed"
+ },
+ {
+  "titulo": "Monterrey Policía",
+  "liga": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JNC11NElOZ1ZJUzJ4Y2VLNW1LWWpLUXhfcldPM3F3QWVXWXN4TE8wY29ENTZzekJzb2NSZDlibmp5d0k0a2NhSmVIRENvSGxETzljVnB3?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-08T08:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Monterrey Policía Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f3a2b8c889820316"
  },
  {
   "titulo": "Rescatan 11 personas atrapadas en elevador de centro de Monterrey",
@@ -2056,6 +2481,20 @@
   "id": "581217f8e811b73b"
  },
  {
+  "titulo": "Final explicado de 'Campus Drivers', serie de Prime Video: ¿quiénes terminan juntos y por qué Lane se muda en",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVV3UG5HZG11U1lOUE1xNmRNbnVDWUFaSkFKbFdIZWw5dDRwdUpJUi1uS1lIRDRaVnNpZU9MQVh4R3ZNdXZKb3Q5UEsxSi1wSmMwRkJqMW5seEJQUG4tOTVqSFdEWUl4UkFibm9DMklrVlBjaUJfcUJDWVdFcUtvNUVYWlZnMVA3VjJUVEpNc2RxQ28tNGFSSzZuMFXSAZwBQVVfeXFMTzh2WUxBcTBoSjlYUTVabWk5YTdlenAxS1pRdWhLdGFNU0ZtM0xIanNudGxNN2xGZUxoY2hTM09hVkFTQWwwaDRIV2Zwdmg4TEJYZkFJamRyTGZKVGNoNEJKUWVkY05Za25VX2tNaFlHOHJIdHhMSUJGa3M1RDJVNWViZk9DaTQzb1NBOGlreHJJWWUzVjhXa0FSUlZr?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-07T21:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Final explicado de 'Campus Drivers', serie de Prime Video: ¿quiénes terminan juntos y por qué Lane se muda en MILENIO",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "dd8d2f74b9c38356"
+ },
+ {
   "titulo": "Presentan la Carrera Atlética del Valuador 2026 en Puebla para erradicar la poliomielitis",
   "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmo1a01DX3pLS1hVMFpmZkx2UVlybE5iSE8xaEhGU0RQQ0ZhZURvazZxRS1QNjJreVRoc0hCbzBuYjNqUDlPUUFpSmJsN3ZLa3BNYm94MmhzdFp3UzRrMmFkVVRqeU5aOXFRbHR4OWtmZVdOVVlNYl9LSW14RFk5YUFQdmp5ZmPSAYcBQVVfeXFMT0NMamxMeTZlUjJFaG1fTlgyZVZXU1hBT0xsZWQ4RExwQ1FRaG9WZUE0cW9Ba3VRTGE0b3VfWmVtaG5yZWFwRGVKRmd3SlUtQnBPM3V4Y1ZiZzJtUnVFZmpTLTJLRnA0MldaR3dUeWpGcG1FOVZuSjJCMjFtcDd3dzAteUUxSTlZ?oc=5",
   "medio": "Milenio Monterrey",
@@ -2268,6 +2707,20 @@
   "id": "624d20c147966f36"
  },
  {
+  "titulo": "Senadores del PAN proponen crear Protocolo de Protección Diplomática y Consular de Emergencia",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnYzOFhEeVhVeVdkUTBXYWc1V2FHd04xM001V2lyRDliYUYyTnVySzFFaHBvajdCTWx1MWpEWHNTZ1FZeEpNZXYzckNFWU1YRUlleUlXbkx5VFVXRDJiR0hNRkRQU0prdk9ub1lwRGlaVENncnczaGdQamQtOU5nRmNiLWtQWW5yeDZFNVIwT2kwcHN5QjYzYTQwejVXNHRS0gGgAUFVX3lxTE5wYllyaEtPeUctZ0pGc3MwY21rV3p5OV84YkZWRDVfOTJrNkFoSGZZRFdpNnYzd0JxQmJ1TGtqejg3aWxjeF93d1Y0Y0cwMHZpUWxQNzFyNUFRb3QxLXdvNi1TLU5qZUswWFRMN0U5ZXAzWGExRzFfLTI3R0hRTi1lTGVHajdYSmNfZkJucXR4Z0ZIbXFQU0puWk03RE0tbW8?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-07T21:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "Senadores del PAN proponen crear Protocolo de Protección Diplomática y Consular de Emergencia MILENIO",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8fcf8d8e709cf5fc"
+ },
+ {
   "titulo": "Errores cuestan derrota a Tigres",
   "liga": "https://www.elnorte.com/errores-cuestan-derrota-a-tigres/ar3310369",
   "medio": "El Norte",
@@ -2308,6 +2761,20 @@
   ],
   "local": false,
   "id": "2fd04a5c393beb4a"
+ },
+ {
+  "titulo": "¿La serie de Netflix 'Palacio' está basada en una historia REAL? Éste es el caso detrás de la producción colom",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDVxdi1Xc2hUMzdyMG14Mko5WXA2ME9iREhVc1Z3VldDMVpNVUs0eHFqVlYwTlI4TDVjSTBrVUstczVmU3R0SVVoWGg3SmtNT08yaGszSGYwd1hfQzlmTG45dXdyNDFfdFgzcld0aXBDcGhuak4xcV9ZU0U3YURMaFlKSWU1WUx1VnBfZlRWbW5vZUtHOWYzSU1DXzJjeTVqRE9wWThfRUZRQdIBqgFBVV95cUxQTUVQVURELTFWNjZBa3JmWlZJdTdnT1pBMzgyaVNKc3gxbTVYR1E0dFRsaUY4WFVPTEh6cjRaUWZwZklMd1hGYXltQTV5bjZVV3FBTXczbEtqTkstdHBBXzM1ckhaN0MwdWI3Mk5DWGxDMWNlM3NMbmNJSU9QajFMWmUtRFBPdEQ5Tmc4LWx6eFZCNW5DS3RhbnZTbTVRNlhlOUtmdDBXRndjdw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-07T20:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T10:40:51-06:00",
+  "resumen": "¿La serie de Netflix 'Palacio' está basada en una historia REAL? Éste es el caso detrás de la producción colom MILENIO",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "29677aea010a0f25"
  },
  {
   "titulo": "Reitera Pablo respaldo público hacia Natalia Alcocer",
