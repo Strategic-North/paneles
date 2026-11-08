@@ -1,5 +1,167 @@
 [
  {
+  "titulo": "Comisario Gauto resalta crecimiento en el GOE tras 17 años de servicio",
+  "liga": "https://elcongresista.mx/politica/nacional/comisario-gauto-crecimiento-goe",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:51:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "Francisco Javier Gauto destaca su trayectoria en el GOE, enfatizando la importancia de la capacitación continua y el compromiso con la excelencia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "23f5720949f93c72"
+ },
+ {
+  "titulo": "Inauguran Hotel del Alma Boutique en Mérida con inversión de 100 mdp",
+  "liga": "https://elcongresista.mx/politica/yucatan/inauguracion-hotel-alma-boutique-merida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:48:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "Se inaugura el Hotel del Alma Boutique en Mérida, con una inversión de 100 millones de pesos y generación de 54 empleos directos.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8df971d62f15b9fc"
+ },
+ {
+  "titulo": "EUA vincula a In House Espectáculos con lavado de dinero del Cártel de Sinaloa",
+  "liga": "https://elcongresista.mx/politica/baja-california/in-house-espectaculos-lavado-dinero-cartel-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:45:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "El Departamento del Tesoro de EUA vincula a In House Espectáculos con lavado de dinero para el Cártel de Sinaloa a través de conciertos en Baja California.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "a88fb60766253c51"
+ },
+ {
+  "titulo": "CFE suspenderá suministro eléctrico en Carmen, Campeche por 7 horas",
+  "liga": "https://elcongresista.mx/campeche/cfe-carmen-campeche-apagon-mantenimiento-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:36:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "La CFE suspenderá el servicio eléctrico en Carmen, Campeche, el 8 de noviembre por mantenimiento, afectando varias zonas.",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "6d9f8ef3cddeff3a"
+ },
+ {
+  "titulo": "Historia y ciencia se entrelazan en el Día Mundial de la Radiología",
+  "liga": "https://elcongresista.mx/politica/nacional/dia-mundial-radiologia-8-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:34:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "El 8 de noviembre se celebra el Día Mundial de la Radiología, recordando el descubrimiento de los rayos X y otras efemérides.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8430d156eadac827"
+ },
+ {
+  "titulo": "Mariana Treviño celebra avances de latinos en EE. UU. tras elecciones",
+  "liga": "https://elcongresista.mx/politica/nacional/mariana-trevino-avances-latinos-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:12:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "Mariana Treviño celebra los avances de la comunidad latina en EE. UU. tras las recientes elecciones y su impacto en la representación política.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "55eca1658b969913"
+ },
+ {
+  "titulo": "Sismo de 5.7 en Japón deja al menos 22 heridos",
+  "liga": "https://elcongresista.mx/politica/nacional/sismo-57-japon-heridos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:09:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "Un sismo de magnitud 5.7 en Japón dejó al menos 22 heridos y provocó evacuaciones en varias ciudades del centro del país.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "95630caa6482dd67"
+ },
+ {
+  "titulo": "Claudia Sheinbaum busca recorte de 6 mil millones al INE en 2027",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-recorte-ine-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:07:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "Claudia Sheinbaum propone un recorte de 6 mil millones de pesos al INE para 2027, lo que genera una ola de críticas.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d9a222e8ffebb191"
+ },
+ {
+  "titulo": "Energía costará hasta 30% más a fabricantes sin gestión eficiente",
+  "liga": "https://elcongresista.mx/politica/nacional/aumento-costos-energeticos-fabricantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:03:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "Los fabricantes en México podrían enfrentar un aumento de hasta el 30% en sus costos energéticos si no optimizan su gestión.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a16f37e607815b74"
+ },
+ {
+  "titulo": "Poeta sonorense presenta la unión de Chopin y Sand con su obra",
+  "liga": "https://elcongresista.mx/politica/sonora/alonso-vidal-chopin-sand",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:01:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "La obra de Alonso Vidal revive la historia de amor entre Chopin y Sand, resaltando su legado literario en Sonora.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d08076e8dd40f82f"
+ },
+ {
+  "titulo": "Senador Talarico rinde homenaje a migrante mexicano asesinado por ICE",
+  "liga": "https://elcongresista.mx/justicia/senador-talarico-honra-lorenzo-salgado-ice",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T06:51:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "James Talarico honra en Houston a Lorenzo Salgado, migrante mexicano asesinado por ICE hace cuatro meses, en un emotivo homenaje.",
+  "temas": [
+   "Seguridad",
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2bd09f3b0f70c276"
+ },
+ {
   "titulo": "Reflexionan sobre encíclica del Papa en tiempos de algoritmos",
   "liga": "https://elcongresista.mx/tecnologia/reflexion-papa-leon-xiv-inteligencia-artificial",
   "medio": "El Congresista",
@@ -12,6 +174,20 @@
   ],
   "local": false,
   "id": "c863c120c2f6f127"
+ },
+ {
+  "titulo": "Certifican a operadores de maquinaria con simulador en Tijuana, Tecate y Rosarito",
+  "liga": "https://www.uniradioinforma.com/sociedad/certifican-operadores-maquinaria-simulador-tijuana-tecate-rosarito-n912162",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T06:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T07:51:54-06:00",
+  "resumen": "La primera etapa permitió capacitar gratuitamente a 40 participantes de Tijuana, Tecate y Playas de Rosarito.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "41e527aacb57c336"
  },
  {
   "titulo": "Conagua pospone trasvase de El Cuchillo a Tamaulipas tras petición de García",
