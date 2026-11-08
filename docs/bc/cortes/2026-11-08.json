@@ -1,5 +1,534 @@
 [
  {
+  "titulo": "Almada critica arbitraje tras penal erróneo en Clásico Capitalino",
+  "liga": "https://elcongresista.mx/justicia/almada-critica-arbitraje-clasico-capitalino",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:34:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Guillermo Almada critica al arbitraje tras el penal erróneo contra América en el Clásico Capitalino, afectando al torneo Apertura 2026.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "25e2faafb32615a8"
+ },
+ {
+  "titulo": "Isaac del Toro gana el Tour de France EFGH en Singapur",
+  "liga": "https://elcongresista.mx/deportes/isaac-del-toro-victoria-tour-france-singapur",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:32:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Isaac del Toro triunfa en el Tour de France EFGH en Singapur, marcando una victoria significativa para el ciclista mexicano.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "e21245062be41151"
+ },
+ {
+  "titulo": "PAN Tamaulipas condena la detención ilegal del alcalde de Río Bravo",
+  "liga": "https://elcongresista.mx/tamaulipas/pan-tamaulipas-condena-privacion-libertad-alcalde-rio-bravo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:32:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "El PAN de Tamaulipas condenó la privación de libertad del alcalde de Río Bravo, Miguel Ángel Almaraz, y exige su liberación inmediata.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "9b0028f0e0523028"
+ },
+ {
+  "titulo": "Tamaulipas colabora con Zacatecas en búsqueda del alcalde de Río Bravo",
+  "liga": "https://elcongresista.mx/tamaulipas/tamaulipas-busqueda-alcalde-rio-bravo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:31:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "La Fiscalía de Tamaulipas trabaja con Zacatecas en la búsqueda del alcalde Miguel Ángel Almaraz, privado de la libertad en San Luis Potosí.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "9016ac629bc61f0c"
+ },
+ {
+  "titulo": "El alcalde de Río Bravo, Miguel Ángel Almaraz, fue secuestrado en SLP",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/alcalde-rio-bravo-secuestro-san-luis-potosi",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:30:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "La Fiscalía de Zacatecas confirma el secuestro del alcalde de Río Bravo, Miguel Ángel Almaraz, en San Luis Potosí; se intensifica la búsqueda.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "806a55781edf6a71"
+ },
+ {
+  "titulo": "Fechas estimadas para citas de visa B1/B2 en México desde nov. 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/fechas-visas-b1b2-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:20:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Fechas estimadas para citas de visa B1/B2 en México comenzando en noviembre de 2026. Consulta aquí los detalles.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9476746586045402"
+ },
+ {
+  "titulo": "Obra del Tren AIFA-Pachuca afecta suministro de agua en 14 colonias",
+  "liga": "https://elcongresista.mx/politica/hidalgo/agua-pachuca-cortes-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:19:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "A partir del 10 de noviembre, 14 colonias en Pachuca sufrirán cortes de agua por obras del Tren AIFA-Pachuca, advierte CAASIM.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6c34a7acd8723ad6"
+ },
+ {
+  "titulo": "Estados Unidos: descontento popular contra Trump y auge demócrata",
+  "liga": "https://elcongresista.mx/politica/nacional/rechazo-a-trump-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:17:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Las elecciones de medio término en EE. UU. revelan un claro rechazo a Trump y un crecimiento del apoyo demócrata, con implicaciones globales.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "19440675b5fc953c"
+ },
+ {
+  "titulo": "Tras diez meses de reclamos, la Asociación de Bomberos de Ensenada cobró una deuda millonaria de Nación",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXF3UEpLZ0wtVGg4WkRLYUkxWTdxN2huVEFIaC1MS3JpXzlMd01Mb2RrdmxXYjNjS1pydGZqUGRDUUItT0ZFVEpnZGgzeDhBTk50SnJNSWl5dHI0RWpqYkFtLThHMVQ0d1NZOFdsY003Zm9EbEM1b2owSzZRT09jZWpJaXhCdTdCRG1CMVhneFFFQWMwaGVTV2tjaUlLT3V3cEF6MXNnSEhzZFVRbTJ5eDVEMG9ZQ0c3SDJoSGtOVVRfWjdtRk5LeUN5VFhSNFpYUldIaERwNA?oc=5",
+  "medio": "Punto Capital Noticias",
+  "publicada": "2026-11-08T11:17:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Tras diez meses de reclamos, la Asociación de Bomberos de Ensenada cobró una deuda millonaria de Nación Punto Capital Noticias",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "dde7a73004c0043d"
+ },
+ {
+  "titulo": "El tiempo de espera de garitas en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVhSZ0Z4UFZnMXF1V0Q3d0kyMnE5WTEwNnM4RmdMWElIb3AwSW9IeUFkYW9GVWRWSkR4ZWM2ZjhrSmlRMnVGSklKQXpSUGtSbThrdXhONzViWWg1N3d5LUhsblB5dXNObUhfd0JPTnlGclkyckgta1pEVXJPcFdTbEpxcw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-08T11:16:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "El tiempo de espera de garitas en Tijuana Baja News",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "16f176269ae81b74"
+ },
+ {
+  "titulo": "COPPPAL alerta sobre riesgo de legitimidad en el INE de México",
+  "liga": "https://elcongresista.mx/justicia/copppal-alerta-riesgo-legitimidad-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:16:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "La COPPPAL alerta sobre la crisis en el INE, riesgo de corrupción que puede afectar las elecciones de 2027 en México.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "9d1a417df40d52d7"
+ },
+ {
+  "titulo": "DESPUÉS DE LA DERROTA ENDURECER AL GOBIERNO",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1VxYmRsYVNRbFJEb1VJMDN1MFlmUlJlNTdVSlRZMUZGNi1lbjgxYWVmZlVCc082bm51SzZITmlhX1RpeG1CMkh6azNEVVRUeVQyQjNaYUc0V2R2T3F5bWE3S2ZYNExfS3FaUi1XLW5CX1JfOG1VdjE1M00zSVd6RlJfVTA3Ql91ME5tOHZNRQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-08T11:08:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "DESPUÉS DE LA DERROTA ENDURECER AL GOBIERNO AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "30bb4628172114d1"
+ },
+ {
+  "titulo": "Embajador de Israel descarta campaña de desinformación sobre agua",
+  "liga": "https://elcongresista.mx/politica/chihuahua/embajador-israel-niega-campana-desinformacion-agua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:05:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "El embajador de Israel, Yoed Magen, rechaza acusaciones de desinformación sobre convenios hídricos en México.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3dfd2578c39414f1"
+ },
+ {
+  "titulo": "Detienen a Óscar N por feminicidio de pareja e hija en Tláhuac",
+  "liga": "https://elcongresista.mx/justicia/fiscalia-cdmx-detienen-oscar-n-feminicidio-tlahuac",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:04:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Fiscalía CDMX arresta a Óscar N por el feminicidio de su pareja e hija en Tláhuac. Las víctimas fueron atacadas el 30 de octubre.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1e899eeea7aa49b7"
+ },
+ {
+  "titulo": "Sismo de 5.7 en Japón deja al menos 24 heridos",
+  "liga": "https://elcongresista.mx/politica/nacional/sismo-japon-5-7-24-heridos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:03:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Un sismo de magnitud 5.7 en Japón deja al menos 24 heridos. La agencia meteorológica reporta una profundidad de 41 km.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e15612b3d733565a"
+ },
+ {
+  "titulo": "Situación del alquiler en CDMX se agrava con restricciones abusivas",
+  "liga": "https://elcongresista.mx/politica/nacional/alquiler-cdmx-restricciones-abusivas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:03:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "La crisis del alquiler en CDMX se agrava con nuevas restricciones que afectan a inquilinos, incluyendo condiciones abusivas y precios elevados.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "87e620ab91313c15"
+ },
+ {
+  "titulo": "Del Toro cierra temporada con triunfo",
+  "liga": "https://zetatijuana.com/2026/11/del-toro-cierra-temporada-con-triunfo/?utm_source=rss&utm_medium=rss&utm_campaign=del-toro-cierra-temporada-con-triunfo",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-08T11:02:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "El regreso del ciclista mexicano podría darse durante enero de 2027, un mes que contará con diferentes competencias dentro del calendario internacional.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4feaf22cdb932807"
+ },
+ {
+  "titulo": "Pide Copppal restauración institucional en el INE por crisis de corrupción",
+  "liga": "https://elcongresista.mx/justicia/copppal-restauracion-ine-crisis-corrupcion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T11:01:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "El Observatorio Electoral de la Copppal urge a la OEA a apoyar la restauración institucional del INE ante la crisis de corrupción en México.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e13dbe307a790bb7"
+ },
+ {
+  "titulo": "Denuncian trámites detenidos en Registro Civil de San Antonio de los Buenos",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzZOcndZd1pCN1h6enMwNWVOd3JEMUdzdV8xMHY4WUYyaGNoMTVvY2VqWlVwbDVMa3pEWV8zUUxqMTJmNENrWVdYeG9EeGhDWEMtVDg4cTBzZ3V6cmZ0VDh5SzQ1bFRGN3dyQTg1M3FobkhuMDZoczl6aXZ0blNxYW04MWNUNElGWTgzOWNEM3VIM0FYSUJpM181ZjZxME9COHV2Z2VkT3d6OXgwLW1VUEFDTFVHeGNCUmR0WWVBWEJBbldq?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-08T10:54:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Denuncian trámites detenidos en Registro Civil de San Antonio de los Buenos AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a7b5d91244cf0c9d"
+ },
+ {
+  "titulo": "CDMX: Vitae Fest 2026 ofrece conciertos gratuitos y actividades hoy",
+  "liga": "https://elcongresista.mx/cultura/vitae-fest-2026-cdmx-8-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:50:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Hoy, la Ciudad de México celebra el Vitae Fest 2026 con conciertos y actividades familiares sin costo en diversos puntos de la capital.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "eea811060ba31f60"
+ },
+ {
+  "titulo": "Seis hombres asesinados y dos heridos en Culiacán este fin de semana",
+  "liga": "https://elcongresista.mx/politica/sinaloa/culiacan-seis-hombres-asesinados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:49:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Seis hombres fueron asesinados y dos más resultaron heridos en varios tiroteos ocurridos en Culiacán, generando alarma en la población.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "657705c52dc2bcaf"
+ },
+ {
+  "titulo": "Asesinan a un hombre en una riña, en Playas de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2pRZ25zUklyX1JQa2tHZWpIOE9ydGdLMmxDVTdtcnlOOThGRTJmaXdCRy02X0VpZm0xd241NnRLd2lBLUg3REo3VUhYSlhqa0RId25vZ04xbVU2SU4tTk9wdWNMU0piYzN5ZkVxb1laQmNIem5rWktNOVdwWWdDU2JselEySzJOcURzUEV4cTN3TFktQ3BBT3N3?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-08T10:48:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Asesinan a un hombre en una riña, en Playas de Tijuana AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "607c9a931b17dd5a"
+ },
+ {
+  "titulo": "Recapturan en Oaxaca a madre de \"El Cromo\" tras salir de prisión",
+  "liga": "https://elcongresista.mx/politica/oaxaca/recaptura-madre-el-cromo-homicidio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:48:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Recapturan en Oaxaca a la madre de \"El Cromo\", implicada en un homicidio ocurrido en mayo.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "63fbd33549be02b6"
+ },
+ {
+  "titulo": "Cozumel recibe a 3 mil ciclistas de 40 países en Gran Fondo NY",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/cozumel-gran-fondo-new-york-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:47:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Cozumel recibe a 3 mil ciclistas de 40 países en el Gran Fondo New York, destacando la importancia del turismo deportivo en la región.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a687292ec2ca60a4"
+ },
+ {
+  "titulo": "Américo Villarreal reafirma compromiso para encontrar al alcalde de Río Bravo",
+  "liga": "https://elcongresista.mx/tamaulipas/americo-villarreal-compromiso-localizar-alcalde-rio-bravo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:46:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Américo Villarreal Anaya reafirma su compromiso en la búsqueda del alcalde Miguel Ángel Almaraz, secuestrado en Zacatecas.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "815814ea1c38c306"
+ },
+ {
+  "titulo": "Madre de líder de \"Los Cromos\" sale de prisión y la recapturan por asesinato",
+  "liga": "https://www.uniradioinforma.com/sociedad/madre-lider-los-cromos-sale-prision-recapturan-asesinato-n913115",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T10:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Había sido detenida hace tres años por delitos contra la salud y obtuvo su libertad.",
+  "temas": [
+   "Seguridad",
+   "Salud"
+  ],
+  "local": true,
+  "id": "e2cc91525db83d40"
+ },
+ {
+  "titulo": "Sinaloa: prevén lluvias intensas y temperaturas de hasta 40 grados",
+  "liga": "https://elcongresista.mx/politica/sinaloa/sinaloa-lluvias-intensas-temperaturas-alta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:36:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Sinaloa tendrá lluvias intensas y temperaturas extremas este domingo, advierten autoridades.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e8c0594993d3a18e"
+ },
+ {
+  "titulo": "Asesinan al exbeisbolista Enrique Quiñones en Mazatlán, Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/asesinato-enrique-quinones-mazatlan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:35:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Asesinan al exbeisbolista Enrique Quiñones Garzón en Mazatlán, un hecho que impacta al béisbol mexicano.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e09d508e71f90917"
+ },
+ {
+  "titulo": "Conductor herido tras accidente en la carretera federal 57",
+  "liga": "https://elcongresista.mx/politica/queretaro/accidente-queretaro-conductor-herido",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:33:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Un conductor resultó herido tras perder el control de su auto y chocar contra un árbol en Querétaro. Fue rescatado por bomberos.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5fdc3c7bc07d66a1"
+ },
+ {
+  "titulo": "Atropellan a hombre en situación de calle en Querétaro; está grave",
+  "liga": "https://elcongresista.mx/politica/queretaro/atropellan-hombre-situacion-calle-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:32:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Un hombre en situación de calle es atropellado en Querétaro y se reporta en estado grave tras el accidente de este sábado.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9fd67be834d24307"
+ },
+ {
+  "titulo": "Citlalli Hernández respalda a Sasha Sokol en su lucha legal contra Luis de Llano",
+  "liga": "https://elcongresista.mx/justicia/citlalli-hernandez-sasha-sokol-luis-de-llano",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:31:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Citlalli Hernández apoya a Sasha Sokol en su lucha contra Luis de Llano por daño moral tras una controversia legal.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "fafa99f545637f07"
+ },
+ {
+  "titulo": "Trump reduce aranceles al 10% para más de 75 países",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-reduce-aranceles-10-paises",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:22:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Donald Trump reduce aranceles al 10% para más de 75 países en un esfuerzo por aliviar tensiones comerciales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dff8f363c1f5f067"
+ },
+ {
+  "titulo": "Crece comunidad \"Mil Horas\" que reúne a más de 800 adultos mayores",
+  "liga": "https://elcongresista.mx/sociedad/mil-horas-adultos-mayores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:22:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "La comunidad \"Mil Horas\" conecta a más de 800 adultos mayores, promoviendo actividades presenciales y superando el aislamiento social.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "72d77c3470e6c2e1"
+ },
+ {
+  "titulo": "Activistas colocan fichas de desaparecidos en Tijuana durante informe de gobierno",
+  "liga": "https://elcongresista.mx/politica/baja-california/fichas-desaparecidos-tijuana-informe-gobierno",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:20:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Activistas en Tijuana protestan por desaparecidos colocando fichas en lona del Gobierno de Baja California durante informe de Marina del Pilar.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1eab2d887dc1285a"
+ },
+ {
+  "titulo": "Chambamanía ofrece servicios gratuitos a habitantes de Playa del Carmen",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/chambamania-servicios-gratuitos-playa-del-carmen",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:19:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Chambamanía brinda servicios públicos gratuitos a habitantes de Playa del Carmen, facilitando apoyo y trámites esenciales para la comunidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9e927c5c0e5d23a4"
+ },
+ {
+  "titulo": "Benidorm revive la fiesta de la Virgen del Sufragio con centenares de asistentes",
+  "liga": "https://elcongresista.mx/cultura/benidorm-hallazgo-virgen-sufragio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T10:18:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Benidorm celebra el hallazgo de la Virgen del Sufragio con cientos de asistentes y una nueva suite sinfónica el 7 de noviembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "399b26308b8154d8"
+ },
+ {
   "titulo": "Privan de la libertad a alcalde de Río Bravo, SLP",
   "liga": "https://zetatijuana.com/2026/11/privan-de-la-libertad-a-alcalde-de-rio-bravo-slp/?utm_source=rss&utm_medium=rss&utm_campaign=privan-de-la-libertad-a-alcalde-de-rio-bravo-slp",
   "medio": "Zeta Tijuana",
@@ -12,6 +541,20 @@
   ],
   "local": true,
   "id": "e4838f82e2af9b7b"
+ },
+ {
+  "titulo": "Refuerza Gobierno de Tijuana medidas preventivas ante posibles efectos del fenómeno de El Niño",
+  "liga": "https://www.uniradioinforma.com/sociedad/refuerza-gobierno-tijuana-medidas-preventivas-posibles-efectos-fenomeno-nino-n912444",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T10:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "08b10334ea102e5a"
  },
  {
   "titulo": "Hombres Armados Atacan a Encargado de Nevería en Tijuana, Baja California",
@@ -691,6 +1234,20 @@
   "id": "ce48d67ced5e7462"
  },
  {
+  "titulo": "Recibe UABC a cientos de participantes en el medio maratón 2026",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/recibe-uabc-a-cientos-de-participantes-en-el-medio-maraton-2026-33027615",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-08T06:25:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Esta carrera sería la tercera edición del evento deportivo.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5445e20128681dc6"
+ },
+ {
   "titulo": "FIA lanza campaña contra abuso online y presenta nuevas directrices",
   "liga": "https://elcongresista.mx/politica/nacional/fia-campana-abuso-online-gp-sao-paulo",
   "medio": "El Congresista",
@@ -836,6 +1393,20 @@
   "id": "fea09110345db4f9"
  },
  {
+  "titulo": "Tipo de cambio en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/tipo-de-cambio-en-tijuana-33027975",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-08T05:52:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Consulta aquí la compra y venta del dólar en los bancos de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "db41b141f595bc34"
+ },
+ {
   "titulo": "La caída de las figuras de derecha debilita el apoyo a Milei",
   "liga": "https://elcongresista.mx/latinoamerica/caida-figuras-derecha-milei",
   "medio": "El Congresista",
@@ -848,6 +1419,20 @@
   ],
   "local": false,
   "id": "81b9ed49414252e6"
+ },
+ {
+  "titulo": "Pronostican cielo despejado y altas temperaturas para este domingo",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/pronostican-cielo-despejado-y-altas-temperaturas-para-este-domingo-33027862",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-08T05:45:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T11:38:02-06:00",
+  "resumen": "Se espera una temperatura máxima de 32° centígrados en la ciudad",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "924e50f639713e3e"
  },
  {
   "titulo": "Una por una, las obras para La Plata, Berisso y Ensenada que incluyó Axel Kicillof en el Presupuesto 2027",
