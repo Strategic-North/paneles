@@ -1,5 +1,341 @@
 [
  {
+  "titulo": "Michoacán destina más de 9 mil millones de pesos a movilidad",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-inversion-movilidad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:32:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Michoacán destina más de 9 mil millones de pesos a movilidad y obras públicas en Morelia y Uruapan, mejorando la infraestructura urbana.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "42e38b2fd1079733"
+ },
+ {
+  "titulo": "Entregan 20 ambulancias equipadas a comunidades indígenas de Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/ambulancias-comunidades-indigenas-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:32:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La Secretaría de Salud de Michoacán entregó 20 ambulancias a comunidades indígenas para mejorar la atención de urgencias y fortalecer la salud.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "20836cb8d16ff5b3"
+ },
+ {
+  "titulo": "Aprehenden a trabajadoras del hogar por robo de 670 mil pesos",
+  "liga": "https://elcongresista.mx/politica/michoacan/aprehenden-trabajadoras-hogar-robo-670-mil-pesos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:31:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La Fiscalía de Michoacán detiene a dos trabajadoras del hogar implicadas en el robo de 670 mil pesos a su empleador.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b9be42fb8273f5c9"
+ },
+ {
+  "titulo": "Gaby Molina refuerza lazos con la Red Social por la 4T en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/gaby-molina-red-social-4t-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:30:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Gaby Molina se reúne en Michoacán con líderes de la Red Social por la 4T para fortalecer la participación ciudadana y la transformación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "07bc2abc4f476eed"
+ },
+ {
+  "titulo": "Poder Judicial y sindicatos acuerdan modificar evaluaciones para que no tengan efectos sancionatorios",
+  "liga": "https://zetatijuana.com/2026/11/poder-judicial-y-sindicatos-acuerdan-modificar-evaluaciones-para-que-no-tengan-efectos-sancionatorios/?utm_source=rss&utm_medium=rss&utm_campaign=poder-judicial-y-sindicatos-acuerdan-modificar-evaluaciones-para-que-no-tengan-efectos-sancionatorios",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-08T14:23:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Termina paro nacional. Todos los órganos jurisdiccionales del Poder Judicial de la Federación trabajarán con normalidad el lunes 9 de noviembre",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "0ed5a5e38cbccf99"
+ },
+ {
+  "titulo": "Aprueban reforma para proteger laboralmente a mujeres embarazadas y en periodo de lactancia",
+  "liga": "https://elportavoznoticias.com.mx/aprueban-reforma-para-proteger-laboralmente-a-mujeres-embarazadas-y-en-periodo-de-lactancia/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-08T14:10:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "El Pleno del Congreso de Baja California aprobó una reforma al artículo 57 de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios, con... La entrada Aprueban reforma para proteger laboralmente a mujeres embarazadas y en periodo de lact",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "36904c50ef062d9f"
+ },
+ {
+  "titulo": "Próximo domingo es el sorteo del Servicio Militar en Tijuana",
+  "liga": "https://puntonorte.info/2026/11/08/proximo-domingo-es-el-sorteo-del-servicio-militar-en-tijuana-2/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-08T14:09:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Tijuana.- El Ayuntamiento de Tijuana, a través de la Junta Municipal de Reclutamiento, informó que el Sorteo del Servicio Militar Nacional (SMN), Clase 2008 y Remisos, se llevará a cabo el próximo domingo 15 de noviembre, a las 7:00 horas, en la explanada del Monumento a la Madre",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "eee98fa8e0ef5071"
+ },
+ {
+  "titulo": "Padrón de Leche para el Bienestar creció 45.7 por ciento en cuatro años",
+  "liga": "https://jornadabc.com.mx/02_secundarias/padron-de-leche-para-el-bienestar-crecio-45-7-por-ciento-en-cuatro-anos/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-08T14:08:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "A nivel nacional se logró un volumen de 665 millones de litros acopiados, lo que permite avanzar hacia la meta nacional de 750 millones La entrada Padrón de Leche para el Bienestar creció 45.7 por ciento en cuatro años se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "80cde8d308b0a6c0"
+ },
+ {
+  "titulo": "Banxico baja la tasa de interés a 6.25%; ¿cómo afecta tu bolsillo?",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTE5xRW5kbUpnSUZjQ3dhbEZRNmwyN0xuVmRUS1NFRlAxak41R1NWRTJCZ0ZEM3NQNEJwTlVsSG5iQW9ab292cHp0ZlJpR212VURZY0RLOVJac1NJVkd0dWRXU2dGdTVnc2tzS3d3ZHlpZDFtNXNmTmpYaWFicXNMMVZHSG1LNGtYU09GakxQcHZUUnE1MzlMczdBVkNLdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-08T14:07:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Banxico baja la tasa de interés a 6.25%; ¿cómo afecta tu bolsillo? Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6624596a3505f403"
+ },
+ {
+  "titulo": "Isaac del Toro gana en el Criterium del Tour de Francia en Singapur",
+  "liga": "https://elcongresista.mx/politica/baja-california/isaac-del-toro-victoria-criterium-tour-singapur",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:06:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Isaac del Toro se consagra campeón en el Criterium del Tour de Francia en Singapur, marcando un hito en el ciclismo mexicano.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "36046ea60d2137aa"
+ },
+ {
+  "titulo": "Papa León XIV propone educación integral ante desafíos actuales",
+  "liga": "https://elcongresista.mx/educacion/papa-leon-xiv-educacion-integral",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:05:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "El papa León XIV insta a una educación integral frente a desafíos como la IA y la desigualdad.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "485ba61c12b2b154"
+ },
+ {
+  "titulo": "Fallece Arnaldo Coen, destacado artista visual, a los 86 años",
+  "liga": "https://elcongresista.mx/cultura/fallecimiento-arnaldo-coen-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:03:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Fallece Arnaldo Coen, destacado artista de la Generación de la Ruptura, a los 86 años. Su legado perdurará en el arte mexicano.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "89da6b3df570e3bb"
+ },
+ {
+  "titulo": "Lando Norris gana el Gran Premio de São Paulo por 14.602 segundos.",
+  "liga": "https://elcongresista.mx/politica/michoacan/gran-premio-sao-paulo-norris-gana-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:02:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Lando Norris asegura su tercera victoria de la temporada al ganar el Gran Premio de São Paulo 2026, destacado por condiciones climáticas cambiantes.",
+  "temas": [
+   "Clima",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4ae480a345b7b8ed"
+ },
+ {
+  "titulo": "ANUIES respalda a Yarabí Ávila y exige respeto a la autonomía UMSNH",
+  "liga": "https://elcongresista.mx/politica/michoacan/anuiest-respeto-autonomia-umsnh",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T14:00:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La ANUIES exige respeto a la autonomía de la UMSNH y respalda a la rectora Yarabí Ávila ante acciones legislativas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "514fba0a633d3c55"
+ },
+ {
+  "titulo": "Luis Carlos Ugalde defiende elección de 2006 y rechaza señalamientos de Morena",
+  "liga": "https://www.uniradioinforma.com/sociedad/luis-carlos-ugalde-defiende-eleccion-2006-rechaza-senalamientos-morena-n913154",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T13:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "\"Atribuirme personalmente la ejecución de un fraude exige algo más, demostrar cómo habría ocurrido y presentar pruebas concretas\", señaló.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "30b95c9543f6b362"
+ },
+ {
+  "titulo": "Nuevo Laredo inaugura vivero municipal para impulsar reforestación",
+  "liga": "https://elcongresista.mx/tamaulipas/vivero-nuevo-laredo-carmen-lilia-canturosas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:54:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La presidenta Carmen Lilia Canturosas inaugura un vivero en Nuevo Laredo para cultivar árboles y mejorar la infraestructura ambiental.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bc9f19593a254a03"
+ },
+ {
+  "titulo": "Disminuyó el número de deportaciones por la frontera de Tijuana, asegura activista migrante",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnFNRlFvR3VKRV81ZmdxUFVYbVo3aXMtZERrTGR6RjdUWndZQjFpN2JfUXNNX1pjLUNSc1dDM19ZRkY3UTBWTlRDTC1nMUVZYXhHWXV1T1djRW00RWk5V2h1eXV2Qy1SS3Iyb3NyY2g4WngxNDM3Q1A1b0cwTXltYUZKalRERENmcVpsSGdfSDQ5aFJSOS1fTlNrVHBIVVgtOFVwU2R6bjltamJCMElXTGxJbGZ3SWltdG5Fa0xGZ19iUk1ndjBWVlhnQi1NZms0RVZfNjdvM1U?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-08T13:53:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Disminuyó el número de deportaciones por la frontera de Tijuana, asegura activista migrante AFN",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "252152707f0f1c66"
+ },
+ {
+  "titulo": "Muere joven acompañante de motociclista en accidente en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/muerte-joven-motociclista-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:52:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Joven de 19 años fallece en accidente de motocicleta en Morelia, Michoacán, mientras que el conductor resultó lesionado.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "411cd7b1b27df3bf"
+ },
+ {
+  "titulo": "CCE reconoce avances en cinco años de gobierno, pero advierte pendientes importantes",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTRSanVxRUYxV0JpbmdzRFNZRlpXeTM2Vm9hNTJDLTRaWWV1cGV5UlNQelVhN29rdl9pRTByb0RVX2N5VzdYZ05HUlJYY2V1WlNVR3htWWRJVURYOWYtYXloXzdyekZsTUFiUE9pdndWYndrc1FabUY1WjJSVkxneXc3RFAwYnVYbnBaVFJGZkZGeXNtNG1aNVpLN3c5LWJpWG5Xd29SQklRLUNaQWJRR3NxUllHX2FWRGpzUDN4WFlQa1BFaHRObEF0WDJmalU?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-08T13:50:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "CCE reconoce avances en cinco años de gobierno, pero advierte pendientes importantes AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7cebeca14ee16cc0"
+ },
+ {
+  "titulo": "Desmantelan laboratorio de drogas en Puebla; hay dos detenidos",
+  "liga": "https://elcongresista.mx/politica/puebla/desmantelan-laboratorio-drogas-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:49:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Desmantelan laboratorio de drogas en Puebla, asegurando 650 kg de metanfetamina y deteniendo a dos personas en el proceso.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "54b742bc1174c731"
+ },
+ {
+  "titulo": "Michoacán: Carlos Torres Piña asume liderazgo en nuevo tablero político",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-carlos-torres-pina-nuevo-liderazgo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:48:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La sucesión en Michoacán marca un nuevo desafío político para Carlos Torres Piña, quien enfrenta retos internos y sociales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8559e9280d2f8160"
+ },
+ {
+  "titulo": "Detienen a hombre tras cateo a granjas de criptomonedas en Puebla",
+  "liga": "https://elcongresista.mx/politica/puebla/granjas-criptomonedas-puebla-tlaola",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:47:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Un hombre fue detenido durante un operativo federal en Tlaola, Puebla, por el robo de energía en granjas de criptomonedas.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "65057b7d0987ba7b"
+ },
+ {
+  "titulo": "Román Cota dice que el 2026 no es el año más violento en Tecate: “hay años donde hemos alcanzado los 200 homicidios”",
+  "liga": "https://puntonorte.info/2026/11/08/roman-cota-dice-que-el-2026-no-es-el-ano-mas-violento-en-tecate-hay-anos-donde-hemos-alcanzado-los-200-homicidios/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-08T13:47:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Mexicali.- El alcalde de Tecate, Román Cota Muñoz, presumió que 2026 no ha sido el año con más asesinatos en la historia de ese municipio, ya que “hay registros de años donde hemos alcanzado los 200 homicidios”. En el evento donde la gobernadora Marina del Pilar Ávila Olmeda rind",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "308a6e13bc60de62"
+ },
+ {
   "titulo": "OMS: tres de cada 10 personas en el mundo no creen en la ciencia",
   "liga": "https://jornadabc.com.mx/02_secundarias/oms-tres-de-cada-10-personas-en-el-mundo-no-creen-en-la-ciencia/",
   "medio": "La Jornada Baja California",
@@ -14,6 +350,22 @@
   "id": "2fb48da0ea363af9"
  },
  {
+  "titulo": "Detienen a alcalde de Puerto Aventuras por extorsión en Quintana Roo",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/detienen-alcalde-puerto-aventuras-extorsion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:37:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Detienen al alcalde de Puerto Aventuras, Gilberto Gómez, por extorsión a comerciantes en Quintana Roo.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "210b60b27f68c99c"
+ },
+ {
   "titulo": "Detuvo la municipal a presunto agresor",
   "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnpRdVloN25IYzFtei1uaF9sdW1USnZEdTFwaTRYbGdNbUVRVVVuSDdWdTY5WGctYXhNQ3NMSG9uZklONFZvNTJyMTZUTkhUckZ6NmlKYld2cFljY0lIVlZHSFczTERqYWtXRmlkTG9NVWtNMkZCbjZmWFlnREJkNFdsdWJFQQ?oc=5",
   "medio": "AFN",
@@ -26,6 +378,64 @@
   ],
   "local": false,
   "id": "b9e16b767ef0824b"
+ },
+ {
+  "titulo": "Más de mil hondureños llegan en caravana a Tapachula",
+  "liga": "https://elcongresista.mx/politica/chiapas/hondurenos-caravana-tapachula",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:33:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Más de mil hondureños llegan a Tapachula en la caravana \"Dios con Nosotros\", buscando mejores oportunidades laborales en su camino hacia EE. UU.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ed83671474eaedce"
+ },
+ {
+  "titulo": "Desmantelan laboratorio de drogas en Puebla; arrestan a dos personas",
+  "liga": "https://elcongresista.mx/politica/puebla/desmantelan-laboratorio-clandestino-drogas-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:33:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Desmantelan laboratorio clandestino en Puebla y detienen a dos personas en un operativo conjunto que asegura metanfetamina y productos químicos.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "519a6c7b05062288"
+ },
+ {
+  "titulo": "Desfile de modas en la Catedral de Puebla genera controversia católica",
+  "liga": "https://elcongresista.mx/politica/puebla/desfile-moda-catedral-puebla-controversia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:32:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Un desfile de modas en la Catedral de Puebla generó fuertes críticas entre católicos. Recintas religiosas y moda, ¿un cruce inadecuado?",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "211a86c117324da6"
+ },
+ {
+  "titulo": "Joven de 23 años asesinada en Xalapa, Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/joven-asesinada-xalapa-veracruz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:31:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Encuentran sin vida a Danna, una joven de 23 años, en Xalapa, Veracruz; la Fiscalía investiga este caso de feminicidio.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "621591e90d5b410b"
  },
  {
   "titulo": "Falleció el artista visual mexicano Arnaldo Coen",
@@ -155,6 +565,35 @@
   "id": "6246125a3a1bc5a3"
  },
  {
+  "titulo": "Isaac del Toro gana el Singapore Criterium 2026 al vencer a Seixas",
+  "liga": "https://elcongresista.mx/politica/baja-california/isaac-del-toro-singapore-criterium-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:02:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Isaac del Toro gana el Singapore Criterium 2026, cerrando su temporada con un triunfo importante en el ciclismo internacional.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4b9e008ccb112d8c"
+ },
+ {
+  "titulo": "León XIV inicia gira por Sudamérica con saludo especial para Colombia",
+  "liga": "https://elcongresista.mx/politica/nacional/leon-xiv-gira-sudamericana-saludo-colombia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T13:01:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "León XIV inicia su primera gira por Sudamérica y envía un saludo especial a Colombia desde su vuelo hacia Uruguay.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "16ca89850446890f"
+ },
+ {
   "titulo": "Consejo por la Seguridad y Bienestar Social de Tijuana A.C. respalda jubilación policial a los 25 años de servicio",
   "liga": "https://www.uniradioinforma.com/sociedad/consejo-seguridad-bienestar-social-tijuana-ac-respalda-jubilacion-policial-25-anos-servicio-n913143",
   "medio": "Uniradio Informa",
@@ -183,6 +622,50 @@
   ],
   "local": true,
   "id": "05d547e29483269c"
+ },
+ {
+  "titulo": "Regidora de Desamparados rechaza inscripción de organización musulmana",
+  "liga": "https://elcongresista.mx/politica/nacional/regidora-desamparados-rechaza-inscripcion-organizacion-musulmana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:57:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La regidora María Isabel Llamas cuestionó la inscripción de la organización musulmana Tawfiq Al Islam en Desamparados, generando controversia.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e9e16ab31a5f03b7"
+ },
+ {
+  "titulo": "La Plata presenta más de 50 edificios en su festival arquitectónico",
+  "liga": "https://elcongresista.mx/cultura/la-plata-open-house-50-edificios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La Plata abre más de 50 edificios durante el festival Open House, permitiendo a la comunidad explorar su patrimonio arquitectónico.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "431c7090dd8025a3"
+ },
+ {
+  "titulo": "La Plata: operarán normalmente servicios municipales el 9 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/la-plata-servicios-municipales-9-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:53:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La Municipalidad de La Plata garantiza el funcionamiento de servicios esenciales durante el feriado del 9 de noviembre.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dde015e93873c1eb"
  },
  {
   "titulo": "Burgueño acompaña a Marina del Pilar en su quinto informe de gobierno",
@@ -214,6 +697,21 @@
   "id": "910421c02bcff03d"
  },
  {
+  "titulo": "Ismael Burgueño respalda informes de Marina del Pilar en B.C.",
+  "liga": "https://elcongresista.mx/politica/baja-california/respaldo-burgeuno-informe-marina-del-pilar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:48:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Ismael Burgueño respalda el quinto informe de Marina del Pilar, destacando logros en infraestructura y educación en Baja California.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "a4498b8fb9a16f9a"
+ },
+ {
   "titulo": "Localizan con vida a alcalde tamaulipeco privado de la libertad la noche del sábado",
   "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWdFemN5c3dkdmhtX2N4Q21VTlZ4SWpZWDlzaHQ5VWtzZFVIWXFIQk1JVFRIN0toMWg5SzlfR0N2VDQycVZDWmZUQ3ZGMXJLQ2h4SWRXbEV5WDlQaWJiTXJrbjRueVUwNzNTTmdKamw3X3Z3VmQ2STg1X0t6Uk44VnpnX3RBeHhKX3lkNVpDUVFaYno1RDFMZXBYaUl0WWhwLWZfc2dXNVhLUHF0Z2kyWS13LURpZnFtMmQzb1Y1U0pQbndzdHNqWldzV3pwQkU?oc=5",
   "medio": "AFN",
@@ -226,6 +724,35 @@
   ],
   "local": false,
   "id": "3d46860a414195cd"
+ },
+ {
+  "titulo": "Galería Libertad de Querétaro presenta 200 obras en exposiciones",
+  "liga": "https://elcongresista.mx/politica/queretaro/galeria-libertad-queretaro-obras-artistas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:47:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La Galería Libertad de Querétaro presenta dos exposiciones con más de 200 obras hasta diciembre. Visítalas de martes a domingo.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "abc3369b7226658f"
+ },
+ {
+  "titulo": "Gobierno de CDMX aprueba créditos Xitopehua de hasta 100,000 pesos",
+  "liga": "https://elcongresista.mx/finanzas/cdmx-creditos-xitopehua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T12:46:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "El Gobierno de CDMX lanza créditos Xitopehua de hasta 100,000 pesos para apoyar a Pymes sin intereses.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "f4358e4d35979c37"
  },
  {
   "titulo": "FGE obtiene vinculación a proceso y prisión preventiva contra imputado por feminicidio",
@@ -1467,6 +1994,20 @@
   "id": "1f00e3c637242c97"
  },
  {
+  "titulo": "UTT busca que más mujeres estudien ingeniería; representan 30% de la matrícula",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/utt-busca-que-mas-mujeres-estudien-ingenieria-representan-30-de-la-matricula-33032009",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-08T09:32:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La universidad visita secundarias y preparatorias para promover las carreras de ciencias exactas entre las alumnas y combatir los estereotipos de género.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "98d1a38a12ee76a9"
+ },
+ {
   "titulo": "Asesinan a dos hombres en Morelia; uno era un adolescente",
   "liga": "https://elcongresista.mx/politica/michoacan/asesinan-dos-hombres-morelia",
   "medio": "El Congresista",
@@ -1480,6 +2021,21 @@
   ],
   "local": false,
   "id": "d6932fd6fde958d7"
+ },
+ {
+  "titulo": "Muere adulta mayor atropellada; conductor responsable se dio a la fuga",
+  "liga": "https://oem.com.mx/lavozdelafrontera/policiaca/muere-adulta-mayor-atropellada-conductor-responsable-se-dio-a-la-fuga-33032044",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-08T09:26:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "Los hechos se registraron la noche del sábado en la colonia Nueva Esperanza",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4993dd9952334f39"
  },
  {
   "titulo": "Arranca la liguilla del Apertura de la Liga Femenil BBVA con duelos clave",
@@ -1555,6 +2111,36 @@
   "id": "d14f29581ff8105b"
  },
  {
+  "titulo": "Siguen mesas de trabajo por agua sucia en Islas Agrarias B",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/siguen-mesas-de-trabajo-por-agua-sucia-en-islas-agrarias-b-33031935",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-08T09:19:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "El consumo de agua no tratada puede derivar en riesgos para la salud y la piel, advirtió el secretario de Salud de Baja California",
+  "temas": [
+   "Gobierno del estado",
+   "Agua",
+   "Salud"
+  ],
+  "local": true,
+  "id": "73a25e723d7186d5"
+ },
+ {
+  "titulo": "Suman más de 5 mil personas afectadas por los 15 deslizamientos activos en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/suman-mas-de-5-mil-personas-afectadas-por-los-15-deslizamientos-activos-en-tijuana-33032054",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-08T09:18:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "El funcionario señaló que personal del área de investigación realiza recorridos de monitoreo al menos una vez por semana para revisar el comportamiento del terreno y detectar posibles cambios.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "41abcdfb271d3296"
+ },
+ {
   "titulo": "Detienen en Michoacán a nieto de adulta mayor Isidra “N” por delitos.",
   "liga": "https://elcongresista.mx/justicia/detencion-nieto-adulta-mayor-isidra",
   "medio": "El Congresista",
@@ -1567,6 +2153,48 @@
   ],
   "local": false,
   "id": "b193839ea276437f"
+ },
+ {
+  "titulo": "Cierran entre cinco y seis empresas dedicadas a la construcción en Tijuana durante el 2026",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/cierran-entre-cinco-y-seis-constructoras-en-tijuana-durante-2026-33031821",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-08T09:08:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "El presidente de la CMIC en Tijuana que este año algunas empresas tuvieron un año “medianamente”, mientras otras no obtuvieron resultados favorables.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "b37018fcc1151e29"
+ },
+ {
+  "titulo": "Los juegos en línea lo meten en serio problema económico",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/los-juegos-en-linea-lo-meten-en-serio-problema-economico-33031402",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-08T09:05:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La incertidumbre laboral llevó a Pedro a probar suerte en los casinos donde buscaba aumentar su capital económico, después, los juegos en línea casi lo llevan a la ruina",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c75db601809fa82e"
+ },
+ {
+  "titulo": "Superan los retos de Prohibido Rendirse",
+  "liga": "https://oem.com.mx/lavozdelafrontera/deportes/superan-los-retos-de-prohibido-rendirse-33031383",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-08T08:55:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T14:39:43-06:00",
+  "resumen": "La competencia celebró su doceava edición con pruebas de resistencia, fuerza y velocidad",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "faeba3ad7dbaa3a0"
  },
  {
   "titulo": "Bodega Aurrera: más de 2,700 sucursales consolidan su crecimiento",
