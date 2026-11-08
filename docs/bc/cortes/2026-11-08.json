@@ -1,5 +1,137 @@
 [
  {
+  "titulo": "Alcalde de Río Bravo, Tamaulipas, secuestrado en Zacatecas",
+  "liga": "https://elcongresista.mx/tamaulipas/alcalde-rio-bravo-secuestro-zacatecas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T05:32:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "Miguel Ángel Almaraz, alcalde de Río Bravo, Tamaulipas, fue secuestrado en Zacatecas mientras viajaba hacia San Luis Potosí.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "32470fca383abc73"
+ },
+ {
+  "titulo": "Elecciones en EE. UU.: triunfo demócrata marca un cambio significativo",
+  "liga": "https://elcongresista.mx/politica/nacional/elecciones-eeuu-triunfo-democratico-cambios-impuestos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T05:22:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "La victoria demócrata en las elecciones de EE. UU. indica un cambio en la política económica y un llamado a la justicia social.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "db438998e4634a45"
+ },
+ {
+  "titulo": "Regidor de Ramos Arizpe se opone a venta de predios por 80 mdp",
+  "liga": "https://elcongresista.mx/politica/coahuila/regidor-ramos-arizpe-opone-venta-terrenos-80mdp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T04:55:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "Regidor del PRI en Ramos Arizpe se opone a la venta de terrenos valorados en 80 mdp a precio catastral durante sesión de Cabildo.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "e92c68276a7720d5"
+ },
+ {
+  "titulo": "Comercios de Ensenada se vestirán de celeste y blanco y regalarán comidas típicas en el Día de la Tradición",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUnNjU3laWHVJYjUxRGg2WEFpUGdjR1U1bmVwUGlLWEpQTkVhMHBKdHVGeDl4OEkycWpUN2x2d2RXYmZRSFFaV3pQcVFBNUVOT253ODNpSTlMQU43andScV8wczBmWVZaUTJUM0gxSEE4U1EyNWtydDk2anh6ekxwV0xMcUhRLUxaOWtNcmVxTElwS2tuZGJqYUkxQ2FwZ25RN25mS2xsQ21HV0JBWl85ZDZ2d0tkOHhQOF9IMlhmS2tjMUFJQVBjT2VWOEpEckF3c2fSAdcBQVVfeXFMTzBjZkpHMVROQTZwaE1qM1ZMcDh0dUxwbVZaYkYyVDZsTnc4UDVrWkRuNGU5MmhVLTV4YXFQTDh6VGFOd2hHalNTOFlWQ25EUkRNNFQ0Q3o0dGw3bjFCaGozQThScWk0d0lPbGhfMDl0M1d3V1BoMzdSa3FzZGEyUE1DMzZ3bFE3ZWp5OC14eVZlOHlqZjV6TlR1WjktR1B2NGFLZC1JREZwenBSb0o3d3U5QVNWNFBhVlU2QmhNbFBMSzZwNEEwLTh4azFLV05uZXR3dmhDNjA?oc=5",
+  "medio": "0221",
+  "publicada": "2026-11-08T04:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "Comercios de Ensenada se vestirán de celeste y blanco y regalarán comidas típicas en el Día de la Tradición 0221",
+  "temas": [
+   "Cultura y tradiciones",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "88f3a7b617e2ea0b"
+ },
+ {
+  "titulo": "Vida marina transforma instalación escultórica sumergida en 2010",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/vida-marina-transforma-instalacion-isla-mujeres",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T04:49:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "La instalación \"La Evolución Silenciosa\" en Isla Mujeres se transforma en un arrecife natural después de 17 años de vida marina.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "796b8578b903dba5"
+ },
+ {
+  "titulo": "La educación financiera en jóvenes comienza en casa y no en las aulas",
+  "liga": "https://elcongresista.mx/educacion/educacion-financiera-jovenes-comienza-en-casa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T04:48:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "La educación financiera inicia en el hogar, no en las aulas, señala un asesor financiero. La clave está en conversar sobre dinero desde la niñez.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "667c9c1816a9cf7d"
+ },
+ {
+  "titulo": "INE enfrenta crisis de credibilidad tras acusaciones de corrupción",
+  "liga": "https://elcongresista.mx/justicia/ine-crisis-credibilidad-corruccion-taddei",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T04:46:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "El INE enfrenta una crisis de credibilidad tras acusaciones de corrupción en su dirección. La independencia del organismo está en peligro.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e8f532e808dbd603"
+ },
+ {
+  "titulo": "Cuba y Xinhua refuerzan la cooperación en información y tecnología",
+  "liga": "https://elcongresista.mx/politica/nacional/cuba-xinhua-cooperacion-inteligencia-artificial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T04:38:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "Cuba y Xinhua estrechan la cooperación mediática y tecnológica en un contexto de desafíos globales y hostilidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6a9abebddf05dcf3"
+ },
+ {
+  "titulo": "Más del 70% de la población mundial cree en la ciencia, anuncia OMS",
+  "liga": "https://elcongresista.mx/ciencia/oms-ciencia-respaldo-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T04:36:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T05:40:40-06:00",
+  "resumen": "Más del 70% de la población mundial respalda la ciencia, según la OMS, que lanzará un movimiento para fortalecer esta confianza.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "78340ea07c54e992"
+ },
+ {
   "titulo": "León XIV llama a la santidad a la Iglesia, señala cambios necesarios",
   "liga": "https://elcongresista.mx/politica/nacional/león-xiv-santidad-iglesia-cambio",
   "medio": "El Congresista",
