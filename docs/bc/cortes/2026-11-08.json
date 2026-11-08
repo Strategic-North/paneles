@@ -1,5 +1,142 @@
 [
  {
+  "titulo": "Javier May presenta su Segundo Informe de Gobierno en Tabasco.",
+  "liga": "https://elcongresista.mx/politica/nacional/segundo-informe-gobierno-javier-may-tabasco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T08:30:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "Javier May presenta su Segundo Informe de Gobierno en Tabasco, donde se detallan avances y compromisos para el futuro.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dcdfbe6a9d1336e0"
+ },
+ {
+  "titulo": "Uriel Chávez se dedica a la venta de piñatas tras perder empleo",
+  "liga": "https://elcongresista.mx/politica/sonora/uriel-chavez-venta-pinatas-hermosillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T08:29:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "Uriel Chávez se dedica a la venta de piñatas en Hermosillo tras perder su empleo como guardia de seguridad.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c1b63c4720be44d7"
+ },
+ {
+  "titulo": "Alerta meteorológica en Coahuila y Nuevo León por intenso frente frío",
+  "liga": "https://elcongresista.mx/politica/coahuila/alerta-meteorologica-coahuila-nuevo-leon-frente-frio-4",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T08:21:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "Coahuila y Nuevo León están en alerta por lluvias intensas por el frente frío 4, que podrían generar inundaciones en la región.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c694fd5b2e55d1dd"
+ },
+ {
+  "titulo": "Hombre muere tras chocar contra tráiler en carretera 57",
+  "liga": "https://elcongresista.mx/politica/queretaro/hombre-muere-chocar-trailer-carretera-57",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T08:19:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "Un hombre falleció tras un accidente en la carretera 57 al chocar su camioneta contra un tráiler.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ae8501229591a1c1"
+ },
+ {
+  "titulo": "Ciudadanos convocan manifestación en Río Bravo por alcalde secuestrado",
+  "liga": "https://elcongresista.mx/tamaulipas/manifestacion-rio-bravo-alcalde-secuestrado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T08:17:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "Comunidades en Río Bravo exigen la liberación del alcalde Miguel Ángel Almaraz, secuestrado en Zacatecas, mediante una manifestación pacífica.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "c0acccd6c844a2ae"
+ },
+ {
+  "titulo": "Frente frío 4: lluvias intensas y heladas en el noreste del país",
+  "liga": "https://elcongresista.mx/politica/coahuila/frente-frio-4-lluvias-intensas-heladas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T08:07:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "El frente frío 4 causará lluvias intensas y heladas en el noreste del país este domingo, con afectaciones posibles.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9703b0b86e456564"
+ },
+ {
+  "titulo": "Clima: pronóstico de lluvias intensas y frío en el norte de México",
+  "liga": "https://elcongresista.mx/politica/nacional/clima-mexico-8-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T08:05:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "El SMN pronostica lluvias intensas y frío en el norte de México este 8 de noviembre, con temperaturas muy bajas en algunas regiones.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d5e9cfcfb2a45117"
+ },
+ {
+  "titulo": "Alerta meteorológica en Castilla y León por borrasca Bruna",
+  "liga": "https://elcongresista.mx/politica/nacional/alerta-meteorologica-castilla-leon-borrasca-bruna",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:53:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "La Junta de Castilla y León declara alerta meteorológica por lluvias intensas debido a la borrasca Bruna, que afecta a todas las provincias.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a615d04aec26e0fd"
+ },
+ {
+  "titulo": "Tartagal: intendente destaca labor de empleados municipales en su día",
+  "liga": "https://elcongresista.mx/politica/nacional/tartagal-intendente-destaca-labor-empleados-municipales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T07:52:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "El intendente de Tartagal, Franco Hernández Berni, celebra el Día del Trabajador Municipal reconociendo la labor de sus empleados.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f2abf3eef3ca07bc"
+ },
+ {
   "titulo": "Comisario Gauto resalta crecimiento en el GOE tras 17 años de servicio",
   "liga": "https://elcongresista.mx/politica/nacional/comisario-gauto-crecimiento-goe",
   "medio": "El Congresista",
@@ -1139,6 +1276,20 @@
   "id": "d97c2c4db979680c"
  },
  {
+  "titulo": "El Día Internacional del Enlace entre las Ciencias Médicas",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTgwTlFzdXN1S2RZWmExOVFXMmZwMy1EdkNLZVBxbWh6cjROQ0lGaC1Welo4VWJ1a3RWSDhGV0xRMWEyVHIwYnk0SzFSa18tSkhWNnBnd3JJLUtNSFdBQm9HZG9LVXdOanhkd3k0alVLdDZyZzRfdnhmZWtqVDNlUlBqbDNKZTg2Y1NNbEdyREVNN3hTOHF0cVZkdHpHYUZkYWNNNzhRUnE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-08T00:18:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "El Día Internacional del Enlace entre las Ciencias Médicas Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8a270df5756ee75a"
+ },
+ {
   "titulo": "¿Cansados de las mujeres? IEE propone que haya más hombres",
   "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTdScFkwNkJHTEJEWmFCN2JCemFzZ1JETnRvakdzcjl2NVllOUl4VUtiRkZodXNpakhpcklSOWFyTWY1ZDYwZHhiUkk2N2JhdGx0REZTZ2RtSDd3a3RyVHh4REVZd0lGVGpnVFYtaFUtTnFYX2p6WnFYSEMxOGJNYkoxZzV5bUgzTVBkY1NsSTlIcDVCeE9yYnRPTkZnSDVSVXUw?oc=5",
   "medio": "AFN",
@@ -1775,6 +1926,20 @@
   "id": "f15cad3f5d88f67e"
  },
  {
+  "titulo": "Terremoto leve mag. 3.4 - 15 km al noroeste de Ensenada, Baja California, México, Saturday 7 Nov 2026 a las 20:50 (Hora Mexico_City)",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTVIR2RReFhVYm5CQ1NYV3NIZzVBWUZFNDQtVjlaLTVGc1UtdXdsLXZIRWZlNl9vSTFtNnlXRFVzNzRaMmZNTnFUdnlCQ0poZy1Fa213MmpvbDR4UFBlWW9aR0t4bFV4REdLSjM1a2pNcjFncWJFR3N4bnhveEstN2hMeFZrRDZPRVNhUE1aX0Rib05qX1Rta1BVVXAzM2k5bzJ2OWtTdmc1aTQ2WkR4RnVQMktwTEd4b1dLVlFYeThPUmVMM2x2WUlpQQ?oc=5",
+  "medio": "Volcano Discovery",
+  "publicada": "2026-11-07T21:25:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "Terremoto leve mag. 3.4 - 15 km al noroeste de Ensenada, Baja California, México, Saturday 7 Nov 2026 a las 20:50 (Hora Mexico_City) Volcano Discovery",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4a458e7959c02859"
+ },
+ {
   "titulo": "Asesinan a exlanzador Enrique Quiñones en Mazatlán",
   "liga": "https://zetatijuana.com/2026/11/asesinan-a-exlanzador-enrique-quinones-en-mazatlan/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-exlanzador-enrique-quinones-en-mazatlan",
   "medio": "Zeta Tijuana",
@@ -1789,6 +1954,20 @@
   ],
   "local": true,
   "id": "ce3b256caec06227"
+ },
+ {
+  "titulo": "Light mag. 3.4 earthquake - 15 km northwest of Ensenada, Estado de Baja California, Mexico, on Saturday, Nov 7, 2026, at 08:50 pm (Mexico_City time)",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNlB2NDNiVWpnOHV0S2Q0TVpjTEYzWEI2ZUE2cXM2T1hTX3ViYTh6ZFprVlpnVTlWY2RkVlM3M0RKekozcV80RnZWVk1LeWUxTXI1a3Q1cVpwd1hUWGJFb3lKaGlYcXVwTnZuVTBJdHY5dk42aTZEY2RFZE1IVzBSM1dEanBJQTZIMnVCNWxhTF9QdXFPWkpKSGJySTNaU1Nnc1pxRFFwRDctemdmd3Q5Qzd3aWJDMUFDaVI3ZlltQk1kcUdPNmhULWZn?oc=5",
+  "medio": "Volcano Discovery",
+  "publicada": "2026-11-07T21:20:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T08:41:40-06:00",
+  "resumen": "Light mag. 3.4 earthquake - 15 km northwest of Ensenada, Estado de Baja California, Mexico, on Saturday, Nov 7, 2026, at 08:50 pm (Mexico_City time) Volcano Discovery",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "83ed867e823d7c18"
  },
  {
   "titulo": "INE analiza mejoras laborales para empleados en Módulos de Atención",
