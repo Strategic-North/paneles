@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-07T20:44-06:00",
+ "actualizado": "2026-11-07T20:54-06:00",
  "corte": "2026-11-08",
  "ventana": [
   "2026-11-07T20:00-06:00",
   "2026-11-08T20:00-06:00"
  ],
- "total": 13,
+ "total": 20,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -45,8 +45,8 @@
   },
   {
    "fuente": "El Congresista",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "notas": 30
   },
   {
    "fuente": "El Portavoz",
@@ -81,7 +81,7 @@
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 93
+   "notas": 91
   },
   {
    "fuente": "Google News: site:afntijuana.info",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 29
+   "notas": 28
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
