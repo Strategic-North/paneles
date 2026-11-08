@@ -1,5 +1,48 @@
 [
  {
+  "titulo": "Secuestran a Alcalde de Río Bravo",
+  "liga": "https://www.elnorte.com/secuestran-a-alcalde-de-rio-bravo/ar3310458",
+  "medio": "El Norte",
+  "publicada": "2026-11-08T00:06:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T00:58:02-06:00",
+  "resumen": "Secuestran en San Luis Potosí a Miguel Ángel Almaraz, Alcalde de Río Bravo, Tamaulipas; sus familiares fueron liberados.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "2a772bec1fcbca5a"
+ },
+ {
+  "titulo": "Última hora",
+  "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWl1dW9wbHBGbkpzeGNlMzNNYkIwTTJGdU45WGFESFZIc3R2X3lUbHdKczM2U21PZmVQRFBtSzd0aW9yWG5Yd3haaXRSSmstTWhEb1ZHUUs1UjZSU0xvekc4bHJ6YVpiRElnM05jZlMtLUtRTHJWcEtPaU52S1lubHAxSEpiQQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-08T00:02:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T00:58:02-06:00",
+  "resumen": "Última hora Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0b537fe1cba87ce6"
+ },
+ {
+  "titulo": "Messi gana su segundo Botín de Oro de la MLS y Nashville bate el récord de puntos",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/7/messi-gana-su-segundo-botin-de-oro-de-la-mls-y-nashville-bate-el-record-de-puntos-294814.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-07T23:59:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T00:58:02-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "df43031b4634a310"
+ },
+ {
   "titulo": "Reportan presunto secuestro del alcalde de Río Bravo, Tamaulipas",
   "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0dtS1U3ZWJtY2w1VTVFbUJTRHduZnhNNzhOUFBaSXdQMEJWdE05ekFqRnBYRDBXX3FLY0swc1BUZmZ2SGt1TnlBVFZoSWttTlZOcDFEZ1RzTnJsdGNyWkt5WVVkbDQ0QTZzMzRJd1lXSU5fbmhJdWhfU2szcTZEYnlJaW5DZWNFU05aU1NnejN0OWxQcUlyUEpwN2gyZTN2ampOUm5XZjJIdFlQcVZzUkVB?oc=5",
   "medio": "El Horizonte",
@@ -55,6 +98,20 @@
   ],
   "local": true,
   "id": "0f245363559820e4"
+ },
+ {
+  "titulo": "Nikola Jokic lidera triunfo de Denver Nuggets 114-102 sobre Indiana Pacers en México",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/7/nikola-jokic-lidera-triunfo-de-denver-nuggets-114-102-sobre-indiana-pacers-en-mexico-294815.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-07T23:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T00:58:02-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fe6f7a966616ccab"
  },
  {
   "titulo": "Matías Almeyda, tras goleada en Toluca: No hicimos nada, fue muy pobre… un desastre",
@@ -210,6 +267,20 @@
   ],
   "local": false,
   "id": "f6b26250ddb13111"
+ },
+ {
+  "titulo": "¿Por qué anularon el gol de Pumas vs. América? César Ramos explica la polémica anotación de Robert Morales",
+  "liga": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ1VhajBlWDJfRUE5R0E2akJiX29Hd0dWQXN2OFg3eVhPSWpEd3d3cGktRFdwMGlLMXdCRTVkZml2U2FxMml4ZGUydkNEVktnQW1iMzNDd2tVMVdVdmg5S2Z2SEh2R2d5d29zaWZ1M1RMTlVwX0dTRGZkWDFkX21qblNndFJETnVfN0E5c2ZCN096QjdRSEF6OE8wZWZOQm84ODJuWmF3S3A2SUpJWTRSeWx4RmI4a00tM0xoc1pBYzRCQU9OY0dqYW1ERU1yam9Hckt3aE9pUURMMXZ1eC1mWW1IQzJvakREUVpMUEJaQlFGR0FE?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-07T22:07:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T00:58:02-06:00",
+  "resumen": "¿Por qué anularon el gol de Pumas vs. América? César Ramos explica la polémica anotación de Robert Morales Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "505bb83591585c6f"
  },
  {
   "titulo": "Hermana de Octavio Ocaña recuerda al actor en su natalicio",
@@ -522,6 +593,20 @@
   "id": "378b8c1332f5227f"
  },
  {
+  "titulo": "Paraguay afirma que se \"fortalecerá\" tras la crisis generada por el colapso de Ueno Bank",
+  "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFBiRVEweElUQVI3ekhYZmRuNVhxQ1E5WWxsRTZ0MkgtMTkzd08xbTdLbGVpMUVNdDhaci14bGpaUFJ0S1JCM1VlcjVDVDhRMHpkVHdtQXA5MjNnQnF3NnNacVJRdFRqQng0RktDM2lOWVdaS0h1R3dwaGFTa2VlVDlHZnA2NTFi0gGIAUFVX3lxTE5LX2kyRWoyeE9nRm5XdlZPY3BTbTB6enlneDNMM1UtOGcxS3VHX2cwckM5TWd6MW54dTRMb2pHc2c2amNsM3JTalJ3UHBEVEY5T3FqUGRpS1hwcWZRVTIzS1JOUzVNRzBENXVVWXBzZGMyMEVpVlNhbFBmVE5MQTFHUnFPRjUwUGc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-07T21:08:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T00:58:02-06:00",
+  "resumen": "Paraguay afirma que se \"fortalecerá\" tras la crisis generada por el colapso de Ueno Bank MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d2f4ec661228da1f"
+ },
+ {
   "titulo": "Expresa Pablo apoyo incondicional a Natalia Alcocer",
   "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHNtUHdjSU1rdk9KMDdzOVFnZGlzM2ZRaG1PeE1RM01lQ2xfaDliUWZKZmV4UXBYRkh2Yi0zeWRGdG51YTRVMUJlNkZrQXFZeTJ1eXdZS2JndDNNMlIzRXgwbGlmeFMwSVRZNXdtRnk4eVhkNXhyZUVZMWg4dklIUDhKZmY5T3lMMGZaZjZNYlFJSHZKYVZvRkplZS0?oc=5",
   "medio": "El Horizonte",
@@ -772,6 +857,20 @@
   ],
   "local": false,
   "id": "5ad473d8376bc214"
+ },
+ {
+  "titulo": "Congelan cuentas de Kimberly, ‘La más preciosa’, por problemas con el SAT: ‘No sé qué voy a hacer’",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlZmTzRBR3hsZHB4VzByUDRPY2IydDE3OGhWcjlLQmtIRFJHTGxIZlI1RmdUZ1Y1emZvNU8xRnZPaTlEU3VzZzZiWk5YSU1hZWI5elhxdGdMdEJBTFpXaC1QTGJmWThpNmY5Z0VoVGJlRTVTVnRLZkNBakVudmlqV1k5WkNSa3FBaVBGVUktY2JadG9RSklmYmZhazA0Z2k5OWR3eEtSUUdxOHhBOGFLdG1DanJtNGxxVFhBLU1iQnkweDhx?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-07T20:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T00:58:02-06:00",
+  "resumen": "Congelan cuentas de Kimberly, ‘La más preciosa’, por problemas con el SAT: ‘No sé qué voy a hacer’ El Financiero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "a23d02d14cef9e94"
  },
  {
   "titulo": "Más de 50 casos de dengue en Hidalgo: ¿cómo evitar nuevos contagios?",
