@@ -1,5 +1,564 @@
 [
  {
+  "titulo": "FGR asegura 100 mil litros de hidrocarburo en Matamoros, Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/fgr-hidrocarburo-matamoros-tamaulipas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T19:01:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La FGR asegura 100 mil litros de hidrocarburo en Matamoros y detiene a cuatro personas involucradas en el incidente.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e5c47003f2e67fe3"
+ },
+ {
+  "titulo": "Asesinan a exjugador de Tomateros de Culiacán en Villa Unión",
+  "liga": "https://elcongresista.mx/politica/sinaloa/asesinan-enrique-quinones-villa-union",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Asesinan a Enrique Quiñones Garzón, exjugador de Tomateros de Culiacán, en Villa Unión el 7 de noviembre.",
+  "temas": [
+   "Seguridad",
+   "Campo y pesca",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7c4975a6714bbe25"
+ },
+ {
+  "titulo": "Artista presenta serie fotográfica sobre cuerpos diversos en San Luis Potosí",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/artistas-cuerpos-diversos-san-luis-potosi",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:54:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Jesús Orlando Acosta presenta su serie fotográfica sobre cuerpos diversos en el Museo Universitario de San Luis Potosí, cuestionando los estereotipos de belleza.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d3623d9d7d7de9a9"
+ },
+ {
+  "titulo": "Claudia Sheinbaum inaugura puente Rizo de Oro en Chiapas",
+  "liga": "https://elcongresista.mx/politica/chiapas/puente-rizo-de-oro-chiapas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:45:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Claudia Sheinbaum inauguró el puente Rizo de Oro en Chiapas, que conectará comunidades y beneficiará a más de 300 mil personas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "59472c8d590b1bca"
+ },
+ {
+  "titulo": "El riesgo país en Argentina sube a 939 puntos tras revés electoral",
+  "liga": "https://elcongresista.mx/politica/nacional/riesgo-pais-argentina-939-puntos-basicos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:43:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "El riesgo país de Argentina sube a 939 puntos básicos tras revés electoral en EE. UU., impactando el mercado de bonos.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b401382ce7e4f439"
+ },
+ {
+  "titulo": "Entregan 18 nombramientos docentes en Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/nombramientos-docentes-tamaulipas-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:42:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La Secretaría de Educación de Tamaulipas entregó 18 nuevos nombramientos a docentes para educación básica en varios municipios del estado.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal",
+   "Educación"
+  ],
+  "local": false,
+  "id": "078d054f3778e57a"
+ },
+ {
+  "titulo": "De Loredo y Juez buscan unidad opositora en Córdoba ante Llaryora",
+  "liga": "https://elcongresista.mx/politica/nacional/de-loredo-juez-unidad-opositora-cordoba",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:35:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "De Loredo y Juez buscan unidad en Córdoba, pero tensiones territoriales complican la estrategia opositora.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9381e029ad27f5b4"
+ },
+ {
+  "titulo": "Asesinan a Enrique Quiñones, ex-pelotero, en Mazatlán",
+  "liga": "https://elcongresista.mx/politica/sinaloa/asesinan-enrique-quinones-mazatlan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:34:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Asesinan a Enrique Quiñones, ex-pelotero de los Tomateros, en Mazatlán a los 57 años de edad en un ataque armado.",
+  "temas": [
+   "Seguridad",
+   "Campo y pesca",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9b01cb833c096f9b"
+ },
+ {
+  "titulo": "Tijuana y Baja California participan en el San Diego Food + Wine Festival 2026",
+  "liga": "https://elportavoznoticias.com.mx/tijuana-y-baja-california-participan-en-el-san-diego-food-wine-festival-2026/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-07T18:33:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La edición de este año reúne a alrededor de 80 chefs y cocineros tradicionales de México, además de representantes de la industria gastronómica y vitivinícola, con actividades enfocadas en promover la cocina... La entrada Tijuana y Baja California participan en el San Diego Food ",
+  "temas": [
+   "Cultura y tradiciones",
+   "Economía y empleo",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "7c2db8144a7300b8"
+ },
+ {
+  "titulo": "Liga Meridana: retirarán el número 25 de Abraham Salomón",
+  "liga": "https://elcongresista.mx/politica/yucatan/liga-meridana-retiro-numero-25-abraham-salomon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:32:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La Liga Meridana rendirá homenaje a Abraham Salomón al retirar su número 25 el 8 de noviembre en Pacabtún.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "30c3f2e5947b1f72"
+ },
+ {
+  "titulo": "Rectora de UMSNH denuncia amenazas en su contra por ataques recibidos",
+  "liga": "https://elcongresista.mx/justicia/yamabi-avila-umsnh-amenazas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:31:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Yarabí Ávila, rectora de UMSNH, denuncia amenazas y atacas a su gestión, expresando su preocupación por la seguridad de su vida.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "be09bbc4a07e0b7e"
+ },
+ {
+  "titulo": "Fiscalía localiza a 19 personas reportadas como desaparecidas en Tijuana",
+  "liga": "https://elportavoznoticias.com.mx/fiscalia-localiza-a-19-personas-reportadas-como-desaparecidas-en-tijuana/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-07T18:28:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "De acuerdo con la institución, las localizaciones fueron resultado de las labores de la Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida... La entrada Fiscalía localiza a 19 personas reportadas c",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9a1b408d1bf7a01d"
+ },
+ {
+  "titulo": "Bebo Antuna anuncia 5.3 mdp en obras para Santa Bárbara y busca reelección",
+  "liga": "https://elcongresista.mx/politica/chihuahua/bebo-antuna-obras-santa-barbara-reeleccion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:22:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Bebo Antuna anuncia una inversión de 5.3 millones de pesos en obras y busca su reelección en Santa Bárbara para 2027.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3bd135e464c9bb0c"
+ },
+ {
+  "titulo": "Isaac Herzog encarga a Gadi Eisenkot formación de gobierno en Israel",
+  "liga": "https://elcongresista.mx/politica/nacional/isaac-herzog-gadi-eisenkot-gobierno-israel",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:21:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "El presidente israelí Isaac Herzog encarga a Gadi Eisenkot formar un nuevo gobierno tras elecciones del 27 de octubre.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d0f6ab13fc08b1d6"
+ },
+ {
+  "titulo": "ADEPA aplaude postura del Papa sobre IA antes de su visita a Argentina",
+  "liga": "https://elcongresista.mx/politica/nacional/adepa-papa-posicion-inteligencia-artificial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:19:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La ADEPA celebra la postura del Papa sobre la inteligencia artificial en vísperas de su visita a Argentina del 8 al 11 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8eee0f31eb52319f"
+ },
+ {
+  "titulo": "Muere influencer surcoreano Jo Jin-woo tras ser atropellado en El Alto, Bolivia",
+  "liga": "https://elcongresista.mx/politica/nacional/influencer-surcoreano-muere-atropellado-el-alto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:17:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Jo Jin-woo, influencer surcoreano, muere a los 33 años tras ser atropellado en El Alto, Bolivia, mientras documentaba su viaje en bicicleta.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aaadb62f1243cf39"
+ },
+ {
+  "titulo": "Sheinbaum inagura puente Rizo de Oro en la Concordia: es bienestar y justicia para los pueblos de Chiapas",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-inagura-puente-rizo-oro-concordia-bienestar-justicia-pueblos-chiapas-n913110",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T18:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "\"Esa es la diferencia, siempre vamos a estar cerca de Chiapas y de las y los chiapanecos\", afirmó la mandataria",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6462087f37c98daa"
+ },
+ {
+  "titulo": "Arrestan elementos municipales a un hombre por presunta violencia familiar",
+  "liga": "https://www.uniradioinforma.com/policiaca/arrestan-elementos-municipales-hombre-presunta-violencia-familiar-n913108",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T18:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "01ccf554f7d8f86f"
+ },
+ {
+  "titulo": "Boston Celtics superan a Milwaukee Bucks en contundente victoria",
+  "liga": "https://elcongresista.mx/politica/nacional/boston-celtics-victoria-milwaukee-bucks",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:05:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Boston Celtics vencen cómodamente a Milwaukee Bucks 119-80, alargando su racha exitosa en la NBA.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "93c78742483f587e"
+ },
+ {
+  "titulo": "Pistons se enfrentan a Lakers con racha positiva en Detroit",
+  "liga": "https://elcongresista.mx/politica/nacional/pistons-vs-lakers-nba-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:04:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Detroit Pistons se enfrentan a Los Angeles Lakers en un duelo clave de la NBA con ambos equipos en racha.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "09e90e83b1216b33"
+ },
+ {
+  "titulo": "Sheinbaum inaugura puente Rizo de Oro; reducirá traslados",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-inaugura-puente-rizo-oro-reducira-traslados-n913106",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T18:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La obra conecta comunidades de Chiapas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "84c05b6a93baf97f"
+ },
+ {
+  "titulo": "Localizan en Ciudad Juárez a adolescente desaparecida del Edomex",
+  "liga": "https://elcongresista.mx/politica/edomex/hallan-adolescente-desaparecida-edomex-juarez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:02:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La adolescente Mariela de la Cruz Lorenzo fue localizada en Ciudad Juárez tras su desaparición en el Estado de México.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4062586ca295f873"
+ },
+ {
+  "titulo": "Confirman brote de influenza aviar en granja de Umán, Yucatán",
+  "liga": "https://elcongresista.mx/politica/yucatan/uman-yucatan-brote-influenza-aviar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:01:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La SADER confirma un brote de influenza aviar en granja de Umán, Yucatán, sin impacto en el mercado nacional de aves.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "706a1018f141f191"
+ },
+ {
+  "titulo": "PVEM evalúa alianza con Morena en Mérida; podría ir solo en 2027",
+  "liga": "https://elcongresista.mx/politica/yucatan/pvem-merida-alianza-riesgo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T18:00:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "El PVEM analiza si se aliará con Morena para la alcaldía de Mérida en 2027; podría ir solo si no se presentan condiciones favorables.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "27e9c87fa01baca2"
+ },
+ {
+  "titulo": "Sonora fija límites millonarios para gastos de precampaña rumbo a elecciones",
+  "liga": "https://www.uniradioinforma.com/gobierno/sonora-fija-limites-millonarios-gastos-precampana-rumbo-elecciones-n913103",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T17:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Hermosillo tendrá el tope más alto entre los municipios.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "fd8bd17b3764dc30"
+ },
+ {
+  "titulo": "Detienen a hombre por agresión a mujer en Tijuana",
+  "liga": "https://elcongresista.mx/politica/baja-california/detienen-hombre-agresion-mujer-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:50:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Detienen a un hombre por agredir a una mujer con un cuchillo en Tijuana, gracias a la intervención de vecinos en la colonia Manuel Paredes.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1a8f75a2b492b0e0"
+ },
+ {
+  "titulo": "Coahuila promulga Ley de Archivos para mejorar la gestión documental",
+  "liga": "https://elcongresista.mx/politica/coahuila/nueva-ley-de-archivos-coahuila",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:50:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Coahuila promulga una nueva Ley de Archivos que mejora la gestión documental y el acceso a la información pública.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3b1c76cefee7b35f"
+ },
+ {
+  "titulo": "Hijo de Rey Misterio revela identidad de Extreme Tiger en The Crash",
+  "liga": "https://elcongresista.mx/politica/baja-california/hijo-de-rey-misterio-desenmascara-extreme-tiger",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:48:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "El Hijo de Rey Misterio vence a Extreme Tiger y le quita la máscara en Tijuana durante el aniversario de The Crash.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "5aa61bcbac19bf35"
+ },
+ {
+  "titulo": "Nunca Jamás ofrece un poderoso show de rock norteño en Tijuana",
+  "liga": "https://elcongresista.mx/politica/baja-california/nunca-jamas-show-rock-norteno-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:47:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Nunca Jamás presentó su poderosa mezcla de rock y regional mexicano en Tijuana, emocionando a los asistentes en el Black Box.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "dbe6bbb689014c58"
+ },
+ {
+  "titulo": "Mon Laferte habla tras recibir golpe en concierto",
+  "liga": "https://www.uniradioinforma.com/fama/mon-laferte-habla-tras-recibir-golpe-concierto-n913101",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T17:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Una fan lanzó el teléfono al escenario.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "202412bae09d406f"
+ },
+ {
+  "titulo": "Detienen a Santiago Peña, expresidente de Paraguay, por crisis bancaria",
+  "liga": "https://elcongresista.mx/politica/nacional/santiago-pena-detencion-ueno-bank",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:45:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Santiago Peña, expresidente de Paraguay, es detenido en medio de una crisis financiera ocasionada por Ueno Bank que afecta a millones.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "83e90d948d88ab03"
+ },
+ {
+  "titulo": "David Silva Rojas rompe silencio tras polémica por supuesto uso de IA",
+  "liga": "https://www.uniradioinforma.com/fama/david-silva-rojas-rompe-silencio-tras-polemica-supuesto-uso-ia-n913098",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T17:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Almadía ratificó el premio al escritor peruano.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e553c0d5a812eda5"
+ },
+ {
+  "titulo": "Nunca Jamás desborda su rock norteño en Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/nunca-jamas-desborda-su-rock-norteno-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=nunca-jamas-desborda-su-rock-norteno-en-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-07T17:41:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Con sombreros y una potente batería, el trío sonorense presentó “El Viejo Terruño” en Black Box, con un repertorio que combinó rock y sonidos del regional mexicano.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bcde76ca2f3b574d"
+ },
+ {
+  "titulo": "Entre 2024 y 2025, menos muertes por enfermedades crónicas en México",
+  "liga": "https://jornadabc.com.mx/region/entre-2024-y-2025-menos-muertes-por-enfermedades-cronicas-en-mexico/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-07T17:41:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "En el abasto de medicamentos, se destacó una inversión de 353 mil millones de pesos en compras consolidadas de 4 mil 863 millones de piezas La entrada Entre 2024 y 2025, menos muertes por enfermedades crónicas en México se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Salud",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "76d16da93b660ef4"
+ },
+ {
+  "titulo": "Marco Bonilla llama a unidad interna del PAN de Chihuahua rumbo a 2027",
+  "liga": "https://elcongresista.mx/politica/chihuahua/marco-bonilla-unidad-pan-chihuahua-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:36:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Marco Bonilla hace un llamado a la unidad del PAN en Chihuahua para enfrentar las elecciones de 2027 y reforzar alianzas.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "59ceb54b10453aea"
+ },
+ {
+  "titulo": "Mueren dos funcionarios de Tepeyanco en choque de auto con tráiler",
+  "liga": "https://elcongresista.mx/politica/puebla/mueren-funcionarios-tepeyanco-choque-trailer-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:35:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Dos funcionarios de Tepeyanco, Puebla, mueren en un choque contra un tráiler en la autopista Amozoc-Perote durante la madrugada del sábado.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8ed4814fc27cc6cb"
+ },
+ {
+  "titulo": "Resultados Tris Extra hoy 7 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-extra-sorteo-36905",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:35:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "El sorteo Tris Extra número 36905 se celebró este 7 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "abae1fbc37354dbc"
+ },
+ {
+  "titulo": "Finales de la Liga Sur de Vóley: seis equipos compiten en Río Gallegos",
+  "liga": "https://elcongresista.mx/politica/nacional/finales-liga-sur-voley",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:34:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Se celebraron las finales de la Liga Sur de Vóley en Río Gallegos, destacando la integración y el crecimiento de la disciplina en la región.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "94ec9fe8ea5905bb"
+ },
+ {
   "titulo": "Hijo de Rey Misterio obtiene máscara de Extreme Tiger",
   "liga": "https://zetatijuana.com/2026/11/hijo-de-rey-misterio-obtiene-mascara-de-extreme-tiger/?utm_source=rss&utm_medium=rss&utm_campaign=hijo-de-rey-misterio-obtiene-mascara-de-extreme-tiger",
   "medio": "Zeta Tijuana",
@@ -12,6 +571,51 @@
   ],
   "local": true,
   "id": "f9ee8973a0edfe8e"
+ },
+ {
+  "titulo": "Inicia rehabilitación del parque de la Virgen en Chetumal con 20 mdp",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/rehabilitacion-parque-virgen-chetumal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:32:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La rehabilitación del parque de la Virgen en Chetumal inicia con una inversión de hasta 20 millones de pesos, generando inquietudes en la comunidad.",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3bc82da623e8508e"
+ },
+ {
+  "titulo": "José Antonio Molina es vinculado a proceso por homicidio en TJ",
+  "liga": "https://elcongresista.mx/politica/baja-california/vinculan-a-jose-antonio-molina-tentativa-homicidio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-07T17:31:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "José Antonio Molina es vinculado a proceso por tentativa de homicidio y robo de vehículo en Tijuana, tras atacar a un agente policial.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "c581aed839b109ff"
+ },
+ {
+  "titulo": "Retiran 41 toneladas de cacharros en dos colonias de Hermosillo",
+  "liga": "https://www.uniradioinforma.com/sociedad/retiran-41-toneladas-cacharros-dos-colonias-hermosillo-n913095",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T17:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Más de 400 familias beneficiadas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fe0f7b8d1a77c46a"
  },
  {
   "titulo": "Presidente del IEEBC propone más candidaturas para hombres",
@@ -140,6 +744,20 @@
   ],
   "local": true,
   "id": "96914438dab43e86"
+ },
+ {
+  "titulo": "En noviembre, mes del hombre, impulsan acciones de salud preventivas y de atención integral en Baja California",
+  "liga": "https://www.uniradioinforma.com/sociedad/en-noviembre-mes-hombre-impulsan-acciones-salud-preventivas-atencion-integral-baja-california-n912311",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-07T17:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Se fortalecen las acciones de promoción de la salud, vasectomías, atención a la salud mental y prevención de enfermedades cardiovasculares, en el marco de los días conmemorativos dirigidos al sexo masculino.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "6b6f7423d948b0c0"
  },
  {
   "titulo": "Localizan cuerpo sin vida en Reynosa; víctimas sin identificar",
@@ -1699,6 +2317,20 @@
   "id": "f56bb17e1b0843fa"
  },
  {
+  "titulo": "Detienen a hombre armado con navaja tras intento de robo a mujer",
+  "liga": "https://oem.com.mx/lavozdelafrontera/policiaca/detienen-a-hombre-armado-con-navaja-tras-intento-de-robo-a-mujer-33019593",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-07T13:54:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "La víctima se resistió al asalto y pidió ayuda a gritos, lo que provocó que el presunto responsable huyera del sitio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c3f4931944ca5c65"
+ },
+ {
   "titulo": "Motociclista intenta soborno con refresco en CDMX y es rechazado",
   "liga": "https://elcongresista.mx/justicia/motociclista-soborno-refresco-cdmx",
   "medio": "El Congresista",
@@ -1755,6 +2387,20 @@
   ],
   "local": false,
   "id": "bb74b9001cc48470"
+ },
+ {
+  "titulo": "Comisión acuerda con Ayuntamientos mejor gestión de su cuenta pública",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/comision-acuerda-con-ayuntamientos-mejor-gestion-de-su-cuenta-publica-33018908",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-07T13:48:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-07T19:02:00-06:00",
+  "resumen": "Alejandra Ang señaló que las observaciones más recurrentes son por la falta de pago de impuestos",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "59584bceee1959ec"
  },
  {
   "titulo": "Agresión armada en Hermosillo deja un hombre herido; agresores huyen",
