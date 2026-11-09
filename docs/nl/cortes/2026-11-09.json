@@ -1,5 +1,584 @@
 [
  {
+  "titulo": "Se incendia subestación de centro comercial en San Pedro",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2VRNzJOelBSR2FySGZ4SkZobHd5ZkljMlNXNV80TGYyUFRqdVl4QlNoeEFMeHF2Zjc2ejVKbTkwYVE0TUd5VXJCMUFmZlFDcUlsZjdnMGRSQlNJRnVMbnJBMnZETDJhMXRyRHlQMGVBbDRaSmIzeW45NldEWG8tM0c2QmxXQlU2VUcwZnJlMzNOOXhFS1d1NkVjNmt5ZFFGQ194UklSdw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T08:55:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Se incendia subestación de centro comercial en San Pedro El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a06f6073a2593f68"
+ },
+ {
+  "titulo": "Trabajadores del INE e IMSS bloquean CDMX HOY; empleados de limpia provocan ‘caos’ en la Benito Juárez",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRkFLOTFwLU9idFRPdlhwdEJKWmtXSkNqaDdaMDJRbkRmdk9ZOW5lZWk5eXZUdXFpWW9oemhuRzlBUkhFQ0dNT2I5aldSaHplLU1WcTEwSGdPUS03blRWU2hsNFpnc1NEQmdxV3IxNWNXOFJoQ0JLSVY3VFo2SnVxdzRaQ09OZFMtT1VTOGtkcFpoM2hSWmRLeHdMelJaV3NjWEh0TEJMNnFoUXI4ZTAzTzFsX3lYQnBVMVlET29KRDVfNTVLWTl1X2c2RUFpLXFDTUk2bF9sWE9ZS0U?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T08:53:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Trabajadores del INE e IMSS bloquean CDMX HOY; empleados de limpia provocan ‘caos’ en la Benito Juárez El Financiero",
+  "temas": [
+   "Proceso electoral",
+   "Salud"
+  ],
+  "local": false,
+  "id": "6d292a524fc0b04a"
+ },
+ {
+  "titulo": "Pensión del Bienestar antes del Buen Fin 2026: ¿Qué apellidos reciben su pago del 9 al 13 de noviembre?",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOS1sUFd2TXZEc1B3b0pnelZtVG1vQmY2Y3NWZmhDdkUtN2Y2QllMOVBFUzltUEE3dklNcEFuRG1hWG96Z1JaVFplTVJHVmFaZ0pFNW5waFVfRXZaMndoNGNGMmVkYzQtN2FzaWxrTjhXYWVZdG9hUDZhOFpiSUhseGZsZkN2M2hKcXprZDlFQnIxdW1rMU9HeFl2VGd2MkFTNXRCT3NTY1cxejk0cEtMcU40ckFuYW9JX0oxcEdyUDVIdnRrdHJ0Yw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T08:51:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Pensión del Bienestar antes del Buen Fin 2026: ¿Qué apellidos reciben su pago del 9 al 13 de noviembre? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "28dfffa2cbc89232"
+ },
+ {
+  "titulo": "Explosión en siderúrgica deja al menos 10 muertos en Turquía",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd1hnajZoSDJ6OTZyTTBNVXd3dlBYMmRFekwwQVMxQS1sWlFzMXd4Z1JzeWx0bzVkNW1vN3JGMDBNb252WHBaX3JtX2dmZUFYZGpubl9KWHdudlptd0M2SHdKVmMzLTIzQk03WXZMcVJzSFA5OEs5WnVROXEtRWx1Rmo5cDdXYTlaM25HVEV1SjFpQTltTjlsVnFvclp6OGVlTUxXVFJsX0pscXZQcXpwMHZn?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T08:50:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Explosión en siderúrgica deja al menos 10 muertos en Turquía El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b34aadf4093aa276"
+ },
+ {
+  "titulo": "Moviliza incendio en subestación de centro comercial de San Pedro",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHM5ZjlEZEhDX0NHcHNMM3hRYWY1Y0UtSWNzY1cwalp2NEZYaUhoTThQSzVsSV9iOW1OczM0ckl6M2tNbVpYODl5bFB5OHBFMWxxX1RILXpLamFwdXJvT3B6cEdhTTNlTjMzNEdZcC1IaE11dmtYN3VSOFhiUmgwQnZ2bWlOR2RLdmlMaG9ydzhaLWt4UVVhMWxJaWpkcmI3WDBxN1d4TXhMVF8xTU5RYThpdw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T08:50:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Moviliza incendio en subestación de centro comercial de San Pedro El Horizonte",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "a4b188c67df2651d"
+ },
+ {
+  "titulo": "Tigres busca nuevo entrenador para 2027 y Vucetich revela qué pasará con su futuro",
+  "liga": "https://www.posta.com.mx/nuevo-leon/tigres-busca-nuevo-entrenador-para-2027-y-vucetich-revela-que-pasara-con-su-futuro/vl2276834",
+  "medio": "Posta",
+  "publicada": "2026-11-09T08:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "753e31bb600f110c"
+ },
+ {
+  "titulo": "México alcanza récord de empleo formal; NL supera los dos millones de trabajadores",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnZzTVBRbGpoSTlhNEl5UkJqSFIxZGZ0elFjQzgxR1NEdUxfVUF4RHlfX0RwcUozczZQUVV3S2hYT1pYWDAxWExBWTVsNjZEYld4U1ExdVNsOUlrdjgwRWRuOUx6NGZuSzJadDhtZWNSMGV2M2pCX3F5M1M3X21ETU81dHNlV2RsTUpFV2xtMndXZFBuWUh5TWtnZlN4d2JFWkZHLU1sdEl0WjJPWmVONk5WbmR1MWZpWmREVTNsUFlZSUVMbzVKU2sxeVA?oc=5",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T08:47:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "México alcanza récord de empleo formal; NL supera los dos millones de trabajadores ABC Noticias",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "b6b8317137a47388"
+ },
+ {
+  "titulo": "Marchas HOY: Calles cerradas y alternativas viales para evitar el caos en CDMX este 9 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZUpueTIydlRpNkZ5T2I3UzVuTDdNLTNNRjBDTGx2cFQzd24zbXBDYjVVeE1fVWJJNDJFM3Z6SXhUVmwyQmZSdExCdWFwYnlxd05LeTVQOVY2dzU4R1F3WUhhbklpNC14OGZjWXpFYXJ0dnpnT0htYjdWdUpiMERXemVtQlhKbUhCb212Q21XeWtmVHk4RC1KNWh0Y3BIM09IUWIyS0x1bDJyQ2txbE9zSzQyZUVWVmFoeW00aWdaTVRXejE5dHpRaDhWdnV6cWxiSGZNYmJVbGtWbks1Nl91M3RWZkJ1Zw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T08:47:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Marchas HOY: Calles cerradas y alternativas viales para evitar el caos en CDMX este 9 de noviembre Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4257bf4881613b63"
+ },
+ {
+  "titulo": "Entregan pruebas a la ASF sobre presuntas irregularidades en INE",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmtFVzYxWEtIVHVoNGNJdXFpamhWS1VENXl2T1VXRlRaSERBS05HYURpZ1RDLWpMQUIxWkRCdWZLWWNiYkU1bVNTUVQ5UXBMM193NjlYVFl1cWZfYU9tLUl1SjRZNG5ZOVdDSkRGUGVzQUZSSlZmOW40Y0tpMFJOWm5fdFVZVW13ZVp0NnluUUozV2txZWRWRnFPT3M2Tm0tNTNHZ01JNl8zamplNC1RTQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T08:45:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Entregan pruebas a la ASF sobre presuntas irregularidades en INE El Horizonte",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "30f1677f08a7acc8"
+ },
+ {
+  "titulo": "Arde subestación en centro comercial de San Pedro",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcnFiMloycUhtVkRXcVFnT3FVbmRuS2llaGFpSFFBaDZMU2lQcF9tWkM1VFA4R0F6VHdqWURwMGwxRDREaGNNaTdSenV3U1l1TFJfbGtxTFREWEV1ZUVFdzNZYW1VWHJIRHRGM1BWQXQ1YVNYbmJTS2ZNejcwUjN2bmF5SVZ0d1VKY2djX0ZmZDk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T08:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Arde subestación en centro comercial de San Pedro INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "be7c304fbd9d8b96"
+ },
+ {
+  "titulo": "Mexicano gana ORO en competencia internacional de matemáticas: orgullo nacional",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3ZyVVM4d2RTdTJ2NTczTWh5aGdRVVlCaEI1Y3dVTEFTVFJ5RjRnRXpnR1U4cTZHZ3BOY1lMd3pxSmRVbWZ6Smk5RllBeGltaTVmVHV5dVBRWVF5d0ZPQ2tqcFcwX09XTUlHdzZXZTVKcERTd1pIdGpraUFSV3RIemZtWWEyVGFXWUxRYmRiMG9LUE1UaG84eWRwUdIBmwFBVV95cUxQd3ZaMXZQT25aMGc3azlmVlo1d1ZVeWpiTDlTY3Qzdzh5c1M3X0NzMUxvemZ6TWJaWm9hQ1Y3S1FSdng2a2JzakxBS1VOYWZRSmNZTDlQbmM1cGZMNW9KUHFSTW1Senp2c1lxbGZ0dkw3U3VLU1E2enQtVVFidzN2VVRZVU1pYjMxT0tKOExPby1NWElVZWo5bzZuNA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T08:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Mexicano gana ORO en competencia internacional de matemáticas: orgullo nacional MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "713b1485da85d330"
+ },
+ {
+  "titulo": "Decomisan una tonelada de cocaína frente a costas de Guerrero",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS19UQVhOUFdJSVFXR3dCSnM3UHhkeHQxc2JuOXpiM0Q4dTdXZWM4VWhSbVhOWFdyWWltUjZYSEd6eng5R1pqQmdBejdZN0c3WFZpZ3VYZ0FwcFZrT19TcllraU9hU25vdWx5ZmE4ZG0taDFxZ0ZCNktYRFFEN1JLcU1FZWc2aXd6Qktvd2xkYVBPR241TUQ5Ynlxb2pFMlk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T08:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Decomisan una tonelada de cocaína frente a costas de Guerrero INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2f2468dd437a22c9"
+ },
+ {
+  "titulo": "Incautan una tonelada de cocaína por Acapulco, Guerrero: SSPC",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmkxVl9Yd0s0SGxJWVM1WWV6LW1kaDBQX2JpWmE5dWh1QUFhTER4aVJCdkcxazBjREliN0RES1ZOcm5MQUp3dF84aktBeWNRSTF1OS16Yk8tcDB5dnZaUkt5NXdsSm5aTzFsWXJPV2JzS0JQb1NaOVpxOE1pN1JpaFljSWJRcWVPZUw5V1FNX2JvamdkTjFzZEFGUVNZWXBXdmxaZVZEX3JtZw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T08:40:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Incautan una tonelada de cocaína por Acapulco, Guerrero: SSPC El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d0266771adf0b9cc"
+ },
+ {
+  "titulo": "Diputado de MC buscó ampararse junto a su esposa por presunto fraude millonario en NL",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9lUnBXZTJpTF9EMlI5T0x1LVY1ejItTjNUT19iVU1fSHBlei1XNWdna1Y0V0dQTlJicjFOS05zNzVMMzRFbTF4NlFRNmcweTNZN29UTTRUbHhuakozNVlFTmVNS1FLeVk5NHp0U2l2bE5hc3hVRUg1OVBCUWppQlpJNFhOdnlqV0xSSXN3bEx4RDZJVk9RZWxXcGZid9IBngFBVV95cUxQQVFybkJ0QXNGSk1BUlp1WWdvZjMwbE84TFM4OUFBQ1MzbHBCYzFmSXBFamxROEppX2lHUzJYN0owaXhjTDJ1Y1VCaExPemU0WUpwVzBRMl9RNGFkejFXSWZ6djdSdmhGbHBfUUJnOFdoQXFWYVlGeDIzLWZXZnhRRHhZMFg3T2ZpSkNSTkVrM0VOeDd0QWN2b21LZngwdw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T08:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Diputado de MC buscó ampararse junto a su esposa por presunto fraude millonario en NL MILENIO",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5cd332720ff83c71"
+ },
+ {
+  "titulo": "Volca pipa con 57 mil litros con derivados de petróleo en Montemorelos",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbU95bXNMVHhUandmak84ZFFmWTBnZ1gtQjBSbEdmc2p6ampWcDJQQjFuZkFyWHNDVTZfcWlQZnR5TmRTcFJVTll0Ym1fWkJJS3pvQ1RROGc3UGlpZ3NndUZmQm9sRFBVbnRXOFBXbkpTb1dTUGFzY0hOZjNZeWxHTEt6cFE5QkQwVEYxSFdnRy1sbjdEQXF2WmE0M0wwVFBvUHNZTVBNNTI1NHA1VGdTNDNIc1FrZnZoRjQtYXNnUS1aQXlXNWc?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-09T08:34:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Volca pipa con 57 mil litros con derivados de petróleo en Montemorelos MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "706f466ede329f38"
+ },
+ {
+  "titulo": "Vuelca pipa con 58 mil litros de aceite en Montemorelos",
+  "liga": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TM3RFTTdJQ0ZhMFhLZ0R6NWNVYnJrSWZwVFc1a1BvTzdaZXpCZVFKVUl6Wl8wclMydjExUzRZRHNaUTZnNEZmZU5oSm5rY0ZJOXdUdVdpc1JRWk9Za3VKVUxXZlhoS0ZVVk04?oc=5",
+  "medio": "Hora Cero Web",
+  "publicada": "2026-11-09T08:29:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Vuelca pipa con 58 mil litros de aceite en Montemorelos Hora Cero Web",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "bf75a75bbcdc5214"
+ },
+ {
+  "titulo": "Tirador disparó cientos de veces antes de matar a seis en Polonia",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbC1aeVJaRGFkSXZYdU1iSXhTOFo5SVVQZExCbnBIVlBvUjhvX2xwTW1ZVG55WHU2b2NNTUxKMHduSElLV0UwQm5qTXUydFE4S3F2U0xZVnVGLTBTalJuSzJvXzNfSmpvU0tXRkp6MmVSS0ZZYVdIYkp0bjB2a1FYVmd5TWZpdVV6N2Zxb0NqRkl0cjJLV2lTN1VLY2llNUJQNXpqMmI0Q05VUHk1N1NGQU9RLTdxbVEx?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T08:26:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Tirador disparó cientos de veces antes de matar a seis en Polonia El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "91cf1647dbfec37e"
+ },
+ {
+  "titulo": "Yemen contabiliza 44 muertos por ataques aéreos cerca de Saná",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0dqMHFYTHZXN2ZjVjJmS3B0MTJJdVdCN3V1THlkeEtqc0NYdVVkM3hXZnJvLXRuM1ZlSVlCbWZBVFNtNXpGZlE0TmxkZlRhMlN0aTlLTXNuYktIX3hzTURYYTlYZzUzZFZUamZHRng1OFI0YmtWU09uZ2xNSzZoOEpxVE02aXNsWEI2MEN1Z0FKSTNoUGljZGhnTFBLc2R1bXRDcE5VRXFBcnBvLXpCcVZpbw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T08:24:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Yemen contabiliza 44 muertos por ataques aéreos cerca de Saná El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e5a7ce6516a247dc"
+ },
+ {
+  "titulo": "Auto falla cuando iba a dar a luz y oficiales de Tránsito de Guadalupe la llevan al hospital",
+  "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaElJREJQcUZnZnVCV0hNazFyaXM5UDlkZDVmb05NaXNNRnV2Y1p0YWtycXdFWkNRNU9KLTk2dS10cVkwb21IVHl1VFBOSHlud3JoTkVlbDN3ZjJzdnl2V1FLaDBqdjRBZUE1US1jS3Roc1JUTjFaZXZzU2hYNXl0VUFQUGFwaWYxZi1aSk54cllpUk9BYmpfWFlHZEotcXdDSEo4bjA3Nl9UZTl3Q2NkaFBoR1RsMU4wd2NYenFFdTJPWlV0SXhJMDl0RTFweWRFSWVnUndQUTdGOHVrcHBrMWtVdw?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-09T08:23:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Auto falla cuando iba a dar a luz y oficiales de Tránsito de Guadalupe la llevan al hospital MVS Noticias",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "3ad593df4085e9a7"
+ },
+ {
+  "titulo": "Muere motociclista tras derrapar y chocar contra poste en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1liRFhJMjVVbHRNSzFheTJIMVNXN1pUVWN3M0tGQzhfdVZUWDBRc3czTnJmWVRNNnJ1cDZzOGdOenRfOHNBVnBSSktjOE9yTFJQd05qMkFKdjh6UnlvYlJQX19qaFZyRHpvc19BU2JEX3VaaHBsVERvMzlCdFdURnZ0R1VPTzJXaWJ1NFR5VEF4OEdwZlotbEdfaWpuUnZ6VVHSAaIBQVVfeXFMUFd5SEZrUUpSZm9qa1c4YzBSc3ZMQS1Gc1daSkxOd0FRZDhuVlh5bnkwVkVYMTY4eHZsV0tfNkZlQ2FpOWxOZnlqVWtoTHdxWkd3YnhBZDVwT2tVRU5kOFVEcDR4ZWM0ck95UHQza1NXZlQyLXVhZ1FtMENnaVJIT25RcXUwR2tmOTZsMklmdTRnTXJ2N3NOR2c3am1WOUdHMW1R?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T08:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Muere motociclista tras derrapar y chocar contra poste en Monterrey MILENIO",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "e005f50a6ea32dd9"
+ },
+ {
+  "titulo": "Tasas al alza y Banxico a la baja",
+  "liga": "https://www.arenapublica.com/opinion/janneth-quiroz-zamora/tasas-al-alza-y-banxico-la-baja",
+  "medio": "Arena Pública",
+  "publicada": "2026-11-09T08:18:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Tasas al alza y Banxico a la baja La guerra en Medio Oriente reabrió un debate que se ha repetido a lo largo de la historia: qué hacer cuando un choque de oferta empuja la inflación al alza justo cuando la actividad se desacelera. Las respuestas han sido distintas. Entre las econ",
+  "temas": [
+   "Accidentes",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "9339ad0681676724"
+ },
+ {
+  "titulo": "'Empecé a sufrir maltrato laboral': Rocío Montalvo sobre su licencia como diputada",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOclphQW1GNmNoek5jV3liSFVPU2tBekpkZ215LWlMTWxoRmhJa0xXcEJ1NHZyRVNFcFBjNGx0TEV4TFdEVzJ3ZEdvVWZHZFNGSGNXbVNSZ18wdlM0RU56Y1dENjlLUkx1eWJjQmJiWk4tdmc1bkg1NnBTdzhQUlRWYTBrOXAtNnNPNXQ0VHJBUkxYMnN1Vk9kMWt0TkFIeFVqblJKeHBZSmt3VnBmODdyeTVxUXNwZzlHWURkNHJxODNlUFJNWkFlQldrZG45R1NTbnNVWg?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T08:16:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "'Empecé a sufrir maltrato laboral': Rocío Montalvo sobre su licencia como diputada Reporte Indigo",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bb91b873e9f84282"
+ },
+ {
+  "titulo": "Estatus de carreteras en Nuevo León hoy 9 de noviembre: reportan accidente en la Autopista a Laredo",
+  "liga": "https://www.posta.com.mx/nuevo-leon/estatus-de-carreteras-en-nuevo-leon-hoy-9-de-noviembre-reportan-accidente-en-la-autopista-a-laredo/vl2276814",
+  "medio": "Posta",
+  "publicada": "2026-11-09T08:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "1a241e6b4c143b5e"
+ },
+ {
+  "titulo": "Dani Flow y su supuesta salida de La Mansión VIP: ¿qué se sabe realmente?",
+  "liga": "https://abcnoticias.mx/show/2026/11/9/dani-flow-y-su-supuesta-salida-de-la-mansion-vip-que-se-sabe-realmente-294914.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T08:12:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f5c91ac0fa2b8886"
+ },
+ {
+  "titulo": "Liguilla al momento: Así se jugarían los Cuartos de Final de la Liga MX tras la Jornada 16",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1NRdnhjcmJsajlDOHU3eUNwZi1rWHVSV2tETkJucVROZ3NMaGxVdDlnMHdJVm55WVhnVVhBaTNVV1VHSG9sZERLZXUxTFp1Z0F5bFM0UEdrZE53bUs5RDVyejNGNWVxU2NGYTlYU0pIdzJOWjVYckhreXlLNkZWTFVxSGNIemFrcFZ2VTF0Y0dFV2VfRUQ0NlJkNmpJNDFrZ2dSSGlTQmk?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T08:12:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Liguilla al momento: Así se jugarían los Cuartos de Final de la Liga MX tras la Jornada 16 Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "c7ad838470b31e5f"
+ },
+ {
+  "titulo": "León XIV llama a proteger a los más vulnerables en Argentina",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUxLNGthQkczTmJOQkVlb05KX0wwamlOdTlabGJlRUpXa1ZXWFM2Zm1MZXFFVHh4WVQ2OEtWN2JMdGdQSGRJNmk1YS01YU9fNWhZQXVJME9NdlpiWlBNd0h3X1VWdzBsa2R0NjRTZTVuWUdYTWMxUWY2bEpTcE9Hd0ctamo0R1A5bFo5OHVueFhjNUFMdzRaOWFiZnpteHVtTHdWaC1Ba29wOFZjWFBTZ0ZR?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T08:09:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "León XIV llama a proteger a los más vulnerables en Argentina El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c163c6ce4786e389"
+ },
+ {
+  "titulo": "Marina desmantela narcolaboratorio en Puebla y detiene 2 hombres",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV21fcmVTWWFpSmJYTENZeXAxSWRMLWhiUFNzNTFKTktVcG9FbzBBUWpMNWJLU0R2bFlHZlNqd01uZDVabjduanVHeGdGZUxpVFBUWlFPMDFhZjZMMm44aXJ3TXRzalVJN2twQ0dITURLZFVmRGdPcjJXQ3hmOFNTZTdJaFYySDIwMzJ4V1kwSGQ3UWx3Q1VjQ193VUY3RmdiNUdBOXFsY1JZTVYyWWtzd2FLQzjSAbQBQVVfeXFMT1ItZ3R2U25uV2FMOXN0NlM0V3hBS3A0VHVNVW81dHdVbE9qOGtVeXJTek94VE1hbEJMdTJaS0dXbTdjdFZBcFhCRmJOTVY2c3FVREhPVkZ2NjZ4LTM2RHlJa0lyYXVoZFJYV2FQTS1PUHQ0M3pqWFgzeFBfd1RLTE9Fckp3OVh6M1M3TmtSR2sxTEFYa1NxNG5IZDZMcXZ6aDZ0NTR1WlhubU8xZzZpbWlLMmNX?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T08:09:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Marina desmantela narcolaboratorio en Puebla y detiene 2 hombres MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "be5c6f2445e59204"
+ },
+ {
+  "titulo": "Motociclista muere tras derrapar e impactarse con poste en la colonia Niño Artillero en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHptMVFhVEoxYzRhM3I4aDBPUlA2VXgwVFFqaWNHay0zaXNLclVpcnFvMlM5V2s0b2E3N21hSHZUSmVGUF9NUXdTOUg2ZktTby1BVjFmQXpNQVpIcXEwMHhYRWJjVlhVVFRXSVhpMWhyekZhNWw2WWZoOVA5bHNtWWE4N2tka1pMRDJBT0Y3Y0N5MUxja28zVlhmV2XSAZwBQVVfeXFMTk5JeXc0bTlZUG1fVEpoZ0RRU1NmRjVqTTBhM2VwdXhXNFg4azJUVnlkQWRjN2FGZ2V2eVdDWWU0VEpHeG5vZEVIY2x1bHVyUUI4NXktQVRLczd4TmFLV2ZIZUxrMWREbE92Y2JUcjV0NEc1bXg1TnkxVEZXaFkxTEV4ZE16ZGozbXJBM3owRmNaYnpMNV9vV0xyYl94?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T08:07:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Motociclista muere tras derrapar e impactarse con poste en la colonia Niño Artillero en Monterrey Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "758b4aeaf3fd8198"
+ },
+ {
+  "titulo": "¿Nuevo León, Sonora o la Presidencia? Colosio Riojas mantiene en suspenso su futuro político",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQjc4REl5SkRGNzlXeXZtanBjdE5MZ3p2cEZrcFZFbXR6QUx1LVl1c1oyaTVfQTRtcENFSlJzZG91WDlvcjNYa1NyWE1ZNmZGbDI0cDJxZ3VpZGJGWnQxQXBLcnZacFFMaXdydGNlQVVCajdDb29MaTd4b0ZseXVNbVZpakxYOGVKTjNzQmZvb3RlU0ZrcXJGRW0ycWlNY25ST2lyeUQ4dmE2SWlTMW1YTV9kNW1NbS1VeVdvdmxLN3QwSjJzYko5bm1kWU02c3dEeXYyRFRUZUljX3FRbl80?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-09T08:02:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "¿Nuevo León, Sonora o la Presidencia? Colosio Riojas mantiene en suspenso su futuro político MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3ba4aa7c4fbca047"
+ },
+ {
+  "titulo": "Calidad del aire hoy lunes 9 de noviembre de 2026 en San Nicolás de los Garza, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQWFETW9PSV8zNmppdDY3ZDFwUWZJUlBGTUZpZm1kcVpiTGVSQWJTVHdJSDNha2FTaEx0R0w2aGJqZEVUMV84X2lPZ1dTVUFQZUJvQldnM2N2MzBoemJpelI3TUxHYlJtNEQzb2FrTjc0YTJRQ0FqSDZqcy1YRHdiX2JLTFYtUXpfaWcwLTFudUpPWFdxMk1mSnI1QkVaeEo3b0hUVGxfWXJQd3FaV29fWThRa3h3clE0X2RQVkF2cFBIQVk5LURqMWRQS1VlNHVHQmdIdWlZMk41YXYwbVhHTG41Nmp4Zw?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-09T08:01:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Calidad del aire hoy lunes 9 de noviembre de 2026 en San Nicolás de los Garza, Nuevo León El Heraldo de México",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "1cc17ddfc9c68e6c"
+ },
+ {
+  "titulo": "Calidad del aire hoy lunes 9 de noviembre de 2026 en Apodaca, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVlRmUW5ERFF6UXRiM0hGd3hLeGdUMWVQbkRPN0o1YzZiMWhNX0Z6TmcteDdRQTMyek8ta3RaSU1BQU01V0UtRUJnbVBLR2swNjBydWs2RFZzUVlvN1gzbVEtQlJrNGJGTjVzdTg3V0FvZFg5VnRLOWNWcFpUdzBrUHFudTBwRjBFT05FYzkxUU0taHh2LUwyYVBUblU3UTVSTDZrMUVyWmI1U0pjcURaNFpPTG9uY1U1b0h1V3Jrd3FjVEVvLTVqVGRKdWNzaWc?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-09T08:01:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Calidad del aire hoy lunes 9 de noviembre de 2026 en Apodaca, Nuevo León El Heraldo de México",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "9499e45cb4abc8f2"
+ },
+ {
+  "titulo": "Calidad del aire hoy lunes 9 de noviembre de 2026 en General Escobedo, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWc0VlQtTG02bVNZV2NFQkhFdzNUb0c4YUpock9xLUtaU2REYkhTMmt0Nm81NUJYV24zOFhGUjJFdnBIcC1qYlZwWjRtT1NNTUxMUVR1aFRHOHg2YVBzUDBUZk1fV2tiTUJKNnBWNHFiTFA1dU1pOXlpZFZhTGFsdjNlbjZXenFsRzI1aE03SC1qZmdXODNsaVM0WW5RekRlVDZoVEpTZjhUbVVac1Q1MGJDR2R1MlBPdER1ejA2SzhaNHN2Mno1b1g2NC1Mb0YwNnU0WnhpX2dqZ2c?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-09T08:01:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Calidad del aire hoy lunes 9 de noviembre de 2026 en General Escobedo, Nuevo León El Heraldo de México",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "ba1a410ae2290bff"
+ },
+ {
+  "titulo": "Calidad del aire hoy lunes 9 de noviembre de 2026 en Monterrey, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUUgzZm1lRkVlUlZTUFlYbUk3Nm9OUmEyLWRoV3k4MHFUS0doTjZ1OGNMQmJ1bzhvT2FXTDd6Wm5jUVhGUkVUb045SVNEdF80b1pGZTVCZUJtSk10OEliN3A2LUNTcEhrUkZSdlVTS3hfVzZZYlo3Y29RcWFBRXhtOEhSYy1VWXBiR0NtMHpwYUxLZ2xodVl2RW5QdjhmZ1lfclNmc2JWSG4zdk1teTRwOGFJem1BSHhBOGQtNVgzWXRCVXotbjNmcGp4cnNHY3dKS1E?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-09T08:01:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Calidad del aire hoy lunes 9 de noviembre de 2026 en Monterrey, Nuevo León El Heraldo de México",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "ae742c4b61e96324"
+ },
+ {
+  "titulo": "Hasta 98 horas de trabajo podrían ahorrarse las empresas con procesos automatizados",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORTFCelBxbG1UeFlZRFdZTVdtMHFaOF9iX0xnY05yaXJQcDcxMENUZEwtVXJ4NkpYTXRVN000bmppbHhNY0FhX1ZMN3hmV2Y3UXh1Y2pFX2htdHhTRWNvMTVIN1ZENDc4Ny1ZeVNIbk5PTUJ2UkoybUYtUllCX25sUlV5UFFubUw5bkdmUUJaNTNONmdrT2ZiYUtVb21kWHptSlVBcXVNbjJPd3VvVG9OUHdaaURQRDhQUkItS2lsOE05SHFBYXdsNmFvdmpHTmxIaUFBR1p1aEY?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T08:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Hasta 98 horas de trabajo podrían ahorrarse las empresas con procesos automatizados El Financiero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "35d109f6e3f9ee94"
+ },
+ {
+  "titulo": "Buscan a Francisco Herrera, de 93 años, en Pesquería",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONVVabUhIem9Ua1dYUWg3bVhNSTZfY1hWc1FleURvUHFQcDVrOHB2bVdla2xVVDRVT2tUQ2dsZjN4bVhHY1A5NGpKYURPOGppc21wanZKcTJld010SWhRUzR5ZG1JY0ljaFV6QkgzdGNHU2ZRTy10U0RWdUYtRXVKT19uOGtTY281TjNfcE9KVWJvb1FTZzJ0VmtKeDlfUzk1RFVXNFl0Sm8yX3c?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-09T07:59:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Buscan a Francisco Herrera, de 93 años, en Pesquería MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "754ddc78070568dc"
+ },
+ {
+  "titulo": "Gaby Lozoya afirma que Monterrey tendrá una semana fresca con lluvias y temperaturas de hasta 22 grados",
+  "liga": "https://www.posta.com.mx/nuevo-leon/gaby-lozoya-afirma-que-monterrey-tendra-una-semana-fresca-con-lluvias-y-temperaturas-de-hasta-22-grados/vl2276807",
+  "medio": "Posta",
+  "publicada": "2026-11-09T07:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "ef497f5cca68c68c"
+ },
+ {
+  "titulo": "Revés electoral de Trump podría impulsar el crecimiento industrial de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUNDY29CUExnYV9rWFJEdFhRM3ZIS2czVUI5TndDY1FvWmhmRUFCOUZ0ZnFYZEFzRll4QUlRdTN6Ti1zbkNBaTNMZF9rR2t2NzcxdmRyRTZwYng0cGV3UFZ3b2g2U3lfUVgwOEdJRGliWDRrak53dkhNa25tVFlJQkFWdW8tcF9EaFJwMmZtQ0Jwc19saFVITnBhdy1EQlNjcC1oUXZHNNIBpwFBVV95cUxPdHR2THFIeERneGZSV1lFbFBYdTA2Qm5GRW95ZHRHaGJsNXktdDFSRWpaU3RkbUx3enFsVzN5Y3FMTHlmYms3aW5MX2dHN2ZxdlBjd0RIblNKZFRSb1lTTDZ5S0d4Y0VSNmN5N2RBSDNrdk54amNQNS1MRGFSUXdXTVBlTVRHT1RDekItd2NSMmgtbWpmbkRHRzAtRnhGTjhvUHBzYkd3SQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T07:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Revés electoral de Trump podría impulsar el crecimiento industrial de Nuevo León Telediario",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "d4dc25a4ef9e8dfd"
+ },
+ {
+  "titulo": "Economía",
+  "liga": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Vdm5BZWU0UXFKZFRzU0M4eW5HU2RMS1hHblp4b2FscEhRSzFLWWloWnVUendudkI0T3BjeTNFMlpvQTBNQmgxUGJ3?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T07:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Economía Telediario",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "9077b7a6987f9551"
+ },
+ {
+  "titulo": "La Mañanera del Pueblo de Claudia Sheinbaum: 9 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmNScDNGcTBjSDl3dnc1RGpDbmNueGp4Z0txdENNLXI2RzZCVHZCWmx1VXNZTzNIcEY4MjdPSVI4WTM5MEtkTFZyTU1yRzdhZ2dVdHhGSG9NVW53U3RQRXM2aUNhRHBTbzJGMUV6cDF5ZVlDRTBZUzdqa1hYVGFpT0RXbzZyTUJHdGpJVmRNVnBMMmJzemI4X3c0MkR0elB4U1psN1QzbHM?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T07:54:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "La Mañanera del Pueblo de Claudia Sheinbaum: 9 de noviembre El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9097f4925eecc30b"
+ },
+ {
+  "titulo": "Rayados quiere Liguilla; así va la Tabla General tras Jornada 16",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDFsQk5vd01iemwtY3R1MldoRVFBd0E4cEhOU0dmbFo1UXhaaHhtTEdJZmpXU1lkN0VnUVg5YkV3TzJqamwtQ2tMSWoySGVkNC1PSGNGbTJ4MExtUmY2aWY3SVlGTnlna0ZGRkxIYWlmdTVrZE5fOEVEWmpfWW1lV0xPUlJQY25CY1RXblNSd2xRS1JaNDZJT1FoV25PQXRIMGc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T07:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Rayados quiere Liguilla; así va la Tabla General tras Jornada 16 INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "838cc170bda3b1a0"
+ },
+ {
+  "titulo": "Detienen a pareja en Monterrey con motocicleta robada en Santa Catarina",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjRtcEs2VDNCY3U4Z2hJZER3UmtLQ081anYtZi1IT2N6akZNV2YzelA0djhEZGthSmtSOHRhLWY2MGxzTkd6LW5rOFNaWFFTbWZvWEx0NVZGSThGY25XOFp4MGFNdHc5SDREMWdPV0pWWTJIWXBRalB4T0RvcW1zdGxUY01nYVdtS0RBbzdXdU5VM0dUR2F0c1dfTmFCeUVVSzhiYjJhNnNFNGEtOFVySWFGTGs2NUo4?oc=5",
+  "medio": "Quadratín Nuevo León",
+  "publicada": "2026-11-09T07:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Detienen a pareja en Monterrey con motocicleta robada en Santa Catarina Quadratín Nuevo León",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a4c7f0dcba3e5ac6"
+ },
+ {
   "titulo": "Así marcha la Tabla General de la Liga MX tras Jornada 16",
   "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWZDV0RRSDJWdGtyTVIyZEotZkM0NldRNlZ0Y0tSX0h0TTFtXy1RdlA2MW1nOWg3Qk82dTJrNTJkblR1dGs2STFoMWNFcWdieko5bkh4SlVkWkt1MVRLNXUyNkx0WnBEdzQ5bDVLMDliTmVMYXBfMk5TX0lQbVJfdFlEX2lSQllTVml4Y2hnRWdXXzJJaHgzSFhfU1docGVrTUd5UlZUQQ?oc=5",
   "medio": "El Horizonte",
@@ -69,6 +648,34 @@
   ],
   "local": false,
   "id": "723c003067bf7773"
+ },
+ {
+  "titulo": "Vuelca automóvil en avenida Constitución, en el centro de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSkNUblFWTktFV1E2VkVPbzE0a0dzWVVONHU2eDNiNi1uQjRMSHFVU2RCR3BjOVVkekpRSHBxcDcxaGFmMmYxV1J6QVJ2UE1NbEgxbWtueF9pb3BtX1d6N0QwMHlhRjRCeHdjMWpVWVVHcUI0VWFaMzNtalJ3Tm52OXM0UTRaVnZQYWhzQzBYc1lvZHFSTEcwQWNNcFZBdjZCZk9ZZGdXX2ZxZVdicWpJ?oc=5",
+  "medio": "Quadratín Nuevo León",
+  "publicada": "2026-11-09T07:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Vuelca automóvil en avenida Constitución, en el centro de Monterrey Quadratín Nuevo León",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "a1c4962f35d249d5"
+ },
+ {
+  "titulo": "Acelera inflación de México a 3.75% en octubre",
+  "liga": "https://www.elnorte.com/acelera-inflacion-de-mexico-a-3-75-en-octubre/ar3310966",
+  "medio": "El Norte",
+  "publicada": "2026-11-09T07:35:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "El Índice de Precios al Consumidor avanzó en octubre más de lo esperado, a 3.75% a tasa anual, desde el 3.45% de septiembre, informa INEGI.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "7c7f702e16112c26"
  },
  {
   "titulo": "Se registra incendio en subestación en Fashion Drive",
@@ -378,6 +985,20 @@
   ],
   "local": false,
   "id": "f1abc5b13055ad44"
+ },
+ {
+  "titulo": "Salomón Rondón llega a 16 goles y apunta al título de goleo",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWJjRnZScHk5MkJJWThuTEdjNjFVcEQ5UkQ2NmRoWGo0OWhNdURIVG1DRzFFbi1EeDlLSGpBZThTYUZuNklFb0FlZlZQdThjYkV2S0V6eG8xekdjc3R4MVVUbnd1dVpQOF8zZm1ZWTg5UG9acksxZ1p2WW5BMVZuY29DWnI4aFVqSHFxRU9pc0NuRU5rcVMtM05pT2E?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T07:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Salomón Rondón llega a 16 goles y apunta al título de goleo INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8330a034d9d322f8"
  },
  {
   "titulo": "Rescatan a perro de fosa de 10 metros en San Pedro",
@@ -1610,6 +2231,22 @@
   "id": "a305f3c4909d0039"
  },
  {
+  "titulo": "Diputados votarán por recorte de 1,000 mdp para el INE en Presupuesto de Egresos 2027 este lunes",
+  "liga": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVWRQV0tweVlLOHIxc18xaTI3TzhXNVJKcXFsNVhNZGlkbThoNVJUd2pyS29vZFVQbjBXbE81NUZZTENxc0RwYml0c29Ja0FxMUJMWGZBaGNLaUFxcWNnSDFsVHczU3VQU2lIanZTWEVodWFzX0hUUDVwSGpGQmxWMnRRWE1laUdQeVFqTFZETzFfS2VwUEdYTDMtcVo4RnJtWTg2U3hpQVk4VTZqWmhTR092amQ1NnJBRVVuTHdLejFyZHFHOUJFUWw4YU1ldVI4TlFjb2UxOVhnMUFTRHFxUUVad2J0T3g5akE?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T02:42:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Diputados votarán por recorte de 1,000 mdp para el INE en Presupuesto de Egresos 2027 este lunes El Financiero",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "e72a58e5981b6e99"
+ },
+ {
   "titulo": "Ay, qué pesado, qué pesado, siempre...",
   "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclcyTGpGTXF5UWptVjhXT3pPUF9sdGNmLWVLUGpsWGVjTG9XU3VmZDBqRExpWDVPamRwdUo4WUc4U0dybEQ5NlhwTUF0bTdiUHFyaG5KMUZNWFJycGVndGI4NjF0SlFlRzNXM3o1MHdDV29PbVlVcmktUzhUX0txMVpueUnSAYQBQVVfeXFMTlZMWnA3YUJQeWp6OVpvZHR2LUR2TVA4bVpLUzBHTUtNY3Y3eEcydXZyVXp3UFpxbUY2elhZVkxzaXJiWktsTk1WTEM1YWNkMDd6TFB2c3VWamUzVzFBY1RrZWl3RzlGU2VBTkQ5bDNvU0xxbFBYdjl4emtLcU1aX2xXVjhO?oc=5",
   "medio": "Milenio Monterrey",
@@ -2017,6 +2654,20 @@
   "id": "a89f44ad6f198554"
  },
  {
+  "titulo": "Banxico dice que recorte a la tasa se ‘cocinaba’ desde septiembre: Evaluación de inflación es ‘rigurosa’",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWdrNFIxaGlzOTlyc0lzdG4xWkRubGN0a3dUX3dEcnQxc3RLZzdITm5BWmZwMVFSa2JVd0ZiYmM3QjA5OTBuTU9tdlV2NFdWV09xM3pvTjM3YzV0S3pseC1ONXVXS21FWXNSTVI2d1pwXzBfSTBuLWloUXprU1hlN0gyZVVCd29iOE9rUlFENnlEeUJULVNPRzBjeDZsbUxmdkE?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-08T23:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Banxico dice que recorte a la tasa se ‘cocinaba’ desde septiembre: Evaluación de inflación es ‘rigurosa’ El Financiero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "6b8f76c3951ab6b0"
+ },
+ {
   "titulo": "Cancelan vuelo de deportación de iraníes desde Estados Unidos",
   "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3JSS1hPb1RHcGJVcnVUbmRkNEkyYXVYd3Z5QVlnckRIU0lJd25jSXh6Sjg5RHJwQU15bXE5bmhPckV0Z3JZV1JxWVNLZlI3T1pFdmRfbzNGajQ5OVBBaEw1aFA1dFl5VFpHTjlFY29YSTNEcTlJUHNxNW91dzhBZmtiRUJxcWZrYkM4V3BUdVFsN3JRMmNPaUNpYW1mTFV4ZlAxSVJONHFPN1VpVmN0Mlp2dw?oc=5",
   "medio": "El Horizonte",
@@ -2309,6 +2960,20 @@
   ],
   "local": false,
   "id": "138b4977833d9c64"
+ },
+ {
+  "titulo": "Esposa de diputado enfrenta proceso por fraude millonario en NL",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWRXLVl4bjZBcFhJOWtIdm85c3MxUWt3a0J2SGFIUUZyeUJHX2xDbVNmUmRibzBidjJ5b1FCc0NodVNlN253bmVBRlkydkZlT3lHZVE5SG1PLV9NRF9pQlBpeUhYLVNSZktvVmhNc1YyNWNfMG5kVHA0UlU1YXdNdWl1STJ0dV84a05sMm9xc1NVNnYzMHBHSkZRWHhHOUVMTXFvNHJsX0N1eVXSAasBQVVfeXFMTkx6cnYwVUJpVWx5LXZPOUhKS2padzBqTmhBcXlrM29YZHJwQ0VBR3pBMThJczlfLVVHUHpfTW1iNExtN0xlS0k4b2lHVFF6QTJBajQ4aktRRUUyWnRmOTl5QXFrS2ZrbmtwS2paYk0zX1liOE1CYTFCN0lwYlA2YWl0dUN4cS1XdzA4VXNnNXJvdHNTU1ZCSWdyU2VBSkhfUUNHN0N3VlRhOWJF?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-08T22:43:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Esposa de diputado enfrenta proceso por fraude millonario en NL Telediario",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8b99a7ae4fb50a62"
  },
  {
   "titulo": "Rafael Álvarez 'N' es líder de célula 'Los R' del CJNG en Jalisco",

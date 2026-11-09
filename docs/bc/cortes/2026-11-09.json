@@ -1,5 +1,331 @@
 [
  {
+  "titulo": "Pronostican lluvias intensas en Tamaulipas con 75 mm de acumulación",
+  "liga": "https://elcongresista.mx/tamaulipas/pronostico-lluvias-tamaulipas-octubre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "El SMN pronostica para hoy lluvias muy fuertes en Tamaulipas con acumulaciones de hasta 75 mm y vientos de hasta 60 km/h.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "0ed0f485380e175d"
+ },
+ {
+  "titulo": "Capacita INFRAVI a operadores de maquinaria para fortalecer la conservación de la autopista Centinela-La Rumorosa",
+  "liga": "https://elportavoznoticias.com.mx/capacita-infravi-a-operadores-de-maquinaria-para-fortalecer-la-conservacion-de-la-autopista-centinela-la-rumorosa/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-09T08:50:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "El Instituto de Infraestructura Vial (INFRAVI) impartió el curso “Operación, Seguridad y Mantenimiento” a operadores de maquinaria del Fideicomiso Administrativo de La Rumorosa (FIARUM), con el objetivo de fortalecer las labores de... La entrada Capacita INFRAVI a operadores de m",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "fe30de2bebdc639d"
+ },
+ {
+  "titulo": "Salomón Rondón marca 16 goles en 16 partidos con Pachuca en la Liga MX",
+  "liga": "https://elcongresista.mx/politica/hidalgo/salomon-rondon-pachuca-16-goles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:50:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Salomón Rondón del Pachuca marca 16 goles en 16 partidos de la Liga MX, superando a Henry Martín.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1b818ce586fd7769"
+ },
+ {
+  "titulo": "Playa del Carmen planea amortizar 500 millones de pesos de deuda",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/playa-del-carmen-deuda",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:48:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Playa del Carmen estudia adelantar pagos de su deuda pública de más de 500 millones de pesos antes de que acabe la administración actual.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e63e7457c1d72676"
+ },
+ {
+  "titulo": "INEGI reporta inflación anual de 3.75 por ciento en octubre, su nivel más alto desde mayo",
+  "liga": "https://zetatijuana.com/2026/11/inegi-reporta-inflacion-anual-de-3-75-por-ciento-en-octubre-su-nivel-mas-alto-desde-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=inegi-reporta-inflacion-anual-de-3-75-por-ciento-en-octubre-su-nivel-mas-alto-desde-mayo",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T08:47:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "La inflación subyacente llegó a 3.80 por ciento anual y cortó una racha de ocho meses consecutivos de descensos.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "93b3d05bab4a0540"
+ },
+ {
+  "titulo": "R2: hospitalizado tras enfrentamiento y captura en Guadalajara",
+  "liga": "https://elcongresista.mx/politica/jalisco/r2-hospitalizado-enfrentamiento-guadalajara",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:46:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "R2, presunto líder criminal, continúa hospitalizado tras capturas en un operativo en Guadalajara.",
+  "temas": [
+   "Seguridad",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f46731e2e11bc1c5"
+ },
+ {
+  "titulo": "Empresa Pryse busca contrato de 600 mdp en puerto de Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/empresa-pryse-contrato-seguridad-veracruz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:45:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "La empresa Pryse busca un contrato de 600 mdp en Veracruz, a pesar de su historial de sanciones por irregularidades.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1cefe5db96ae745f"
+ },
+ {
+  "titulo": "Registra BC inflación del 2.57% anual en octubre",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZElyT1RJMGhMODQ5bXZIUFFLZkVHN3ZIWkY3aTJRNWtoQllBbmVPUlBWRGhCOG8wdjN2c0cxSWxadzJyYnZnX2RCc1F4dDFoVHVSRDdBOHF5NDlVVmJsNnlLMEIwNG9FZUozeVdfa19YeFdsY0pCdEJySnh1S3lyQXpja3BNT19OTW10MVlpeWdXLVllMmM3LUdWN0JGdzg?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T08:33:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Registra BC inflación del 2.57% anual en octubre AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "36c3d25d4cf8b305"
+ },
+ {
+  "titulo": "Presupuesto federal para BC llegaría a los 78 mil 995 mdp en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1FKd3FUdWJza0M0T3F2Q2lvZjY3eVRKT2hZQ3lZdkxtUjdjSmZoN2xLbFZSamlKeHNQeUE1V2hnajBmUzQ2NHNtZlJYYVU3aGZFbER5cU82bXVfSEFrV1ZmR1dPbEhQbW1GZFlSWjBiZE02MUdJMVNUeDluazdjMTRhLV9KSjJabGxoVmRkZFpaOEd1UG13YUxxcC13akxVejd0VFFnRGNPUld2?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T08:29:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Presupuesto federal para BC llegaría a los 78 mil 995 mdp en 2027 AFN",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "47afb4059c44aef9"
+ },
+ {
+  "titulo": "Permanece hospitalizado el “R2” tras enfrentamiento en Guadalajara",
+  "liga": "https://zetatijuana.com/2026/11/permanece-hospitalizado-el-r2-tras-enfrentamiento-en-guadalajara/?utm_source=rss&utm_medium=rss&utm_campaign=permanece-hospitalizado-el-r2-tras-enfrentamiento-en-guadalajara",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T08:24:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Rafael Álvarez Ayala alias el R2 fue ingresado a quirófano tras balacera en restaurante donde fue capturado junto con otros 19 sujetos",
+  "temas": [
+   "Seguridad",
+   "Salud"
+  ],
+  "local": true,
+  "id": "3b3326fac7305413"
+ },
+ {
+  "titulo": "Comienza extracción en presa Marte R. Gómez tras posponer trasvase",
+  "liga": "https://elcongresista.mx/tamaulipas/comision-nacional-del-agua-pospone-trasvase-marte-r-gomez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:19:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "La Conagua pospone el trasvase de 160 millones de metros cúbicos hacia Marte R. Gómez, afectando el riego en Tamaulipas.",
+  "temas": [
+   "Clima",
+   "Agua",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "49dd63387df19e22"
+ },
+ {
+  "titulo": "Pimpinela deleita a 2,000 personas en Tijuana con su gira \"Leyendas\"",
+  "liga": "https://elcongresista.mx/politica/baja-california/pimpinela-tijuana-concierto-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:17:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Pimpinela ofrece un emotivo concierto en Tijuana ante más de 2,000 seguidores, recordando grandes éxitos y emocionando con nuevas canciones.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "de2ecbcd2138a283"
+ },
+ {
+  "titulo": "Arquidiócesis de Puebla se disculpa por desfile de modas en Catedral",
+  "liga": "https://elcongresista.mx/politica/puebla/arquidiocesis-puebla-disculpa-desfile-modas-catedral",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:16:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "La Arquidiócesis de Puebla se disculpa tras las críticas por el desfile de modas celebrado en su Catedral el 5 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2b0b75e578581cbb"
+ },
+ {
+  "titulo": "Adolescente de 17 años muere por ataque armado en Mazatlán",
+  "liga": "https://elcongresista.mx/politica/sinaloa/adolescente-mazatlan-muere-ataque-armado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:16:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Un ataque armado en Mazatlán deja un adolescente muerto, elevando a siete los feminicidios en Sinaloa en octubre.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "877d7f23cee0076a"
+ },
+ {
+  "titulo": "Encuentran a pareja sin vida en Badiraguato; mujer tenía huellas de estrangulamiento",
+  "liga": "https://elcongresista.mx/politica/sinaloa/hallan-matrimonio-sin-vida-badiraguato",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:15:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Encontraron a un matrimonio sin vida en Badiraguato. La mujer presenta signos de asfixia y el hombre estaba colgado de una viga.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "975395d78f261c81"
+ },
+ {
+  "titulo": "Carlos Manzo: oposición señala a Sheinbaum por asesinato en Uruapan",
+  "liga": "https://elcongresista.mx/politica/michoacan/claudia-sheinbaum-oposicion-culpa-carlos-manzo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:05:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Tras el asesinato de Carlos Manzo, la oposición culpa a Claudia Sheinbaum, avivando un conflicto político en México.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3d0c99b3b5fb5cf1"
+ },
+ {
+  "titulo": "Trabajadores del IMSS marchan en CDMX por aumento salarial del 10%",
+  "liga": "https://elcongresista.mx/politica/nacional/trabajadores-imss-marcha-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:04:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Trabajadores del IMSS marchan hoy en CDMX exigiendo un aumento salarial del 10% y la destitución de líderes sindicales del SNTSS.",
+  "temas": [
+   "Gobierno municipal",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "466ae0e9e3c8b861"
+ },
+ {
+  "titulo": "Cierre en la autopista México-Querétaro tras accidente entre tractocamiones",
+  "liga": "https://elcongresista.mx/vehicular/cierre-autopista-mexico-queretaro-accidente",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:03:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Cierre total en la autopista México-Querétaro por accidente de tractocamiones y afectaciones en otras rutas.",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "14164ed636f73619"
+ },
+ {
+  "titulo": "Frente frío 4 provocará lluvias y temperaturas de hasta 40°C en varios estados",
+  "liga": "https://elcongresista.mx/tamaulipas/frente-frio-número-4-lluvias-altas-temperaturas-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:02:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "El frente frío número cuatro generará lluvias intensas y altas temperaturas en diversas regiones de México a partir del 9 de noviembre.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "3ed4bc6902614075"
+ },
+ {
+  "titulo": "Pimpinela derrocha drama y nostalgia en El Foro",
+  "liga": "https://zetatijuana.com/2026/11/pimpinela-derrocha-drama-y-nostalgia-en-el-foro/?utm_source=rss&utm_medium=rss&utm_campaign=pimpinela-derrocha-drama-y-nostalgia-en-el-foro",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T08:02:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "El dúo argentino interpretó sus éxitos más reconocidos durante su presentación, donde combinó dramatismo teatral, nostalgia y nuevas canciones ante el público tijuanense.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e7caf727e99d061a"
+ },
+ {
+  "titulo": "Gobierno aprueba Ley de Infraestructura para atraer inversión privada.",
+  "liga": "https://elcongresista.mx/politica/nacional/nueva-ley-infraestructura",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T08:00:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "México aprueba nueva Ley de Infraestructura para atraer inversión privada y promover proyectos estratégicos a partir de 2026.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e2dd09fe682313ca"
+ },
+ {
+  "titulo": "Orlando Júnior gana tres premios en el Prêmio Mostra 2026 con “O Dilema de Antônia”",
+  "liga": "https://elcongresista.mx/cultura/orlando-junior-premios-dilema-de-antonia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T07:52:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T08:57:23-06:00",
+  "resumen": "Orlando Júnior triunfa en el Prêmio Mostra 2026, destacando con “O Dilema de Antônia” al recibir tres importantes premios en Manaus.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c10f8b36daebd3fb"
+ },
+ {
   "titulo": "IMPEPAC adjudica contrato de 36.8 millones a Litho Formas pese a irregularidades",
   "liga": "https://elcongresista.mx/justicia/impepac-litho-formas-contrato-irregularidades",
   "medio": "El Congresista",
