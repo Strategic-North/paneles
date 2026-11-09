@@ -1,5 +1,559 @@
 [
  {
+  "titulo": "Guanajuato espera 400 mil visitantes en el Festival Internacional del Globo",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdlZ4V1BTeHRkRjhaVnBkNWNUMmhqbHZ5Tm1DRVk3NmQ3T1RTTzdTcnFfVEktNnhuZzdIcmRIWERzZ0VzQjRMODhtTUVqVUVvRW5wY3AwVXB6N1RkdEx1U19RTnZiZGwwRVVGZjc2cUNHdVhRYzNNWkRZeDF4cXZZNVFGOG96Z09aOWVkby1SRGNHYlhObHBNeGMwLVU5UWRIbXV4U3gtaHBfSlFQdEVtaFk4VWxBV0lKWWJXLTFBWERULWRuNlQtcndSUk04dw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T14:24:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Guanajuato espera 400 mil visitantes en el Festival Internacional del Globo Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "6e85143fec2cd883"
+ },
+ {
+  "titulo": "Diputados locales del PRI y PAN crean bancada “Recuperemos Nuevo León” para frenar a MC y Samuel García",
+  "liga": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcUpYTHcyT21EMFdNSWEweV9WTWc0MTlLbGNQUjZVUUxhNjZxZnE1cDZKcTRySFF2SHZFak5ZU1VSaXdIQzBfM0VGMWJqcEJUbjRVNjVndWJtTUxtS0ZKNHBTZFVXZUlZY3N4QlRTa1hMX0Myb0lJQkd4NEgteGY3SEIyRVJkQncxdk0zOTNVTENQUVhjSU11QkFtMXBJenVfUnNzTVdmRkYwdHNlRlk3emIxM3oxeTh5WUl4NkhUR1pFMTZxYzZiQXl6R2ozaHd6aW5jcHphUVBXOG9fYXZiZWhtaGR2RnJSSGIta2FCVDM?oc=5",
+  "medio": "Proceso",
+  "publicada": "2026-11-09T14:24:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Diputados locales del PRI y PAN crean bancada “Recuperemos Nuevo León” para frenar a MC y Samuel García Proceso",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "d1ac67c33c88ea40"
+ },
+ {
+  "titulo": "Ojo ahí: ¿Qué nueva advertencia deberán incluir los medicamentos para bajar de peso?",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWEhsSE03WXVfZnltUXZzSUdhVi1CXzNFSUZ1ekRjUTZ5WVItZTFnOVVCTW5xdmZicW02YjhpdERJNVRpTzg2SmtReEdoaF9tb1FScGhjTllGSUQ1S0VzUl9fd3h6anh6TUFHOWloRDBqNDBlSWZ6d2p6cDhuSENoRWlVLU9ISHZfTnZueDR6YlpnYXpKdVQyX1gtcGFOdEotWVRhSXViQkJPb3ZJVTA0VUQwVmpibGVTdUZLd2c1MTItd3RGRnE1WGJwbw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T14:22:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Ojo ahí: ¿Qué nueva advertencia deberán incluir los medicamentos para bajar de peso? El Financiero",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "68912bb3ec794476"
+ },
+ {
+  "titulo": "Sorprende paro en módulos del INE en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXhNYWZua3lkNkJ4SGlOUGF0TFR1MUtrOVdrWVoyanktS2ctdVBhMHBMaGNSYVFPeEFQdE10d1BURDlZQ1FJdVNDbTZaY0hxV3pXYXg1SlVXWXNUWkRVSWVYaUk5dERoaVUySVpWX3lsc0JSVmMwVldwZDl5TWN3T3FDcHhGVTFaaVBMdQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T14:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Sorprende paro en módulos del INE en Monterrey INFO7",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "648177ff35d0938e"
+ },
+ {
+  "titulo": "Clara Brugada reporta caída en percepción de inseguridad y baja en homicidios en CDMX",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdEJkT2FvTHJpbXAyaHdlVm9XTnJtU3lFaTBaQXBKaGdxMTdmUC13RHg2dlFQRzNnZldJYW8zV2JveUJsQWZHSzNRTHowbldIbmZiNDFBeXBuaUxnUWg5ZGdnVU54ZTN1TThKX3JFTVVoYVE0ci1XT3Vzel9ZemhLdkNOTTdFSXVEZDhtN01XRkMycWlMRlZuRGFudkNTbWE0MzI1N1Z1dHRSNW95LWtkUElIczByTlpETTJjY3hzTG9KcFZfUEZlR1dXRHJXenFuMmJEWTdB?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T14:19:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Clara Brugada reporta caída en percepción de inseguridad y baja en homicidios en CDMX Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "34e32812a1686c27"
+ },
+ {
+  "titulo": "Vicente y Marta fomentan torneo de golf en Santiago para centro de rehabilitación; hay 120 jugadores",
+  "liga": "https://horacero.com.mx/nuevo-leon/vicente-y-marta-torneo-golf",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-09T14:19:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Vicente y Marta encabezaron el Torneo de Golf CRISMA en Santiago para recaudar fondos destinados a la Fundación Vamos México. The post Vicente y Marta fomentan torneo de golf en Santiago para centro de rehabilitación; hay 120 jugadores appeared first on Hora Cero Web .",
+  "temas": [
+   "Servicios públicos",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "7c8ec4c81e253362"
+ },
+ {
+  "titulo": "Se \"fusionan\" PRI y PAN en nuevo grupo legislativo: arrebatan control de la COCRI a MC",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkJ3YU1PaFQ4THZ2SlBDSGkxX3ExZmUtcTl0ZU9fS1dRQl9laEpCUjBaNVNDY3ZVbDNnOG4tY3NiV1c4akJHMXZqVU9RQVg4amdIRjNpTXBPVC16VVl0OVF4RUtNeU5LZHRfemx3ZGZ0NjV1djhKNHc2NWNtS2ZiZHNXTzFkNTg2bUt1OWl6REtlNmI1Y3BUQkQ2RlVaUExyc2JzZWJDQjBIRnl6cmI5TVRESzRhYXh5SXdmal9RRHVtdk1rLXNWMTNWRFRhanZ6RHBVSzFHVVJqdw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T14:17:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Se \"fusionan\" PRI y PAN en nuevo grupo legislativo: arrebatan control de la COCRI a MC Reporte Indigo",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "eecda8078c13988b"
+ },
+ {
+  "titulo": "Explosión de Tanque de Gas Deja Dos Heridos en Apodaca, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMUMtbV9CdWE0OWdlSS10bG1saHAzY3BoaXk1OVZlS2luQlRVeWpuUlpOeWhHcWxFSXFYb0VTekd4WExqdUlVZ0RnWlktOVRqdUVvTmNYaE04VnpHZC1zZEZmUGhDTHhNOEVsV3RCMEVZcnBxTFR6Y0VNQjc2RkdhOUNiY1hLWmdCY0JZVW1mN3l0ZXZqVE9tSm1xVndBbTJGaEFPLU1HZVNiMkdWYXF1N0Y0QUZFOGhnR2hOOGEzMA?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-09T14:17:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Explosión de Tanque de Gas Deja Dos Heridos en Apodaca, Nuevo León N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "40b9c160cf2e7318"
+ },
+ {
+  "titulo": "Crean PRI y PAN nueva bancada para mantener control del Congreso",
+  "liga": "https://www.elporvenir.mx/local/crean-pri-y-pan-nueva-bancada-para-mantener-control-del-congreso/1042777",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T14:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "La fracción Recuperemos Nuevo León estará integrada por 17 legisladores y será coordinada por Lorena de la Garza",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "ca7c72ce0c477ff9"
+ },
+ {
+  "titulo": "Trabajadores del INE Protestan y Dejan Sin Servicio Módulos en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVZiS0Z4ZkFvdVk5Q3VjSkw1VU14RjVZbmpMSzRpMEFEWFN6bFdlQTY1MG1IVlE1cGg1bnJEMUwyVmoxUEF2VTJaZ3N3NEExQ0cwdHhhWjFTVG44Y25mTmM1Y1JxUVZyVnJBT0xFMGk3VzYwa25aT1JvNTB0SGtuTWNsYnJpQ2RCZGVEV1FWQW5iaTZreGczckhIN1RHT2lnNjVuUWt0am9XV3pqUlpScW1RUWZVVDlqM2c?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-09T14:14:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Trabajadores del INE Protestan y Dejan Sin Servicio Módulos en Nuevo León N+",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "c795c7e8e0d2fd62"
+ },
+ {
+  "titulo": "Fonacot amplía horarios en Nuevo León por el Buen Fin 2026; conoce cuándo puedes solicitar un crédito",
+  "liga": "https://www.posta.com.mx/nuevo-leon/fonacot-amplia-horarios-en-nuevo-leon-por-el-buen-fin-2026-conoce-cuando-puedes-solicitar-un-credito/vl2276975",
+  "medio": "Posta",
+  "publicada": "2026-11-09T14:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a1cc36448a09a956"
+ },
+ {
+  "titulo": "Raúl Cantú presume 90% de aprobación y Samuel García respalda su modelo de gobierno",
+  "liga": "https://www.posta.com.mx/nuevo-leon/raul-cantu-presume-90-de-aprobacion-y-samuel-garcia-respalda-su-modelo-de-gobierno/vl2276970",
+  "medio": "Posta",
+  "publicada": "2026-11-09T14:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7b1de9fb57a76a66"
+ },
+ {
+  "titulo": "Detienen a tres personas por arrojar escombro en la vía pública",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemd4OUJUTDhfZXltN2M1Q01EM2Voakg5RzJFODZjMk4yWWxnYTNEcm9kYVFCWkI2TTNnbDFqSEQ0dkJGOVg1SzY0TllReWJ5VjVxbHhjMWhrcTcxazZwYjIzaVJwNktfRDVnSmoxaG9va043NHlFbm5hcWF4M1poQlJ3QzhjaFM2QVNYWWhydVFvZjV3VFc2ekRMNmJ5a1pfVXVJ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T14:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Detienen a tres personas por arrojar escombro en la vía pública INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "edd78c2ba4a5e811"
+ },
+ {
+  "titulo": "MC cuestiona nuevo grupo legislativo PRI-PAN",
+  "liga": "https://horacero.com.mx/nuevo-leon/mc-congreso-nl",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-09T14:04:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "MC y su bancada acusó a la Mesa Directiva del Congreso de Nuevo León de violentar la Ley Orgánica al reconocer al grupo legislativo PRI-PAN \"Recuperemos Nuevo León\". The post MC cuestiona nuevo grupo legislativo PRI-PAN appeared first on Hora Cero Web .",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "5378fba9b6b9be82"
+ },
+ {
+  "titulo": "MC legalidad cuestiona de nuevo grupo legislativo PRI-PAN en Congreso de NL",
+  "liga": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uczVScFFRNUppRlhGVnpDWVNwbnJoTkdieFRTZVNoclJXeGhCX0hZa2FQOEt3ZHFmcDNlNmNER1NwSjZfRlB2TjN5T0tBTEhHV3lZZkZLWVY1YThjTXc?oc=5",
+  "medio": "Hora Cero Web",
+  "publicada": "2026-11-09T14:04:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "MC legalidad cuestiona de nuevo grupo legislativo PRI-PAN en Congreso de NL Hora Cero Web",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "805aec44d0453c90"
+ },
+ {
+  "titulo": "Electricidad, transporte aéreo y hasta verduras presionan la inflación en octubre; subió a 3.75% anual según INEGI",
+  "liga": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSFAwUUhzZVh4NzZnSktoa1hDZzFmeWR2WUR5aVFTOHJSYVF6aC1HRlVpTmpZSHNxTFh2UTh5aHBVRllaSGpBa3JBOTdMaUh6VUtqNy1PMklRRmFwMmxTbHYwUTNiSXlLZVRKWnNfMlFwYVJabXZxX3dNWlZISGlHV18weUVGTHlnS0F1T0NfdnQwZndNWVl2M1A3R0pzZndnLTg5VHN5ZGVocnltakxsNklvaXQwbGhidWJzWkwwaldtTVFiR2hhd1MtakswaDFrWEthX2M2dVBBZk9Kd2hHSzZkTFpUOTJPVHI4c0otSjRhejNzNXYwQ18zRQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T14:04:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Electricidad, transporte aéreo y hasta verduras presionan la inflación en octubre; subió a 3.75% anual según INEGI Reporte Indigo",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "9dac9661232edb17"
+ },
+ {
+  "titulo": "Shakira habla sobre la salud de su padre William Mebarak",
+  "liga": "https://abcnoticias.mx/show/2026/11/9/shakira-habla-sobre-la-salud-de-su-padre-william-mebarak-294959.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T14:03:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "667d25ddf8662e3f"
+ },
+ {
+  "titulo": "Nuevo León y Jalisco: ¿qué sigue para el comercio exterior mexicano en 2027?",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVJXcFZXT0t4eWJLaGZxNlpaQWxPY0R1WjVzTFV5aF9RaUVhX1ZCaTE4Q0JRQ1ptRmcyemtxZmpBR05lNUp5cjVSLU1qZkxVYWRCV2xIbGVaNUJOdEdCTlduNERoWEtMV05rMlpIR3h1YVZlTmpDRE5XLUdacGtYeW05WFRPdXRQYUE0VG9HMkRsTFlYS1hyTDc4Zmhua2stN1NjNzY0UVlDSDg?oc=5",
+  "medio": "Líder Empresarial",
+  "publicada": "2026-11-09T14:02:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Nuevo León y Jalisco: ¿qué sigue para el comercio exterior mexicano en 2027? Líder Empresarial",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "09a5df0e69ba4029"
+ },
+ {
+  "titulo": "Maru Campos reporta 149 detenidos y refuerza operativos de seguridad en Chihuahua",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb3o3a0F1UllrNDJEWGo0SXVxTFZuZWVQeHlUeGFhQnY1V1J4OUoyU3pYM2tBZmpYdVNFTFp6bnpnLWN4NE05UmNaaFJlS2JjbUlaa0VPYk9nd2VUR0daNi00bWxIeWhIeTNHejZ2VXd2czd0b0pralRRWW9ZSmJOenExeHpDUEtGZlJVRmlXQzVOSGoxNmExdXk3QzVhVlV6TGlVWTR2X0tScU9xV2RVVHNTaTJQcVcwS1RoTkYyNHNsOUtEV2E3Yzh2MjNNM3F4SnZiZmFR?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T14:01:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Maru Campos reporta 149 detenidos y refuerza operativos de seguridad en Chihuahua Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "dbee79151c3955ec"
+ },
+ {
+  "titulo": "Prueba para Trump: Buscan destituir al jefe del Pentágono",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWVYUGZYTTg0NFZYMmxoeThuMmxSQUdNbDA1cGY3V3NqbjhrVmZ3VWRiOW5ocElLMW1kU0c5Nlc3MzVhNFd0Nk1rMzMzQjlVZEFmNHBsUUdjR0pSb1FOMkQ3QXY4S3hNd29tVDZGZmpvcExieF94emF6dUo0OWE1UGRtakJrcWVjbUxqMTFWcVdJV2xhQmYtWFR2ZEtVVmw3ekgyQlZ1TF96ZjlJZWc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T13:58:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Prueba para Trump: Buscan destituir al jefe del Pentágono El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "545f5a0e71753465"
+ },
+ {
+  "titulo": "College Football Playoff tendrá 24 equipos en 2027 y eliminará finales de conferencia",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/9/college-football-playoff-tendra-24-equipos-en-2027-y-eliminara-finales-de-conferencia-294958.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T13:57:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "0752c8dad12503fc"
+ },
+ {
+  "titulo": "Explosión deja al menos dos lesionados en empresa de Apodaca",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR194SUFaeEV4Q1lJOGFoRUdldUpIelZ1LTlPNmtsYk8xUjBHYUNzUk1iV1Vha2xfeVVWTkxzVk9yVWJZTVBxdXA0WUNEWWxkdm9YSHp3Xy1CMm1od2hTcWVzNlhJM2tDQUlXOUlWckVYbXZZRkpsLU03SUtnYnprQ1hrbzhjWkstZnJoeWU1OUJHdVFXMU5VcHFHRDJ4alE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T13:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Explosión deja al menos dos lesionados en empresa de Apodaca INFO7",
+  "temas": [
+   "Accidentes",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "3696670072503b6b"
+ },
+ {
+  "titulo": "China rechaza acusaciones de espionaje contra CEO de Nvidia",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3dKSFhTZ0Nac0NIaHZUcWx4UU5KNDRRc2J2OFBPZlVsZlM0NllWNi1NQ2l1Z1lzcnVQcVlMLWwxSndYaFhURjhBWWdMbW5fRkk4YWNhLVZBamdQZF9JX1hhNi0tSEQxbEpKMmVtTlMwWHBzLUM5OGVVdm5BMDhNNS1RMXRVanBiT0h4bWRtakhpb1pjdWRIYV9jWmJ4WHNfYzVFd2o4ajR2UQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T13:55:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "China rechaza acusaciones de espionaje contra CEO de Nvidia El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ec94d22546668629"
+ },
+ {
+  "titulo": "Ari Telch, actor de Muchachitas, preocupa con mensaje en redes: “Estoy secuestrado”",
+  "liga": "https://abcnoticias.mx/show/2026/11/9/ari-telch-actor-de-muchachitas-preocupa-con-mensaje-en-redes-estoy-secuestrado-294957.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T13:54:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "591c33935dcba961"
+ },
+ {
+  "titulo": "Agua y Drenaje de Monterrey recibe reconocimiento de SAP por modernización tecnológica",
+  "liga": "https://www.posta.com.mx/nuevo-leon/agua-y-drenaje-de-monterrey-recibe-reconocimiento-de-sap-por-modernizacion-tecnologica/vl2276966",
+  "medio": "Posta",
+  "publicada": "2026-11-09T13:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "5eaebf7f0ac5ef2c"
+ },
+ {
+  "titulo": "EDC México 2027 revela su cartel: estos son los dj encabezan el festival",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/9/edc-mexico-2027-revela-su-cartel-estos-son-los-dj-encabezan-el-festival-294953.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T13:53:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "845b3b0fc8143fff"
+ },
+ {
+  "titulo": "Cae joven señalado por robo con violencia en viviendas de Santa Catarina, NL",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWk0aW5wX1ZMSEpiVXBubGo0R3BjZ0JrZ1F6QVhscVF0UENPUW8wYzUzQlFqZjNNMXFSWGlPUTM3X0Y1b21CdmVrVF92aFM1TmpSTllVMDRRSDRad1ZyWnZNbTVzYmVKTkMtMEV2X3BQSk83VzBjWHRCVkpKTkJOckowSTdBVmFkODYwSdIBjAFBVV95cUxNN2s2TjhDZDV2TEltNzFBUXo1WXp1QUFtSFNzb0NRS0JRbS1aRnBxZmtMVXQ5dU1heUZpTVlJR213Qkkwc0p3clF1WmpZc05DYXhTT0RyX25BWDRteXd4Y0p2Z0M2RUoyV0x0cE4wd3VmUzVBM1lPeFRaNnF4NmRFNFJmcHM1UjJQSV90aA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T13:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Cae joven señalado por robo con violencia en viviendas de Santa Catarina, NL MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ed2b52a6383c7fb6"
+ },
+ {
+  "titulo": "'Corrimos sin parar': narra Alcalde plagio y escape",
+  "liga": "https://www.elnorte.com/corrimos-sin-parar-narra-alcalde-plagio-y-escape/ar3311224",
+  "medio": "El Norte",
+  "publicada": "2026-11-09T13:49:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Tras sufrir plagio entre SLP y Zacatecas, Alcalde de Río Bravo afirma que fue error circular por la zona y dice que logró escapar corriendo.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "3c600c1609796891"
+ },
+ {
+  "titulo": "¿Quiénes participarán en los Latin Grammy 2026? Aquí los detalles",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0xGS2NjZHF1YVBLWDdpaDdqbGdTYnBxSjBtbG8zbUxTWmZ6ZDU4am5yS2syV0RNd25HbEEydDJ0eXVIaFhYaXl0SmsyNUtHVFRNN29MQm5IZlRZQjFOS2h2TlowOVRIVEY3QUxObG9TYktiSVZaVFpCeTZTRVZaeEhrYXMxSi1lRDIwV1NjeF92cUNNOF9oUDVFQXZHSl9ZekhVMUpKODJyMXZE?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T13:48:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "¿Quiénes participarán en los Latin Grammy 2026? Aquí los detalles El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b6b256d2d59670f6"
+ },
+ {
+  "titulo": "Paro de trabajadores del INE afecta a 95% de módulos de credencialización del país",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTRfUmVPczR1cVFFZVhqbXF0VlhQbHlYUEFlMk1aSUR6eVFvWEoxQUxZVU1HZGJkWlMxcWJXdFAtWC1PUXFYczlLWTJPcEhlQXRUbU5rS0JmNnlMOFRmZWduX1FVcVQ0WDdOZzdsUUF0OGdXZHlLcmtRSmpBUTh1QUhwSmZRR080T0tpSzFlXy05bzhBUUlsNlNrUmJGckdPRVdtelpTX2R6R2NRMDF2QW44SDJuaER1a2hrUmxPYXVncFo5RkhOTXM0YnJyQ28?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T13:46:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Paro de trabajadores del INE afecta a 95% de módulos de credencialización del país El Financiero",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "8ef916dd7ebc76ca"
+ },
+ {
+  "titulo": "PRI y PAN crean bancada Recuperemos Nuevo León con 17 diputados",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSE1yQzBNNlF4TDdTN3JoNmI2OGJNb2RTSER1YkNEY2h5RGRnc0ZndjliRFM2YTBxNU44RW5rTEJpSl8tZlBsWEJLVkkwbnJ0UkdhQktlc2UtV0dsaVBkSGxhcHlheHpFZFozcEQtbkt2dmRxcDh2WVV3WnNjbFpsNWJQTU40V1NncFNWb1RvOVMwOGdJdldpMU5YQ01pUzlua0EyYjJHT2MxNDVSYS1pbnFvSWV2WXpNaFJmbQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-09T13:44:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "PRI y PAN crean bancada Recuperemos Nuevo León con 17 diputados MVS Noticias",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "3f435fb070c33070"
+ },
+ {
+  "titulo": "Conarte anuncia el concierto “Dos noches con Brahms y Jorge Federico Osorio, en su 75 aniversario”",
+  "liga": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQmh3MHY3SDdpdkNCYVZVNnRXQlJ3VkNhczNLdzh0WWxWXzc5WlY1Zk1XRlNubXZNejJfeGxnNVBOVzM1bDVSME0yS3hWcGVJQXBBanFvaW1iVUgxYTJnUlpYQjZIQzMxS0IydTEyaXB1eVRyYW9lbkdLNzZZVHJENl9IdlZsaUV5NEo5NHVfRktlRlFlUTNZZE9uQ3BPdC1hd25IQW92SEJidnZReVNWcS1jc1lUUjJjREhRZEQ4Zk0tWV9xLWxfMUpTa2hBQml2ZUNrc3MyZkpJSjQ4OWFjeHBYTk01Z1JUSGc?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T13:43:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Conarte anuncia el concierto “Dos noches con Brahms y Jorge Federico Osorio, en su 75 aniversario” Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "11183d72544262a5"
+ },
+ {
+  "titulo": "Emprenden investigación para aplicar vacunas contra el cáncer de hígado",
+  "liga": "https://abcnoticias.mx/global/2026/11/9/emprenden-investigacion-para-aplicar-vacunas-contra-el-cancer-de-higado-294956.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T13:41:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "bce21d610f5791d2"
+ },
+ {
+  "titulo": "Ramírez Cuéllar propone renovar el sistema anticorrupción y combatir la impunidad",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVVjNW5IazhCaVlSdENocTYtZXRad1ZVbWptWTJ1MWsxa011OThscGFYV09ab0FYU1NSaGtwMkJXZVdwQlhpZjBiQ0piZEV4Zzczb1lHenZNTWg0MGhiOXR3dXdFYXNMMmg2R1Z1T3QzaWUzTjl6T3dpLWE5Z0hxN0RMcklVb21ZRmNGeGxKOTlYSGgwNmpnczFRWWhnNkNNQlJ2SHVnUThPWm5SVmw5cFRKUmN2UHpJaTdQTzBvMmRPR0tZRnVaYlZCRFlleTlTeTdmclRn?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T13:40:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Ramírez Cuéllar propone renovar el sistema anticorrupción y combatir la impunidad Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e042b02e8ebc69fb"
+ },
+ {
+  "titulo": "Arquidiócesis se disculpa con quienes ‘lastimaron en su fe’ por desfile de modas en la Catedral de Puebla",
+  "liga": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUtaSkIyRzZ3azkwUzNZdDlfNVI0RnhmNVFHQzhoSHdXaHBzdlJpd3oyY2RUQ2kwVHRua014S0laOVNvTm5qRG5vS2lfMWYyT29xZXNWM3dHNXJ3Qmtib21yQnF2YmpnalZDaVJhQmtSM3hyZ0JtclI3MUVzbEJlMWgtRnNJSHVZZDV0ZG95UHRhdmc1QktBSUl4TUMyLUxBS2c2V1NLVmpMQUZEeERzTWZDRGZhdFNEdWdIUzdBVmRZZk9lV0FGcVA4bEppcmtFNmhER2t0WVJxdHB1aGtndEhrVk1iendoa2pv?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T13:39:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Arquidiócesis se disculpa con quienes ‘lastimaron en su fe’ por desfile de modas en la Catedral de Puebla El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "829f63f13e2f36db"
+ },
+ {
+  "titulo": "Premian AyD por liderar adopción tecnológica en sector hídrico",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXZVZThNTUJtQmlYNEJRbXpWRnFwWWZVQkRUUk5fWk5HX3RvYTN1ZTNTbWR4RFExX3piQk9fa1J2RXd6b0NhYUg0QjlpQ0JfTkRvNU9pQkV0cEpjMkowcVNpU0lPamRrMUpBeGRMa0xKN3JtNVMtejZWV3pZWXp1dkUtcG5oeUxzMk1tdTZwRTU5ZElFYkpMaTVHOXJNcmx4VDZuRWc5TGlOREdJRk53dw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T13:38:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Premian AyD por liderar adopción tecnológica en sector hídrico El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "54552d688c351fc7"
+ },
+ {
+  "titulo": "PRI y PAN unen a 17 diputados para asegurar la mayoría absoluta",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUVCS3l4RGlUS192b3VZY3BySHNCeFdCb0tPcVcwelg3dU9nLXFURTMwR1gyZTBmaVR6T3ZDZm84SWlzRVlpejBPZjlxY21FcS1Ec1Y0aUlMM2xUX0t5aFNUWjdrV0U4Y2VWcURTU0trb0NPREdlSjhKbmpiNWgycUZUdTRjaUg1dmJ6WFRMOGNzc0s0dGlhY0ZaZw?oc=5",
+  "medio": "gamavision.com",
+  "publicada": "2026-11-09T13:35:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "PRI y PAN unen a 17 diputados para asegurar la mayoría absoluta gamavision.com",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c5bed8fcb4697ac1"
+ },
+ {
+  "titulo": "Aprueban a Maderito e Indira Kempis como aspirantes a candidatura independiente para la gubernatura de NL",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUQ3MHdLUFVxTW5PaUxwMWtnR2hyRmRWUWZ5T0p1WDNXdDczQk9YMW8zRldSV2xXalVtaDFhVW1ZRHpoR3N1ajA0SkJjdFp5S3ZsbTRhbU00S016Z05QNHl0VFNyVGZXa2tnaEY4SVB4N0JDVVFOakNIZU1HLWVnTlhiRGZEVVJYT3hDZFJFS1hHNEE2b2FvNDVVenh0Z2lYcUxj0gGjAUFVX3lxTE5wcFhyeGExbXlxRTQyMW1yb0lNTUZVZUUtSjYxeW9ya2lkVXgyUmpnOF9TUlRheTAyVW9qb0lSVlV6eGNqWGE4UERCMHgydFQ4anF5WjNsSFFndWhjb1AwTWxrdV9aLTJoMHF3cmlOd2hPSW5sazRhRnNlc1dNNGhWMGRSMkU1aU5DSGsyaUZEQUpSeXZ3OTZhZ2R0a0dsWTNwcUk?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T13:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Aprueban a Maderito e Indira Kempis como aspirantes a candidatura independiente para la gubernatura de NL MILENIO",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b8728c292f0be533"
+ },
+ {
+  "titulo": "Presenta congresista Massie resolución para juicio a Hegseth",
+  "liga": "https://www.elnorte.com/presenta-congresista-massie-resolucion-para-juicio-a-hegseth/ar3311212",
+  "medio": "El Norte",
+  "publicada": "2026-11-09T13:34:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Thomas Massie presentó resolución para someter a juicio político al jefe del Pentágono por operaciones militares sin aval de Congreso.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "0fab003331a0bf3b"
+ },
+ {
   "titulo": "¿Está el tuyo? Estas líneas de celular pierden sus servicios el 15 de noviembre",
   "liga": "https://abcnoticias.mx/tendencia/2026/11/9/esta-el-tuyo-estas-lineas-de-celular-pierden-sus-servicios-el-15-de-noviembre-294951.html",
   "medio": "ABC Noticias",
@@ -12,6 +566,21 @@
   ],
   "local": true,
   "id": "b0a05d564676bd73"
+ },
+ {
+  "titulo": "Museo Metropolitano de Monterrey inaugura dos exposiciones de arte contemporáneo",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMHgxdU9KbW9JTzB0cFJrbWV6R0VDbFVsUWpUWE1LNXJHS1JhZUFmbFU1XzkyeFJRVFN1WUdUOXVLbk8xN0NJNi1OaFdEN1A0UkxXb0UwMlF1YTdoa3l5MjFOeGZLazVtMmNUU3YzX0dDVkNfM21oSjZObmJZcEVzbGQxLUE5Unk0Zi1iNkwzR05BcnhBcElyTlpLemI1VFFlRFBIZWVBN2UtbFVyaEtnWVYzd0NwYzhMekJkckVWZG9DR2owTExuV3YyWEhaT0JFYlNrZzhB?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T13:32:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Museo Metropolitano de Monterrey inaugura dos exposiciones de arte contemporáneo Reporte Indigo",
+  "temas": [
+   "Cultura y tradiciones",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "806f44f0800a03bf"
  },
  {
   "titulo": "VIDEO l Aficionados de 49ers y Raiders protagonizan pelea que deja varios inconscientes",
@@ -42,6 +611,20 @@
   "id": "de1e718d6b82a750"
  },
  {
+  "titulo": "Detienen a hombre con documentos falsos de camioneta en Pesquería, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkNmNTVsNkVYRXhEanBscWZ2UU1RNS0wUE5ySmR1V3JZQlZDODl3Y3M1ZExxUDk1Yl9Nd1JxRDVQX0U2T3Fua0RQWmNYMTlwR2NoM0EwYmhQQURfMFJqOVBPZFRJVVJoNUU2dUtoU3hYTU9Udy0takFBQVlFN18yVGFNXzI4TEJpbmozWEJMXy1NZmJTVjlyYnh1QdIBmwFBVV95cUxOd1lSV3o3c0N4Sms2T2R5NHkybHg2NExQRTBoaHVveWQ1dzZybHJ1ajJkUF92WklBeXgtV0d2XzRRYkkxbVRjLVhreWx6TzZjY1BNbWNuaExMemVtY3VzckdQLUlJYktRLTZRQ1RHOGNoM0c2V0ViUmE2Smt6enl0bGRVdU1HQVNUVDY4a0VDaHFxSWVwYVZxOHFZRQ?oc=5",
+  "medio": "MILENIO",
+  "publicada": "2026-11-09T13:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Detienen a hombre con documentos falsos de camioneta en Pesquería, Nuevo León MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ad26ede0bb46e5ab"
+ },
+ {
   "titulo": "Entrega Samuel García nuevo jardín de niños en Salinas Victoria",
   "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEtQQTFCeURaMUtSajIwS0gyUEJOTkpNbzZQWWltbzZ3ZWpPaVpOUjc3dFVKbEZrMGx6bG9Da2VRdHRGUktmZGJmRm9DNEFibHBuZGZob0FzTTZ4MDNzc3V1V3hFbkw0bWZnR3lQckZ3WmZCUUlKTGUycXMtTWJ5YXQxdDVhcWxyT3BuT0FscldoN211MHJvU3lRUkNFTDBHZk5KX3VvQ2Q4WnY1c2tVYw?oc=5",
   "medio": "El Horizonte",
@@ -68,6 +651,20 @@
   ],
   "local": false,
   "id": "47abfa0454bf59b1"
+ },
+ {
+  "titulo": "Se suman trabajadores del INE en NL a paro nacional",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWczd3BTSmlfZ2ZWbDcwRDBGUk9aNVU0RGU3UmxrY09LUTdMTVo5THJzRTNuZmhrQjNBaG1JY3M4TldYUnNoalF3Nkh1QWVrckc3UktJSmZ2ZVpYTWJfa1dzbkpTdVAwZF80UXJOMTNIb1R5T1F2ZWJ2WjlVWHZaUUJCX3pnZEVrUHBJWWE3QzdBMDUyNzBpZ1d5aw?oc=5",
+  "medio": "Quadratín Nuevo León",
+  "publicada": "2026-11-09T13:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Se suman trabajadores del INE en NL a paro nacional Quadratín Nuevo León",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "e5777e68edd8f4e5"
  },
  {
   "titulo": "Abonos tempraneros de Tecate Pa’l Norte 2027: ¿cuándo saldrán a la venta?",
@@ -1053,6 +1650,22 @@
   ],
   "local": true,
   "id": "baba0234c68b7b2c"
+ },
+ {
+  "titulo": "Monterrey inaugura exposiciones de artistas locales en el Museo Metropolitano",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOVBwT1I1OGdPaTFtQnFSTmRJZlFJZmg1eS1YY0UyTm82U3FCMFdsTGx3aHI5QVdieU9OczhlV3RmYlZTRTBnRHNXZV9HQnMyMWJVT2NyX1l5akxfVzN4ckt3SzVPMHk4QWUwSWxkSFhoNHFmSUR3ZTVBWjVFZUI5YmpSODRkZXlUV2RXZ0lPQmJPM1hoUjZub3dXRlZNR0lNMUw4bm1ReEx1YTNweW1oeFprVklRMTdfUldYSnZVTktqUVE?oc=5",
+  "medio": "SDPnoticias.com",
+  "publicada": "2026-11-09T12:26:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Monterrey inaugura exposiciones de artistas locales en el Museo Metropolitano SDPnoticias.com",
+  "temas": [
+   "Cultura y tradiciones",
+   "Movilidad",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "1817ebf48506295f"
  },
  {
   "titulo": "Destituyen a Juez Sigales, señalado por Sheinbaum",
@@ -2356,6 +2969,20 @@
   "id": "999035cba78d2d59"
  },
  {
+  "titulo": "Ópera en la vida cotidiana: Por qué la música de concierto sigue más v",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0dScmhEdUNwYkUwM2g2SjlCNFVKbkd3RVJlMHBQVTVqbXJ4ckZkMXVoSVBHTXhfNmxoRmRfNVdSbFVHcVUxZi1MREpWdjIxaTZKTHViTUVLay1jck5xODA1N3VEaXBBcS1KQXJmMlY4YlI0d0NxaVVlUjd3alFOMEhLazVDUDlkaE9RMEh6WVZncjlINnBEekQ1QkFHa2UxRTRUU2UxWUUtSXpYRzBGeHpXeVdyYjMtSXNPNERla0dWanVJOU45ZW9VS19EZEdPRHdzSTk0dWsyQmZ3RkE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T10:48:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Ópera en la vida cotidiana: Por qué la música de concierto sigue más v Telediario",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "05c414da25212c6e"
+ },
+ {
   "titulo": "Consulta los resultados de la Quiniela Progol 2358: lista de premios y combinación ganadora",
   "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTkFyR3AyT3NNQjRVZnFVMk1CcWpQQlBhempzZ0g1OVRRTU05c0Y4d3YyZ2p6dDRlUnZleXJiN3lMcXh3UTZKRkl6dzduNEhKSEFxMnJ3VEVHc3M4NkRmd0J2ZTV2QllTYkVZYmJlQkZvbjRpLWdXNmp0cVpocklCRE9tOUZhMUI4bWszSklmN0dVT0l1WldOVEFuWFk3NWk4QVVuMERhWjEzMnJ0ZWhXNU1nLUt2bklPNHp3eHhERHIzUEhjX1ZJcFFhS3NUV2owS3AwYjh3SVFDaVVFbkh6RlpR?oc=5",
   "medio": "Reporte Índigo",
@@ -3599,6 +4226,20 @@
   ],
   "local": true,
   "id": "4e52064f872693e9"
+ },
+ {
+  "titulo": "Cae del tren y resulta con amputación parcial de un dedo y una probable fractura en Torreón",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQkwwY29BRk1pUTBWN0h2N3ZvckpZZl9jOW9GMTdpNEZDMDhtOWhVQWE3X0xvZVBtckRseEpxMU11TWx0UW5pYjRFZmJqdDhBeGZYVGhjdWNnVE9VOExhc3ZfUnNwUWpNYUtrYy1EanZrZjBmNG95Q2xkbWFjS0Z6clptRDdVOUd2ODRVdHk0MDXSAZABQVVfeXFMTnlEUlBGN0ZmbDVFdjd1VVk3VU1LUnBGanV2WDh6VDVFOXZEdUpkbm5RRmxfT3ZrVnhtZkRqVEFraElSSUJrT1lwbXdKdVF1V3ZpQWV4akQzdXFkbVNsM3VOUFVoQXRZSFpEd3pEdWhBaXJSNFF4aWRZbjR6alJ5M3VKbm1YbFhfemg0N1h0SW53?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T09:18:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Cae del tren y resulta con amputación parcial de un dedo y una probable fractura en Torreón MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0c9828ff400762b8"
  },
  {
   "titulo": "Polémica en Puebla: desfile en la Catedral desata críticas",
@@ -5986,6 +6627,20 @@
   "id": "9c3df1d58d5236ac"
  },
  {
+  "titulo": "Paraguay: registran casa del expresidente Santiago Peña",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObnRyY1RRRHlsWXhSZFp2ZGNyRXEzeU5sTmFmU2dHWXdYSmx6UnR5Q3ZFVnJpWlZ2MGd3X3c2RUlXcVktZndKczdka1I1aWFUMGhVZGhha29vUDlQcmo2ckNyeDgydlI5STdxNWVmSm9DOE00TjQzR3U2TzRiTGxoalRQaWpjd2tuSU9WQ0hkbFREd9IBkgFBVV95cUxNYklwcC1fd21SdmE5ZTdvbXUwbkRhR2V0RG5ZWWNGSV9BbjNZb1pSS3N4QktCX0NiNmlCcEphTDhtZmJWeFJjLVdXS2dXeVhySjJENmJZRmgxNnptWXVBdWVZbkFZVDAtYWdtZDdRT3BQSFZaX2lKR3ZPT2JzTVFabUJPaGtBTTJBeVMzSjI1YXJTQQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T04:28:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Paraguay: registran casa del expresidente Santiago Peña MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "24a5fe6ed33fc7ca"
+ },
+ {
   "titulo": "Confort o sana incomodidad, ¿con quién conectar en un nuevo evento?",
   "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTU5xcmRXc3RvUEt0dFZsckJYZzdXc2VldjFqT2RtTGswM2swMVdxblo1OHpoVE1feEJZeEJ5SkJBbWhxMk1Zc0dQSHlkN040YktUU3RhZi1vMlJNU0VRRXR3R0NqWUZJcld6eDhfUWVldFBKa253YlAyOFlERDVVQkdKUkJhd3FBTnVhYkR5RnVhLU53NUlPblc3R3g5SVp2elVIbkNVZlliTGw4aXBwOHo2T3RBWmxDVy1MbzhuMjF2a3pKOFNIYkhPbXFsZFE?oc=5",
   "medio": "El Financiero Monterrey",
@@ -6298,6 +6953,20 @@
   "id": "e72a58e5981b6e99"
  },
  {
+  "titulo": "Prepara Guadalupe su anteproyecto de presupuesto",
+  "liga": "https://www.elporvenir.mx/local/prepara-guadalupe-su-anteproyecto-de-presupuesto/1042670",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "El Edil explicó que la administración municipal trabaja con estimaciones conservadoras.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "fc3dc8ff4e17646c"
+ },
+ {
   "titulo": "Ay, qué pesado, qué pesado, siempre...",
   "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclcyTGpGTXF5UWptVjhXT3pPUF9sdGNmLWVLUGpsWGVjTG9XU3VmZDBqRExpWDVPamRwdUo4WUc4U0dybEQ5NlhwTUF0bTdiUHFyaG5KMUZNWFJycGVndGI4NjF0SlFlRzNXM3o1MHdDV29PbVlVcmktUzhUX0txMVpueUnSAYQBQVVfeXFMTlZMWnA3YUJQeWp6OVpvZHR2LUR2TVA4bVpLUzBHTUtNY3Y3eEcydXZyVXp3UFpxbUY2elhZVkxzaXJiWktsTk1WTEM1YWNkMDd6TFB2c3VWamUzVzFBY1RrZWl3RzlGU2VBTkQ5bDNvU0xxbFBYdjl4emtLcU1aX2xXVjhO?oc=5",
   "medio": "Milenio Monterrey",
@@ -6324,6 +6993,20 @@
   ],
   "local": false,
   "id": "51b108a8f67e16b9"
+ },
+ {
+  "titulo": "Realizan con éxito cuarta edición del ReciclaLeón",
+  "liga": "https://www.elporvenir.mx/local/realizan-con-exito-cuarta-edicion-del-reciclaleon/1042669",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "El objetivo es seguir impulsando la economía circular y fomentando una verdadera cultura ambiental entre las y los neoleoneses.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ef88e2014fe4814b"
  },
  {
   "titulo": "Milenio Noticias, con Roberto López, 08 de noviembre de 2026",
@@ -6354,6 +7037,20 @@
   "id": "2e3ae51cb92af553"
  },
  {
+  "titulo": "Tiene 9 años, estudia una licenciatura y va por un premio internacional: la extraordinaria historia de Daira",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbDhiXzk4Rm02Y0w5c2l3TjBHQWp6X1BSNmNrcG9yRmNfMVNJdnFnczQ3X0M2NlE1ZVJyU1p0aUdRRHFjV1BSQm1BeG9meHcyTkxiR0dtOFRaR3N1cnJwcjVnN2FFUHlVeVYxNXdRNmNCNXp5eVFybFpvYUFWRWpwRks2ZjJNZ1A4Wlgw0gGLAUFVX3lxTFBIRk8ydi1uek9XWlY5N0s0dklrTlBNTERyWW9fOU0yWm1aVjU3YWhOVFJmSTRLUjB1bTFOTC03NHdDR2tsOUhKdUhMcVdBNlFtUHBBTHB5Q2JYSW5LM3lfVkJOWFJyclp5NWotZDE4aEdjZVVZeldQbUJLREpEQTNYYjc2U1ZTYnI5a0k?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T02:35:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Tiene 9 años, estudia una licenciatura y va por un premio internacional: la extraordinaria historia de Daira MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0004492486c39cd9"
+ },
+ {
   "titulo": "The Diplomat: la ficción que refleja las tensiones políticas en medio de la polarización de EU",
   "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkVpSmI1SzR4UU01Z1dsUGlDMTNEamEzSEFZeHFSV3FFRTludUt0LW5JWlB2dDVQQ3B4TUFxZVJNR21aR0FTMDdtX1BtSXVyRkQ0LXpZU2RDYmVwZHlMckowSHlTdHdrcVhoWmZPN2E0STBDQ1F4cldyUUxNN09YdUd5T2ZfTXVqeUxldGF30gGOAUFVX3lxTE9lMFBiUVNZQjNGYTdNRGh1ZWZtVmZNeWFSQjg4QnpCcTZCZkdJcXliTVRscF9IbFlTdXdTNlNJR0xnWVg0VVRUVllqWVVLbl9xWkJBNW5rNmxxQWNzZ2dVS3Nib1NQZUdzekZLM2RvTU5TMlppNV92NXZNeXFudkpicWluNDNtbWUxNzRqYXc?oc=5",
   "medio": "Milenio Monterrey",
@@ -6366,6 +7063,20 @@
   ],
   "local": false,
   "id": "9301ff8aeabc7756"
+ },
+ {
+  "titulo": "Refuerza Santiago jornadas de descacharrización",
+  "liga": "https://www.elporvenir.mx/local/refuerza-santiago-jornadas-de-descacharrizacion/1042668",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "De la Peña Marroquín explicó que estas acciones buscan mantener las comunidades limpias y ordenadas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ef8cfca4ca960fd3"
  },
  {
   "titulo": "Andrew Leland retrata la desigualdad en Contra el huracán",
@@ -6424,6 +7135,34 @@
   "id": "ccb6ae47fce36840"
  },
  {
+  "titulo": "Presenta Sección 21 convocatoria al XXV Congreso Seccional",
+  "liga": "https://www.elporvenir.mx/local/presenta-seccion-21-convocatoria-al-xxv-congreso-seccional/1042665",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Para asegurar que la información llegue de manera directa a todas las bases magisteriales.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "92c862847a04c5f6"
+ },
+ {
+  "titulo": "Realiza Sección 50 asambleas para elegir delegados",
+  "liga": "https://www.elporvenir.mx/local/realiza-seccion-50-asambleas-para-elegir-delegados/1042664",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "En las asambleas delegaciones se escucha la voz de cada centro de trabajo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "461cccbba2cb67f0"
+ },
+ {
   "titulo": "Montaño, del INE, en Tabasco",
   "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGs5dUN3QmRiLU4zSlFLVDBpZ0FPWHhtU000RlJXWXpuVzdKak1ud29URkNNWi1ZeGlLWTQ1cGVDSFlKWU14azRJNWJCakhBZW9ObjlxT2ZSU2JTaTd6WDc4ZWtsZnRtNXctNEY3VG41OHBPY3k1RFM2RUVWVnF2YzIyekRGUTlzRmxRb2RKV0ZDSHZVSFE?oc=5",
   "medio": "El Financiero Monterrey",
@@ -6436,6 +7175,36 @@
   ],
   "local": false,
   "id": "5bd89dbcca340a7d"
+ },
+ {
+  "titulo": "Se reúne Juan José Gutiérrez con dirigente nacional de maestros",
+  "liga": "https://www.elporvenir.mx/local/se-reune-juan-jose-gutierrez-con-dirigente-nacional-de-maestros/1042663",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Alfonso Cepeda Salas refrendó su lucha también por los agremiados a la Sección 50 y se declaró en acción permanente.",
+  "temas": [
+   "Política y partidos",
+   "Educación"
+  ],
+  "local": true,
+  "id": "1d00500f6255543c"
+ },
+ {
+  "titulo": "Presume Colosio 191 acciones legislativas",
+  "liga": "https://www.elporvenir.mx/local/presume-colosio-191-acciones-legislativas/1042656",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "El senador recordó que antes de llegar a la Cámara Alta encabezó el Gobierno de Monterrey.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "8d06fada16e31f29"
  },
  {
   "titulo": "Nuevo León enfrenta vacíos legales ante el crecimiento de scooters y motos eléctricas",
@@ -6452,6 +7221,49 @@
   "id": "74009e893d16ce80"
  },
  {
+  "titulo": "Pide Héctor acelerar designación de candidaturas",
+  "liga": "https://www.elporvenir.mx/local/pide-hector-acelerar-designacion-de-candidaturas/1042655",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "\"Yo he insistido a nivel estatal que vamos tarde, que hoy por hoy ya deben de sacar candidato o candidata\", manifestó.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "922152256dfa437e"
+ },
+ {
+  "titulo": "Buscaría Samuel García la dirigencia nacional de su partido",
+  "liga": "https://www.elporvenir.mx/local/buscaria-samuel-garcia-la-dirigencia-nacional-de-su-partido/1042654",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "El gobernador Samuel García Sepúlveda se visualizó como líder nacional de Movimiento Ciudadano.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "3a8fad29875dd7ff"
+ },
+ {
+  "titulo": "Defiende Dante Delgado a gobernador de denuncias morenistas",
+  "liga": "https://www.elporvenir.mx/local/defiende-dante-delgado-a-gobernador-de-denuncias-morenistas/1042653",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Delgado sostuvo que los señalamientos contra integrantes de su partido carecen de sustento y responden a una estrategia de guerra sucia.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "839e275e28f1c832"
+ },
+ {
   "titulo": "Taddei, batalla perdida",
   "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3lkUVlWODZ4N1poWUxXbnU4YzZCUG8xVU90REFTX24tcU9jYTJrS2NVSFpxVklEaUNRUW5Eb0dHNk5JVmRXd3htdjRwbFA5Y2kzbjBuaDFZbldxczVvYTQ3bTR5SEJOeWQ2ZkY0ZG8weGFWRWN1U0pyTUlPTjlNWUR3eEM2bGtUSGlLbFF1dHdtREJkYXdrampmNkQ?oc=5",
   "medio": "El Financiero Monterrey",
@@ -6464,6 +7276,20 @@
   ],
   "local": false,
   "id": "8ca464274b6e6c0a"
+ },
+ {
+  "titulo": "Definirá MC candidato a gubernatura hasta saber criterios de paridad",
+  "liga": "https://www.elporvenir.mx/local/definira-mc-candidato-a-gubernatura-hasta-saber-criterios-de-paridad/1042652",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-09T02:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "En su visita a la ciudad el líder nacional Jorge Álvarez Máynez dijo que todavía no saben si la postulación corresponderá a un hombre o una mujer.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "cf9df8c494c2aefc"
  },
  {
   "titulo": "Mónica Oyervides acerca trámites y servicios en el Centro Comunitario Héctor Caballero de Juárez",
@@ -6562,6 +7388,20 @@
   ],
   "local": false,
   "id": "165475a2b4973e31"
+ },
+ {
+  "titulo": "Un Trump herido es más peligroso",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUpJZlR6U0NlUWlFRzRnbDBoc1o0cDlvWllkbDhlaDJ0WHR5eEVjQ2FfMHNNVHNJejFkOHlIY203aFBiZGF0bWFJRmlpVVlVU1FESDJKZG9OeTkxSVlRQjRFTlhGbVFfdUZSUmNHXzBQeDI0clBLUFdSVENsMzU4ZGd4endmbmM0djZYdWlad0ZZVk3SAZMBQVVfeXFMTnZLZV9pWHIydDh2cmwyNXJWblFmc2FkVHhtVEN3RE9kTzB6N2ZDZXl6SHdSaDY4c01nUkRhaGhLcm5fVUdVRzdsRlNHeVBGLS15S3lBR2QwLU1Vaml6WHY2YmRFV3h1OS1vMDNEQXIybXdISjA2amtFQ1h1eC1fOXdDSVJtTWxZT012aDAzbXFQLWh3?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T01:33:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "Un Trump herido es más peligroso MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1f73ad35f0a82744"
  },
  {
   "titulo": "Pide Máynez a Samuel 'dar la cara' ante la ASF",
@@ -6731,6 +7571,20 @@
   ],
   "local": false,
   "id": "131e7f7f0a16bee3"
+ },
+ {
+  "titulo": "'Hay que tenerle todo el respeto posible al Canelo': Julio César Chávez",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQS1vaGpwTzNxYWI5VGN1ckU1Y1B2S2wtZlR3Y2w1cldFOUNleUdhTDlTbUNIaGgxdTFZYXlPSnByWmtQcDRSdC0zTlQtdG1qWUJVLUx1QmQ2dVQ3MVFEUTlpSnZkSi1mSWJTT3R5LURRZHgxc3h3M3p1bVA3cHNLakR1UUNuRmViWUxqNTQ3eTh5dFJzcXBsX3lLNi1KWWpUUmU3ajBieUc5X2fSAasBQVVfeXFMTi1yanFVYUZKeUhlejRhZTZ2andRU3lEb3Zhb0xmWk9CS3FDUDNzcEpySnJPdXR5UnBHRlBNNTJzZU5xcmhXRENXSm55OGprT0tpOUNVV1EtZVdlTXlnVlVkNkRSdkZWZm5ibGgweUNLMkx2SUZxN1lJV2lLMEFXRDhHS0RXWUktT3F6NlgzbkV0Mi0zNGE1QkVuREw3VnB2X1hCVEY2N2liZU1R?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-08T23:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T14:28:38-06:00",
+  "resumen": "'Hay que tenerle todo el respeto posible al Canelo': Julio César Chávez MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b0ec558fef990bad"
  },
  {
   "titulo": "Banxico evaluaba bajar la tasa desde septiembre",
