@@ -1,5 +1,609 @@
 [
  {
+  "titulo": "Mujer en Tijuana Pide Ayuda para Costear Materiales de Curación y Alimentación",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzJBMDhxelVVZC1lWmZXa3ZTb0NkOFZTc1pGQkIwMzVDcGZjc2p6TWhBQWV5eGRYaEt4Y3c5ejZwMXNYVFlIbzFJdnAyVFJKOHZIOERzdlozUHdIRTh0MHgyX3JpRW5mU2kzQWhhb2ZabWVYTFZ6YWZBOWFMQzlQT3E0dmxVYVd3V05vU2wyTWJJSEY5cGRCVU9kZmhvOFJjZ015ekxyN3lpWU0zV3NMaGhYTXF6ZEs3Z1NzU3FzeDJRMjFPazZF?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-09T16:10:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Mujer en Tijuana Pide Ayuda para Costear Materiales de Curación y Alimentación N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "38e2a75abb3c488b"
+ },
+ {
+  "titulo": "Atropellan a seis personas frente al Hospital General de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmwwdnVCWG1UMWVzSmJmbGdodnB4OXpLRG5NNnYyTzBaNDhLRU1TNXZNQm44VERqTG1tbHBYTm10RGVkRXF2Um1peXlmSXZXYk5nQUNuQlYzb1k1R3VaUmh2c3pCampXTi1DWTM0d2h5c2QwYlBlRFBnWUlXcUxSRXNaRkxjcEY2aTUyRzdlUHBtclRyUGI2bVJMb0hoblVFU2Z0cFk1NmFqUWhMTjB3VWRPMWVwZw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T16:10:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Atropellan a seis personas frente al Hospital General de Tijuana AFN",
+  "temas": [
+   "Accidentes",
+   "Salud"
+  ],
+  "local": true,
+  "id": "698503131771f988"
+ },
+ {
+  "titulo": "Tiene cuatro años sin saber de Amílcar, reitera \"Andy\" Beltrán",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFk3YWxPSndxZ185VGpVMmVHOHo0YUFueFFEOGNSa2hudU1XLXFrOWVuc1A5eEdnaFZsd2JubG9mZU1maTN2eGM3LXF1RVh6aHBWYWNPRjNrSGl6MnBuR2ZrQ3BzckpaOFU1TnowRUUxa19IM1dnWGI1b2o1VXhsYTdTYUFnTl81SGVtcWkyV3JtUlBsTENXMTFRTTBST0JyTm1PM0J5Tzg2NkZXdTBV?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T16:09:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Tiene cuatro años sin saber de Amílcar, reitera \"Andy\" Beltrán AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d3a5d6e0e292e6d1"
+ },
+ {
+  "titulo": "Miami será sede del All Star Game 2028 después de 38 años",
+  "liga": "https://elcongresista.mx/politica/nacional/miami-all-star-game-2028",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T16:05:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Miami será sede del All Star Game 2028, cerrando 38 años de ausencia, con evento programado para febrero.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "766d05be92e1c5bb"
+ },
+ {
+  "titulo": "Karina Milei desmiente a Victoria Villarruel sobre misa del Papa en Córdoba",
+  "liga": "https://elcongresista.mx/politica/nacional/karina-milei-desmiente-victoria-villarruel-misa-papa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T16:04:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Karina Milei aclara que Victoria Villarruel fue invitada a la misa del Papa en Córdoba y no recibió confirmación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8b9ec1b460460719"
+ },
+ {
+  "titulo": "Anuncian venta de boletos para Tecate Pa’l Norte 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/boletos-tecate-pal-norte-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T16:03:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Se anuncian fechas de venta para boletos de Tecate Pa’l Norte 2027, que se llevará a cabo del 26 al 28 de marzo en Monterrey.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "6ff6e922743cea3d"
+ },
+ {
+  "titulo": "Detiene Policía Municipal a 191 personas en Tijuana durante una semana",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUFWeHBZelpoeGx6QS1YSk4wbHFUV3ZfdF9wWVFkbzJyaW1KcWZ6X1VLbHNUc1RsX3Z1WFd5ZEN5TEtaSTZrMVBndDZ3YW5HMGxoTmxYZUtWY2hqcXp2UlF0QlZ1akNPMFdpbHhYNHFQdGZ2SjJNeVRVaXRlY0gyMWZaRTluN0hEM0JPOFRxRFpSTm9yTGtZYXFkdkI1ZDlCU1pPNHFHMUFWUQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T16:03:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Detiene Policía Municipal a 191 personas en Tijuana durante una semana Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "441dd2c87ce4b2a2"
+ },
+ {
+  "titulo": "Microchip para mascotas en Mérida iniciará sin costos definidos aún",
+  "liga": "https://elcongresista.mx/politica/yucatan/microchip-mascotas-merida-costos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T16:02:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Mérida implementará un registro obligatorio de mascotas mediante microchips, aunque aún no se han definido los costos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e60fa4e89c92f8f9"
+ },
+ {
+  "titulo": "DURANGO: Recinto ferial tendrá nuevas obras de infraestructura rumbo a la próxima Feria",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzh0bjZ0LWU1ZEx1cDNJckpYMlpwZG1jUGoxUWs5REZpZzNWU1htaV9kZ0paNXhDTTN2Wjg1b2VkbFRJaDhNeC1EMkVVSk9pS0xnVzVpdGxCdW4wSjlfRG53RG44UGdFb2ctN2dKMnA4MVdsQlJTNmV0cF83aGMyaDVQbFgtdHhabllxNzNVNy12YUdjNVUybnVKQi1CdjVOTTZlczRIQXV4eXNyRjc2VkVVb00yUHRwdlF2SVBB?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T16:02:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "DURANGO: Recinto ferial tendrá nuevas obras de infraestructura rumbo a la próxima Feria Baja News",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "dcc6e4cb958aa05d"
+ },
+ {
+  "titulo": "Banca mexicana lanzará campaña digital para promover CoDi en diciembre",
+  "liga": "https://elcongresista.mx/finanzas/banca-mexicana-campana-mexico-paga-digital",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T16:01:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "La banca mexicana impulsa \"México Paga Digital\" para fomentar el uso de CoDi y reducir la dependencia del efectivo a partir de diciembre.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "baa1cbd721b81685"
+ },
+ {
+  "titulo": "Bajó abasto de recetas en el IMSS por falla de proveedores, aseguran",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0c4MUY2Ymd3cG5SdmpjTXJTR1ZidHNjWHJZM1lmTzVQbDVGcUp2WjVxWFl4OXF4NzBMTXRNZEVwT1E0SmJlT1RQYzJyVGpIVGFCbVNBcjlPRzZEenlLNFAtTTFhbklvSTY1TXYxVmo4RGZLYWZUYzVhWkIzOFMxN1QyMXROS0NjdVBrSFc4TGFOZURsOTI2aHI3VGU3STRBMGxEajdYMWwtM3JfX2xobmZHZkZIamoyVWc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T16:00:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Bajó abasto de recetas en el IMSS por falla de proveedores, aseguran AFN",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "8a245ac71bef5552"
+ },
+ {
+  "titulo": "Falla eléctrica deja sin agua a colonias del sur de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2ZPYlVQRmNuMl8yM0FzaGtXMEtQRnFyaTdzVURCZDBwcE96N0w3UVZMcldfaklNWmhKblFNQ2hVdXRHS095Z3hSZkFWMGNaeHJnUmJpSnlXV0dpUm5na1lDcGR1OFotQV9mYzRGRmNYMHVGNDZjWkRIQ0JKMUpPVVFINGRoVVBRWERGeE5qQkhZQ0RtUUo1dmJpRHk?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T16:00:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Falla eléctrica deja sin agua a colonias del sur de Ensenada Baja News",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "027cb183ae62ab2c"
+ },
+ {
+  "titulo": "DURANGO: Nueva escultura de Francisco Villa está en etapa final de fabricación; traslado sigue pendiente",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1hnamkxLUtuLVJlVXBKSjBVT2h3Y2tPRXR2QWc5MktiTVYyQ1RQb0d2VERKOF94WEszRTBna1F2MEIyMGRmNHRMS1ZpOHUxbmZoMmpPQlMxU2k1enFDeXBaenNBNG5JRy1oSFR6UFFhRWNEcmZoZUFGNVpnSzNITFRBZnFfSHVJR01vSkFkcjV4LXY3SzkyZi1BenprNnphREFSM01oOXpfN0Y3WlF3YWlQX1lZT3U4YUZ6eUZLeDBVeWJDWWk3eDBWbFNKbjJFWjlJ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T15:57:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "DURANGO: Nueva escultura de Francisco Villa está en etapa final de fabricación; traslado sigue pendiente Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "878e16f177fc9ebe"
+ },
+ {
+  "titulo": "Premian a tres artistas en la XIV Bienal de Fotografía de BC",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/premian-a-tres-artistas-en-la-xiv-bienal-de-fotografia-de-bc/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-09T15:57:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "La convocatoria de la Bienal recibió 34 solicitudes de Tijuana, Mexicali, Tecate, Ensenada y Playas de Rosarito La entrada Premian a tres artistas en la XIV Bienal de Fotografía de BC se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "9fcad13cc16586da"
+ },
+ {
+  "titulo": "Convocan a participar en el desfile conmemorativo de la Revolución Mexicana en Tecate",
+  "liga": "https://elportavoznoticias.com.mx/convocan-a-participar-en-el-desfile-conmemorativo-de-la-revolucion-mexicana-en-tecate/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-09T15:52:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "La invitación está dirigida a escuelas secundarias, asociaciones y grupos tradicionales del municipio interesados en integrar contingentes para esta celebración cívica. El desfile se realizará el viernes 20 de noviembre, a partir... La entrada Convocan a participar en el desfile ",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno municipal",
+   "Educación"
+  ],
+  "local": true,
+  "id": "856dd12e20a4c7a2"
+ },
+ {
+  "titulo": "Atropellamiento frente al Hospital General de Tijuana deja cinco personas lesionadas",
+  "liga": "https://www.uniradioinforma.com/sociedad/atropellamiento-frente-hospital-general-tijuana-deja-cinco-personas-lesionadas-n913353",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Salud"
+  ],
+  "local": true,
+  "id": "14f853c078845cac"
+ },
+ {
+  "titulo": "Atropellamiento junto al Hospital General de Tijuana deja siete personas lesionadas",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLUVUa1NtNzNsbTNrVlAwZ2tqUmNqbkpoSkx0VU5Bc1ZLSkNMR1JuMVVrT205UVFMcE9EOVk1Y3VGZGl0Ty1OdzktZXJ0SU9mSVNZQ3ZPY1dNZlF3UWItT3hCX3I0N2l0QUIzWlRFbXo1eFhOc2FoUU8zbW5XVUxBbjlPb0ZwVTVUUVE2aWZfRUdlU0R6elFqMGdwNDVuMzlXQWVRQV9PZVZWaGpoR0gwQnNadU9XZkd1TkRv?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T15:51:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Atropellamiento junto al Hospital General de Tijuana deja siete personas lesionadas Baja News",
+  "temas": [
+   "Accidentes",
+   "Salud"
+  ],
+  "local": true,
+  "id": "cee55ae9e359fff7"
+ },
+ {
+  "titulo": "Cruz Azul se apodera del liderato tras vencer a Tigres 3-2",
+  "liga": "https://elcongresista.mx/politica/nacional/cruz-azul-liderato-liga-mx-jornada-15",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:50:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Cruz Azul se convierte en líder de la Liga MX tras vencer a Tigres 3-2, mientras Chivas y América empatan en la jornada 15.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7b41e951ed026ead"
+ },
+ {
+  "titulo": "¡Atención, padres! Ofrecerán valoraciones cardiacas gratuitas a menores en Hermosillo",
+  "liga": "https://www.uniradioinforma.com/salud/atencion-padres-ofreceran-valoraciones-cardiacas-gratuitas-menores-hermosillo-n913355",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Se realizará el tamiz cardiaco neonatal a bebés menores de 30 días de nacidos, así como valoraciones médicas a niños y adolescentes de un mes a 17 años",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "39311109529e5307"
+ },
+ {
+  "titulo": "Niega Carrillo fuerza excesiva de agentes; siguen indagatorias",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0RRTExVek9tOW9FUXlmcW1HeHFuRzVoSVNseUpNbVppM254QVVRTHFaNV9vV3BmQmRydDFzUDlMQWRlWXJTcFI1S0FYSnd4UUVzODVnSUVJMlpuV2p3bDVRb2ROQjlERkI0Zlo5b2dsQmtKdjVua0FjZ2VvdmVweXgySXZhODF3aWlNMHhMMTRveE1mMTJwdjVsSGRSTkhtLXJuRA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T15:49:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Niega Carrillo fuerza excesiva de agentes; siguen indagatorias AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c00a727e624e43db"
+ },
+ {
+  "titulo": "Recortes al INE Michoacán limitan servicios de limpieza en módulos",
+  "liga": "https://elcongresista.mx/politica/michoacan/recortes-ine-michoacan-limpieza-modulos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:48:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Recortes presupuestales al INE en Michoacán afectarán condiciones de limpieza en Módulos de Atención Ciudadana.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5b2a08143f94cacc"
+ },
+ {
+  "titulo": "Expo Vivienda CANADEVI Michoacán 2026 atrae a más de 5 mil asistentes",
+  "liga": "https://elcongresista.mx/politica/michoacan/expo-vivienda-canadevi-michoacan-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:47:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "La Expo Vivienda CANADEVI Michoacán 2026 reunió a más de 5 mil asistentes en busca de opciones para su hogar y patrimonio.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d5431ea6ed042450"
+ },
+ {
+  "titulo": "Tribunal Anticorrupción y CEDH de Michoacán inician capacitación",
+  "liga": "https://elcongresista.mx/politica/michoacan/tribunal-anticorrupcion-cedh-capacitacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:47:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "El Tribunal Anticorrupción de Michoacán inicia ciclo de capacitación con CEDH para mejorar el servicio público en la entidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b889127c83dc5847"
+ },
+ {
+  "titulo": "Coalición federal es clave para quitar mayoría a Morena, afirma Robles",
+  "liga": "https://elcongresista.mx/politica/nacional/coalicion-federal-rosario-robles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:46:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Rosario Robles demanda una coalición federal para que la oposición logre quitarle la mayoría calificada a Morena en 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6c2afa6aaf4d526b"
+ },
+ {
+  "titulo": "Instalarán 30 Microbibliotecas en Casetas Telefónicas de Playas de Rosarito, BC",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkJQVldHT2VOZEwzM3k3YVd3dDIyQU5sMU5KOGwtVXhhbmh2ZzBFazNOZ2Yycnd3Qnk1QUVwRDNpZnJJVzhvdUJEWWJHZmhuS29fMWotWXE5YVBNRVRySXVPTmtodktwRm9LeFBWbkdNZ3o4d3ZsNnVYeUkyTWVQWjlFdzdSeHJBZGFRNGdrNmlRX21udWZqMXJuRjFlOTN1V1B1ak1mS01VbWd0N2tiZm51WC1pRTNYYVpmZS1sTk9RZGIyZ3NR?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-09T15:44:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Instalarán 30 Microbibliotecas en Casetas Telefónicas de Playas de Rosarito, BC N+",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "f5801f1dcecec225"
+ },
+ {
+  "titulo": "Refuerza Tijuana preparación ante posibles lluvias por fenómeno de El Niño",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTRFTnBsbGJWTkxWSk5uN0NTVG5TTnFZMTVGRmNVeEJZRXVNWm9WWG1vSl84VGhLbHhtTWprS0k3LWhnR0tKNkFTVnZvc3ZZVGR6OE1lVnBKYVc3NVNiRmhObzNaV2VZUFR6Y3hJZF9mVEFhblVUdGw1eGE4WlkxZjJSLUhzWWdKY0NYZGJNRXpzVW5UWEhFdHVwa2hWajVJWWhTTnJXYWI4OVVPS1pF?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T15:41:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Refuerza Tijuana preparación ante posibles lluvias por fenómeno de El Niño Baja News",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "b33137687f419fd4"
+ },
+ {
+  "titulo": "Suspendieron actividades la mayoría de módulos del INE en BC",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclVQR1oydWtvdjBfaTFVRzlKTzNNSExBUldXSjZBRTctbUx2MDdwVWRtNlRNQlBTam43azRRajNUUEpmRmhqRmJvUzJsWXRIUG91MlRyTEUxY0pXaDNIQTZCc1BmUVRTS1d6ZjRuYUJUY0FlbGE3UUNxRS1weXlNUTJaaElURktLRkJfbExHTDU1Xy1xMUpCbW9NejA4cmdJb09QcVphMVZPeVlhZEs2bw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T15:40:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Suspendieron actividades la mayoría de módulos del INE en BC AFN",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "89e66e7c095f70b8"
+ },
+ {
+  "titulo": "Diputada busca que Congreso intervenga tras daños por ll...",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWXBtWnFlMDh1LXhaQ2dDdkUtVW9mMjhyN3RjVWRNaVZydWw5eC1UQWFHanhWOVotRFlpUkROV240TzFrVlZZVWxwLVIyUnppRVU3QVY4NVE0REFWZmxKODJrdy1aazhwZGhad1V6MUIzZER4enVDUHZ5WVBqTzlHUXlxS1JaOU9yOVgxaDU0NGZOb0thUl8wZFpuNG9pelhFdkV3VUwxNTlzcFZ6WmNvMUZYT3lJWHZ0RmM1RURmUkg2UQ?oc=5",
+  "medio": "El Mexicano",
+  "publicada": "2026-11-09T15:40:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Diputada busca que Congreso intervenga tras daños por ll... El Mexicano",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "322a2bc01e2bd313"
+ },
+ {
+  "titulo": "Retiran Toneladas de Residuos Tras Arrastre de Basura al Mar por Lluvias en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM3FFRDZIZkRjTVQwZ2xtSTZKSVpGTnNFZXgybm45MGdKTG1Nd2laZXNDT3AyeUN1T3FTdkZiMkFYUjdfeW0tZzhnNXRNYldLZnlFRWVrYjdKLXkyVEZON3JFcVlpVFFkOUo0Zy1pUDd1QWJUYVNscnZfMF9qcEdrTkU3Rl9wVzNfanA5ZW5QVmE3ZmZmTnh5VVJyLUlEVmppVjYwOHd1NDg2bGlVdDdNNldOQXptZVhtOTQtajluVkN1UDJDZmxqMFQ2bXZBSU0?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-09T15:37:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Retiran Toneladas de Residuos Tras Arrastre de Basura al Mar por Lluvias en Ensenada N+",
+  "temas": [
+   "Servicios públicos",
+   "Medio ambiente",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "0d59f80b2ce740ce"
+ },
+ {
+  "titulo": "Trabajadores del INE inician paro nacional tras rechazar aumento salarial",
+  "liga": "https://elcongresista.mx/politica/nacional/trabajadores-ine-paro-nacional-aumento-salarial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:35:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Trabajadores del INE inician un paro nacional tras rechazar un aumento salarial del 6%. Afectaciones en trámites de credenciales para votar.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c474a95fe38c43ae"
+ },
+ {
+  "titulo": "Realiza CESPT mil 850 inspecciones a comercios e industrias para prevenir derrames de drenaje",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkc5U1ladHo4WVNrWThqYTdIS2FzSG1acWxsQnpva0FXMl9SRGdsb1ZXdDNtNnhnelBicUtrVm94Nzg3a2xSTzUycUt6Vk91a2tZRV94N3BUeXFhekpUdy0zcTdrNkx0SC13Y09XSlpEcEpmS1Q2blJlMWxhSmZkNWtGTTd2aEJuZGxLSUxCYUtkNDR2bHhZRDVaZVd0REhsNzA1Tm1LQ0dLc3B3b1d3NWpISTNSaG1oemJxZV9iZTN1c3J5ck1WTA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T15:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Realiza CESPT mil 850 inspecciones a comercios e industrias para prevenir derrames de drenaje Baja News",
+  "temas": [
+   "Agua",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "337f0e865fa28a2a"
+ },
+ {
+  "titulo": "Se reúne Ismael Burgueño Ruiz con el Consejo Consultivo Empresarial",
+  "liga": "https://www.uniradioinforma.com/sociedad/se-reune-ismael-burgueno-ruiz-consejo-consultivo-empresarial-n913351",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "95e331c74668f43e"
+ },
+ {
+  "titulo": "Secretaría de Educación de Tamaulipas reporta 37 casos de violencia escolar en 2026",
+  "liga": "https://elcongresista.mx/tamaulipas/secretariadeeducacion-tamaulipas-violencia-escolar-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:34:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "La Secretaría de Educación de Tamaulipas reporta 37 casos de violencia escolar en 2026 y busca implementar nuevas estrategias.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": false,
+  "id": "ec3d0f4c0f1f19b9"
+ },
+ {
+  "titulo": "Realiza CESPT mil 850 inspecciones a comercios e industrias para prevenir derrames de aguas residuales",
+  "liga": "https://www.uniradioinforma.com/sociedad/realiza-cespt-mil-850-inspecciones-comercios-e-industrias-prevenir-derrames-aguas-residuales-n913349",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "El organismo supervisa las descargas al alcantarillado sanitario y mantiene un registro de 16 mil 251 establecimientos en Tijuana y Playas de Rosarito.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "f8953b795e424d63"
+ },
+ {
+  "titulo": "Tortuga Resorts destinará 80 MDD a remodelaciones en Quintana Roo",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/tortuga-resorts-inversion-quintana-roo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:33:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Tortuga Resorts anuncia una inversión de 80 millones de dólares en remodelaciones en Cancún y la Riviera Maya para fortalecer su oferta hotelera.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2e3ef8e310c988c5"
+ },
+ {
+  "titulo": "En el mes del hombre, caravanas de salud acercan servicios a la población",
+  "liga": "https://www.uniradioinforma.com/salud/en-mes-hombre-caravanas-salud-acercan-servicios-poblacion-n913347",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "En el marco del \"Mes azul\", orientado a la salud del hombre, se destacan servicios como prevención de infartos, cáncer de próstata, entre otros.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "6572cbf62c8e42eb"
+ },
+ {
+  "titulo": "CONISEN: 3,000 asistentes debaten sobre investigación normalista",
+  "liga": "https://elcongresista.mx/educacion/conisen-acapulco-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:32:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "El CONISEN 2023 reunió a 3,000 participantes en Acapulco, abordando los retos y oportunidades de la investigación en escuelas normales.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "9a395676b43e1d28"
+ },
+ {
+  "titulo": "Repartidores bloquean Santa Fe en oposición a nuevas licencias",
+  "liga": "https://elcongresista.mx/vehicular/repartidores-santa-fe-blocan-licencias-placas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:32:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Repartidores bloquean Santa Fe en la CDMX este 9 de noviembre en respuesta a propuestas de nuevas licencias y placas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d66a00c012c25566"
+ },
+ {
+  "titulo": "XIV Bienal de fotografía de BC se exhibe en CEART Playas de Rosarito",
+  "liga": "https://www.uniradioinforma.com/sociedad/xiv-bienal-fotografia-bc-exhibe-ceart-playas-rosarito-n913345",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "La edición 2026 reconoce a 18 artistas seleccionados que forman parte de la muestra estatal de fotografía contemporánea.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "4bfc4acf153b0d14"
+ },
+ {
+  "titulo": "Continúa el paro de labores del poder judicial en la CDMX, aún no hay acuerdos",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXdEdXZkRHRTdk5FLVpSWEJkcWRLQ1llQ2U5a2ZVcmxzRVpuTUJpdjNOM3BVa0tvR3Z4a0lwTG1ycEJQVlpUemNsX2RQUUNFY2YtOWVTNy0yb09GU0tPUmhLVk41cjNXekFzTzl0NHljWDVKYnItaXhYZ3ctOVRDRlhFbWJnWkZUd1V2TDVnRG12WGVaX19EMmo2UTZtVVJJYTFKQ0kzTS1TS3JpTlgwMEtHLXd5UjJyLTZV?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T15:28:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Continúa el paro de labores del poder judicial en la CDMX, aún no hay acuerdos AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1ea35fece5f425a3"
+ },
+ {
+  "titulo": "Octavio Sandoval cuestiona la falta de opciones políticas y descarta ser independiente",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWZmclZuSUZCc3QtdTJ4NzVTaUpaNjJhbWF3Q19TNmkycVRFSkh3Mng4dkhIZEk3WHFQdGdyYTU2aVNMdTR4ODJkNm1aZFFHT2pxWHlTRnFwYlNRVHY1QnF5dzJfNkR4Ni1rYlBGUXpQaUs0SW9RSDUwNWYwNGluYWhGb1RMTFNIdWFtLUZXUnNRSzJwUjRlNThUM04tazMzaDJmdjBLQURmX1dOTUtMZC1vYkp3dVJOdm41LTRWYw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T15:28:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Octavio Sandoval cuestiona la falta de opciones políticas y descarta ser independiente Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2d91a8c06e061a3b"
+ },
+ {
+  "titulo": "Impulsa SSCBC prevención de la violencia a través de la educación emocional",
+  "liga": "https://www.uniradioinforma.com/sociedad/impulsa-sscbc-prevencion-violencia-traves-educacion-emocional-n913343",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Capacitan a alrededor de 51 estudiantes de Escuela Primaria Aquiles Serdán",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "39f28749f629ced3"
+ },
+ {
   "titulo": "Inundaciones y muertes por \"Rachel\" evidencian fallas en gobiernos, dice diputada",
   "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR0hTTXZUWUcwMGdMMWlrTXRVeXgzbzZKdTRGdjlrem8yeWUxZlNjd2dFM0VBTmVHXzQzOEl1NkxFWFRRQVJhcjg5MVMtWmFONlVOSGlqODdFZ1NpR1l0c3hzREFMR09qcmFURkwwNnZfRUdtaUhlOVB3NHdxdEI2c0hZck5EdlVvZzNkZ3VVODBjY3JZc05QSTU1ZU80eU43bzh5T0cxT2FvU3RFbXJxTE5hLU1peER1RzA0REdYY3FNZnhLcU9qMA?oc=5",
   "medio": "AFN",
@@ -13,6 +617,20 @@
   ],
   "local": false,
   "id": "40310ccd32d48678"
+ },
+ {
+  "titulo": "Se suman trabajadores del INE en Baja California a paro nacional",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0NpOVpiaFhIc05JRzJiYlJlTW9TY3hjOWdDSmxSdDl0VElXLUF2cHhpYUYtRU1MeGxuWmNoX0tUUUJyUDJiZnZXNVlXYkQ1SXBOWXJZRWpYZjU4b2ZOeWpmbU5FeW5Oc2liMkdpZ2VMMlRWVU9FaExmUy13bXE2WTY2bm9vRXVyeXdFTnhHcl96aFJ6YzBiVkhDNVZwd014MGc?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T15:21:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Se suman trabajadores del INE en Baja California a paro nacional Baja News",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "b77359d42cabebdb"
  },
  {
   "titulo": "Turbias transferencias",
@@ -70,6 +688,20 @@
   ],
   "local": true,
   "id": "36e20e827b6c74bd"
+ },
+ {
+  "titulo": "Habrá más vigilancia en calles y comercios de Hermosillo durante el Buen Fin",
+  "liga": "https://www.uniradioinforma.com/gobierno/habra-mas-vigilancia-calles-comercios-hermosillo-durante-buen-fin-n913341",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Recomiendan a peatones cruzar sólo por las esquinas, utilizar las banquetas y evitar atravesarse intempestivamente entre los vehículos.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "7f87a9390c074fcd"
  },
  {
   "titulo": "Tijuana: ladrones colombianos asaltan cinco casas en Baja California",
@@ -145,6 +777,21 @@
   "id": "a2889e101a61ff7c"
  },
  {
+  "titulo": "Promueve Baja California sus capacidades industriales y de proveeduría ante empresas de Canadá",
+  "liga": "https://www.uniradioinforma.com/sociedad/promueve-baja-california-sus-capacidades-industriales-proveeduria-empresas-canada-n913339",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "La misión encabezada por la Secretaría de Economía e Innovación busca fortalecer la relación económica entre ambas regiones e identificar oportunidades de integración en cadenas de valor.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "e7ef33f9f873e96b"
+ },
+ {
   "titulo": "Américo Villarreal pide espera en investigaciones por muerte de menor en Matamoros",
   "liga": "https://elcongresista.mx/tamaulipas/americo-villarreal-investigacion-muerte-menor-matamoros",
   "medio": "El Congresista",
@@ -214,6 +861,20 @@
   ],
   "local": false,
   "id": "2ec47539f6aa2213"
+ },
+ {
+  "titulo": "Fortalece SSPCM acciones preventivas para la construcción de paz y recuperación de espacios; detiene a 191 personas",
+  "liga": "https://www.uniradioinforma.com/sociedad/fortalece-sspcm-acciones-preventivas-construccion-paz-recuperacion-espacios-detiene-191-personas-n913337",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T15:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "20257a48a6b79da3"
  },
  {
   "titulo": "Google lanza cuatro TPU de octava generación para la industria",
@@ -2295,6 +2956,20 @@
   "id": "050e3bdb294617ce"
  },
  {
+  "titulo": "Parciales, cifras de desaparecidos reportadas en estudio, opina fundador de Célula de Búsqueda",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/parciales-cifras-de-desaparecidos-reportadas-en-estudio-opina-fundador-de-celula-de-busqueda-33049482",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T11:16:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "En un estudio realizado por el Proyecto Red Lupa, Mexicali se colocó en la posición 22 entre las cien ciudades con más desapariciones",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "777dbdf7128c4a0e"
+ },
+ {
   "titulo": "Ernesto Ruffo Appel acredita titularidad de cuenta bancaria retenida",
   "liga": "https://zetatijuana.com/2026/11/ernesto-ruffo-appel-acredita-titularidad-de-cuenta-bancaria-retenida/?utm_source=rss&utm_medium=rss&utm_campaign=ernesto-ruffo-appel-acredita-titularidad-de-cuenta-bancaria-retenida",
   "medio": "Zeta Tijuana",
@@ -2379,6 +3054,21 @@
   "id": "9d0b2cfde4bc3da7"
  },
  {
+  "titulo": "Atropellamiento a la altura del Hospital General deja cinco personas lesionadas",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/atropellamiento-a-la-altura-del-hospital-general-deja-cinco-personas-lesionadas-33049373",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-09T10:59:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "En el incidente estuvo involucrada una vagoneta Nissan Pathfinder, color negro, aparentemente conducida por Ramón N, de 61 años.",
+  "temas": [
+   "Accidentes",
+   "Salud"
+  ],
+  "local": true,
+  "id": "71f80ee89222035b"
+ },
+ {
   "titulo": "José Eduardo Derbez estalla tras ser relacionado con las acusaciones contra su hermano Vadhir",
   "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXV6VWtNLWt5SVZ1amtpWXhnWms4R1JCbkZ5U0R2LVFZTEVId0ZqbFh5dEhSWnJRbnRpQzNpclN6UFZMX3hETmRVWGY2Szc4WkdfSUwtRlU2WW53d1pYMnV0THdqbWFVMkl3b0RsUlBvREFDRjBydkVFZzVWNm9NeHJiVVI2c0tKT3c0VXp0cjA2amtDSVJoUEc2eG96ZFJza3JLSkxGWHJZdmtieXZIOHljc29aX19UMzVGaUxkYkhPTTRVSHB5QXBaNDF1WExXWElr?oc=5",
   "medio": "AFN",
@@ -2435,6 +3125,21 @@
   ],
   "local": true,
   "id": "78f29f9364daf058"
+ },
+ {
+  "titulo": "Proyectan delimitar permisos contra incendios de pequeñas, medianas y grandes empresas",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/proyectan-delimitar-permisos-contra-incendios-de-pequenas-medianas-y-grandes-empresas-33048922",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T10:44:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T16:21:46-06:00",
+  "resumen": "Actualmente se solicitan los mismos requisitos para todo tipo de empresas e industrias, por lo cual, los cambios se refieren a especificar estrictamente qué necesita tener cada tipo de empresa según su tamaño",
+  "temas": [
+   "Economía y empleo",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "8dfa2afab813a7e0"
  },
  {
   "titulo": "Russell Brand es condenado a 10 años y 6 meses de prisión por violación y tres agresiones sexuales",
