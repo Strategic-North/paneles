@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-08T20:14-06:00",
+ "actualizado": "2026-11-08T20:34-06:00",
  "corte": "2026-11-09",
  "ventana": [
   "2026-11-08T20:00-06:00",
   "2026-11-09T20:00-06:00"
  ],
- "total": 1,
+ "total": 10,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -45,13 +45,13 @@
   },
   {
    "fuente": "El Congresista",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "notas": 30
   },
   {
    "fuente": "El Portavoz",
-   "ok": true,
-   "notas": 12
+   "ok": false,
+   "error": "URLError: <urlopen error timed out>"
   },
   {
    "fuente": "La Voz de la Frontera",
@@ -71,22 +71,22 @@
   {
    "fuente": "Google News: Ensenada",
    "ok": true,
-   "notas": 91
+   "notas": 90
   },
   {
    "fuente": "Google News: site:elvigia.net",
    "ok": true,
-   "notas": 67
+   "notas": 68
   },
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 76
+   "notas": 74
   },
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 62
+   "notas": 63
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
