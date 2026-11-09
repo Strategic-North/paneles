@@ -1,5 +1,243 @@
 [
  {
+  "titulo": "Alcalde de Río Bravo regresa a casa tras secuestro por autoridades",
+  "liga": "https://elcongresista.mx/tamaulipas/alcalde-rio-bravo-libertad-secuestro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T00:01:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Miguel Ángel Almaraz, alcalde de Río Bravo, fue liberado tras su secuestro y el gobernador de Tamaulipas promete justicia.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "19eeb3a53ff93450"
+ },
+ {
+  "titulo": "Asesinan a adolescente en Álvaro Obregón, Michoacán; tres muertos ya.",
+  "liga": "https://elcongresista.mx/politica/michoacan/asesinan-adolescente-alvaro-obregon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T00:00:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Un adolescente fue asesinado en Álvaro Obregón, Michoacán, elevando a tres los homicidios de jóvenes este domingo.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "550a5ec430137f15"
+ },
+ {
+  "titulo": "Camión de basura impacta un automóvil en la colonia Libertad; Sindicatura inició investigación",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc3RMWmFXc3VPbDdPODdEcTdZTTZIQm5MVF9LcW9ZSHhpWTdJcDM0Wmdia2tWaVpxWjRiU0pkbHhxenhSb3p1YTVsZlAyMDNVWl9PS3NONnUyWHFNY0x2Mjl5eEFWeWJhSlZxRWV5YmxRMS03dHNLdERUZXExWkZMM0lCQllNMF81dFptQy0tNFRMb3pCQWt4RkVoRkpCZllUWF9NMjdUMmhqV0toV2V0REI2QzN0OURGU2VJZUw1d2ZfaFVBV2g2V0t6RGtLeExkeHRvMkZLVTlFMFdj?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T00:00:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Camión de basura impacta un automóvil en la colonia Libertad; Sindicatura inició investigación AFN",
+  "temas": [
+   "Gobierno municipal",
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "82c8bd2fdef97e22"
+ },
+ {
+  "titulo": "Isaac del Toro supera a Paul Seixas en Singapur",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmJpWWlJUGhsR3J2d0pJVVlzZVQzSmQ4SXUzbGtuNXdNV2xYa3R4ZjRuNElsaVdyTTlwbnZNUE5iNmZQWE9ja3I4THJpV3dGclBnYnVrdmF2M3NWM1ZhdkdwSnJCYkNudW5ZVk1ONnIyeTl0Qy03cVBndU5TQ2ltX2tXbENBQVNSczlaZlNtNlQ?oc=5",
+  "medio": "Enfoque Noticias",
+  "publicada": "2026-11-08T23:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Isaac del Toro supera a Paul Seixas en Singapur Enfoque Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f45362f5f32d77bc"
+ },
+ {
+  "titulo": "Carlos Villarreal invierte más de 17 mdp en obras para Monclova",
+  "liga": "https://elcongresista.mx/politica/coahuila/carlos-villarreal-inversion-obras-monclova",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T23:48:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Carlos Villarreal destina más de 17 mdp en obras de infraestructura para mejorar espacios públicos y servicios en Monclova.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "27057b729fa7fe67"
+ },
+ {
+  "titulo": "Cabildo de Nuevo Laredo aprueba Ley de Ingresos por más de 5 mil MDP",
+  "liga": "https://elcongresista.mx/tamaulipas/nuevo-laredo-ley-de-ingresos-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T23:46:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Nuevo Laredo aprueba Ley de Ingresos 2027 por más de 5 mil millones de pesos, garantizando la prestación de servicios públicos.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "5caf0100479e8cef"
+ },
+ {
+  "titulo": "Alcaldes de Tamaulipas buscan reelección y definen sus posiciones",
+  "liga": "https://elcongresista.mx/tamaulipas/tamaulipas-buscan-reeleccion-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T23:38:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "En Tamaulipas, se definen candidatos para las próximas elecciones en 2027, con varios alcaldes buscando la reelección.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "6cd357a8d344a3d4"
+ },
+ {
+  "titulo": "Michoacán obtiene área natural de 233 millas náuticas para avistamiento de ballenas",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-area-naturales-avistamiento-ballenas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T23:32:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Michoacán es el primer estado en establecer un área natural de 233 millas náuticas para avistamiento de ballenas, impulsando la conservación y el turismo.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "67142d5dda0d91e1"
+ },
+ {
+  "titulo": "Alcalde de Río Bravo presenta en la Fiscalía de Coahuila denuncia por presunto secuestro",
+  "liga": "https://jornadabc.com.mx/region/alcalde-de-rio-bravo-presenta-en-la-fiscalia-de-coahuila-denuncia-por-presunto-secuestro/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-08T23:28:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Durante el encuentro, Verástegui fijó postura sobre la situación de inseguridad y reclamó garantías de protección para las familias La entrada Alcalde de Río Bravo presenta en la Fiscalía de Coahuila denuncia por presunto secuestro se publicó primero en La Jornada Baja California",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "1c88ee0b4dd45ec2"
+ },
+ {
+  "titulo": "“El poder es para ser humilde”, dice regidor de Ensenada que presumía reloj de 13 millones de pesos, paseos en helicópteros y manejaba Mercedes Benz con vidrios polarizados",
+  "liga": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNM0hYVjRUTDBIeFdzY2c4ZzFwSVMtWV9vTmlnWW9RU3o2c2hzXzQ4cGlsRDM2LU1FZjFub1ZCdFRRMmp0TDdtbENiRVprdzU5SE5hWFBhUnhSOWo2RUNXSFR2VFpRVXpuOUw1VmNjUGJMTWhlYk9EN1hwZW0xdm9oQjZkUVJmazZ4LS1GRElXWi1kR0ZiUXNvX2xFQUhDVVFVR0J5RWNnSU42WkJUSWlHbW1IVEE3ZkszbVhBbjVtSVVRa2U2bnJqQzFWdC1LQzIxdmlsQ3dlTk0yVjktVDBxRkpsM3lwSEktMVJkUXEydWpkSkRWZm5xZnU2Y1pIOUM4V3ZfcG9FREJLV0lFUmhsZVNxRFZOQkRTX0JoeHN2UzA1SWViYzF6dGN0aEY?oc=5",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-08T23:10:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "“El poder es para ser humilde”, dice regidor de Ensenada que presumía reloj de 13 millones de pesos, paseos en helicópteros y manejaba Mercedes Benz con vidrios polarizados Punto Norte",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "6b9a35e3e9eddcf4"
+ },
+ {
+  "titulo": "El alcalde Miguel Ángel Almaraz regresa a Río Bravo tras su ausencia",
+  "liga": "https://elcongresista.mx/tamaulipas/regreso-alcalde-miguel-angel-almaraz-rio-bravo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T23:06:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "El alcalde de Río Bravo, Miguel Ángel Almaraz, regresa tras su desaparición y es recibido con cariño por la comunidad local.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "5b6db2ecd0abd2df"
+ },
+ {
+  "titulo": "Aprueba congreso de BC reforma para reconocer el servicio social como experiencia laboral",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/aprueba-congreso-de-bc-reforma-para-reconocer-el-servicio-social-como-experiencia-laboral/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-08T22:53:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "La reforma a la Ley de la Juventud busca facilitar el acceso al primer empleo y eliminar barreras de contratación para las y los jóvenes La entrada Aprueba congreso de BC reforma para reconocer el servicio social como experiencia laboral se publicó primero en La Jornada Baja Cali",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "1008664fbb99ff2c"
+ },
+ {
+  "titulo": "Abren debate sobre reforma fiscal que aprueba el Congreso con 349 votos",
+  "liga": "https://elcongresista.mx/finanzas/reforma-fiscal-aprobada-congreso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T22:48:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "El Congreso aprueba reforma fiscal que genera inquietud por nuevos gravámenes y procedimientos para contribuyentes.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "972add168261aef7"
+ },
+ {
+  "titulo": "Localizan vivo al alcalde de Río Bravo, Miguel Angel Almaraz",
+  "liga": "https://elcongresista.mx/tamaulipas/alcalde-miguel-angel-almaraz-hallazgo-vivo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T22:47:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Localizan con vida al alcalde Miguel Angel Almaraz de Río Bravo, Tamaulipas, tras un operativo con autoridades de varios estados.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "e4634126f472ad9b"
+ },
+ {
+  "titulo": "Detienen en Jalisco a Rafael “R2”, líder del CJNG, vinculado al asesinato de alcalde",
+  "liga": "https://elcongresista.mx/politica/jalisco/detencion-rafael-r2-jalisco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T22:40:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Rafael “R2”, líder del CJNG, fue detenido en Jalisco, vinculado al homicidio del alcalde de Uruapan y otros delitos graves.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "20b0e3b32d7379a2"
+ },
+ {
+  "titulo": "Puebla debe priorizar el Sistema de Cuidados en la agenda política",
+  "liga": "https://elcongresista.mx/politica/puebla/puebla-sistema-de-cuidados-elecciones-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-08T22:39:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "Puebla debe priorizar el Sistema de Cuidados en la agenda electoral para mejorar la vida de sus ciudadanos y atender sus necesidades.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "058afa1bf578b029"
+ },
+ {
   "titulo": "Sismos en México: el Servicio Sismológico Nacional monitorea actividad",
   "liga": "https://elcongresista.mx/politica/oaxaca/sismos-mexico-9-noviembre-2026",
   "medio": "El Congresista",
@@ -158,6 +396,21 @@
   ],
   "local": true,
   "id": "40b70c11c8a64df0"
+ },
+ {
+  "titulo": "Caen 32 \"gaviotones\" en garitas de Tijuana; Policía Municipal pide denunciar a quienes meten autos a la fila",
+  "liga": "https://www.uniradioinforma.com/sociedad/caen-32-gaviotones-garitas-tijuana-policia-municipal-pide-denunciar-quienes-meten-autos-fila-n912699",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-08T22:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T00:07:38-06:00",
+  "resumen": "¿Te han metido un carro en la fila de la garita?",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": true,
+  "id": "a5f2752ed2463364"
  },
  {
   "titulo": "Resultados Tris De las Siete hoy 8 de noviembre: números ganadores",
