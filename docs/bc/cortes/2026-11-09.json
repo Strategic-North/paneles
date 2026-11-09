@@ -1,5 +1,721 @@
 [
  {
+  "titulo": "Inundaciones y muertes por \"Rachel\" evidencian fallas en gobiernos, dice diputada",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR0hTTXZUWUcwMGdMMWlrTXRVeXgzbzZKdTRGdjlrem8yeWUxZlNjd2dFM0VBTmVHXzQzOEl1NkxFWFRRQVJhcjg5MVMtWmFONlVOSGlqODdFZ1NpR1l0c3hzREFMR09qcmFURkwwNnZfRUdtaUhlOVB3NHdxdEI2c0hZck5EdlVvZzNkZ3VVODBjY3JZc05QSTU1ZU80eU43bzh5T0cxT2FvU3RFbXJxTE5hLU1peER1RzA0REdYY3FNZnhLcU9qMA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T15:23:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Inundaciones y muertes por \"Rachel\" evidencian fallas en gobiernos, dice diputada AFN",
+  "temas": [
+   "Política y partidos",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "40310ccd32d48678"
+ },
+ {
+  "titulo": "Turbias transferencias",
+  "liga": "https://zetatijuana.com/2026/11/turbias-transferencias/?utm_source=rss&utm_medium=rss&utm_campaign=turbias-transferencias",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:21:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "En la demanda de amparo presentada por Carlos Torres Torres, para descongelar sus cuentas, dio a conocer estados de cuenta donde se observan transferencias dudosas con empresas bajo sospecha",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "a995c6b74b1ac0a7"
+ },
+ {
+  "titulo": "Derrota republicana en Texas pone en jaque a Cabeza de Vaca",
+  "liga": "https://elcongresista.mx/tamaulipas/derrota-abbott-cabeza-de-vaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:19:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La derrota de Abbott en Texas resquebraja la red de protección de Cabeza de Vaca y reconfigura la política regional.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "30cb638c253a9655"
+ },
+ {
+  "titulo": "¿Cuánto dura una remesa cuando llega a México?",
+  "liga": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sb0hMbFhjcVZ6TVpHSlc1T2NNa3p6UF8zTHN3OXAtUzhRSzRIbnFBV2twczF6elhGaVlZajVRLXZUdWNJM2tZNTFMdDZwVkFnTjBfRDF5ald6WHg4UWc?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-09T15:18:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "¿Cuánto dura una remesa cuando llega a México? Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a30a06dc73ceb7a7"
+ },
+ {
+  "titulo": "Periodistas de TJ trabajan para restaurar el Monumento a la Libertad",
+  "liga": "https://elcongresista.mx/politica/baja-california/monumento-libertad-expresion-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:18:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Periodistas en Tijuana impulsan el rescate del Monumento a la Libertad de Expresión, un símbolo de los comunicadores asesinados en México.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "36e20e827b6c74bd"
+ },
+ {
+  "titulo": "Tijuana: ladrones colombianos asaltan cinco casas en Baja California",
+  "liga": "https://elcongresista.mx/seguridad/tijuana-ladrones-colombianos-asaltan-cinco-casas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:17:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Un grupo colombiano asaltó cinco casas en Tijuana, generando preocupación en la comunidad empresarial por la seguridad local.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "5e96897128d687c4"
+ },
+ {
+  "titulo": "Tijuana: nuevo carril para aliviar tráfico en Playas de Tijuana",
+  "liga": "https://elcongresista.mx/politica/baja-california/nuevo-carril-trafico-playas-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:16:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Tijuana planea un nuevo carril en Playas para aliviar el tráfico, que ha generado descontento entre los residentes por embotellamientos.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "cccf7506db490463"
+ },
+ {
+  "titulo": "Hombre de 45 años muere atropellado en Mexicali; responsable se fuga",
+  "liga": "https://elcongresista.mx/seguridad/hombre-atropellado-mexicali-responsable-fuga",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:15:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Un hombre de 45 años pierde la vida tras ser atropellado en Mexicali; el conductor huyó del lugar sin ofrecer ayuda.",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "45da6ca93091eee4"
+ },
+ {
+  "titulo": "Mantienen paro por falta de garantías los trabajadores del PJF en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3Z2WmMwSjZjV3Z4WENIVXBROTFlc2ZBRDBkQzhhbUdhdkVWRnJxQ280ZTVfak1BdnY5Z0Q4bGZrWG0xNWthV3ZPWVo5SlQwZzVXdGUyZGdQTHk5WkE0ZjQ3R1VkYjlabmxsdmFXYVlSa0lscS1Gc29sVG9PaHVLUE01MjR4VmtrTllHdmY0X1c4UlJpRWhUbGhWUkZ4bVRVRGh0MXY1Z0pEQlg4cWhxcWVuTzFNVFJHTmZoY0dBRU9VeGc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T15:14:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Mantienen paro por falta de garantías los trabajadores del PJF en Mexicali AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "65801e62cdda8c90"
+ },
+ {
+  "titulo": "Avanza implementación de la Justicia Oral Civil y Familiar en Baja California",
+  "liga": "https://elportavoznoticias.com.mx/avanza-implementacion-de-la-justicia-oral-civil-y-familiar-en-baja-california/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-09T15:07:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "De acuerdo con el Informe de Gestión 2025-2026 del magistrado presidente del Tribunal Superior de Justicia del Estado, Alejandro Isaac Fragozo López, entre el 20 de marzo y el 30 de septiembre... La entrada Avanza implementación de la Justicia Oral Civil y Familiar en Baja Califo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a2889e101a61ff7c"
+ },
+ {
+  "titulo": "Américo Villarreal pide espera en investigaciones por muerte de menor en Matamoros",
+  "liga": "https://elcongresista.mx/tamaulipas/americo-villarreal-investigacion-muerte-menor-matamoros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:06:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Américo Villarreal pide esperar el resultado de investigaciones sobre la muerte de una menor por un disparo de un helicóptero en Matamoros.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "39205228d163f5bc"
+ },
+ {
+  "titulo": "Tijuana implementa medidas preventivas ante lluvias de El Niño",
+  "liga": "https://elcongresista.mx/politica/baja-california/tijuana-medidas-preventivas-lluvias-el-nino",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:04:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Tijuana activa medidas preventivas ante fenómenos pluviales por El Niño para evitar inundaciones.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "fb1866bdedbe58d6"
+ },
+ {
+  "titulo": "Alcaldesa de Ensenada se deslinda por terrenos vendidos y regularizados en zonas de riesgo: “No somos tapadera de nadie”",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2tvbFM1czJaTmluSjBMelpzMWhkcXdma3BXZ0xsNEF5Y1U0TWloeWY0ZFhzaE9vZ0lpSl8wdGVHSkZEdjFaTlNGSmFISFhCOUx5RWh5QW45QXlWNnJJbUhyUmZfNXFwN3FmWFJGOHBMb1RKQzRrRk10T2g4dGJublo0UHh3bF9GYVJjcHpTcmd3ZnlwdmxFZVdLNUduMEljV2pvTzRubjdoY0RYT0JHTVB4eFgyamJhNFJxNDhkOWVSLWNHU1o2bWNxOFJ2MlRTRGJGVmVWUzhxamVLSmYtZDNrU2ZXRnRB?oc=5",
+  "medio": "Baja News",
+  "publicada": "2026-11-09T15:03:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Alcaldesa de Ensenada se deslinda por terrenos vendidos y regularizados en zonas de riesgo: “No somos tapadera de nadie” Baja News",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "cf5a9771c4fc8de2"
+ },
+ {
+  "titulo": "Atropellan a hombre en situación de calle en Mexicali; responsable se dio a la fuga",
+  "liga": "https://zetatijuana.com/2026/11/atropellan-a-hombre-en-situacion-de-calle-en-mexicali-responsable-se-dio-a-la-fuga/?utm_source=rss&utm_medium=rss&utm_campaign=atropellan-a-hombre-en-situacion-de-calle-en-mexicali-responsable-se-dio-a-la-fuga",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:03:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Un hombre de 45 años de edad, presuntamente en situación de calle, perdió la vida luego de ser atropellado en el cruce de Río Nuevo y calle Jalisco. El responsable se dio a la fuga sin brindarle auxilio a la víctima.",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "87aba55dc2007bad"
+ },
+ {
+  "titulo": "Aprueban ampliación presupuestal de 6.6 mdp en San Luis Potosí",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/ampliacion-presupuestal-san-luis-potosi",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:03:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "El Consejo de San Luis Potosí aprueba una ampliación de 6.6 millones de pesos para obras de infraestructura y apoyo social.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2ec47539f6aa2213"
+ },
+ {
+  "titulo": "Google lanza cuatro TPU de octava generación para la industria",
+  "liga": "https://elcongresista.mx/tecnologia/google-lanza-tpu-octava-generacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:02:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Google lanza cuatro TPU de octava generación para satisfacer la demanda en inteligencia artificial en diversas industrias.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "4bb47334ee78ca54"
+ },
+ {
+  "titulo": "Pemex realiza primera perforación para fracking en Coahuila",
+  "liga": "https://elcongresista.mx/politica/coahuila/pemex-fracking-coahuila",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T15:01:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Pemex ha perforado su primer pozo en Coahuila para evaluar el agua salobre en el marco de su estrategia de fracking.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "954dc5ac0190bd37"
+ },
+ {
+  "titulo": "Reo se fuga de El Hongo I, en Tecate; antes escapó del Cereso de Mexicali",
+  "liga": "https://zetatijuana.com/2026/11/reo-se-fuga-de-el-hongo-i-en-tecate-antes-escapo-del-cereso-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=reo-se-fuga-de-el-hongo-i-en-tecate-antes-escapo-del-cereso-de-mexicali",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:00:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "A inicios de agosto de 2026, Noel Orlando se fugó del centro penitenciario de Mexicali; esta es la segunda vez que escapa de la cárcel",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "def25ab984e2bed0"
+ },
+ {
+  "titulo": "Planean nueva conexión en viaducto para desahogar tráfico en acceso a Playas de Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/planean-nueva-conexion-en-viaducto-para-desahogar-trafico-en-acceso-a-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=planean-nueva-conexion-en-viaducto-para-desahogar-trafico-en-acceso-a-playas-de-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:00:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La obra contempla la creación de un nuevo carril con dirección al Libramiento Rosas Magallón, que evitará el desvío de quienes utilizan El Mirador como retorno",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "c89c854356b2a009"
+ },
+ {
+  "titulo": "Municipales protegen a comando colombiano",
+  "liga": "https://zetatijuana.com/2026/11/municipales-protegen-a-comando-colombiano/?utm_source=rss&utm_medium=rss&utm_campaign=municipales-protegen-a-comando-colombiano",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:00:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "* Policías municipales informaron a asaltantes colombianos cuando fueron denunciados por sus víctimas, y les alertaron de operativos en su contra, para que huyeran a tiempo * Las carpetas iniciadas por robos violentos a casa habitación en Baja California, aumentaron de 10 expedie",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "270e6f8aeeb63ae7"
+ },
+ {
+  "titulo": "Descargas residuales de empresas amenazan la salud de familias y cultivos en San Quintín",
+  "liga": "https://zetatijuana.com/2026/11/descargas-residuales-de-empresas-amenazan-la-salud-de-familias-y-cultivos-en-san-quintin/?utm_source=rss&utm_medium=rss&utm_campaign=descargas-residuales-de-empresas-amenazan-la-salud-de-familias-y-cultivos-en-san-quintin",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:00:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Diversas denuncias ciudadanas evidencian el estado actual del predio utilizado en las inmediaciones de la colonia Santa Fe de Braulio Maldonado, en la delegación municipal de Vicente Guerrero",
+  "temas": [
+   "Salud",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "26cb3a48822e67c9"
+ },
+ {
+  "titulo": "Periodistas buscan rescatar Monumento a la Libertad de Expresión en Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/periodistas-buscan-rescatar-monumento-a-la-libertad-de-expresion-en-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=periodistas-buscan-rescatar-monumento-a-la-libertad-de-expresion-en-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:00:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "El objetivo es mantener en la memoria a los comunicadores asesinados. En lo que va de 2026 se han registrado ocho homicidios de periodistas en México",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c8365ef0ac06bb05"
+ },
+ {
+  "titulo": "“Se requiere coalición a nivel federal para disputar mayoría calificada”: Robles",
+  "liga": "https://zetatijuana.com/2026/11/se-requiere-coalicion-a-nivel-federal-para-disputar-mayoria-calificada-robles/?utm_source=rss&utm_medium=rss&utm_campaign=se-requiere-coalicion-a-nivel-federal-para-disputar-mayoria-calificada-robles",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:00:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "*La extitular de SEDATU sostuvo que la alianza debe conformarse en al menos 100 distritos",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "9c59ff38fe434863"
+ },
+ {
+  "titulo": "Coordinador de Movimiento del Sombrero en Tijuana muere por agresión a balazos",
+  "liga": "https://zetatijuana.com/2026/11/coordinador-de-movimiento-del-sombrero-en-tijuana-muere-por-agresion-a-balazos/?utm_source=rss&utm_medium=rss&utm_campaign=coordinador-de-movimiento-del-sombrero-en-tijuana-muere-por-agresion-a-balazos",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:00:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "* Poco antes de perder la vida acusó abusos del gobierno y de la delincuencia organizada",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "75122f14ae8941b5"
+ },
+ {
+  "titulo": "El abuso policiaco en Tecate",
+  "liga": "https://zetatijuana.com/2026/11/el-abuso-policiaco-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=el-abuso-policiaco-en-tecate",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T15:00:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "* El Operativo Unidos por Tecate, anunciado como estrategia para arrancar al “Pueblo Mágico” de las garras de la violencia, ha resultado en denuncias ciudadanas contra policías señalados de robar, golpear, amenazar e irrumpir violentamente en las viviendas sin órdenes de cateo. A",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1895ece80657cd5e"
+ },
+ {
+  "titulo": "Municipal detiene a cuatro por incendiar el carro de un hombre tras una discusión",
+  "liga": "https://puntonorte.info/2026/11/09/municipal-detiene-a-cuatro-por-incendiar-el-carro-de-un-hombre-tras-una-discusion/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-09T14:52:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Tijuana.- Cuatro sujetos que le prendieron fuego al carro de un hombre tras discutir con él, fueron detenidos por policías municipales en la Zona Este de la ciudad. Los hechos ocurrieron la madrugada del domingo 8 de noviembre, sobre la calle Hacienda San Pedro y Hacienda Temixco",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4ec2add27d202247"
+ },
+ {
+  "titulo": "Román Cota enfrenta reclamos de revocación de mandato mientras atribuye violencia en Tecate a disputa criminal",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNGNLcm1IdU9jTkxBZUFrQ2lQakt1RVJZazVsWHhiY2JVMzFnZF9uRkI4Q1liYlZDLTlMYXE1YmJkdmVWNGlnbll2bmg1ZzhKZzNLS2xUZW5sYTFDbzFiLWNDR0cxM2JOamZNWFMweThqOE1QMG5ySU1rM3NzQzkza2VQZnZaSzUzS0pKSFlOMF80dGdmQnFXTEx0UVE4b2QwU0JBSW5OTVNmT2dfd3E0TzRiN25CQXRXT2xmQ1Nid2tUTC1xRkhfandvM1ZKZVBGOXFKMEpRM0x1WFQwWUVR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T14:52:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Román Cota enfrenta reclamos de revocación de mandato mientras atribuye violencia en Tecate a disputa criminal Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "858c245bfa57e272"
+ },
+ {
+  "titulo": "León XIV recibe camiseta de Estudiantes en Argentina",
+  "liga": "https://elcongresista.mx/politica/nacional/leon-xiv-camiseta-estudiantes-argentina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:49:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "León XIV recibe una camiseta de Estudiantes en su visita a Argentina, justo antes de la final de la Copa Libertadores.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4526971af7454899"
+ },
+ {
+  "titulo": "Aseguró la FGE un predio utilizado para la quema clandestina de basura",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWNTNXF6M3BNSGdpdVJGcWl1aG1LakJibHFyV28wR2FJV01HQ1BBVGpqdFNDVmdFeG12cV82RVIxM2xmUUJ6cmtTUUxxc3RNM1hfMEFSVTlHZjdmaGNOX2htUlY4eWJzam5XclpIWVFjTWZSZVd0UXAtei1RVV9wendYMXppVFVMSmJwYmQ3dTFFYjdFcFZLQUhyR0g3MVV5NUd0U2QwVUJvYXM2UV9OZE5zQldHZHJMaWh1UkRR?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T14:49:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Aseguró la FGE un predio utilizado para la quema clandestina de basura AFN",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "7660c81ed198aec3"
+ },
+ {
+  "titulo": "Godzilla Minus One encabeza el ranking de JustWatch en México",
+  "liga": "https://elcongresista.mx/politica/nacional/godzilla-minus-one-justwatch",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:48:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Godzilla Minus One lidera el ranking de JustWatch en México del 2 al 8 de noviembre, destacando en las preferencias del público.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5555d359c168438a"
+ },
+ {
+  "titulo": "Camioneros convocan a movilización nacional ante alza de combustibles",
+  "liga": "https://elcongresista.mx/politica/nacional/camioneros-movilizacion-nacional-10-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:47:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Camioneros de la Confederación Fuerza del Norte convocan a un paro nacional a partir del 10 de noviembre por el aumento en combustibles.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2218fb6163c91831"
+ },
+ {
+  "titulo": "Ignacio Santiago cierra su restaurante en Juchitán tras ataque armado",
+  "liga": "https://elcongresista.mx/politica/oaxaca/ignacio-santiago-cierra-restaurante-juchitan-ataque-armado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:46:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Ignacio Santiago cierra su restaurante en Juchitán tras ataque armado y denuncia extorsión en medio de creciente inseguridad.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fcd7c28b93362307"
+ },
+ {
+  "titulo": "Greenpeace denuncia hidrocarburos cancerígenos en Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/greenpeace-veracruz-hidrocarburos-cancerigenos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:45:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Greenpeace alerta sobre hidrocarburos cancerígenos en Veracruz tras explosión de pozo Krem-1, superando límites de seguridad.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1dcf458ab0938d4c"
+ },
+ {
+  "titulo": "La historia de la cartonera de Ensenada que llegó hasta el papa León XIV y conmovió con su relato",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGpIUmpxSGNYVWJTdWptdUlhWTlTWmpWeHVWaUd3SFRaZ29LTExadXJSeElLX28tMFp2VUJUOHk0OUE4OVdWQU12TXhDdlhYNTR1UTlmLXhtME5IWGtYVlMxS21kYS1xUTNCcHoxamF6ZmRWM0lMOFpRaEtxYkN3NFJkRTdGNVIzWGwwU3c1cTBpcE9UWGF4cXNPbW1kc292Y2FuQjB5U09oRGl6QnNuY2o5Z2F2Mi1Ud0tIVHVic9IBxAFBVV95cUxQVGxyVlBYaWs5dlgzcmNTS0poSWcwUk5GOHZFdHNYQW1NQmREYTMwOXIwOHJ0aE81VUxsYWt4UTE3SEt3cDJkcjJTTTR1eHc4RlhLdmpteTF2b2lhb2hPUlRHQ3hGVXJ5MjFhdERSOEowamVsVVZ3cTNFS2h4NFBqbGJuMkdWYXlBTmQ3eERfMEVCY0RaZnN5bXJ0aUpoVFNfUTVNNUo0T1VWWVEyREFxUXV5ak1zU3lnV3NDaWx2RlVHU0h3?oc=5",
+  "medio": "0221",
+  "publicada": "2026-11-09T14:43:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La historia de la cartonera de Ensenada que llegó hasta el papa León XIV y conmovió con su relato 0221",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6add428ab31cd3b5"
+ },
+ {
+  "titulo": "Fox aclara sus dichos: niega fraude en elección de 2006",
+  "liga": "https://www.uniradioinforma.com/sociedad/fox-aclara-sus-dichos-niega-fraude-eleccion-2006-n913333",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T14:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "\"Les ganamos a la buena, como debe ser: democráticamente\", garantizó el panista.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "01b1aed7a47b5146"
+ },
+ {
+  "titulo": "Norma Bustamante asegura que solo dos locatarios reclamaron pérdidas por las Fiestas del Sol",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTVyRjhMWUdramlhLThIWF9fNHZqMmFEOXJreEt3RFFRUzBSX1EtcW9QZWI4QVBaRkdHTGdINkhDVUJ4eDlGOE0xWldwV21acGxhaGZ1SXRqaFRVZ05lXy1aeVFidFhCa3R0NmtQS0gyb0JRaWZjMzhCdnQ5amg4Y2hPaVBBSEJHbVkxdlhxcGpIV05uZmQwUVVVWDJ2bnlKdnc5NjdxNjlLYnFZZ29PYUZHTElrSTY4SFRDdDF6WHd5RUc0Mndz?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T14:37:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Norma Bustamante asegura que solo dos locatarios reclamaron pérdidas por las Fiestas del Sol Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "aa00d3fdb2be046e"
+ },
+ {
+  "titulo": "MC cuestiona conformación del grupo legislativo PRI-PAN en Nuevo León",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/mc-cuestiona-grupo-legislativo-pri-pan-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:35:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Movimiento Ciudadano cuestiona el nuevo grupo legislativo \"Recuperemos Nuevo León\" por irregularidades en su formación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a5098e893fe6da77"
+ },
+ {
+  "titulo": "Siguen la pista del dinero de Ueno Bank en tres países",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU1ORjY0ejRjUnJUdUx2ODRTX2lrTm1YTzdNcl9sZjBJa2RjTnRzQm9tdktNSnU3UTRianVnZThHQUYtWVFGbHJ5YnFOcmk0SlV3SGMwVG9MOHJ5UllWUGFpWmJLYWZ0RS1wbExfR3FUNWNVeFlkUnpxZkpYN1FqSFdESTBqQXoySWlFdzE2MEtFVkZIUnQ2eHR3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T14:35:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Siguen la pista del dinero de Ueno Bank en tres países Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1ec8e5aa63b3e3e2"
+ },
+ {
+  "titulo": "Andy López Beltrán afirma no ver a Olán desde hace más de cuatro años",
+  "liga": "https://elcongresista.mx/politica/nacional/andy-lopez-beltran-no-contacto-amiliar-olan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:34:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Andy López Beltrán asegura no tener contacto con Olán desde hace más de cuatro años y se deslinda de acusaciones en su contra.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "14cb3f4c790002b5"
+ },
+ {
+  "titulo": "SSPC entrega 200 vehículos a policías de Sinaloa para mejorar seguridad",
+  "liga": "https://elcongresista.mx/politica/sinaloa/sspc-sinaloa-200-vehiculos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:33:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La SSPC entregará 200 vehículos a autoridades de Sinaloa para fortalecer la seguridad en la entidad en un plazo de 30 días.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "66cd3648bd9a2580"
+ },
+ {
+  "titulo": "Aprueban en Senado reformas al Sistema Nacional Anticorrupción.",
+  "liga": "https://elcongresista.mx/politica/nacional/reformas-sistema-nacional-anticorrupcion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:32:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "El Senado de México aprueba reformas al Sistema Nacional Anticorrupción para combatir la corrupción efectiva en el país.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5132c78118e4a9ce"
+ },
+ {
+  "titulo": "Jufed condena inhabilitación de juez Sergio Alberto Sigales",
+  "liga": "https://elcongresista.mx/justicia/jufed-inhabilitacion-juez-sigales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:31:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La Jufed condena la inhabilitación del juez Sergio Alberto Sigales, cuestionando la imparcialidad del procedimiento.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e12f034b8326a62e"
+ },
+ {
+  "titulo": "Abre SICT el Puente Rizo de Oro en Chiapas",
+  "liga": "https://jornadabc.com.mx/02_secundarias/abre-sict-el-puente-rizo-de-oro-en-chiapas/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-09T14:29:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La obra, esperada desde hace más de 50 años, beneficiará a 300 mil habitantes de 10 municipios y 21 comunidades La entrada Abre SICT el Puente Rizo de Oro en Chiapas se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "e2dd1283be1d96f0"
+ },
+ {
+  "titulo": "¡En riesgo la vaquita marina! Ambientalistas buscan frenar recorte del 86% a zona protegida",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnI4eVVfVVZTNzY5M29JOWEwT04xYVF6Ry03bTJyVmpuZzVJVVN0U0tPOVBSTVdJdXBYS1R6T1FwdmhJaVpSOGcyenJnVnBSZWNZYTh2alJpd3p6MlduSTJWSFJZR3hPTXQyLXBUVmx6QmVxT2FLcDN3WFp1bDZBYmdqZ1o2ZnVPdDZpTUNmRDJRWTlFWi0yR19ScVZNUVR5aWNUWUI1a2pudldQcDNGWDIwRGhLSjBjTzhnWmNWcnY?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T14:28:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "¡En riesgo la vaquita marina! Ambientalistas buscan frenar recorte del 86% a zona protegida Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3e2e06a4a2bcf87c"
+ },
+ {
+  "titulo": "Identifican vulnerabilidades, riesgos y capacidades de Tijuana ante El Niño",
+  "liga": "https://jornadabc.com.mx/02_secundarias/identifican-vulnerabilidades-riesgos-y-capacidades-de-tijuana-ante-el-nino/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-09T14:25:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "El Ayuntamiento va más allá de lo que le corresponde, asegura Burgueño; Cespt promete coordinación, mientras Implan, Protección Civil y DOIUM presentaron un panorama de la ciudad La entrada Identifican vulnerabilidades, riesgos y capacidades de Tijuana ante El Niño se publicó pri",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "d15f1b11f3321f50"
+ },
+ {
+  "titulo": "León XIV: misa en Buenos Aires reúne a más de dos millones de personas",
+  "liga": "https://elcongresista.mx/politica/nacional/misa-leon-xiv-buenos-aires",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:24:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "León XIV celebra misa en Buenos Aires ante más de dos millones; destaca la importancia de la familia en su homilía.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aaeb34f4d872bd2d"
+ },
+ {
+  "titulo": "Madre de Bebé Gael Solicita Ayuda para Conseguir Cirugía de Corazón en Tijuana, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVg5S09SVUNQUFFhRkxyWWVvMzVfMzhoSXFSYlJzbkdJVnRBSFI4emZLVHI4Mi1WdEtwakdQMTVadXhETGVNWk5TLW1VdVBXWWhXeFVsT1Naa1BvMEw0T2gwdG00VkNRaHdwUm94bjhJT19OVVZtTkJrSWYzNzdyQ0Z6dF9tdi16Ykt3ejdobVFJUnNkQVMyaVZSNDFoZy1HbWQ3dHBfNWxOMG4xczVoTWVNOUdhVXdhelZ0dk90ck1Fd2xlV1VYZnNqaw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-09T14:23:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Madre de Bebé Gael Solicita Ayuda para Conseguir Cirugía de Corazón en Tijuana, BC N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d999e12dd7319f58"
+ },
+ {
+  "titulo": "Académica de CETYS imparte taller sobre semiconductores a estudiantes y docentes de ingeniería de Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/academica-cetys-imparte-taller-sobre-semiconductores-estudiantes-docentes-ingenieria-tijuana-n913326",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T14:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "114febe596c8b815"
+ },
+ {
+  "titulo": "Línea eléctrica exprés de Hermosillo podría operar en ambos sentidos",
+  "liga": "https://www.uniradioinforma.com/gobierno/linea-electrica-expres-hermosillo-podria-operar-ambos-sentidos-n913324",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T14:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Se estudia destinar algunas unidades al recorrido en sentido contrario.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2e5acde7b94b75ee"
+ },
+ {
+  "titulo": "Festival de Literatura en el Norte 2026 se celebrará del 10 al 14 de noviembre",
+  "liga": "https://elcongresista.mx/politica/baja-california/festival-literatura-norte-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:18:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "El Festival de Literatura en el Norte 2026 se llevará a cabo en Tijuana del 10 al 14 de noviembre con la participación de destacados autores.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "15252aec2df8589e"
+ },
+ {
   "titulo": "Analizará el Senado iniciativas para hacer cambios a la Constitución: Higinio Martínez",
   "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkRRQ0RJbm41SHVObHV0OGwtR1dQcXpYZXZwdlFzOXdGemVscmxQTzhjMmtWVU11Z3RiRDYyNWhYc0piWExIRkFjZjVzWWtwUGpTMnB4eWc5dHM0dmxac3lqeEY2ZHV4Y0Jzdl9sRGxVVmhGUjZ1V0tJLUE0dmw1SUt3SGpKb2w3TFZnVlItMlRCTmQzdEtWbFlJTG9NNTJ2ZEhVZXkyNnNKVHl4XzVwX25IZVczZzZuNFpfX2RRZWRiMnA2UUE?oc=5",
   "medio": "AFN",
@@ -12,6 +728,34 @@
   ],
   "local": false,
   "id": "c2b3e8e4245636b6"
+ },
+ {
+  "titulo": "Rafael Elizondo ofrece clases de guitarra clásica en línea hasta 2027",
+  "liga": "https://elcongresista.mx/educacion/clases-guitarra-rafael-elizondo-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:18:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Rafael Elizondo ofrecerá clases de guitarra clásica en línea desde enero de 2024 hasta octubre de 2027, para estudiantes de todos los niveles.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "ff317b9822198477"
+ },
+ {
+  "titulo": "Protestas de trabajadores del IMSS estallan en 22 Estados por crisis en salud",
+  "liga": "https://elcongresista.mx/salud/protestas-imss-crisis-salud",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:17:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Los trabajadores del IMSS protestan en 22 Estados debido a una crisis de salud, desabasto de medicamentos y reclamos salariales.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "2beffde7d33d7fa7"
  },
  {
   "titulo": "“Voces discrepantes del arte bajacaliforniano” de Roberto Rosique",
@@ -59,6 +803,20 @@
   "id": "6b177110c5392916"
  },
  {
+  "titulo": "Tijuana se posiciona como punta de lanza en manufactura regional",
+  "liga": "https://elcongresista.mx/politica/baja-california/tijuana-ventajas-manufactura",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:15:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Tijuana consolida su posición en manufactura regional, superando a China y Corea por su proximidad y acceso comercial.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "fc2e429acfd87062"
+ },
+ {
   "titulo": "Los ambiciosos",
   "liga": "https://zetatijuana.com/2026/11/los-ambiciosos-2/?utm_source=rss&utm_medium=rss&utm_campaign=los-ambiciosos-2",
   "medio": "Zeta Tijuana",
@@ -85,6 +843,20 @@
   ],
   "local": false,
   "id": "bdba8ce685e54e5c"
+ },
+ {
+  "titulo": "Rectora de la Unison gestiona mayor presupuesto para 2027",
+  "liga": "https://www.uniradioinforma.com/sociedad/rectora-unison-gestiona-mayor-presupuesto-2027-n913322",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T14:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La prioridad es obtener mayores recursos para atender aumentos salariales y necesidades de infraestructura.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "807a4132ba701b89"
  },
  {
   "titulo": "Deja Cespe socavones y zanjas tras reparaciones en Ensenada",
@@ -115,6 +887,35 @@
   "id": "3b9746cfebd8bfea"
  },
  {
+  "titulo": "FGE detiene a dos hombres por presunto abuso contra niñas en Puebla",
+  "liga": "https://elcongresista.mx/justicia/fge-detiene-dos-hombres-abuso-ninas-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:05:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La FGE en Puebla detuvo a dos hombres por su presunta participación en casos de abuso sexual contra menores.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "038881b178ff8dca"
+ },
+ {
+  "titulo": "Inflación anual en México se sitúa en 3.75% en octubre de 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/inflacion-mexico-octubre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:04:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "La inflación en México se ubicó en 3.75% anual durante octubre de 2026, impulsada por el fin de subsidios eléctricos.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "59c6dd37faf250af"
+ },
+ {
   "titulo": "Aseguran Predio por Presuntos Delitos Ambientales en Rancho Santa Lucía de Tijuana",
   "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2NYaXhFUFlIV1M1eFU0VEVEclRXMTlqY3A4c19mUVJCMmRRYXdzQ1NoZHFabUhELXBhbzlVUTNOak93bUExcmR0YjJISDhSQjFyZlVtQmxWeWdpdUNacnI3YmVBLTM3cm9JYlZMQkdTUmRMZUhRaFBuTlFRUXhHMHJzWVBmSnJVSE5uczhNcmdrWmF4Y1AydGdYdURWU0pSNE9TbGhlUkpzSFFxRGQ2YUlycDYxTnpncjFVVHFmYjRMNE5qOUhuN2JrOG9Sdw?oc=5",
   "medio": "N+ Baja California",
@@ -127,6 +928,20 @@
   ],
   "local": true,
   "id": "8177e747df0af4d2"
+ },
+ {
+  "titulo": "TJ elabora protocolo de emergencia ante El Niño y mapeo de riesgos.",
+  "liga": "https://elcongresista.mx/politica/baja-california/tijuana-operativo-el-nino-zonas-riesgo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:03:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Tijuana activa operativo preventivo ante El Niño, mapea zonas vulnerables y coordina acciones con diferentes dependencias.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "8956dcab2b31f1ea"
  },
  {
   "titulo": "Inauguran techumbre en secundaria Juana Inés de la Cruz No. 2 en Tecate",
@@ -142,6 +957,35 @@
   ],
   "local": true,
   "id": "b6ceeaa66e36cf7a"
+ },
+ {
+  "titulo": "Taller Mexicana MRO busca vender para proteger 1,600 empleos en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/taller-mexicana-mro-venta-empleos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:02:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Taller de Mexicana MRO se encuentra a la venta para salvar 1,600 empleos en medio de una crisis en la industria aeronáutica.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d475715383403cb0"
+ },
+ {
+  "titulo": "Módulo del INE en Las Quintas suspende labores para exigir aumento salarial",
+  "liga": "https://www.uniradioinforma.com/sociedad/modulo-ine-quintas-suspende-labores-exigir-aumento-salarial-n913320",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T14:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Se sumaron a las protestas nacionales en demanda de incremento salarial.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "793248b5fdf7e0a0"
  },
  {
   "titulo": "Tijuana vs Oriente",
@@ -201,6 +1045,21 @@
   "id": "e3aeba335a2e6837"
  },
  {
+  "titulo": "Paro de trabajadores del INE afecta a 95% de módulos en el país",
+  "liga": "https://elcongresista.mx/justicia/paro-trabajadores-ine-95-modulos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T14:00:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Paro de trabajadores del INE impacta al 95% de módulos de atención en el país, exigen aumento salarial y renovación de equipo.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "999f0593d5b556cb"
+ },
+ {
   "titulo": "Never after dark",
   "liga": "https://zetatijuana.com/2026/11/never-after-dark/?utm_source=rss&utm_medium=rss&utm_campaign=never-after-dark",
   "medio": "Zeta Tijuana",
@@ -242,6 +1101,20 @@
   ],
   "local": true,
   "id": "2c386a72dfa46958"
+ },
+ {
+  "titulo": "Destinan 1.3 millones de dólares a artistas de San Diego y Tijuana para impulsar proyectos en la región binacional",
+  "liga": "https://www.uniradioinforma.com/sociedad/destinan-13-millones-dolares-artistas-san-diego-tijuana-impulsar-proyectos-region-binacional-n913318",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T14:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Los seleccionados recibirán apoyos de entre 10 mil y 50 mil dólares, capacitación en emprendimiento y oportunidades de colaboración transfronteriza.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "8b5e7295ad5377ea"
  },
  {
   "titulo": "Arrestan policías municipales a un hombre señalado por lesionar con un machete y despojar de sus pertenencias a un ciudadano",
@@ -605,6 +1478,20 @@
   ],
   "local": true,
   "id": "b7f4b937155237ac"
+ },
+ {
+  "titulo": "Choque entre camioneta y auto provoca congestionamiento en Vía Rápida Poniente",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVG16MkJOMEhnZjZ4UGNMMFN6V19IWDg2Si05RUEyS1ZPTndoT0VmVXpfbjZsaEVRSlRIOGhUay1FSG45WjhFTlBJRC1OU2pjR0U2clJuNk1fenpmU0hrZ2pPTkEyelNoUkhhMkVPZDF2ek1WajBkVHFRaGllS0o4bktuOTdVUFJ3ckRnTWdNckp4Nm9yZVp6ek95VzM4eS1keVUybU1fSmU2REhSMjA3Smxha2c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T12:56:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Choque entre camioneta y auto provoca congestionamiento en Vía Rápida Poniente Baja News",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "8e5aca2ef3db77de"
  },
  {
   "titulo": "En Tijuana: hallan cadáver en la Libertad Parte Media",
@@ -1052,6 +1939,20 @@
   ],
   "local": true,
   "id": "fdcec6ec4293d60d"
+ },
+ {
+  "titulo": "Venezolanos en Baja California se Organizan para Participar en Futuras Elecciones",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORzhGaHJSTWZQcmxwSGt2TEkxcmp6a0xYLXFkbkdHUU52T3poTWYzWVdkSzJtNHZCSlFQenQ4TFNiSnlmbURtbHJQbDNydUlRSzRya0kxSkJHQTMtbTMtYWZCRnJqRVU2WXNXR3Nmc0E0aVF1Q1dMZ0dDV010czVRQ1BCb3VIeXJUVlIwOE44V3JjSHlwVmtmUUZiU3lCelAxRTZ2cGJxakw1VVhUcjMya2hSbFVrN0hUUkdVZGVkX3AtYjV1UFczZzRaRQ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-09T12:11:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Venezolanos en Baja California se Organizan para Participar en Futuras Elecciones N+",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "239d232039141e50"
  },
  {
   "titulo": "Oficinas del INE en Ensenada cierran sus puertas de manera temporal por paro laboral nacional",
@@ -1649,6 +2550,34 @@
   "id": "30696a48bd3ae287"
  },
  {
+  "titulo": "Ayuntamiento de Tijuana deberá acordar pago de demandas del SITT antes de terminar el año",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/ayuntamiento-de-tijuana-debera-acordar-pago-de-demandas-del-sitt-antes-de-terminar-el-ano-33048134",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-09T10:11:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "En 2016, cuando inició el proyecto de la ruta troncal se proyectaban 150 camiones en circulación, pero ante las fallas en la implementación, el número de unidades es mínimo.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "aecb2ece52a823e0"
+ },
+ {
+  "titulo": "Crece 2% el turismo en Playas de Rosarito durante 2026",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/crece-2-el-turismo-en-playas-de-rosarito-durante-2026-33047600",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-09T10:11:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "“Más de 200 millones de pesos de pesos en tema de derrama económica solo por hotelería”, dijo Saúl Álvarez",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "3e964c928340fa4b"
+ },
+ {
   "titulo": "Choque y volcadura en bulevar Progreso de Hermosillo deja daños materiales",
   "liga": "https://www.uniradioinforma.com/policiaca/choque-volcadura-bulevar-progreso-hermosillo-deja-danos-materiales-n913242",
   "medio": "Uniradio Informa",
@@ -1733,6 +2662,20 @@
   ],
   "local": true,
   "id": "f7acae78f6585cc4"
+ },
+ {
+  "titulo": "Cerrado Registro Civil en San Antonio de los Buenos desde hace tres meses",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/cerrado-registro-civil-en-san-antonio-de-los-buenos-desde-hace-tres-meses-33047585",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-09T09:36:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T15:27:10-06:00",
+  "resumen": "Fueron colocados avisos con las ubicaciones y números telefónicos de otras delegaciones municipales y de Palacio Municipal, para que los ciudadanos puedan acudir a otras oficinas a realizar sus trámites.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2a403608d2fe47e7"
  },
  {
   "titulo": "Los Vaqueros de Dallas regresaron a la senda del triunfo",
