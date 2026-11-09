@@ -684,6 +684,20 @@
   "id": "5c4e60fd2c4f61ba"
  },
  {
+  "titulo": "Las Noticias de más relevantes de la región de Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xUEE5aXZWbHRVa3RmWTZra3FwVWxPWTNpbFdzRW1IU1ZOT04yUHJYY0lxU0gwUndjUDhyNmpTcnVlOGQ4SXI2b1Vn?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-08T17:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T21:26:11-06:00",
+  "resumen": "Las Noticias de más relevantes de la región de Sinaloa debate.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "79018850649453bc"
+ },
+ {
   "titulo": "Ataque armado contra puestos de venta de mariscos en el Mercado del Conchi deja una mujer sin vida y un menor herido, en Mazatlán",
   "liga": "https://www.noroeste.com.mx/seguridad/ataque-armado-contra-puestos-de-venta-de-mariscos-en-el-mercado-del-conchi-deja-una-mujer-sin-vida-y-un-menor-herido-en-mazatlan-GN27194277",
   "medio": "Noroeste",
@@ -1431,6 +1445,20 @@
   "id": "bbda677e0aedd4df"
  },
  {
+  "titulo": "Joel Flores impulsa tres carreras en la victoria de Jaguares sobre Tomateros",
+  "liga": "https://oem.com.mx/elsoldesinaloa/deportes/joel-flores-impulsa-tres-carreras-en-la-victoria-de-jaguares-sobre-tomateros-33038582",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-08T16:21:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T21:26:11-06:00",
+  "resumen": "El parador en corto conectó tres imparables, produjo tres carreras y anotó una. Randy Wynne lanzó seis entradas para acreditarse la victoria, mientras Gerardo Salas consiguió el salvamento",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "4b214c359a38eadf"
+ },
+ {
   "titulo": "Kínder Enrique Rébsamen en Los Mochis regresa a clases este lunes",
   "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1FsRlVId2tnRXVHaUNtWThUT2l4MkpNNldyV1NfNmk0VWVIaWdXM1k1UzgtMkZ1eEFIYUNQMFlVTERmLWk1ZDExYnZzaktGNW1QSFU3T1RJZVRzWnUxczJJOFYzMUg1d3dPV1Zkb2VvMjNJQkVwTUpaUklmVlY0U2k2cU9OUXdFZUhpWmVkZFZSNjVoWTBkaFpIWXlsWTVJSUZsanRNeElsRFBieGNzaUoxMjhKM2xJb3g3MWlrUjlBUlNxR0pB?oc=5",
   "medio": "El Debate",
@@ -1500,6 +1528,20 @@
   ],
   "local": true,
   "id": "dca1acec275a8fff"
+ },
+ {
+  "titulo": "¡Explosión roja! Venados remonta con seis carreras en la octava y vence a los Mayos",
+  "liga": "https://oem.com.mx/elsoldemazatlan/deportes/explosion-roja-venados-remonta-con-seis-carreras-en-la-octava-y-vence-a-los-mayos-33038508",
+  "medio": "El Sol de Mazatlán",
+  "publicada": "2026-11-08T16:16:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T21:26:11-06:00",
+  "resumen": "Mazatlán viene de atrás para vencer 7-5 a Navojoa y ligar dos series ganadas consecutivas en la Liga Mexicana del Pacífico",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ea7917f5802b711f"
  },
  {
   "titulo": "Rescatan a gatito infestado de gusano barrenador en el Parque Constitución de Culiacán",
@@ -1739,6 +1781,22 @@
   ],
   "local": true,
   "id": "965ca09c7100f503"
+ },
+ {
+  "titulo": "SNTE 27 reconoce a la maestra Inés Arce por sus 15 años de interpretar a la Catrina en Sinaloa",
+  "liga": "https://oem.com.mx/elsoldesinaloa/local/snte-27-reconoce-a-la-maestra-ines-arce-por-sus-15-anos-de-interpretar-a-la-catrina-en-sinaloa-33038263",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-08T15:52:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-08T21:26:11-06:00",
+  "resumen": "La docente comenzó a caracterizarse en la primaria Vicente Suárez, donde ha incorporado la lectura, la música y el Día de Muertos a las actividades con sus alumnos",
+  "temas": [
+   "Cultura y tradiciones",
+   "Educación",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "00fdee572ab4bf18"
  },
  {
   "titulo": "Derechohabientes del IMSS de Prados del Sol estallan por contenedores desbordados de basura",
