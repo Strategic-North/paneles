@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-09T05:29-06:00",
+ "actualizado": "2026-11-09T06:33-06:00",
  "corte": "2026-11-09",
  "ventana": [
   "2026-11-08T20:00-06:00",
   "2026-11-09T20:00-06:00"
  ],
- "total": 186,
+ "total": 198,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -40,8 +40,8 @@
   },
   {
    "fuente": "Punto Norte",
-   "ok": true,
-   "notas": 10
+   "ok": false,
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   {
    "fuente": "El Congresista",
@@ -50,8 +50,8 @@
   },
   {
    "fuente": "El Portavoz",
-   "ok": true,
-   "notas": 12
+   "ok": false,
+   "error": "URLError: <urlopen error timed out>"
   },
   {
    "fuente": "La Voz de la Frontera",
@@ -71,22 +71,22 @@
   {
    "fuente": "Google News: Ensenada",
    "ok": true,
-   "notas": 94
+   "notas": 95
   },
   {
    "fuente": "Google News: site:elvigia.net",
    "ok": true,
-   "notas": 67
+   "notas": 69
   },
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 68
+   "notas": 69
   },
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 61
+   "notas": 62
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
@@ -101,7 +101,7 @@
   {
    "fuente": "Google News: site:milenio.com Ensenada",
    "ok": true,
-   "notas": 5
+   "notas": 6
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
@@ -111,7 +111,7 @@
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
    "ok": true,
-   "notas": 2
+   "notas": 1
   },
   {
    "fuente": "Google News: Ensenada policías municipales detenidos",
