@@ -1,5 +1,811 @@
 [
  {
+  "titulo": "Empleo formal alcanza récord con 23 millones registrados en IMSS",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMk03ZllRZEtHS1F6TjdyWHlkTUdfTEZJU19jU1FvQ1hVVkFtMDBxQTIyemlidmMtMk5qY1VmbnhxUllTY0tsNG51YjY0dXlmRWJ0N0lILWpVSHBlSEJRQlNxZjBoSGNjUGVtOVRvYmN4Qm9RdnYwQTJnT2F5X2M5QWo1b3otNXZFenJGaGVYQkxBZGxULWdGSFlGbk82TGtXYS1BZ1BBNVhTOGRyZVVQX2Z3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T11:06:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Empleo formal alcanza récord con 23 millones registrados en IMSS El Horizonte",
+  "temas": [
+   "Salud",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "482b45845a6c371b"
+ },
+ {
+  "titulo": "EDC México 2027: Cartel, fechas, preventa y más del festival de música electrónica en CDMX",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNUxia1YzcGo5a2N1cGhmZTIwMW1NNFpqdXhLc1VPSjdnSkNSc3pQRmtoRThldVRKYjJXRkpTMzh5RnZNT3A1bXJleDVXb1FMUzZTZmE3aWpicHJrb042WFpZeHJZX3l3N1hEVG5oNWxFa1Q0Rm8yTE5hOGlPRDBfc0VRMHQwaTZUX01mNEdfQXB3b2o5NWQ3MU1WSFAtdlZ0LVBjSTJFQnVFSFhKTWlIQnExMlg2clZjdFNxRVVvTHowaGtSTkxFeW44VkFTY0pxLWV6VTBNYkdxU1lRRHdZVWJ0azlsYWs?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T11:06:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "EDC México 2027: Cartel, fechas, preventa y más del festival de música electrónica en CDMX Reporte Indigo",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "ce9da1f09aaffd59"
+ },
+ {
+  "titulo": "Pide COPARMEX revisar prioridades de periferia",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcW1fR0tvdHJKaWdjWUZZSldPamx2ZEtkSE90SFhRR1VMdmhWN1ZNZjFkajg0Skk5cktMYVZYNkhVdXpWVzFiWDhNTEUwcnFLS2Y5X1JqR0VjN0J3bFQta19hTDhGR3kzY1UwZ0lkU3VDYzBERkEydVBNTWZrM0M0bG5DUHNsTnVWVlp3Ug?oc=5",
+  "medio": "El Norte",
+  "publicada": "2026-11-09T11:04:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Pide COPARMEX revisar prioridades de periferia El Norte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "732ffae9dd224af8"
+ },
+ {
+  "titulo": "Anuncian segunda edición de Mercado Hecho en Nuevo León Navidad",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSk1ILUZ4TWs0cnY0U2otUUpPZVctd3hNQ1JUX1A5dVp4eklsWmJpeGVrTlBoN2FaZl9kT1hqZDJ4VlBiLXNVb3ZJS3NPNGtQRWJuSXl6UHlqVVQzdHFrTzZraXU4dDh2V2pMX3dyQld5dVAxRlhMU2xUSXJNRjdPbE1vMFd2Tm1QcWpzWjQ1MllRREhxdlhqNVRCXy1vR0kxV1hJdEtfVHZGYUpITDZEcw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T11:01:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Anuncian segunda edición de Mercado Hecho en Nuevo León Navidad El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4f3bd5e56f6412e2"
+ },
+ {
+  "titulo": "Alistan trabajadores del IMSS marcha hacia la Macroplaza",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbU56VDlxZ2RGQ1VaYnduZFN0dW5zc1QwYW1WRFJpcWhobFZ1Z2dXWk5lRHg0WnA0aldXME1wcmhXbmRNdVNNR01NSmJNcjVTLUdzNmx6RFNTUUlib0c0dlBxeHV6eDA4WnNJWVU0bTd0SUpKSl8tdndTdTN3MFR6LWZLTlRCNHh3Yjd0bVVsMnByQVY5YjBPM0ItUnZQXzZTYXF0d0tUbw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T11:01:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Alistan trabajadores del IMSS marcha hacia la Macroplaza El Horizonte",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "bda11b81fb75f758"
+ },
+ {
+  "titulo": "Paran labores en módulos del INE en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaldsTHBHd1VnUlNhcjBpU1pULXRVaDhEZkpzeVNhYXdaV09Uc2FnenZsWk9OLUtJMU9FMzhyU3NNZlB4eldZZlR6dlNBSlFLM1RJV0ZCY0ctVC1tUFZXWndCamNwalFlaVZNQTc4U2F6cVFfUTNURTB0M1hmWkxUa1Zfb2xzc0lCZ0p4NDJuNWZzMFdOOWdsb0t5QTNDcjVTcjF4ZVRB?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-09T11:01:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Paran labores en módulos del INE en Nuevo León MVS Noticias",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "8e4abacf02f449c6"
+ },
+ {
+  "titulo": "Presentan segunda edición de Mercado Hecho en Nuevo León Navidad",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlk1TjlOWlEzbnowYURuNXJOdDVjb25xUlpPNlUwRGw4SE5QNjg2WFVOQlpXaGUtRWlJZi1JeWtReVVWU2ZBVlNNZWlna1dWYkpNMmxYc2p2WXI5aC1VUVA1bHFleUk2U2Zmd29nQkI2X1BNSkVrTnlZNkNKNnprQ1RTSkY4WGdxMXhHdFprQkM3bXp4MHhMV1Nmbk5KVHBVQ2xwWQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T10:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Presentan segunda edición de Mercado Hecho en Nuevo León Navidad INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "61b3894f9b132f0d"
+ },
+ {
+  "titulo": "Inflación acelera a 3.75% en octubre; acumula tres meses al alza",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFcwRjhpMWVVZUVvWloyLWhNajZOekU0M05XUFBBaVVjM3k5ODNtVGhWdmUxaFJYVktyRzdKWl9hN1R6dlhfMlFBb1RKdkdYR1REV2gyV2M0Z2gzemg2UnBPT0VBYUlEdkNpTHV3UEw4MkhfNGs4NF93b1pxYTRZc3NXY3FHVld6R0VXSlY3XzI3VU1zZnF5bncxbjMycFYwSWw2NFV3eUZvR3hGLWc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T10:56:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Inflación acelera a 3.75% en octubre; acumula tres meses al alza El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "6699b4b16ab40a98"
+ },
+ {
+  "titulo": "Dialogan aspirantes a la candidatura para alcaldía de Monterrey; coinciden en alianza PRI-PAN",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3ZjSU5GWHJZZmN6Q1FMZUpDQXA2d25PeXNrOTNtRHpDbjVpSXNvSWp1SVNZVGRaa2w1MURHblFoaGJybzB0YlFpVWd1SlQ2bU5ILTk5YnRDRXl5RWRRZHR4UUVleWphbmVXNzhSdHNVZk43SFVPSHh5ZTBmS00tVmc1ZHE4SVlhbTdRYzZyU1ZET0RRZE5YaWVNQnB3OUxiOHfSAaIBQVVfeXFMUGM1SUQyenZRbm84YUZpY1RJTC1hLUdRUlBucjBqUHREMHFVbHFiM3BSVkxaUTJqck9jMkZIZVlEWE4tOUozMnVZRC1USmk4M2NOeTVCMW5QSzBtSGNQWktkV3QtcmtxM0Z1T3dkbmIwdFZ5dHFrOHVKdmRRUHNXSXZqRTN4c28yWkhJSHdpRE1IMjVYc1p2ZWZVOEdoUm1qTmJ3?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T10:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Dialogan aspirantes a la candidatura para alcaldía de Monterrey; coinciden en alianza PRI-PAN MILENIO",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "73bdb47a846f6fe4"
+ },
+ {
+  "titulo": "Bloquean Constitución frente al Gine",
+  "liga": "https://www.elnorte.com/bloquean-constitucion-frente-al-gine/ar3311060",
+  "medio": "El Norte",
+  "publicada": "2026-11-09T10:54:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Un grupo de 6 trabajadores del IMSS bloquea la Avenida Constitución, frente al Gine, en protesta por malas condiciones laborales.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "05672dcfdc8720ba"
+ },
+ {
+  "titulo": "Bloquean Constitución frente a Gine... 6 personas",
+  "liga": "https://www.elnorte.com/bloquean-constitucion-frente-a-gine-6-personas/ar3311060",
+  "medio": "El Norte",
+  "publicada": "2026-11-09T10:54:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Grupo de 6 empleados del IMSS bloquea carriles normales de Av. Constitución, frente a Gine, en demanda de mejores condiciones laborales.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "f99b9d7c8b7fbe1e"
+ },
+ {
+  "titulo": "Sheinbaum arremete contra Taddei y exige transparencia en las contrataciones del INE",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/9/sheinbaum-arremete-contra-taddei-y-exige-transparencia-en-las-contrataciones-del-ine-294932.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T10:53:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "35a5898a9e1d6446"
+ },
+ {
+  "titulo": "Trabajadores del IMSS se preparan para marcha hacia la Macroplaza",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVk1mUjVhaU5wVWNQdzRTWlYyT3htY1pSY2Y0NENqTE9ERW5mclBpVVdsNzEycGE5dDdLQlNmWENOT1pSbXRCb1pVRXRHUGRoZUVGME9ZcENNbXFieDF0OURndGVBT1k4ZEhGY2VhdzBlaGFOWVRUTlBxS004ei1FVUVHNGlfd3c2SDE4XzcyNk40VHpXcXZyQ2FYWFRVYVJuWGNab2pn?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T10:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Trabajadores del IMSS se preparan para marcha hacia la Macroplaza INFO7",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "329f67e19f367a42"
+ },
+ {
+  "titulo": "Destaca gobernador apoyo de fiscalías tras privación de edil",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXVYVkVjWnhGRHdZdkliLVVHblBDNUs1QS1RdVFQQ0xIcm1qYmU0T2V2WlVYb19OblNrTktOZFd3MFNhX0FkN21sRmVoU0YyTDVWeGFLWmp2dUY4X1NmN2pHNTgyb2lkUHliMDNjcXZfVVE5dHB1TDF3T29fd0xvQmVWdFF6YU9ZZ3dCYWNfV0xITE9rQ1NQYWZjWHBjWEpLdG1WU3lyaExoU1VHV1E?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T10:51:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Destaca gobernador apoyo de fiscalías tras privación de edil El Horizonte",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "8342254566831322"
+ },
+ {
+  "titulo": "Gobierno Federal confirma diálogo permanente con transportistas",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzVkak9QaGFwb29nUElONWUyeW5sdVFHc3JSTVpEaGhKeUdtUnJPNGowSWVXbGFRRXBwakdmY0xJWVhRZlN4TU5LRXFYMXREbUlRaG9idktEZkh2ZzlmTzk4T1ZJX2xyNmktU2o2UFZhXzJVRUE5Mmdaa2lwUFItck1oYWRLTmdndXNLZkJTS3RlQUlVTGlscDV2cWxSVDgwTUhzYTVCckg0Q3lxaXFYcA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T10:50:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Gobierno Federal confirma diálogo permanente con transportistas El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "49b8b74cb491b1b9"
+ },
+ {
+  "titulo": "La ópera",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0dScmhEdUNwYkUwM2g2SjlCNFVKbkd3RVJlMHBQVTVqbXJ4ckZkMXVoSVBHTXhfNmxoRmRfNVdSbFVHcVUxZi1MREpWdjIxaTZKTHViTUVLay1jck5xODA1N3VEaXBBcS1KQXJmMlY4YlI0d0NxaVVlUjd3alFOMEhLazVDUDlkaE9RMEh6WVZncjlINnBEekQ1QkFHa2UxRTRUU2UxWUUtSXpYRzBGeHpXeVdyYjMtSXNPNERla0dWanVJOU45ZW9VS19EZEdPRHdzSTk0dWsyQmZ3RkHSAd4BQVVfeXFMTzMzTFdnYkw5LTFpZkhHNnhPZm5lbHFRSWVFS1d0aDE4d0RzZmRjOU1UVXBCbEZjOHZMamdxd0RqaTMzUHhNTWotcTJwMjhMYUVuM1J2MmlBZTloaHZSNFh3djFDZUVqdTd1ZjFaR3NxOHdlVElXdHI5M3U3WjBVekNLU2JCeUNvamM0SmtibXlUa3NETUFmU0JzNTRnbEd0VEJuV0lJOE9POUhLOGxYalRYVTFmVmtwVFhMOE5LYWI2clQ3NUtrLUt4ckJhLWQ0N2pwZXNRYjBBY2tneFB3?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T10:48:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "La ópera Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "999035cba78d2d59"
+ },
+ {
+  "titulo": "Consulta los resultados de la Quiniela Progol 2358: lista de premios y combinación ganadora",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTkFyR3AyT3NNQjRVZnFVMk1CcWpQQlBhempzZ0g1OVRRTU05c0Y4d3YyZ2p6dDRlUnZleXJiN3lMcXh3UTZKRkl6dzduNEhKSEFxMnJ3VEVHc3M4NkRmd0J2ZTV2QllTYkVZYmJlQkZvbjRpLWdXNmp0cVpocklCRE9tOUZhMUI4bWszSklmN0dVT0l1WldOVEFuWFk3NWk4QVVuMERhWjEzMnJ0ZWhXNU1nLUt2bklPNHp3eHhERHIzUEhjX1ZJcFFhS3NUV2owS3AwYjh3SVFDaVVFbkh6RlpR?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T10:48:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Consulta los resultados de la Quiniela Progol 2358: lista de premios y combinación ganadora Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2e00c2260093d235"
+ },
+ {
+  "titulo": "Trabajadores del INE en Nuevo León se suman a paro nacional de labores",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWhvWTFWLWJ0blQzMEI4RlE2MWMtVFNpWkhsTzczam1IQUFkX2JkOURfZ0FKTEdwemI2QW5mUVZ0MEdrZmE2SjFYenRkRmQ3NnJWXy1fcWptNy1oV1d5bldiczZmVzdlc3lZMXZHM1kyQjJkeVVGRmFPWlNXY0NDYTZrdmN6bHRJNkVDWElNa9IBjwFBVV95cUxPT1ZyYjJ1SklyQ1BnV1dBenZlZzd4MXY1LWxtekhmYVJRejIwaS1kYTZEekVScW5Ob1FoMG0tSzh2S3doZ0pfQ0dYcjRyekdldzVGMjZXeUhDSVkyYVVjYWgyWWZ6Nmd6OE1lOTdBeWV1Qm5YT1FPMmdtMGxVamhJUWVtR2ZYYUhHQUlnUkR2aw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T10:46:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Trabajadores del INE en Nuevo León se suman a paro nacional de labores Telediario",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "c47bfba862ca0429"
+ },
+ {
+  "titulo": "BBVA Spark y Nexu cierran línea de crédito por 1,013 MDP para impulsar el financiamiento automotriz",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdlFaa01XckhVcnd5a1VKQ0hWc3hMcjU4SlUxZVVyZWl3V2I3RXhuNHp3SDNELW9DbVBPRE44MWVMbWFEUnZQSTYwU0lsMFRQeVJLREdZOXdqWUp5UkxNVno2YmxBQ2NfR0dzRFhJMHRCNjVoLW01RFhNWWFXd0lxRUs5VDJzZ0o4VjFoSjVUMnNyM3RMb1NveG4tWTVtUWd3bV81eWZPb0F2eWp3SF9lTnhWRHEwT0NvNjVCc3IyWm9JcnIwRzNGUHpZRjZ2UQ?oc=5",
+  "medio": "Cluster Industrial",
+  "publicada": "2026-11-09T10:46:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "BBVA Spark y Nexu cierran línea de crédito por 1,013 MDP para impulsar el financiamiento automotriz Cluster Industrial",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "3a7bdbd2041b72c5"
+ },
+ {
+  "titulo": "Operativo \"Marítimo-Naval\" permite asegurar más de una tonelada de cocaína en costas de Guerrero",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRURrU3dLbzgyQlZOUGUyOGIwSjA5R0IxV1VraWt1V19ySk5RMVYyZGxzbTYyLVQ3ZHFTbmtnU1puNUZxN2xvVkJ4ZG5wb1B0dk9lQTVUTk5QWW0wVTM2UzJCTWJ1U3dBUzh1T05DNHBIX24xZ3JRd3BkbkVoR2R6ZFFraDY4WTB2WlN6UFZRdDR4ZUp2b1ZYZUJxelVKNFg5c1BaZ05FZWtLUnpQUUN4M2RNMkswd05xeFpzVmpiR0dmZWFlRzBQV3hINHZrdmpZLWJlaU9DS2gwc2c5bVdOMDdiYXRpU3M?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T10:45:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Operativo \"Marítimo-Naval\" permite asegurar más de una tonelada de cocaína en costas de Guerrero Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c2a52306ff235d03"
+ },
+ {
+  "titulo": "Cierra Tigres Femenil preparación por Liguilla con ensayos ofensivos en el Estadio Universitario",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/9/cierra-tigres-femenil-preparacion-por-liguilla-con-ensayos-ofensivos-en-el-estadio-universitario-294931.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T10:44:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "df6258f42c3b28f7"
+ },
+ {
+  "titulo": "Muere hombre en área de cajeros automáticos de un banco en el Centro de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORzMyMVpQQjVseTFHWnkzOVJGc2ZWX0F6NENFVGRYYmU2SnZZTFNsVnZELW81bmxlZk5hSUlmN09EOG9RMHVSa0FpRVFIaTgyaFozYW01M2N5bE51VDhTLUtsaVJJam5UaGViajFTYjRLaGxMMnRMSkhDME5yTnJGbm95THNJaW1hSjlTMDNzQlhpZzlQZlNObVRxRk_SAZwBQVVfeXFMTkRGMFFHb1dhM0t5VHRVbmN3aDFRS2lkMEJXNkhsbVZ5bG9ZckE4ZkdBUkd6cmhFSTdYRzVYdWhXNkJDTTRIdmdWd3NycDlRRmlPTG5sc2JYNFNhdEpzSUt6ZFpkWDQ0dUZtTGFQQi1YMTR3UE1hOHlOX1hIanJwc2hwX2xISUF6dkxHN2xxQXBMNDN1dU42TEdfalZG?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T10:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Muere hombre en área de cajeros automáticos de un banco en el Centro de Monterrey Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6a224fa4f79fa302"
+ },
+ {
+  "titulo": "Américo Villarreal pide investigar muerte de menor durante operativo de seguridad",
+  "liga": "https://abcnoticias.mx/tamaulipas/2026/11/9/americo-villarreal-pide-investigar-muerte-de-menor-durante-operativo-de-seguridad-294929.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T10:41:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c2827b74cf6cf43b"
+ },
+ {
+  "titulo": "Menos autos y más transporte público en Nuevo León: el plan maestro de movilidad",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeTRPTzZGb0VZTFVaSktyeG9TUk5UVDNBeWpDSlBaeEQ0eTI3emxhWUpmSnk2M1NWemVOb2ZfX2VWRHJ1SGJ0d3lDQVVRc3Y4Y0t6YW1hZ0ZCMkgtejRiQWZqN2ExNmVBakhJTzcwM0tEakxsWUlaWkZkQ09sQ0o4UUNJSlR0aWVoanZGQVFpUWNlMGNZMndnUTZIRGs2d3hzLUJzekpTNlhIRjlHV29TSGpub0ZxVEdXYUNGbEloeUFTeF9RTWg1bDRsRkI1OXNkejlMVTJ5bHlDZw?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-09T10:38:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Menos autos y más transporte público en Nuevo León: el plan maestro de movilidad El Heraldo de México",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "60ac3459c516af56"
+ },
+ {
+  "titulo": "Red Ambiental da ocho vueltas al planeta sin accidentes viales en Irapuato",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/9/red-ambiental-da-ocho-vueltas-al-planeta-sin-accidentes-viales-en-irapuato-294927.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T10:37:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "cb9db288785f456b"
+ },
+ {
+  "titulo": "Peso se ‘toma con calma’ dato de inflación en México: ¿Cómo reacciona el tipo de cambio?",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDdpUVlsRldjaEx1Zk54X0dFZUY4dC1PSVh0VmVMSTdjOGZqV19QRFQzOVhKTnFIMGliYVA0UU1Qc0Y2bW5YTzQ0d18yTGp1RDZQZUtZYjhmem1NZEdvLS1JZjFTYUVEYmRlRjdaeDk0VlhyT2VjQnh1ZDV5NTQtb3diLWN4UjhxcldJcDVseGpVQjJfNTRELWVrbF9FWktYZ1dPWG1SVUJtZzlabk14Vk53?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T10:37:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Peso se ‘toma con calma’ dato de inflación en México: ¿Cómo reacciona el tipo de cambio? El Financiero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "8d9b9bb6cc373283"
+ },
+ {
+  "titulo": "Emite PC Tamaulipas alerta de inundaciones para Matamoros",
+  "liga": "https://horacero.com.mx/tamaulipas/alerta-de-inundaciones-matamoros",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-09T10:35:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "La coordinación estatal de Protección Civil emitió una alerta por riesgo de inundaciones en zonas bajas de Matamoros debido a bandas de precipitación intensa. The post Emite PC Tamaulipas alerta de inundaciones para Matamoros appeared first on Hora Cero Web .",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "ae0d95ba9193a9f9"
+ },
+ {
+  "titulo": "Nueva reforma electoral: Sheinbaum va contra plurinominales y por menos presupuesto para partidos",
+  "liga": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQU1weHN6TUxlbHVnVDlaOGw0bVBfVjFlWUVCZnl3QXF0U0I1SjB5WXcxRkpnSGJNSnFTREt5RVUtYXlNcHFJcm52bDJDa3IyVjdBbWVmQmwxTmQ3VXJSWURKcXZydVBVUTB2MmNHWkp4dUxvRGhKanFCS3NoZElSWlpxbGh5a2JrTkVHUTloRlh6UXhfdkJNRHZWakI5WDQ3TzZPYnlaUXVHU1RqYTc3QkhKal9HT18wX1Rhd0RSQ2oyOWo4czloQ082SVVvNmxibnZOOG1hemFYeXl4NTZoai0xeDZhSHNUMlE?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T10:34:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Nueva reforma electoral: Sheinbaum va contra plurinominales y por menos presupuesto para partidos Reporte Indigo",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "61b8e932dee6609b"
+ },
+ {
+  "titulo": "Tigres prepara reestructuración tras su peor semestre en 12 años",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcl92QnBWVzFvSkttZVJOVlRZRXZDRHFBVThaUzRZLWRyOGwyeW5IVjNoNW1Sd0VaNzhMRjlvczEtSXNhX3hJcVhRRVVvd19IVDktVUFwTG1ZVnJXcENyVjhFQmRDS05ZQmtYU29sWm1BZE0zc2FSXzByd3lNZTZzVTZ6cTk3Wjgzem1vYTRrSEtaYTkyTUtJYWxCQ3dOWmFEUFIyd0IyZFFtUjRkQnJSbjBKUlVXUUlKOEZiWWJn?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-09T10:32:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Tigres prepara reestructuración tras su peor semestre en 12 años MVS Noticias",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "6dced6daa104d59f"
+ },
+ {
+  "titulo": "Elecciones en Estados Unidos: ¿el fin de la era de la ira?",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjFBQ0NOM182MW9mODFOV2FqZk5abE1kOE5tcGhPVzQ4UVFfVTNNUUlfRzdaQ2F0M3dRWGVfQkZyNUJZY2M2aXJmMGJiUXRsQ1ZGOF9WVDZmRGtSRGZoZW9VRFk2bXRaSF8wYll1czJsamZUX2JFRmd6emxUVHJyQl9CNUhQTjFFWmhyeHdEeFA0UTBfd25iSXFTa1JJY1VhQnRQRlRKWTJJdFXSAasBQVVfeXFMT0Zqb2Z4UHNyc0JMcHhlc0x0cHhDSFlFa1g2aUJzc1FjV2FaQjRxRjBTYjZXaWI5VHdHQWJwbVZOWGoxNFJBeEwwQ2F3MWNsejdIVG40TE10OTE1OS1rTWlfTzFYUVlKalEtelVXSWxucWxvMWhjWFFPNmEzOTZ1UzFENkotM004ODJxS1pwdnZfT0NnUVlXbk5sNTJtQ2VMc1R0X0lRV3NvenI0?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T10:31:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Elecciones en Estados Unidos: ¿el fin de la era de la ira? Telediario",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "7c82490a6863218c"
+ },
+ {
+  "titulo": "Muere atacante de tiroteo en Polonia tras diversas complicaciones",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlc3QlNlbFBWSWNFc1N1TGNQeElOZS1tRFBfWWczVmYzWW50MVMyb2l0Q2wzSk1udk85bkFzbm1XQ0l0TkVqZTc5Ym1jdS0zai1JNTNrV2Q0cHdPelNVelkxaUR5NHhlMHY2Ujl6LWJyUVltM2JlSGIzSkI4STBHMWduNzF4LVZPVFd2LXk3VzBlVEdNa0o2WkllY093WXZBZVlKTVZpN1hCdndTd2ZYRHh6SmFvRWw2?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T10:31:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Muere atacante de tiroteo en Polonia tras diversas complicaciones El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "151c429df635c7f3"
+ },
+ {
+  "titulo": "Atienden incendio en plaza Fashion Drive en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlRUlJMT01QNThBUHR0b3NtV3k0QXh3aHRlWUZYV09SSUZVUE5odFZSSUpvd1NaVnltejUyZU5XNjRXcHNPZWFvbTFVcEJUam5BM1hsWEdqNVlibWxIOTVzSF9CRzhBc3JUcGhoeGdsemotSi1GbVFKQVFWX3piVThIa1F4dGVEWnNkOGNmbnU1eE9sR3A5LWVvQUkwa05xY2dxVnlfblRkaDJ1NFp3b1EwS1p6NFVOdDN1eVpOOGlsSUc5SXo3bVRSQmRaUnlHVFVQUGZkbXd6ZTBBdkZ6QjZpUVNDQTR00gH8AUFVX3lxTE9ELXR3ZzRLdDRlUGk4TmR3TlUxbTlMZ0dRcEZSN3h6bWVkblhsNnFLc1kyX19RT28yTWRFMVZWX1kyNDE3STlpNlNtaldIcl9VRFNzZkdTZjFnbG9yMTEyZmc3VmtiQVNuSVZjTmtiMUw5VUc3VmMtNnhiWGxSZmMzVExiY21EOXlJbFhtSWdvaEIwN2t6WHFnTDcyaDlKZGV3b3ZkQUV1VWdEaGFoclBEZV9Ca1lpOS0tX2pRdVdST2tMZmVtdTNaRjFGaG5td2w0NXBOaWwwRkZVaXNzVS1sdmZsTGxWbWwxN2RVNVdKWFU3OFZyNTNhSEFwUA?oc=5",
+  "medio": "El Universal",
+  "publicada": "2026-11-09T10:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Atienden incendio en plaza Fashion Drive en Nuevo León El Universal",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "1bd96bd007a0fba4"
+ },
+ {
+  "titulo": "Frente frío 4 dejará lluvias muy fuertes en Tamaulipas y fuertes en Nuevo León, Veracruz y Oaxaca este lunes",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcnVFLXBibnhTWXNscnpiMHgyTTZVUmRuRXY5cllwWmhGUmlYcmdoQmY5QUt3eDBoamVNLUwtUWtIeGtfWGZNT1FoOXB4N19vTHBhbG1uQ0gyVVJibnF0NG9qNkl4YjNfVDRSTlR1UnNWeWNTYU9IWFNObG1qdkxRbkFJdndkaE1pMHpQUlhtRE8yLUtvX0pTWlRtNml4NFc2Q3RzU1BtZF85T0NPR2EwalhWQ3RtQkJPVkJLTkRIVTBIMDhjSUs2WXZqV0hRRmVSYnlfZnBFXzNHYzJjTEE?oc=5",
+  "medio": "Noticias en la Mira",
+  "publicada": "2026-11-09T10:30:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Frente frío 4 dejará lluvias muy fuertes en Tamaulipas y fuertes en Nuevo León, Veracruz y Oaxaca este lunes Noticias en la Mira",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "e0b041038cce49c3"
+ },
+ {
+  "titulo": "Detienen a motociclista por agredir a tránsito en Doctor Arroyo",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNW9lUDNkSlVVUUoyTDM4N2dFelJ5NGtxam9nRGpVbXJuaGg5OUk4MUxCVmlIVkhDT21UdUtOS3Z6NUN2MXIyemtQR2pCejJfVzRVek5nUzFqWmlHQmNQU0hYLUZqM3pvaVdUMTJqeThjTkJLcmhkM2xmWXk1dDRGdm1VTXVjblRYX0QyNFM4SC1TYVl1U1NVZmRmV3gxWmxDdm1wTTBrNFJFLU1TVTAwbmNlTHpHNlFyY29HaA?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-09T10:30:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Detienen a motociclista por agredir a tránsito en Doctor Arroyo MVS Noticias",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "6ad9338a90342e6d"
+ },
+ {
+  "titulo": "Raúl González es nuevo director técnico del Real Oviedo",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY05jbHkzcUhGNHpvY3VMMnFCdGRMMTMxanJhQ005bC1CeThHaktzRTgybkxJNHhwZUdqR1NCUHktRGZHdDFiajMwLVR5LW5TZXExdVNoVDRfdjRadDgxNTk0dXVGZEtJa0dZc2pGYmJnYk5kTzA1SmM0UzVFNnNWUkFJM3djYm1pT3Vhb0d6WE1XWDYzZGk1ZmtiN3VUaTNocC1Bag?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T10:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Raúl González es nuevo director técnico del Real Oviedo El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a994ca332c1c2f2a"
+ },
+ {
+  "titulo": "Reconocen al español Pau Cubarsí con el 'Golden Boy' 2026",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalJXUnpJM25UXzVSb1hKUmdnaVlSSTZzYUxKY3NULWRTcVlBUTNyMVhQVHlYOW1MTkNSTVlaSjZ3ODB5eXdBVlRrT2VtWnhkY1lyTFg5ZmpNTklkTUNyVEJwSzRwcVBYZkxJQmsyOGpwZ3pzMlZtUW5GWER4dHlYSUpSOW1pcFhKdVpCRjR5YmhxSGhtUENV?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T10:29:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Reconocen al español Pau Cubarsí con el 'Golden Boy' 2026 INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2032cc531f22f9f4"
+ },
+ {
+  "titulo": "Pau Cubarsí conquista el Golden Boy 2026 y se convierte en el sexto jugador español en conseguirlo",
+  "liga": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMEVGV3MyTWxZVnBMVTJlb09iN2Z2M21sMlZod01PRlNvRERaR3JZSEtad2tuY0lVSVoxaGdZN1BXQXpMOS1VSHUxZHRUMEpqdk51NzZGS0FBTXpyQjFRVG90RGNqMTFmakItQzZFNUNyUV9Ba0sxUVRzcEZYbTVkY1c5SmwxMU1YYzBpNDlfcVgtN1RoTG93d0h2M3ljd1kwZG5DbFl3eUVWQkVBT2lkYmlxbkFWNFoyMlBEWmdkNk42SmRDTXowWXVFd0d4T1ZlTFNnNEJHX3JsTVVtVkFvYlEtZi1rTHJKQ0E4dw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T10:27:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Pau Cubarsí conquista el Golden Boy 2026 y se convierte en el sexto jugador español en conseguirlo Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fa12d8891bddc033"
+ },
+ {
+  "titulo": "Para que no te hagan ‘chanchullo’ en El Buen Fin 2026: ¿Cómo utilizar el checador de precios de Profeco?",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbTZhR1NHOExTaWJQVGtiWl91a1pLMHFqMHVoY3hWTmF0OGRQZG80alF0UjlBMXVIMWl1YnFOX05oMW4temMtemM2LUU5aGNKOV9VWUdUc211Z29yZHJORWR2ejZ6b3RRSVlUM2dPcF92Wmx3T2xuS2F4Mk1aeW15RzI5LUtaSEh2ZTZNcHhxNmI0T0hESENJN2plRjJEaEhSWWZVTmYyMjhBbVNxQ3ZhSXNUZGhoaEdTRXA5V05NQXViX3JqeFRBa1JZV2RFNUlYb19ZVlk2OVhXSFZCTTFRNXdqc0NtbGc?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T10:27:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Para que no te hagan ‘chanchullo’ en El Buen Fin 2026: ¿Cómo utilizar el checador de precios de Profeco? El Financiero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "cf98779602f134ed"
+ },
+ {
+  "titulo": "Tamaulipas mantiene en pie el envío de agua de Nuevo León pese al retraso",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0hacXNtVTdUY0RpLXRHaEpjUlJLdHNpYXNHbWRnZUM1bmlOTFBGTWxGNktrczdhM1ZwYlA4cVg2WDlTSVNncExIX2pyd01uaGg3aEtNbWprNzdQVk1Vb2NFaWYxRnV0YTlibktzT1lTM0dIUmxBV2JvTHFwR2lQQVl3Q3FYMUlRdHlFT090em83MXl0V1kybnJPdm52THcx?oc=5",
+  "medio": "Daisy Herrera",
+  "publicada": "2026-11-09T10:26:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Tamaulipas mantiene en pie el envío de agua de Nuevo León pese al retraso Daisy Herrera",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "e1ebac3ad45c0394"
+ },
+ {
+  "titulo": "Lo dije y lo sostengo, Guadalupe Taddei traicionó al pueblo: CSP",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1NVX0JwMTN6WUN1eWhWTnlIQ2pKRjY2RkMxV3JrQ0I0RUM2cy1yZUtlT01nOEtmS19KbjNOblp5b0s1bHpWM21sMGZMcnl2Ykl0cGk3NmZubnR2Y3NzaUhCSDB6Y0hIdWZZOXJxa0ZBRU1oZUdBa0dVTnQ0WElQQ3J4UUZhenpZaXBBQzRBTnZXcEtPRElNeDloaF8xbWlNQ1lWVHR4MzM3bXJpaHJj?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T10:18:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Lo dije y lo sostengo, Guadalupe Taddei traicionó al pueblo: CSP El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "323b77879d4b2d9f"
+ },
+ {
+  "titulo": "Lorena de la Garza e Iván Garza llaman a mantener alianza PRI-PAN rumbo a 2027",
+  "liga": "https://abcnoticias.mx/local/2026/11/9/lorena-de-la-garza-e-ivan-garza-llaman-a-mantener-alianza-pri-pan-rumbo-a-2027-294928.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T10:16:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "55075734a6446c23"
+ },
+ {
+  "titulo": "Confirman se hará trasvase tras solucionar problemas técnicos",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObG1GbExyeUY0OGxVUnlPcTJwZmEySFdqVFBBNGR1SlRDbGtIdjhFOElsX3ZYcUN0M1FnVGdyNVVhQVdTdU1uWW82VU4weVBaVzdKTTdJLU5oT1Ztd3h6aXE5VTh4NkplOExTUGlCaUx4ZnVHbFRSekFNUURyZnc1c2JzZHBXc0tRWHEtMWxILVg5NWcxMXk5aUlMa3FZQ0QxUTZ4ZXNDWlBGYXZIYUZZ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T10:16:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Confirman se hará trasvase tras solucionar problemas técnicos El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7c5fe13cbbee8468"
+ },
+ {
+  "titulo": "Trump pone en duda resultados de elecciones legislativas en EUA",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnRVNXp3Y2hLU0VTeEQxcXFUbDhscmNQS2lkSkNRMHR6TjRNVEljLUctUDFkR3k4bmw3cWRPems2TjMzU3ZyV1I1T29qVVZUS19kbE5pM2tqdFJUalNXeFVnRDB3Si1iUXN6am40Z3YxWVRqZGhaclhweElLV29nZTU0ZGtmR1dMeUNzYUxzUEVIMDBieVNIRmx3ZHVwaDQ1blRFakhHVDI?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T10:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Trump pone en duda resultados de elecciones legislativas en EUA INFO7",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "64093b144e626cdd"
+ },
+ {
+  "titulo": "La revancha",
+  "liga": "https://horacero.com.mx/columnas/la-revancha",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-09T10:13:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Apenas tres días después del colosal descalabro que sufrió la administración del presidente Donald Trump en las elecciones de medio tiempo en los Estados Unidos, la respuesta ha llegado con el nombramiento del nuevo jefe de gabinete de la Casa Blanca, Stephen Miller, considerado ",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "97b188a5f898c916"
+ },
+ {
+  "titulo": "Manuel Neuer no volverá a jugar hasta 2027 tras sufrir lesión con Bayern Múnich",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/9/manuel-neuer-no-volvera-a-jugar-hasta-2027-tras-sufrir-lesion-con-bayern-munich-294926.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T10:12:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f7dce89ffdc433ea"
+ },
+ {
+  "titulo": "Bajo presión y amenazas de invasión, el imperio acecha a México y Cuba",
+  "liga": "https://horacero.com.mx/columnas/bajo-presion-y-amenazas-mexico-y-cuba",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-09T10:11:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "México y Cuba enfrentan problemas muy distintos, pero están siendo colocados dentro de una misma dinámica geopolítica por la política de presión de Washington. The post Bajo presión y amenazas de invasión, el imperio acecha a México y Cuba appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9a77acee0531a4a1"
+ },
+ {
+  "titulo": "Expone Javier Díaz modelo de seguridad y transporte gratuito",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOFhpVkFETDZyVjcyYVEyelJmR0c3UDQydGZrbDNDZDV6MEtkeXdYUXRNeHdKZ18yX2p6djJIY185bjNKNEQyZEdNSU1LcnkwRkZzRmkzYzFKOEdpUm1mUmVnU0tDbVktZkJJOVlQNVJLbVpvT1ZLUUJYX09CM09KZzBaWS03V3ppVy1MMmRlcDQyaEl4TGZ6cmhFNC1wRTdOU3lic2tzODZSZ0U?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T10:11:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Expone Javier Díaz modelo de seguridad y transporte gratuito El Horizonte",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "497165e0831ad438"
+ },
+ {
+  "titulo": "Leagues Cup 2027 ya tiene fechas y clubes participantes",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVRSN1IwNU5SUVhybTM1U0x3dHNQVWI1UGJ4M2FKUFZ4b1N0dG1PLU11dUtmNzl2dVQ5RkZBR29iWWVHdlBSOHh5RFNHLUR6aWdtZUhkM1FVMDhpdkVjbjBlSzU5NjZTVklZaXhfUnQtVVhRTEtFbkwtYWllQU1IeU43aWJCMmQxQVNjMG5FZVZ4eWszVHRN?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T10:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Leagues Cup 2027 ya tiene fechas y clubes participantes INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "39a14daae5befd1c"
+ },
+ {
+  "titulo": "Sistema de cuidados de Jalisco, un modelo que otros estados buscan replicar",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaktBYV90UVh6a0hhUmNaOTljMjlDR0QyZDRjTE9TV2lxSVkzUkUwZG5RRDV4c2tMajlpN1prYVNEay11MGdmWFJqeWtUSEdKWHVrbHNoZGt1Nm1NVVZCbGFNMFBTX2FTajBveGhMQ0ZzZHo4WUpMTVR1aGhqQ2Y1S0xVU3YwUHU0M3k4b2pfVlEtV0xWZElTV2txYlR5eXVaTWw0SzFpLU9vVmZFRjhQVUczQkJjV1pZaUJCQ1JEbXB5VG1CdWlTc3c5RGRBRF9E?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T10:10:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Sistema de cuidados de Jalisco, un modelo que otros estados buscan replicar Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a33816957c8e80a1"
+ },
+ {
+  "titulo": "Presenta ICATEBCS programa “Mujeres Rompiendo Muros” en el 33.º aniversario del ICET Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWIyYWtoeFlSVXZHM05QakJIV1FXYUF1NFY3VkN5Q1F6YjdsNnAzcE1yTk5MVVBoWW45bkJKTW5IVEc5YXZic2JDZ01qdGdsSDQ0a0luOUhXaGlZekljVmdZTFlkWGQ3QWFZLUNDeVdsSWVuYlBLTkNvU1NnYUZicEhRMGFWR3EyMnJkWVJQc3RhOUdHaFlyMU5XblNzbFZIVm96eVVTNnljQzJOd25uVmtqdDN1RkdiNDgwSHU5Nmx2R2J1a3k2eGp6UzlUWVRKR3c?oc=5",
+  "medio": "www.diarioelindependiente.mx",
+  "publicada": "2026-11-09T10:10:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Presenta ICATEBCS programa “Mujeres Rompiendo Muros” en el 33.º aniversario del ICET Nuevo León www.diarioelindependiente.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "949dc53d95030ce9"
+ },
+ {
+  "titulo": "Nuevo León expande su red escolar para encarar la presión demográfica",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWJ2RWNkUkdiVXJja1VHQVlNU0xrVkpHTU94MDdUT21kbEhaa0QxcWlkRW9YREt1a1Vwcm5ua25TcG5Fb1E0NUhFb0VVa0dEWi1uNmZaeUJvcmNLNWpnbk1YOUdBS0hNZmV1VDVsenRNTXpyeDVGeUF0M2NKTXg0b0FsWEZvUzl3TmZmYS1NeEhWOFh2SkVuazdaMzBxYjVLTXZQZjFKNNIBrAFBVV95cUxOT1ViY1lSS21HVVR4OGlOWlppeWw1TGhmb0c1S0tsWDZDY1FxWXdhbV9VRXFCbEg0Yk9uUnNNVjViZTd5VFVrV3ZKR2JlYk5kNndFYXZrdUFibGRHb2d6NHhWM1g0cWxPT1RQampoY0g4T2pTalJtNXVxeGZoYlo1cXB2QUtuNXNWUFd4QkRzQXdacGJxN283dmFKS0xUdGJzaURuQzhUQkZ1WXgy?oc=5",
+  "medio": "Excélsior",
+  "publicada": "2026-11-09T10:09:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Nuevo León expande su red escolar para encarar la presión demográfica Excélsior",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d5b8013223f41de6"
+ },
+ {
+  "titulo": "Investigan en 4 estados caso de edil de Río Bravo",
+  "liga": "https://horacero.com.mx/nacional/alcalde-de-rio-bravo-investigacion",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-09T10:06:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "El alcalde de Río Bravo, Miguel Ángel Almaraz Maldonado, fue localizado con vida en Coahuila tras haber sido privado de la libertad; cuatro estados investigan el caso. The post Investigan en 4 estados caso de edil de Río Bravo appeared first on Hora Cero Web .",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "61cb3f06a6625a44"
+ },
+ {
+  "titulo": "Confirman suspensión de trasvase a la presa Marte R. Gómez",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1FGN2xiVGlhaVJRbURpTFZkaUpSQ3dxTTkxV0FrM0lsb2xYZl9ZY2s1UDl0OVo2czJWLXZyX2R2QXV0eURlSTV5U3ZwbGN6UjVpVk16Wm5iVzhiaFc4VjViQXE5MHVqMkFrMTg0STlSYjZ1LURQUzdKanBYeDFFLXowb2dvdlZrLWRUSjZOenVsUVVTQUdXLXhGNG0?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T10:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Confirman suspensión de trasvase a la presa Marte R. Gómez INFO7",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "c87be7803361bea7"
+ },
+ {
+  "titulo": "Fiscalía de Tamaulipas busca esclarecer secuestro del alcalde de Río Bravo",
+  "liga": "https://abcnoticias.mx/tamaulipas/2026/11/9/fiscalia-de-tamaulipas-busca-esclarecer-secuestro-del-alcalde-de-rio-bravo-294924.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-09T10:03:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "fe62ac4ee50e3089"
+ },
+ {
+  "titulo": "Empleados del INE protestan en CDMX por exigencias laborales",
+  "liga": "https://www.elnorte.com/empleados-del-ine-protestan-en-cdmx-por-exigencias-laborales/ar3311035",
+  "medio": "El Norte",
+  "publicada": "2026-11-09T10:03:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Empleados de módulos del INE protestan afuera de su sede central, en la CDMX, para exigir aumento salarial y mejoras laborales.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "8e4adaf0de139691"
+ },
+ {
+  "titulo": "Huelga general en España 2026: Fecha y claves para entender las movilizaciones",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjJ5Q0xRX2V1ckVOaXJsVUthYjlkYTBtbW9YQm50djlZa3lheE1SaFg5azZkZU0tTzhrTFlLamVpUHpFb21mQWdrZkpTTUsyMDBGTlVCMkp2N3VXOHVWd3R5MHRoM0Z0ZnM5QzNLRHQwaldUanp3eDV0OWJvVG9XaTRGVEc3WUR3N1I3enZMWWJFZEpQa0NCeVEyOXNWdkZEWEx1VGo3UUd3OV9iMmNkZGdsSC0?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T10:03:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Huelga general en España 2026: Fecha y claves para entender las movilizaciones Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b9f01ec260d654e8"
+ },
+ {
+  "titulo": "Crimen en la taquería “El Trompo Regio” | Riña entre patrón y empleados deja 2 muertos en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYTVVVm5xQ3lYQ2FTbjctTXNuYWZRZlVZVnMtNDN4SWU3Z01RSnZKOFdYMUxGVkZERmMyQjEzbjA1OVpCSEdVQi1MaU5lSFdDM2dpSVFUaDN6WWUxeDlMZ0NWOWFrN1Y4RkhTN1pTUHNLSURndXRNQzdOdnZOaUExVjNodFdtajhmNXN4R19IT09sSEw2Z2Y1T2ppd3cxX01Qa3d6STdHalJZLVpIeENISnZhU21DZXVEZzBjcFJqRUQ1UVY3a3MxUWFWTlJVVURxLU9oRS1GMG5PblQ1eFF6ejdSRWNmRFRSX2VB?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-09T10:03:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Crimen en la taquería “El Trompo Regio” | Riña entre patrón y empleados deja 2 muertos en Monterrey Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3f38b70f8fb3df55"
+ },
+ {
   "titulo": "Redes en EU arman a cárteles en México",
   "liga": "https://horacero.com.mx/internacional/carteles-en-mexico-armas-eu",
   "medio": "Hora Cero",
@@ -14,6 +820,20 @@
   "id": "d177b60cb26701b5"
  },
  {
+  "titulo": "Casa Blanca activa protocolo tras choque de vehículo en perímetro",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHhaN2xfbjloaEJyakhiaE80WXQzZGt6NG1fd0pZNU9Xb1NxUmVhdzNIdzVhOEJ0MU1xWW9SQnNnZ0lEdHRzR0J4SGFfNHNjcnR6UER6M1VPNW9tYWN6SHAxaERuMlFGcHpkUDFZekJxZUQwLUFFM0ExaThRN3Z6SlprNF9WemVmR0xHSmNVb3pFLXNyeHpyMmNKX2pZTTBJTmV1ZlpnaHpick9H?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T10:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Casa Blanca activa protocolo tras choque de vehículo en perímetro INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "013f16955f24c8b6"
+ },
+ {
   "titulo": "La Mansión VIP 2 arranca con sorpresas",
   "liga": "https://horacero.com.mx/espectaculos/la-mansion-vip-2-estreno",
   "medio": "Hora Cero",
@@ -26,6 +846,20 @@
   ],
   "local": true,
   "id": "3ecacdd2cab67f86"
+ },
+ {
+  "titulo": "Choque deja daños materiales en el bulevar Antonio L. Rodríguez",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWhNQTJqaENGQUp3RTBha0d2enc4a25CVnEwUG9tNk9kTmVwX25oN3dYeGNqWF9LaTVaQ3I1Z2hobkkyeEhiRXN5dFlSUXlXNEs0bWwzU1ZvYjZ4NUhkc013QzBZWDVyZWdqVGRjWkVSY0diazJzdl9qZERQLWdaMHdYeDVMY2RZZ0FRUEY4NndhRnAwTFdqVm5aZEs0cTAyU2c?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-09T10:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Choque deja daños materiales en el bulevar Antonio L. Rodríguez INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "bdba161a5e9bd5f6"
  },
  {
   "titulo": "Secretaría de Marina decomisa una tonelada de cocaína cerca de Acapulco; hay 6 detenidos",
@@ -43,6 +877,20 @@
   "id": "4903888ece079512"
  },
  {
+  "titulo": "Tiene ASF informantes protegidos por transas en INE",
+  "liga": "https://www.elnorte.com/tiene-asf-informantes-protegidos-por-transas-en-ine/ar3311031",
+  "medio": "El Norte",
+  "publicada": "2026-11-09T09:58:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "La ASF informa que cuenta con informantes que le han revelado datos relevantes sobre irregularidades en contratos en el INE.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "fdb679d688edc1a9"
+ },
+ {
   "titulo": "Javier Aguirre reconoce falta de resultados con Valencia: 'Se me agotan las palabras'",
   "liga": "https://abcnoticias.mx/deportes/2026/11/9/javier-aguirre-reconoce-falta-de-resultados-con-valencia-se-me-agotan-las-palabras-294925.html",
   "medio": "ABC Noticias",
@@ -55,6 +903,20 @@
   ],
   "local": true,
   "id": "e3f3006ae9f29da9"
+ },
+ {
+  "titulo": "Hallan a un hombre muerto en área de cajeros automáticos de un banco en Centro de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcnU2TU1YR2JsRVNTakk5RHpZSVdxNWxMZmRSUkVGd2dCS0YzNkMtRVdOaW1RV3QzU1IxcVA2SDRGNHYzaWdBRWZWdElFTFh2ZnNSaG1NZ1lDY2Ntb2RaSjlDa0c4NERrMkk3MDlnb3IxalVXWFhHWU1ETXFrMUVocFFRSmljZ3BDOUdZUNIBjAFBVV95cUxNS0RVZkhzMWowcFFhZldQc3ZSek5UN2xyRk1FeWxxZ0VkblhXQ3p3dWw1cllVVGt5Z1I4V2ZLYUZWT0lJYTdPOTNXcHVBLVhFOXJqNjh6eUxvSWFKeWRTMWhSMTRZRzFlb2FuY1ptd1Z1Z0Z6RzhRWm1EY3VyUG4xTklBcFRaenduY2FFRw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T09:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Hallan a un hombre muerto en área de cajeros automáticos de un banco en Centro de Monterrey MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "abb25219a277e83d"
  },
  {
   "titulo": "Oficial | Lamine Yamal se lesiona y está ausente con España en la UEFA Nations League",
@@ -266,6 +1128,20 @@
   ],
   "local": true,
   "id": "55c522ea7c8a760c"
+ },
+ {
+  "titulo": "CNPC MANITENE ALERTA POR LLUVIAS FUERTES EN TAMAULIPAS, NUEVO LEÓN, VERACRUZ Y SAN LUIS POTOSÍ",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3dWaTR3d2psWDFENlNFYWhFb1JlNWNRSU9kQ29NbDJZSUFRYV8xOUtkM1BkN01IWTA0Znc3MTg3ZHFzektYNFpGYUJiR3U0Y2ZjRF9pOVNKLWx1cHJMa2dpQmVRQkhpNTk2S0dTUWxYZ2VsOGJKVEw2Ui1uY05DY1dacE9zZTRMTVFBcWVUTVN6bEl6bW5WYnNmcTRabXhjOXRoS1NpbHZoTXRrcW5aVHFJb0NZdy1SNXJWVnpNamQ?oc=5",
+  "medio": "Gob MX",
+  "publicada": "2026-11-09T09:44:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "CNPC MANITENE ALERTA POR LLUVIAS FUERTES EN TAMAULIPAS, NUEVO LEÓN, VERACRUZ Y SAN LUIS POTOSÍ Gob MX",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "4245880c77e213ab"
  },
  {
   "titulo": "Imparten pláticas sobre seguridad en escuelas de Saltillo",
@@ -634,6 +1510,20 @@
   "id": "ebb777d5c9a28b92"
  },
  {
+  "titulo": "Policía",
+  "liga": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUE4tbFFNUFVzQ1FLalE3eVpMN3ZfM3FIZEVKTXpWUXBMb25MUWRLNTVWbEM4cmJ4UjhRTURoZF9FTVhnNm5TeVFoQlk2Z0p2UG5ST0lybTc3MGZxRlU1dnpIV0NQM25UeEo2V1lkMm5nTzlBNlByS1F5b1FxWHgtenJRam03M0VxUVVQd2xVTWNkOGJPREZtRlQwVlJabGlVN01Zc25pR0pHOVVwd1pOZmJsV3pLbXc0ZGRudHJzQUJXOUVVeVIwV1N3YTFKMHRleUx1X3pMaXNHNFRPQjF1cXZhekN1QlFJdHJnVEhudFh6dVUxUkduX1k2VlNQM0FfRlpMRGtKVEdxeGozdHJNUXRmd3VzVFFrV2JB?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T09:03:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Policía Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "97a31d89167686c1"
+ },
+ {
   "titulo": "Sheinbaum anuncia cifra máxima de empleo en el IMSS con más de 23 millones de registros",
   "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS2M4cWhhRGlBWnU4N2hONHBUQmZROUd0S1JWdDRkdEJCZUI4YU16R0tmZFI2OHlmc1hQblI5bnhOUGh1THBMUEJFTVhjX05yNmRJWks4YmRoNk9qVGUyT3hWb2RlM3NicUZsTmNpUktZbVJqb0l3VXdNWGY4YmhGSkdqRXhEcWFGcExQMWRNcGZ2dHliZTF1RUgtQ3VyNUkyZGVQM3FGREFCZFRqenA5UGV1N0JwdGN6bS12cC1ialA2OEQ2TWVfN215SkNrUFAtc1V5bEk0SnctS3pjTUE?oc=5",
   "medio": "Reporte Índigo",
@@ -959,6 +1849,20 @@
   "id": "5cd332720ff83c71"
  },
  {
+  "titulo": "¿En problemas? Rayados se jugará su clasificación a la Liguilla en últimos dos partidos",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWkzM3ZOOEwzc3h0cXdNd3Z1Qi1hdHlMS0YwVEtBdVZNdWx2eTBzOThCMUg1YzFzZnFIM1ljRGFsOFVXeE1pX3VDdFdRcTZKcHJ2SzZSNzZvNGVXM2F3RU1ORWtRWTNTSTF2QzFOZDBYQlVOZ0RsVmpTQjlmRUR4RDNVT3ZUY21ZWEI4NTdnLXp3NDVCQk52NF9vQktkd0QzS3ptNUJFT3FaZHNH0gGsAUFVX3lxTE5taTMzdk44TDNzeHRxd013dnVCLWF0eUxLRjBUS0F1Vk11bHZ5MHM5OEIxSDVjMXNmcUgzWWNEYWw4VVd4TWlfdUN0V1FxNkpwcnZLNlI3Nm80ZVczYXdFTU5Fa1FZM1NJMXZDMU5kMFhCVU5nRGxWalNCOWZFRHhEM1VPdlRjbVlYQjg1N2ctenc0NUJCTnY0X29CS2R3RDNLem01QkVPcVpkc0c?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-09T08:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "¿En problemas? Rayados se jugará su clasificación a la Liguilla en últimos dos partidos MILENIO",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "ec2cdda8f462162b"
+ },
+ {
   "titulo": "Volca pipa con 57 mil litros con derivados de petróleo en Montemorelos",
   "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbU95bXNMVHhUandmak84ZFFmWTBnZ1gtQjBSbEdmc2p6ampWcDJQQjFuZkFyWHNDVTZfcWlQZnR5TmRTcFJVTll0Ym1fWkJJS3pvQ1RROGc3UGlpZ3NndUZmQm9sRFBVbnRXOFBXbkpTb1dTUGFzY0hOZjNZeWxHTEt6cFE5QkQwVEYxSFdnRy1sbjdEQXF2WmE0M0wwVFBvUHNZTVBNNTI1NHA1VGdTNDNIc1FrZnZoRjQtYXNnUS1aQXlXNWc?oc=5",
   "medio": "MVS Noticias",
@@ -1027,6 +1931,20 @@
   ],
   "local": false,
   "id": "3ad593df4085e9a7"
+ },
+ {
+  "titulo": "Muere Motociclista tras Derrapar y Estrellarse contra Poste en Monterrey",
+  "liga": "https://www.nmas.com.mx/nuevo-leon/seguridad/accidentes/muere-motociclista-tras-derrapar-y-estrellarse-contra-poste-en-monterrey/",
+  "medio": "N+ Monterrey",
+  "publicada": "2026-11-09T08:20:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5aaf64ffa8861e23"
  },
  {
   "titulo": "Muere motociclista tras derrapar y chocar contra poste en Monterrey",
@@ -1115,6 +2033,20 @@
   "id": "c7ad838470b31e5f"
  },
  {
+  "titulo": "Cae en Monterrey Premio Mayor de 7 Millones de Pesos de la Lotería Nacional",
+  "liga": "https://www.nmas.com.mx/nuevo-leon/sociedad/cae-en-monterrey-premio-mayor-de-7-millones-de-pesos-de-la-loteria-nacional/",
+  "medio": "N+ Monterrey",
+  "publicada": "2026-11-09T08:11:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7fb1cad67f98c228"
+ },
+ {
   "titulo": "León XIV llama a proteger a los más vulnerables en Argentina",
   "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUxLNGthQkczTmJOQkVlb05KX0wwamlOdTlabGJlRUpXa1ZXWFM2Zm1MZXFFVHh4WVQ2OEtWN2JMdGdQSGRJNmk1YS01YU9fNWhZQXVJME9NdlpiWlBNd0h3X1VWdzBsa2R0NjRTZTVuWUdYTWMxUWY2bEpTcE9Hd0ctamo0R1A5bFo5OHVueFhjNUFMdzRaOWFiZnpteHVtTHdWaC1Ba29wOFZjWFBTZ0ZR?oc=5",
   "medio": "El Horizonte",
@@ -1169,6 +2101,20 @@
   ],
   "local": true,
   "id": "3ba4aa7c4fbca047"
+ },
+ {
+  "titulo": "Calidad del aire hoy lunes 9 de noviembre de 2026 en Guadalupe, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa1A3T1BubHlUT19oR1R6aS1ERnQtRFZGWk5WZV9UeXBNcDZaQzU4Nnk4WGs4R1lLVktoWVg1UWswQkp1QnBVRDVCV2ZzNXZFSnZHbVY3Q0wzNkJaMWZKYWxjZFp1SjZfNHNQdmZNV1dySUpnZVJMVTZkWFFUWnJlb2l0WF9KX3VDR2FMNTBDS0dfazd2SkREbWxpM0JFVVZubThQSVQtdzFlN2xuanpySlphRGw5a2I0MHN0cDAyM3RhX2dJZEZxUEpCMUE5T1BmaWc?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-09T08:01:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Calidad del aire hoy lunes 9 de noviembre de 2026 en Guadalupe, Nuevo León El Heraldo de México",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "b961c96d460122c0"
  },
  {
   "titulo": "Calidad del aire hoy lunes 9 de noviembre de 2026 en San Nicolás de los Garza, Nuevo León",
@@ -1607,6 +2553,20 @@
   ],
   "local": false,
   "id": "f66e8c8799aac3ae"
+ },
+ {
+  "titulo": "‘Nada más que pasen las elecciones’: Sheinbaum volverá a mandar iniciativa para acabar con ‘pluris’",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFllZFRUeUh1aTdDOUMwaVg2bmhCUWpvaW1FczVfRWVCZXFWNFpDZDRsZXdLYW9xY0cxU3lNNUdTM0hTQWotUlJFanRQcTlYXzZJeWdaMTF6XzdwUlNpbG1wRmNidkhGZ1cwRy1aaWJJbENZdy1UTTU5ajBLTTlETWZoWVU5SHJzZlVndHNfRmU5MGVaWXptVlJtNlNieVpaNFV1dWN4bm5pTmtnUVRkZExHbU5NYWZRM0hUbA?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-09T07:25:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "‘Nada más que pasen las elecciones’: Sheinbaum volverá a mandar iniciativa para acabar con ‘pluris’ El Financiero",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "b68778969a1078b1"
  },
  {
   "titulo": "Detienen a dos con droga en Juárez, Nuevo León",
@@ -2058,6 +3018,20 @@
   ],
   "local": true,
   "id": "1a1abf4f36c94dc7"
+ },
+ {
+  "titulo": "Presunta simulación de subasta favorece a allegado de Lalo Leal",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWhxOHlwNHh4eE5QMGw3ZHBOX2p0aEI4bGJrR1ZQTVlZdDF3X2p1elg1cWgzVGhkUHZMMWg0Nlk3VDRWcnMzYnRCenJ5MFh6dEtzSnNfN2FpWXN6c3d3MHhqRmhTZ3Q0cUdOWmE5QlJ2NFlGX184MG5CamcxdVhiNjRtREExTk9OelozU1JLTXVGbm81ZDdqOUxvVmZqQm9XakY0LTF6anNVbTlweVZaag?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-09T06:05:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T11:11:05-06:00",
+  "resumen": "Presunta simulación de subasta favorece a allegado de Lalo Leal El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "08f2cbe9b6fe4240"
  },
  {
   "titulo": "Enfrenta Nuevo León déficit de 80 mil viviendas y rezago de 72.5%",
