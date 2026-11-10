@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-10T16:44-06:00",
+ "actualizado": "2026-11-10T17:38-06:00",
  "corte": "2026-11-10",
  "ventana": [
   "2026-11-09T20:00-06:00",
   "2026-11-10T20:00-06:00"
  ],
- "total": 591,
+ "total": 649,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -91,12 +91,12 @@
   {
    "fuente": "Google News: site:zonanorte.mx",
    "ok": true,
-   "notas": 1
+   "notas": 2
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 38
+   "notas": 43
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 43
+   "notas": 41
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
@@ -126,7 +126,7 @@
   {
    "fuente": "Google News: Ensenada (detenido OR detienen) funcionario",
    "ok": true,
-   "notas": 1
+   "notas": 0
   }
  ]
 }
