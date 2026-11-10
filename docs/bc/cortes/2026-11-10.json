@@ -1,5 +1,107 @@
 [
  {
+  "titulo": "Secco anunció un bono de fin de año de $400.000 en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbWpBVEJtdHNXazczUDhLUEdnYTN1QkoyQnNKekItSDd6UHJxUEJnMVpEajBjM196dC1UWTN1VmhBQ2tBMDlpRHpzUm83OVE0M0pURERzb2E3NmROTTlhaTJOYS1pcTF2WVRzVlpYSWFqX1dmT3ZHaFBLZHpTeF93VmhGVUpJZUlWeFlOZHRpLVYxWHMydjRFU1pFY3ljOWFWOEJIakpR?oc=5",
+  "medio": "Radiocapital913",
+  "publicada": "2026-11-10T05:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T05:25:52-06:00",
+  "resumen": "Secco anunció un bono de fin de año de $400.000 en Ensenada Radiocapital913",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a7a1833bc75770f6"
+ },
+ {
+  "titulo": "Aprueban Parque Industrial Amistad en Arteaga de 767 mil m².",
+  "liga": "https://elcongresista.mx/politica/coahuila/arteaga-parque-industrial-amistad-767mil-metros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-10T04:46:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T05:25:52-06:00",
+  "resumen": "El Ayuntamiento de Arteaga aprueba un nuevo parque industrial en medio de críticas por falta de transparencia en el proceso.",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cd5fd2ef505650fb"
+ },
+ {
+  "titulo": "Trump busca mejorar su legado presidencial mediante reforma migratoria",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-reforma-migratoria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-10T04:44:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T05:25:52-06:00",
+  "resumen": "Donald Trump busca mejorar su legado en Estados Unidos a través de una reforma migratoria que aborde la situación de los inmigrantes.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bae9c85e1ca0d459"
+ },
+ {
+  "titulo": "Incongruencias marcan el secuestro del alcalde de Río Bravo",
+  "liga": "https://elcongresista.mx/tamaulipas/incongruencias-secuestro-alcalde-rio-bravo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-10T04:43:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T05:25:52-06:00",
+  "resumen": "Desencuentro de versiones sobre el secuestro del alcalde Miguel Ángel Almaraz de Río Bravo sorprende autoridades de diferentes estados.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "62050bc338972568"
+ },
+ {
+  "titulo": "Reyna confronta a Sheinbaum sobre Taddei en la mañanera",
+  "liga": "https://elcongresista.mx/politica/nacional/reyna-confronta-sheinbaum-taddei-mañanera",
+  "medio": "El Congresista",
+  "publicada": "2026-11-10T04:38:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T05:25:52-06:00",
+  "resumen": "Guillermo Reyna confrontó a Claudia Sheinbaum en la mañanera sobre el vínculo de Guadalupe Taddei con la 4T, revelando tensiones políticas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4913c97d6070c699"
+ },
+ {
+  "titulo": "Adalberto Díaz y Yohani Lázaro crean muebles a medida en A Coruña",
+  "liga": "https://elcongresista.mx/politica/nacional/adalberto-yohani-muebles-a-medida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-10T04:37:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T05:25:52-06:00",
+  "resumen": "Adalberto Díaz y Yohani Lázaro inician la fabricación de muebles a medida en A Coruña, aportando experiencia artesanal al sector.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f7d6009acdd4d302"
+ },
+ {
+  "titulo": "Liga MX: Santos, León y Pachuca buscan su pase a la Liguilla",
+  "liga": "https://elcongresista.mx/politica/nacional/liga-mx-santos-leon-pachuca-clasificacion-liguilla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-10T04:33:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T05:25:52-06:00",
+  "resumen": "Santos, León y Pachuca luchan por su clasificación a la Liguilla de la Liga MX en la jornada 17 del Apertura 2026.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "08cca8c6502d56b8"
+ },
+ {
   "titulo": "Efemérides del 10 de noviembre: eventos históricos en México",
   "liga": "https://elcongresista.mx/politica/nacional/efemerides-10-noviembre",
   "medio": "El Congresista",
@@ -2856,6 +2958,20 @@
   ],
   "local": true,
   "id": "055edb8ef70478d6"
+ },
+ {
+  "titulo": "Noticias",
+  "liga": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mWTZOalVXYlVYZ20wT2sxOXBOT0VmbkpyVnJoM3JsZHNoOC1WTGlIUk5YcFZ1ZjZMVWVveHBGTXpEem5lU0xkTDhOQ3dhdVBFZGxtQzZYNThtSEQ2NFNqbUpfSzdNOTNkbkNfaUUzYXUwTHM?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-09T20:08:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T05:25:52-06:00",
+  "resumen": "Noticias Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "869f15a237a2cdb5"
  },
  {
   "titulo": "Caravanas de la salud estarán en la colonia Bronce esta semana",
