@@ -1,5 +1,34 @@
 [
  {
+  "titulo": "Iluminan de azul edificios municipales por el mes del hombre",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ndjY2Tmc0SEFEZFlXZEo2ZEJscTUycVNuRXluSUVDRVV4NktjcFhCYmhOajRmaG5WTEJFaHhLUXkzZWdZOTdVdjZuSmNWR3ViU3RCM25JNF8yczA?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-09T20:39:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T20:43:57-06:00",
+  "resumen": "Iluminan de azul edificios municipales por el mes del hombre Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5432093f495ae890"
+ },
+ {
+  "titulo": "Asesinan a Claudia Guadalupe \"N\" en Mazatlán; es el octavo feminicidio del mes",
+  "liga": "https://elcongresista.mx/politica/sinaloa/asesinato-joven-bicicleta-mazatlan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T20:31:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T20:43:57-06:00",
+  "resumen": "Claudia Guadalupe \"N\" fue asesinada en Mazatlán. Este crimen es el octavo feminicidio registrado en noviembre en Sinaloa.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7532f03ccf1ec0d8"
+ },
+ {
   "titulo": "Diputados inician la discusión del Presupuesto de Egresos 2027; contempla reducción al INE",
   "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWt1c3pPcEdoNk94QUFJdTNieXFqQnN2T0ItRnItcGdQUHdmc3ZWTzlxMlZOU1NBMlg2TllXNmxvdS1Na25JSEl1LUo5RTcwbmxOczlRaW1SQy0wWE9ZZDEzVWo2N2NPSGptdm1OUm5ja0dlZ1V1NThJLTZsaW1DUTRsTVVZa3ZPS0ZoZ0dwLWZuSWJBQlcxMlQzSDlHNEh0ZFFmcEU3RGtqclhtMWp6OS1WSmsyb0VJSEdMQlRxNktMWXZrVGtqTGJXUQ?oc=5",
   "medio": "AFN",
@@ -14,6 +43,20 @@
   ],
   "local": false,
   "id": "8ae6fd5a9d61ee0e"
+ },
+ {
+  "titulo": "Entregan cinco viviendas gratuitas a familias de Santa Ana",
+  "liga": "https://www.uniradioinforma.com/sociedad/entregan-cinco-viviendas-gratuitas-familias-santa-ana-n913450",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T20:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T20:43:57-06:00",
+  "resumen": "El apoyo busca fortalecer el patrimonio familiar.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1192bfaa3ad25993"
  },
  {
   "titulo": "Empresario detrás de los chips de IA más cotizados admite relación con presunta espía china",
@@ -103,6 +146,21 @@
   "id": "ec913d201e107652"
  },
  {
+  "titulo": "Basura en drenaje provoca brotes de aguas negras",
+  "liga": "https://www.uniradioinforma.com/sociedad/basura-drenaje-provoca-brotes-aguas-negras-n913448",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T20:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T20:43:57-06:00",
+  "resumen": "AguaH llama a prevenirlos.",
+  "temas": [
+   "Agua",
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "055edb8ef70478d6"
+ },
+ {
   "titulo": "Caravanas de la salud estarán en la colonia Bronce esta semana",
   "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83X2FMNWlmRVVWWTE0ZmNLVGZfRUlvRm44VUtHS1BMVWp2NDlwbDg4a0EySFNUSm1XQnJ5aHdUdUJnZGRxR0w4T3I1QVRDRHJCS0NMaWpQMTFDNXM?oc=5",
   "medio": "Ensenada.net",
@@ -115,5 +173,19 @@
   ],
   "local": true,
   "id": "531abdc2fb393d68"
+ },
+ {
+  "titulo": "Rafa Márquez cambia el plan del Tri; concentrará en la Riviera Maya",
+  "liga": "https://www.uniradioinforma.com/deportes/rafa-marquez-cambia-plan-tri-concentrara-riviera-maya-n913446",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T20:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T20:43:57-06:00",
+  "resumen": "La Selección busca adaptarse al clima de Kingston.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "1c769e7ad5c96049"
  }
 ]
