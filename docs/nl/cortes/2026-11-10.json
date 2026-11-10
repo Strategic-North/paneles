@@ -1,5 +1,432 @@
 [
  {
+  "titulo": "Se incendia tractocamión dentro de nave industrial en Santa Catarina",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmdxZmpqV2lLZV9LRTg5VFZobzNXRE95cEZPdWpaVTJlU0dDMzdYRzBJQlN5MzNtOTIxbnI0WkxYeVZUYnFvMGczSUg2ZFZjQy0wYllpbUY2X1BGTGJBV29SRGhlS2U0UEJwbnN3bXFrOVV1VzRYUFFRazQ4eTFMUEFFTXZIUEJTeGxMcE4xNkhaM3F1NTkySENjYy1OemvSAZ8BQVVfeXFMUG5jN0JRaE9XTEZqUVRkYnUweGVLaW1EZlpIVjEzRGpoanE5SDNuZ19STlFnTnBKQ1k4OWJ5Si1kR2huMnJsZ3prQkhRUDhEYmJYYXhEVE9sLTd2LUJabGxVLXBzYTdnNGxiS0lVc3l5M1ZaamZJS0M1NVZYOWhqdWpLZHFodUR4aVM4Zk4yOTlidXJZSjVIeGtZWjJlZV9F?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-10T07:39:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Se incendia tractocamión dentro de nave industrial en Santa Catarina Telediario",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "7342baa93c7ab795"
+ },
+ {
+  "titulo": "Atiende Hospital de Grandes Especies de la UANL a más de 2 mil animales",
+  "liga": "https://abcnoticias.mx/local/2026/11/10/atiende-hospital-de-grandes-especies-de-la-uanl-a-mas-de-2-mil-animales-295020.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-10T07:37:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Salud",
+   "Educación"
+  ],
+  "local": true,
+  "id": "e581ac89eb85ca4a"
+ },
+ {
+  "titulo": "ASF documenta anomalías en contratos del INE durante varios años",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/10/asf-documenta-anomalias-en-contratos-del-ine-durante-varios-anos-295018.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-10T07:32:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "0bb05067122fbab9"
+ },
+ {
+  "titulo": "Choque múltiple en Bulgaria deja diez muertos y once heridos",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDRqSURiU3FYTks3OWhxdVplZ3pmTTUxNV96YVNsYmh4VnhLako3Z0hYNF9KSWNrenhkb0Ewb1hxSlVERFFxblR0ZFVad3Izeko5ZXEwSWVpU1ViU212S0RpcDFleUUyUFhFY3BicmVyZnhXbFVVckFsd2VOTkU0OWdGQlA1Q2VFM0RydmsydExCd09vV0EtSC16SlRyOVpnSlpGbTNn?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-10T07:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Choque múltiple en Bulgaria deja diez muertos y once heridos INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "51d6d1dec79b2fac"
+ },
+ {
+  "titulo": "MC impugnará nueva bancada independiente del PRI y PAN en Congreso de NL",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVlKdUtaTnNDYXI2ZElSR25UMWNiTW96YWoyaElWNkZKbUJkbWVpQk9LOHllQUhNT0VRTVBxdS1kMk43R3dXcDVSUGg2Y3pqNDlYZkpnWGliNktSamxfYi03NjY3d1RNcDhBbTRIbHIyalhJTm1qeGdKTmJXdzgtc2x3N0doQTdKS1dtS3paWFFWODl4U3dSTDZrdkhzTm1YVEFydlZORFF4b3R0Y3NQSlBWczRfMGQzX1VLVUtlT2twcmZDcUFseUV3?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-10T07:30:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "MC impugnará nueva bancada independiente del PRI y PAN en Congreso de NL MVS Noticias",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "dfb5c429a2c8514b"
+ },
+ {
+  "titulo": "Conferencia de la presidenta Claudia Sheinbaum",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZG1FbzhMZXRvR0ZDMXJmZ2tyN19Sc3c4RmFoQ0JvMkI0em9rYUNXZ3QwLWZrcEVBeWRWMEtJMm54UzZRTFdtOEZ6ZWlxNjdadUw2RWlmUVpxdlNtdGFZWjIyWlY4T21TRnhRNzY4SHBEeTF2UjVyTVF1V2pUaloyZURJam4zNFh0S3dhZldzSWY4RWhoUjZQcmRVdHlxME1SRHc0OTJmMnNBQ0Z3QzVJ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-10T07:27:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Conferencia de la presidenta Claudia Sheinbaum El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ff7896d1a87540d0"
+ },
+ {
+  "titulo": "Mueren tres trabajadores por fuga de gas en proveedora de Apple",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVUwdDR3TTlTMDJlcHQyOUNnbVFXQUJjSkZROS1QVVNWb3oyNGhGcjF3VUVkMW9BOHFhUE91VGlHSGtKclNBUndBcDNtN0RTVEZNd3BHV0dNYWFWaWFiZEhKenBaTTdzVHM1b2lRNVlWcDU3aTlvOHM5ZmRyRE82ZlZaMmhpTG9qbnpnMW9IdHRId0FfQ1FobTh3aXhfX0lVaGt3TkMxQm1ZZ1d1VzktWHM2NkhNb0k?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-10T07:24:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Mueren tres trabajadores por fuga de gas en proveedora de Apple MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0979954b02978342"
+ },
+ {
+  "titulo": "Retrocede 13% empleo en NL",
+  "liga": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3dzBfWXc0Y3FTOEJ5Y1BwYks4OEZDTDFETE9jSXl4aGZRV3Jac2ZNZ3BMVDhNc083bm1DYzJ5T09OM05BLTVpY283MnNzbDFNaGplbHA0M05ZSXdFUGNndnFRN09fcUtZZFI4?oc=5",
+  "medio": "Reforma",
+  "publicada": "2026-11-10T07:17:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Retrocede 13% empleo en NL Reforma",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "9ec63b659609462c"
+ },
+ {
+  "titulo": "Pensión Bienestar noviembre 2026: ¿quién cobra hoy 10 de noviembre en Nuevo León?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/pension-bienestar-noviembre-2026-quien-cobra-hoy-10-de-noviembre-en-nuevo-leon/vl2277241",
+  "medio": "Posta",
+  "publicada": "2026-11-10T07:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e3acac5600c382d5"
+ },
+ {
+  "titulo": "Intentan escapar 25 personas de centro de rehabilitación y provocan conato de incendio en Escobedo",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXFjaUNQUF92OFlST1VfWkRBV3FOcjRZLTF0OVFfV29zRWNlc1Q5VHU5X24tMnVuQWcyRzVsRzJISGw2QmNidnlEOFdpeEx0d2dseVlDTWs4NnVjSUhyMjBjWW9jRkZKMmhKVFVNcGNZSUFqR0g5TEVTdVd2SGZtY0tDeFZhU1N1XzRmM3otV1J5UG9PTy1WdzJR0gGaAUFVX3lxTE1Qc01PLV8tSjg5TnlkbTd4djVFN3NJU1VvTjFXVVdtNHdBWkhhM1FVZ3NEaHRpMjA4U2xzeVpvUlItY1pWZ2xaN1pyOXdWMkdfRmp4ZUZ5S1V6eHZIbDlmWkhnaVNEQmNsM0d3UXA1cjQzekFjYXJRdDFpSXBlSTVmdG13dnJ1OGdzVkZxdGNKdDlZMW80UWEwS2c?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-10T07:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Intentan escapar 25 personas de centro de rehabilitación y provocan conato de incendio en Escobedo Telediario",
+  "temas": [
+   "Servicios públicos",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "13632efa95f7590c"
+ },
+ {
+  "titulo": "Andrés Calamaro reconecta con regios con sus grandes éxitos tras 4 años de ausencia",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnJRNF95NlRObDhoMWNKb0NrRzJFLWpjN3k1QnBrU2RkVUhNdGkwMXNreGZuY0xwWWQyQUZwbUlXbUpRRUR5dnJOa3VBSjlHOWVTVjdad25YclJDeC1naFJxSmVrcDdlY2tvS2s0Q085dElzbWQtNklVMmlGX01LZkdwVzFqMUgtMjVLMmVLb3B4c3luZEpPcWNIYTk0QUQ5QkZCbG5iamR4QlpWVWs1TEx0SdIBswFBVV95cUxQSlZCZFpCRWZpV3drLU53MWdIR2lXcGhGZXR6RGQ3V2c2cHBWbC1aUkhZaUhZOVNoSWZNZUR4MzI2YmtfNEdkYnJkX3ZtSVd4cXRJNW1VN293WlNETDlKQWNBNVpCZkJISV9VcDd3bTB1UVJrbjY0cmhEdEFOTWQ3ejg1R29kMWZOQU5GWDBwdEJYWFlTODhTcXB1eVVNdm55cm1XZXVfWVJHdG45bHNGVEswVQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-10T07:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Andrés Calamaro reconecta con regios con sus grandes éxitos tras 4 años de ausencia MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ce74d34707c7a458"
+ },
+ {
+  "titulo": "Stray Kids anuncia gira mundial 'Run it' en Norteamérica y Europa",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWt6SUNaWWZCRUdtUGJIYlN4V3IwMXNKOGR0TU1MZnZobm5BeWZZNnBBWEFfaGRMT2NBaEV2YlE4SUsxTVJUX0thelhQMXI4UU5UQ3pEVmpLOWtJRVFLTHlFZ3lndTVNeHlHbzBIX1RxSkREUGVHNkZObE5Td3Y5UEJhMnVDb3MzdlROeXM0QVhPNkliMkthRTNEQ1VpSG9UM25QQjg1TQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-10T07:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Stray Kids anuncia gira mundial 'Run it' en Norteamérica y Europa INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "998908fda756186c"
+ },
+ {
+  "titulo": "Trump cuestiona elecciones tras derrota republicana en el Congreso",
+  "liga": "https://abcnoticias.mx/global/2026/11/10/trump-cuestiona-elecciones-tras-derrota-republicana-en-el-congreso-295017.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-10T07:09:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "3139bcdb9772f5f4"
+ },
+ {
+  "titulo": "Incendio en nave industrial de Santa Catarina deja un tracto dañado",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUtZVzFHWjRtQ1RPNDVJWWpkRGh5SGNmRXl4TTJIOEIyWjFfRXNxS2dEVmdoT2I4aEZOUFY2NW5wN3NiQ1hQMzNLbEJZenJPdDFHX0lCQmE2Ul9GeFFjYkNtTURrdkNoVnphRmJUSG1SV2tYVXViM1hxRXp4MkdxQ1FvbmFLalFKNkRQY1RoSEgySGRGdUtuN1JrbVBuejIxeHhETHJGXzdRX0REeVdncXc3WUY5S2lZSEc1bTQxYmtqUHM?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-10T07:09:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Incendio en nave industrial de Santa Catarina deja un tracto dañado MVS Noticias",
+  "temas": [
+   "Economía y empleo",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "035eaa3388c71ae0"
+ },
+ {
+  "titulo": "Intento de fuga provoca movilización en centro de rehabilitación de Escobedo, NL",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjFGakdMWWphQ3NqaVl2R2sybkV2c0RxSURDb0t6SDNzaVBfTW5aWTZwbDFJNUkxejkxb1RaOHhWUnB1YkRHWEVYRFdKamh1dzd2a09IOXNuTV9jQWZEZGdJcU5pTFJOekF1TTNmelMyNUJWMHhFTUx5cDBIdEtJa3NDTGw2bUllQXlkRGhIam1pbUVRejNTbnlpQdIBmwFBVV95cUxOamRUVERkRF9PY0gzclJHb190YVdCQk9FcEV2WnN6cWdWS2RyaE9QY3hnWnAzdVpQUzFQRndPX2JmTFJfa01mSHhPT3BrcDlZQjRRNnB5MUVKQm9lMnpVaTFHWHJuWGZ2RUNMV0hBVFZMNGdTcUhROXBUY0ZSVmUwcTV0bnI0RVc1ZldBZ0NNeFpJM28zSUpuUFd1bw?oc=5",
+  "medio": "MILENIO",
+  "publicada": "2026-11-10T07:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Intento de fuga provoca movilización en centro de rehabilitación de Escobedo, NL MILENIO",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "050c80b43be4e827"
+ },
+ {
+  "titulo": "Prevén lloviznas y cielo nublado este martes en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGZuVmY2bjRQLVhQMHlEWXVxS0h4Q3l1LWlzamZDaER2ZVRCdWd4UzhkckgwQnpQMlUtV3R2SF9Wa1RieUNSMXVMUVNqaEhCZVZYRWhyV2ZQbE4xV1FHTmUtQmo3UWIxTXlmZy11YndCU21YY3NxNkx6YVp5WGJZTkNMcVptVTFsc0FJbk5OWHdGdWlGeldV?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-10T07:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Prevén lloviznas y cielo nublado este martes en Nuevo León INFO7",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "c1ac7b58a72a205b"
+ },
+ {
+  "titulo": "Martes con neblina matutina y alta probabilidad de lluvia en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkdrWmYwQ1R3anR0UjZQZnpYY0JVY25BNVVnamRVMjE3VTJoUE5mR1BHQkNSVWlFNXFQNmRrV3JNWDZXV3ZMam1malA1S015dmNsVnhjdkh6cXlwMHBtdldfazVCN0pSNTNGNy1kRk01RzEwdGZiWXJ5V1hsRGF4UmlSd9IBgwFBVV95cUxPcnh2Qkt1cEs0VE5maWZnVFRSeHYxZ01ULTJPNi1KN3gxRmc3R0lncmV5aDhaazhTbTNUNERqRHhfT2hLU3FGbVl3TG4xaV9qTko4bjVVUVRVVFdkb0xHUGZMUzZRSWUtS0lYRUs5QTA1U1lHcmZEVVY1RVBRVU1ERi1mTQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-10T07:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Martes con neblina matutina y alta probabilidad de lluvia en Monterrey MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "338aca142e641772"
+ },
+ {
+  "titulo": "Protestas obligan al OAJ a retirar evaluación de trabajadores judiciales",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/10/protestas-obligan-al-oaj-a-retirar-evaluacion-de-trabajadores-judiciales-295016.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-10T07:01:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "acfccaaec17cfb94"
+ },
+ {
+  "titulo": "Conato de incendio en centro de rehabilitación de Escobedo deja dos lesionados y 45 evacuados",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSlpIMGdSS0YxWTFKbi1mX1pDQlcwRldnVmFCUDJxb3g0NnhJc0xRQjZlQjJXNEhvdTFjZmdtajlsTXJVVWM0ZWtxNnFtU1k5NnJ2WEdHdGcyNU9UX0cyZW52djZsWDBmOVRva1JsMTVnZGxyWEtYRktOemtEdmRlSW1RZ1o0ZThnN25aZzJ3ZHhUeGZoREpDejc0RW5uajczaGxkelNZN1RHYkRzU0pSQmdQSVJMaWNNWmR0UThkOXQ0cGFaNFFSMDBwUXZpOEs3dU93ZS1QSkRZcEtVYVlGNVFUSl9tZw?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-10T07:00:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Conato de incendio en centro de rehabilitación de Escobedo deja dos lesionados y 45 evacuados MVS Noticias",
+  "temas": [
+   "Accidentes",
+   "Servicios públicos",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "eea634d446eca22c"
+ },
+ {
+  "titulo": "Arde Centro de Rehabilitación en Col. Praderas de los Girasoles en Escobedo, NL",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa2VkZVRCUjhONUZROHN6aGJ1OTJXZ2ZlVThwMWhBM2hVa3JpazN3TjRidzd1XzgtZTllaU9jUEl2NGpUTVlLTWc2U2NZbmk2LTRMck9HTWFSX1FwS1VyYlF5aTYzdVhWRjhXUmhGazFRbFQwNEE4a21tRFViMnNjRlQzNjNvRzh2TGpuQjhLck9HYnAxTVZLelZOTmtDbEwtaEdFVUhUcHUwZHE4WVlFUVFYYVp4WEcxVW04enZuaDNhcXhsT2RYbDl1NkNJRDA?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-10T06:58:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Arde Centro de Rehabilitación en Col. Praderas de los Girasoles en Escobedo, NL N+",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "8ba77be1c9485a81"
+ },
+ {
+  "titulo": "Hombre es asesinado a balazos cuando reparaba su vehículo en Santa Catarina",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkNmXzZMYjNxemhQTjZ0TE01S0o2c2tnczh1aHVKMHVHampsaFc2Mk1VMUxRbUxFWVFKNW1HTG4xZUxJN0p1M2xtdkJTNWw2YkU5bzNnY2xQSVdtSTVGdDdrbVNfUjc5aU44UUJsVTJTd3pZd1lSdGhBbmxhQmVKS2F0aVQ5bktMWEh3Q1Y4bVVYeGJSaDFfenhkUlY1QdIBngFBVV95cUxORml6QldTSkliMmU2al9BM2Q2NlNRYmR5N3FqSXowUTNhWFYwVi0ycTFsZkpXbl9CQ01JSWtfZFM5UzZ4TjJEcW1XRHdWN1JFdmdDY3o4ZEV2UDlQMmhCLWY0Q1FaMUUtME5paDNCcDNyRWpFSXl4cHRQWGF6LVRQdnZtTEs3dkhpZm94M01aODhPYlU1NnJoQWJaYWZJdw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-10T06:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Hombre es asesinado a balazos cuando reparaba su vehículo en Santa Catarina Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d8639137088061e6"
+ },
+ {
+  "titulo": "Asesinan a hombre a balazos cuando reparaba su auto en Santa Catarina, NL",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVW5PME1BcHRoY0ZZXzhXX3NfamhBTndST3JkdW5zTnNEN25uUE83NVl6a01jQzNDbzhHSVFWRmdiNlBfTzg5Q2NTLWlfQjlIeVVWUm5GQXEtbXRKMm5HY3pQSGpYR2Z2QnpCWTdPYTZNelMxUW5MX1RheUQtZ0MzZ3c1TUpkdUFvWWpxSXdFRUF0MmM3czFpeGVCel9jTm8zdzFj0gGjAUFVX3lxTE1wWjhNYTBta0ROWTFjZmhRUktETlVjM0xITVdReDZYSDVDelJqamNYRklsRTRGN1p2Uk1CUUxXVGI4WTFXWk5xQVpXMFhNWWh4dDM1V2xnU1VtdFJobGoyNDZWVG92TmtuYVJIaWVJZ3hveUUwd2phS3g1UVJfd2lZTXRTWFN4Q1JWUHFyVmRlNl9iRUUtVUlKbFNrdi1qT0JyQTQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-10T06:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Asesinan a hombre a balazos cuando reparaba su auto en Santa Catarina, NL MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "acd0880c9e1262c7"
+ },
+ {
+  "titulo": "Clima en Monterrey, Nuevo León con Vanessa Ibarra",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFBWbm52ekdnSkdETFI4dDcxS2lYbV9ncmhZVFJoM1U0YnJqRFhuZnFFeW1pdGg3WDk3MUZhZW5HT2MxcC1CV29oYzRFSGlXUUplcm1jTjJnaVJuMXFxUTN0azJxM3NmSEZ5bXN5UHJPa3ctQ1VTa2JaRzBwSWtpVzdKLTkyWEowTTQzMnlOUl9pdGIyeUJZcGpuNlo0YW5xLVVWQUlWaw?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-10T06:52:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Clima en Monterrey, Nuevo León con Vanessa Ibarra N+",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "f2567824aed6f7a1"
+ },
+ {
+  "titulo": "¿Cuáles son los niveles de las presas en Nuevo León hoy 10 de noviembre?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/cuales-son-los-niveles-de-las-presas-en-nuevo-leon-hoy-10-de-noviembre/vl2277236",
+  "medio": "Posta",
+  "publicada": "2026-11-10T06:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "f57e567e70986aa7"
+ },
+ {
+  "titulo": "Tom Brady pone fin a su colaboración con el Birmingham City",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2MwRGdTSmV2ZF9aQ1lxM2FnUFljdGlfaDE5dEpzczY2UlNrUkE3NG1Gdm5XVURTMUhMMjFTNl8wS1FhYWhSMHI3VW1vdloxY2xCaWZ3X21KNWNBWmZ1Z1pJQkFKVXAtT0h4U3AzQWVtWElxX3BULXp6VFFzRmdVcnVWSWNOZGZTcXRmSDFfMUl4Wk10WXdtM2VBNko?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-10T06:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Tom Brady pone fin a su colaboración con el Birmingham City INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8f20e4aa01e0e559"
+ },
+ {
+  "titulo": "Récord Guinness: Dani Román vuela impulsado por una catapulta",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWhpX0QtcHVGUktWYTdISGlUTC16RUF1Zm1mTFlfRTgxV09mcGdWX3JGSENiRkVqdWoyN2FNVDlMQTR6aDNWMWhidUprdnZjcDVVZGlpbDRfMmxOSTE1TGc0Vk5qODZvVEJhVVM3ZWJoVk14SHM2enZuWVR6aXhVV083aDUwWWhXSEFkNGJkdk8xaW5Zb2dYYnBrRGJ4MEtiaTF0blJ3?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-10T06:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Récord Guinness: Dani Román vuela impulsado por una catapulta INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a72b2f4bc54cdb36"
+ },
+ {
+  "titulo": "Acribillan a hombre frente a su domicilio en Santa Catarina",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzV5Y1pjLVR6WHpHTlRBa05lWElWVHNFakJ4WmE5aFk5QWF0cS12MVNYZEl1QjlDSzdwTFlXN2NBMFFtdGdjRDRpWUhybkdRZGJUdjZWbmVmeEZJQjVkbjNRZnlUMTgyWjRIRW5KY1NJbWJWMjl4WFI1SFVrZ2RuTmZvQ3oxeEpLdlE1M2pXRWpYby1BOUFxcXBGUXVUY1RVYy1QMWd1X2w3MmphdVBFV241bERJbWhX?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-10T06:34:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Acribillan a hombre frente a su domicilio en Santa Catarina MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8225caf7536b24a2"
+ },
+ {
+  "titulo": "Proverbial",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjk5QWNHYVc1OHI0WGd6LVhTdWYzY0EwZzFVR3JHTU4tMHY0SmVsT3dZb3ZEUjVpTmdrMjBZRTBpZTdvR2NxOVBjVzIxZzRqTmNLcDg2Rmc0TzNpQl9JTkZzb1VSS0FsWEhyYXFKSlA4U25xczkxTms2R2NEOVdNRzVSSQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-10T06:33:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Proverbial El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7c62e4c3f15c55bb"
+ },
+ {
+  "titulo": "Coparmex Nuevo León pide planeación para el crecimiento urbano de la ciudad",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlFCRWNmc2cxRmgxR2p4T1FBTTRTNmJKeTA1UlZmWWh3VjJhY3Vqd1A5Vkd1cm5hSWNCd2ZhRFEyOG9hZ0dIUU4zQVNuOER1Ul9LWVRjdWpmX3J2cEprQmU2S2xDQXY3WUJ2VVFOeENoRmdmZlhkWTlNRFRHUWRtZ3VBWXZpRlFtTjk5Z01fb2J2dHB3MlJSSmhOeEVuaEFXTWfSAaIBQVVfeXFMUDlMaFg2Xy1UVVN4b0YwNTU1OWV2RUpsTG5RUlJ0TFVfa3E3OXdQVDN6TE9ZaEhuNkJCdmR5eXI4Qko5TnJreG1ZTFRJWmxuMXowM3hrZUp3U3JXbmduR0JWV3ctQWJpMVlieUdJQmxjZUtocmxYclczYl91aXpDcmVEcDc4Y0FydkFYN3dLM3hYd2hJckMwWFZiamRrR2NmTlBn?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-10T06:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Coparmex Nuevo León pide planeación para el crecimiento urbano de la ciudad MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a8a88b45b5ad8bbd"
+ },
+ {
+  "titulo": "Bloqueo en CDMX Hoy: ¿Dónde Está Cerrado por Conductores de Aplicación?",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnNiNEVTQUlTV1FaaTA5cGltR1ZFRk1uSTg2ZGU3Z2plaGVpNUY0REJZbm1uYlFaTm03MjdjQ2NvLVFVOUxlRVNYb2NZRFprdzRsVDZuNm4zZVVXVUVjUkYwNVNGeWNrencwUzVSeFN4elhxUGFnOVFaY0JJTU8tM0ZuMEU0b2tIdnZnMERZMGhwNmhwcjI4RktzWkdDVmg1cmRnaU84Y3Rkb0JRdk1kTGJ0MUhjSmFnb0tWNUdDTnVQOUFISThEdQ?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-10T06:29:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Bloqueo en CDMX Hoy: ¿Dónde Está Cerrado por Conductores de Aplicación? N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "19f673e02a79f0cd"
+ },
+ {
   "titulo": "Incendio consume madera y herramientas en carpintería de Guadalupe",
   "liga": "https://www.posta.com.mx/nuevo-leon/incendio-consume-madera-y-herramientas-en-carpinteria-de-guadalupe/v-vl2277222",
   "medio": "Posta",
@@ -41,6 +468,20 @@
   ],
   "local": false,
   "id": "51379ff884a50cdd"
+ },
+ {
+  "titulo": "Negocian EU, Rusia y Ucrania en Abu Dhabi acuerdo de paz",
+  "liga": "https://www.elnorte.com/negocian-eu-rusia-y-ucrania-en-abu-dhabi-acuerdo-de-paz/ar3311625",
+  "medio": "El Norte",
+  "publicada": "2026-11-10T06:01:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Representantes de EU, Rusia y Ucrania conversan en Abu Dhabi para establecer futuras garantías de seguridad para los países en guerra.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3213a51cf69685fb"
  },
  {
   "titulo": "Nivel de las presas en Nuevo León HOY martes 10 de noviembre del 2026",
@@ -338,6 +779,20 @@
   "id": "879e14d245b8e19b"
  },
  {
+  "titulo": "Aritmética del estancamiento",
+  "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qbTBWdEVjWGRDblFNVE9MdVkwdHB6TDYwM3dzd0tyNnBoVDVObmJGdGNZUFpfSW9kNVZSU1FYOGIzSDBnRl9mNFlYNzlCTXpxc045RmRSaUpwV2RXVC05cThfajUwWElVejZHNndfel9QMHZSR0hsV0lGMVVXa0U?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-10T05:01:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Aritmética del estancamiento El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bb13b1b355bda426"
+ },
+ {
   "titulo": "Debaten legalidad de nueva bancada",
   "liga": "https://www.elnorte.com/debaten-legalidad-de-nueva-bancada/ar3311594",
   "medio": "El Norte",
@@ -408,6 +863,20 @@
   ],
   "local": true,
   "id": "6047ac48422d7bff"
+ },
+ {
+  "titulo": "Se apuran a reconstruir red de seguridad petrolera mundial",
+  "liga": "https://www.elnorte.com/se-apuran-a-reconstruir-red-de-seguridad-petrolera-mundial/ar3311577",
+  "medio": "El Norte",
+  "publicada": "2026-11-10T05:00:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "La guerra de Irán redujo las reservas mundiales de petróleo, desatando una carrera por reponerlas y ampliar su almacenamiento.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "13ad972da4643508"
  },
  {
   "titulo": "Va doble IVA... pero en abonos",
@@ -716,6 +1185,20 @@
   ],
   "local": false,
   "id": "2937c11f5a60c041"
+ },
+ {
+  "titulo": "OXXO lanza canasta básica",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXc5MHRRaGpIejZkdW1CYkVBUS15Zk1mT2l3RFdGX2QwUEV5WVgzb2FuNXVBeE1OVjgwX3M4UTJxSl9oYVp5b19XanBFYmZQaUxlS0Z3ZzhlN1lhclJrYlBwa3dxdW8xWTRxX2JsalpKckJoSW56RlgwTjk0MUpCajRTMVNsT01VQWlWTmpiRQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-10T02:28:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "OXXO lanza canasta básica El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a6c88dc0c754e033"
  },
  {
   "titulo": "Movimiento Ciudadano suma más de 20 fichajes rumbo a elecciones 2027",
@@ -1380,6 +1863,20 @@
   ],
   "local": false,
   "id": "d35f20032aa511fc"
+ },
+ {
+  "titulo": "Policía",
+  "liga": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOckZkdVRZMjdYamw2V0hnT0tCS0lGU3QzTjdWcV8tRHZ3NHlmVkM3VDZHcEhIcHpNV1FIQ0FoVFZCb2tiaS1ydDMzYWlGU3NJQnJSZ0FyUHRhWjRIcU80cldTM1VVcTQxSFNvazNXLXByZjJOOHhEdXhKaHN5NkFGOHk5TExLc2I2Q1hPSFpWVzlrQmFNRm9INExLVUs4ZDNDQ3dMalJ2UjYyMUJoMnJhZEtZc3pQUXZ0NUFoNnlmUnJQT2NxTmtMcjNTX2R5Q0g2czgwUFVLVVlPT3JTelNJOHIwSmhucEJBNGlBYWpzc05RVnVidVFIc2YxSnhWWHhrNVV0V1o2NXBsSUhOTDBXN25LbllNckZwcF9r?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-09T23:17:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T07:44:40-06:00",
+  "resumen": "Policía Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "97a31d89167686c1"
  },
  {
   "titulo": "Diputados avalan Presupuesto 2027 entre reclamos y confrontación",
