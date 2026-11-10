@@ -1,5 +1,406 @@
 [
  {
+  "titulo": "Disparan contra familia y matan a 2 hombres en Celaya",
+  "liga": "https://sinaloa.quadratin.com.mx/disparan-contra-familia-y-matan-a-2-hombres-en-celaya/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-09T23:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Los responsables viajaban en una motocicleta",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9ea73f10de139b6c"
+ },
+ {
+  "titulo": "¡Se abre un encuentro con los libros! Miriam Ramos y Graciela Domínguez inauguran la FIL Culiacán 2026",
+  "liga": "https://reflectores.mx/se-abre-un-encuentro-con-los-libros-miriam-ramos-y-graciela-dominguez-inauguran-la-fil-culiacan-2026/",
+  "medio": "Reflectores",
+  "publicada": "2026-11-09T23:49:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Como anfitriona la alcaldesa destacó que esta feria, que inició en 2022, se ha consolidado como un espacio de encuentro para las familias y de acercamiento a los libros The post ¡Se abre un encuentro con los libros! Miriam Ramos y Graciela Domínguez inauguran la FIL Culiacán 2026",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "12ad950f34577f0b"
+ },
+ {
+  "titulo": "Explotan bats de Naranjeros propinan paliza a Cañeros en el juego pendiente",
+  "liga": "https://lado.mx/noticia/22271471/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-09T23:47:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Naranjeros de Hermosillo vencieron 9-2 a Cañeros de Los Mochis en un juego pendiente de la Liga Mexicana del Pacífico",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "2f599b8dbad622a6"
+ },
+ {
+  "titulo": "Naranjeros castiga con poder a Cañeros y se lleva la serie",
+  "liga": "https://losnoticieristas.com/deportes/2026/11/naranjeros-castiga-con-poder-a-caneros-y-se-lleva-la-serie-1164389/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-09T23:42:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Hermosillo conectó cuadrangulares y respaldó una sólida actuación de Rolando Mora para imponerse 9-2 en el tercer encuentro disputado tras la suspensión por lluvia del pasado domingo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "01302b6c9c16e5cd"
+ },
+ {
+  "titulo": "Votación por internet definirá el futuro del Teleférico de Puebla",
+  "liga": "https://sinaloa.quadratin.com.mx/votacion-por-internet-definira-el-futuro-del-teleferico-de-puebla/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-09T23:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Señalan la obra como “elefante blanco” heredado de gobiernos panistas",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ec60b06adf31149f"
+ },
+ {
+  "titulo": "Abogados esperan que nuevo mando mejore la seguridad en Mazatlán",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkZzUzNXSWdTQThYM2kzOUp5NWRxdVFPVGRTRWN3aEJWc05iMU00bmtYTXR2dEFnWm1rdmkxdDROUUJWTV9YYTFvUlYwMEJ0TjhXekJMWHd2QkQ5RDBIMURxMEJNYlpFanhBNVlkV1BlUUVSemIxdW1ja0laSzkyT2JVTnlNNkZ2dmdBQTVnOW13U2hkY0pBemJ0SUNRNjJDTlBvYS1QUzRLSnEtYjdqY2gxZ1J4SlZnOFR3Vm8zc0h4NE9H?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-09T23:35:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Abogados esperan que nuevo mando mejore la seguridad en Mazatlán www.debate.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "704d22c5759d8266"
+ },
+ {
+  "titulo": "Gobierno refuerza la seguridad en Sinaloa con más presencia de policía y unidades de patrullaje",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd242VFRzNFVrd1J6a3dRNkVscXY5OWplN3RJV2Q3T1JXYWN3YnA2Um9PZUdLUUYyQmxrQjVkTkFBTlA2bDVtdWVQQmJkb1ZmalBYYjJLQkxVVHVrREUxX25GTVVDVXZTVkxTSXQzdXcwazRON1ZOT1VyNVU2TG55NWdqODN3dy1rYzJGaVBDWThIeEhZcHBRVVZqTGdfU21sWTk1cFRmbDl5YTJDM2pxOHNJeV9xSnlLTEpWR1ZON0tCLXZHazZwX1pjUjczUQ?oc=5",
+  "medio": "Cúspide México",
+  "publicada": "2026-11-09T23:35:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Gobierno refuerza la seguridad en Sinaloa con más presencia de policía y unidades de patrullaje Cúspide México",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b4eaf1faf51b42cf"
+ },
+ {
+  "titulo": "¡Sinaloenses se quedan varados en La Paz! Denuncian cancelación de vuelo de Viva Aerobus con destino a Culiacán; llevan dos días sin solución",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/sinaloenses-se-quedan-varados-en-la-paz-denuncian-cancelacion-de-vuelo-de-viva-aerobus-con-destino-a-culiacan-llevan-dos-dias-sin-solucion-1164378/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-09T23:31:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Pasajeros que tenían conexión de La Paz hacia Mazatlán, Sinaloa, también quedaron afectados; denuncian que el avión de Viva Aerobús fue enviado a Monterrey, mientras hay familias que ya gastaron más de 10 mil pesos en hospedaje y otros servicios.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f6d1e466f17e3b4d"
+ },
+ {
+  "titulo": "Cierran 17 módulos del INE en Sinaloa por protesta de trabajadores este lunes",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYmVyTTZRS1pBUUxWWUxtcGNkdlg4Z0xoTE5kR3V3NG9VWWhkeHJheEVnWHQyb2liSnZnR0VMaHlWNmN0RmVwTWM2SmcwMDlkTVp6RWhUNWMxNUdJWEgxY3V0N2s0UzRHWUlmTVdEemFnTmFUNWFfMjA1bGJOQm9FR1ZWZ3NCeFl6NkZpUUFiekctZF9GT2JyLU5HWlJFbDFVUUIxQ3BOUDFCeEN5SG1jUGtoblhYTUFDR3FTUURWbXBLUnlj?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-09T23:31:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Cierran 17 módulos del INE en Sinaloa por protesta de trabajadores este lunes El Sol de México",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "7c7251a4303ca046"
+ },
+ {
+  "titulo": "“Los derechos culturales de la gente permanecen”: Ana Miriam Ramos y Graciela Domínguez inauguran la FIL Culiacán 2026",
+  "liga": "https://cafenegroportal.com/los-derechos-culturales-de-la-gente-permanecen-ana-miriam-ramos-y-graciela-dominguez-inauguran-la-fil-culiacan-2026/",
+  "medio": "Café Negro",
+  "publicada": "2026-11-09T23:29:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Culiacán, Sinaloa.- Con un llamado a fortalecer la lectura y garantizar el acceso a la cultura como un derecho de todas y todos, la presidenta municipal, Ana Miriam Ramos Villarreal y la gobernadora Graciela Domínguez Nava, inauguraron la cuarta edición de la Feria Internacional ",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "b76e3d3e287a3454"
+ },
+ {
+  "titulo": "Trump descarta nuevos bombardeos contra Irán; asegura que la guerra está “militarmente terminada”",
+  "liga": "https://lineadirectaportal.com/internacional/trump-descarta-nuevos-bombardeos-contra-iran-asegura-que-la-guerra-esta-militarmente-terminada-2026-11-09__1736266",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-09T23:26:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "El mandatario republicano aseguró este lunes que existe un “impulso positivo” para poner fin al conflicto",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "cf427401084fad5a"
+ },
+ {
+  "titulo": "CEDH detecta fallas en penales de Sinaloa y prepara diagnóstico sobre sus condiciones",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFNyUmN3ZmtoaUNvX2NoRFMwNWVNMVpHNDRpS1R6UVdmbmF2QjlDQ0ZmenNyWm1rQmtxbGVmRmVYcjFJcDJnUGtLVEljMDVOTUVQQjlnNzk4amgzaEdYcjdrTGtCc3NXRC1YbVFLbXJRX1diNFdjcWp6d2sxMDc0YjhyWVl3ZDdVMG9rZzhQamRyTERXT1pyWXQxNkN2STRUVmJGdjdDeWRPcERRU0FNUE5id2lhTV81TzlzT0FCelFxWGZ3S1lwdW5RcmRCRGs?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-09T23:26:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "CEDH detecta fallas en penales de Sinaloa y prepara diagnóstico sobre sus condiciones El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b55daa9b27bf44de"
+ },
+ {
+  "titulo": "Rompen 2 récords Guinness saltadores BASE con una catapulta humana",
+  "liga": "https://sinaloa.quadratin.com.mx/rompen-2-records-guinness-saltadores-base-con-una-catapulta-humana/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-09T23:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "La hazaña se realizó el 5 de noviembre de 2026",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "65651cbe924945aa"
+ },
+ {
+  "titulo": "Gobernadora Graciela Domínguez se reúne con Coparmex Nacional y escucha inquietudes del sector en Sinaloa",
+  "liga": "https://lado.mx/noticia/22271411/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-09T23:25:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "La gobernadora Graciela Domínguez sostuvo un encuentro con el presidente de Coparmex Nacional, Juan José Sierra Álvarez y sus filiales en Sinaloa",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "ba02009dcc0c3fd9"
+ },
+ {
+  "titulo": "Pierde la vida una persona privada de la libertad en el Centro Penitenciario El Castillo de Mazatlán; investigan posible suicidio",
+  "liga": "https://lado.mx/noticia/22271408/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-09T23:25:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "La Secretaría de Salud Pública de Sinaloa confirmó el fallecimiento de una persona al interior de su celda durante este lunes 9 de noviembre. De manera preliminar, se presume que pudo tratarse de un suicidio",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "dd878ec2849eea0c"
+ },
+ {
+  "titulo": "Guasave albergará la primera Copa de Beisbol 5 y Softbol 2026 para detectar talento",
+  "liga": "https://lado.mx/noticia/22271409/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-09T23:25:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "La competencia se llevará a cabo del 4 al 6 de diciembre en Guasave y servirá para detectar talentos en ambas disciplinas rumbo a próximos torneos nacionales e internacionales",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e1b092dae789dec3"
+ },
+ {
+  "titulo": "Se llamaba Juan Guadalupe el hombre encontrado asesinado en la avenida Federalismo de Culiacán, Sinaloa",
+  "liga": "https://lado.mx/noticia/22271410/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-09T23:25:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "La víctima fue localizada con el rostro cubierto con cinta industrial de color gris y las manos y pies atados con el mismo material",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ad2f528d74098a59"
+ },
+ {
+  "titulo": "La ofensiva de Naranjeros explota y Hermosillo se roba el show en Los Mochis",
+  "liga": "https://lado.mx/noticia/22271387/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-09T23:25:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Naranjeros se queda con la victoria en el partido pendiente en contra de los Cañeros de Los Mochis",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "357b2cd29ff6a20e"
+ },
+ {
+  "titulo": "Hallan muerto a reo dentro de su celda en el penal El Castillo, en Mazatlán",
+  "liga": "https://www.noroeste.com.mx/seguridad/hallan-muerto-a-reo-dentro-de-su-celda-en-el-penal-el-castillo-en-mazatlan-FE27233107",
+  "medio": "Noroeste",
+  "publicada": "2026-11-09T23:22:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Un reo del Centro Penitenciario El Castillo, en Mazatlán, fue encontrado sin vida en el interior de su celda durante este lunes 9 de noviembre, informó la Secretaría de Seguridad Pública del Estado (SSPE). Los primeros reportes de la dependencia presumen que se habría tratado de ",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "1eb6fe2796cc742b"
+ },
+ {
+  "titulo": "Fuerzas Federales Desmantelan Granja de Criptomonedas en Culiacán, Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHlvSDg4SXBnOGExQ1hRQUY4N3VyUVgxNFY5azFaV0E5ZlNlSmwzUUNGYU5wNjkzbVRndGdGV2h0WmhyWE1oLUZqbjRHUnJaeGFjSkVCUWFVaFROR2hqYmdDay1jcGpiWkR4YzJOZGlveVk3V016OUJVUnA3SkxaeEhJUFFlQlF3UjJ4SWstaF9SQko4WVhlWkRPVEZ4Z3BvdDFyaA?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-09T23:12:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Fuerzas Federales Desmantelan Granja de Criptomonedas en Culiacán, Sinaloa N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8d7eeb3ecdbbcdaf"
+ },
+ {
+  "titulo": "Asesinan a Balazos a Expitcher Enrique Quiñones Garzón en Sinaloa | En Punto | VIDEO",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2ZmQm4wTm5VYVRIOWNpcWplWE9JeHBKeDNHdDBQT2JPUmRoYTR2akh0N2c4bHNUNlRBc3dlcHBaanFQLW56TlQ3bm5ERjBUNmMwX1cwOFZhU05HRE42bEpsYkROc3JlLVh2M1dNaTdFTjdpVjZIcUp5aWtTbWFpWllzTnFtZFF5Qkl2Q21pTDA1NXYta3RMYmhydGp1ZENJaFlxUnRidUlSbFJJZm9SNV9EM0RTOEVFaFl0UTdMdE9GTm5NMUVzLU90eXpYWDEzdUNmTjhOblZOQWc?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-09T23:12:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Asesinan a Balazos a Expitcher Enrique Quiñones Garzón en Sinaloa | En Punto | VIDEO N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "94addc14d4efd12d"
+ },
+ {
+  "titulo": "CODESIN y CENEVAL firman alianza Microcredenciales Sinaloa 10+",
+  "liga": "https://punto.mx/2026/11/09/codesin-y-ceneval-firman-alianza-microcredenciales-sinaloa-10/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-09T23:08:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Formalizan CODESIN y CENEVAL alianza Microcredenciales Sinaloa 10+, un acuerdo estratégico para evaluar y certificar competencias laborales La entrada CODESIN y CENEVAL firman alianza Microcredenciales Sinaloa 10+ se publicó primero en Punto MX .",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "306521db4b50e17c"
+ },
+ {
+  "titulo": "Naranjeros exhibe su poder y gana juego pendiente a Cañeros para quedarse con la serie",
+  "liga": "https://lineadirectaportal.com/deportes/naranjeros-exhibe-su-poder-y-gana-juego-pendiente-a-caneros-para-quedarse-con-la-serie-2026-11-09__1736277",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-09T23:06:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "En jornada de lunes 9 de noviembre en Chevron Park, Hermosillo venció 9-2 a Los Mochis y pusieron fin a una serie que se había cancelado por lluvia el 1 de noviembre",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5403ec62265ffb81"
+ },
+ {
+  "titulo": "Deportados de Estados Unidos más de mil tlaxcaltecas en 2025",
+  "liga": "https://sinaloa.quadratin.com.mx/deportados-de-estados-unidos-mas-de-mil-tlaxcaltecas-en-2025/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-09T23:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Son 945 fueron hombres y 146 mujeres",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "37ca14de2d6c51e3"
+ },
+ {
+  "titulo": "Accidente en la construcción de un nuevo hospital de Culiacán deja un lesionado",
+  "liga": "https://lineadirectaportal.com/policiaca/accidente-en-la-construccion-de-un-nuevo-hospital-de-culiacan-deja-un-lesionado-2026-11-09__1736270",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-09T23:01:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Los andamios que sostenían una cimbra colapsaron mientras realizaban trabajos en el segundo piso del inmueble",
+  "temas": [
+   "Accidentes",
+   "Salud",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "03f8d00b8ca2eb8f"
+ },
+ {
+  "titulo": "Al menos 85 municipios de Michoacán contaminan ríos con agua de drenaje",
+  "liga": "https://sinaloa.quadratin.com.mx/al-menos-85-municipios-de-michoacan-contaminan-rios-con-agua-de-drenaje/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-09T22:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Así lo dio a conocer el delegado de la Comisión Nacional del Agua",
+  "temas": [
+   "Gobierno municipal",
+   "Agua"
+  ],
+  "local": true,
+  "id": "20384e529a9d15fa"
+ },
+ {
+  "titulo": "LMP: Naranjeros de Hermosillo sentencia a Cañeros de Los Mochis en el tercero y conquista la serie",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORjdabFMzc1Vpa1I5M1BqQkVKYjhndS0tWXNwZ1puVnlxY3N6aTE2T1gwTzEwZjB0UGl1MFAyM1ZhMnd4d0RqUWRfME40RTJ1MWVYMVYtaW5DUGU1eGdiY2xFdlE4cFZ0SjlhZHgwWENXci13N19EQmpteXBWb2p0YTlWWWtMcUF5UXh5SEtoUHRwSXBhRVVhWG1WQ095UDlrVi1nRUJjdUN5V2t6eDNucFZFUHgtOW9Xc1c0RGJYS0ZOVVdienI5WWNRS0hfTTZReVd2eHRMVUxrS2RoUEpJNldnSFNwUQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-09T22:54:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "LMP: Naranjeros de Hermosillo sentencia a Cañeros de Los Mochis en el tercero y conquista la serie Debate",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "179052589019c606"
+ },
+ {
+  "titulo": "Cae “El Wicho” en Sinaloa; pertenece a la facción de “Los Chapitos” del “CDS”",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVJ2X3JQNkRDTi1fd3QxMERkSFlvZkVWNWdLUnRnWHM4Zk9qZzhPUE84NXNZVjRxZDluZjJHdkp4eW9ZYXNRaUdZaXlGXzN6VGFsWHdLQ2huOWZzRlFpb1lWZEFFUmg4Rl9PNkxYbFNJMjYwbW5IMk1QRkRRamtBQXVNSlN5VDk2emlvZjI1dW9BVjhrN25iNXhULTJyM0xoWFhUMHB0bThNQ3JYMU1hNVVsbU5lNFY0cnZtUnJrVGlsR1hfTXI4?oc=5",
+  "medio": "Reporte Indigo",
+  "publicada": "2026-11-09T22:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Cae “El Wicho” en Sinaloa; pertenece a la facción de “Los Chapitos” del “CDS” Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ddd8aeb7197649c0"
+ },
+ {
   "titulo": "Corre por el Jardín Botánico en Culiacán",
   "liga": "https://www.tusbuenasnoticias.com/noticias/sinaloa/2026/11/09/66803-corre-por-el-jardin-botanico-en-culiacan",
   "medio": "Tus Buenas Noticias",
@@ -14,6 +415,34 @@
   "id": "34f2b82954e10a2f"
  },
  {
+  "titulo": "🔴 Defensa promete no retirar tropas de Sinaloa hasta recuperar la paz; mantiene 22 mil 667 elementos https://mile.io/4izQYs3",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZlE1MUc3X1BteUM0d2hmRGhWd1ZyLW9HNkE0MElPbzV6d2F2QnlzazNXQ215TnNxandHbzVkMW1hb1NpZmJJYXlEOUljVTVNSm1wRVd0UWdHbkdLU001cEtyVjgtUlBKZTVNa2xjcjBQTVowNUNjOGJXZU5uS1R2bk8zX2pJQkRTYzRMZ3R4ZFBVcEh2d3lfMzJZTldaamhJLUxMWTM5QjRubEV4ZmVUQmlONzJicnYwamZEZHBrbVoxaS1KWUF0elZGd3R2Y2Z6a05BdWZXUmxnVW8?oc=5",
+  "medio": "Facebook",
+  "publicada": "2026-11-09T22:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "🔴 Defensa promete no retirar tropas de Sinaloa hasta recuperar la paz; mantiene 22 mil 667 elementos https://mile.io/4izQYs3 Facebook",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3cdb6494206e972a"
+ },
+ {
+  "titulo": "¡Cae ‘El Wicho’, presunto operador de Los Chapitos! Lo investigan por desaparición de 10 mineros en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYV9KdFQ3YW1zUlpzc1dIem41a0ZfSEtrc1hDVVVDb0pieGtxY29XUjU2TnVaVzQxWnN4c2w3S3FQLUk4bVk2anlxLVdtOVlaSlVaMU14SnZGYjgtNkZIR19fVjZHMXdZRzRxZjYtcVdSSmswdW9MQ3lYT1N1aEluSEZYNWZua3NiU1hPdjNCNGM2enhrQWJUeTAxZ3ZDNkctOEd2TmZGOXl3ZXhkYVBFYno0cVBGeGFMcjVQU0RkWkpoU0c0THl2VUcyeklza01JU3hUUjVkc2MxdDQ?oc=5",
+  "medio": "TV Azteca",
+  "publicada": "2026-11-09T22:51:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "¡Cae ‘El Wicho’, presunto operador de Los Chapitos! Lo investigan por desaparición de 10 mineros en Sinaloa TV Azteca",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1a92149fe904a871"
+ },
+ {
   "titulo": "Detienen a ‘El Wicho’ o ‘El Chigüil’, presunto operador de ‘Los Chapitos’, en Concordia",
   "liga": "https://riodoce.mx/2026/11/09/detienen-a-el-wicho-o-el-chiguil-presunto-operador-de-los-chapitos-en-concordia/",
   "medio": "Ríodoce",
@@ -26,6 +455,20 @@
   ],
   "local": true,
   "id": "f66d537bbbee440d"
+ },
+ {
+  "titulo": "Choque entre tres vehículos en Guamúchil deja una persona lesionada y daños materiales",
+  "liga": "https://www.sinaloahoy.com.mx/portal/choque-entre-tres-vehiculos-en-guamuchil-deja-una-persona-lesionada-y-danos-materiales/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-09T22:47:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Choque entre tres vehículos en Guamúchil deja una persona lesionada y daños materiales Triple choque en Guamúchil deja una persona lesionada y una camioneta volcada 🚗 #ojopublico #Guamuchil #Sinaloa Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "3f929bff1a668d9a"
  },
  {
   "titulo": "Fuerte choque entre tres vehículos deja un lesionado y cuantiosos daños materiales en guamúchil",
@@ -54,6 +497,20 @@
   ],
   "local": true,
   "id": "d232af2578593299"
+ },
+ {
+  "titulo": "Guardia Nacional y Ejército capturan a Mauricio “N” en Concordia por desaparición de 10 mineros",
+  "liga": "https://www.sinaloahoy.com.mx/portal/guardia-nacional-y-ejercito-capturan-a-mauricio-n-en-concordia-por-desaparicion-de-10-mineros/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-09T22:44:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Guardia Nacional y Ejército capturan a Mauricio “N” en Concordia por desaparición de 10 mineros Guardia Nacional y Ejército capturan a Mauricio “N” en Concordia por desaparición de 10 mineros 🔴 #ojopublico #Concordia #Sinaloa Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e932c3d4efff28d9"
  },
  {
   "titulo": "Localizan a hombre en avanzado estado de descomposición en una vivienda en El Carrizo, Ahome",
@@ -114,6 +571,34 @@
   "id": "f619fcd4f55dbc8e"
  },
  {
+  "titulo": "Trabajador lesionado en obra del nuevo hospital del IMSS-Bienestar en Culiacán tras colapso de cimbra",
+  "liga": "https://www.sinaloahoy.com.mx/portal/trabajador-lesionado-en-obra-del-nuevo-hospital-del-imss-bienestar-en-culiacan-tras-colapso-de-cimbra/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-09T22:35:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Trabajador lesionado en obra del nuevo hospital del IMSS-Bienestar en Culiacán tras colapso de cimbra Colapsa cimbra en obra del IMSS-Bienestar y deja a un trabajador lesionado en Culiacán 🚧 ⚕️ #interesciudadano #Culiacán #Sinaloa Sinaloahoy - Noticias de Sinaloa y el mundo Sinal",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "1ffa58ccb5afefa3"
+ },
+ {
+  "titulo": "Graciela Domínguez anuncia 900 millones de pesos para policías y vigilancia en Sinaloa",
+  "liga": "https://www.sinaloahoy.com.mx/portal/graciela-dominguez-anuncia-900-millones-de-pesos-para-policias-y-vigilancia-en-sinaloa/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-09T22:35:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Graciela Domínguez anuncia 900 millones de pesos para policías y vigilancia en Sinaloa Sinaloa recibirá 900 millones para policías y vigilancia 🚓💰 #ojopublico #Sinaloa #Mazatlán Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a905fc8668f64b22"
+ },
+ {
   "titulo": "Confirman DEA y García Harfuch que se reunió con Terry Cole en la Cdmx",
   "liga": "https://riodoce.mx/2026/11/09/confirman-dea-y-garcia-harfuch-que-se-reunio-con-terry-cole-en-la-cdmx/",
   "medio": "Ríodoce",
@@ -140,6 +625,34 @@
   ],
   "local": true,
   "id": "312d65c964e03ff6"
+ },
+ {
+  "titulo": "Capturan a Fernando Omar Farías Chávez, ‘el Prangana’, presunto jefe del CJNG en Uruapan",
+  "liga": "https://www.sinaloahoy.com.mx/portal/capturan-a-fernando-omar-farias-chavez-el-prangana-presunto-jefe-del-cjng-en-uruapan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-09T22:33:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Capturan a Fernando Omar Farías Chávez, ‘el Prangana’, presunto jefe del CJNG en Uruapan Capturan a ‘el Prangana’ en Uruapan durante operativo contra ‘R2’ 🚔 Fiscalía y fuentes de seguridad lo ubican en el CJNG #ojopublico Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f610f597862652cb"
+ },
+ {
+  "titulo": "Coparmex plantea plan de rescate para Sinaloa: IVA al 8%, rebaja de. 50% al ISR y más seguridad",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUV9QaUV4T0p1clN2UkJTTG9uUV9RLVJHT3F4ak4tWmZTZTdLMnc3QXRhcWgtZVd6MWtpTEZ4b2RHVUpXRE5Vb0VtbFhNSHRKY0h2MUdvVENiZV80ZkMtdGJmVUNtaHNrcWJ6cDd0MUZzbHY0NjBtNFVZdVU3RmxMUkhrV1I3a25SWm9kd2xhQzc5SExFMjAxUWp2V1VqRmFyT0xGZ3U2SjBTdzIxeFAzSVFUZjdyTDTSAbwBQVVfeXFMUHV2YjI3a3lFMy1WRlU2M3hfNGsxOGFpcDBBbnRYSFZ2X1FYbW1UYkdTYUY2UWZiRWF1YzNReXZlcld4UnozU1NLRWFHYkh2ZnBFNXdweENqM3RoRDJTQ1JHVFNKZ2Q0ZzlNTnpoMlU2b2NKT3BMSVRWRUhqTXc2dHNFQVZ1cWVQWEdCNmJSaEFCZTRZaFFqXzhUNVd0c19Pa1FfX1labjFTZFlfRUIyN2NUSS1Sd29ZX0ZPTHk?oc=5",
+  "medio": "Excélsior",
+  "publicada": "2026-11-09T22:32:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Coparmex plantea plan de rescate para Sinaloa: IVA al 8%, rebaja de. 50% al ISR y más seguridad Excélsior",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "022e54c50bccaa5c"
  },
  {
   "titulo": "Sinaloa exige seguridad, empleo y una estrategia urgente de recuperación económica: Coparmex",
@@ -240,6 +753,21 @@
   "id": "f8b3ce384d549a51"
  },
  {
+  "titulo": "Trabajador cae desde 14 metros en obra del nuevo hospital del IMSS-Bienestar en Culiacán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/trabajador-cae-desde-14-metros-en-obra-del-nuevo-hospital-del-imss-bienestar-en-culiacan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-09T22:25:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "Trabajador cae desde 14 metros en obra del nuevo hospital del IMSS-Bienestar en Culiacán Trabajador cae desde 14 metros en obra del IMSS-Bienestar en Culiacán 🚑 #interesciudadano #Culiacán #Sinaloa Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Salud",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "040798fce7c7272f"
+ },
+ {
   "titulo": "Identifican a trabajador lesionado en obra del nuevo hospital del IMSS en Culiacán",
   "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEdDVVZFTVQ5aEpZclF6cUZJVTN6TmlZTnVHM2M4bWQtekg4ektjWi0wTU9RMHFUa2tUZ1pmYnFGOThDM0otQW8tT1BEdnF4WFpjWlBvMV9zSnlCNXVKZGR5MjBmSFZPWVgxWVliaXl4TlV6T2ZsdUVKSWpLUzVfVnBkWFhIVHZWS3Nrc0J6aFFtc3p2a3hBUXNVaEVYbXFtV3I1a1J0TU9IQTltZ3ZHai03cFN5REJxOXRPamhFak5nYndTTWFONTljNXhfYTg4eko0NlRRWjlhSFRfM1E?oc=5",
   "medio": "El Debate",
@@ -268,6 +796,21 @@
   ],
   "local": true,
   "id": "a3ae2f4dec83ee4a"
+ },
+ {
+  "titulo": "Un trabajador resultó lesionado tras el colapso de cimbra en nuevo hospital en la carretera a Imala",
+  "liga": "https://riodoce.mx/2026/11/09/un-trabajador-resulto-lesionado-tras-el-colapso-de-cimbra-en-nuevo-hospital-en-la-carretera-a-imala/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-09T22:20:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "",
+  "temas": [
+   "Salud",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "db58b5fb5b377375"
  },
  {
   "titulo": "Diputados aprueban en lo general Presupuesto 2027: recortan al INE 6 mmdp",
@@ -561,6 +1104,21 @@
   "id": "f20d87f15d466ed6"
  },
  {
+  "titulo": "Trabajador lesionado por caída de cimbra en nuevo hospital del IMSS-Bienestar",
+  "liga": "https://www.luznoticias.mx/2026-11-09/policiaca/trabajador-lesionado-por-caida-de-cimbra-en-nuevo-hospital-del-imss-bienestar/314278",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-09T21:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "",
+  "temas": [
+   "Salud",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "edc43a6d47242b8e"
+ },
+ {
   "titulo": "¡Después de 52 años de espera! Inician pavimentación del callejón José María Martínez en la colonia Klein de Mazatlán",
   "liga": "https://losnoticieristas.com/sinaloa/2026/11/despues-de-52-anos-de-espera-inician-pavimentacion-del-callejon-jose-maria-martinez-en-la-colonia-klein-de-mazatlan-1164329/",
   "medio": "Los Noticieristas",
@@ -648,6 +1206,20 @@
   ],
   "local": true,
   "id": "248d9b31ecd76021"
+ },
+ {
+  "titulo": "Graciela Domínguez se reúne con la dirigencia nacional y estatal de Coparmex",
+  "liga": "https://www.luznoticias.mx/2026-11-09/sinaloa/graciela-dominguez-se-reune-con-la-dirigencia-nacional-y-estatal-de-coparmex-/314277",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-09T21:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1d0a36f8a8241c63"
  },
  {
   "titulo": "Choix celebra torneo de pesca en la presa Huites; hubo 13 embarcaciones y cerca de 50 pescadores",
@@ -1220,6 +1792,20 @@
   "id": "de347090222731c9"
  },
  {
+  "titulo": "La Feria del Libro de Culiacán es un espacio vital para la imaginación y el desarrollo de nuestra niñez: Graciela Domínguez",
+  "liga": "https://www.luznoticias.mx/2026-11-09/sinaloa/la-feria-del-libro-de-culiacan-es-un-espacio-vital-para-la-imaginacion-y-el-desarrollo-de-nuestra-ninez-graciela-dominguez-/314273",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-09T20:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "6b0e7567330c2298"
+ },
+ {
   "titulo": "Adulto mayor es arrollado cuando circulaba en su bicicleta en Aguaruto",
   "liga": "https://reflectores.mx/adulto-mayor-es-arrollado-cuando-circulaba-en-su-bicicleta-en-aguaruto/",
   "medio": "Reflectores",
@@ -1306,6 +1892,20 @@
   ],
   "local": true,
   "id": "794d1de24734a9fc"
+ },
+ {
+  "titulo": "Kevin McGonigle y Sal Stewart son elegidos Novatos del Año en la Liga Americana y Nacional",
+  "liga": "https://www.luznoticias.mx/2026-11-09/deportes/kevin-mcgonigle-y-sal-stewart-son-elegidos-novatos-del-ano-en-la-liga-americana-y-nacional/314274",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-09T20:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T23:55:37-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "6cd21e80a720b0d2"
  },
  {
   "titulo": "Graciela Domínguez asegura que se revisan peticiones de transportistas tras manifestación en Culiacán, Sinaloa",
