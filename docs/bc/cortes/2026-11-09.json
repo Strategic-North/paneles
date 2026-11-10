@@ -1,5 +1,719 @@
 [
  {
+  "titulo": "Cierran módulos del INE en BC por paro de trabajadores, piden aumento salarial del 100%",
+  "liga": "https://puntonorte.info/2026/11/09/cierran-modulos-del-ine-en-bc-por-paro-de-trabajadores-piden-aumento-salarial-del-100/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-09T19:35:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Mexicali.- En protesta para exigir un aumento salarial del cien por ciento, más de 200 trabajadores del Instituto Nacional Electoral (INE) en Baja California hicieron un paro de labores en los módulos de credencialización. Desde la mañana de este lunes 9 de noviembre, cientos de ",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "c27ab53e1c1e6756"
+ },
+ {
+  "titulo": "Guanajuato organiza caravana para migrantes que regresan de Texas",
+  "liga": "https://elcongresista.mx/politica/guanajuato/guanajuato-caravana-migrantes-regreso-texas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:33:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Guanajuato organiza una caravana con 600 migrantes desde Texas, con apoyo y asesoría para su regreso a México.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "af3b6837ed8fd12f"
+ },
+ {
+  "titulo": "Socavón en Xonotipan provoca restricción de circulación en carretera",
+  "liga": "https://elcongresista.mx/politica/puebla/socavon-xonotipan-restriccion-circulacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:32:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Un socavón en Xonotipan pone en riesgo viviendas y restringe la circulación en la carretera Tlacotepec-Azumbilla.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4d6f2e4c1b435418"
+ },
+ {
+  "titulo": "Localizaron a Vicente Martínez Islas",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HeE9nTE8yWHhzZmxwNXhIcDNLd1Y4QVdIQ2toZkY5b0VlbXZRT2szYXZRampxQmRXSllYZ1RoUGp2bVNTaXlyTW54WFlLYWtQSWozVFg2REV4ZFk?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-09T19:29:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Localizaron a Vicente Martínez Islas Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3173720ebb488546"
+ },
+ {
+  "titulo": "Comunidades del Istmo rechazan represa en río Los Perros por riesgos ambientales",
+  "liga": "https://elcongresista.mx/politica/oaxaca/comunidades-istmo-rechazan-represa-rio-los-perros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:27:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Comunidades en Oaxaca rechazan la construcción de una represa en el río Los Perros, preocupadas por riesgos ambientales y agrícolas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "495e2099ecefcdb1"
+ },
+ {
+  "titulo": "Asesinan al hijo de la presidenta del DIF en San Juan Cacahuatepec",
+  "liga": "https://elcongresista.mx/politica/oaxaca/asesinato-hijo-presidenta-dif-san-juan-cacahuatepec",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:26:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Asesinan al hijo de la presidenta del DIF de San Juan Cacahuatepec, Oaxaca, en un ataque armado que dejó pánico entre los habitantes.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c5f1719ac7aafabd"
+ },
+ {
+  "titulo": "DEA y García Harfuch refuerzan alianza contra el narcotráfico",
+  "liga": "https://www.uniradioinforma.com/gobierno/dea-garcia-harfuch-refuerzan-alianza-narcotrafico-n913434",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T19:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Ambos países acordaron fortalecer el intercambio de información e investigaciones.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "2573c5f55a91a08f"
+ },
+ {
+  "titulo": "Juez obliga a alcalde de Nueva York a informar a ICE sobre albergue",
+  "liga": "https://elcongresista.mx/justicia/juez-orden-alcalde-nueva-york-informar-ice",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:22:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Un juez ordena al alcalde de Nueva York informar a ICE sobre residentes de un albergue, afectando las políticas de inmigración en la ciudad.",
+  "temas": [
+   "Migración",
+   "Gobierno municipal",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "41639128aba8608b"
+ },
+ {
+  "titulo": "Colombia Canta y Encanta estrena \"Una Navidad en Macondo\" con 120 artistas",
+  "liga": "https://elcongresista.mx/cultura/navidad-en-macondo-medellin",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:21:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Colombia Canta y Encanta estrena \"Una Navidad en Macondo\" en Medellín, una obra que reúne 120 artistas y celebra la cultura colombiana.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "ede669cf94963f5a"
+ },
+ {
+  "titulo": "Tigres hace oferta a Guillermo Barros Schelotto para ser DT del equipo",
+  "liga": "https://elcongresista.mx/politica/nacional/tigres-oferta-barros-schelotto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:20:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Tigres UANL ha hecho una oferta a Guillermo Barros Schelotto para ser su nuevo director técnico tras la salida de Guido Pizarro.",
+  "temas": [
+   "Educación",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cb2b54586a856eaa"
+ },
+ {
+  "titulo": "Registra BC 27 casos de dengue en el 2026: Secretaría de Salud",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUdsN2JEb1YzNDJaM29ZaGc1Wjc5UHo5cm12M3RXSU9NM2VESHdjWU9Jc3RWeTVrNnNiZHRqZl93bjFlWlE2Um9idGpxWDRkNVkzdzJxdkJWR1JjSFhOUEtyT0U5SDBjelBCWnNrN3ZFbjFkNWVnd2FwaWFEWWtsMl9oQ2RsdXNqRkV2dktTRU5MQ0NldU84ZWdlTGhZZW1ha1hPaFlueWVSYU1TcEZmaXZB?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T19:20:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Registra BC 27 casos de dengue en el 2026: Secretaría de Salud AFN",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": false,
+  "id": "d5ea1217a91501ee"
+ },
+ {
+  "titulo": "PJF: siguen protestas en BC",
+  "liga": "https://zetatijuana.com/2026/11/pjf-siguen-protestas-en-bc/?utm_source=rss&utm_medium=rss&utm_campaign=pjf-siguen-protestas-en-bc",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T19:17:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Luego de que el viernes 6 de noviembre el personal del Poder Judicial de la Federación se fuera a paro laboral debido a un esquema de evaluaciones que consideran irregular, este lunes 9 las protestas continúan en Mexicali.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "360d1ba9558e9e50"
+ },
+ {
+  "titulo": "Refuerzan protección de niñas y adolescentes ante embarazos infantiles",
+  "liga": "https://www.uniradioinforma.com/sociedad/refuerzan-proteccion-ninas-adolescentes-embarazos-infantiles-n913429",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T19:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Sipinna fortalece la Ruta NAME en el estado.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5e3427ab7fa23640"
+ },
+ {
+  "titulo": "Actúa Gobierno de Ensenada contra grandes deudores del impuesto predial; embarga dos predios",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjY4Z0xndE5GZERJQTdKMFBfdkxKRmVlQ0JoR2hPdmZkZ2pMV1FqSmNyOElmMURNNkZKSkNqb3dKdjl2cE56aUVGOHc5S3RXOEstelQ2RG1TRndkWkdGd1MxZUN4S3dHNlVFZDJHY3JMMGN5cE1MMktLcXdzOXh2M3NMQ0tYTXpqcEdTVmJsOGlhM0lQTWd0ZnpPb2dYdUdRNXNqU2xLVTdZSnZ0ZVZ2b1YyMFI5cnZvOEdqR1pTNEozYm160gHKAUFVX3lxTFBERHBpeEZWLUx2cWxhMjU2bDg4QXp4elN5YU83RWxNREE4NENDVUNNQkROd3lCU1haamcxcTFOajE0eGpmU1lyd0Z3TWJ3Wmx3aGhhX1VmVkJCTVVFX2ZUVVo2MFB3WHB4QzY0ZTlqYWxuNWVCNzdvR2lDMnhCakNPVnoybFd1UmJDajRpbWZQM25lOEIyUDcxQ2JpUDd1aU9sQkh3ZG8wMi02VllHLTVWYllTc21uWndIRkVBZ1A0SmdleTZqOURiMFE?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T19:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Actúa Gobierno de Ensenada contra grandes deudores del impuesto predial; embarga dos predios Uniradio Informa",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "497aab84b2683681"
+ },
+ {
+  "titulo": "Monreal cuestiona escape del alcalde de Río Bravo",
+  "liga": "https://www.uniradioinforma.com/gobierno/monreal-cuestiona-escape-alcalde-rio-bravo-n913425",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T19:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El gobernador de Zacatecas reprochó la falta de coordinación con San Luis Potosí.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "348b56202da5eb9f"
+ },
+ {
+  "titulo": "Casi 12 mil personas han recibido servicios de salud mental mediante la Ley CARE en California",
+  "liga": "https://www.uniradioinforma.com/gobierno/casi-12-mil-personas-han-recibido-servicios-salud-mental-mediante-ley-care-california-n913422",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T19:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El programa ha conectado a 11 mil 912 residentes con proveedores de atención y registra más de 6 mil 500 solicitudes en 56 condados; autoridades destacan avances en vivienda y acceso a tratamientos.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "282657a07d134d44"
+ },
+ {
+  "titulo": "INE y trabajadores acuerdan aumento salarial; módulos reabrirán con normalidad este martes",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1E5b0hIZk5udjJVMS1HQzA2aThVdDdobzBZTFJmc3hYWGNMRTc0a3l1eTNaU2ZRVXR6Y1J3MzZ6Wl9pZ2RJUnJCc0hfcWRLdTExaGFERlpmYU4zMWN6SXJoTU1YMmJuYUxvVnVOMTdjMlEzMXBmQU1NUVdtazVCV3k1TUNnWFdXMnJLUHBEaXlNSDlhbFZrMXhzcDhnMXMwdnI5VEt4TUF6cTZpY1ZwTHFUcHhVSFA2SEtXNWZyWTJnQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T19:10:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "INE y trabajadores acuerdan aumento salarial; módulos reabrirán con normalidad este martes Baja News",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "0c2f726a2700422f"
+ },
+ {
+  "titulo": "Identifican a otros cuatro mineros de Pasta de Conchos fallecidos en explosión de 2006; suman 36",
+  "liga": "https://jornadabc.com.mx/region/identifican-a-otros-cuatro-mineros-de-pasta-de-conchos-fallecidos-en-explosion-de-2006-suman-36/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-09T19:07:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "La confirmación llega más de veinte años después de la explosión en la mina de carbón, ubicada en la Región Carbonífera de Coahuila La entrada Identifican a otros cuatro mineros de Pasta de Conchos fallecidos en explosión de 2006; suman 36 se publicó primero en La Jornada Baja Ca",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e4bb290c563b0107"
+ },
+ {
+  "titulo": "Alcalde de Nogales coordina acciones con autoridades regionales",
+  "liga": "https://elcongresista.mx/politica/sonora/alcalde-nogales-reunion-autoridades-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:06:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El alcalde de Nogales se reunió con autoridades regionales para coordinar acciones prioritarias el 5 de noviembre de 2026.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9ba0a85ee31ec2e6"
+ },
+ {
+  "titulo": "Fortalece Durazo seguridad en Sonora con 48 patrullas y 98 policías",
+  "liga": "https://elcongresista.mx/politica/sonora/durazo-seguridad-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:05:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El gobernador Alfonso Durazo fortalece la seguridad en Sonora con nueva flota de patrullas y 98 nuevos policías para el estado.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "07cd0ef6d030d05f"
+ },
+ {
+  "titulo": "Paro Nacional de Trabajadores del INE Paraliza Módulos en Tijuana, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUXNZNjFGUlFvZXdxZnYwQ0xSTk05UjlnZlFvalFQeFZtVmZVa0UwUGQ0bkZLcEp2ZHRnQ2dXTi1nOC1abFJpT1NrNTcwQ3EtdVpQMXZYREpqek43aHkyOV9VM0VERGxWWVJidnVrdTZ6MlJScFllcExZUURKWi1NUmpJcFFwSUJjUVBOLWtWeGktdGVTdk5STVo5SGphd3hwUEtEOHhKSXRjbWlmRW5Ic2c0bnFSZEJ6cnlWblJoOWNrcS1KbGFFR0JLYw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-09T19:04:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Paro Nacional de Trabajadores del INE Paraliza Módulos en Tijuana, Baja California N+",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "f0bec068ff1c242f"
+ },
+ {
+  "titulo": "Conflicto entre senadoras de Tamaulipas revela rivalidad por candidatura",
+  "liga": "https://elcongresista.mx/tamaulipas/conflicto-senadoras-tamaulipas-candidatura",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:03:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El enfrentamiento entre senadoras de Tamaulipas revela rivalidades por la candidatura al gobierno estatal en 2028.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "3e437c7659d26d48"
+ },
+ {
+  "titulo": "Viudas de policías en Rosarito piden pensiones y servicios médicos",
+  "liga": "https://elcongresista.mx/politica/baja-california/viudas-policias-rosarito-pensiones-servicios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:01:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Viudas de policías en Rosarito exigen pensiones y atención médica tras 15 años de lucha sin respuestas del gobierno municipal.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "44dbd3463fa38159"
+ },
+ {
+  "titulo": "García Harfuch y DEA revisan prioridades de extradición y delitos",
+  "liga": "https://elcongresista.mx/seguridad/garcia-harfuch-reunion-dea-extradiciones-delitos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T19:00:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "García Harfuch y la DEA se reúnen para discutir la colaboración en extradiciones y cómo enfrentar el narcotráfico.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "081d077a75811793"
+ },
+ {
+  "titulo": "Trump asegura que la guerra con Irán está cerca de terminar, pero mantiene abierta la opción de atacar",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1lscWlkM1FrdVM0ejBkbVNvYjBxbHk4aTVONFVQQ1N2ay1zcEN2ZHpJZWozR3FWTmlDZ0x2aFBQRnFpTEhaZWFnY2g5bTIzel9ZUkxuZkE2WXQwMkgzcEp1QlV4aHVLbzRNQmVPZUVkajFIaEU4eXFkaXREc25ZSlYwaHNDbERMY2dkaGc3VnhUWU8xSEhzOTYxOWpKSnA5RnNmMFp5UThaWWZUNU5oUDR0YUFQWHRiamtwcXJveW1wRjM0Q1pZV1AyNHAyOThyYVhHV29NeVk?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T18:59:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Trump asegura que la guerra con Irán está cerca de terminar, pero mantiene abierta la opción de atacar Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dd1dde94c8e1d199"
+ },
+ {
+  "titulo": "Busca a sus familiares en Ensenada, es de Isla de Cedros",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOXRoNnd5TGNMUzlHVFlHbEw5clY2WC1QcjhRT0V4M3RuMlBLX2UxazBOR0t3dld5NkZvOHcybnRpNWk2NkR0WDduU1duWGVYTHk5MTV2RkJyTXM?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-09T18:59:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Busca a sus familiares en Ensenada, es de Isla de Cedros Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5ba671aeaa5708b7"
+ },
+ {
+  "titulo": "Esta es la historia de Ray, el niño de 10 años que vivía en una casa de campaña y encontró a su padre sin vida",
+  "liga": "https://puntonorte.info/2026/11/09/esta-es-la-historia-de-ray-el-nino-de-10-anos-que-vivia-en-una-casa-de-campana-y-encontro-a-su-padre-sin-vida/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-09T18:58:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Tecate.- Ray es un niño de 10 años que vivía con su padre, Hipólito, en una casa de campaña instalada en un terreno baldío en Tecate, entre dos grandes rocas, porque no tenían una casa donde vivir desde que llegaron a esta ciudad, hace poco más de un mes. El domingo 8 de noviembr",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "fa094bd713966dda"
+ },
+ {
+  "titulo": "Nunca Jamás prepara un show especial en Guadalajara y alista nuevo material para el 2027",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDNEeTZmbEh4UmtYOGMzRmN0OGc3NzNfM2NOVU5YRlBGaFJxRG92Um9hR3hrQmhPb2QzTjVZV1FjRmdBYVJJbkZwbUhsaGRZUWdFZEFINlZVcWJrYWw2UG1rM0ZyZFU0VzNnSUZOb3JWVGNmRjlpdFBiOVBWNjRiN0VTbURabE83WHdBRVd2aHpsR1hxQlRN0gGXAUFVX3lxTFA5MnlTY084dFBrVXJaTm9IZi1ESl92V1NvSUxYWW43dFhuSGZLRTk1dHMtV2IwSXY4SlI2WE1IV1BoeWszR3p6bGdOS2ZNei1Wd0doS3hJeS1sMEdXaWVfcTZTN1JBc3VPd2pKbmNxU2t3eTEweWJ0Q1haUk14aUVDRHhhazBrdk96a3ZRQVR4ZEdOWVBFb2M?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-09T18:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Nunca Jamás prepara un show especial en Guadalajara y alista nuevo material para el 2027 MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e9e4feaeacf39229"
+ },
+ {
+  "titulo": "Analí, primer lugar estatal en concurso de fotografía de la Marina",
+  "liga": "https://www.uniradioinforma.com/sociedad/anali-primer-lugar-estatal-concurso-fotografia-marina-n913420",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T18:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Su imagen retrató la belleza natural de Rosario Tesopaco.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0a1efd0f1949a60d"
+ },
+ {
+  "titulo": "Inauguran rehabilitación de la calle 44 Norte en Puebla",
+  "liga": "https://elcongresista.mx/politica/puebla/rehabilitacion-calle-44-norte-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:52:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Puebla inaugura rehabilitación de la calle 44 Norte, beneficiando a más de 6 mil 300 habitantes con mejoras viales y peatonales.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6dcb8e78271912cf"
+ },
+ {
+  "titulo": "Paro de trabajadores del INE cierra hasta 95% de módulos en México",
+  "liga": "https://elcongresista.mx/politica/nacional/paro-trabajadores-ine-modulos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:51:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Un paro de trabajadores del INE afecta hasta 95% de módulos en México, exigiendo mejoras salariales y nuevos equipos.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c5b773a0c281bd7b"
+ },
+ {
+  "titulo": "Adulto mayor abate a mujer en intento de despojo de su casa en Tijuana",
+  "liga": "https://elcongresista.mx/politica/baja-california/adulto-mayor-abate-mujer-intento-despojo-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:50:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Un adulto mayor abate a una mujer durante un intento de despojo en Tijuana, reavivando el debate sobre el robo de propiedades en México.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "00196a3d8e58f4a8"
+ },
+ {
+  "titulo": "Muere Donnie Dunagan, la voz del pequeño Bambi",
+  "liga": "https://www.uniradioinforma.com/fama/muere-donnie-dunagan-voz-pequeno-bambi-n913418",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T18:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El actor también participó en un clásico del terror de Hollywood.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e01376d32dc516dd"
+ },
+ {
+  "titulo": "Paro nacional del INE involucra a cinco mil trabajadores en 20 estados",
+  "liga": "https://elcongresista.mx/politica/nacional/paro-nacional-ine-mejores-salarios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:49:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Cinco mil trabajadores del INE realizan un paro nacional en 20 estados exigiendo mejoras salariales y laborales.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5757d94a0d3c6546"
+ },
+ {
+  "titulo": "INREVIS regularizará 200 viviendas en San Luis Potosí y alerta sobre fraudes",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/inrevis-regulariza-viviendas-slp-fraudes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:48:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El INREVIS de San Luis Potosí regularizará más de 200 viviendas y alerta sobre posibles fraudes en trámites de propiedad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c5b66fe8a362c10a"
+ },
+ {
+  "titulo": "García Harfuch se reúne con el titular de la DEA para revisar extradiciones y objetivos prioritarios",
+  "liga": "https://zetatijuana.com/2026/11/garcia-harfuch-se-reune-con-el-titular-de-la-dea-para-revisar-extradiciones-y-objetivos-prioritarios/?utm_source=rss&utm_medium=rss&utm_campaign=garcia-harfuch-se-reune-con-el-titular-de-la-dea-para-revisar-extradiciones-y-objetivos-prioritarios",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-09T18:48:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "La reunión incluyó solicitudes de colaboración pendientes e investigaciones financieras, tras la detención de \"R2\" en Zapopan, Jalisco",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fa06a4441adf2e3e"
+ },
+ {
+  "titulo": "ASIPONA niega daños al arrecife La Gallega por obras en Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/asipona-veracruz-rechaza-danos-arrecife-la-gallega",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:46:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "ASIPONA niega afectaciones al arrecife La Gallega en Veracruz debido a obras de ampliación portuaria, argumentando distancias adecuadas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c2d82f5ebfe9451d"
+ },
+ {
+  "titulo": "Avanza la justicia oral civil y familiar en Baja California con más opciones para resolver conflictos: PJBC",
+  "liga": "https://www.uniradioinforma.com/gobierno/avanza-justicia-oral-civil-familiar-baja-california-mas-opciones-resolver-conflictos-pjbc-n913200",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T18:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El modelo de Justicia Oral Civil y Familiar se ha extendido a tres sedes de Baja California; en Playas de Rosarito registró 962 asuntos y más de 3 mil 200 promociones entre marzo y septiembre de 2026.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ad3355744e5f0565"
+ },
+ {
+  "titulo": "Rubén García Jr. hace historia en NASCAR México",
+  "liga": "https://www.uniradioinforma.com/deportes/ruben-garcia-jr-hace-historia-nascar-mexico-n913413",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T18:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Conquista su sexto campeonato.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d65075199b16ea2d"
+ },
+ {
+  "titulo": "Asesinato en Playas de Tijuana reaviva preocupación por la inseguridad en la zona",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDdIQ0U1cG84MlhLd2htS21mdmlRZGdYZXRwamlpeXZ3bFh6X3RtaDd4MXhDLWlCYkpuNXhrU1VrSTVKeW5PdGwxemdxazlEY3VfdDRvTFJfa2pzWEptUkxDZVFRSThaSWtSMXNRa1dxSEg3R0l2ek81cEFheWxtQVJ5Sm5PZW8yV0MwcmZydEhHQS1nYzhTSzBJQ0Rscm93Y1p6WGp2Y2ROUFpONDdUXzRrMkdYV25P?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T18:38:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Asesinato en Playas de Tijuana reaviva preocupación por la inseguridad en la zona Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "db46307278f04477"
+ },
+ {
+  "titulo": "Recibe Gobierno de Ensenada a madres buscadoras que participan en la Séptima Brigada de Búsqueda de Personas Desaparecidas",
+  "liga": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeFhIazBxM29rTG1KSTZDa25DUUdxRTdPdDNzS1JqVldTQmNrNk1lcklkNm5xVTBNMGRfRnhGdTBEOGZ4MDBadk5FNi1fQUVZRjZrYmxhNHZOUk1yX3k0eFAtYnlhWUUzaW5USUZkQy1xUE9fLVpCU3lOWEtyckhHWXVFZG85RTNuOFJ4UGZlaEs1eE1STmlNNlNpZV9tU3NmMFk5RERXM0VLUmpmdXJDMThfMDA1YTVWSElFWTQ4ZThCVDNOMWVZVXViWDFRczJQWmY2ZlptbUR5bGpzWDZ3ZVFtOHFhVVdqVDBFdkpJNmFUcVA3Zmp5c1h0a0ZsN0dlZXc?oc=5",
+  "medio": "www.enlineabc.com.mx",
+  "publicada": "2026-11-09T18:25:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Recibe Gobierno de Ensenada a madres buscadoras que participan en la Séptima Brigada de Búsqueda de Personas Desaparecidas www.enlineabc.com.mx",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "82a5ebc2aa89ecc6"
+ },
+ {
+  "titulo": "Sheinbaum exige reducir salarios a consejeros del INE",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-reduce-salarios-consejeros-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:20:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Claudia Sheinbaum exige a consejeros del INE bajar salarios que superan los 260 mil pesos mensuales en medio de protestas laborales.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "03a700b726d8008b"
+ },
+ {
+  "titulo": "Venezolano causa choque en avenida Juárez; víctimas exigen justicia",
+  "liga": "https://elcongresista.mx/justicia/choque-avenida-juarez-justicia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:20:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Un choque en la avenida Juárez, provocado por un venezolano, dejó heridos y exigencias de justicia de las víctimas.",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ccad2d1e0fa8afa0"
+ },
+ {
+  "titulo": "Gobernador de QRoo promueve capacitación policial tras feminicidio",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/capacitacion-policial-feminicidio-chetumal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:18:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Autoridades de Quintana Roo refuerzan la capacitación policial tras un feminicidio en Chetumal para prevenir la violencia de género.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6ccfbc96a1d7a5ca"
+ },
+ {
+  "titulo": "Imputan a Luis Alberto \"N\" por maltrato animal en Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/imputan-luis-alberto-maltrato-animal-veracruz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:17:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Luis Alberto “N” es imputado y encarcelado por maltrato al perro \"Tuchi\" en Veracruz, quien fue rescatado con serias lesiones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "36ef6b0836248275"
+ },
+ {
+  "titulo": "Podría llover el fin de semana en Sonora",
+  "liga": "https://www.uniradioinforma.com/sociedad/podria-llover-fin-semana-sonora-n913408",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T18:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Protección Civil mantiene vigilancia meteorológica.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "5dcbb9dd96c367d2"
+ },
+ {
+  "titulo": "Alcalde de Río Bravo detalla su fuga tras secuestro en Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/alcalde-rio-bravo-secuestro-fuga",
+  "medio": "El Congresista",
+  "publicada": "2026-11-09T18:16:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El alcalde de Río Bravo narra su secuestro y escape tras recorrer 50 kilómetros a pie en Tamaulipas.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "c54514dd5b7c4fea"
+ },
+ {
+  "titulo": "Sheinbaum admite que AMLO respaldó a Taddei para llegar al INE, pero ahora la acusa de traicionar al pueblo",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVmVBNnZtSDlaSTZwV2dFZ1BFcUJ4YlJseHNocDFma1ZmSmhaUGlwU1ZadFFCeDRjT2F6eGVici0zR0ZLRlM0VFFZMk5nUVlJZWxiUmZua2hYQk9WS1RfZ093aGdwMUxrSUItWUhYbzI2X2xZMzVIOXUyREtGVVNNQUtVaV9xU3RvZHBLV1RsWjBHb2VuNVZCSWJIQnJ2MjJKVlo0amR6MW1YOVo0Q0pZMURULVd2SGZzNUFFYWRHbDdmaHlZVGZVWHYxWXZFQzgxNkZrdnZWRTk?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-09T18:13:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Sheinbaum admite que AMLO respaldó a Taddei para llegar al INE, pero ahora la acusa de traicionar al pueblo Baja News",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "afc737cde6becfe6"
+ },
+ {
+  "titulo": "Aylín Mujica y su expareja se reencuentran para honrar memoria de su hijo",
+  "liga": "https://www.uniradioinforma.com/fama/aylin-mujica-su-expareja-reencuentran-honrar-memoria-su-hijo-n913404",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-09T18:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "La actriz compartió un emotivo mensaje a casi cuatro meses de su partida.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "516799dfeeca17b2"
+ },
+ {
   "titulo": "Rechaza Evelyn Sánchez cambios a la paridad de género en BC",
   "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEFOQ2haWDkwZWcyT1d0ZFhQbGo1TjV3cmdTNE1IQjdjSnV2Sno0MzNVTmk0MzR6SzN1YTNVR0lSaE04cDRRX0FHQW9hZnAtczUtRmdvYjVmcmx4NEdpd3ZsMDI4NGtLdHNCMEdlS0NzTGRLWTRjNng3T0F0SmxjRTBPZWh4VzF6ODNIMTBrYVhOOVpnZGdsTUlWdU1JR1JnaFdsbnRkQnNmU1ZMUURj?oc=5",
   "medio": "AFN",
@@ -230,6 +944,20 @@
   "id": "47c2c961edebc6c2"
  },
  {
+  "titulo": "Burgueño y empresarios revisan temas sobre trámites y desarrollo urbano",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjljeHo1UkNlV2NXS2dZRnNZQXZIUnJkT3RiUGV3VkNZeDlSeUIwRTRkemxHSFdtTlM2blVfNlFxN2d4SnVhaE40ZTQwTS16cFF1TlJMakh6WlR6UlFXdkpjTlg5cG1aYXpkb2pVZFhSdWZ2QUV2RVQzcnBHQ3FVVnRBR3diSE9la0huN09RVzl6clo1MlFleVp4ZjZMa3VkelYtUGtzS1dtdmNjT0JiUDZYTU1Nb3FCNnlVWWhJOA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-09T17:31:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Burgueño y empresarios revisan temas sobre trámites y desarrollo urbano AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "7a1b5537f83b44a2"
+ },
+ {
   "titulo": "Brindan atención y equipos de movilidad a más de 50 niños en jornada binacional de rehabilitación",
   "liga": "https://www.uniradioinforma.com/sociedad/brindan-atencion-equipos-movilidad-mas-50-ninos-jornada-binacional-rehabilitacion-n913384",
   "medio": "Uniradio Informa",
@@ -408,6 +1136,20 @@
   ],
   "local": false,
   "id": "6de48fcf6cd791e6"
+ },
+ {
+  "titulo": "INVESTIGACIÓN CONECTA VINO, TERRITORIO Y SOSTENIBILIDAD EN BAJA CALIFORNIA",
+  "liga": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LcW9FR1JxQWF5VGw5TUJ1VEUwcW5paVlFVHFPVFpYZjV2aXBQX2tmYmRRelp0eHU4US1Ccl9QYUplRDFPekc2Nkh2bWNGa0NZaFRF?oc=5",
+  "medio": "EnsenadaHoy",
+  "publicada": "2026-11-09T17:14:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "INVESTIGACIÓN CONECTA VINO, TERRITORIO Y SOSTENIBILIDAD EN BAJA CALIFORNIA EnsenadaHoy.com",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b56d23694174449d"
  },
  {
   "titulo": "¿Menos carros y más espacio para peatones? Tijuana prepara su plan urbano al 2040",
@@ -2288,6 +3030,20 @@
   "id": "1ec8e5aa63b3e3e2"
  },
  {
+  "titulo": "Cierra Kassandra Espinoza con plata gira rumbo a Lima 2027",
+  "liga": "https://oem.com.mx/lavozdelafrontera/deportes/cierra-kassandra-espinoza-con-plata-gira-rumbo-a-lima-2027-33052169",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T14:35:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Volvió a sumar otra medalla y mantiene el objetivo de participar en la justa panamericana",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5a1da738d4911a69"
+ },
+ {
   "titulo": "Andy López Beltrán afirma no ver a Olán desde hace más de cuatro años",
   "liga": "https://elcongresista.mx/politica/nacional/andy-lopez-beltran-no-contacto-amiliar-olan",
   "medio": "El Congresista",
@@ -2359,6 +3115,20 @@
   "id": "e12f034b8326a62e"
  },
  {
+  "titulo": "Fundación Alas de Ángel realizará posada a niños vulnerables",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/fundacion-alas-de-angel-realizara-posada-a-ninos-vulnerables-33052119",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T14:31:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Llevarán alegría a la casa hogar Betesda",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "63a83a0ef08737c3"
+ },
+ {
   "titulo": "Abre SICT el Puente Rizo de Oro en Chiapas",
   "liga": "https://jornadabc.com.mx/02_secundarias/abre-sict-el-puente-rizo-de-oro-en-chiapas/",
   "medio": "La Jornada Baja California",
@@ -2373,6 +3143,20 @@
   "id": "e2dd1283be1d96f0"
  },
  {
+  "titulo": "Soles anuncia a Isaiah Pineiro como refuerzo para la final",
+  "liga": "https://oem.com.mx/lavozdelafrontera/deportes/soles-anuncia-a-isaiah-pineiro-como-refuerzo-para-la-final-33052105",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T14:29:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El equipo cachanilla anunció el fichaje del puertorriqueño Isaiah Pineiro para la serie final ante los Astros de Jalisco",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "b1132841fabfe9f5"
+ },
+ {
   "titulo": "¡En riesgo la vaquita marina! Ambientalistas buscan frenar recorte del 86% a zona protegida",
   "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnI4eVVfVVZTNzY5M29JOWEwT04xYVF6Ry03bTJyVmpuZzVJVVN0U0tPOVBSTVdJdXBYS1R6T1FwdmhJaVpSOGcyenJnVnBSZWNZYTh2alJpd3p6MlduSTJWSFJZR3hPTXQyLXBUVmx6QmVxT2FLcDN3WFp1bDZBYmdqZ1o2ZnVPdDZpTUNmRDJRWTlFWi0yR19ScVZNUVR5aWNUWUI1a2pudldQcDNGWDIwRGhLSjBjTzhnWmNWcnY?oc=5",
   "medio": "BajaNews",
@@ -2385,6 +3169,21 @@
   ],
   "local": false,
   "id": "3e2e06a4a2bcf87c"
+ },
+ {
+  "titulo": "¿Te cobran de más en el transporte público? Así puedes denunciar ante IMOS en BC",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/te-cobran-de-mas-en-el-transporte-publico-asi-puedes-denunciar-ante-imos-en-bc-33052586",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-09T14:25:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Conoce dónde presentar una denuncia de transporte público en Baja California, los teléfonos de IMOS y la información que debes proporcionar.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "529d562e41609ba0"
  },
  {
   "titulo": "Identifican vulnerabilidades, riesgos y capacidades de Tijuana ante El Niño",
@@ -2443,6 +3242,20 @@
   ],
   "local": true,
   "id": "114febe596c8b815"
+ },
+ {
+  "titulo": "Manuel Villanueva busca abonar a la cultura vial",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/manuel-villanueva-busca-abonar-a-la-cultura-vial-33052401",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T14:21:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Ante la falta de atención al alto de disco y la nula atención de los automovilistas, realizó señalamientos viales",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7df308b5cf70b102"
  },
  {
   "titulo": "Línea eléctrica exprés de Hermosillo podría operar en ambos sentidos",
@@ -2631,6 +3444,20 @@
   "id": "05cbda2c6f33a061"
  },
  {
+  "titulo": "Mujeres en BC pueden agendar asesoría psicológica y jurídica en línea gratuita",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/mujeres-en-bc-pueden-agendar-asesoria-psicologica-y-juridica-en-linea-gratuita-33051802",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-09T14:06:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "El servicio contempla orientación psicológica, intervención de trabajadoras sociales y asesoría jurídica para mujeres que viven distintos tipos de violencia.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5be86353b40640b5"
+ },
+ {
   "titulo": "Dejan sin paga a bomberos, paramédicos y salvavidas de Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNzlEdXlXSlNBZzlZR2tlb2JiamNzdGFRRGFFS29hZlZVeElMLXJvVC1UMG9tM0pGNTN0Tk84WVBkQU1KbXZfbC11MnZVZjY1c2pYa29Lbm5ZTVB3ZUhFVDRDRV82a0RtMGRGYWdQRGV0Y1UyQmJWNmZ3a05YOUlCbnlRYUtXOVdsOGMtekNzbDFNS2lpOF9faHBfVmF1a1E?oc=5",
   "medio": "BajaNews",
@@ -2730,6 +3557,21 @@
   ],
   "local": false,
   "id": "d475715383403cb0"
+ },
+ {
+  "titulo": "Escuelas del ejido Islas Agrarias B toman clases a distancia por bacteria en agua",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/escuelas-del-ejido-islas-agrarias-b-toman-clases-a-distancia-por-bacteria-en-agua-33052002",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T14:01:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "Uno de los alumnos requirió atención médica",
+  "temas": [
+   "Agua",
+   "Educación"
+  ],
+  "local": true,
+  "id": "2b51fc40f98d417c"
  },
  {
   "titulo": "Módulo del INE en Las Quintas suspende labores para exigir aumento salarial",
@@ -2889,6 +3731,20 @@
   "id": "08ff821148663db1"
  },
  {
+  "titulo": "Quejas de los mexicalenses se centran en seguridad, bacheo y alumbrado: Marco Aurelio",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/quejas-de-los-mexicalenses-se-centran-en-seguridad-bacheo-y-alumbrado-marco-aurelio-33051509",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T13:55:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "En el Valle piden reeencarpetado",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "adba3d2ee4f2b7ea"
+ },
+ {
   "titulo": "Inmanejable la corrupción el la 4T, pero prefieren buscar en el pasado",
   "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWVvcGtSOEtIY2tjWUxVUkFaajFLWU53MU9Ua2NhS1RvX0UzZWs2T2ZvYi1pZjVmS3VCYzh1dWVLU3o0cjYzbW1OUk9nVXhhbk5wUVpBMmozeWxIMnlhOEQtSE9fNUFpdWpWYWk2Y21pV214blJTNDhJTkNvazRnQ2JtWjVabjVTUTVZX19tU3FvaE5sSVo3cEVIMnA4YkM0ekR4cFNvNUQ1T2RxdTFUMkd3?oc=5",
   "medio": "AFN",
@@ -2919,6 +3775,20 @@
   "id": "f8405a4cf72bc927"
  },
  {
+  "titulo": "FGE solo tiene dos especialistas para identificar restos óseos",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/fge-solo-tiene-dos-especialistas-para-identificar-restos-oseos-33051912",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-09T13:51:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "“Somos pocos, pero ya se inició algo”, dice perito odontólogo que trabaja junto a antropólogo forense.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7497ece9840201cf"
+ },
+ {
   "titulo": "Falta de Energía para Distribución Frena Expansión de Industrias en Tijuana",
   "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0NOdDh5QkZPZzFRRTFjR3U4ZTkzTTZRTkI4RElDNnZ3bi13X2tZcVJ0djhUczFia05HSGNwUnB3SlpCLU51OXVQMUhoa2xpOHNCWTBlUXNxUnRrYmd4ZnpPRzhmeF9RYnVBaEtzMzVWMkZfS0dmZTlLUmkxWkZncF9jTlZWdHVLdEFFUWg3VnI0eUpKaTZmSlR4WWJYVktGcjNzUjd5YUJZXzVBc0tRSm4yOThnSnhvaF9MOEVtcHpWeWM?oc=5",
   "medio": "N+ Baja California",
@@ -2946,6 +3816,20 @@
   ],
   "local": true,
   "id": "b5bd7d38d96b1816"
+ },
+ {
+  "titulo": "Necesario que oposición creen nuevas y buenas opciones: CCE BC",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/necesario-que-oposicion-creen-nuevas-y-buenas-opciones-cce-bc-33051838",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T13:41:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "No han sabido ser oposición, pese a que llevan siete años siéndolo, señala Octavio Sandoval",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "de83c5197b0d6571"
  },
  {
   "titulo": "¡Va para largo! Cierre de la alberca del CUM responde a revisión estructural: Sidur",
@@ -3149,6 +4033,21 @@
   ],
   "local": false,
   "id": "bb6009e7f122d467"
+ },
+ {
+  "titulo": "Reforma para que policías se pensionen 5 años antes es para estatales: Navarrete Castillo",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/reforma-para-que-policias-se-pensionen-5-anos-antes-es-para-estatales-navarrete-castillo-33051361",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-09T13:16:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "La gobernadora del Estado, había informado sobre proponer la reforma Ley del Sistema Estatal de Seguridad Ciudadana de Baja California para reducir requisitos actuales de 30 a 25 años de servicio para los oficiales",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "f8e7a9d59031157b"
  },
  {
   "titulo": "Beto Valle visita telesecundaria en Mi Ranchito y recibe petición para construir una cancha deportiva",
@@ -4476,6 +5375,20 @@
   ],
   "local": true,
   "id": "aecb2ece52a823e0"
+ },
+ {
+  "titulo": "Ayuntamiento de Tijuana debería acordar pago de demandas del SITT antes de terminar el año",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/ayuntamiento-de-tijuana-debera-acordar-pago-de-demandas-del-sitt-antes-de-terminar-el-ano-33048134",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-09T10:11:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-09T19:41:51-06:00",
+  "resumen": "En 2016, cuando inició el proyecto de la ruta troncal se proyectaban 150 camiones en circulación, pero ante las fallas en la implementación, el número de unidades es mínimo",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "822b28cd6435a93c"
  },
  {
   "titulo": "Crece 2% el turismo en Playas de Rosarito durante 2026",
