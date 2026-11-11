@@ -1,5 +1,413 @@
 [
  {
+  "titulo": "Pío Esquer contraataca a Paloma Sánchez: “Sinaloa merece saber de quiénes hablan al referirse a los narco-políticos”",
+  "liga": "https://noticieroaltavoz.com/pio-esquer-contraataca-a-paloma-sanchez-sinaloa-merece-saber-de-quienes-hablan-al-referirse-a-los-narco-politicos/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-10T22:59:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Culiacán, Sinaloa.- Lo que comenzó como una diferencia sobre la posible alianza opositora rumbo a 2027 ya se convirtió en un enfrentamiento directo entre Paloma Sánchez y Sergio “Pío” Esquer, con acusaciones de ambos lados y una pregunta de fondo: ¿puede la oposición llegar unida",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ce0f7f0415bc133c"
+ },
+ {
+  "titulo": "Mateo Gil y Julián Ornelas impulsan triunfo de Charros de Jalisco en la LMP",
+  "liga": "https://lineadirectaportal.com/deportes/mateo-gil-y-julian-ornelas-impulsan-triunfo-de-charros-de-jalisco-en-la-lmp-2026-11-10__1736882",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-10T22:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "La novena de Benjamín Gil llegó a 12 triunfos en el rol regular",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d420f573b63eb803"
+ },
+ {
+  "titulo": "Gana Parque del Agua de NL premio internacional de arquitectura",
+  "liga": "https://sinaloa.quadratin.com.mx/gana-parque-del-agua-de-nl-premio-internacional-de-arquitectura/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-10T22:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Distingue su propuesta de diseño y sustentabilidad",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "9a4d2c7319b842bd"
+ },
+ {
+  "titulo": "COPARMEX pide estrategia urgente de seguridad y reactivación económica para Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWhjcmJJZHJEWmI5Qm5PU3hVelAtMXpvT2JoMEl0TW1PR29rOGYtNW1LR0UwdHdQd3ZLMDRWeE5fOXhyc05KWWt3RDE4dkxaVFlsUENhbjNwbHV0d25STktkSnA2TTc1NnIteWsxV1NSc0JBbUIycW1DQUo1UFliVUN5OU9GTk5IZ2ZDRFYxVXJwa3FfbDFYS0RIT3lMY0oyMFVnSlRmZ0FHNDlRemNmMnlEc3J5OV9iYUVON3lQZnJsVW14aVp3dXJ6SQ?oc=5",
+  "medio": "Alcanzando el Conocimiento",
+  "publicada": "2026-11-10T22:44:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "COPARMEX pide estrategia urgente de seguridad y reactivación económica para Sinaloa Alcanzando el Conocimiento",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "21c8c44c74c3288a"
+ },
+ {
+  "titulo": "En Concordia federales detienen a un hombre con arma, cartuchos y droga",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2xUQ3YzYW1MdEpObWVnYl9LN0hXZHBMSTR1YlNaNDlXM0ctaDd1bmdqM0Y0dk9ZbjZkU0VnYVE2S0k4bm5ncUtNUTZrUDZ6dmF1UFFSMjAyaER4ZkdXVndWMVctWTJOYmg4djVSbURzdF9ENjloNWR0ZXEzcjRRSG95dVRJZDRvMERLaHdsdWVENEFpVlVVZzNRd1lQWTdxSW54MThrMEVXZXlOdjBYanc5YjFQelhvYlN0aXUwT3lYdS1QdFNvVTg1SGsyQQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-10T22:40:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "En Concordia federales detienen a un hombre con arma, cartuchos y droga Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a2a12d4b867c8d10"
+ },
+ {
+  "titulo": "Gasera permanece suspendida tras fuga de gas; vecinos exigen conocer sus permisos",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEN5WVVkX00xeFBIUG1jamRXS0Y1dGRjNktpSlpSc1VXVmEyamJhdkhqc19sVFl6Nzdkcm42cWdsdTlGOFBZc2ZteTdadnNHQllfb2xEY0VLY0hQbXpyaE1idDJVYVZPSkNxVE5QenQ1VDAwTWhPaDJWZjA2azhDbDNEVGwzTkd6cjZMVTFnbDU1eFhFQUJ5RFYxV1BLLWtoZllzbVFtS0gyLVJQSXByZkREQ0sxenZrdll3M0ZzWnNlMmZUQnFrMEdkSmVyWExDSy1MdlAyZVNkQ1E?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-10T22:30:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Gasera permanece suspendida tras fuga de gas; vecinos exigen conocer sus permisos Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4f600b06d56ea0ea"
+ },
+ {
+  "titulo": "Adiós a la incertidumbre, conoce las condiciones climáticas en Culiacán Rosales este 11 de noviembre",
+  "liga": "https://lado.mx/noticia/22280950/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-10T22:30:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "394cd72752369dce"
+ },
+ {
+  "titulo": "Clima en Mazatlán: temperatura y probabilidad de lluvia para este miércoles 11 de noviembre",
+  "liga": "https://lado.mx/noticia/22280949/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-10T22:30:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "a52552104751b251"
+ },
+ {
+  "titulo": "Realizan primeras tres cirugías asistidas por robot en hospital de Chihuahua",
+  "liga": "https://sinaloa.quadratin.com.mx/realizan-primeras-tres-cirugias-asistidas-por-robot-en-hospital-de-chihuahua/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-10T22:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "El cirujano dirige los instrumentos desde una consola con visión tridimensional y en tiempo real",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "5fefaa572aedde2b"
+ },
+ {
+  "titulo": "Asesinan al conductor de un Nissan March y le dejan un mensaje en cartulina en el Infonavit Humaya, en Culiacán, Sinaloa",
+  "liga": "https://lado.mx/noticia/22280917/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-10T22:25:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "La unidad y el fallecido quedaron sobre la avenida privada Dr. Enrique Cabrera, entre los bulevares Dr. Enrique Cabrera y Tierra",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "db85d4b5f8db1074"
+ },
+ {
+  "titulo": "Suspenden traslado del R2, Rafael Álvarez Ayala, por su estado de salud en Guadalajara",
+  "liga": "https://www.sinaloahoy.com.mx/portal/traslado-r2-suspendido-guadalajara-salud/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-10T22:25:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Suspenden traslado del R2, Rafael Álvarez Ayala, por su estado de salud en Guadalajara Rafael Álvarez Ayala seguirá hospitalizado en Guadalajara bajo resguardo. Su traslado a un penal se reprogramará cuando los médicos autoricen su alta. Sinaloahoy - Noticias de Sinaloa y el mund",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "f4625981128a0813"
+ },
+ {
+  "titulo": "Trasladan a \\\"El R2\\\" a CDMX: así fue el fuerte operativo tras su captura en Jalisco",
+  "liga": "https://lado.mx/noticia/22280896/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-10T22:25:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Rafael Álvarez Ayala, alias And quot;El R2 And quot;, presunto líder de una célula del CJNG, fue trasladado este 11 de noviembre a la Ciudad de México bajo un fuerte dispositivo de seguridad, tras recibir el alta médica",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "363c69646e94d70d"
+ },
+ {
+  "titulo": "Conductor de auto es asesinado a balazos en la colonia Infonavit Humaya al norte de Culiacán",
+  "liga": "https://lineadirectaportal.com/policiaca/conductor-de-auto-es-asesinado-a-balazos-en-la-colonia-infonavit-humaya-al-norte-de-culiacan-2026-11-10__1736872",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-10T22:21:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "‎El hombre quedó sin vida en el asiento del chofer en el interior un automóvil de color tinto que estaba con el motor en marcha en la calle Doctor Enrique Cabrera",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "adfa25352b9433b2"
+ },
+ {
+  "titulo": "Bernardino Gómez Ávila, comandante de la Guardia Civil, fue privado de la vida en Morelia",
+  "liga": "https://www.sinaloahoy.com.mx/portal/bernardino-gomez-guardia-civil-morelia/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-10T22:21:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Bernardino Gómez Ávila, comandante de la Guardia Civil, fue privado de la vida en Morelia Bernardino Gómez Ávila era comandante de la Guardia Civil en Morelia. La Fiscalía revisaba videos para identificar a los responsables del ataque. Sinaloahoy - Noticias de Sinaloa y el mundo ",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "81f860de196ca827"
+ },
+ {
+  "titulo": "Trump respalda al CEO de Nvidia tras escándalo con espía china; confirma investigación del FBI",
+  "liga": "https://lineadirectaportal.com/internacional/trump-respalda-al-ceo-de-nvidia-tras-escandalo-con-espia-china-confirma-investigacion-del-fbi-2026-11-10__1736857",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-10T22:20:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "El presidente confirmó haber establecido comunicación con Huang, quien le aseguró que desconocía que la mujer era espía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "31473c0cc1fc7f1a"
+ },
+ {
+  "titulo": "Incautan 35 toneladas de precursores en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnVPWGtFLUpIV0pXSGZCSjBKZTIxWHVFQl9VZUhZNkRaeGlJZ05iTDhYVmdZZ0FyZzdoYmdXUUZGRHFlbDd5Nm9FazFzck9xb1dyaENHNlZ0RWJGZlFnQ2c0RTc0dzF6Tjl3blUtY3BPaUVLaXdlR2pEUTIxb204R3AzQ2VSel9UdWF3bUp4YTM0OXVtdUY5UA?oc=5",
+  "medio": "La Prensa de Coahuila",
+  "publicada": "2026-11-10T22:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Incautan 35 toneladas de precursores en Sinaloa La Prensa de Coahuila",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3fe0b83eba794ffe"
+ },
+ {
+  "titulo": "Ricardo Salinas Pliego niega beneficios del Fobaproa y pide a Claudia Sheinbaum abrir expedientes",
+  "liga": "https://www.sinaloahoy.com.mx/portal/salinas-pliego-fobaproa-sheinbaum-expedientes/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-10T22:17:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Ricardo Salinas Pliego niega beneficios del Fobaproa y pide a Claudia Sheinbaum abrir expedientes Ricardo Salinas Pliego rechazó haberse beneficiado del rescate bancario y pidió a Claudia Sheinbaum abrir los expedientes del Fobaproa. Sinaloahoy - Noticias de Sinaloa y el mundo Si",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f69b65356403bec6"
+ },
+ {
+  "titulo": "Asesinan a hombre dentro de un March en Infonavit Humaya, Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbS1JYjNTeVB1RUFpel9fSkw4R2FnU2IyM3l5bi1Ma1c1X3dlbDJJeEJNazUtUEtlY0dTZDNXbnJEbzc5cllQVWd1aFdOZFAwZE9Fd1RoQndEUDBvZHY3SlNvcnRhbnJGTHJqOUVJVzdnWU95UDZidDFLRmxmb1VXLUk3dS1oSng1Tmt1eUpUVkxrbWcyV3VuT0pqZEREdG13alNmQmhqT0ZWcjFHdGlMUXQ2T3YzaFhrSWlvTFlURHFmSjg2X0Ew?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-10T22:14:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Asesinan a hombre dentro de un March en Infonavit Humaya, Culiacán Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f47f00a0fab51d72"
+ },
+ {
+  "titulo": "México rompe récord de cruceristas",
+  "liga": "https://sinaloa.quadratin.com.mx/mexico-rompe-record-de-cruceristas/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-10T22:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Quintana Roo acapara millones de pasajeros",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "29251f390ba7eb34"
+ },
+ {
+  "titulo": "¡Aprovecha el Buen Fin en Ahome! Ofrecen hasta 100 % de descuento en multas y recargos municipales",
+  "liga": "https://lineadirectaportal.com/sinaloa/aprovecha-el-buen-fin-en-ahome-ofrecen-hasta-100-de-descuento-en-multas-y-recargos-municipales-2026-11-10__1736866",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-10T22:12:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Los beneficios estarán vigentes hasta el 30 de noviembre del 2026; también habrá 60 por ciento de descuento en infracciones de tránsito, con algunas excepciones",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "92ac86a151c32896"
+ },
+ {
+  "titulo": "Operativo Mazatlán: federales aseguran 35 toneladas de presunta sustancia química y detienen a tres personas",
+  "liga": "https://www.sinaloahoy.com.mx/portal/operativo-mazatlan-sustancia-quimica-detenidos/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-10T22:08:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Operativo Mazatlán: federales aseguran 35 toneladas de presunta sustancia química y detienen a tres personas En el Operativo Mazatlán participaron varias instituciones federales. El cargamento asegurado en la carretera libre podría ser acetato de plomo y será analizado. Sinaloaho",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "38671d51e964d69b"
+ },
+ {
+  "titulo": "Asesinan a balazos a un automovilista en Culiacán",
+  "liga": "https://sinaloa.quadratin.com.mx/asesinan-a-balazos-a-un-automovilista-en-culiacan/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-10T22:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "El atentado ocurrió en el sector Infonavit Humaya",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9e1fa64587d74f94"
+ },
+ {
+  "titulo": "Más de 400 indígenas migraron a los campos agrícolas de Sinaloa y Chihuahua",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2toTDJNNUhTR0JjeExuaS1nS1pWR1VKeFZ5emZZV1psSldTSURHY0VyQ3J0LVV6N3liOGxVVkpURFpsbmY3Z0V2NGVrS01tZ0VFT3JLeFJISWY3MjFXMGJzNDRjQ2FfTjlDdzhXRUNsdXZhTDRhb2NKQ3VMYlNtUklmdC1fSTJGWmNuUmxnRFdGSkI4VHc3Tm8wSWZtSDg4RHYzb00ybEk?oc=5",
+  "medio": "Tlachinollan",
+  "publicada": "2026-11-10T22:07:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Más de 400 indígenas migraron a los campos agrícolas de Sinaloa y Chihuahua Tlachinollan",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "34499ca5ba48dd17"
+ },
+ {
+  "titulo": "Conductor de Nissan March fue privado de la vida en Infonavit Humaya, Culiacán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/conductor-nissan-march-infonavit-humaya-culiacan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-10T22:06:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Conductor de Nissan March fue privado de la vida en Infonavit Humaya, Culiacán Un conductor fue privado de la vida dentro de un Nissan March tinto en Infonavit Humaya. En el parabrisas había una cartulina con un mensaje. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2c3eec0571417b89"
+ },
+ {
+  "titulo": "Dan más de 4 años de prisión a sujeto detenido con arma de uso exclusivo del Ejército en Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcXFNTk51RmxoVk90WUpWXzJwUC1jR3R3ZlFnWFlWVWFtZVFvS3pwMEpDUjlKM19xQmtodERJSnp3LV9mOTgtMlA5ejZ5dmpKOVF3dTI4ZDJZMlJXQ1l4R2ZzOTZXbEo3QVQ5YzJLVGIxaWl4MTROazM0a0VycWpEdVhGbjEwTFFPUzRWcnBobjk0NVhSZkkzc1dyVzlQM1E5NElHZGVpSzA4ZTdSRUlvQUpDd2xJQzN0Nm1kYUxMU0VCTXZFR2EwRnJtVDk3RUt2V2QtRExGRjNiUTJfbUNEOXBiMi1xSnJNcnU0UWJOMVdzQQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-10T22:04:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Dan más de 4 años de prisión a sujeto detenido con arma de uso exclusivo del Ejército en Culiacán Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b673f603b0af167c"
+ },
+ {
+  "titulo": "Ataque armado deja un adolescente sin vida y un herido en la colonia López Mateos, en Culiacán",
+  "liga": "https://www.noroeste.com.mx/seguridad/ataque-armado-deja-un-adolescente-sin-vida-y-un-herido-en-la-colonia-lopez-mateos-en-culiacan-LC27254924",
+  "medio": "Noroeste",
+  "publicada": "2026-11-10T22:04:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Un menor de 16 años de edad llamado Armando murió asesinado balazos la tarde-noche de este martes 10 de noviembre, en la colonia Adolfo López Mateos, al sur de Culiacán. Paramédicos del Grupo Gerum Salvamento y Rescate A.C. acudieron al punto y trataron de reanimar al joven, pero",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6a034f0ed8e1faf9"
+ },
+ {
+  "titulo": "Asesinan a Estudiante del Conalep Durante Ataque en Culiacán, Sinaloa; Hay un Herido",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1U5TEtJanlmMDk0NGxRNEVfVl9leUJPRnktODlwOXp3NllxS3p1T0I2SXMyY2VCNTJyZ1VvZWJ1SzBLY3FJVXoxeHFadk5kVWROM0hmQWJHZUNIZW53WHZiQmw2SEw2d0ZqNlNrLXdlYTZJbVpSNUYzR2Q4OXNiZ1NMZkZpdkhnZ2s5RzlrZDhPdkU1MlFXdkJpb3NUajBCaXNSel9CN0dNdm12WllCZ1lQbjZtOXpjRkJIcFpVNjF5eGpyWmk0WlVTNHZsX2hK?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-10T22:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Asesinan a Estudiante del Conalep Durante Ataque en Culiacán, Sinaloa; Hay un Herido N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "563a2398557247eb"
+ },
+ {
+  "titulo": "Policías y Guardia Nacional (GN) recuperan en Choix un automóvil con reporte de robo en Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOHJMRVhRNDlrd1AtNE9yTnhHLWNGRUxsM3hkS01mTG9JQklyWndsLTVsS0wwM3U5cE9qZ1ZlYzFUVEpjTnNLdUNHTlpMazkwXzROUVh0VkRvdnMwNE5iam9GQmMwZHViRFJYNjc0a1FOSHE3SWxMYTNKbERpM2tQcmxsSzhwT05qZ1puaFJIaEJLRzNwdk5rOWJndW5wVUp4UmJrRktuMThhc1RISWFLN05GNzdwNmFjV2Uwall5NHNkM1RqdG5tSXhqaDlRbG9JaU55c09qY1AyVkIwT3hGMlQzRl9UbVE5d0xDOHQ3cXpad0dHRHc?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-10T22:00:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Policías y Guardia Nacional (GN) recuperan en Choix un automóvil con reporte de robo en Estados Unidos Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e4a727a08af7f188"
+ },
+ {
+  "titulo": "Reportan atropellamiento de ciclista en el bulevar Centenario de Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZnBCbjdVZW5qRFh3MGtjRzd4bmFCRkZkX2RaZW5xYnJKVmUtMktQSWZoNVVaOUs0YVFveXVpcnRJU2xXMTZKQnJBN01KaFpBVnlJZ2UtRjNsV2VqbEk2RWYxaGlYbGFPWFNrcnlMTDIyVF93aWRIendxZDNyOXN0X3dQWC1CRTlsQUI4UlRnWG5RQ3dPcDVORW11cUpBcXJOVUp4OGFockJfWnpwSVNKZ0dPYXlQbDJQS1VTTzR5T0tSTVo0WUZpMm51UExYTm5vWDVZSQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-10T21:56:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Reportan atropellamiento de ciclista en el bulevar Centenario de Los Mochis Debate",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "6b153aaf92436e8f"
+ },
+ {
   "titulo": "Avala Senado medidas para protección de datos personales",
   "liga": "https://sinaloa.quadratin.com.mx/avala-senado-medidas-para-proteccion-de-datos-personales/",
   "medio": "Quadratín Sinaloa",
@@ -26,6 +434,20 @@
   ],
   "local": true,
   "id": "f349ab59956699ed"
+ },
+ {
+  "titulo": "Tamaulipas investiga posible uso de menores como escudos en caso Aranza en Matamoros",
+  "liga": "https://www.sinaloahoy.com.mx/portal/matamoros-caso-aranza-menores-escudos/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-10T21:51:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Tamaulipas investiga posible uso de menores como escudos en caso Aranza en Matamoros Autoridades investigan si grupos criminales usaron a menores o familias como escudos en el caso de Aranza, niña de siete años fallecida en Matamoros. Sinaloahoy - Noticias de Sinaloa y el mundo S",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "419038c59433bd8a"
  },
  {
   "titulo": "“Memoria muscular”: el video de Adriano haciendo jueguitos en ojotas por las calles de Brasil que se volvió viral",
@@ -185,6 +607,34 @@
   ],
   "local": true,
   "id": "1acb6b0e13f11123"
+ },
+ {
+  "titulo": "Reportan homicidio en Infonavit Humaya de un hombre dentro de un automóvil en Culiacán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/homicidio-infonavit-humaya-march-culiacan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-10T21:34:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Reportan homicidio en Infonavit Humaya de un hombre dentro de un automóvil en Culiacán Un reporte sitúa a la víctima dentro de un March en Infonavit Humaya, Culiacán. Versiones previas la ubicaban en un andador del sector. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bde4c2f99d63bbde"
+ },
+ {
+  "titulo": "Bomberos Mazatlán proyecta contratar 15 elementos para abrir un tercer turno en 2027",
+  "liga": "https://www.sinaloahoy.com.mx/portal/bomberos-mazatlan-contratacion-tercer-turno/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-10T21:33:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "Bomberos Mazatlán proyecta contratar 15 elementos para abrir un tercer turno en 2027 La corporación prevé reclutar aproximadamente 15 elementos para habilitar un tercer turno en 2027. La convocatoria se contempla a finales de 2026. Sinaloahoy - Noticias de Sinaloa y el mundo Sina",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c5a65085404025f7"
  },
  {
   "titulo": "Secretaría de Marina prepara traslado del R2 a Puente Grande tras cirugía en Guadalajara",
@@ -402,6 +852,34 @@
   "id": "85528138b0279d30"
  },
  {
+  "titulo": "Hombres armados asesinan a conductor en Infonavit Humaya, al norte de Culiacán",
+  "liga": "https://riodoce.mx/2026/11/10/hombres-armados-asesinan-a-conductor-en-infonavit-humaya-al-norte-de-culiacan/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-10T21:20:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c09923e086a1aba2"
+ },
+ {
+  "titulo": "Asesinan a balazos a menor de 16 años en la colonia Adolfo López Mateos en Culiacán",
+  "liga": "https://www.luznoticias.mx/2026-11-10/policiaca/asesinan-a-balazos-a-menor-de-16-anos-en-la-colonia-adolfo-lopez-mateos-en-culiacan-/314456",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-10T21:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a09fb5b6b8d73eac"
+ },
+ {
   "titulo": "Reportan a otra persona herida en el ataque donde murió un menor en Culiacán",
   "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRjB5RnRGTXI5elpLSE1qT0loNWJycngtaWxKdjlJeGw4M25HMzN1WXJkcHRRaVJUVkJIdUh0TWtJTGJLZFd2X1VxLVhVMXVMU2dzd3pMbW9NTnliTmpqS2RzMjdWdWtHOUVuSHc5NDZOT0VZeTBhQ19qaEZsUTNwV1haU2pUZXFfdFZ4RUp3SS1zSUdDTUluemc5MGszaFRueU9ScEh2ZHp4VWtPcmVKVGg5SlJWQWNMZmsxMWtfSHdqdFlJV0t4X0tiNjdpa2RjOGNPMXZB?oc=5",
   "medio": "El Debate",
@@ -444,6 +922,34 @@
   "id": "46364975ec93b0fd"
  },
  {
+  "titulo": "Eres un cobarde sin el carácter para pensar por Sinaloa, Paloma Sánchez responde a Pio Esquer",
+  "liga": "https://www.luznoticias.mx/2026-11-10/politica/eres-un-cobarde-sin-el-caracter-para-pensar-por-sinaloa-paloma-sanchez-responde-a-pio-esquer-/314454",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-10T21:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "3cf65e6f9b643b94"
+ },
+ {
+  "titulo": "“Si los priistas no confían entre ellos, ¿por qué habría de confiar Sinaloa?”, Pío Esquer",
+  "liga": "https://www.luznoticias.mx/2026-11-10/politica/si-los-priistas-no-confian-entre-ellos-por-que-habria-de-confiar-sinaloa-pio-esquer-/314455",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-10T21:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "38a25e05fd2ce2e4"
+ },
+ {
   "titulo": "COPARMEX plantea plan emergente para reactivar la economía de Sinaloa",
   "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3pWbWpoRXRTMEF5Z0p6Q2lPbmZfdklKRGZDYmRIZS03YV9wY2F6OXBodF9pYXNNZkxqbkVid1ZiMGQ0dXAtNE9VN3F5M0dKUW91eHV4U183YmgybUh6SGJydFpSTFVyTjRVUzdPWkxKM2VqOGsta3pvWjBrZ3k0QkN3U2FRSnlVTHRjc2FrMDJSbmJ3OVo1MDJJM1NMOWFkMWxPMkJOOHdVdGVKQVE?oc=5",
   "medio": "Mundo Ejecutivo",
@@ -484,6 +990,21 @@
   ],
   "local": true,
   "id": "a2d6fd3f797f17fd"
+ },
+ {
+  "titulo": "Solicitará Morena crear una comisión para investigar el presunto ‘fraude’ electoral del 2006",
+  "liga": "https://riodoce.mx/2026/11/10/solicitara-morena-crear-una-comision-para-investigar-el-presunto-fraude-electoral-del-2006/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-10T21:12:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "9d318a5aafd72eea"
  },
  {
   "titulo": "Omar García Harfuch informa aseguramiento de sustancia química y tres detenciones en carretera Mazatlán-Culiacán",
@@ -840,6 +1361,20 @@
   "id": "223f4dd30ad6e7cc"
  },
  {
+  "titulo": "Asesinan a balazos a menor de 16 años en la López Mateos, en Culiacán; hay otro hombre herido",
+  "liga": "https://riodoce.mx/2026/11/10/asesinan-a-balazos-a-menor-de-16-anos-en-la-lopez-mateos-en-culiacan-hay-otro-hombre-herido/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-10T20:34:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "662e52d685a69dfa"
+ },
+ {
   "titulo": "Entregará secretario de Gobierno Quinto Informe de Sinaloa al Congreso",
   "liga": "https://sinaloa.quadratin.com.mx/entregara-secretario-de-gobierno-quinto-informe-de-sinaloa-al-congreso/",
   "medio": "Quadratín Sinaloa",
@@ -1021,6 +1556,20 @@
   ],
   "local": true,
   "id": "53162d58cfa499e7"
+ },
+ {
+  "titulo": "José Luis Urquidy calienta motores para regresar con Venados de Mazatlán en la LMP",
+  "liga": "https://www.luznoticias.mx/2026-11-10/deportes/jose-luis-urquidy-calienta-motores-para-regresar-con-venados-de-mazatlan-en-la-lmp/314452",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-10T20:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-10T22:59:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "86b8d5598eb66cda"
  },
  {
   "titulo": "Paloma Sánchez Ramos cuestiona a Sergio Pío Esquer por alianza opositora en Sinaloa",
