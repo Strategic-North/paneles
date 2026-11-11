@@ -1,5 +1,454 @@
 [
  {
+  "titulo": "Detienen en Tijuana a \"Beto Leyva\", vinculado a los Arzate",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDVpT3RJdTRRVzBmLXd1RXNIXzQ0QkRvS3VCc2I5bW8wRlotd3daZU81eW1NRnE3QklxRVVCV0NVTzh4WTQ2RUpaSjBwQ3Ewd0VmVEszWFNBcVpSV1lDTndDdkdwSWZ3bUlJXzhPQXFYZHZrU1N4TzVfYVlxa2Exd2t0Ny1RdURJeDJfZ3c0dl9Nb1NkOXhqRU5mSEk?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T11:49:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Detienen en Tijuana a \"Beto Leyva\", vinculado a los Arzate AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0e2c200d6ed54cdb"
+ },
+ {
+  "titulo": "Vecinos de Colonia Aeropuerto en Ensenada Denuncian Falta de Obras Contra Inundaciones",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRTNkTWFlNFdrV21QdEZEZEctdzVZTGdnaURkWFFEVHNLdkpHUDBRbk92QVl4QkFFbE5LWHJoUjBvT2c3NnJpVmljZzRVZGNBaVU1RXpkYzRzZmgzbm1jdVg0Q0JQaTM1NkNqbkNuLXVoeGJ3UXdUd0dYQ0dHSFFuYzJEeXhMdXFCb3B4OVNxMlJRUWZZbHRyMC1NWEF3bHJuNHhaQmNFTjVUdVQyZG0wb0MwbFlsU1hRdEU0NEU2VTh0V21zdXhqeTVJQm5lS3poTXc?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T11:49:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Vecinos de Colonia Aeropuerto en Ensenada Denuncian Falta de Obras Contra Inundaciones N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "2f01d6a8913d65b7"
+ },
+ {
+  "titulo": "Parque del Niño Gaelito homenajea a pequeño héroe del Callao",
+  "liga": "https://elcongresista.mx/politica/nacional/parque-nino-gaelito-callao",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:43:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "El Parque del Niño Gaelito en Callao honra la memoria de un niño héroe que murió salvando a su hermana en un incendio.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ffd8acf277c2f41f"
+ },
+ {
+  "titulo": "Poder Judicial de Baja California amplía sus canales de atención ciudadana",
+  "liga": "https://elportavoznoticias.com.mx/poder-judicial-de-baja-california-amplia-sus-canales-de-atencion-ciudadana/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-11T11:43:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "De acuerdo con los resultados correspondientes al periodo de octubre de 2025 a septiembre de 2026, el Módulo de Atención y Enlace con Presidencia, ubicado en Tijuana, atendió a 6 mil 377... La entrada Poder Judicial de Baja California amplía sus canales de atención ciudadana se p",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f079311efae6bd0d"
+ },
+ {
+  "titulo": "Diego Valenzuela critica al kirchnerismo y propone cambios en el Senado bonaerense",
+  "liga": "https://elcongresista.mx/politica/nacional/diego-valenzuela-criticas-kirchnerismo-propuestas-senado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:43:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "El senador bonaerense Diego Valenzuela critica al kirchnerismo y presenta nuevas propuestas en su entrevista con Radio L.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "77231c897cd10ebd"
+ },
+ {
+  "titulo": "Lambda García anuncia su compromiso matrimonial con Daniel Delgado",
+  "liga": "https://elcongresista.mx/politica/baja-california/lambda-garcia-compromiso-matrimonial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:42:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Lambda García confirma su compromiso con Daniel Delgado tras un reencuentro amoroso después de 24 años.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "04ed82f8eb4604a8"
+ },
+ {
+  "titulo": "Congreso revisa avances y pendientes en materia de seguridad durante glosa del Quinto Informe de Gobierno",
+  "liga": "https://elportavoznoticias.com.mx/congreso-revisa-avances-y-pendientes-en-materia-de-seguridad-durante-glosa-del-quinto-informe-de-gobierno/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-11T11:38:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "El ejercicio se desarrolló ante la Comisión de Seguridad Ciudadana y Protección Civil, presidida por el diputado Jorge Ramos Hernández, donde legisladores cuestionaron temas relacionados con los índices de homicidios, la impunidad,... La entrada Congreso revisa avances y pendient",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Gobierno del estado",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "2a91315cb2cf7e10"
+ },
+ {
+  "titulo": "Frente Frío 5 afectará México con heladas de hasta -5 grados",
+  "liga": "https://elcongresista.mx/politica/nacional/frente-frio-5-heladas-lluvias-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:37:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "El frente frío 5 traerá heladas de hasta -5 grados y fuertes lluvias en varias regiones de México entre el 11 y 13 de noviembre.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8e9a2a053fa17418"
+ },
+ {
+  "titulo": "Multas de hasta 55 UMAs por exceso de velocidad en vías federales",
+  "liga": "https://elcongresista.mx/vehicular/multas-exceso-velocidad-carreteras-federales-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:36:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "En 2026, las multas por exceso de velocidad en carreteras federales alcanzarán hasta 6,452 pesos gracias a una nueva reforma legal.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "8dd10574b98dd2f9"
+ },
+ {
+  "titulo": "Arde vivienda en colonia La Bondad; no hubo heridos",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3dUSEp0WDBLaTB6c0QzQ19WOU9oellvRmFqaTNNQkdNT3lXOFNmT0U3U0pTLVJFYzlxZi1RMWR1ajZYczJkS2RBY09HZWQtendtalVlWVQ3M29kb0tTTzlQazdWQUYtbjd1YURMTWdfWTZfOTRyQ0JrX256WnZHZlVLdlZyZjhaeFJzbHd5c2xHZFowZlNqUFdaZFVQa1RkQzRv?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T11:33:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Arde vivienda en colonia La Bondad; no hubo heridos AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dc8728264222ae01"
+ },
+ {
+  "titulo": "Choque entre Calfia y Jeep deja dos lesionados en Mariano Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWVtTTFkeTVhV0hDUGNpa2JTanZQSUVYcmgwQ2RqV3hfR0tLZmVpcjJreGRfbERyOWtsNjlkUXhxRWdOYjdhWlBnbng5SDNNMlpkVFU2OGhWa0hhQklXbjRpeEQ2V2pTTGtqTmpkb3lpamdXLUNIQ3JkZU1OaWUwSEZYODhNTGNSOEZXNnhEME81cWYyamF5cGEtYlJVVERNUFMzUmd3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T11:26:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Choque entre Calfia y Jeep deja dos lesionados en Mariano Matamoros Baja News",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "8e0a3612ef865ccb"
+ },
+ {
+  "titulo": "Se anuncia el tema de la Feria del Condado de San Diego 2027",
+  "liga": "https://www.uniradioinforma.com/sociedad/se-anuncia-tema-feria-condado-san-diego-2027-n913745",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T11:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Desenvuélvela y descubre un verano repleto de dulces sorpresas",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "594acfd17684ea5b"
+ },
+ {
+  "titulo": "Sheinbaum solicita esclarecer contrataciones de Corporativo Kosmos con dependencias públicas",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-solicita-esclarecer-contrataciones-corporativo-kosmos-dependencias-publicas-n913741",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T11:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Tiene contratos por alrededor de 25 mil millones de pesos en dependencias federales y gobiernos estatales.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5c7027433071b0b2"
+ },
+ {
+  "titulo": "Autoridades federales detienen en Tijuana a “Beto Leyva”, presunto operador del CDS en tráfico de migrantes",
+  "liga": "https://zetatijuana.com/2026/11/autoridades-federales-detienen-en-tijuana-a-beto-leyva-presunto-operador-del-cds-en-trafico-de-migrantes_1/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-federales-detienen-en-tijuana-a-beto-leyva-presunto-operador-del-cds-en-trafico-de-migrantes_1",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T11:10:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "La detención se realizó en cateos autorizados por un juez, dentro de una investigación por delincuencia organizada.",
+  "temas": [
+   "Seguridad",
+   "Migración",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "127d2ad99ee6c814"
+ },
+ {
+  "titulo": "Fomentará \"Girando por el trompo\" experiencias educativas",
+  "liga": "https://www.uniradioinforma.com/sociedad/fomentara-girando-trompo-experiencias-educativas-n913743",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T11:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Evento anual presentó, subasta silenciosas, rifas, experiencias científicas y tecnológicas, en compañía de grupo \"La Clase\".",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "51d26286bb6d64fc"
+ },
+ {
+  "titulo": "Masa de aire frío afectará México, temperaturas bajo cero en varios estados",
+  "liga": "https://elcongresista.mx/politica/nacional/masa-aire-frio-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:09:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "La masa de aire frío comenzará a impactar a México el 11 de noviembre, con temperaturas de hasta -5 °C en varias regiones del país.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "54f04da36fe41d70"
+ },
+ {
+  "titulo": "Harfuch anuncia detención de Beto Leyva en Tijuana, integrante del círculo de “La Rana” y “El Aquiles”",
+  "liga": "https://puntonorte.info/2026/11/11/harfuch-anuncia-detencion-de-beto-leyva-en-tijuana-integrante-del-circulo-de-la-rana-y-el-aquiles/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-11T11:09:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "CDMX.- Autoridades federales detuvieron en Tijuana a “Beto Leyva”, identificado como integrante del círculo cercano de los hermanos René y Alfonso Arzate García, “La Rana” y “El Aquiles”, informó Omar García Harfuch, secretario de Seguridad en México. El también coordinador del G",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "12402ebefdc6bf26"
+ },
+ {
+  "titulo": "Sheinbaum destaca Vivienda para el Bienestar como programa histórico en México",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-destaca-vivienda-bienestar-como-programa-historico-mexico-n913738",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T11:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "\"Estamos haciendo vivienda para los que menos tienen (...) Con el objetivo de que 12 millones de mexicanas y mexicanos se beneficien\", puntualizó",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a0ebf3d18fde86bc"
+ },
+ {
+  "titulo": "Bomberos atendieron 54 servicios de emergencia en Tijuana; tres incendios y un atropellamiento fueron relevantes",
+  "liga": "https://www.uniradioinforma.com/policiaca/bomberos-atendieron-54-servicios-emergencia-tijuana-tres-incendios-atropellamiento-fueron-relevantes-n913736",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T11:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Emergencias",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "85ab4663eb408452"
+ },
+ {
+  "titulo": "Falleció un motociclista al chocar contra vehículo estacionado",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWlE0c1N0dlhnRmVDVlFQU2ZvNEFSM0dYRFNBZkJfUVVHUWM2QUdZY2Q0WTFEb1c2c0NiaTN0NkJaWUpTaTRMMGc5dWFjOWIwZnY1aVJNdEJsdkJLUm9tWk8zNVZITHhqd2VsVHMtc3N5Q0dhaHk1blVMTnhzV1c2YWVvbm03OTEtUk96c0lROUN1b0t5cHVRbWJZbEdRb0ZGTURNd1dQazBIQUhTV3VPSTNtQQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T11:06:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Falleció un motociclista al chocar contra vehículo estacionado AFN",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "d1415129684048ad"
+ },
+ {
+  "titulo": "Renovación de 6 mil metros cuadrados de fachadas en Janitzio",
+  "liga": "https://elcongresista.mx/politica/michoacan/renovacion-fachadas-janitzio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:04:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Se transformaron 6 mil metros cuadrados de fachadas en Janitzio, mejorando la imagen cultural y turística de la isla.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4644fdc2b3c66bbe"
+ },
+ {
+  "titulo": "Muere hombre de 30 años tras agresión a balazos en Apatzingán",
+  "liga": "https://elcongresista.mx/politica/michoacan/muere-hombre-agresion-balazos-apatzingan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:03:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Un hombre de 30 años fue asesinado tras una agresión armada en Apatzingán, a pesar de recibir atención médica inmediata.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d776d991bb657fff"
+ },
+ {
+  "titulo": "Cuatro sentenciados a 265 años de cárcel por secuestros en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/cuatro-sentenciados-secuestradores-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:02:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Cuatro hombres son sentenciados a 265 años de prisión en Michoacán por secuestros y robos ocurridos en 2022.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fda47e04f2f5f423"
+ },
+ {
+  "titulo": "Reconocen a Ruba por contar con uno de los mejores líderes de capital humano en México",
+  "liga": "https://www.uniradioinforma.com/sociedad/reconocen-ruba-contar-uno-mejores-lideres-capital-humano-mexico-n913734",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T11:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Filosofía humanista guía la gestión y el desarrollo del talento en Ruba",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6a15007453fad20f"
+ },
+ {
+  "titulo": "Hubo dos lesionados en choque de \"calafia\" y Jeep en el Mariano Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSE1kdkdGMlRtd29wa0lXcUhtazNLN0dDMW9NRnJUWG9QbHZYTWdCMU4xelBkUnlwZDFMNGowSTZGWmZRczF5SHF6R2ZwYnVxLUZIaXpIb0hIMXBTMk5EeHl3Qjd4SzZ6clZzTTREV3lKeHVBQl9tUlh2d1ZmajJNaE9zSUhOSm4xU0hLc3JnT01wMFJzVVdQTlU4Qm8zWXI3Y3JUcjl1MWVXU1loZWdvU19HRnlXMzh1RU1yTEgxaw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T11:01:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Hubo dos lesionados en choque de \"calafia\" y Jeep en el Mariano Matamoros AFN",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "9648cd2709789c63"
+ },
+ {
+  "titulo": "Vecinos de Galaxia Tarímbaro denuncian envenenamiento de 8 gatos",
+  "liga": "https://elcongresista.mx/politica/michoacan/vecinos-galaxia-tarimbaro-denuncian-envenenamiento-gatos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T11:01:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Vecinos de Galaxia Tarímbaro denuncian envenenamiento de ocho gatos y piden justicia en Michoacán.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ec8f4d3ddfc5a605"
+ },
+ {
+  "titulo": "Sheinbaum respalda a Andy López Beltrán y recomienda su video contra Salinas Pliego",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-respalda-andy-lopez-beltran-recomienda-su-video-salinas-pliego-n913732",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T10:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "La presidenta propuso abrir expedientes del Fobaproa.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c1a86f681b1b6554"
+ },
+ {
+  "titulo": "Mujer de 77 años muere arrollada por camión en León",
+  "liga": "https://elcongresista.mx/politica/guanajuato/mujer-77-anos-muere-arrollada-camion-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T10:56:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Una mujer de 77 años murió arrollada por un camión en León, destacando la falta de seguridad vial en la zona.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "531a8688f400fb3f"
+ },
+ {
+  "titulo": "Pío Esquer rechaza alianza con el PRI, afirma su líder en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/pio-esquer-rechaza-alianza-pri-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T10:55:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "César Emiliano Gerardo Lugo critica a Pío Esquer por rechazar la alianza con el PRI, considerando que favorece a Morena.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9f7b764739ec3964"
+ },
+ {
+  "titulo": "Localizan a un hombre muerto en campo de cultivo de Navolato",
+  "liga": "https://elcongresista.mx/politica/sinaloa/localizan-hombre-muerto-villa-juarez-navolato",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T10:55:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Un hombre fue encontrado sin vida en un campo de cultivo en Villa Juárez, Navolato, el 11 de noviembre. Las autoridades investigan.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fb889d631e68355f"
+ },
+ {
+  "titulo": "Realizan Jornada Estatal de Búsqueda con 100 Participantes en Ensenada, BC",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVRGZDA1M0l4ZmtJUWVpcWEycmdwQ2VDMDQtNHVSazczSDVFU3VyVnF0MkJsMWdNazhVTTlVbTI0TWNETFBVaVBtSXVSbG1paTh2S2VzR1VQVXNObXU0aVRkTW1GUE9xdWJrenVoU1BsM3AxU3dfdEEyQ0FkUUhsT2hfRkxxcmd3X183c0NHVjBNdVdEWjYzZUd0MXQ2NzBhZC11TVpPQWtuY1VoN0ItODJob3B5am9CR3VnaXZBN0JGTXBNRW8zYkI0NTY1UUh3c3g5Uw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T10:49:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Realizan Jornada Estatal de Búsqueda con 100 Participantes en Ensenada, BC N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8070c26933f83cae"
+ },
+ {
   "titulo": "“Viene una fiscalización más agresiva”: expertos llaman a empresas a prevenirse ante la Ley Aduanera 2027",
   "liga": "https://puntonorte.info/2026/11/11/viene-una-fiscalizacion-mas-agresiva-expertos-llaman-a-empresas-a-prevenirse-ante-la-ley-aduanera-2027/",
   "medio": "Punto Norte",
@@ -57,6 +506,20 @@
   ],
   "local": false,
   "id": "f668983fa459223d"
+ },
+ {
+  "titulo": "Firmeza del dólar debilita al peso mexicano que cotiza en 18.68 unidades",
+  "liga": "https://jornadabc.com.mx/02_secundarias/firmeza-del-dolar-debilita-al-peso-mexicano-que-cotiza-en-18-68-unidades/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T10:42:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "La divisa mexicana es presionada por el reporte de una débil producción nacional, según reportan especialistas de Monex La entrada Firmeza del dólar debilita al peso mexicano que cotiza en 18.68 unidades se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0820930bcb18e83a"
  },
  {
   "titulo": "Balean a pareja y a su hija de tres años, en Ciudad Obregón",
@@ -186,6 +649,20 @@
   ],
   "local": false,
   "id": "30eb183d22f74a05"
+ },
+ {
+  "titulo": "Noticias sobre tradiciones prehispanicas",
+  "liga": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02dFpSemZPakpXVTkzakZpOVNralBMazNCYnFVQkljNG5EMDFtdnhtakJtQmlDVVdBLUEwLVR4R0QySWlqb3VvVk5CaGVLVXN2TksydWxqcTk0aGQtcGtFdTZLM240VEhlQ2N6Z0RDLXo?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T10:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Noticias sobre tradiciones prehispanicas Baja News",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "909faed0a515025e"
  },
  {
   "titulo": "Cantinflas tendrá su propia serie en ViX",
@@ -515,6 +992,20 @@
   ],
   "local": false,
   "id": "c7b875f3ad2e6755"
+ },
+ {
+  "titulo": "Industria de Baja California crece 0.3% anual, nueve veces menos que el país; la electricidad compensa caídas en construcción y minería",
+  "liga": "https://www.uniradioinforma.com/sociedad/industria-baja-california-crece-03-anual-nueve-veces-menos-pais-electricidad-compensa-caidas-construccion-mineria-n913519",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T10:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "El INEGI ubica a la entidad lejos de Sonora, Nuevo León y Tamaulipas. La generación de energía eléctrica fue el único sector con aportación relevante al crecimiento nacional.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9a1218ca82794283"
  },
  {
   "titulo": "Hubo tiempos de espera mínimos para el cruce por garita de San Ysidro",
@@ -1594,6 +2085,20 @@
   "id": "89fbed64f4655fe5"
  },
  {
+  "titulo": "Infonavit 2026: ¿Tienes ahorros? Así puedes consultarlos y recuperarlos sin pagar intermediarios",
+  "liga": "https://oem.com.mx/lavozdelafrontera/finanzas/infonavit-2026-tienes-ahorros-asi-puedes-consultarlos-y-recuperarlos-sin-pagar-intermediarios-33078674",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-11T06:48:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Aquí te explicamos cómo revisar si tienes saldo disponible y qué pasos seguir para recuperarlo de forma gratuita",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "4e5a5d73a0dee0c0"
+ },
+ {
   "titulo": "Arranca programa de salud mental para 50 mil jóvenes en Nuevo León",
   "liga": "https://elcongresista.mx/politica/nuevo-leon/programa-salud-mental-nuevo-leon",
   "medio": "El Congresista",
@@ -1607,6 +2112,20 @@
   ],
   "local": false,
   "id": "e85f825f028feca7"
+ },
+ {
+  "titulo": "Tipo de cambio en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/tipo-de-cambio-en-tijuana-33078656",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-11T06:46:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Consulta aquí la compra y venta del dólar en los bancos de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "db41b141f595bc34"
  },
  {
   "titulo": "Diputados aprueban Presupuesto de Egresos 2027 por 10 billones",
@@ -1652,6 +2171,20 @@
   "id": "f5c6a873e91c9c3c"
  },
  {
+  "titulo": "Nuevo Reglamento de Tránsito de Mexicali: ¿Qué contempla la reforma?",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/nuevo-reglamento-de-transito-de-mexicali-que-contempla-33078281",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-11T06:28:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "El paquete de reformas incluye sanciones más severas, obligaciones de seguridad infantil y control a conductores reincidentes",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "476a5d1425c1a523"
+ },
+ {
   "titulo": "Guadalupe, joven correntina, testifica ante León XIV en Buenos Aires",
   "liga": "https://elcongresista.mx/politica/nacional/guadalupe-testimonio-leon-xiv-buenos-aires",
   "medio": "El Congresista",
@@ -1664,6 +2197,20 @@
   ],
   "local": false,
   "id": "65ba2b8fe833ec25"
+ },
+ {
+  "titulo": "Blanca Estela requiere 100 mil para una operación",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/blanca-estela-requiere-100-mil-para-una-operacion-33077764",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-11T06:02:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Esta mujer, madre soltera de tres pequeños, no cuenta con seguridad social y el Hospital General no realiza este tipo de intervenciones",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "dc6e7d1348f32f81"
  },
  {
   "titulo": "Baja California, tercer lugar nacional en tasa de evasión de presos; Mexicali concentra 3 de cada 4 casos",
@@ -3191,6 +3738,20 @@
   "id": "8f8d51c7db88dbed"
  },
  {
+  "titulo": "Adame y el notario incurrieron en delitos bajo la ley antilavado",
+  "liga": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcUVIY20tVkNyWFRmTThCWHN5aXFDSFhzYklWblo0VG5ZWWMwSmItLUZPOU1SZHFQOFhQWlBBaS1lNU0xcUo5WXNwbElDRGJQclFYRC1KeWxjU0UyS2I2T0hTUXloWWJ4cVpwOUwwd0M4c3BUZWZOd1kzVGgtME4wSlZIQ3dxT3dOb1NhNl9VQXhVY0R3WjN5dVhsWjJicDJRZVN1WkhaWEVkWHZheG1UYTFzWlRSWFIzRmpTTlc2ZkszVG1TMHdlTnlOSl94SF9wR28yM3RPYXU4Snh3a01wcTdmRjlPdmVUaWdDOHVCdzUxejA0WjEybm9WQlZwR2o3aDJic01pa1cwRmlHX0hSaGVWRGJ5RGM4UXdpSDZqNDN1SjY3WjE4?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T01:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Adame y el notario incurrieron en delitos bajo la ley antilavado AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4e40ce153324d83b"
+ },
+ {
   "titulo": "Amenazó con matar a su mamá, ya está en prisión",
   "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ad1I5VGxXTnFobFRYR3hZMEZTQVlRN2o0Z3VOWlcwZXotdmxsT0g4X1VmanoyLW50V3M5SWd3Sl9XVDRJamF5UWd6WnhibzJUN0RTczRST3NCLXdBZFhLYkhjZUtoWXpHYW96WDVR?oc=5",
   "medio": "Ensenada.net",
@@ -3506,6 +4067,20 @@
   ],
   "local": true,
   "id": "eb0fdce72d1a0558"
+ },
+ {
+  "titulo": "Noticias sobre mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1weTJpZ1FILUNWQm9jUE1QNG15ZzBTVHJZYjZZX3pRYWFvanhOcG1mUGhGZjRlNE1ZRG00STdNU24xNHdnUkpxUnM3Nzh0d255LVdJQ3ctTU5CMktPQ1pQQUVfWHZldw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-10T23:24:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T11:56:48-06:00",
+  "resumen": "Noticias sobre mexicali Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6b7588c561ea9ce1"
  },
  {
   "titulo": "Viralizan video de Adrián Marcelo en detención no confirmada",
