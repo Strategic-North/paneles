@@ -1,5 +1,280 @@
 [
  {
+  "titulo": "Aprueba Cámara de Diputados PEF 2027 por 10.6 billones de pesos",
+  "liga": "https://elcongresista.mx/politica/nacional/camara-diputados-pef-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:46:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "La Cámara de Diputados aprueba el PEF 2027, que incluye un gasto de 10.6 billones de pesos y recortes al INE.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "7b4e133ef9642eb5"
+ },
+ {
+  "titulo": "Kicillof destaca mensaje de León XIV sobre justicia social en vigilia",
+  "liga": "https://elcongresista.mx/politica/nacional/kicillof-leon-xiv-justicia-social-lujan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:37:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Axel Kicillof destaca la importancia del mensaje del papa León XIV sobre justicia social en Luján.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1696df3b7a47c298"
+ },
+ {
+  "titulo": "CFE suspenderá servicio eléctrico en Veracruz por 6 horas",
+  "liga": "https://elcongresista.mx/politica/veracruz/cfe-suspension-veracruz-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:36:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "La CFE suspenderá hoy el servicio eléctrico en siete comunidades de Veracruz por más de seis horas para mejorar la infraestructura.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "93b790fc1cd3116b"
+ },
+ {
+  "titulo": "Diputados aprueban el PEF 2027, con 10.6 billones de pesos y recorte de 6 mil millones al INE",
+  "liga": "https://zetatijuana.com/2026/11/diputados-aprueban-el-pef-2027-con-10-6-billones-de-pesos-y-recorte-de-6-mil-millones-al-ine/?utm_source=rss&utm_medium=rss&utm_campaign=diputados-aprueban-el-pef-2027-con-10-6-billones-de-pesos-y-recorte-de-6-mil-millones-al-ine",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T07:32:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Los diputados desecharon más de mil 700 reservas y sólo avalaron la reasignación de recursos del INE",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "fde4a7c7d85c67b2"
+ },
+ {
+  "titulo": "Detienen a 14 hombres presuntamente vinculados al Cártel de Sinaloa en Chiapas",
+  "liga": "https://elcongresista.mx/politica/chiapas/detienen-14-hombres-cartel-de-sinaloa-chiapas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:31:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Detienen a 14 hombres supuestamente ligados al Cártel de Sinaloa en Chiapas; se incautaron armamento y equipo táctico.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5f5c418173f9c7c8"
+ },
+ {
+  "titulo": "Arroja Café a Vendedor porque No le Dio los Buenos Días",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHNaY05qNmp2MGpPRmJ4eF91cmZiT1lCa2luWWplanJPb29vVXNITkI4cjBnd2FCNjNBS2Y1LV9LZGZ2eVRMZHhab1hSRElfbVFnaUpQRFFyVzlROWJXYjNMRmhKQmRMVHVreld6TlBlMzBJQWs4YUh3N3VmekR5STVoRUZrY0tYX0hEYkpRSHhDMzQ1cExOY1BrSk1iUzlySUROX3FidDRRUmFCbGJOVlBra3NoemhIX1lfQ1RB?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T07:30:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Arroja Café a Vendedor porque No le Dio los Buenos Días N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2814289a3840d168"
+ },
+ {
+  "titulo": "Guerrero propone legislar la IA para cerrar brechas educativas",
+  "liga": "https://elcongresista.mx/politica/guerrero/guerrero-regulacion-ia-aulas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:30:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Guerrero propone legislar el uso de IA en las aulas para cerrar brechas educativas y atender desigualdades en el acceso.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f71ec987bf74ab42"
+ },
+ {
+  "titulo": "Colombia destaca en la celebración del 27° Latin Grammy en Las Vegas",
+  "liga": "https://elcongresista.mx/cultura/latin-grammy-2023-colombia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:18:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "La 27ª edición de los Latin Grammy en Las Vegas contará con una amplia representación de artistas colombianos en diversas categorías.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "35b04daee18b40fa"
+ },
+ {
+  "titulo": "Alianza Lima depende de Eryc Castillo, con 22 goles en Liga 1 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/alianza-lima-eric-castillo-goles-liga-1-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:18:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Eryc Castillo se ha convertido en el goleador de Alianza Lima, sumando 22 goles en la Liga 1 2026, alertando sobre la dependencia del equipo.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e3db9013405f6033"
+ },
+ {
+  "titulo": "Claudia Sheinbaum aborda crisis de Ueno Bank que afecta a 7 mil empleados",
+  "liga": "https://elcongresista.mx/politica/nacional/conferencia-sheinbaum-ueno-bank-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:16:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Claudia Sheinbaum aborda la crisis laboral por Ueno Bank en conferencia; 7 mil empleados afectados en varios países de América Latina.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a98b616a80f90069"
+ },
+ {
+  "titulo": "Servicios de salud en Playa del Carmen alcanzan 95% de su meta",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/servicios-salud-playa-del-carmen-meta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:03:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Playa del Carmen alcanza el 95% de su meta anual en atenciones de salud, con 176 mil atendidos en nueve meses.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "93c6af4e5ea58979"
+ },
+ {
+  "titulo": "Playa del Carmen registra más de 176 mil atenciones de salud en 2026",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/playa-del-carmen-atenciones-salud-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:03:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Playa del Carmen reporta 176 mil 580 atenciones de salud hasta septiembre de 2026, con enfoque en grupos vulnerables.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "46b0598f47c0eb01"
+ },
+ {
+  "titulo": "Fox Sports desaparece y nace Nación Deportes en México",
+  "liga": "https://elcongresista.mx/politica/nacional/fox-sports-nacion-deportes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T07:01:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Fox Sports se transforma en Nación Deportes en México, a partir del 11 de noviembre, tras perder derechos de transmisión y enfrentar problemas legales.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "124c56262d29ee61"
+ },
+ {
+  "titulo": "Detienen en Colombia a alias Dimax por fuga y homicidio",
+  "liga": "https://elcongresista.mx/justicia/alias-dimax-detencion-fuga-homicidio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T06:51:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Capturan a alias Dimax, líder criminal, tras huir a Panamá. Enfrentará cargos por homicidio y fuga de presos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "59cea7d9d983b1b9"
+ },
+ {
+  "titulo": "Justiniano Montero Montero asume la presidencia de la Suprema Corte RD",
+  "liga": "https://elcongresista.mx/justicia/justiniano-montero-asume-suprema-corte-justicia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T06:50:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Justiniano Montero Montero toma posesión en la Suprema Corte, con un compromiso por una justicia independiente y transparente.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4ffd15cef81e19f0"
+ },
+ {
+  "titulo": "Proponen que el Vaticano participe en la Eurocopa y el Mundial",
+  "liga": "https://elcongresista.mx/politica/nacional/propuesta-vaticano-eurocopa-mundial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T06:49:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Surge una iniciativa para que el Vaticano tenga su propio equipo en la Eurocopa y el Mundial, buscando inclusión y cooperación juvenil.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "89fbed64f4655fe5"
+ },
+ {
+  "titulo": "Arranca programa de salud mental para 50 mil jóvenes en Nuevo León",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/programa-salud-mental-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T06:47:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Se presenta un programa gratuito de salud mental dirigido a jóvenes en Nuevo León, buscando mejorar su bienestar psicológico.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e85f825f028feca7"
+ },
+ {
+  "titulo": "Diputados aprueban Presupuesto de Egresos 2027 por 10 billones",
+  "liga": "https://elcongresista.mx/politica/nacional/diputados-aprueban-presupuesto-egresos-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T06:45:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "La Cámara de Diputados aprueba el Presupuesto de Egresos 2027 por más de 10 billones de pesos, con un déficit presupuestario proyectado.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "d7ebc71ef49892f8"
+ },
+ {
+  "titulo": "DiDi expande su servicio en México a más de 30 millones de usuarios",
+  "liga": "https://elcongresista.mx/vehicular/didi-mexico-crecimiento-30-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T06:32:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "DiDi conecta a más de 30 millones de usuarios en México, superando retos de competencia y regulaciones.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1ba525a2db7d7847"
+ },
+ {
   "titulo": "Pemex reporta un gasto menor de 17,646 millones de pesos en 2025",
   "liga": "https://elcongresista.mx/economia/pemex-gasto-menor-2025",
   "medio": "El Congresista",
@@ -26,6 +301,20 @@
   ],
   "local": false,
   "id": "65ba2b8fe833ec25"
+ },
+ {
+  "titulo": "Baja California, tercer lugar nacional en tasa de evasión de presos; Mexicali concentra 3 de cada 4 casos",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-tercer-lugar-nacional-tasa-evasion-presos-mexicali-concentra-3-cada-4-casos-n912664",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T06:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "El estado registró 4 denuncias entre enero y septiembre de 2026, una más que en el mismo periodo de 2025. En el país, este delito suma 156 carpetas y podría cerrar el año con la cifra más alta desde 2015.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ae85136700e0ff4f"
  },
  {
   "titulo": "Gobierno del Estado de México otorga lentes gratis a 1,402 personas",
@@ -118,6 +407,20 @@
   "id": "95b4580592c98764"
  },
  {
+  "titulo": "Noticias sobre fernando serra",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdk9YdHk2RWNMR2hJUG5VQXBDbWk0QWp4d2pNd1ZHTVB6bC1pU25XOXFhdnhUSS1sV095d2ZnNHBvM0ZnR0ZnVW5CWDQ2clFwclJXSko5b1ptUGJvSEpMWVRR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T04:41:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Noticias sobre fernando serra Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5a4c368ec19b6699"
+ },
+ {
   "titulo": "Últimas Noticias en Ensenada, Baja California",
   "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVY0anRSMVJEV1pvSUdCZUprNVMyOGpMRFFmWm80eTNrX21rMVd5RGc0QWxRYlRsenVDTV80LVdxUVZoLVhsbUdkMEthYkRDWk1XWEJPbkRvRmJWLVFramdJMU52cm5lUC1OdVVac2hxSjZwRG8tdVFCY25rRGlVVGZBMnR6VnFHR0JUdg?oc=5",
   "medio": "Ensenada.net",
@@ -130,6 +433,20 @@
   ],
   "local": true,
   "id": "287e3a808a765c0c"
+ },
+ {
+  "titulo": "Noticias sobre playa cabo pulm",
+  "liga": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WRVNpSDltMVdBQ3lyLS1zV1h3SzFxMHhta1BuNGhHMVZ6UDlYbThwc1BHbnUxVVI3QXVaajZfTmVoRm5COU9GS1Nib3gtMFc2VUdTR2RlZmZ5NUl4V20xWC0xQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T04:19:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T07:50:31-06:00",
+  "resumen": "Noticias sobre playa cabo pulm Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4cba3fbc9b6640ca"
  },
  {
   "titulo": "Papa Francisco visita cárcel de Devoto en Buenos Aires para escuchar a internos",
