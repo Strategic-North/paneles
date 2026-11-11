@@ -1,5 +1,65 @@
 [
  {
+  "titulo": "Pemex reporta un gasto menor de 17,646 millones de pesos en 2025",
+  "liga": "https://elcongresista.mx/economia/pemex-gasto-menor-2025",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T06:30:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "Pemex reporta un gasto menor de 17,646 millones de pesos en 2025, mientras otros sectores aumentan sus erogaciones según análisis.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "f5c6a873e91c9c3c"
+ },
+ {
+  "titulo": "Guadalupe, joven correntina, testifica ante León XIV en Buenos Aires",
+  "liga": "https://elcongresista.mx/politica/nacional/guadalupe-testimonio-leon-xiv-buenos-aires",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T06:05:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "Guadalupe, joven correntina, compartió su testimonio vocacional ante el papa León XIV durante una vigilia en Buenos Aires.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "65ba2b8fe833ec25"
+ },
+ {
+  "titulo": "Gobierno del Estado de México otorga lentes gratis a 1,402 personas",
+  "liga": "https://elcongresista.mx/estado-de-mexico/gobierno-edomex-lentes-gratuitos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T05:36:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "El Gobierno del Estado de México entregó lentes gratuitos a mil 402 personas en una jornada de salud visual en 125 municipios.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal",
+   "Salud"
+  ],
+  "local": false,
+  "id": "711712e43309b72f"
+ },
+ {
+  "titulo": "Aplican prueba Planea en Guanajuato para más de 50 mil alumnos",
+  "liga": "https://elcongresista.mx/politica/guanajuato/prueba-planea-guanajuato",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T05:33:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "La Secretaría de Educación de Guanajuato aplica la prueba Planea a más de 50 mil estudiantes para evaluar aprendizajes básicos.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e7f3e67e399ff0b6"
+ },
+ {
   "titulo": "Yucatán intensifica campañas para reducir abandono animal.",
   "liga": "https://elcongresista.mx/politica/yucatan/yucatan-campanas-esterilizacion-abandono-animal",
   "medio": "El Congresista",
@@ -56,6 +116,20 @@
   ],
   "local": false,
   "id": "95b4580592c98764"
+ },
+ {
+  "titulo": "Últimas Noticias en Ensenada, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVY0anRSMVJEV1pvSUdCZUprNVMyOGpMRFFmWm80eTNrX21rMVd5RGc0QWxRYlRsenVDTV80LVdxUVZoLVhsbUdkMEthYkRDWk1XWEJPbkRvRmJWLVFramdJMU52cm5lUC1OdVVac2hxSjZwRG8tdVFCY25rRGlVVGZBMnR6VnFHR0JUdg?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T04:24:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "Últimas Noticias en Ensenada, Baja California Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "287e3a808a765c0c"
  },
  {
   "titulo": "Papa Francisco visita cárcel de Devoto en Buenos Aires para escuchar a internos",
@@ -247,6 +321,48 @@
   ],
   "local": false,
   "id": "95ea41acdacea61c"
+ },
+ {
+  "titulo": "Noticias sobre fondos para la educacion",
+  "liga": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsd09lODgzcXpVeXV6eHpVZHJsWHNOa1RycWxOXzVWcWtnWUxTMkxfVUsxcmpvTVVNZ1VnUnRHckFSNS1BaEpnSmFBbk13TDdtNGtKR3JwTWdhM3kzRmFwZFhRdE51SGhDN3Fhbzl5VQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T03:10:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "Noticias sobre fondos para la educacion Baja News",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "b7e13624dde11352"
+ },
+ {
+  "titulo": "Noticias sobre pastas frescas",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90NlI3WHMyaUpsSXVFQm9pVXJCZ0l2V09QaGplRE4xS0Z4TE55OWE4eUNqWlNsaTdBZFBMcTQ0dGxGeTJYbXlxTm1oSFV3c2JZcXpDU0dTczZyYlNtZHhDRnJn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T03:04:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "Noticias sobre pastas frescas Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "daf27299abb7b58d"
+ },
+ {
+  "titulo": "Noticias sobre vientos de sant",
+  "liga": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95X2RSaUVsSzFOZFJKX2JuVXdXYXRmVElObGZFYUs5bEMtc0U2X28zejYtRXZybEttX0s1T1pUcFNKeDFmQk82VzdFWUlSLW5fV3llSVRXQzduRWRsU0VVSVRabw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T03:02:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "Noticias sobre vientos de sant Baja News",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "66cd179eeabdcc05"
  },
  {
   "titulo": "Oposición critica a Morena por deslindarse de Guadalupe Taddei",
@@ -1123,6 +1239,20 @@
   ],
   "local": false,
   "id": "d1fd181cae58d3c7"
+ },
+ {
+  "titulo": "Sorprenden a estudiante con marihuana",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTN4bG5aRVpIb09FcVJ2Y2dSd0lzYndIdjNsYVFGN09ZbzgtaXhGYlFkdW5XdlNuczZMMUQyeWdwZnJYTFhpX3lZak54d1N1MTBLZVJiWDNUM3A4ZVhRNVNFWU5zbDh3UDRULVZlX2ZsRDZHejJjSnVxbnlMcWdZdjZvMlRral9MckxfRXFKTDM1Zw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-11T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "Sorprenden a estudiante con marihuana El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bc4f5afa30c67410"
  },
  {
   "titulo": "Proyectan inversión federal y estatal de 200 mil mdp en Baja California al cierre de 2026",
@@ -2074,6 +2204,20 @@
   ],
   "local": true,
   "id": "9c1ce8ebf380c0d4"
+ },
+ {
+  "titulo": "Noticias sobre prevencion de desastres",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0RU5BM0E5cnBJMHdZREp1RkRKaW5aMmNIaVZVMXRVTmlSX1ZPOEpkYjNyblZIVGUzby02TTcxYlVPc2NVMzl3THl3ODRPaEpjbVdJU2wzZUZjNTlISXJOTW9NV0U5ZGsyT3k1NjF3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-10T21:51:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T06:33:18-06:00",
+  "resumen": "Noticias sobre prevencion de desastres Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e62dc3bdc81e18e9"
  },
  {
   "titulo": "Resultados Tris De las Siete hoy 10 de noviembre: números ganadores",
