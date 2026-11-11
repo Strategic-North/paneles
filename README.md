@@ -4,9 +4,9 @@ Reemplazan los paneles que vivían en el GitHub personal de Dana (`danacorres.gi
 
 ## Qué hacen
 - Cada 30 minutos, un robot de GitHub (GitHub Actions) lee los feeds de los medios de cada estado y búsquedas de Google News, y publica una página por estado en GitHub Pages.
-- Alrededor del corte corre más seguido: 19:47, 19:57, 20:03, 20:13 y 20:23 h CDMX (desde el 06.11.2026). GitHub retrasa las corridas programadas de 15 a 55 minutos en horas de carga: la de las 20:03 llegó a las 20:52 el 02.11, a las 20:42 el 04.11 y a las 20:18 el 05.11. Con varias corridas, alguna suele llegar a tiempo. Las notas se archivan por su hora de publicación, así que una corrida tardía completa el corte sin mezclarlo con el siguiente.
+- Alrededor del corte corre más seguido: 18:17, 18:27, 18:33, 18:43 y 18:53 h CDMX (desde el 11.11.2026; del 06 al 11.11 fueron 19:47, 19:57, 20:03, 20:13 y 20:23, con el corte a las 20:00). GitHub retrasa las corridas programadas de 15 a 55 minutos en horas de carga: la de las 20:03 llegó a las 20:52 el 02.11, a las 20:42 el 04.11 y a las 20:18 el 05.11. Con varias corridas, alguna suele llegar a tiempo. Las notas se archivan por su hora de publicación, así que una corrida tardía completa el corte sin mezclarlo con el siguiente.
 - Cada nota trae medio, hora de publicación (CDMX), liga, temas y si es local o nacional.
-- **Guardan historia.** Las notas se archivan por corte (`cortes/AAAA-MM-DD.json`, de las 20:00 h del día anterior a las 20:00 h del día), así que no se reinician a medianoche como los anteriores.
+- **Guardan historia.** Las notas se archivan por corte (`cortes/AAAA-MM-DD.json`, de las 18:30 h del día anterior a las 18:30 h del día desde el corte del 12.11.2026; hasta el 11.11 fue de 20:00 a 20:00, y el del 12.11 va del 11.11 20:00 al 12.11 18:30), así que no se reinician a medianoche como los anteriores.
 - La página dice cuándo se actualizó y qué fuentes no respondieron, para que nadie concluya "no hubo notas" cuando lo que falló fue la fuente.
 - **Son neutrales:** solo noticias del estado, sin nombres de clientes ni de actores. El filtro por actor se hace en el proyecto de Cowork. Los sitios de GitHub Pages son públicos, por eso las páginas llevan `noindex` y `robots.txt` para que no aparezcan en buscadores.
 

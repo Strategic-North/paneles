@@ -13,12 +13,16 @@ import unicodedata
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 CDMX = timezone(timedelta(hours=-6))  # CDMX no tiene horario de verano desde 2022
-HORA_CORTE = 20
+# Hora del corte (CDMX). Hasta el corte del 11.11.2026 fue a las 20:00; desde el del
+# 12.11.2026 es a las 18:30. El del 12.11 es de transición: del 11.11 20:00 al 12.11 18:30.
+CORTE_ANTERIOR = (20, 0)
+CORTE = (18, 30)
+CAMBIO_DE_CORTE = date(2026, 11, 12)
 DIAS_RECIENTES = 3  # cuántos días hacia atrás se aceptan notas nuevas
 # Casi la mitad de los medios rechaza el User-Agent de Python: se usa uno de navegador.
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -220,14 +224,23 @@ def momento(nota):
     return datetime.fromisoformat(nota["publicada"] or nota["visto"])
 
 
+def fin_de_corte(dia):
+    """Momento en que cierra el corte del día D (CDMX)."""
+    hora, minuto = CORTE if dia >= CAMBIO_DE_CORTE else CORTE_ANTERIOR
+    return datetime(dia.year, dia.month, dia.day, hora, minuto, tzinfo=CDMX)
+
+
 def ventana_corte(dia):
-    fin = datetime(dia.year, dia.month, dia.day, HORA_CORTE, tzinfo=CDMX)
-    return fin - timedelta(days=1), fin
+    return fin_de_corte(dia - timedelta(days=1)), fin_de_corte(dia)
 
 
 def dia_de_corte(cuando):
-    """El corte del día D cubre de D-1 20:00 a D 20:00 (CDMX)."""
-    return (cuando + timedelta(days=1)).date() if cuando.hour >= HORA_CORTE else cuando.date()
+    """El corte del día D cubre del cierre del corte de D-1 al cierre del de D (CDMX):
+    de 18:30 a 18:30 desde el 12.11.2026; antes, de 20:00 a 20:00."""
+    if cuando.tzinfo is not None:
+        cuando = cuando.astimezone(CDMX)
+    dia = cuando.date()
+    return dia + timedelta(days=1) if cuando >= fin_de_corte(dia).replace(tzinfo=cuando.tzinfo) else dia
 
 
 def cargar(ruta):
