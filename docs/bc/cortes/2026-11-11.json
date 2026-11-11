@@ -1,5 +1,919 @@
 [
  {
+  "titulo": "Hombre asesinado a balazos en TJ; totalizan 761 homicidios en 2023",
+  "liga": "https://elcongresista.mx/politica/baja-california/hombre-asesinado-tijuana-camino-verde",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:52:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Un hombre fue asesinado a balazos en Tijuana; hasta el momento no hay detenciones y se reportan 761 homicidios en lo que va del año.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "d69210654e209406"
+ },
+ {
+  "titulo": "Priistas denuncian corrupción en Infonavit por 580 millones de pesos",
+  "liga": "https://elcongresista.mx/justicia/priistas-denuncian-corrupcion-infonavit",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:48:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Denuncian senadoras del PRI corrupción en el Infonavit con contratos por 580 millones de pesos otorgados sin licitación.",
+  "temas": [
+   "Política y partidos",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1475118370a49a3d"
+ },
+ {
+  "titulo": "Suprema Corte niega amparo a neurocirujano del IMSS por negligencia",
+  "liga": "https://elcongresista.mx/justicia/suprema-corte-amparo-neurocirujano-imss",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:46:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La SCJN niega amparo a neurocirujano del IMSS vinculado por negligencia médica, reafirmando la responsabilidad penal en casos de lesiones.",
+  "temas": [
+   "Salud",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7eda448b6c0f5e6a"
+ },
+ {
+  "titulo": "José Woldenberg: México vive una erosión democrática bajo Morena",
+  "liga": "https://elcongresista.mx/opinion/jose-woldenberg-erosion-democratica-morena",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:46:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "José Woldenberg advierte sobre la erosión democrática en México atribuyéndola al partido gobernante, Morena, en una reciente entrevista.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a6b5f9c34608fe3b"
+ },
+ {
+  "titulo": "Amenazas atribuidas a Irán obligan al secretario del Tesoro de EE.UU. a mudarse a una base militar",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYU54T19BWHVuM1JGbU9qU1VUV0p5NC1rTWQzdm1ya1hxZURUc2E5Ujg5YUxjU0hnX2dnRGpRSmNMVzVINHNjTFQtYWYzcW1YSVROb25RMEtIZHpua09TYjNFc0Q3R3lTTHVsUWw1alZiMXUwd3Y5azNMRVhudWRGNGUxZnhBSGd6ejF0dF9RTTFzdWhKOXpNWHc4TXk4RS1zQ1pxam9NamdqVTM2czhwM3FpZHhvX25lZ3A5dXR5Q0J3akxtZWcxaEl5dWlxYkZNRXo2eA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T16:44:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Amenazas atribuidas a Irán obligan al secretario del Tesoro de EE.UU. a mudarse a una base militar Baja News",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "c5410e8afe7bad0e"
+ },
+ {
+  "titulo": "Aprueba Cabildo de Ensenada el anteproyecto de Ley de Ingresos 2027, sin incremento en el impuesto predial",
+  "liga": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbHpHMWlaYzd1bHFQTlBzdHdtMVhHS3lMN0VOd2tiOUEwZHMteV9UaHVXMGQ4aHFtUVBSVHNPNzFQVGJoU0szSmhNd2VEX1BieTQ0WnF3cW1FM0JheFNEdlhQVUVtcXhuQUdyRGM1TXlacnNyZ283dDBvNGZJamYtenBIVWg0anc3b2NOd0V6dl90SDNOdGtIYkNLQTdINmIzTGtIUktsd2U3Mnd0QjN6OHBZTXNEXzNKT2ZIbDhhUThaQi1zQUtUaktKUnFZWGhvc0tWRldOTTRZZG1nSGFJVWJrTTRvTm9OazV0R2E1LXhQZWs?oc=5",
+  "medio": "En Linea BC",
+  "publicada": "2026-11-11T16:43:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Aprueba Cabildo de Ensenada el anteproyecto de Ley de Ingresos 2027, sin incremento en el impuesto predial En Linea BC",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "b20c43750e35cdb2"
+ },
+ {
+  "titulo": "Anuncian Fechas para el Operativo 'Mueble Viejo' en Mexicali, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2ZpT25fRk1rbkU5R3lVcTlqZHYtXzZhZWNzTHFsOEdRN2hiQTF6c2FSN1NyTVMtaFJOVzVvUGxySzYzLXAteFR2VFVhYWN6WGdYZUtSbk5pM2doRVRNX2hGX3RWSFRDT0s4WU9NNUZkWG5NU2ZTSE1WZENJak1oQTJRYzdTaEkxdW8zV2JXZ1R0YWE3XzBldFN1RzlSWTN4d0VzLWlkNWxFdGpnQm55Ykw0cTJCWFZnX1A1Zndra2kzZw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T16:36:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Anuncian Fechas para el Operativo 'Mueble Viejo' en Mexicali, Baja California N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "14d4cb8c413983ea"
+ },
+ {
+  "titulo": "Presidente del Instituto Electoral ya no propondrá reducir candidaturas para mujeres",
+  "liga": "https://puntonorte.info/2026/11/11/presidente-del-instituto-electoral-ya-no-propondra-reducir-candidaturas-para-mujeres/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-11T16:35:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Mexicali.- El consejero presidente del Instituto Estatal Electoral de Baja California (IEEBC), Luis Alberto Hernández Morales, aseguró que respaldará los criterios de paridad de género propuestos para las elecciones de 2027, luego de que su intervención en una sesión pública del ",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "18f824e4f7fec92c"
+ },
+ {
+  "titulo": "Conoce los nuevos juegos revelados en los Golden Joystick Awards 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/golden-joystick-awards-2026-nuevos-juegos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:34:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Los Golden Joystick Awards 2026 revelaron nuevos títulos, incluyendo Conan y Exterminauts, previstos para lanzamientos en 2026 y 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f2a9f2ffdcd64c7f"
+ },
+ {
+  "titulo": "Ofrecen más de 100 variedades de tacos en Taco Fest de Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/taco-fest-morelia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:32:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "El Taco Fest 2026 en Morelia ofrecerá más de 100 variedades de tacos y actividades para toda la familia el 14 y 15 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1b7c09cb783a00bb"
+ },
+ {
+  "titulo": "Michoacán presenta un incremento del 25.5% en causas penales juveniles",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-aumento-causas-penales-adolescentes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:32:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Michoacán reporta un aumento del 25.5% en causas penales contra adolescentes, reflejando un incremento en el crimen juvenil en la entidad.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a22a0e3191bb2591"
+ },
+ {
+  "titulo": "Gladyz Butanda asegura que ruptura con PT no afectará a Morena en 2027",
+  "liga": "https://elcongresista.mx/politica/michoacan/ruptura-moron-pt-no-afecta-triunfo-morena",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:31:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Gladyz Butanda asegura que la ruptura con el PT no perjudicará el triunfo de Morena en las elecciones del 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "76206a4f96634b5c"
+ },
+ {
+  "titulo": "Chocó contra una camioneta en Ensenada y atacó a piñas y patadas a los policías",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeC1VNWhOR3QtZnNfWm52ZERLWWdVOTZPSndqUlhoNWR0Mmh2M2R4RThIaTFPY1g5eUFObkhfeks5cU9oMVBFd0dwRFl3eGluVlhTTVkwVDdGVXQ0b0lzbElXWUZvRWlCQ1pGSGtzTzBFcXpuWmVjam1RMmdPQ3pvc204Ql9yeEFTSjNvdUJEUnZsV0FDVUNaWGpVYjhSNDM4SUFiSnFUUklVMmc2X0JVMkp4d9IBuAFBVV95cUxNaVEweTgzN2kzWDZNUjVkOHQzY2djXzNfdjNLcEtJandnaWhjcDMxUnFMVUxoQzN5NkZsMDlLbkVBdVRnTmVlNzJJZVRGSVV6aW9EdnByRzVTeW01Z0hwd2NmTFp5U0ZGVGdXN2h5OUQ2QXdFWWd4M2RPbTdreXVENHBTem9lamxGSWF5ZnY2R29DNG8yc2x0Nmdmb3FmZERDcG81dTlic3ZsYWROTEZQWnZxMm1ZRUxi?oc=5",
+  "medio": "0221",
+  "publicada": "2026-11-11T16:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Chocó contra una camioneta en Ensenada y atacó a piñas y patadas a los policías 0221",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ed1e9c29ccec788b"
+ },
+ {
+  "titulo": "Exposición “Memoria y Materia” presenta 18 obras en Nueva Italia",
+  "liga": "https://elcongresista.mx/politica/michoacan/exposicion-alfredo-zalce-nueva-italia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:30:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La exposición “Memoria y Materia” presenta 18 obras de la Bienal Alfredo Zalce en Nueva Italia, disponible con entrada gratuita.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4954bdabf3b972e6"
+ },
+ {
+  "titulo": "Inauguran exposición de caricaturas \"SAS! 2026\" en la Casa de la Cultura",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0RXX1RCZko5enFmek8xTF9UVUtMV1o5LU15WnRoZzhIdVhFUk5OdjZ4aGlJNHZRdUt6RFVVWmFONUI0Qjcwa0R2MWlBQnFZN0hGY3VqcGRzbUk1M0xLZ3FJeVY0QlNfbU4zcjN4VVhCV1dna2dsQWtNU2pxMEZHYjBLWlNTNEZQMHBtN0lBYlNhaVN1VURXRTFsNWFfdVB2dVpVLURjYlcxYTFpSWtmWk43bXhqeWdzdmhDMQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T16:29:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Inauguran exposición de caricaturas \"SAS! 2026\" en la Casa de la Cultura AFN",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "aab30ce6b2c77b99"
+ },
+ {
+  "titulo": "Ayuntamiento realiza jornada de bacheo en la colonia Libertad",
+  "liga": "https://jornadabc.com.mx/principales/ayuntamiento-realiza-jornada-de-bacheo-en-la-colonia-libertad/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T16:27:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "El alcalde explicó que la atención a las vialidades es constante, porque al tapar un bache pueden aparecer otros por el desgaste del tránsito La entrada Ayuntamiento realiza jornada de bacheo en la colonia Libertad se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Gobierno municipal",
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "b69ece5f55b824c0"
+ },
+ {
+  "titulo": "Frankie Muniz queda fuera de competencia tras sufrir accidente durante carrera de Speedway",
+  "liga": "https://www.uniradioinforma.com/fama/frankie-muniz-queda-fuera-competencia-tras-sufrir-accidente-durante-carrera-speedway-n913864",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T16:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Frankie Muniz quedó fuera de la exhibición de Ford en Daytona tras un incidente que dañó considerablemente el techo del Mustang que compartiría con Austin Cindric.",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "4817a1a745b4eba7"
+ },
+ {
+  "titulo": "DURANGO: PRI considera insuficiente presupuesto federal 2027 y pide gestionar recursos adicionales",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVprLUVKdk1GaTkxazJPdkctQzRPakl2dlUtUGtSRVVRbTJqeGlsUXFfdEdVUTNkS2JGc3VmN21sOXlKVWpKcEhVbTJxU2tyQUhvR19uaTNVck1yQ214ZExDM3RnYVZIVUgyRGxCZVR5d2VkU2h1OUVvQWpZNVZFeUJ6aERxelJtWVB0LUljWThVSjFVZ0ctdG1SaFlUZnZqYWF0NWJXQUF4a0U1TV9jeHpHS1c1RTAzUldMVDl4bEJ4RDlHY1hVTThDOFY?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T16:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "DURANGO: PRI considera insuficiente presupuesto federal 2027 y pide gestionar recursos adicionales Baja News",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "7ef188862ece0d4a"
+ },
+ {
+  "titulo": "Hermosillo se prepara para la segunda edición de La Cura Fest",
+  "liga": "https://elcongresista.mx/politica/sonora/hermosillo-la-cura-fest-regreso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:19:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Hermosillo espera el regreso de La Cura Fest, impulsado por Carín León, tras el éxito de su primera edición.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a980841a261f1d3a"
+ },
+ {
+  "titulo": "Detienen a estudiante por vender droga en secundaria, sus clientes eran alumnos de 12 y 14 años, incluyendo 2 jovencitas",
+  "liga": "https://puntonorte.info/2026/11/11/detienen-a-estudiante-por-vender-droga-en-secundaria-sus-clientes-eran-alumnos-de-12-y-14-anos-incluyendo-2-jovencitas/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-11T16:19:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Tijuana.- Un estudiante de la secundaria Leyes de Reforma de la colonia Libertad fue sorprendido por maestros de la escuela vendiendo droga a sus compañeros en el plantel, entre ellos niños de 12 años. El menor, de 14 años de edad, llevó cigarrillos de marihuana a la secundaria y",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "db471615f59e0d52"
+ },
+ {
+  "titulo": "Puebla firma convenio para rehabilitar 35.6 kilómetros de carreteras",
+  "liga": "https://elcongresista.mx/politica/puebla/convenio-rehabilitacion-carreteras-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:18:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "El gobernador de Puebla firma un convenio para rehabilitar 35.6 kilómetros de carreteras, beneficiando a más de 155 mil habitantes.",
+  "temas": [
+   "Gobierno del estado",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aa0142e60ad16a45"
+ },
+ {
+  "titulo": "Pide Canacintra diálogo para mejorar tarifa de luz en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3FyQmtNREl5S0IwS2FiZnRqcGpIakNXMzJ1UUNjMzdHVUlFNmVNTHlEcEpEZ0xSMW1BYW1Td0ZUaTVHdVRoZFZoWlhVUGpaemxxUXJrbi1zaG4xTTBaS3M1ejZ6RURkbU9qd2ZwZlp0Y19na3p0ZHdzNW8xcVNTZV9iaWsxSXgxSW80UnJaQmZDdG5uSUo5SUlqMjZLZU1MbmJqOFkwa2xmOVZhclgxb0twaw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T16:18:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Pide Canacintra diálogo para mejorar tarifa de luz en Mexicali AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c39bdb2154ebee91"
+ },
+ {
+  "titulo": "50 mdp destinados a Policía de Mexicali se quedarán en la DSPM",
+  "liga": "https://elcongresista.mx/politica/baja-california/50-mdp-academia-policia-mexicali",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:17:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La alcaldesa Norma Bustamante informa que 50 mdp para la Academia de Policía se destinarán a mejoras en la DSPM.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "2e91600a51fbc6f7"
+ },
+ {
+  "titulo": "Aumentan costos médicos en México, inflación médica prevista de 12.8%",
+  "liga": "https://elcongresista.mx/salud/inflacion-medica-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:16:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La inflación médica en México se proyecta en 12.8% para 2027, impactando a los usuarios de seguros de salud.",
+  "temas": [
+   "Salud",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "2437cc4b8838494c"
+ },
+ {
+  "titulo": "Hokchi Energy inicia exploración en Golfo de México con 60 millones",
+  "liga": "https://elcongresista.mx/politica/veracruz/hokchi-energy-exploracion-golfo-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:15:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Hokchi Energy inicia exploración en el Golfo de México con inversión de 60 millones de dólares, buscando aumentar su producción de petróleo.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e22860473c7f264a"
+ },
+ {
+  "titulo": "Construyen nuevo bachillerato en Lerdo con inversión de 23.1 millones de pesos",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQck5iSzhRakVLRmZNTWNJeVdHYlBuQ3o2MHgwYWQydmpXX2kxTE5iRTRZeFg0Vmd4NEMwR0JpSWhsSmNsR25wbTNjTW5iMThjcThUekhBUGRjZ0lMM0lhYnVkdy1rSjctWW9nQzhNLXM1LVBHSFN0X1pCZjQwb3JpUFpHbXptaDJjck4tSy1sV2tQaDJaRHUxOUdSbjM4VGVqcklGcV84V204WkhOekEybUtsdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T16:15:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Construyen nuevo bachillerato en Lerdo con inversión de 23.1 millones de pesos Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "18a5c554b580f94a"
+ },
+ {
+  "titulo": "Reportan incidente entre Usman Nurmagomedov y Merab Dvalishvili en Abu Dhabi; hay un detenido",
+  "liga": "https://www.uniradioinforma.com/deportes/reportan-incidente-usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hay-detenido-n913861",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T16:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Merab Dvalishvili aseguró que Usman Nurmagomedov y un grupo de personas lo golpearon por sorpresa durante una entrevista en Emiratos Árabes Unidos.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "9965a3d63abdb525"
+ },
+ {
+  "titulo": "Detectan en Tijuana 54 puntos de riesgo ante el fenómeno de El Niño",
+  "liga": "https://jornadabc.com.mx/02_secundarias/detectan-en-tijuana-54-puntos-de-riesgo-ante-el-fenomeno-de-el-nino/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T16:11:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Casi 13 mil personas y 3,658 viviendas estarían potencialmente expuestas a inundaciones, escurrimientos y flujos de lodo, revelan en la Mesa Permanente de Preparación y Respuesta ante el pronóstico meteorológico La entrada Detectan en Tijuana 54 puntos de riesgo ante el fenómeno ",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "8e767b5b28dcb939"
+ },
+ {
+  "titulo": "Sentencian a 51 años a socio de Barbie Regia por feminicidio",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/sentencia-barbie-regia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:08:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Un hombre fue sentenciado a 51 años de prisión por el feminicidio de la influencer Barbie Regia en Monterrey.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e3c84c6775c5de52"
+ },
+ {
+  "titulo": "San Ysidro presenta tiempos de espera de 90 minutos en garita",
+  "liga": "https://elcongresista.mx/politica/baja-california/san-ysidro-espera-90-minutos-garita",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:07:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La garita de San Ysidro reporta hasta 90 minutos de espera este miércoles, impactando a la comunidad transfronteriza.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bdcb59b9f426681e"
+ },
+ {
+  "titulo": "Denunciarán residentes de Tijuana a magistrado por caso inmobiliario",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcW80OG0wVnJweEIwY1d5QWJ3c08wcnhOV0doRE1XU0xVUUFQVDRNVEJXeGtsYnZFYWxMOXVIdEhZcVMzaHBQcjFyQUFWdEU1MU95eGhGel9UaUtURHh2d0dXNVFjZmlseWZmRDUwSHVnSGgtY3ZHY1BrZXJHTjh3ZWpjWV9wZlhGTGRVc1hjWVUyU2FsSFplYjJQRGYtUDZpQ3lDd19OQmM0SDhETnozMjBTNjVuUDJKX09B?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T16:06:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Denunciarán residentes de Tijuana a magistrado por caso inmobiliario AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e7c469099fbe06bb"
+ },
+ {
+  "titulo": "CNC acusa abandono del campo y anticipa participación política de campesinos en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORHIxRnVqVlFkWjllZmJIdVV2XzJUakNmUl9qWmNSVlp2X1JWR0F5ZDBvcHVFanhsMFJkelA4U09kTUxNcnd6Q0hMNVZJWkc4UzhXMWVJaGRFYm9YVlU1MTJCaThFSXpiZTlXb3Q0aXJfNmZnX1FKWHJtbjBGeFVnUkJSa2xZbGFxSHk5b1NEMHE2cW9zTDgydExyZ3BkT09PR3ZzdDVkX0pVOWxMTWFNd1gtdUVlNVB2UlJB?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T16:05:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "CNC acusa abandono del campo y anticipa participación política de campesinos en 2027 Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "80adb3b72236707d"
+ },
+ {
+  "titulo": "Sheinbaum celebra aumento del 11.3% en salud en el PEF 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-aumento-salud-pef-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:04:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Sheinbaum celebra aumento del 11.3% en salud y garantiza el presupuesto para las elecciones 2024 con el PEF 2027.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "20ed58e8f3480a50"
+ },
+ {
+  "titulo": "Fortalece Gobierno de Baja California la transparencia y el combate a la corrupción",
+  "liga": "https://www.uniradioinforma.com/sociedad/fortalece-gobierno-baja-california-transparencia-combate-corrupcion-n913856",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T16:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Se han ampliado los mecanismos de transparencia, atención ciudadana y vigilancia del uso de los recursos públicos",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bf5fe92704e980bd"
+ },
+ {
+  "titulo": "Universidad Panamericana elige a Fernando Batista como nuevo rector",
+  "liga": "https://elcongresista.mx/educacion/universidad-panamericana-fernando-batista-nuevo-rector",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:03:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Fernando Batista Jiménez es nombrado nuevo rector del Campus México de la Universidad Panamericana para el periodo 2026-2029.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "c746a2d14b8345db"
+ },
+ {
+  "titulo": "Ariadna Montiel propondrá comisión en Diputados por fraude de 2006",
+  "liga": "https://elcongresista.mx/justicia/ariadna-montiel-comision-fraude-electoral-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:02:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Ariadna Montiel visitará la Cámara de Diputados el 9 de noviembre para proponer la creación de una comisión especial que investigue el fraude electoral de 2006.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0ec03e85b9b2d344"
+ },
+ {
+  "titulo": "Fomento Cultural Banamex celebra 55 años y redefine su misión cultural",
+  "liga": "https://elcongresista.mx/cultura/fomento-cultural-banamex-55-aniversario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T16:00:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Fomento Cultural Banamex celebra 55 años y lanza nuevas iniciativas para acercar la cultura a las jóvenes generaciones.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c1237c876847ca84"
+ },
+ {
+  "titulo": "Los 50 mdp que se iban a utilizar en la Academia de Policía se quedarán en la DSPM: Bustamante",
+  "liga": "https://zetatijuana.com/2026/11/los-50-mdp-que-se-iban-a-utilizar-en-la-academia-de-policia-se-quedaran-en-la-dspm-bustamante/?utm_source=rss&utm_medium=rss&utm_campaign=los-50-mdp-que-se-iban-a-utilizar-en-la-academia-de-policia-se-quedaran-en-la-dspm-bustamante",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T15:59:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La alcaldesa de Mexicali, Norma Bustamante Martínez, informó que de los 50 millones de pesos destinados a la Academia de Policía, seis se utilizarán para mejorar las instalaciones de la colonia Zacatecas y el resto para adquirir equipamiento para la corporación.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "381c39707409b2ea"
+ },
+ {
+  "titulo": "Morena rechaza propuesta del Ieebc de reducir candidaturas de mujeres",
+  "liga": "https://jornadabc.com.mx/principales/morena-rechaza-propuesta-del-ieebc-de-reducir-candidaturas-de-mujeres/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T15:58:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "\"Lo que hemos conquistado con décadas de lucha, no vamos a permitir que retroceda\", concluyó el posicionamiento firmado por la dirigencia estatal La entrada Morena rechaza propuesta del Ieebc de reducir candidaturas de mujeres se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "08e37a6889fbe151"
+ },
+ {
+  "titulo": "Piden quitar recursos a Mexicana y al Tren Maya.. para la policía de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdnp3YUdMUmlURmZHb1RXb1RlNTRpSFB0UzdtTm4xY0VHUGN4VGwwTUxpdGhpZ1FGWXhUWWs1eDRSZlJYMWhvUldSMmMxekZiMkx1T1lFdHhqd2xOUVdRZHdaTC1GaTFULW9DdW1oSDVYSVMyTW9ZRDhpRk9kd1dFQm8tVHdiRXM3UUdJX1lmd3FXd3hoRVhjZkROaU1tQjhiTmdXaVZXb1ZzSi05dmNzSElnZXg2SnFJazE3MGNtLThjZXc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T15:57:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Piden quitar recursos a Mexicana y al Tren Maya.. para la policía de Tijuana AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4690b4f22399decd"
+ },
+ {
+  "titulo": "Evelyn Sánchez entrega apoyos a más de 100 familias durante recorridos en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVHdHbEp4ektzVGZuRUkxcWRaT1pqdXlHTzFVYlp4M08xLVpmWjJlbzM1RGVacUItb0pvUG5maDRTNTNScllsWTJHNmM3RkhnZGV5Vm8ycVk2N0N2VHVxa2t6WG9jMElkUjk3cV9HS0RuT2cyRXRoSHdDVzB5WnF3UzRkT2NBY0p2ME9qTUVsanBPZGI1SUtFSXM3VmYycUdKUElxT1FxNXZsQUVtVXEzMFJJNUVVRUY0?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T15:57:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Evelyn Sánchez entrega apoyos a más de 100 familias durante recorridos en Tijuana Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3c7c51a0123b3398"
+ },
+ {
+  "titulo": "Piden apoyo para localizar a adolescente desaparecida en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUhwOHpJWlowa3lkdlkwYkJyckJ5a0c4dFRtWWVBcnZUSnMwa2JwZ094M3lmS2JJN2ZHRmVCajFBS2xBUlpfdEZDbHh5YUx2MVd4akg2cFpNRV9DYS1oN2NYUTZWZnY3NW1VcEFDV1RuUnBzMjVVM3dQX0JsU0I1RGJKNERfQkhWY2k1LXNOT3FtSjN5MGtyWVhRQTNhLXFzWklnWXM2cTRIZ0ZzMjBMYUJlbS1NemNVLUdsUld3?oc=5",
+  "medio": "En Linea BC",
+  "publicada": "2026-11-11T15:56:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Piden apoyo para localizar a adolescente desaparecida en Ensenada En Linea BC",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "43d30443160e0142"
+ },
+ {
+  "titulo": "Para asaltarla, acuchillaron a mujer en la zona centro",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nVW0ybS1VZlNmRGpXbWRER3pDNmhzamgzSmlobG1SbzlBbk5jbVNGamVMMWRnaTRrY0NvUnNTNEU0TUlEd1RFX3ZzcmllenZFbEhpWjlIdUxqV2M?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T15:54:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Para asaltarla, acuchillaron a mujer en la zona centro Ensenada.Net",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5599cdba0406547e"
+ },
+ {
+  "titulo": "México propone cuatro ciudades para Mundial Femenil 2031",
+  "liga": "https://jornadabc.com.mx/principales/mexico-propone-cuatro-ciudades-para-mundial-femenil-2031/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T15:49:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La propuesta de los países de la Concacaf, que tiene como lema “Por el presente. Por el futuro”, incluye 20 ciudades anfitrionas La entrada México propone cuatro ciudades para Mundial Femenil 2031 se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0f88ed27e9e78839"
+ },
+ {
+  "titulo": "Jucopo respalda a Horacio Duarte y presenta informe el 19 de noviembre",
+  "liga": "https://elcongresista.mx/politica/edomex/jucopo-respalda-horacio-duarte-informe-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:49:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La Jucopo del Edomex respalda a Horacio Duarte y presentará el informe de Cuentas Públicas el 19 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2bb5ec83e62da9de"
+ },
+ {
+  "titulo": "Flying Tiger Copenhagen abrirá 100 tiendas en México con 30 MDD.",
+  "liga": "https://elcongresista.mx/negocios/flying-tiger-copenhagen-100-tiendas-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:48:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Flying Tiger Copenhagen abre su primera tienda en México y proyecta crear 100 sucursales con una inversión de 30 millones de dólares.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "6427f948bd44948e"
+ },
+ {
+  "titulo": "Pide Alejandro Mojica que próximo titular electoral sea un perfil ciudadano sin vínculos partidistas",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeHF0RFlzR21Zc2xWSDlrZTNSdlpIZGFXaW1ON0lrS3NpSHB0TjNPbUZ5RHpmaFUwc21NOFEtRU1WSVROcEU1RDlucXo1VGdEdHZtTmlPQ0hVaHV4azdjSzR3Z0RwYUVOYWZHSXNoTVp5VkxCOG5PcW02clJiSjZXYnB4TnBGM29IN2RHblVUV0Z2U0wwYllEVXlzSnc3U002ZXdjWFp5eERrOWl1UVJybTliclpRQ2cySjNxTGlpSGI1SkpoZU53dm04eGU5Wkla?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T15:48:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Pide Alejandro Mojica que próximo titular electoral sea un perfil ciudadano sin vínculos partidistas Baja News",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "e5e1bb6d314133c5"
+ },
+ {
+  "titulo": "Guanajuato destaca como 5° destino MICE en ITB Américas 2026",
+  "liga": "https://elcongresista.mx/politica/guanajuato/guanajuato-destinos-mice-itb-americas-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:47:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Guanajuato se destaca en ITB Américas 2026 como el 5° destino nacional MICE, captando el 16.19% de visitantes por reuniones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "121453d08a174d4f"
+ },
+ {
+  "titulo": "Un choque en Ensenada terminó con un conductor detenido tras agredir a la Policía",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZHhhUWtfTVRtMUd4c0Q4bGJRM0hwcjNGaC1GWDRsV2l4am1IUGY4WVczenlvU3JiRW1qRW9acW04R2ZuNy1td1pnV2RMaGZhSzFIXzNlSmNSYnUtc1d4RVFTaENyZUV2RmVBeHozZ3FXMHVoeFlFSmIzd3I3UFoxdllnZk5yMUdPZW05Vm1IbjZHMV80ODY5QkNpdC1KbmNFb255cDJlcFA1X203TmlJU25GTXNCcDhCV1dpRU9GQ0ZqdUlGX0M0c1F3SnJvOGZrdmc?oc=5",
+  "medio": "Diario El Día de La Plata",
+  "publicada": "2026-11-11T15:47:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Un choque en Ensenada terminó con un conductor detenido tras agredir a la Policía Diario El Día de La Plata",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "659a48bf67d255bc"
+ },
+ {
+  "titulo": "Asesinan a hombre de 65 años en su casa en Culiacán",
+  "liga": "https://elcongresista.mx/politica/sinaloa/asesinan-hombre-65-anos-culiacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:46:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Asesinan a un hombre de 65 años en Culiacán, Sinaloa. La Fiscalía investiga el caso y busca identificar a los responsables.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "03c571783f3b2979"
+ },
+ {
+  "titulo": "ROMA Más que una Farmacia celebra dos reconocimientos a su trayectoria y compromiso con Baja California",
+  "liga": "https://www.uniradioinforma.com/sociedad/roma-mas-una-farmacia-celebra-dos-reconocimientos-su-trayectoria-compromiso-baja-california-n913854",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T15:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6f89892be628b642"
+ },
+ {
+  "titulo": "Incendio consumió casa en la Colonia Morelos II",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sbTJPY3QwTERvQ2NXZEpvSkF3a004c2I3Wnp4SXdwcEx2cnVQWGllMEZQbjV1ZFdDRnMzNEFrNnVPVlFlQ1g5SW9aUWZIOWtpUUdVanBTUVpwakU?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T15:44:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Incendio consumió casa en la Colonia Morelos II Ensenada.Net",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "e2226e0076c1798d"
+ },
+ {
+  "titulo": "¿Paridad flexible o retroceso democrático?",
+  "liga": "https://www.uniradioinforma.com/columnas/paridad-flexible-o-retroceso-democratico-n913852",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T15:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La disputa por las candidaturas de mujeres en Baja California",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "e12c159593495ea0"
+ },
+ {
+  "titulo": "Norma Bustamante busca contratar deuda antes de dejar la alcaldía de Mexicali",
+  "liga": "https://puntonorte.info/2026/11/11/norma-bustamante-busca-contratar-deuda-antes-de-dejar-la-alcaldia-de-mexicali/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-11T15:42:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Mexicali.- El Ayuntamiento de Mexicali analiza la posibilidad de contratar una deuda a largo plazo para hacer frente a compromisos financieros durante 2027, último año de la administración de la alcaldesa Norma Bustamante Martínez, quien ocupa su segundo periodo como presidenta m",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "77913abee3dfb926"
+ },
+ {
+  "titulo": "Aportaciones al Issstecali presionan finanzas de Mexicali; evalúan financiamiento",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGZ3Rm1WWUZkR1E2RDl0QUdKYWhiYXQ0TUQxY3VIdUMzWjZua1V6R2FEbVBkZTdjdXhTemJuTUpNcDNjNjdYcHhIelJsS0hnd2VPM2dVV1JuRElTSTN4OXFaem1IVW9tMzM4N1paSllGOFhfckp1TGxtZmNpTWhMRUl4NmF0dGF6eUJyR0lFUEtza0RQTzgzajJxM210VHR0SWVBRjI0b0l4el9MWUNWVnNiOGc4YUd1TmhlXzE4MVNuOW5kRTlIQVYwNA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T15:42:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Aportaciones al Issstecali presionan finanzas de Mexicali; evalúan financiamiento AFN",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "56f6c4c848d4c0dc"
+ },
+ {
+  "titulo": "Registra 40% de avance la construcción de la nueva pista de atletismo en la Unidad Deportiva San Felipe: SIDURT",
+  "liga": "https://www.uniradioinforma.com/sociedad/registra-40-avance-construccion-nueva-pista-atletismo-unidad-deportiva-san-felipe-sidurt-n913850",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T15:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Se avanza con trabajos de riego de impregnación.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bf696dd8d3b43234"
+ },
+ {
+  "titulo": "Consulado de México en La Habana ofrece 84 citas para visas del 16 al 20 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/consulados-cuba-nuevas-citas-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:41:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "El Consulado de México en La Habana habilita nuevas citas para visas del 16 al 20 de noviembre de 2026 para ciudadanos cubanos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a405dd95154e8d5e"
+ },
+ {
+  "titulo": "Demócratas buscan acuerdo migratorio con Trump tras elecciones",
+  "liga": "https://elcongresista.mx/politica/nacional/democratas-buscan-acuerdo-migratorio-trump",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:39:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Congresistas demócratas buscan un acuerdo migratorio con Trump tras las elecciones de medio término y ante la situación actual.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4cc10713a953c907"
+ },
+ {
+  "titulo": "Asegura Policía Municipal más de 140 envoltorios con presuntas drogas y detiene a cinco personas en distintos hechos",
+  "liga": "https://www.uniradioinforma.com/policiaca/asegura-policia-municipal-mas-140-envoltorios-presuntas-drogas-detiene-cinco-personas-distintos-hechos-n913846",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T15:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bf7faa51726d0845"
+ },
+ {
+  "titulo": "Supervisa Ismael Burgueño acciones del programa 'Tijuana sin Baches' en la colonia Libertad Parte Alta",
+  "liga": "https://www.uniradioinforma.com/sociedad/supervisa-ismael-burgueno-acciones-programa-tijuana-baches-colonia-libertad-parte-alta-n913844",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T15:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "620123cec47ff177"
+ },
+ {
+  "titulo": "Policías aseguran auto robado en Playas de Rosarito tras persecución",
+  "liga": "https://elcongresista.mx/seguridad/policias-aseguran-vehiculo-robado-playas-de-rosarito",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:36:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Elementos de la Policía Municipal aseguran en Playas de Rosarito una camioneta robada en California y detienen a su conductor.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "72834770e9bc9402"
+ },
+ {
+  "titulo": "Policía de Hermosillo ofrece apoyo en traslados de dinero durante el Buen Fin",
+  "liga": "https://www.uniradioinforma.com/gobierno/policia-hermosillo-ofrece-apoyo-traslados-dinero-durante-buen-fin-n913842",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T15:36:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Quienes tengan previsto retirar o depositar grandes cantidades de dinero pueden solicitar acompañamiento de elementos de la corporación.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "48d37bf286aa4abf"
+ },
+ {
+  "titulo": "CESPT invierte casi 97 millones de pesos en obras de drenaje en Rosarito",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTZoMmlPSlk2WmFNazBUZDFNT0kzcDl2SXY3Mlk1RjI1RGQ3Tk5XRmJsSXBqTzJzbVFRN0UzemNZME9NNkJmV2xqeHRwcXdqZmY4U1Q5X01acnJOMU5xTF9Xc3o3NmNtN2g0Q3Y5ZGJBekdpTmM0UThrMWF5bURvdnFBTU83dWZXRklBTFloVlJ3aDVGb2NiNHpYRzkxRXhIdTBNNVhBV3dWNXNZ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T15:34:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "CESPT invierte casi 97 millones de pesos en obras de drenaje en Rosarito Baja News",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "73b14e5b43af1a63"
+ },
+ {
   "titulo": "Desalojan centro comercial en Rosarito por una fuga de gas",
   "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0U2enFYMmNmTWJiVklaQzhJZGRTRS1jdkhwSU5BeTBLLTdreW1LU1Zwa0czVG5oLUxDMV9wUzJGUUw5WWpwVFhCaHZFdG55bjlGd3U5VGdvVFBvOUtIbXlKSjJqNTZpZlBReHlkeGJfSDR3MnBiZFVCUlBBQ3VYUlNibjBSZG9hVkJjcUFNcXQ1bk9XSGpLRGF4ZTd0TDRUZkRzZ2pQS1U4TzdaRHc?oc=5",
   "medio": "AFN",
@@ -72,6 +986,20 @@
   "id": "df71e8708255f43f"
  },
  {
+  "titulo": "Mara Lezama apoya a Selección Mexicana en concentración en Mayakobá",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/mara-lezama-seleccion-mexicana-mayakoba",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:21:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Mara Lezama da la bienvenida a la Selección Mexicana en su concentración en Mayakobá para la Liga de Naciones de la CONCACAF.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "90237a4ea8494876"
+ },
+ {
   "titulo": "Video | Así Fue la Captura de 'Beto Leyva', Presunto Operador del Cártel de Sinaloa",
   "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVlpUGVjYmdPWlVGeHc4SXlyd1JndG9oZDRYWG9USURGMEp2MzNUT3RJbWtIaExjSXFjcWVJUjdidmxENVZtTy1pYWtDUFVRdXhSTVIwYkpOampxOVlGRFdUeXppZ000QkI1SWljeW1hVkotLTV5UkRxd0VGU0pnYWdkNHptR1h6Y1lzYkoxY1ZXSF81cS1mN0gxVkllcEtIZ1Awb24yTU1YTnpoSmRDTGh6Um9RVjlKUEplNkstY2FGSTVUNmtTWjdNTGZ6alFvYkEw?oc=5",
   "medio": "N+ Baja California",
@@ -113,6 +1041,20 @@
   ],
   "local": true,
   "id": "d2d3addc0124ea0f"
+ },
+ {
+  "titulo": "Trabajadores y patrones debaten el MIR del salario mínimo para 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/trabajadores-patrones-debate-mir-salario-minimo-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:15:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Trabajadores y patrones en México debaten sobre la implementación del MIR para el salario mínimo de 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d9a0851356fc829c"
  },
  {
   "titulo": "Formalizar un negocio en Baja California",
@@ -201,6 +1143,22 @@
   "id": "cefbeb9cae60ab18"
  },
  {
+  "titulo": "Alcalde de San Luis Potosí denuncia 634 millones sin licitación",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/san-luis-potosi-634-millones-sin-licitacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T15:05:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "El alcalde de San Luis Potosí denuncia 634 millones de pesos detenidos por falta de autorizaciones en obras públicas.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "067c9682ea44980b"
+ },
+ {
   "titulo": "Choque en 123 y 48, Ensenada: un hombre se puso agresivo, lastimó a un policía y quedó detenido",
   "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0swd0ZoeGxzMTJONE9VRjA0MG1rdDBzeHpxMG1qMUJiWDlVS3NWUk5JeEh5cmxnSGU4UnUwYTJFemxwR3VhQWRwcXhjNXUzdktmSWwxdUpuNFJiSWxGak42eDktSUdtQ3NqXzhKY2JVeWViSXpEaU9qdDBIalh1bU15SU84SWxsdUtzZ2JmWTg4UjRZbVJPOUFmdE1od0xkMFgxWmRZRkZpMXpaTEJPckdHancyTU1IcjNqZzBuNXFOcUhkeGZB?oc=5",
   "medio": "La Buena Info",
@@ -256,6 +1214,20 @@
   ],
   "local": false,
   "id": "8b6508d617905b4c"
+ },
+ {
+  "titulo": "Matan a hombre de varios disparos en Camino Verde",
+  "liga": "https://zetatijuana.com/2026/11/matan-a-hombre-de-varios-disparos-en-camino-verde/?utm_source=rss&utm_medium=rss&utm_campaign=matan-a-hombre-de-varios-disparos-en-camino-verde",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T14:44:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Un hombre fue asesinado a balazos la tarde del martes en la colonia Camino Verde, en Tijuana. La víctima presentaba lesiones por arma de fuego en la cabeza y el cuello. Hasta el momento, no hay personas detenidas por el crimen.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d34346263593b1c9"
  },
  {
   "titulo": "Unison y Deswik firman convenio para fortalecer la formación de futuros ingenieros mineros",
@@ -800,6 +1772,49 @@
   "id": "f1626f30cb4398c8"
  },
  {
+  "titulo": "Detienen a Estudiantes tras Pelea en Vía Pública en MexicalI, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkVHTkRrU012ZGUtZDZxdTJxRTVPc1cyMkg5S2NqcG9ha3V5WHBxbmI2Vi14TzU2RU01bjdMaThvamlkNEw5bVZobm52cmc0WF8zUTdYZzRWU0U1M25aTkx1enJ2OF85NFFWZVl4dkJSSzBsOHFhN012d1pSUzZZdEE1S3lkS21zZEZESFZFeWo5bExmaS1jc1ZTTG1VUmJDTGlxdndfMXRURzNOTWhWVVhtSkc4c1p3NlBkWDhFZXR2b1h1S0E?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T13:14:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Detienen a Estudiantes tras Pelea en Vía Pública en MexicalI, Baja California N+",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "cf88cb5c468e879c"
+ },
+ {
+  "titulo": "Capturan en Rosarito a Hombre con Orden de Arresto Vigente en Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTNYVUdvRC1MQXBQdi1RUDhhSExXMWlUMEJkZGhiUHA3eEVORnZFdnlIMHd6MVFTX01ycWx3aVR3MGFkYU5MTldjUWFBZl9OY284MmNibDZldFFpV3ZIRmQtT1VfZkVHcy1hZU5uYVIyODFBcG1aWUlKczNwVnItOU1URlExWmtraUNVWGhudEotLWVUSWJlSlVtSldGeEtkVmxTRXJndEZSOFgzUHQyTzRwanV4YlBhajJaV3M3U25XWnRKaVE?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T13:14:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Capturan en Rosarito a Hombre con Orden de Arresto Vigente en Estados Unidos N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d8354247ae2d50dd"
+ },
+ {
+  "titulo": "Joven de 17 Años es Detenido por Apuntar con Pistola a Policías en Hermosillo",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamFvWTBSRHZCREJnSDNWcS1kb3NURkNnTHJ0LUFiS3hpMGdUZGxiNHZTZ0dnX182OVFzR3NDWFdhdXl2UVRzZDR3UU5hVGczeTdtM0E2eGpoQW9JUHdqdDdEVDNOUHFsVmRTYTI3RjRXZnNCRjRDUm5pSUFlQzBuMWhUenBiVjBzQVN4RTRTRGJmNnllTWdPV1pKajE1WXUtSVZ6emsxOEhTSVdJd2NCSS1aX1hxalpOUDhn?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-11T13:14:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Joven de 17 Años es Detenido por Apuntar con Pistola a Policías en Hermosillo N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b226ce45887a5f67"
+ },
+ {
   "titulo": "Captura SSPCM a cuatro personas con órdenes de aprehensión vigentes por diversos delitos",
   "liga": "https://www.uniradioinforma.com/policiaca/captura-sspcm-cuatro-personas-ordenes-aprehension-vigentes-diversos-delitos-n913800",
   "medio": "Uniradio Informa",
@@ -1057,6 +2072,20 @@
   "id": "e027cbf68209148e"
  },
  {
+  "titulo": "Noticias sobre vesicula",
+  "liga": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwY0xYMUw0cXViX2FJZXc5bE9GZjNjX09OVWI4TVMzenlWREt0ZXIxWS02Vi02TE5rZnRHVzVsZkhuVnZIOWtDdlNneEIxVHFlYjBKSm5faGxuZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T12:44:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre vesicula Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8ea30ed36f1a1ce3"
+ },
+ {
   "titulo": "Fortalece SEPESCA coordinación y respaldo al sector pesquero de playas de Rosarito",
   "liga": "https://www.uniradioinforma.com/sociedad/fortalece-sepesca-coordinacion-respaldo-sector-pesquero-playas-rosarito-n913788",
   "medio": "Uniradio Informa",
@@ -1284,6 +2313,48 @@
   "id": "f2c734a68e3c5823"
  },
  {
+  "titulo": "Noticias sobre rubi",
+  "liga": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLTVJpTHhXTHpEVTFNSkE2Mll3ZEhwWEdpOFMwOS1fV1B0dlNQa2NGNjl3dWhTRE9iZ29TcFdzbFB0Mlhxd3kwdmJlNHU4RnF5c1ZxSQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T12:23:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre rubi Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2d63e43fe480260f"
+ },
+ {
+  "titulo": "Noticias sobre in house espec",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VMUhBNnpvWFZQTDc4MGVoUnhJMDJlRDYzdFpWdHZCV2tZT1JOQlp1ZlRSMzJXTE5HZUNtQUdFM1dqaG16TFYwT2J6b1BNRGZXTVRoWllQaGJkNHZCV0J3T01R?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T12:20:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre in house espec Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e5f8b213ef0689f1"
+ },
+ {
+  "titulo": "Noticias sobre servicios comunitarios",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JeEd5QkFBLUdha1JGN0tPd2h2bko3aW1KaGpTQjFKNXdYbEhJcU9FOHlPQ1d3M0lTbm5DNGsxZGZ6eVZ6VTRCSXRpU3JsakFwOGJxaHV2ZGEwRFdsM2xpSk9ZUEtTdlI3SmZhRA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T12:19:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre servicios comunitarios Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "85249db8f04621bb"
+ },
+ {
   "titulo": "Condenan a 28 años y 11 meses de prisión a ex entrenador de gimnasia que abusó de menores en NL",
   "liga": "https://jornadabc.com.mx/region/condenan-a-28-anos-y-11-meses-de-prision-a-ex-entrenador-de-gimnasia-que-abuso-de-menores-en-nl/",
   "medio": "La Jornada Baja California",
@@ -1296,6 +2367,20 @@
   ],
   "local": true,
   "id": "7ce7447149f24fa0"
+ },
+ {
+  "titulo": "Noticias sobre trascuvat",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OTmU3TU9iWE1NT29PR0pubEF0RnRkRm9OYV93UkUwS0Flb0hvRUtyNVlHdk91cW5kOVk1MVcydy1YUmtwYzc3RmZ0NjlRbjZJZGVPSDJ2TDRMMzA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T12:18:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre trascuvat Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "80080c2ee879a297"
  },
  {
   "titulo": "Santiago Peña enfrenta hasta 15 años de prisión por Ueno Bank",
@@ -1717,6 +2802,20 @@
   "id": "57a3b75535ae76ad"
  },
  {
+  "titulo": "Noticias sobre derribo de avionetas",
+  "liga": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0weGVyTXBpZ3lUODZnZERTcXFMVWhLXzN6WEZySjR3NTM2OF9BOU9vRzdTS25BT2ZMNEFRZmJtTi1qM1hueWgtUzJuUm9hSUpRZUVXZWZjS0g3ZVQ3R3NIZ3U1eUttbDJoSVE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T11:28:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre derribo de avionetas Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0114c38b7edacbe6"
+ },
+ {
   "titulo": "Choque entre Calfia y Jeep deja dos lesionados en Mariano Matamoros",
   "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWVtTTFkeTVhV0hDUGNpa2JTanZQSUVYcmgwQ2RqV3hfR0tLZmVpcjJreGRfbERyOWtsNjlkUXhxRWdOYjdhWlBnbng5SDNNMlpkVFU2OGhWa0hhQklXbjRpeEQ2V2pTTGtqTmpkb3lpamdXLUNIQ3JkZU1OaWUwSEZYODhNTGNSOEZXNnhEME81cWYyamF5cGEtYlJVVERNUFMzUmd3?oc=5",
   "medio": "BajaNews",
@@ -1729,6 +2828,20 @@
   ],
   "local": false,
   "id": "8e0a3612ef865ccb"
+ },
+ {
+  "titulo": "Noticias sobre fallecimiento de influencer",
+  "liga": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uUXpjblluZnlvbGRDbkF6dmItMVp5dlh3NGNnUWdNa3BHQ2xhd3BoWmhDSE5teHFoakw2TmYyWU1vLVBGSC1zclJLUTlYVjlLZDNUckFWekNxbmlmS3YzRzcwem50VDhJTUxJemc5bVh5Qzg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T11:21:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre fallecimiento de influencer Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2d848e21a740de44"
  },
  {
   "titulo": "Se anuncia el tema de la Feria del Condado de San Diego 2027",
@@ -1930,6 +3043,34 @@
   ],
   "local": false,
   "id": "d1415129684048ad"
+ },
+ {
+  "titulo": "Noticias sobre policia ambiental",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zc1FhXzNMdjlPTHFOZDhJaFliNE9ZUnpVVEx4cjNGM09JUlNiMkdXQ0JOTXNXY25vV3ZqWFhza2VTRnNGUVZWT1d1NDJMRWZZQVF1TGdERmV6RTVRd195TS1FSkdwdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T11:05:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre policia ambiental Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "da07e3a1363ccf39"
+ },
+ {
+  "titulo": "CANACO presenta su carrera atlética",
+  "liga": "https://oem.com.mx/lavozdelafrontera/deportes/canaco-presenta-su-carrera-atletica-33083293",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-11T11:04:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "La edición 37 del evento se realizará el domingo 22 de noviembre a partir de las 08:00 horas",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "041822e8f715a00d"
  },
  {
   "titulo": "Renovación de 6 mil metros cuadrados de fachadas en Janitzio",
@@ -2162,6 +3303,20 @@
   "id": "d7cc1354c447f370"
  },
  {
+  "titulo": "Noticias sobre azul casi transparente",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTWk0cHN1Y0FDMGJ1Sk84Y0FrWERjNW1UMDdDdDNPbmF6NE5ZUnVtV1R4ZkE1Qm1wZG5wcGE2UG1YMUZVeXh4ME83N043bnBKWFhFZUJOV2lKNjBUMk1RbWl5X0hEckxpQUlYdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T10:46:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre azul casi transparente Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "414a93d180603d28"
+ },
+ {
   "titulo": "Michoacán: Congreso presenta 865 iniciativas y aprueba 140 decretos",
   "liga": "https://elcongresista.mx/politica/michoacan/congreso-michoacan-iniciativas-decretos",
   "medio": "El Congresista",
@@ -2263,6 +3418,20 @@
   "id": "2074545efbc2d803"
  },
  {
+  "titulo": "Noticias sobre tijuana junior",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNei00am1vLS1xcjAwSWZrM0hVUXFzVmw2bi04dWNxOUhzNnhIX1hzZTRrbS0tYU45bzFGWENSX2dIc1pxcVVUVXRBR1dDQjZkOHlxaWNKNmxfQk45MXVzM0p3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T10:34:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre tijuana junior Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "50064e723cc9e6f1"
+ },
+ {
   "titulo": "Capacitación en IA se convierte en clave para negocios en México",
   "liga": "https://elcongresista.mx/negocios/capacitacion-ia-negocios",
   "medio": "El Congresista",
@@ -2275,6 +3444,20 @@
   ],
   "local": false,
   "id": "642cbe097794c7f8"
+ },
+ {
+  "titulo": "Noticias sobre contenido expl",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyTENmNjNuNlE4MTdIS0Npb0tpWDhyQ3lLbWVtMVp6eHhQXzZzZGhmRDBRS0VkdjJjTG9ubl9KYXc3YTdaODVOcWp4X0wxQUJ4WVdCSEF5eEYtM20xeEE0N1dn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T10:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre contenido expl Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8be553e64a7bf7bc"
  },
  {
   "titulo": "Noticias sobre que hacer en san diego",
@@ -2431,6 +3614,34 @@
   ],
   "local": false,
   "id": "d6e81a4970d1af18"
+ },
+ {
+  "titulo": "Noticias sobre alejate de las",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XY2FnTmllZEFsRWIybDlhTlRraHQta1F5dG9pNTlCM3BTaFdMUlFQQU5XTEZaUWkwNWFJeGJmYUhtUk96QnJsZ3pxMi1BWE9xbmI3X3dRVjRpbEVucnlVY3BB?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T10:23:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre alejate de las Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "712ed1987a55f8a0"
+ },
+ {
+  "titulo": "Noticias sobre centros de acop",
+  "liga": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vUl9KRmtxaHFlWV9ocXItem9WcHhNNG1kU2dZcmV1bGQ2anREbjVOMkhlYll6bERNckU0N3lXS0xjQVByRDVsZTlZdEtFVkU2Z0dkc2llNUVWc1l6a19UaG5oNA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T10:23:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre centros de acop Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c422f37b0e8a67cc"
  },
  {
   "titulo": "¡Ganaron las críticas! Wildwood tendrá nuevo doblaje tras controversia por Javier Ibarreche",
@@ -3899,6 +5110,20 @@
   ],
   "local": false,
   "id": "f71ec987bf74ab42"
+ },
+ {
+  "titulo": "Noticias",
+  "liga": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54TWVNMXkwVzYwRkVYRmlFdTVydmI2RC0xUUU0eFNhMWpoRVh2ZExGMXloVElRd3Y2R19SRXBNWVZiOU93R3pRLTE1amlSQjZYMzNGRWtlTlhiNUNkbzN4X2xFZGx0TnhaRUZvUnJoVUVJdGM?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T07:24:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "869f15a237a2cdb5"
  },
  {
   "titulo": "Colombia destaca en la celebración del 27° Latin Grammy en Las Vegas",
@@ -6227,6 +7452,22 @@
   "id": "8498c4982000da17"
  },
  {
+  "titulo": "Secretario de Seguridad defiende resultados ante el Congreso; diputados cuestionan homicidios y control en penales",
+  "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXkzTWIwdkNpaGNudVZCeW5zaUU1S3BuUFE4SUNDMl8yVkVXMncxYnMyX1gybzd5MjNtSXVIN1I4RXJtTzRLeFRTZ3JoaWQxY0ppMFpUM2lPNFQwVks2OTdzUFJkczhSUy1BYWxsX1VNb1c0bGV3eTFCNVE1TzBpazdEQVd2RTRKdU5NNTlEamYtMVc1bUV2OXRnTGhkd3FaaVdCb0ZidXVhMEV5MWYyNGxjU0Y1UjNyVUJaV0s5Mm4wRl94cXBXc2Nncm5EVV9PZVVBNUhnSGFsVHdMOUdfNGJHMA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-10T22:56:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Secretario de Seguridad defiende resultados ante el Congreso; diputados cuestionan homicidios y control en penales Baja News",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "093f8cdbed5f914b"
+ },
+ {
   "titulo": "Protección Civil BC advierte lluvias a partir del jueves, con vientos de hasta 60 km/h y oleaje de hasta 4 metros",
   "liga": "https://www.uniradioinforma.com/gobierno/proteccion-civil-bc-advierte-lluvias-partir-jueves-vientos-60-kmh-oleaje-4-metros-n913697",
   "medio": "Uniradio Informa",
@@ -7482,6 +8723,20 @@
   ],
   "local": false,
   "id": "c65340bd65397695"
+ },
+ {
+  "titulo": "Noticias sobre economia mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4Mlc4U2s3T2RxODFDelE3Vl9UVnlQMVN6UjMzODhRYmFCU0lSRVBWQUFHQmFGb3phelZtZUNpc00zMFdqQVdjMHVVVTgydVNMeUk5bXlVSkVvR2ZOR2xaamFoQVVMdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-10T20:27:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T16:53:15-06:00",
+  "resumen": "Noticias sobre economia mexicali Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "e36f1ae4972238dd"
  },
  {
   "titulo": "Habitantes de Guerrero y Oaxaca construyen sus propios caminos artesanales",
