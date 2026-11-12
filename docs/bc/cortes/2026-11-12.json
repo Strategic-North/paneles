@@ -1,5 +1,664 @@
 [
  {
+  "titulo": "Frente frío causa alerta en cinco estados con temperaturas de -5 °C",
+  "liga": "https://elcongresista.mx/morelos/frente-frio-alerta-estados-temperaturas-bajas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:54:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Un frente frío causará temperaturas de hasta -5 °C en cinco estados del país y generará lluvias intensas y vientos fuertes.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "e217477704c21d97"
+ },
+ {
+  "titulo": "Frente frío en MTY provocará descenso de temperaturas y lluvias",
+  "liga": "https://elcongresista.mx/politica/coahuila/frente-frio-monterrey",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:53:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Monterrey, Nuevo León, se prepara para un nuevo frente frío que traerá lluvias y descenso en las temperaturas la próxima semana.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "79a2db53e7c8d8de"
+ },
+ {
+  "titulo": "Atlético Morelia busca ventaja ante Leones Negros en semifinales",
+  "liga": "https://elcongresista.mx/politica/michoacan/atletico-morelia-leones-negros-semifinales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:51:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Atlético Morelia enfrenta hoy a Leones Negros en el partido de ida de las semifinales de la Liga de Expansión.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e5c3c23c8da6f266"
+ },
+ {
+  "titulo": "Expertos alertan sobre invierno frío y sequías por \"El Niño\" en México",
+  "liga": "https://elcongresista.mx/politica/nacional/unam-el-nino-sequias-frio-mexico-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:50:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Expertos de la UNAM advierten sobre un invierno frío y sequías en México debido a \"El Niño\" en 2027.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b4ce25da528649da"
+ },
+ {
+  "titulo": "Riesgo de crisis como 2008, por desarrollo de IA: Dr. Plascencia",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmViQi0yejZIRU5MOEw4cDhBR2pvTENseEpVNm1tb1E5a1hXdTNTc3A0eUhQR1ZQUjNJbzE2UWNXX3VmRF8xeWI1b1hwR0VWZjE3T000YzhPYjZBVEFzaHJ1Y2JaYzJkejVXOXhGMFEzSzR6WU1xMnQybDd4Q2wyaDY0Y04zZDdzaHdPOFhqOHhRZTRPbEF5TVVFLXllMENsVW9NdHhKVQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T11:48:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Riesgo de crisis como 2008, por desarrollo de IA: Dr. Plascencia AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f084caefd7329c18"
+ },
+ {
+  "titulo": "Exvicealmirante Manuel Farías solicita amparo tras omisión judicial",
+  "liga": "https://elcongresista.mx/justicia/manuel-farias-amparo-omisiones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:48:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Manuel Farías, exvicealmirante, solicita amparo por omisión de juez en su caso de huachicol fiscal y espera resolución.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "5bca4a664d57b2b0"
+ },
+ {
+  "titulo": "SRE da seguimiento a 18 muertes de mexicanos bajo custodia de ICE",
+  "liga": "https://elcongresista.mx/justicia/sre-seguimiento-muertes-mexicanos-ice",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:47:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "La SRE continúa dando seguimiento a 18 muertes de mexicanos bajo custodia de ICE y mantiene comunicación con autoridades.",
+  "temas": [
+   "Migración",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c0e5ac201169a11e"
+ },
+ {
+  "titulo": "Hallan dos cuerpos durante jornada de la Brigada de Búsqueda en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzlZMFc2dlpGNkVGelM1YUFaWHZ4VnhuTHNjRGlMNHV6dG82NFpsNW9NNEhpTE9QWjhZYUtBV0RtUkJ0Yngyd3ZDR0VoVmgwYXo5OWxNU1AyVkNhNWtzbHdLd28yWWFRU1VWQ25oMFY1MDZ5T1Q1Nnc3TW1oS2hwMlV2Y1kyel93MHVEQmZJOEhxczFJb2pKb3RiZEtrRXRxb3RJWERZWHdtcVFW?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T11:47:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Hallan dos cuerpos durante jornada de la Brigada de Búsqueda en Ensenada Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "462579556dd51cc8"
+ },
+ {
+  "titulo": "Ovalle: Activan alerta SAE para evacuar sector de La Ensenada por aumento del caudal del río Grande",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUjJ4Yi1zZjFKTXlrVjJiS0lXMVJJS3dSbVdNZUdXUV90ZVNkTDNPU0VpUkpMQ3paQkhOalJhcXJqcDZKWlFvbWY5UkM0TTdkR1k3ZnJ5SlU1cFRyRHhCejFaTC00MDNja21WQTgtOGFEXy1tdDg1U2N4eVBRQ29TbmJ1TWQyaVNFYl9GUHNzbmhONHJ4UTlHZEt1Sjl4Q1FQSlhzQThfWWs3Y3ljXzlweVRxa1RyUjB3aURNU21EenBudFpVdFR2Z2lCTzNiVEVFRVNwWVZXc0NGRFlkV1dZZWEybDFfYWs?oc=5",
+  "medio": "El Día",
+  "publicada": "2026-11-12T11:46:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Ovalle: Activan alerta SAE para evacuar sector de La Ensenada por aumento del caudal del río Grande El Día",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "e983cd77e8aea869"
+ },
+ {
+  "titulo": "Cuatro encapuchados entran a la casa de Elsa Pataky y Chris Hemsworth en Australia",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRjRuaDJjblNEc2taRFZhaWVjUF9HXzRHdzUweDZ6QTdJckZyMDZIMy1RckY3Z1BGcjVRcTdLZllkbFFETmtNWE1hOTlHMXl4Zm1BWGVkQzRQcm9Uemg4RmExZ3dLdHNCajJNeDg1VHVtUlVBYXk3MV82WERGTEhjZDJSWVNTNHNhcjE4SzNXU3R0LUE2cUNlWjFYMkdYYWVnNHZDWEljeGNDQzhFTGZHRnV2SnZ4ZTY2cmI4NTdBbTVpSmxv?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T11:43:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Cuatro encapuchados entran a la casa de Elsa Pataky y Chris Hemsworth en Australia AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "aa65c17b1679ac84"
+ },
+ {
+  "titulo": "Puebla: 3 mil 600 estudiantes participarán en desfile del 20 de noviembre",
+  "liga": "https://elcongresista.mx/politica/puebla/desfile-20-noviembre-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:38:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "El desfile del 20 de noviembre en Puebla reunirá a 3 mil 600 estudiantes y 10 carros alegóricos para conmemorar la Revolución Mexicana.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "187c77139a417219"
+ },
+ {
+  "titulo": "Baja California refuerza medidas preventivas ante posible impacto del fenómeno de El Niño",
+  "liga": "https://elportavoznoticias.com.mx/baja-california-refuerza-medidas-preventivas-ante-posible-impacto-del-fenomeno-de-el-nino/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-12T11:38:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "El Gobierno de Baja California reforzará las acciones preventivas ante la posible llegada del fenómeno climático de El Niño, mediante la revisión de infraestructura hídrica, el abastecimiento de insumos para emergencias y... La entrada Baja California refuerza medidas preventivas",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "56576f2037b07864"
+ },
+ {
+  "titulo": "Primera Hora y El Nuevo Día alcanzan 3.1 millones de usuarios tras digitalización",
+  "liga": "https://elcongresista.mx/politica/nacional/gfr-media-liderato-digital",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:37:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "GFR Media reporta que El Nuevo Día y Primera Hora superan los 3.1 millones de usuarios únicos tras adaptarse al formato digital.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cbd5ba6ca7319bad"
+ },
+ {
+  "titulo": "Diego Lara falta a glosa de Economía mientras realiza actividades políticas en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakwxWTBuSktoUHZrUnVOOEZqYkdWaHpjd1ZnSkZGMk9xOUk0Mk1uc0RNVUdkSV9hYlNGUHIwdnJ6WTBPLUFzV0ZDTi04bWljdEJ2bnVFQ1QwXy1LZmd5SXFSSUhMRmV6aWJzaVdKNHV0UEJycGMwVTFKbUVCcE4yZ3JjTmhBNzdiQ241ZmpyQUVleVZBSXAxOS1TRVdSUEJMZFdaei01LWtlNlNzd2VhcFZFYzNYNzJSdF9vQ3VmcC0?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T11:37:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Diego Lara falta a glosa de Economía mientras realiza actividades políticas en Ensenada Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "0405aa988120b5c1"
+ },
+ {
+  "titulo": "Ataque armado en carretera León-Silao deja dos muertos",
+  "liga": "https://elcongresista.mx/politica/guanajuato/ataque-armado-leon-silao-dos-muertos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:35:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Un ataque armado en la carretera León-Silao dejó dos muertos la noche del 25 de octubre. La investigación sigue en curso en Guanajuato.",
+  "temas": [
+   "Seguridad",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e7f89356e440a581"
+ },
+ {
+  "titulo": "La Universidad de Guanajuato autoriza demolición de módulo central.",
+  "liga": "https://elcongresista.mx/politica/guanajuato/demolicion-modulo-central-prepa-oficial-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:35:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "La Universidad de Guanajuato llevará a cabo la demolición de su módulo central tras grave incendio en 2024, con una inversión de 90 millones de pesos.",
+  "temas": [
+   "Economía y empleo",
+   "Educación",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2ea4f61f1e4ae8a3"
+ },
+ {
+  "titulo": "Renuncia hijo de Guadalupe Taddei como secretario particular del gobernador de Sonora",
+  "liga": "https://www.uniradioinforma.com/gobierno/renuncia-hijo-guadalupe-taddei-como-secretario-particular-gobernador-sonora-n913998",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T11:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "También su esposa habría renunciado al cargo de administradora en la Secretaría de Seguridad y Protección Ciudadana.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "71b11434898c17af"
+ },
+ {
+  "titulo": "CFE proyecta inversión de 3,563 millones en nuevo suministro eléctrico",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/cfe-linea-transmision-playa-carmen-cozumel",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:33:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "La CFE invertirá 3,563 millones en una nueva línea de transmisión que mejorará el suministro eléctrico entre Playa del Carmen y Cozumel, proyectada para concluir en 2028.",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "268a8f6ff317f3bb"
+ },
+ {
+  "titulo": "INDEBC rinde cuentas ante el Congreso de BC",
+  "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGpibklBQl9KSlpmTFNqNTlqSGVaTnNjMVFqSlVzZ2c3a0hmUHlaMlBEcTg2RUhZZlBKcGZXaF9IRDdxcWpmSWlaVFdpNW5oSlJiNVRBUlprYjVaRXVrWHBfTlNoaG5UR0R6OUViS3lzaDBzTXNBbzNYSFpZeTRQNnd0cVQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T11:30:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "INDEBC rinde cuentas ante el Congreso de BC Baja News",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "b9fe22c743492332"
+ },
+ {
+  "titulo": "Por aumento de descargas de La Paloma: Ovalle inicia evacuación preventiva de familias en La Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3JsOU0yN2Q1VkZTR2l5aU1pTXlhSjB2UjRkc3c4SXJYeTZNbEFqV3BsdllSUUV0alNrWWtmeHNWdEx2N2tLeVBWTjJHOE5Td2NtZHB4RnhNRzAtMExUZU0zODF6ODlJMFdCNzRWRDRSa3Z6aENkaEF5NDlwUEdmVEFtcm1WMVB6Ny0zUnNRTjdaUQ?oc=5",
+  "medio": "Mi Radio",
+  "publicada": "2026-11-12T11:27:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Por aumento de descargas de La Paloma: Ovalle inicia evacuación preventiva de familias en La Ensenada Mi Radio",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "866f61fff85ff224"
+ },
+ {
+  "titulo": "Plantel Ensenada obtiene el primer lugar en el XL Concurso Estatal Intercobah de escoltas de bandera 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1NxcThmeUUtTlhyYXJ2UXA3Smw3SUpYcExfdEl4N0FWcjJySUtsa2FxZFAxLUJOdS1HTTFjS0ZqR0hXdUR0ZDRsdzN4aGZaOW1wRFdiM3VRdFZYcW15WEttNFFKcGZRdlp6ZGJmVk9QNVpHZ29mS3BhTi1XdUg3R3otX2ZQLUhzdXVwRENHV0dJVFk1R0ZrR0RxbE1LOUZreHdKbUZNaktOb0M4VGQ2dnVfa1NxeUFrdEJuc1lRRzNBcTJzMVRHN2xMSzRHN2ZmRTFkWWN30gHbAUFVX3lxTFB2OGp2NWlLdjhHZHVLVEhKTGI0UXoydkFrSGM0NVhEcGUyNkNmWjlVTWh3am1OVmVWTUt4d0pfcnFkb25vczZ4U2RCblBVN0xWanBCUDVQOWdpMnpSUzk1bzg0WFViaFE3R2FMaTdXVmp1cmtMcDdCcE1nb05uSUNDU0NFbTlJWWJ6Ynl6Qzk2aElLcnpCbmpYT0tJaDB0YUxJXzFFNEc3OXBYQVF6NlZ3ODMtWTRhZkgtTXotejJhQWk2b2tnRUs0OUJWVEk2bFVFSEF6VGxGNi1kMA?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T11:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Plantel Ensenada obtiene el primer lugar en el XL Concurso Estatal Intercobah de escoltas de bandera 2026 Uniradio Informa",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0a71e2ad13efcfa2"
+ },
+ {
+  "titulo": "Senapred llama a evacuar sector La Ensenada de Ovalle por desborde del río Grande",
+  "liga": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUjI3ektxWm9rZlF1clRRUExLZlYtRk84c3VMYlhJX2M5YmJvS3lvOVZRcnUxU25kMjluZ0lpZ09rcGdjc1VlWjFpbXpqU3dPalZpb2ZMYzdGbDdieUUxQUNuYlBrVnNNNGlnMkpiLU1fYVNQWlBJRG16dV9HYUVwNFpvOWJQU1JnUkpUYjc1VDdsbzJHRTg2OW5sMzFSeEFtWUc4Y1lNRk1sUzlCVnNxV0Zqcjhzc0xDOWd3RWtCNlJKc3Y5YjFJaUN3YzdUX1FWOHpQa3RjaHdFdGg5S1RnVWJtWkdqZ0VPN0tfMHg3elBEdmpL?oc=5",
+  "medio": "BioBioChile",
+  "publicada": "2026-11-12T11:26:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Senapred llama a evacuar sector La Ensenada de Ovalle por desborde del río Grande BioBioChile",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "991b1d9f44dcbdd0"
+ },
+ {
+  "titulo": "Verónica Ruffo anuncia que buscará gubernatura de Baja California; \"en Almoloya me llamaban la guerrera\", expresa",
+  "liga": "https://www.uniradioinforma.com/sociedad/veronica-ruffo-anuncia-buscara-gubernatura-baja-california-en-almoloya-me-llamaban-guerrera-expresa-n913996",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T11:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Su padre, el panista Ernesto Ruffo, se convirtió en 1989 en el primer gobernador de BC de oposición al PRI",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "5dc4a544b9b2a6aa"
+ },
+ {
+  "titulo": "Atacan a tiros a joven en la Unidad Deportiva Reforma; le dejan narcomensaje",
+  "liga": "https://zetatijuana.com/2026/11/atacan-a-tiros-a-joven-en-la-unidad-deportiva-reforma-le-dejan-narcomensaje/?utm_source=rss&utm_medium=rss&utm_campaign=atacan-a-tiros-a-joven-en-la-unidad-deportiva-reforma-le-dejan-narcomensaje",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-12T11:25:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "La víctima, sin identificar hasta el momento, oscilaba entre los 15 y 20 años de edad; junto a su cuerpo fue localizada una cartulina con una amenaza, firmada por “La Cafetera”.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8eb4d684f9237f8a"
+ },
+ {
+  "titulo": "¡Gilberto Mora se mide ante Rivaldios! La joya de Xolos y el famoso tiktoker protagonizan duelo de tiros libres",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR05qb0trOU5KcnBJVC0ycnB3ei1ZSGZaT1F3SkJNc09lR2dRN1VGUktEZVBuNjNRcGU3N0pGZG5heks1UDdQQmFGc0xEYU0yMUtNZDJpeE5NSThqRnB4a2thelVReXRrYVVEYlZjUmJLLThSNndIcUwzWjFWa1dkMXA5TVIzTlQ1TnBUWmxTQVFvMEVtUWxScEd6dkJiS3hXUURab0tXSEtWRmFDLWZjT205MlBRMUFlbkRVVl9sUGN3Vk56bHJSbFJlcGViRzIweGZZSkJmbGVjS1lB?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T11:23:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "¡Gilberto Mora se mide ante Rivaldios! La joya de Xolos y el famoso tiktoker protagonizan duelo de tiros libres Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "ec77edde15e252c8"
+ },
+ {
+  "titulo": "Chaqueño Palavecino despide a Marcos Camino, fundador de Los Palmeras, a los 76 años",
+  "liga": "https://elcongresista.mx/cultura/chaqueño-palavecino-despide-marcos-camino",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:22:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "El Chaqueño Palavecino despide a Marcos Camino, figura trascendental de la música argentina, a los 76 años en Santa Fe.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "48b6ce47c3b3ecdb"
+ },
+ {
+  "titulo": "Suben precios de gasolina en Ciudad Juárez y El Paso este 12 de noviembre",
+  "liga": "https://elcongresista.mx/politica/chihuahua/precios-gasolina-ciudad-juarez-el-paso-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:21:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Los precios de la gasolina en Ciudad Juárez y El Paso presentan un incremento significativo al 12 de noviembre, afectando a los conductores.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fce8fa595e09f953"
+ },
+ {
+  "titulo": "Cierra la México-Querétaro tras volcadura de tres autobuses en Edomex",
+  "liga": "https://elcongresista.mx/politica/edomex/cierre-mexico-queretaro-volcadura-autobuses-coyotepec",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:20:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Cierre total en la México-Querétaro tras volcadura de autobuses en Coyotepec, sin lesionados graves.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "940e155fdcb6d219"
+ },
+ {
+  "titulo": "Los fármacos GLP-1 se asocian con un menor riesgo de insuficiencia renal en el trastorno bipolar",
+  "liga": "https://www.uniradioinforma.com/salud/los-farmacos-glp-1-asocian-menor-riesgo-insuficiencia-renal-trastorno-bipolar-n913992",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T11:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "1cdfd09910d9789b"
+ },
+ {
+  "titulo": "PRI denuncia recorte \"brutal\" a salud y seguridad en presupuesto 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/pri-recortes-salud-seguridad-presupuesto-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:19:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "El PRI critica severamente los recortes en salud y seguridad del presupuesto 2027, considerándolos como un desastre para México.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": false,
+  "id": "7e25bcd6ccf8b85c"
+ },
+ {
+  "titulo": "Compras a meses sin intereses en Buen Fin 2026: recomendaciones clave",
+  "liga": "https://elcongresista.mx/finanzas/meses-sin-intereses-buen-fin-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:18:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "La Condusef ofrece consejos para el uso responsable de meses sin intereses en Buen Fin 2026, priorizando bienes duraderos para evitar deudas.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "82e6c72160ae9566"
+ },
+ {
+  "titulo": "Amenaza Trump con duplicar aranceles si México no detiene caravanas migrantes",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3RNdG1KMDRSUG5qR1gwQzZxMXFwcVBub1VkQTNaalBYa21YZUc2akNYOE0wdTRBOGpYZEJuc3NxUEpQYXY5dmMtb3FZRUFOQzdPUVhQbHZKTGlJZkt4QnU4WXVYdm1yN3h0eklrM1ozSWR4ZnZGRnJnWWhibEthOTVmYmhxdlRtR0xvdTZPMDVJM09CTmVDdHlINDR1NTRNWnA4VEx1RC1sUWdxb1A1LUwyV0VIZlp0Sjhn?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T11:11:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Amenaza Trump con duplicar aranceles si México no detiene caravanas migrantes AFN",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": false,
+  "id": "3641bb0663d873d3"
+ },
+ {
+  "titulo": "FGR incauta 32 mil botellas de alcohol falso y detiene a tres personas",
+  "liga": "https://elcongresista.mx/politica/jalisco/fgr-jalisco-alcohol-falsificado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:11:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "La FGR incautó más de 32 mil botellas de alcohol falsificado en Jalisco y detuvo a tres personas en un operativo.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6d1ade75146af0ba"
+ },
+ {
+  "titulo": "Choque y volcadura en la colonia Balderrama deja cuatro trabajadores lesionados",
+  "liga": "https://www.uniradioinforma.com/policiaca/choque-volcadura-colonia-balderrama-deja-cuatro-trabajadores-lesionados-n913986",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T11:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "El vehículo utilitario quedó recostado sobre su lado izquierdo y atravesado en la superficie de rodamiento.",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4f2455a12a815a46"
+ },
+ {
+  "titulo": "Baja California recibió cerca de 28 millones de visitantes durante 2026",
+  "liga": "https://elportavoznoticias.com.mx/baja-california-recibio-cerca-de-28-millones-de-visitantes-durante-2026/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-12T11:09:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Baja California recibió cerca de 28 millones de visitantes durante 2026, con una derrama económica estimada en 118 mil 500 millones de pesos, cifras que reflejan la actividad turística de la entidad,... La entrada Baja California recibió cerca de 28 millones de visitantes durante",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "11ea90b37349c0ad"
+ },
+ {
+  "titulo": "Concluye Andrés Martínez Bremer seis años al frente de hoteleros; Víctor Celis Dueñas asume presidencia*",
+  "liga": "https://www.uniradioinforma.com/sociedad/concluye-andres-martinez-bremer-seis-anos-frente-hoteleros-victor-celis-duenas-asume-presidencia-n913988",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T11:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "La Asociación Mexicana de Hoteles y Moteles de Ensenada inicia una nueva etapa con representación institucional recuperada, proyectos de comercialización turística y el compromiso de fortalecer la unidad empresarial.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "aec508fdc91656ea"
+ },
+ {
+  "titulo": "El 30% de mujeres con problemas cardiovasculares ha sufrido violencia",
+  "liga": "https://elcongresista.mx/salud/estudio-violencia-mujeres-patologias-cardiacas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:08:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Un estudio revela que el 30% de las mujeres con enfermedades cardiovasculares ha sufrido violencia a lo largo de su vida.",
+  "temas": [
+   "Seguridad",
+   "Salud"
+  ],
+  "local": false,
+  "id": "6d152e58a6201bf8"
+ },
+ {
+  "titulo": "Sheinbaum asegura que ninguna caravana migrante ha llegado a la frontera de EU durante gobierno de Trump",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTI5U25VakNmdnA2Ym0xM1BVbVFSMW92dEU0OXRXVHMxRkxZa2NuTXFPTU9DbEhQNjBpN3ZtVzA3bWpSclJtMVNtRkE2c0pwbmhHeVM4RUQ4eVMxSEZFTUNGay1lVDBydC1ScG9UdWlCUklVWVVTQngxTktzUURVRk5EdEoxM2hQdjFRUXNmUzdBUnBQWEVWMjIyckUyRU1CbUtqbDhZV2w3RWxVQVU2T2o2Nlk3RWg0bU4yMl9OTk5wb1FzYzhTT1lQLTA0RW8tTm5GNG1R?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T11:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Sheinbaum asegura que ninguna caravana migrante ha llegado a la frontera de EU durante gobierno de Trump Baja News",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "936647d2c12f9618"
+ },
+ {
+  "titulo": "Madres buscadoras liberan acceso a Zona Hotelera tras bloqueo",
+  "liga": "https://elcongresista.mx/justicia/madres-buscadoras-cancun-zona-hotelera",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:06:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Madres buscadoras en Cancún logran reuniones con autoridades tras protestas por justicia por desaparecidos.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "1cfc9cbfbc98fe14"
+ },
+ {
+  "titulo": "Rector de CETYS participa en Seminario Freedom 250 sobre Educación Superior e Innovación en la Embajada de Estados Unidos en México",
+  "liga": "https://www.uniradioinforma.com/sociedad/rector-cetys-participa-seminario-freedom-250-sobre-educacion-superior-e-innovacion-embajada-estados-unidos-mexico-n913984",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T11:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "El Dr. Fernando León García participó en un diálogo sobre investigación, desarrollo de talento y alianzas estratégicas para fortalecer la colaboración binacional",
+  "temas": [
+   "Política y partidos",
+   "Educación"
+  ],
+  "local": true,
+  "id": "cfcaf14115d026c2"
+ },
+ {
+  "titulo": "Sheinbaum informa que Nadia Beller recibe atención médica en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-nadia-beller-asilo-atencion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:05:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Claudia Sheinbaum informa que Nadia Beller, expareja de Fernando Cerimedo, recibió atención en México tras solicitar asilo político.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "53f995ab8208732f"
+ },
+ {
+  "titulo": "Alerta en Ovalle: SENAPRED ordena evacuar sector La Ensenada por desborde del Río Grande",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQnRTd1R5dV8zRnhwNUd2akZHWHY5NFpoTHZCaHRoYVl3Qm1YRnF4RzlwRUN4bWdlcjNPSkpnVE0wUjl4R2pBaXROZE5faEh2bWw3dzE4bzB6RmtaMDh4eGdRVGR3UWhtclRZZUdTVXA2OUlFVkRQdnBrQXNYdzJnSTRoZHZ3MEljSVQzOXcwOF8wSi1WcER2STBIeE10MnptTXFibGxzUlAzZ1pCVGxRcWV6WThILXR4a19vSEJPTEtUcFJVNUctc0JnSU1aQTJzX3BPd2YwZ016M1NERERiNQ?oc=5",
+  "medio": "Radio Agricultura",
+  "publicada": "2026-11-12T11:05:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Alerta en Ovalle: SENAPRED ordena evacuar sector La Ensenada por desborde del Río Grande Radio Agricultura",
+  "temas": [
+   "Campo y pesca",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "d7a940320ae6ee61"
+ },
+ {
+  "titulo": "Juez libera a 15 detenidos en operativo contra el R2 en Jalisco",
+  "liga": "https://elcongresista.mx/politica/jalisco/juez-libera-15-detenidos-operativo-r2",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T11:02:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Un juez de Jalisco otorga libertad a 15 detenidos durante operativo contra el R2, mientras cinco colaboradores permanecen recluidos.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "244314c1216e7872"
+ },
+ {
+  "titulo": "Tras escándalo en el INE, Sheinbaum abre debate sobre la federalización electoral",
+  "liga": "https://www.uniradioinforma.com/gobierno/tras-escandalo-ine-sheinbaum-abre-debate-sobre-federalizacion-electoral-n913982",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T11:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Después de las elecciones tendría que haber una discusión nacional, indicó.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "0ac1e555942d9d56"
+ },
+ {
+  "titulo": "Bomberos atendieron tres incendios en viviendas de Tijuana",
+  "liga": "https://www.uniradioinforma.com/policiaca/bomberos-atendieron-tres-incendios-viviendas-tijuana-n913979",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T10:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Emergencias",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "33c5608ea29014a4"
+ },
+ {
   "titulo": "SENAPRED ordena evacuar sector La Ensenada en Ovalle por desborde del río Grande",
   "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2tiZzh5VXhNWjR1Q0FjVDBkOFFnVThLUEw1a2JPd0tVVVhVZXhOd2R5OXZvR0RIZnpLTTZSYzMwNUxMU2pfaTE1eFlzYnlRWWpTWHlNTDl2Zm4wRHpSUno2VnFDcWNHZ2Q0Vm5laWVBRF96am9kdWJhQVkxUXB1b1pXVmNsamFzX2Y1ZFdmMWJlRkl6aHc5eVpaNnVlc09uX2c4S3R2VnE5eVNPQkVZQTdlUXl3Yzdv?oc=5",
   "medio": "Mi Radio",
@@ -70,6 +729,20 @@
   ],
   "local": false,
   "id": "77c9c38bf1c1ded8"
+ },
+ {
+  "titulo": "Antes de capturar a Maduro, JD Vance habría hablado con empresario sobre venta de petróleo venezolano",
+  "liga": "https://www.uniradioinforma.com/sociedad/antes-capturar-maduro-jd-vance-habria-hablado-empresario-sobre-venta-petroleo-venezolano-n913977",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T10:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "El plan de Trump era vender el crudo a compradores internacionales para financiar su próxima transición política.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "70088b8a71652002"
  },
  {
   "titulo": "UASLP ofrecerá actividades culturales del 17 al 21 de noviembre",
@@ -507,6 +1180,21 @@
   ],
   "local": false,
   "id": "3e316e1a472fc434"
+ },
+ {
+  "titulo": "Ensenada activa vigilancia preventiva ante pronóstico de lluvias intensas",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0JOSGFpS3llT21nNnUzeDBhMzhQQW9pbDQ4bWN4RUFHNFZYZlNWUU9CRU1EdGt0MXg4V2xnT1ZsSUFPVEVvdlltbkhVaHJ4eHNqQnBpeWhWYTdwV3NTWTNvQWM4cHd1X05CSkxZdUxlQmtoZHBCSGluV3V4Z0p4aXBJb0FYbnRBQ3JGY0FwMW51eUF5NEVOMlB6ZXpvV0N6cWF4SU1ldjRKNWp6Q3NaTjM4d1Y1YTEy?oc=5",
+  "medio": "Cadena Noticias",
+  "publicada": "2026-11-12T10:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Ensenada activa vigilancia preventiva ante pronóstico de lluvias intensas Cadena Noticias",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "5de3c837b145f760"
  },
  {
   "titulo": "Suspenden Clases Presenciales tras Muerte de Alumno en Secundaria 78 de Tijuana, BC",

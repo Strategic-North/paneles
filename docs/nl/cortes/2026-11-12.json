@@ -1,5 +1,329 @@
 [
  {
+  "titulo": "Prevén temperaturas bajo cero en NL por posible influencia del fenómeno de El Niño",
+  "liga": "https://abcnoticias.mx/local/2026/11/12/preven-temperaturas-bajo-cero-en-nl-por-posible-influencia-del-fenomeno-de-el-nino-295272.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T11:55:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "8fa2050d003edb41"
+ },
+ {
+  "titulo": "Choque de Transmetro y camioneta deja siete heridos en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHJmQ2JjMVh1UTlIVTItZFdGZTRfeEozcEN2VWNNX1FQMUY5RFJkbzZLTHJMU2s4VF9UcXJpT3c5d3pWc1N2bmVoRmZWNTdDQ29FNjY2ZDhKWnZiUTVBVmNYM25KVzllTktlWU9lME15bGZwdUg2dERja29hdm13eUlVUVVuQkJ6N3FaZWgyckNIN3hycUlPZWk5UWhrQ0lIZUZwdjB3?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T11:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Choque de Transmetro y camioneta deja siete heridos en Monterrey INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "54890c79b1dbf5a6"
+ },
+ {
+  "titulo": "Ventas de viviendas en EUA caen a su nivel más bajo en 16 años",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2NPZEtlZjhMUTV1TmFCaUlsclVWNk10RzVVc21VSDRwdTR5MVJJa1RMM3lyeUlBaklXVjVwSDMwZkJaMXJEczl5S3B6MXF1R29PSF9FZGluc0dMOXJEZVdKY3U4S0FYeDhNUFNwYm9GdHVqbmxxdHpqVTBGWFVsM2paNEFPSDJVN0ctTjhEMlFDdHBDRG9FamJfeGpBOWxZaWxhZVppc3pmVDYxT1E?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T11:46:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Ventas de viviendas en EUA caen a su nivel más bajo en 16 años El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d6906259005c3373"
+ },
+ {
+  "titulo": "Torreón tendrá parquímetros gratuitos durante El Buen Fin; conoce las fechas",
+  "liga": "https://abcnoticias.mx/coahuila/2026/11/12/torreon-tendra-parquimetros-gratuitos-durante-el-buen-fin-conoce-las-fechas-295269.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T11:42:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "76f443460f96005f"
+ },
+ {
+  "titulo": "Atención | Protección Civil proyecta 56 frentes fríos en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzhpRGJjVUg4TVN4Q3g5T2xZUXJNNHNOaTZIRXA0TGxBNXByWDM4UkJ4ZHBiY1h0cEc0bnozSHFzb0JTNFJHbnpKdUltWXJIMk5VNTFkRWluWnVNMnlhc1pLV2pLd01HZGViYThTYVpTckpsM0FtRHZBOXVLbVRFQTdWYWhOSGM2UXpWZldDNHdKblhydF9KZmlmaDgwdXFFSUxfM3NWem5oVnNxbHJ0eVZMamNTUVFqODl6VXFDU0RjWFk?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-12T11:39:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Atención | Protección Civil proyecta 56 frentes fríos en Nuevo León Reporte Indigo",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "f6ad18db68a6c6f5"
+ },
+ {
+  "titulo": "Fiscalía de Nuevo León desmiente la búsqueda de Myriam Castillo",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5OWmF3UjN2Y2REeVg4SlY0RjNiVDZqc1d0eWRWVXRUYkFwRWwwdTZkZjZBdzBnU1FNTEdkWk5nRkwzaU81QVJCMUNac0V3YkhzYWQ1UnBIbWJiejJjaGJPZDhORjJVcHNhQ0kycVNycl94a05jTzZ1U3VLbXI1c05VTlBOcElVNEZtTXpRNnlQeHFSU05FXzhMQkx0V3ZJaU9NONIBpAFBVV95cUxPdGpyT25zTnpCUVlSdHFnbEMzQlR0MWFlWFl1QURDcUZmVlVBci1fb1Q4RmNhVWpESHhSVjBncm1Ob0NWaExQWjRYb1Y4UlZpeFZfLWZwMVFkRm9hRlFVS3V1NW1nSmloTnFmdHRacG9Yd1JudXBqeXM5RUdkd1FXWlVkSFVMRVBkRnc4LVF0cXFjSnpjZml6VDhNakZSdFJwajU2Tg?oc=5",
+  "medio": "MILENIO",
+  "publicada": "2026-11-12T11:37:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Fiscalía de Nuevo León desmiente la búsqueda de Myriam Castillo MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5ca5be7082d2dc6b"
+ },
+ {
+  "titulo": "Colisión entre dos autos termina en volcadura sobre avenida Fidel Velázquez en Monterrey, NL",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEdwRzJWNlNxUGV1dU1GOW40bmdNckktMEtaekdncm1aTHliYjZwY0laMVVVX1BwWG4yemN6dURuNHpOR2RCX1hqN1YwZzE3amgzR2VnNVVoVlpxSVJ0ZTZnRTZ0VVJ2R3djUUtsS1Nndk5ZeG5TVVFZbFgxd3ltUFAxWFo2ZlNTQ2tTbzl5X2NVSFM1WXZfYTJwODdpX003U2VIQXNEdVA3SmktWDZxSm5LUFdSQWhWcWtPeHVlRUNhci13dzlzUVdydGx3dw?oc=5",
+  "medio": "voxpopulinoticias.com.mx",
+  "publicada": "2026-11-12T11:36:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Colisión entre dos autos termina en volcadura sobre avenida Fidel Velázquez en Monterrey, NL voxpopulinoticias.com.mx",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "9414a2c6b5cf9f38"
+ },
+ {
+  "titulo": "Clima en Nuevo León: Se Acerca Frente Frío con Lluvias y Descenso de Temperatura",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2hRSWwyaVFqcFFJaVpvUXhYTHNYb2YxZHpoVFhwYlNUV2g5WG1lUEsyb3BRNmdrdUVOZzZfY2FOeUU5SWdneWFDLWRmTnZSODJ4SkluX0N5aGlOTlZFdHg0TDBxa1UwU0NwNkc2Ym1ZdkhnS3cxUFJpZUJndExWaHRIUHJ6OG5mSDRMLU83LVppbnFsa2JvOEFseVh3Ym5VdEVobEhNYW9sQ2k3ek50aWlNaWFkM2F4?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-12T11:27:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Clima en Nuevo León: Se Acerca Frente Frío con Lluvias y Descenso de Temperatura N+",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "3f9787cd9930782a"
+ },
+ {
+  "titulo": "Operativo Buen Fin Seguro 2026: Samuel García lanza medidas de seguridad en Monterrey",
+  "liga": "https://www.posta.com.mx/nuevo-leon/operativo-buen-fin-seguro-2026-samuel-garcia-lanza-medidas-de-seguridad-en-monterrey/vl2278230",
+  "medio": "Posta",
+  "publicada": "2026-11-12T11:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a7129edf6e5adde4"
+ },
+ {
+  "titulo": "Ricardo Margaleff acusa a Mariana Echeverría de minimizar a sus compañeros de Me Caigo de Risa",
+  "liga": "https://abcnoticias.mx/show/2026/11/12/ricardo-margaleff-acusa-a-mariana-echeverria-de-minimizar-a-sus-companeros-de-me-caigo-de-risa-295267.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T11:24:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fb7dffaa0ad7bb04"
+ },
+ {
+  "titulo": "¿Debes preparar tu mochila de emergencia? Esto se sabe sobre el apagón de noviembre",
+  "liga": "https://abcnoticias.mx/tendencia/2026/11/12/debes-preparar-tu-mochila-de-emergencia-esto-se-sabe-sobre-el-apagon-de-noviembre-295265.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T11:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "e913e1d593999fe7"
+ },
+ {
+  "titulo": "Impactos y retos que afrontar ante el crecimiento de La Laguna: Carla Tovar",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb2ZIbzA5LUJkdzQyVl9NSG1paGxwOUgxeVJCbUV2MklEeGpMZ3VyYVBCWWVHeTk5OWJlWnVHYi00Tjk0am9UQUd5VGdfaFBhVGQxYXVFN3I1TUxMMnd4ZXZSOTlGRnlHTXNsMkRNcHQ1UW90Yjc1d2hTWGVsODYyRjZQMNIBgwFBVV95cUxPcm9ocWtOZVNPUTNLSlFxNC1XLXRqM0M2aXBNbkJqQlhfcUd0czZnUUpOZWtoXzU3bGdma0FVWnVkaVFVRVlzZnVXNWNlaFNsdkVWTGFucWFBSHRrMzVJRmhENXRfcEpEYXhRaGhtbjAxMFdualBVMV85aTU0VnFSdE1DWQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T11:22:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Impactos y retos que afrontar ante el crecimiento de La Laguna: Carla Tovar MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "319a851aad0a5a62"
+ },
+ {
+  "titulo": "Conquista Independiente Chihuahua título en la Copa Vallarta 2026",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFc4U0cwemFIQ2RWcGlCaFkybjVkUEM5aE1VZ0dOU0ZUUzBOeFJPUkR6V0FTR0lmOTZDQzNrQ1M1eHFIM2VGeGhBVHdDNnlEMlhHSmlibExmbnpUckRMZG13Smk4a2ZFSUdBajNDZEJyY2pvTjRoZ3cxc2w5Y1A5ekluOTVRZ1p1MnJONVZZNW1GYnBxblMtd0JNRC1qVHJvNTNmcDNrYVhtTUpvOHJDRHlkTnhIMGstcko3VEU0cjZNaUNw?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-12T11:20:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Conquista Independiente Chihuahua título en la Copa Vallarta 2026 El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1f567463c03f0c6e"
+ },
+ {
+  "titulo": "El actor Anthony Clark muere a los 62 años",
+  "liga": "https://horacero.com.mx/espectaculos/anthony-clark-muere",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T11:20:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "El actor Anthony Clark muere a los 62 años de edad. Su amigo y compañero de reparto Mike O'Malley confirmó la noticia en redes sociales. The post El actor Anthony Clark muere a los 62 años appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3e026bc2d3ed6d1a"
+ },
+ {
+  "titulo": "Alumno agredido habría amenazado con matar a jóvenes en Prepa 22 en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGJacllTY051S3ZJZmR0bEFIWUlxd2Q5OGxTblM1TExVUTVfRHVhUGZFd3Z4Y3d3OXVHVXNEc0V2VlpnOG1pZGlwUkdlajBUekJURXZ4aDItZXlqck5lQ1laeUVxQ195dWxTLVFnZlJnRlZHQkVOTlVlbUw2VEtkbXcyU1Vhd254RmJzaXM1cEFKb3luMGxZQkkyMEMydFJKR2FFTDVjSDROckZSak9Hdm9vVUxDdHJJdmQtY1ktbkxpNVl6NGlqZXRkblNrS0Np?oc=5",
+  "medio": "Imagen Televisión",
+  "publicada": "2026-11-12T11:16:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Alumno agredido habría amenazado con matar a jóvenes en Prepa 22 en Nuevo León Imagen Televisión",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "161f20d8db1557a2"
+ },
+ {
+  "titulo": "¿Comprarás en el Buen Fin 2026? Alertan que IA multiplicará las tiendas falsas hasta 200%",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaTVjTVRKb29jeG53LVRQZXdTeGdxUm0wNTd1TlRGVHNEdjl0S0hkQVNQenV2Z1ZObWhyMWNURkZsUjliZzJEZXJGbUxLZThNX2lIaHpWb2RFZTV1bkI0d25OMi1GRTFGbmlqMlNaVm9yQmN5eG91ckt2Yk1DazdZYVlxSk5tbWRaeS1CN2NlYkR4VW1YV3QzU3ZsT3psZ2tIOFFTbXkzTDB6Q3hEblk0QnNXYmJZMW1LOE1xMmkyb01hbEFIMXJUOGdfb211NjlRbnR2a3ln?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T11:14:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "¿Comprarás en el Buen Fin 2026? Alertan que IA multiplicará las tiendas falsas hasta 200% El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cf611933aff7b27b"
+ },
+ {
+  "titulo": "Jorge Durán abandona “La Mansión VIP 2”",
+  "liga": "https://horacero.com.mx/espectaculos/jorge-duran-mansion-vip",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T11:13:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Jorge Durán abandona La Mansión VIP 2 a solo un día de su ingreso tras atravesar un episodio emocional y solicitar ayuda psicológica. The post Jorge Durán abandona “La Mansión VIP 2” appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "b7ab58f98dbfcb36"
+ },
+ {
+  "titulo": "Banco del Bienestar presenta nueva app; conoce sus funciones",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1ZBSG1GSVdTbXF3SVg5NTBjeEdWMktfdzI0LXhNelBqeHlVR2t4V0FaeENodm9xYlFKdjJOR05JOUEyMUVIa1BkVk9YWHFiYjR1a1dFOWJaZHpfLVZIMWdMenBPN3UxZWw5UnI1WGtYc1JLTFVBNzEtZUpDdmsxamxGNlVydjd3QTREekhFTnZreGxrQTNIVG1JNkw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T11:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Banco del Bienestar presenta nueva app; conoce sus funciones INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cf9a1e0fe5020c6b"
+ },
+ {
+  "titulo": "Operativo de seguridad Monterrey: medidas para el Buen Fin 2026 en áreas comerciales",
+  "liga": "https://www.posta.com.mx/nuevo-leon/operativo-de-seguridad-monterrey-medidas-para-el-buen-fin-2026-en-areas-comerciales/vl2278229",
+  "medio": "Posta",
+  "publicada": "2026-11-12T11:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4c762a9db8bd11b4"
+ },
+ {
+  "titulo": "Hombre Destroza Puesto y Amenaza a Pareja en Mercado en Ciénega de Flores, NL",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDNtTzJUT3BwaTlvR0VtLWNLWnZOekI2cUllRl9HYXItWGhWQzVMS0luc1pfblVpTUZxbGZhS0hIV0pQYWhUaFNvdGxPcHBnRkNCRTlGZGp5ektDbXU2QTRpY3ZfX1JvVldCMVRSa2FKZXFGbTN1ZVFFdUJ6d0U0ZHFXMDJjS3p5c0FFYjZEQlFkUE9pZXRfSGh3OThrdDROM1FZN3lhNUhDZkxWVzZKajREM0trX0R3MGZWb0JnWQ?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-12T11:08:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Hombre Destroza Puesto y Amenaza a Pareja en Mercado en Ciénega de Flores, NL N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "de94765971cd7807"
+ },
+ {
+  "titulo": "Investigan intoxicación de dos alumnos en Secundaria de Guadalupe",
+  "liga": "https://horacero.com.mx/nuevo-leon/intoxicacion-de-dos-alumnos-guadalupe",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T11:07:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Autoridades investigan la presunta intoxicación de dos alumnos en una secundaria de Guadalupe tras consumir gomitas enchiladas durante una kermés. The post Investigan intoxicación de dos alumnos en Secundaria de Guadalupe appeared first on Hora Cero Web .",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "76fa566f553abc5d"
+ },
+ {
+  "titulo": "Nuevo León lanza siete incentivos para atraer carga de Jalisco a la aduana Colombia-Laredo",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFN1bll3SG5CcEtlb1ZiSG05ZWI1M2w4UVhuM1psOXl6SHhWaTNtOW5FSGw1TFhZNUlNM3ZSRTNhVk9xX0swanEwcm1UQm9wQVh1NS1Qb0hSNWNQeGd1OFprQ0I0elNvNWg2RkoydDlaQVpZb0s1aThMaEd1SnYwU29SdlNDNXBDd0s5RmwtMUhHOW4xY2g1WHJTLUs4R3gyYWhBaE5ud2duQ1RyVzE3VF9LelAtQWNYdUE?oc=5",
+  "medio": "Revista TyT",
+  "publicada": "2026-11-12T11:04:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Nuevo León lanza siete incentivos para atraer carga de Jalisco a la aduana Colombia-Laredo Revista TyT",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "56e342689bc6776b"
+ },
+ {
+  "titulo": "Se intoxican en secundaria tras consumir gomitas con drogas",
+  "liga": "https://www.elnorte.com/se-intoxican-en-secundaria-tras-consumir-gomitas-con-drogas/ar3313415",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T11:04:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Investigan la presunta intoxicación de 3 alumnos de secundaria en Guadalupe tras ingerir gomitas con sustancias narcóticas en el plantel.",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "3810cce00ba1ff22"
+ },
+ {
   "titulo": "EF Meet Point. Bienestar financiero y cierre de año: tendencias, desafíos y oportunidades",
   "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUU9SYzJjSjNfRW5rMElrb0V5UkNkVWF5X1BxOWgxbHpnYlRONTA4UFJyVVAxa2hLRHpRUG5hdFN6QkRoS2xxdFZ0RVIxRkFxQ3NrcS1sTUk5Vjc4T2NVTjhveENNZ0RpX3Vmdzg5dzFzVnVBSXRuZlF3S1ZYWUR1clBUQ0h4c2dNYkdtNkxLVTc1TTVybEgwUG9zLXpMOHA1VFZkRjJyUjJxUDQzOVBWR1NVc0Y5aWYybzJrMFZlSGZGTDJDY3hYN0U0NDBsTTNfQlhITktxV1ZUaGRfRVF2RXJn?oc=5",
   "medio": "El Financiero Monterrey",
@@ -112,6 +436,20 @@
   "id": "e48497ce72cf7622"
  },
  {
+  "titulo": "Volcadura deja dos lesionados en avenida Fidel Velázquez en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUy1MQ0cwVU0tRU9NQ1hQbnVMUG00Rlh3alpvRUd0WWhoTGhYVjBrU1dJZEs4b08yUVJ0aXlYTFh0b0RtUzJIa2VKeFg3d0xCZEF6cVF0QnNCb21FM3VlSm9YLTYyVWtnRGM4RnRfb01qTV90NE8waXVVUkxHcllMX0hERmotN1Etb20wVjNNV3hVSWRfM1ZXb9IBmAFBVV95cUxNYXVudGpWU1ViTUxSXy1rTlc2Nk1qMDVIcEhrRXNoSkV1UVJnam9VSlE1T000UkNTR0RxWThZbnV4R0lJTUVZTS11cmZRWVdfZVZrQTYxWkNjRlhodngwMlUzMWhTTFBlY3VnOGF6cW5ab3FUdi1VbWc1S2JjbDB0YXFWMGdjZjJpZF9OOG9yQWJOeHVTWHhFdg?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T10:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Volcadura deja dos lesionados en avenida Fidel Velázquez en Monterrey MILENIO",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "749717f944b978d5"
+ },
+ {
   "titulo": "Rescatan a gatita luego de 15 horas en lo alto de poste",
   "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2M1M2dOckxUSkpkVVRyQUg3c2ZIZ1BCMkZQVzFuazEwaXNsaHhKZzVDaWZjd1FzMVI2UHlHc3NueHJPSTJ3SEpWTlZUMm5sOWdIVE1Ia0xEZDVtUUJ1ZE8tVGM1RGQ2ekJaV0JHZm1TekpZcjVJVmlISl9CeDFycVNLbS1MS2dHeFJ1UFN6X081VlNfSGtTTzAzcFhNcEE2NXZNVFVxWQ?oc=5",
   "medio": "El Horizonte",
@@ -138,6 +476,20 @@
   ],
   "local": true,
   "id": "e656e3854300769f"
+ },
+ {
+  "titulo": "VIDEO | Hombre destroza puesto de veladoras en mercado rodante de Ciénega de Flores",
+  "liga": "https://www.posta.com.mx/nuevo-leon/video-hombre-destroza-puesto-de-veladoras-en-mercado-rodante-de-cienega-de-flores/v-vl2278220",
+  "medio": "Posta",
+  "publicada": "2026-11-12T10:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1e462f2cdac1ef1e"
  },
  {
   "titulo": "Revelan causa de muerte de alumno que falleció durante carrera 5K en Monterrey",
@@ -241,6 +593,20 @@
   "id": "46e1359e6b207869"
  },
  {
+  "titulo": "Morelos impulsa la protección de su cocina tradicional",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMEpPcEpCNEZjT1JZV3k3RGtCTGk3SHhmZ2JTWlYwWDJIazVjTXNjWlZLc3lZNzlMN0Y5RENXT1dRZy1YMFlpa0xHOXMwNDJPMFdsN0ttQ1Q2LWw5Q1FPMTZwOXpvekJ2dm1XV0VONWk3U1o4U2lZS1FJTlJwemplLWxOZXo3dEdiWjhSTzVwVzRnZ0hLYWxZVVhwR2d3bjBpUEFnVWl1bzQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T10:31:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Morelos impulsa la protección de su cocina tradicional El Financiero",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "11e959c97d22dcbd"
+ },
+ {
   "titulo": "Capturan a hombre vinculado a crimen en la zona norte de Monterrey",
   "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSk9HclBwc3V4T2ZWRWJmOHUxcDRfQ0ZCVGVQWnNsTUJDYkZKckZJOXlOdTdwbXV6NlZJTWY4bnZVbU51Z3A3YUNYOGNXSVJpbGVLX1B4QVIzWmd6ckJNd29YT3B5R082VmtPMll4UWEwLW0zajJMd2lBaFhlOGQ5cENjeEMxV3VCQ0VoYkpKeXljd1VXYk1Gcm9XSGlrWTVSai1WQ29FX1JEejlpa0c2dlc4SkpXd1NOTVNBLXB6UWZRcnc?oc=5",
   "medio": "Reporte Índigo",
@@ -253,6 +619,20 @@
   ],
   "local": true,
   "id": "7f3c1ebcee44a74a"
+ },
+ {
+  "titulo": "Gastronomía de Los Cabos: sabores del mar y del campo",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObkVYMkJHc3dDZmZzY3F1RmdFdHYzUDFOTTR2QVo0eUp6Q2RvaEdzUzFvZzctZWVlMkZCZWNNcUt6bDBFVWhrZ1lZWlNNSF9SMEd6OThQVnZLYVpueXM4cDFlRkVuTWtGdmFfVy1ucmRQSzRkUHp2VHNDbFhiWUlNMURJR3VDRkZXRlAyUTJNQ01QZ1lNeWZmb0R3TjJoSExHSGhkTDVR?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T10:28:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Gastronomía de Los Cabos: sabores del mar y del campo El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fe8c86167ee9c545"
  },
  {
   "titulo": "Monterrey despliega vigilancia en el Centro y la Central de Autobuses por Buen Fin",
@@ -437,6 +817,20 @@
   "id": "4442d6837561e14c"
  },
  {
+  "titulo": "¿Familiares de Guadalupe Taddei deberían renunciar a sus cargos? Esto respondió Sheinbaum",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUkNCWUNNbUsyYk5iQ3YwTFVIdEI2SzJQZENJdTdLTjlERUR2SzE1Sk5BU2FTLXJIZ0FwQUNsY2pUd1pSQXRMdEZ0bUxKb19KQ1ZvOVVGN1lEVmFCQVkwTHN0dnB5SkU1R09reEtMeDhVdWxSQVlXWEItQmpldVBHUmpjS3MyWDB2cEk1T3ZydkZWY1d0YTBieVhTSjF5Xy1DNW9pcDVJTk03empOVGdlVVV4bm4wZzZOcmU4eDNXMFBib2tMWk5UeVNIZ0Zra0cxUVJ0V1g3MA?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T10:05:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "¿Familiares de Guadalupe Taddei deberían renunciar a sus cargos? Esto respondió Sheinbaum El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b0916e46c477af57"
+ },
+ {
   "titulo": "Tame Impala vuelve a México en 2027: Todo sobre las fechas en CDMX, Guadalajara, Monterrey",
   "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNSd185SldrcGhROGRRMlRjRUtTR0tUQ0w4b2k4QVdzNnVQUmdxSGF5a1BlWHN6QjZrbHV3bXZzYmZoeGxEWjU1MmpIOWlZT1h2Z09IMGttano3dFJXa3JleHgydW9ab19ROFhyLVdfbV9SNDkxdDVPUHBCQ2tkVWZWWWxDN1pqWFZzZmxtNl9DdVJnZUpxczQ1M2F4T255MUdwMlNpOGZ3aFFRalRNVzBrTHpMazNQZlFjUG4tel9yWThKaW9HWmlHTUhscFZVdV9pQzh5U0JoY3ZyNGVweE83c2JpZnc?oc=5",
   "medio": "Reporte Índigo",
@@ -477,6 +871,20 @@
   ],
   "local": true,
   "id": "f2c73397b84c9e90"
+ },
+ {
+  "titulo": "Mariposas monarca tiñen de naranja el río Santa Catarina en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmU3ZndaeEVVZE9GdGxwNExCVkFtNERKQzBBdU1vZ3ZURWU1NVJXTUd3Z1d6c0s2NUg4dW5ZWVI3bEI1V04xQ05rRkhDblAyRlRycF9IUVB5bFlGcXRsazRmWDZHQ0gtQlVUUU9XbkttSko5Sy15RDhVNE9zYnZSR0RVaUk4Yk41emJSR0MtT2VxQU1TZnhVVGQ5RTlaYW0xLVJYby1fY29aeWs?oc=5",
+  "medio": "Contigo Puebla",
+  "publicada": "2026-11-12T10:01:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Mariposas monarca tiñen de naranja el río Santa Catarina en Nuevo León Contigo Puebla",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "48d33c9bd6bbe968"
  },
  {
   "titulo": "Banco del Bienestar lanza nueva app; permitirá transferencias",
@@ -690,6 +1098,20 @@
   "id": "51fd22f3cd02f9ae"
  },
  {
+  "titulo": "Nuevo León adelanta fin del ciclo escolar 2026-2027 por altas temperaturas",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOE1wVXZaVld6Q1ZRejNlRGgwRjhfdlVmYmFneC1Yb3dMTlNEdnE0aUN4YmFmaHFZMGRvZS0teGN0OXZWLUlTSGpuY1JvUC1GLW02QURVTjBSbjU4Vi0yZ2loN2Q0MEdwcmVqS1UxZnNyTFlKSHJoS09vOGZzYnI5Vjd5U2g2UHdfWks4ZXlfRDZSaFJGSV8yeE9VNzNsLVZvLXBHOVZUdkJrZFhRQUE2WmUxd2l5LUE?oc=5",
+  "medio": "UnoTV",
+  "publicada": "2026-11-12T09:36:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Nuevo León adelanta fin del ciclo escolar 2026-2027 por altas temperaturas UnoTV",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "f90392be67f95a99"
+ },
+ {
   "titulo": "Carlos Valenzuela aparece en entrenamiento de Tigres en medio de cambios directivos",
   "liga": "https://abcnoticias.mx/deportes/2026/11/12/carlos-valenzuela-aparece-en-entrenamiento-de-tigres-en-medio-de-cambios-directivos-295259.html",
   "medio": "ABC Noticias",
@@ -731,6 +1153,21 @@
   ],
   "local": true,
   "id": "0525cc72dc5bd090"
+ },
+ {
+  "titulo": "Investigan Intoxicación de Tres Alumnos con Gomitas en Secundaria de Guadalupe, NL",
+  "liga": "https://www.nmas.com.mx/nuevo-leon/seguridad/investigan-intoxicacion-de-tres-alumnos-con-gomitas-en-secundaria-de-guadalupe-nl/",
+  "medio": "N+ Monterrey",
+  "publicada": "2026-11-12T09:26:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3f5ac8da1d216857"
  },
  {
   "titulo": "Tame Impala traerá su ‘Deadbeat Tour’ a la Arena Monterrey",
@@ -801,6 +1238,20 @@
   ],
   "local": true,
   "id": "d7b85c797beb716a"
+ },
+ {
+  "titulo": "VIDEO | Investigan presunta intoxicación de tres alumnos por consumir gomitas con droga en secundaria de NL",
+  "liga": "https://www.posta.com.mx/nuevo-leon/video-investigan-presunta-intoxicacion-de-tres-alumnos-por-consumir-gomitas-con-droga-en-secundaria-de-nl-/v-vl2278186",
+  "medio": "Posta",
+  "publicada": "2026-11-12T09:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "47c461917d23b228"
  },
  {
   "titulo": "Creer en México",
@@ -1953,6 +2404,20 @@
   ],
   "local": true,
   "id": "41a8d60edae07ace"
+ },
+ {
+  "titulo": "Jueves 2x1 Ticketmaster para HOY 12 de noviembre: Estos son los conciertos válidos en la promoción",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVN6MEJZczQ4M2xQVEhOdGc3UGh5dW16NW1oMlpjUXc2djNRMmJtaDdqVXl2b092Qk5SQm9NdW5BZWtaOUhoNkU3LUoyS0x2TS1TUzJ2NDlXZWVETDJaUzdyM3hEMUM2UnRTbGszMzJuVGJfSVBCQ1ZWYXRfUDFQaGpIS1Yya0h5WHBzRFFXQWp1ZjZKLTZRMEVIODlkS2RUQ0VVMndIdnpnSFFyTEZZTGxaWkdTXzNwN2V1QWVBTDNSTGY0dHc?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-12T07:20:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T11:56:06-06:00",
+  "resumen": "Jueves 2x1 Ticketmaster para HOY 12 de noviembre: Estos son los conciertos válidos en la promoción Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "8b28cf10c6bac635"
  },
  {
   "titulo": "Empleada sufre lesión al limpiar máquina en pizzería de Guadalupe",
