@@ -1,5 +1,568 @@
 [
  {
+  "titulo": "Acelera inflación en México al 2.2% y costos básicos alcanzan $1,690,000",
+  "liga": "https://elcongresista.mx/economia/inflacion-octubre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:52:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "La inflación en México subió a 2.2% en octubre, mientras la canasta básica alcanzó $1,690,000, afectando el poder adquisitivo de los hogares.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "f753e6c82f624f7e"
+ },
+ {
+  "titulo": "Restaurantes en Valle de Guadalupe destacan por su oferta gastronómica",
+  "liga": "https://elcongresista.mx/politica/baja-california/restaurantes-valle-de-guadalupe-recomendados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:51:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Restaurante en Valle de Guadalupe destacan por su deliciosa gastronomía, algunos cuentan con estrellas Michelin y reconocimientos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "467725b641b6225c"
+ },
+ {
+  "titulo": "Matan a aspirante de Morena a la alcaldía de Lázaro Cárdenas, Michoacán",
+  "liga": "https://zetatijuana.com/2026/11/matan-a-aspirante-de-morena-a-la-alcaldia-de-lazaro-cardenas-michoacan/?utm_source=rss&utm_medium=rss&utm_campaign=matan-a-aspirante-de-morena-a-la-alcaldia-de-lazaro-cardenas-michoacan",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-12T13:50:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "La FGE estableció la participación de una persona como probable responsable y mantiene abiertas las dos carpetas de investigación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "3c3430917a644364"
+ },
+ {
+  "titulo": "Clausuran tres obras irregulares en lagos de Pátzcuaro y Zirahuén",
+  "liga": "https://elcongresista.mx/politica/michoacan/clausuran-obras-irregulares-patzcuaro-zirahuens",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:49:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "La Proam clausuró tres obras irregulares en Pátzcuaro y Zirahuén por falta de permisos ambientales necesarios.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aaa067407f1831ea"
+ },
+ {
+  "titulo": "Nadia Beller llega a CDMX tras denunciar a Cerimedo por feminicidio.",
+  "liga": "https://elcongresista.mx/justicia/nadia-beller-llega-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:47:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Nadia Beller llega a México tras solicitar asilo. Acusa a Fernando Cerimedo de intento de feminicidio.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "40bf5f91aeaad530"
+ },
+ {
+  "titulo": "Sheinbaum y Sánchez destacan la renovación de la relación México-España",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-sanchez-relacion-bilateral",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:46:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum conversa con Pedro Sánchez sobre la renovación de relaciones diplomáticas y una futura conmemoración.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e55e0bf50a73d8e0"
+ },
+ {
+  "titulo": "Marco Estudillo plantea nueva apuesta ciudadana por Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVURYTE5IcWxEZnJ4VFhHMm1fTVltTWFnQm1hbll0bk5VNVpRbXBTQmxUVGk2bDd4TGplYnBod1dPOTlCNFpsZVVVUGRhcjY5am5Wd3U3UEctNjczWjZnd3JCRUFPQ1lka3RVSFZIS0dqQXJvbmNnemVKOW5zWEFkbWsxU3pXY1dlb0tVU2tERkVwekdjelZmWUxmRnBZUlE?oc=5",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-12T13:42:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Marco Estudillo plantea nueva apuesta ciudadana por Ensenada La Jornada Baja California",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "aac48982ab0b2dc4"
+ },
+ {
+  "titulo": "Seduma realiza muestreos para enfrentar contaminación del río San Felipe",
+  "liga": "https://elcongresista.mx/tamaulipas/seduma-tamaulipas-analiza-contaminacion-rio-san-felipe",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:37:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Seduma realiza muestreos en el río San Felipe para diagnosticar y combatir la contaminación en Tamaulipas.",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "14b4644569d8cd68"
+ },
+ {
+  "titulo": "Delincuentes roban dinero y mercancía de Carnes Frías en Reynosa",
+  "liga": "https://elcongresista.mx/tamaulipas/robo-carnes-frias-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:36:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Un negocio de carnes frías en Reynosa sufrió un robo de dinero y mercancía, mientras las autoridades investigan el caso.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "9f202c4d8e6bcd7a"
+ },
+ {
+  "titulo": "Resultados Tris Medio Día hoy 12 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-medio-dia-sorteo-36928",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:35:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "El sorteo Tris Medio Día número 36928 se celebró este 12 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "85380ec354c5adf1"
+ },
+ {
+  "titulo": "Advierte Protección Civil pronóstico de lluvias fuertes para mañana",
+  "liga": "https://puntonorte.info/2026/11/12/advierte-proteccion-civil-pronostico-de-lluvias-fuertes-para-manana/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-12T13:34:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Tijuana.- La Coordinación Estatal de Protección Civil (CEPC) advirtió que, de acuerdo con el pronóstico emitido por el Servicio Meteorológico Nacional (SMN) de la CONAGUA, a partir de la noche del jueves 12 y hasta el sábado 14 de noviembre se prevén lluvias en Baja California, a",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "cbf4a9babe3d2d72"
+ },
+ {
+  "titulo": "La mancha\" de Ramiro y Adrián García Bogliano se estrena en Rotterdam",
+  "liga": "https://elcongresista.mx/politica/nacional/la-mancha-rotterdam-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:34:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "\"La mancha\", de Ramiro y Adrián García Bogliano, se presentará en el Festival de Cine de Rotterdam en enero de 2027.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0b0ce404f0067366"
+ },
+ {
+  "titulo": "Deslizamiento en Sánchez Taboada Cumple un Año sin Obras de Rehabilitación",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjY0LXlTM3JFbzB3dHdTRFRxU3VlZnZJTlExcHVmRGVRLW9IV3JQMGZsd2V1ZzVlb3U5Y21iTkZpbmJMSDlFWHA2U2NMa1dUbDlCdGxpX3BMWFZPc0wzdUg5SGtueVYtQnI2ajNZMlRGOFhIZTdIUGFSU0Zpd1VDejB3N1hrc3dkXzdsWFNtUGVmNk15c2QyT21heVc5bHl2S1pUMG9uaVpRSThlUVk4aFBYYVNvMGpOa3ZseVE5UkphZw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-12T13:34:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Deslizamiento en Sánchez Taboada Cumple un Año sin Obras de Rehabilitación N+",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "e487b3830026effc"
+ },
+ {
+  "titulo": "Family Cash abrirá un supermercado que creará 50 empleos en CDMX.",
+  "liga": "https://elcongresista.mx/estado-de-mexico/family-cash-vila-real-empleos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:33:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Family Cash abrirá un nuevo supermercado en Vila-real, generando 50 empleos y facilitando las compras para los residentes del barrio.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "e34a101f7d042290"
+ },
+ {
+  "titulo": "Ariadna Montiel propone comisión para investigar elecciones de 2006",
+  "liga": "https://elcongresista.mx/justicia/ariadna-montiel-comision-investigar-elecciones-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:31:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Ariadna Montiel propone en la Cámara de Diputados investigar la elección de 2006, ganada por Felipe Calderón sobre López Obrador.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1b1c6377757eeab3"
+ },
+ {
+  "titulo": "Prevén lluvias en Tecate y municipios de Baja California durante el fin de semana",
+  "liga": "https://elportavoznoticias.com.mx/preven-lluvias-en-tecate-y-municipios-de-baja-california-durante-el-fin-de-semana/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-12T13:26:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "La Coordinación Estatal de Protección Civil (CEPC) alertó sobre la presencia de lluvias en Tecate a partir de la noche de este jueves 12 de noviembre, con precipitaciones intermitentes previstas para el... La entrada Prevén lluvias en Tecate y municipios de Baja California durant",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "28b4bdd121c90be1"
+ },
+ {
+  "titulo": "Resguardan a 13 Gatos y Tres Perros Tras Reporte de Agresión en Tijuana, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORVZtNmJJbEhPMjFtY0V2bXNFc0lDNXBNTVM3eGFkY2w4Y0YwUGRVSU9fVldLSFdJSmd6N28xeVNsU1BiZGlCNnBrTXlpTzZEeHJCMGlkd1dNSVBnMHlIZDFaYUlpOExYVUl6eTRGZVFCY1B1VXduSG9sQUNzU05tSmlpbFBfZ3BqaExqcFdYVVhQSGk4SzUyVFFEc2J3bTMyTmlHakw4bUpOVWZHeDlNdWNybVhZaGI3dS1QMFRJU3Yzdw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-12T13:26:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Resguardan a 13 Gatos y Tres Perros Tras Reporte de Agresión en Tijuana, BC N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c006adba98ace8a2"
+ },
+ {
+  "titulo": "Extradiciones, renuncias y el INE: las caras del gobierno",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTY1Y1BGZWJmanpnRUsySExRckVZd21FM1ZwQ19ILWdxcmg4eGxrWHNpek5vMkhOOHZRLUpXSF81UEhnbnd2SU81RVBkbkoxLVh3S2QyeHVjdkxmV01GOVp6Vy1rTWNEWElyXzZxSnJpUmVuT3F0eW1peHdHOVNqd05tRW1TSjJOVm1qM0hQM3Vtb01LN01ROEV5S1oxekk?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T13:24:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Extradiciones, renuncias y el INE: las caras del gobierno AFN",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "d66f1080e45303b6"
+ },
+ {
+  "titulo": "Resalta Maru Campos paz laboral y gobernabilidad para inversiones en Chihuahua",
+  "liga": "https://elcongresista.mx/politica/chihuahua/maru-campos-gobernabilidad-paz-laboral-inversiones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:23:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Maru Campos destaca la paz laboral y gobernabilidad como factores clave para atraer inversiones a Chihuahua en encuentro con empresarios.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "478c78f261a72d77"
+ },
+ {
+  "titulo": "América golea 3-0 a Toluca en cuartos de final de la Liga MX Femenil",
+  "liga": "https://elcongresista.mx/politica/nacional/america-toluca-cuartos-final-liga-mx-femenil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:21:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "América vence 3-0 a Toluca en la ida de cuartos de final de la Liga MX Femenil, consolidando su ventaja.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "154d1881e4610405"
+ },
+ {
+  "titulo": "Virgin Voyages cancela crucero y modifica itinerarios en el Caribe",
+  "liga": "https://elcongresista.mx/politica/nacional/virgin-voyages-cancela-crucero-itinerarios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:19:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Virgin Voyages cancela un crucero y modifica itinerarios en el Caribe para 2027 y 2028, afectando a varios pasajeros.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0724cbefc8fce263"
+ },
+ {
+  "titulo": "Liberan a 15 detenidos durante operativo contra “El R2” en Guadalajara",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzl0aS1ubXBzQzNCdDk3dHEyMVNjRERoSEdiMzY5Y1dKSmdBZy1sdTFFZF9FQ3NyQ1AzOUw5eFBlU2ZNeVFwX3FDSXVZMEpqemVUUkJjSUF3XzF6NjdaVUpLNWFMa1lhdUl1cHpoZkpqa0FPbVhKcmc0Wm9tOUxuSTUwM3ZydnJMblowWEo1dTlTODM2MTlqUm9lS1FoXzE2NVpoZl9n?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T13:19:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Liberan a 15 detenidos durante operativo contra “El R2” en Guadalajara Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "87f626d1f1869a7a"
+ },
+ {
+  "titulo": "Advierten por arribo de lluvias desde esta noche hasta el sábado en BC",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnFqakFXVk9FNmJaUWI5NmtQNTBlMnNNTE0yVFhCUm9lRnFZYmRjNUpoaTBKQTJSNG03dFZ1UVFJM1Rtdi1HM1ZMUzlYbU1hc2ZBOWllQm1LNXlBQ0VqMFNKUFd3dUhmbW1BZmNidllCelNSN0w0bWF6d3pGc1BadDZaVHI5em5PQmFPWlNYcUU0UG1UcVFsTkRpcERHalRBdy1QU0JLM2NsdVlJZnJGU2tiV1JrTVJYa3dsRUFB?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T13:19:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Advierten por arribo de lluvias desde esta noche hasta el sábado en BC AFN",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "883214768ddebbce"
+ },
+ {
+  "titulo": "Rescatan a 13 gatos y resguardan a tres perros tras reporte de agresión en Villa Lomas",
+  "liga": "https://www.uniradioinforma.com/policiaca/rescatan-13-gatos-resguardan-tres-perros-tras-reporte-agresion-villa-lomas-n914030",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T13:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3c9bd6f2717d0900"
+ },
+ {
+  "titulo": "Sheinbaum asegura que reunión con Xi Jinping no afectará a México",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-xi-jinping-relacion-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:17:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Claudia Sheinbaum sostuvo que su reunión con Xi Jinping no pondrá en riesgo la relación de México con EE.UU., a pesar de las amenazas de Trump.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f19cbb2eb1d67555"
+ },
+ {
+  "titulo": "Hombres armados asesinan a un hombre en hospital privado de Tuxpan",
+  "liga": "https://elcongresista.mx/politica/veracruz/hombres-armados-asesinan-hombre-hospital-tuxpan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:16:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Hombres armados atacan a un paciente en un hospital de Tuxpan, Veracruz, dejando un muerto y un herido grave.",
+  "temas": [
+   "Seguridad",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b0a493837c5c0d36"
+ },
+ {
+  "titulo": "Nuevo escándalo de Jensen Huang: reportan supuesto romance con vicepresidenta de Nvidia",
+  "liga": "https://www.uniradioinforma.com/ciencia-tecnologia/nuevo-escandalo-jensen-huang-reportan-supuesto-romance-vicepresidenta-nvidia-n914028",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T13:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "El exCEO de Nvidia, se ha convertido en tendencia luego de que se destapara un amorío con una supuesta espía china.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1c9c79b3b234955d"
+ },
+ {
+  "titulo": "Tierra Amarilla brinda 300 atenciones podológicas a adultos mayores.",
+  "liga": "https://elcongresista.mx/salud/atenciones-podologicas-tierra-amarilla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:10:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "La Municipalidad de Tierra Amarilla realiza operativos podológicos beneficiando a 300 personas mayores y con discapacidad hasta el 16 de noviembre.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "0a9c5489faa9341f"
+ },
+ {
+  "titulo": "Advierte Protección Civil BC sobre lluvias en la entidad",
+  "liga": "https://www.uniradioinforma.com/sociedad/advierte-proteccion-civil-bc-sobre-lluvias-entidad-n914025",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T13:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Se prevé posible caída de aguanieve en zonas serranas, así como temperaturas mínimas de hasta 5 grados bajo cero en las sierras de San Quintín y Ensenada.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "a53a36dbb64e96c2"
+ },
+ {
+  "titulo": "Rescatan a cuatro víctimas de violencia familiar en Tiquicheo",
+  "liga": "https://elcongresista.mx/politica/michoacan/rescate-victimas-violencia-familiar-tiquicheo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:07:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Rescatan a una mujer y sus tres hijas en Tiquicheo, Michoacán, ante denuncias de violencia familiar.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "53c726a3460d4ece"
+ },
+ {
+  "titulo": "Saúl Monreal propone revisar el INE tras elecciones de 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/saul-monreal-revision-ine-elecciones-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:05:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "El senador Saúl Monreal sugiere posponer cambios en el INE hasta después de las elecciones de 2027, priorizando la elección de nueva presidencia.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "50509fa7431edc47"
+ },
+ {
+  "titulo": "Incautan en AICM paquete con 8 playeras impregnadas de cocaína",
+  "liga": "https://elcongresista.mx/seguridad/paquete-playeras-cocaina-aicm",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:04:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Encontraron en el AICM un paquete con ocho playeras impregnadas de cocaína, con destino a Chile, pesando 5.34 kilos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f11a090f720397a2"
+ },
+ {
+  "titulo": "Sheinbaum descarta renuncia automática de familiares de Guadalupe Taddei",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjh3QnA5MGVaUm1VVFRrOGh3Mjl1eEZ5TUtPbkdZOWxlNTkwYmpWT1V1VFAxdE1NWHVnd2hYZ1NtUU5HMVFnZUtWd0ppLUgwVDJ3UlFUSE1QbGh4VkNlaUI4LTN6WmZqeWh4R09uazNwV0tjd2RqQUVUNEJQZzlsR0ZObWZ1ZXNjZ3JIU240RnJvUXBFcXdHajV2ak9QcDRWODRpbGJMUG0yUWM?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T13:04:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Sheinbaum descarta renuncia automática de familiares de Guadalupe Taddei Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f48bb14f07958d25"
+ },
+ {
+  "titulo": "Ofrecen pase de cruce ágil gratuito a residentes de EU durante el Buen Fin",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFVybHlYNXFkREJsZEk5al9QVzdNTUtQS1Q4N3FGYWpGY1A4Q0ZGcnkwaHo1cE1TeTlJSXd3M3R1R1NmbmNfMHMzOGM1clZQeUx3aFpWWV9WcDFMLXdiYWllTnFoaGZQTkVZRktUbTgyV28tVFRDLVZhbGhNcEZFVjdyRFd5STlrVHdlcHp1RlFGWFllTVl3VndrdmhDQ0s0dTJEVG53eVFVTDhEbFR4NHVjN2htaFhMUnE1OE1MeE1WcDQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T13:04:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Ofrecen pase de cruce ágil gratuito a residentes de EU durante el Buen Fin AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f25bb859027d82ac"
+ },
+ {
+  "titulo": "Habitantes de Maneadero bloquean carretera Transpeninsular por lluvias",
+  "liga": "https://elcongresista.mx/politica/baja-california/bloqueo-carretera-transpeninsular-maneadero",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T13:01:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Residentes de Maneadero bloquean la carretera Transpeninsular exigiendo atención de Conagua tras severas inundaciones.",
+  "temas": [
+   "Clima",
+   "Movilidad",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "b4fd8a9567178720"
+ },
+ {
+  "titulo": "Encuesta de AIMSA coloca a Armando Ayala con 36% de preferencia en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQU9FRGVHVEo3c1FVNThmVGtPYnhHd2dNRnItTEw4ODBRN2N2WUlRUlJFMjJ0MUNCczgxV2RpOUpfRmxsZFRIY0lDbkVDY0h2TVlaaERzY2RNOFJzdmYxNkVmYktPYVRrM2dIaUR3Qy1WN1lqS09zUTVTQnk2NEU4NUlCSlJ5aGpSUF8zY1dyZUF6VGVNMzhNUmNPOTlSWHdwc1MweG1qa3l2SElvdFE?oc=5",
+  "medio": "elportavoznoticias.com.mx",
+  "publicada": "2026-11-12T12:59:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Encuesta de AIMSA coloca a Armando Ayala con 36% de preferencia en Ensenada elportavoznoticias.com.mx",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "bb5a8437d4747908"
+ },
+ {
+  "titulo": "Recomiendan estar alertas a señales de riesgo en adolescentes",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3BoaEM5UmZZM0hqXzJjaHVCX0V5QjVNY3hRRkRBQ3dlcTlXMHFJcGxNZExrUXZwc1lHWkt0MjVRUzBDNHBXVk5qdl9YenZ5OFRZSVJsZF92UGY0bkVzLVVoelZ6dDA5MERRcEhoTUg3ZmlOM01yUFdSbkdoWmlzZjhDeGRDN3JSbUV1NDZGcWtPcEMxYktTczdNbjRkcEx3M21RWFFUSXUwRzJrOHR5Y2Vn?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T12:59:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Recomiendan estar alertas a señales de riesgo en adolescentes AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c4950c26ae54ba24"
+ },
+ {
+  "titulo": "Eddy Reynoso comparte las claves de su éxito",
+  "liga": "https://www.uniradioinforma.com/deportes/eddy-reynoso-comparte-claves-su-exito-n914023",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T12:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Es uno de los nombres más respetados del boxeo mexicano. Líder del Canelo Team y mentor de campeones del mundo.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "38e9c8f4239607c8"
+ },
+ {
+  "titulo": "Senapred solicita la evacuación de sector La Ensenada en Ovalle por riesgo de desborde de río Grande",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOHZ0TzlURVVkNDRUekk4U1VaZ0hSNGZmbzV6NHpCaUpDdWpOclVnUW9IdG03d2t2eHA3MmNjQkZQWXEzM3RoR3l4MGZuRUttWF9ndE8yMVFkWDk4Q2YwREZORG9zUEdwZGRIaGtZdUNPVC1aLTlJTTZQZk9remZJRFZibHBRRlRTczV3Um4wQkZRTUx1UU5fWkNhSTdYYVIwVUJ6TUdoLXNoV0tjYTRQZ3FTWGlfV1R1VFNwRFFROVJNbThRa3FQMnRfNWVwM1BLVm5RbTRVRUgxamFw0gH-AUFVX3lxTE1IbWw4U0d1QjJyWjlyVFdIR180RXRhbkZOUV9hbzBuY1U5d0FlSnQ2WGlKeWhHYS11V2Nydnl2YnlWeWtKQWFzcjZIaUJWaWR6TGlOa28wbk5RaS1tZlhuZ29kQVZ5REtfa25DcEdYV01Mb0xqSGJVamtISFhYSS03SFIwUkRscWVXWlVRT0s5RUFJMWJVUEtocE9teFVNeWFvREdXSFVYQTZVQkNwU1V1VE1pWWV6UW81MmMwMFZMc2FzbE9RUnp1MGxHVkhEdmVWb3JkNkNOZ3lBd3BqYmY5b3JzUEM1M1ROUTVDeENfWFJLamtKLVM1R0p2UVJ3?oc=5",
+  "medio": "La Tercera",
+  "publicada": "2026-11-12T12:52:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Senapred solicita la evacuación de sector La Ensenada en Ovalle por riesgo de desborde de río Grande La Tercera",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "dec76628a13e191b"
+ },
+ {
   "titulo": "Jesse Huerta aclara polémica por regalías de las canciones de Jesse & Joy",
   "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEtYMFhjN0pfMG1HZXNrbzFwRjloZzVxb3loaUpZYmFJT1ltNU5salJIS0REYkw4SEY1V2hTUDdFNTJKMXhVdjMxVkhYb3NkVm5FMEV0STFRR01YeklENDZNaGdPOXBZdlluNnRBUnM3MEhxQXlJREYyc3pSSHRiTEhxaW16Z0ZxdkxGQmNoZ1dueG0yb29mRF8ySnpPQl9LeDlDTlRSNEtaQURNVUhlUko2QQ?oc=5",
   "medio": "BajaNews",
@@ -12,6 +575,20 @@
   ],
   "local": false,
   "id": "00340f26934b173d"
+ },
+ {
+  "titulo": "Tano Elizalde revela detalles del asesinato de Valentín Elizalde en 2006",
+  "liga": "https://elcongresista.mx/tamaulipas/tano-elizalde-valentin-elizalde-asesinato-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T12:52:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "Tano Elizalde recuerda el asesinato de su primo Valentín Elizalde en una nueva docuserie que ahonda en los detalles de aquella trágica noche.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "45df9ce02a27df88"
  },
  {
   "titulo": "Mejoran instalaciones deportivas en Michoacán para torneos internacionales",
@@ -2336,6 +2913,22 @@
   ],
   "local": false,
   "id": "6920971b03c9bf3c"
+ },
+ {
+  "titulo": "Advierten que habrá lluvias en todos los municipios; excepto en Mexicali donde solo habrá vientos",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/advierten-que-habra-lluvias-en-todos-los-municipios-excepto-en-mexicali-donde-solo-habra-vientos-33098977",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-12T08:40:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T13:56:10-06:00",
+  "resumen": "En la capital del Estado se esperan vientos de hasta 50 kilómetros por hora",
+  "temas": [
+   "Clima",
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "b033864fcff418ea"
  },
  {
   "titulo": "Suspende SIAPA suministro de agua en 64 colonias por tandeos",

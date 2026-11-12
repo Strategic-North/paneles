@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-12T12:56-06:00",
+ "actualizado": "2026-11-12T13:56-06:00",
  "corte": "2026-11-12",
  "ventana": [
   "2026-11-11T18:30-06:00",
   "2026-11-12T18:30-06:00"
  ],
- "total": 553,
+ "total": 594,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -36,7 +36,7 @@
   {
    "fuente": "Uniradio Informa",
    "ok": true,
-   "notas": 57
+   "notas": 58
   },
   {
    "fuente": "Punto Norte",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 38
+   "notas": 40
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
