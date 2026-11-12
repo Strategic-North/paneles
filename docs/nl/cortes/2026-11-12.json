@@ -1,5 +1,539 @@
 [
  {
+  "titulo": "Banco del Bienestar lanza nueva app; permitirá transferencias",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObklKT3QydmR1d1hxMUFFelgyWThqbkptUHRMLWVsNzBFSkk2WWdnWEdMNjljRFYycksxYmJRb19rSkFPSHpORlZudndnMEpUNkNlcXVfaHlZeGtyTGl6Z05tN0lkMWNHazlsU3VVQmRvb0Ric1VDZldFQi14TkZ5Vnp6XzBUZXB6Qk5CV1hVMFNNMktzZVdXNW9rX2tVT3pJS202TFlwbGc1SWc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T09:59:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Banco del Bienestar lanza nueva app; permitirá transferencias El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "157d3fb63f78565a"
+ },
+ {
+  "titulo": "Matan a 3 en García y les dan 75 años",
+  "liga": "https://horacero.com.mx/nuevo-leon/sentenciados-a-75-anos-garcia",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T09:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Dos hombres fueron sentenciados a 75 años de prisión por el asesinato a balazos de tres personas en distintos hechos ocurridos en el municipio de García. The post Matan a 3 en García y les dan 75 años appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "3e08472a224b924f"
+ },
+ {
+  "titulo": "¿Buscas adornos navideños? El centro de Monterrey ya ofrece opciones para todos los presupuestos",
+  "liga": "https://www.posta.com.mx/nuevo-leon/buscas-adornos-navidenos-el-centro-de-monterrey-ya-ofrece-opciones-para-todos-los-presupuestos/vl2278205",
+  "medio": "Posta",
+  "publicada": "2026-11-12T09:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "a24c7b9da8ab9d50"
+ },
+ {
+  "titulo": "Aplazan audiencia de ‘El R2’ por cirugía; 20 detenidos comparecen",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajRhWXlyZDYyYks2SWFOWHd5OXRlbmh1blMzcWhiaDFycVduRXIzOE1MbXVrZHVjWjQ5SFRVOEFkcDNRTEdwRHBEaVh4V044dFNIWmV0VXZGd2NSWGd6ZEhiTW5ibFdPb0haNm1lTlBGN1A0c3h2YmVzXzZDX3duWjJ6TWhzSkJ0TGlWQmx1NkNNNjNmeFR6Rmd0THhpWDZ2d0w3X3Z5X0NFanRLWEE?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T09:54:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Aplazan audiencia de ‘El R2’ por cirugía; 20 detenidos comparecen El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "643d4393b3f51a1c"
+ },
+ {
+  "titulo": "Detienen a mujer por robo de más de 23 mil pesos en ropa en Monterrey",
+  "liga": "https://horacero.com.mx/nuevo-leon/robo-en-monterrey-mujer",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T09:53:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Una mujer fue detenida tras intentar sustraer prendas de vestir con un valor superior a los 23 mil pesos de una tienda en Monterrey. The post Detienen a mujer por robo de más de 23 mil pesos en ropa en Monterrey appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "261d4465ed5cd29b"
+ },
+ {
+  "titulo": "Ejecutarán hoy a hombre que decapitó a sus tres hijos en 2003; aseguraba que estaban poseídos",
+  "liga": "https://abcnoticias.mx/global/2026/11/12/ejecutaran-hoy-a-hombre-que-decapito-a-sus-tres-hijos-en-2003-aseguraba-que-estaban-poseidos-295257.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T09:48:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5e473fa6b5e497fa"
+ },
+ {
+  "titulo": "Captan agresión a estudiante en secundaria de Santa Catarina",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVVIb0Z3S3Q5a01kR2ZCQXdrM1l5c0JNMVU0bVlLWlp1QnEzZTktdG9tVmMzT3VZay1OaHppdXN0cW1iU3l1TUtBazEwU1ZPUDZTVlZQczlyQ1FZUHNMd1I2Q0dadGNicVhtY1cxUXQ0N0N2YVZnMm9yT2Y0TVA4VXk1Y1Bxbm1JeHo1UklCQjNwTFF2WWk0TlFKUEVvZVhI?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T09:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Captan agresión a estudiante en secundaria de Santa Catarina INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b16922343d911f48"
+ },
+ {
+  "titulo": "Vadhir Derbez, tranquilo tras cancelación de orden de aprehensión",
+  "liga": "https://horacero.com.mx/espectaculos/vadhir-derbez-tranquilo",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T09:41:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "El abogado de Vadhir Derbez informó que el actor se encuentra tranquilo luego de que un Juez de Distrito cancelara la orden de aprehensión en su contra. The post Vadhir Derbez, tranquilo tras cancelación de orden de aprehensión appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d0688b09e67fb3aa"
+ },
+ {
+  "titulo": "Tame Impala regresará a Monterrey con su ‘Deadbeat Tour’",
+  "liga": "https://horacero.com.mx/espectaculos/tame-impala-monterrey",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T09:40:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "El proyecto australiano Tame Impala ofrecerá un concierto en la Arena Monterrey el próximo 16 de febrero de 2027 como parte de su Deadbeat Tour. The post Tame Impala regresará a Monterrey con su ‘Deadbeat Tour’ appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "aef883f8d6425ecb"
+ },
+ {
+  "titulo": "Se desploman 11% acciones de Nvidia tras renuncia de CEO",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGtCdzJ4YnZOUTF2Q2hLOUNfTnNla3p1M3pqcTR1ZnVKUTlNNmNSNHd4c0dNYzRINFJPTW1CMVlEVjV4cHJ0dFV2b2RsMkVSVERqejhsdDhLLTNSUlMzdU1nU1ZReVN2Umluai0wamxZVHlIbk1sSXM1RkVmWWdmNXJtWi1PdHdaT3FraHhTUi16QV9UTk9xcER1SHNUcTNGYXJVRQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T09:38:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Se desploman 11% acciones de Nvidia tras renuncia de CEO El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b37f6eee895dc76a"
+ },
+ {
+  "titulo": "Sheinbaum descarta reunión con Trump en APEC, pero no en G20",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzl0c0xhNUxSSjBmVGktWE5vbFpCUWswbFVJTU53S1RabF9kZWJINFJIanFqVlFSMW96anA0TzNLeldMc2QyMmw4U1BsR3B6bW14VWVmMVRKSnloOEVOV2MyQm9yTk85YjBsNWJmLXpvdllYckFrSnJVRTFkSDFKRXRHRl82N1dOSjhYSXNJMHg3WFlLOHZrUkdncmZqaEpmSUlRU0FxWlVBbGM?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T09:38:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Sheinbaum descarta reunión con Trump en APEC, pero no en G20 El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2c15983e258ade2f"
+ },
+ {
+  "titulo": "Adelantan fin del ciclo escolar 2026-2027 en Nuevo León por altas temperaturas",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOE1wVXZaVld6Q1ZRejNlRGgwRjhfdlVmYmFneC1Yb3dMTlNEdnE0aUN4YmFmaHFZMGRvZS0teGN0OXZWLUlTSGpuY1JvUC1GLW02QURVTjBSbjU4Vi0yZ2loN2Q0MEdwcmVqS1UxZnNyTFlKSHJoS09vOGZzYnI5Vjd5U2g2UHdfWks4ZXlfRDZSaFJGSV8yeE9VNzNsLVZvLXBHOVZUdkJrZFhRQUE2WmUxd2l5LUE?oc=5",
+  "medio": "UnoTV",
+  "publicada": "2026-11-12T09:36:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Adelantan fin del ciclo escolar 2026-2027 en Nuevo León por altas temperaturas UnoTV",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "51fd22f3cd02f9ae"
+ },
+ {
+  "titulo": "Carlos Valenzuela aparece en entrenamiento de Tigres en medio de cambios directivos",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/12/carlos-valenzuela-aparece-en-entrenamiento-de-tigres-en-medio-de-cambios-directivos-295259.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T09:36:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3f79e184146e8826"
+ },
+ {
+  "titulo": "Cartero, el oficio que se resiste a desaparecer",
+  "liga": "https://horacero.com.mx/reynosa/oficio-de-cartero-reynosa",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T09:26:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "En plena era digital, más de 40 carteros en Reynosa mantienen vivo el oficio de cartero entregando correspondencia y promoviendo la escritura en escuelas. The post Cartero, el oficio que se resiste a desaparecer appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "0525cc72dc5bd090"
+ },
+ {
+  "titulo": "Tame Impala traerá su ‘Deadbeat Tour’ a la Arena Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUx0TUhSc00yT1E1T3E1Q1VZUXVMbE5CN3prS0R3SXZsQW5Lci1jZXJVQkVjcWg2Skk4MVpWdFRIVDRzaU8wSnpsZWhWSlBRSnBQS2xMWVNVWWtuRF8tZlZIemI4T3pfdjB1dnBhWWk2XzRfQWI0Vy1tM1VkTUl6VkNyS2poUmZxb2x5MEY3V1pxbllwQkc2X2FtVVdkR3lVU0Mw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T09:23:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Tame Impala traerá su ‘Deadbeat Tour’ a la Arena Monterrey El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "775c285d3929b17b"
+ },
+ {
+  "titulo": "Capturan a dos por homicidio de elemento de GE en Reynosa",
+  "liga": "https://horacero.com.mx/reynosa/guardia-estatal-homicidio-reynosa",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-12T09:22:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Dos hombres fueron detenidos mediante órdenes de aprehensión por el homicidio de un elemento de la Guardia Estatal ocurrido en Reynosa. The post Capturan a dos por homicidio de elemento de GE en Reynosa appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9bfe98deb867cf88"
+ },
+ {
+  "titulo": "Hijo de Guadalupe Taddei renuncia como secretario particular de Alfonso Durazo",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/12/hijo-de-guadalupe-taddei-renuncia-como-secretario-particular-de-alfonso-durazo-295255.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T09:20:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "032d6e66512d0eda"
+ },
+ {
+  "titulo": "VIDEO: pleito por brujería provoca fuerte pelea en mercadito de Ciénega de Flores, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb2tIZURsVHB2WUVzNGlBczlaQXVXOTRhSHNqWjJaLWdTakJJakZ5TjU0TEhjTlRCcWotbXpWS3YyY1ExNHpHbEJGLXlWaEZtN1N0dGhCRG1zdjFNUS1rd0ExbDJDTXgyNFF6Q3RNNktqdmZPOEoxZTZ4aVpxT2xWWFNQdTZmRUgxalhBSnkydFMwZUZxaWZDUW81bl90eDQwcXQtdklVWGNiMFdTWTZ2Q2x0OHE0eGJ1R1p5UE1PeHFPWFo3emVYaXlUeVBoUHhVYmM3VGhpa25kSmpFbzlwWWF5TXE?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-12T09:20:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "VIDEO: pleito por brujería provoca fuerte pelea en mercadito de Ciénega de Flores, Nuevo León Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "026f0f7ac1768949"
+ },
+ {
+  "titulo": "VIDEO | Investigan presunta intoxicación de tres alumnos por consumir gomitas con droga en secundaria",
+  "liga": "https://www.posta.com.mx/nuevo-leon/video-investigan-presunta-intoxicacion-de-tres-alumnos-por-consumir-gomitas-con-droga-en-secundaria-/v-vl2278186",
+  "medio": "Posta",
+  "publicada": "2026-11-12T09:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "d7b85c797beb716a"
+ },
+ {
+  "titulo": "Creer en México",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVA1S2xSRTNHc3JfV2FyZDJJY1JKTmhsODVhZUlFeUlfQnMwV05MaFlEODhUcTNiN2wtU3JlcEFZZElJNTh1OUdlYnpSOTdvdG1KY3lFTFNWd2Vsem16eHNDQ0dGR0g3ZnVxOHE2REdPY1pQYXpGd0ZteVEySXJmdE8tYTc3Z1kxNnM1cVFJdnlMZw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T09:18:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Creer en México El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8796d47103189c49"
+ },
+ {
+  "titulo": "Tame Impala anuncia CONCIERTOS en México para 2027: Fechas, ciudades y cuándo inicia la preventa de boletos",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmh2ZWdFVkR0VThVN2w1MmVBeE5DcmJLWFFtX0Iya2tzMU5fZmRaZXcxbGg3WnZhZjJKZm5YMk1XSnJLWWtoOFFxelFpRUpuMWdhaUNOWHVGYUo4UEdSbFB5eUtMUnU2UTNkMEJmckQ4SHByUDZDQUF1M2VLcUhUYWYzeS01WVFjZTNLYnlNbl9BUnFHZVVZR2FhNXl3NmJJWTB5ctIBpAFBVV95cUxOUzc4Y0psNjFwd3FMQzJadDhQSzRZOU1RNTZmTHZteEF0a2VLTUpXbl9IaWdTTndORDlPaS1IZkJLdnpaR3A2ZVZ5a0wxcU1HQ2lvNEYwTHpNUzN4NkNVU1dwWTFoTy0wQ2R1SVgyZnljME9lQkQ5VXlKOEdfbXItYzlWekIwUnJFOGNjTklHcnlvazctTHpKTTV5b1FqdlJuYUFJeQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T09:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Tame Impala anuncia CONCIERTOS en México para 2027: Fechas, ciudades y cuándo inicia la preventa de boletos MILENIO",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "f06046d0a0c38cf1"
+ },
+ {
+  "titulo": "PEF 2027: ¿más presupuesto, más igualdad?",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdm5uX3BNRkoxLW5PTlliOF9uNlk4RkxqbzdDNDVScTB6d3RnZUM4WW5KMjRVTmFuVXFYbUctLVFiODRSeF9xX3ctb2RNS0daTXFSeXNQSW1pcGEyd0NRY2dlRDhLd1JjejBUZXltN1FCRkVGM3YyQ3A0NGRsNnlsMTVvaEJtNkh3anZvYkVOazl0UnJmc2d1MmRBeWFoRmpqZllOY2cyX2N4N2t6eFQ4?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T09:15:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "PEF 2027: ¿más presupuesto, más igualdad? El Financiero",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "4b7ca4b9a31c0835"
+ },
+ {
+  "titulo": "Sheinbaum descarta renuncias de familiares de Taddei por investigaciones del INE",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/12/sheinbaum-descarta-renuncias-de-familiares-de-taddei-por-investigaciones-del-ine-295256.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T09:12:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "3db5d9812c91594e"
+ },
+ {
+  "titulo": "¿Por qué Jorge Durán abandonó La Mansión VIP 2? Esto se sabe",
+  "liga": "https://abcnoticias.mx/show/2026/11/12/por-que-jorge-duran-abandono-la-mansion-vip-2-esto-se-sabe-295251.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T09:12:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "373a191f299b3753"
+ },
+ {
+  "titulo": "Inicia Gobernador con entrega de grandes obras de este 2026",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalVpWHI5QlFlNk5CdnBJTk0xd01oRnN1andWVDZWaHQwSnJtbTlGSWlub2xGN2dZaWgwekNneWROQVBRcVk2UFEzNmV0ZFN1QXdoRGpSenpFSW1mSTZlVUVNdkFhdGNUWnp0Sk1XU1JzbHo0NXR2aDVuTGI4NzRKazZQY9IBgwFBVV95cUxNLUMtVmtuT3VHMjFFN0hjN0JCZUd4UHFJd29OM2R0SjNlbTZPWEF1c1ZNS1J4VEJBbFhBNTRtRUFEVXVkVUVYeklqSDRobW92MjY5aWI2Q1ZwRnZUSDA4QmowcmdwdnJCbzFBS2JqdXlMNlU3cFJIdWd6R0U0bWdHUFdXYw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-12T09:12:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Inicia Gobernador con entrega de grandes obras de este 2026 Telediario",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "34012e5242d9368e"
+ },
+ {
+  "titulo": "El nuevo orden político en EU y sus implicaciones en el capital mexicano",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc0hRTHZtRl9MY3oxRmczV1NfekpHNGoxb1k0c19lRkFyYUo3NXRRRlFlQk83Z0libmZzR1Bxc3J5cjdNSzlicV95VUY3allSR3Q0Y0NXM2cyc1BfWVBjNDJ1TElIYTJ1SHJNRV90dXRtT3RRdXNCWHFOaGk4MDJMaHlEZmxHLW9FNzJ4OUFwNzY2Q2xfZ3YxSmp4Vk5ER3dtakJHTmVJNFJYR2h5TF9BTlcwWDFzNmEtdU4tTXlobHplYWNVNy1IVXdUVnVnUmgxTTNlVUtqZXZhUFlLN0E?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T09:12:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "El nuevo orden político en EU y sus implicaciones en el capital mexicano El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8cbed6c1c10dec41"
+ },
+ {
+  "titulo": "Sheinbaum anuncia que sostendrá llamada con el presidente de España, Pedro Sánchez",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDJuTVNPSmxQdG96emc5bHdNTndGOEw3cGQwUlR6enNQRGw3b3pqSm5faFBEeGpLdkVMMUxqTmVXR3diLWdKOXAwREkyUDk2SHMyZGxVd2R3UW9aY0p6VDlhc01JSy0wOGpZZkpIN0FTNjB5NUdkQldldXNCYVRpc3c5Q0NfSFpDTnfSAYoBQVVfeXFMTTAybk1TT0psUHRvenpnOWx3TU53RjhMN3BkMFJUenpzUERsN296akpuX2hQRHhqS3ZFTDFMak5lV0d3Yi1nSjlwMERJMlA5NkhzMmRsVXdkd1FvWmNKelQ5YXNNSUstMDhqWWZKSDdBUzYweTVHZEJXZXVzQmFUaXN3OUNDX0haQ053?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T09:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Sheinbaum anuncia que sostendrá llamada con el presidente de España, Pedro Sánchez MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "aecb4f6c4f97becc"
+ },
+ {
+  "titulo": "Choca y Proyecta a Camioneta contra Jardinera en Av. Revolución en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWUyOVdyLTVIdHdnTDZ3OEVJT0dRcjVxQ1NjSl9vbWkxU0huT0ZRdENKZkFKSW80UDJvNERwTDF4U3liRlRmWlRSWUFCY3BWYTVVd3JSRGdkOVN0bzlrcnJKdld1VFBFZ2haek5yTkY2b3poRGdSUDRoQUFubEVPUnNrdVc0dUtHejNqX3BjTUYwM05qQTE3elgtYjI0MTUwb0VuM1E0MWRKR0JoTTJaVEplNUU0eVpLcld3b0Rtdk1BWF8wbUtBTGIxU3g?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-12T09:10:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Choca y Proyecta a Camioneta contra Jardinera en Av. Revolución en Monterrey N+",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "d2f248c7e0cfa35a"
+ },
+ {
+  "titulo": "Vasos comunicantes",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0pNSHQxRllURGFqZ3AtelFxZjJ1YjI0UE05VVRpYjR3c1N5azVjNVZad2Z6SVZEMlBTTWJRbXBsNXc4WGdzMFNKVUZ6c1dkU0hpblcwUV9MeU5JVERiZzhOUEFXNUtEMlFHbm5neDNCSDg1X3RrZi1aRzN6MUcyNWsxamtrZmF0TDEtV0xpT245Z0IyUkE?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T09:08:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Vasos comunicantes El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e5ccb2ee296d87c6"
+ },
+ {
+  "titulo": "México anuncia inversión de WEG por US$250 millones en Hidalgo",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUVzUm5uS2NlVkcxUjlJaDVKMzRGR2tWRkMxR0FGX1VWTGhtNmh4cXBScVZkOHJpTXNFcGQ0bHF6RjNZeUU4SVItbjdNMzJibDFKZzdVR3c4YWVLaXZwcFQwd3FtT0pfd3FndnVGa192eDRXS0hyU2hNOE5XVUhPVjZoU205Z1VXSnlpWDRna2V5bmlxM3Y0YW9jeF9KNXc3QmdKSEM1LVE3RGltX25j?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T09:08:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "México anuncia inversión de WEG por US$250 millones en Hidalgo El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "4e21249a47d46c78"
+ },
+ {
+  "titulo": "Prevén lluvias fuertes y frío en Coahuila durante fin de semana",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHJhVjdMQlBUa1NzN3pFMU9lZFQzLTB2aWJoa1pTd05HRkhqa2pzSzdMVzd1TzJES1Nxbk9ZQjgweTVvRnhneVZTMWI3bUoyY0VZS3dScXdOX281enN3clZSS1lHaFBfc05aQ0FnX0pvaHNjVUUwWFl6bGdWdHZ4WU8yRGpHN1RsRlNlZjdmSDdOa3FZSTVqandhUWpmZU1IYlBFVGFLRnY5YnllbEVV?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T09:08:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Prevén lluvias fuertes y frío en Coahuila durante fin de semana El Horizonte",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "eb9ea31569778bb9"
+ },
+ {
+  "titulo": "Alumnos resultan intoxicados tras comer gomitas enchiladas en secundaria de Guadalupe, NL",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYklKZGdHUWo0MjNuVXpRb3pCekdTTFFVSUZtclhFNEhoakdlV3pEUl91b0UxX3RmY2puNE9nTDl0MUt1MjVqc0xNRUxtUjY1X200d3JabFZWUDRiZ3hZT1J5ZTVLdWJhY19JOXBGUF9YWFY4ZTZrczBUWGFHSHA1N29EdGR2QUJsMzNFdUlpVlplVVRvYVFta2dSRXJkMlhsTFHSAaIBQVVfeXFMUDBHaUEwa1JTYzh4SDhRTGx4bkxTYlgwTWRpUjcyLW9SbE1XbmxFbFptWVVWWENnUUEzLVMyNW13QTBLTGpnVWRzc082SDVhMEl3UktJeWJRX2h6M0lhRS1iV1FNaVR0VDRyT1pqLXdsOUlxSU1LNmsyUU8tU3phRFFlQ1JpTGJnRDE0Mi1sNmhLa1dCU3NGZTFaRnU3VkYxanBn?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-12T09:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Alumnos resultan intoxicados tras comer gomitas enchiladas en secundaria de Guadalupe, NL Milenio",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "eb623dec22580cb0"
+ },
+ {
+  "titulo": "Sheinbaum responde a amenaza de Trump de duplicar aranceles por caravana migrante",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/12/sheinbaum-responde-a-amenaza-de-trump-de-duplicar-aranceles-por-caravana-migrante-295254.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T09:04:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "a44331fc04d1b37b"
+ },
+ {
+  "titulo": "Kimberly Powell: ¿Quién es la ejecutiva ligada a Jensen Huang, ex Ceo de Nvidia?",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUJWU0pmRGJpNndYU1F1Ull0bFl3dTFLbTRZdE9uWnp5YVVyZFpBdTJQNkd4amNrR1AxOE95Wm55M1NfcjZZQVdOREZ2VFFlUlFIODNEeEVGajkxR0I1UW9DOE1ObHotQ0ZVOUNVZDJ0bDBhUDJQOEZuY0w3Z1lRYXZWeFlwNVVqTWJtOVBVMGY0TE9BT1HSAZYBQVVfeXFMTVlCVlNKZkRiaTZ3WFNRdVJZdGxZd3UxS200WXRPblp6eWFVcmRaQXUyUDZHeGpja0dQMThPeVpueTNTX3I2WUFXTkRGdlRRZVJRSDgzRHhFRmo5MUdCNVFvQzhNTmx6LUNGVTlDVWQydGwwYVAyUDhGbmNMN2dZUWF2VnhZcDVVak1ibTlQVTBmNExPQU9R?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T09:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Kimberly Powell: ¿Quién es la ejecutiva ligada a Jensen Huang, ex Ceo de Nvidia? Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d783ddee62a0dfba"
+ },
+ {
+  "titulo": "Exige Monterrey a Samuel frenar desfogue de presa",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkFpUEUxUXBDemdEcFdZUmt5bnJ5cFFtNzh5Z0lRQzVvM3FWbnRWZjFUNlBsSkdqb0N1NkdOZ2t4X3RmQ3lPcnRIZTBzR1h5VXYwSTdYMGl0S2pNeFQ4VDhJRi1FTXVUVGJiUjFjU3dqcGJ2T3hVUFFKMXZrNEwtUURyWEYtTmR1SDI5aVhNSVM1ZWRFeWRQSXRsbjNFTFk?oc=5",
+  "medio": "Luces del Siglo",
+  "publicada": "2026-11-12T09:03:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Exige Monterrey a Samuel frenar desfogue de presa Luces del Siglo",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "16072ab204587bf0"
+ },
+ {
+  "titulo": "Distrito Infantil, el complejo que une salud, protección y recreación en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkNmYUl6cmprNE42YncxZ292REZjci1wWm1YQkFQdkVUT2xOUVVaREJvU1UyTHlQZl9OcUg2NVkyc1pZOTlJMHR0MFJtT2FOdFo0WDJFVW8yTkxzV2ItTEdlT0pPc0VaT0drSno2YW5hbTA3d29WZUlfUFMyU0h1OFN1X2d5Rk1Objhna1R0VHRYbVFRTU1vc1ROcHEwVWhmdGNIZXJrQUdHYVgzcFJ2RDV0RQ?oc=5",
+  "medio": "PolíticoMX",
+  "publicada": "2026-11-12T09:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Distrito Infantil, el complejo que une salud, protección y recreación en Nuevo León PolíticoMX",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "408626a6193850ab"
+ },
+ {
+  "titulo": "Hombre se mete en pelea de mujeres y desata trifulca en mercado de Ciénega de Flores",
+  "liga": "https://abcnoticias.mx/seguridad/2026/11/12/hombre-se-mete-en-pelea-de-mujeres-y-desata-trifulca-en-mercado-de-cienega-de-flores-295248.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T08:58:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8ef1f3066084e0ca"
+ },
+ {
+  "titulo": "Caravanas no llegan a EU, responde Sheinbaum a Trump",
+  "liga": "https://www.elnorte.com/caravanas-no-llegan-a-eu-responde-sheinbaum-a-trump/ar3313327",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T08:55:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Luego de que Trump amenazó con subir 50% aranceles a México si no frena caravanas de migrantes, CSP responde que esos grupos no llegan a EU.",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "2ca0c58701510058"
+ },
+ {
   "titulo": "Reportan varios heridos tras tiroteo en calles de Washington",
   "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFk4Yk0tVWktYlJuSWx0S2c4c1pxVzNqMnNBMmpHMG5mYmpuTHhsR0xhcURqVk5yc1lrdkVDTjN2MW1DTnZNaGJHWl95NzJsd0JweG5xR290MGw0YTdmWEhxajdLaEc0c3JqdEUweWV6djY5d3R2bTFsV2JQaEI3bThHNXJ1ZUljR1NfUHZzSHlfM0plUDhPUVZjTjJwTUplSmZQa0JqYTVObHFDVkpOUXpFRQ?oc=5",
   "medio": "El Horizonte",
@@ -40,6 +574,20 @@
   ],
   "local": false,
   "id": "a4196177541f23d3"
+ },
+ {
+  "titulo": "Nvidia ‘reinicia el sistema’: ¿Quién es Colette Kress, la CEO interina que sustituye a Jensen Huang?",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNclRiVVM1V3UwcnRjTi1ZNHdsalN0dlN3STB0NzctR1YySFF0cnhnNWhqZzZrWllBU3VveG5JMVBPQ1FhdXZsbFNDOEpTOE1sTjNmRnYwR08xb3pMQUg2NTZhd19TQU50aHJVYlZvMHhiTHVyaTlYdXY4ZGVRRlNIOUo1TFdPcEE1WDR0WHJYaWQyXzVWZzFVSG9pQUJiM1U3MWJZVTBDZU9tZG9VODdWZThUY1hnS3BubTNMOGtzU0tGSUpGaG9vYzhyTGFFSFl2WHc?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T08:48:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Nvidia ‘reinicia el sistema’: ¿Quién es Colette Kress, la CEO interina que sustituye a Jensen Huang? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6ca84ca145ad0789"
  },
  {
   "titulo": "Tarjeta Ayudamos a las Mujeres en Nuevo León: ¿cuántas veces se puede usar en el transporte público?",
@@ -98,6 +646,20 @@
   ],
   "local": false,
   "id": "44cfe500e2164213"
+ },
+ {
+  "titulo": "Monterrey Política",
+  "liga": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95cFlxS3dNZ0NsaDF4OFlxRkZMMEFUakI3NWlNS1dhaGpPSUxWUHFzMmctcWt1eTBjazBXTWNJVGVuSE9BZUJTS1BiQkdqQ09pSVctQnYzNA?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-12T08:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Monterrey Política Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "75bb5bbb49cf6464"
  },
  {
   "titulo": "“Zuany ordenó ocultar caso de agentes de CIA”, refieren entrevistas",
@@ -1783,6 +2345,20 @@
   "id": "7435ce6df1eea6e8"
  },
  {
+  "titulo": "Horacio",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMmVRXzQ0R2t1bVRzdm9UdEdkNlA5cWlKQlNuN1hZRk1VdkQ5aGVQTGh4LTd6a1hlU21DdVVZWmdXTkdqSVZFMm93MzNlVk9yOVE0TWM4bjVYRUlISGVBX3JhMVpxQUZaajBhN9IBbEFVX3lxTE55QXdYeWtWZEFWelptcnUwOFZIYkZzeFlhbDR4dlY1cl9Lb1FpNTk4NWhsaTU2VU5jRFlvbGVuUV9UbzhMTEZlQ3pxR1oxWmQ2TGdjVGNBMnFLbGx2NVpTZzQtYmtjbXowbDhZYQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T02:52:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Horacio MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e256bb85071e4848"
+ },
+ {
   "titulo": "Garra de León",
   "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVBRN2tYZGdUekFWYTFWVFNrQTdWeDRESnJqaEktb3d0ZTVXdlNnemRvNzZ2MHZXT3B1UERvS1VOZ2FRSlJFdTIwQWtiQUFSb25NUV9zdlN2dnQwQmVqVXVJOXB0Y2ZiNDdhSmNVVDhTbHJRazBOdzVDYWZ4UEpIQ2FFU0lRaGVh0gGIAUFVX3lxTE5xUFE3a1hkZ1R6QVZhMVZUU2tBN1Z4NERKcmpoSS1vd3RlNVd2U2d6ZG83NnYwdldPcHVQRG9LVU5nYVFKUkV1MjBBa2JBQVJvbk1RX3N2U3Z2dDBCZWpVdUk5cHRjZmI0N2FKY1VUOFNsclFrME53NUNhZnhQSkhDYUVTSVFoZWE?oc=5",
   "medio": "Milenio Monterrey",
@@ -2347,6 +2923,20 @@
   ],
   "local": false,
   "id": "2399b0a19f97497d"
+ },
+ {
+  "titulo": "Miguel Parra trasladado a detención migratoria",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0hYNUtIWWtOZFhrLUZSQzlXZGhNNjR5X1ZuMjl1MG1MUENpNWlQY1M3QmNLOEN4RVBZVDBYNURJSDJ4djRSSWRwWnZmZk1KVUpZM0psRk92T0VLZGNYeXgwNlFiMWlGWE5Ha3pNd0lHRTdMRXJ2UldqeWJ0OEdZS3VlSmFQUWl3S0lkNV82X1ZValNpcXF6VkhEdGU2cENESEwyWER1WXVnbk9ETU9CRGgwUdIBswFBVV95cUxOQWMzYk5FQ0JkcFJNRUNRdkpmSnM4RkNyZVpaQjF0aEdyUVU1aXhKd1BPNE9VZmRNMk1kR1A0d0Q4Q0ZiMEpweVRtQ0dWNXRDdjAxd1huSnp6Z0JRXzdYRDZMZTAweGQ1NHJCTktIZW5RcW5DaC0xTnhxYzltUFNybHB2TmRuem5OcjhPRC1rM2piZktXVTI5NHlhV1EzVmIzdjhkSnNiQlVpc3BVa2hwdlVIVQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T23:44:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Miguel Parra trasladado a detención migratoria MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f0177756293b81c8"
  },
  {
   "titulo": "Rayadas vence a Pachuca y toma ventaja en la ida de Cuartos de Final",
@@ -2992,6 +3582,20 @@
   ],
   "local": true,
   "id": "0f95c666d68256d8"
+ },
+ {
+  "titulo": "VIDEO | Después de cinco años de ausencia, Tihany Spectacular regresa a Monterrey con magia y acrobacias internacionales",
+  "liga": "https://www.posta.com.mx/nuevo-leon/video-despues-de-cinco-anos-de-ausencia-tihany-spectacular-regresa-a-monterrey-con-magia-y-acrobacias-internacionales/v-vl2278070",
+  "medio": "Posta",
+  "publicada": "2026-11-11T21:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b93367bf25906ec8"
  },
  {
   "titulo": "Buen Fin 2026 en Nuevo León: así puedes conseguir hasta un 90% de descuento en el pago del agua",
@@ -4386,6 +4990,20 @@
   ],
   "local": false,
   "id": "952026a4d62cf8af"
+ },
+ {
+  "titulo": "Padres de maestra Cecilia Solís exigen reabrir caso del Colegio Americano",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemZzb1BsMUxDdmNjM0EyWlNGeWZLcDZoQWVzWDdyNzNCbDZRQ0xOU3o3RkNNbk5qRE5PWkRMYnBPQnVPQ2JyeUpnYXZtR3ZIVFRrWmkza0d2SkpFTEc5c3ZHa01jWmx0SHpZTWE4VEMtMUdudl9heXZaamhzUkJHOFVkYWs0MWxBemcxSGpreHJYd3lXX0lsTlBjaVd4WHJFa0c5bXlB0gGmAUFVX3lxTFBFeXVLV3l2LVk2NXE1UmlaMWE0VTMwUzU0RHd4MGhOOGhsblR1SWdFWTdDVjI3TkxKVnFuR28xV1B3YV9EcWlxZVZDem1CYUFYU3dnOHI5YVhQWjZtVFBBeUx1Z0hzWE9Xa0pXTGJOMi1mOVBLQ3JqWEg1Q0ZLTDhQT0NJbE1nVzlBV2ljMTRETTFDd0tTQVRpNV9ZS1dxNjRXaUpCQ2c?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-11T19:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T10:01:48-06:00",
+  "resumen": "Padres de maestra Cecilia Solís exigen reabrir caso del Colegio Americano Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bdbe50e0cf94b7cb"
  },
  {
   "titulo": "Tendrán trenes un tercio de recursos para obras prioritarias",
