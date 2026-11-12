@@ -1,5 +1,641 @@
 [
  {
+  "titulo": "Tom Holland busca proyectos que impulsen su carrera",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1A0dXZYbW9BM2Fuc1B4UmdCc2lfVUlHODRQSkg1eE9BcmFRbzQ0Yk9iamZ3S0ZWVkVWNWRSME9OeVJCazJQYXhDUlphZTI4RWlfWHY3REgyQ1JjZ01GZUxIcl9NSGlKaHR1dUtyNXZnR003LVE3Q3lIYzhVX3JLX0IwQTNKWTAxNTlaWkNjLXFNT2xtVVBrdzFTMmc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:48:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Tom Holland busca proyectos que impulsen su carrera El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "61457e75b0e4a84a"
+ },
+ {
+  "titulo": "Nicole Kidman recibirá un César de Honor en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXhrVXZPSWwwanM3VXh2aXk4UFl2ZDhxOEd1U0xNX05tclZRSHBvOHp5WDE4SmFOdGpId2pHMEwybm1JX2JrOE9BWUw4U01XNUZZcm5GcXVGdVU5MVhGX1Y1RFh2X1FEYWE0VWdzX05rYTZUeGcwc04tUmZMcU1sdldhYmVpR1JOaHpfcXBhcTJwV3Uxejc2OA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:48:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Nicole Kidman recibirá un César de Honor en 2027 El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "46f7eba4c87ea38a"
+ },
+ {
+  "titulo": "Volcadura de patrulla en Tecámac deja cinco policías heridos",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1NnbEZ0eUxaMENjVlFySjU2d2JFZVl1NjViQ28yMW5iRnVURVBXQlhGUEdqU05wYnZfYS1CNFJrS09SWlBtY2h4ZkhZZ0M0cEs1UzZpdDN1WnBmcF8wMy1IN2tkdktxSXpvTTI2NjgyMjJRTG5PeTZwUXpGOTBQTzZxTUZvV1NqaFB1ZmpPODNFZHk5dWM0dk1KLTExcWRQTm1Lc0xmdktDZjQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:48:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Volcadura de patrulla en Tecámac deja cinco policías heridos El Horizonte",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "fee88d6cb0c960d7"
+ },
+ {
+  "titulo": "Reconocen a rector de la UANL con medalla internacional en España",
+  "liga": "https://abcnoticias.mx/local/2026/11/12/reconocen-a-rector-de-la-uanl-con-medalla-internacional-en-espana-295244.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T07:47:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "6f9c865ce5596db9"
+ },
+ {
+  "titulo": "La Mañanera del Pueblo de Claudia Sheinbaum: 12 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWdrOVJmQW9SUlZNNkt6X2xvZDVqNzVaQ0pRR01fcHE1TURwRUpITUhNLXV6OERFLUZkWGh0anFvc1NIODU4ZDJoSmQ0Z2p1TXVpb3ZWTzJTQ3l1dWRPZHZoU0Z4a0tjdHJwUXZmRnctckJWQkZIcHhlX2cwaEZ5T0h2Q25CWnhfeGNsMDdxSkQxcnY1TW9qV01MVTlLR3FhQ0k0XzhCaVM2dw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:46:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "La Mañanera del Pueblo de Claudia Sheinbaum: 12 de noviembre El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "521871462e7ac56d"
+ },
+ {
+  "titulo": "Lluvia ligera durante la tarde de hoy jueves 12 de noviembre en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTFSTnhpdjhkMFNsWWZYYldmTkJvc1o5RDBsdTdmYk1RTWotQXNvYVNXanNoYTJUXzZTVkZsVWVHMWtnMkFXT3lIWFVPbzl6VlF1UXFtQ2k5dE9lMWlZdVlGX3VxbTU4MG9rU0VyWW92T3lyd3lndmJZQS14YnB6V3VDVndHVmNrTnczbFpVcHFDdk9NVDRvOUdqTkloeE1McWl3UmVSY0pYQzNEYjFvLUlXN2d5dmpTMW5iekNhSHpULXloMXFwdmdsQ2M?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-12T07:44:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Lluvia ligera durante la tarde de hoy jueves 12 de noviembre en Monterrey Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b52e5e1294fe5eaf"
+ },
+ {
+  "titulo": "Estrenará documental sobre Russell Brand tras condena",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNThCMWRCNzEzUGVjbFZzb0lmQVUydkJfY2ZWdzRicFhVUmlrUEstMGM0YWtwcVFyXzVpY2M5Z3Q0aFNGQ19VLVR4Z09CdENlelpINTE1anUxUWtaODVySy13QlkzTThkX01OVFd2YndjUjNaOExGTlpGbnV0Sm5UTnExaFFXNGhJSFlaRXpxdjJsaXJaZ3Znd0VNa0RVOE0?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:42:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Estrenará documental sobre Russell Brand tras condena El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cca3b1f8762fd414"
+ },
+ {
+  "titulo": "¡Adiós! Manchester United despide a Michael Carrick",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0FIb2Jjb19ySzBCVFByWUlfVXdMU3h5Q2J4UEdoMVJqRTh4WFoyVHl0RlhqTGp4Q3o0Z1Rjbm11YU5OVlA3aEhZVFdPRjhvaFB1Q1NJSmNFZU1wcEloZDZzbVdQZ0QwTnFibG5oenFER0pHbVhFd0dSTUxLZ19ycUppSGZmSUt1V01VaGJ4Z2FjNHJwdktUelVobkg?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:42:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "¡Adiós! Manchester United despide a Michael Carrick El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1155bec77bc305cc"
+ },
+ {
+  "titulo": "Ataque a base policial deja un muerto y dos heridos en Michoacán",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNl83UzhkMkoyZWVFV2lPZjFRbXVfbEE5VFhTd2hxbTFsUk12QkNlb1FGN2llQWxqcU9zWk96d0licDdUU2tnazJlTWdkOXBDSllxOWIxQ3J1cUpnWEVkeWdUN2ZLZm5oQVZNRi1OSWtMRkdQUDJ2Rnh0b1FseWtySFBEcTZrcnRncUlFMVhtTlVzRXgwZUxLSUdJUDRvTjBpVVhWUncyd1k0ZjBsSXdncg?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:42:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Ataque a base policial deja un muerto y dos heridos en Michoacán El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "00ca0985eb8aee62"
+ },
+ {
+  "titulo": "Rockets terminan con racha de ocho triunfos de Warriors",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeU9qdzdCXzlyOU9RaHJiSzh3LVZPVF9WNTJHNnNjc1ZQXzRsazlURzJxSHpXOUpyNkd6aFFDM0MyeDBLaXozRlg5eU5kajM1S3JoUEVUWnpwY1NtZVNjU3dIUUwzb0pIRTZXeUlhczhpSmFxOWg4N1NkTjJiWXZMSDZnanpBelBudjdqV0RfRl8wSTl0VVFIMXIxTUo4ejBqX0ppTg?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:41:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Rockets terminan con racha de ocho triunfos de Warriors El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b585d97990c2f45b"
+ },
+ {
+  "titulo": "Raúl Cantú invita al festejo del 116 aniversario de la Revolución en Salinas Victoria, ¿qué grupo se presentará?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/raul-cantu-invita-al-festejo-del-116-aniversario-de-la-revolucion-en-salinas-victoria-que-grupo-se-presentara/vl2278157",
+  "medio": "Posta",
+  "publicada": "2026-11-12T07:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3035057e619a53bb"
+ },
+ {
+  "titulo": "Prince revive legado en cines con concierto inédito",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONk1oSi1ZY3RYWXVWd251MWkyUlpiZS0wUmUyNm5xN1dORmlhWXBTTDJBbWExTHBEVUdUTFo3dGQ1UnZGaFh0bGRyZlF3WG5fOV91aFZ3ZlhLbXNBNGRtd1Fya1VuUG1CQ1BJZ2h4RVRwODR1Qjk3bXdPeDNoWFlzOXVNUFJBUS1oOU1qLUkyTW5xWEl0V0R1QS1FMUQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:36:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Prince revive legado en cines con concierto inédito El Horizonte",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "b7a48f1f641a0a3c"
+ },
+ {
+  "titulo": "Viejas rencillas desatan riña en mercado de Ciénega de Flores, NL; reportan un lesionado",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVW5FazBwTmxTZ1hOcm53aHFVXzBzRlNmWEhNZ2Y4SXlpanRfQ2ZnNXZ6ZFIwdW0tNFZEUkJJWlBjQjFjakdHRkctZF9JN2lQczF5LW9HMmdSeHk5VmdXckRuV2tMTUliT0JDSEpaMEE5M0tzMEdzelI0VllpRF8tRnNDRTZXaGR5SDBRTlZTT0I3NjdveVRVVGx1ekYtZ9IBngFBVV95cUxQWFJkby0tTTViaDlROTg4MHIwbk1QckI3WXFkWHplSVkzU3ZoUURpVmNPVzJoRGtGekJWdUk4NzVpQmJ0VDQ0dm1QYWJac2lvVFVUSGtiX1c0OUFhMFRCV3VUWFhSX0VhVXZfcVJqZXNfc0F1U09Yb1VZYVk0MURyaU1pRW1zRXl5TFdzSGNCNEtqX1ltV2ZwMEp2Wm9UUQ?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-12T07:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Viejas rencillas desatan riña en mercado de Ciénega de Flores, NL; reportan un lesionado Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "00ecb7fc59085f1b"
+ },
+ {
+  "titulo": "Detienen a mujer por robos a tiendas de conveniencia en Guadalupe",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnZ0ZVpraEhSYUktZWJpSkd4UHE2WkNxczJsUmhIbVo3T3k2bktiblJKSnFISEtYWGNocGNiM3NfcHF2eEpQbWdWZlc2aDhPYnpjZ2Q0V2xEU2txWW5kV1JDTUZsQnJOWjAtSlpWOFhHYlppOFJzOXJLelY2czR4S2pRVXpzM1YtWDJTdUZWWmVLT09jbWRXemVlMVVuR0MtMmlzSThR?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T07:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Detienen a mujer por robos a tiendas de conveniencia en Guadalupe INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ba36f58f30ba57f8"
+ },
+ {
+  "titulo": "Atacan base policial en Michoacán; suspenden clases",
+  "liga": "https://www.elnorte.com/atacan-base-policial-en-michoacan-suspenden-clases/ar3313278",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T07:32:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Grupo armado ataca base de la Policía Municipal de Tepalcatepec, Michoacán, donde se reportan bloqueos y suspensión de actividades.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0e979a0d03c2197f"
+ },
+ {
+  "titulo": "Es deseable moderar los aumentos al salario mínimo",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRm5vcFpKR3JtNC00ZUpvWVR5VXhxWEJ0Ylh6UW5xRGFuNmRHTjgyVFEwX093V3oxRVRONURMYkl6NG5nX0JZd0tBSV8wZHhkSXUxQ3lmY2NuMnRCRmt6OEJrdDV2NlFfdUJHTUozWWxZNTF5ajFBRTJoM1ZxS19qRTF4SHVwQVBKcF9FZkhRWXBTQjNfWXpRajh2THNrc3ZsNmpBUGVaMnN2aDJmOFNjdWxFZHAxZDhwQW5fMXcxNmtiWDQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T07:30:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Es deseable moderar los aumentos al salario mínimo El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0ff5c2a2fc159885"
+ },
+ {
+  "titulo": "Nuggets gana 123-118 a Grizzlies con cierre dramático",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnlLMnN3ZERqSkVTS2VHZVZkR3pYWmFNTlZpYjc4ajNUcGFmY2VzcTIyVEVpYy1OWWJjT2ExVDNoUmpyZFFVYjBrc2hUMzRRcURsNkpvNlRNZ2dkWkhKbUpsX2lBbmVhTlkzLTd3VUlJdDJ2SnVlSHMwWVBMdkxFWUo1clNOV0ZZTWxTcTEzcWRNaVdKaXVaa2Z6eXZobml3Znc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:30:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Nuggets gana 123-118 a Grizzlies con cierre dramático El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dee57eaede1523a6"
+ },
+ {
+  "titulo": "Última hora",
+  "liga": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQWlDZUNHallIT2dkQjNBQjdTclI0WkdxVk1kaVJHalZ6eTkyNkhpWmhyNm9YX3ZaeHFtYkE2REktM3BuLW1tRGlmcVFGQkVKQVY2TWtrR1VjSDMwTHRtRTlNc1ZSdDNPSFVTTUZXdUVzUWFhMkRwdG5fajY1Q205M29vcFRSc1RBajF3VXRQU0lrbkczLWNDTUNtYVNPRHNHZVNLZXB0WHpVTnBJMjRzTV8wUHRxWUdaZzVXa0xvYmRuS3ZTLTBkR2FWcWJyMGEyM09Ja2xocVAwaHpxZTZuMGg4T0dnVGxvSExpeXItZw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-12T07:27:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Última hora Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0b537fe1cba87ce6"
+ },
+ {
+  "titulo": "EU apunta a esposa regia de Ryan Wedding, 'El Chapo Canadiense'; en NL no la rastrean",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYU8wVnhLaFVOWVhKMW1oNkhtMlhITXk3QURkQVJWeUJYNUwzZ2pHOHJFRnJDODRlVEpPWGt6eWlRcC1MU2JUZjFhVjJ6d1I2bzhDZ2NjWGtUdW1aWHJPdkRkUHBiSUtRbTBfSTl1WEdzX0xRYmZQR21OczgzcVhWZkx1Vmg2bnZSRVkzOHQzcFV0U3dmMzJmbkQ2a9IBmwFBVV95cUxOZUxJbkdrZVNTQkRIRWxNWGFtX01yT1lEVDhhSmo1MDZVelh5MF9KWVdTZzRJZTA4LWM4UmlmS2pYNlJrbTZsbHNfeXFaVDVfRDB6ejhyVFdiUkM3WUdWWVZlNW1ESnN6LWZOajhKb3NudzFtdG9VblVXeU4tcjU4eWFSdTNNZG9VRnlKZjFSV1NUM0U0ZEItdEZ0MA?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-12T07:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "EU apunta a esposa regia de Ryan Wedding, 'El Chapo Canadiense'; en NL no la rastrean Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "22fa64fefd821028"
+ },
+ {
+  "titulo": "Ueno Bank, Herdez, culpables y víctimas",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR20yZDQ2MzV0X0ltMzlMdUVPSGtrcC1MSFZtSncxLXdWaHNaNUNPVTRReTVnZ1A4eG90WjZuN3dBTzhtMVV5X3FqMldKVTl3cFk3NHIwQzFJcmRhRm1QVjdoOXFjZjlXUDFLb21ramRteWtwdmlHanE0MXFrYVY5ZmZ5eU96SUtORmF0SDRZU3JpRXRMM043MEtmbmNNaE1yTGxtT041VmRpNW8?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T07:23:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Ueno Bank, Herdez, culpables y víctimas El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6b066273c9c3ad3d"
+ },
+ {
+  "titulo": "Aumentan a ocho los muertos por derrumbe de edificio en Brooklyn",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWkZnSTVKRWsySV9zcW5CcGVLR214b05VT1BKM3NQWTl4bnpLUHdBSVllblBIWEIwVHRYTmM4U1d4T2xpbktaQVNpZkdvSFJHX181cVF3Mnh3enJOZ3duWC1RUms2RXJJQ3ludkQyZ2VHQlo4ekhMRHYyc1c0Y0R3NVozckRUT25Xd1VQTmxDY294ZmRkeGtDVlRWTVBRWnV0NUlxbmUzdFNyeVJGRmFWb0gyMDdDX1U?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:21:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Aumentan a ocho los muertos por derrumbe de edificio en Brooklyn El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e17fb1cb8340795b"
+ },
+ {
+  "titulo": "Poncho de Nigris anuncia que irá por Doña Alegría tras polémica en La Mansión VIP 2",
+  "liga": "https://abcnoticias.mx/show/2026/11/12/poncho-de-nigris-anuncia-que-ira-por-dona-alegria-tras-polemica-en-la-mansion-vip-2-295245.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T07:21:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "41a8d60edae07ace"
+ },
+ {
+  "titulo": "Empleada sufre lesión al limpiar máquina en pizzería de Guadalupe",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT280RTJlZDNwbTJuOEZoMy1TVmp5X2FmLUxJbWRHMnFDWjBQaGdYc05JYVNVU1FYSEVGSzN3bzFFcXczdFBCV1lDbHZYMk5nZWtNX3FONlkwT0hSYzdsa2RBejJsbncwTkR4V3BhX2dYdUl5NnhCenB6eTRXT1hiZ2plVy1mOUJ2SWRabDJyRjNPZVMtc0UtWjRVSjh0S0hXbWVwM1I3SQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T07:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Empleada sufre lesión al limpiar máquina en pizzería de Guadalupe INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "83981ab06e70bd95"
+ },
+ {
+  "titulo": "Jueves: cielo nublado y lluvia ligera ocasional en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3RWVVhxTkxtQ29ILW0wQS02bjZpYnNETnR3OGpoekMtbGpvdjRnOGktTXJId2hoZHlkaUc5QWFpZmlOYmp0ZHgwQkdIejN2UzBOQW5HRVRqQml1M05OdHItNmNXS2lYM01KQk93MkFZNG9paEFyOVRRT3JUV1FxOTF3THFfWFlWcEVRcWlLRFRUazdYbmlXZnhn?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T07:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Jueves: cielo nublado y lluvia ligera ocasional en Nuevo León INFO7",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "118457189fcd2b2b"
+ },
+ {
+  "titulo": "Trump amenaza a México con duplicar araranceles si no detiene caravana migrante: ‘No habrá indulgencia’",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT1I2YUVMQzVWZEZrYnNEZzZDQnNxR0xhMnd6cVBYSEZnNXBUZFRoRVJkTW83UkhvV0hXbmNsVnYxTFRLVUNpajJ1cG1PRFNxNWxVX1dCOTZIRmljRENPMmF5X29GblhCX1dvOGQyZW9JUEs5aVJuQ2JGaGRXMEJSREpKTDVHWkYtWW1iUXBzSUFua1AzYTRRT0sxZV9wSmlmUDBZblVRRG1Ld0NnX2dCVVNGZzJDOVA2NG9mLVFta010LUFHM3ZXTG56TzVJWF9PeDMwclUzTGFPbVdTRGtTbV9IMGM?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T07:14:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Trump amenaza a México con duplicar araranceles si no detiene caravana migrante: ‘No habrá indulgencia’ El Financiero",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": false,
+  "id": "99c50430501f0766"
+ },
+ {
+  "titulo": "Adrián de la Garza recibe a los embajadores de Portugal y Francia en Monterrey",
+  "liga": "https://www.posta.com.mx/nuevo-leon/adrian-de-la-garza-recibe-a-los-embajadores-de-portugal-y-francia-en-monterrey/vl2278147",
+  "medio": "Posta",
+  "publicada": "2026-11-12T07:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7c43fe91aa1f0540"
+ },
+ {
+  "titulo": "Sigue la señal de El Financiero",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzZHZWdSLVFJa19OZzRtUXRsMGhlcjU3ekc5SzR6YW5pa2M2cUEyVTUycjJvZ05fMFp0R2VrQXNFQS0xUDhMNDBhU25xUlNGOUVyaUlUOVJfVG4teGpFdDJHb0tpUlpnNlVGYjZDZElEbXFpZXFWN0lXdXBsZjZGRHZlVEduaHdLeGI0QzhMdGc?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T07:13:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Sigue la señal de El Financiero El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1f4531c67fa319fa"
+ },
+ {
+  "titulo": "Cae presunto responsable del asesinato de regidor de Cuernavaca",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzEwMVpBRDh4ZThiZXpKWS05bXRJdXdlR2M0U3hUeHkwMFAyWWhyZ1BJZjVDLXlLby12YV8zTm95RDJNQVRxeG96Zm9iQnJKeFpnRXdkcWF1U25VZGFYUXMzcTN1bDgwZEJoU3lkMXF0cHgwcm1hN0Rxd3BfNFFKZzJDazVfTEttRHI2dkk4NHlPaVFTb1BWRzVRR3RlOVBYSU5vQjNCVHdkUnlSUlB3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T07:11:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Cae presunto responsable del asesinato de regidor de Cuernavaca El Horizonte",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "54fd419115f1bdcd"
+ },
+ {
+  "titulo": "Pierde el control de su tráiler en Anillo Periférico; sale ileso",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOemxHTXdQckJqXy1CVnN6Smh6NnRJRy1aSDRXdk50X2RfUEJUUFRCdWFWYzA3a05XYnlEUjZZbzhJemgxV2FHcDJmVlVDcC1uZ1Q3RjJyU00tSDB0ZUVnRW9oU2JDamRFeV8yY0FxMFJYRVhwTjNFRjhrMXRuTkdtNEZwNC1pbmxsTmJZSHVJOXlDMm9fcWtzLVJ5ZnM0SUU5ZTNOZA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T07:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Pierde el control de su tráiler en Anillo Periférico; sale ileso INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e5f5f702c3480238"
+ },
+ {
+  "titulo": "Jornada de incidentes en NL deja dos heridos y dos detenidos en Guadalupe y Escobedo",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFJ5UHRhU00xQU9DcThlZkh6R2pEU2F4S2ZvTDVaQ1B1Q1lsTjRDMXc0WVlqQ290NnI0SC0zQ25rdGItTXMwR3hoNGVLeE5jRm44S011bTJWZGVpNF9aRS1DQzhZZnRUQTRVbURERjFwUTYxQk9CTDRMWTgybUt6bGVST1FLUGhRcFRYNXZIQWN5MWRaZHo1VHgwaWVncllrMmR4VDQtZE9wZE9kMzYxMEV5cjBBMkE?oc=5",
+  "medio": "gamavisión",
+  "publicada": "2026-11-12T07:09:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Jornada de incidentes en NL deja dos heridos y dos detenidos en Guadalupe y Escobedo gamavisión",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "066cbd07880fe0be"
+ },
+ {
+  "titulo": "¿Cambiará el tiempo por el frente frío? Conoce el pronóstico del jueves en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRUdSam0yT3p6bkNUbkgwWC1fNVk2UmVZanFFY1NBQk9lUFRULVJ6TEJQV1pEWTJJT2Jfd3JMTXY4dW5YRDhjYXZnVUhWdE16MXdiRlk1Zy1nRWdPbGkyVUlnVmJIOVFIbHI2ZmxoaGlUa2xiR3pYbk9KRXRYQnRSMEZ1WdIBgwFBVV95cUxPRUdSam0yT3p6bkNUbkgwWC1fNVk2UmVZanFFY1NBQk9lUFRULVJ6TEJQV1pEWTJJT2Jfd3JMTXY4dW5YRDhjYXZnVUhWdE16MXdiRlk1Zy1nRWdPbGkyVUlnVmJIOVFIbHI2ZmxoaGlUa2xiR3pYbk9KRXRYQnRSMEZ1WQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T07:02:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "¿Cambiará el tiempo por el frente frío? Conoce el pronóstico del jueves en Monterrey Milenio",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "02aee628b2d18b6c"
+ },
+ {
+  "titulo": "Recibirá Nuevo León más recursos federales, pero Gobierno estatal tendrá poco control",
+  "liga": "https://abcnoticias.mx/local/2026/11/12/recibira-nuevo-leon-mas-recursos-federales-pero-gobierno-estatal-tendra-poco-control-295243.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T07:02:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "c06c50d309e7147b"
+ },
+ {
+  "titulo": "Clima En Monterrey, Nuevo León con Vanessa Ibarra",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenRGT3ZvUkVvOEJQZWwtRUM4TVdjUkZhWmQ1YUcxQzdMSlpXZjMtcS1sMy1JRndoeUwycEVvWG5KNzRzWW1RandzaFlIUWFWc0xJSUU5WVhFeXhhTi1GRl9idVdtRUZld0NfWnh2X2RtZmNEVVl0MTlwUmV3VWpLdlFqaTM2eUlDMVkwZVI4ZG9qaDhPV0J2UQ?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-12T06:58:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Clima En Monterrey, Nuevo León con Vanessa Ibarra N+",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "f2567824aed6f7a1"
+ },
+ {
+  "titulo": "De The Cure a Oasis: las fotos históricas de leyendas del rock en calles de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkFRN3VhdVlYS2ltWElUQVVIQTdOekUwa1JDOXBaSXJ3V29jY2dLZ3Fyc1FVdHh3am1GeVBiYVlfVUN4dUc2YWsxaDZwVUZKRFl0aWgxakRQdkV4UkN0ci05VmpNWUN4LTJxdVBEV1VKTkhPdGp3ZHNkWEQtUGpCSHlDNEFkWXEzOGxud1I2bHduQ2lRNlVv0gGXAUFVX3lxTE1vSDFpOUVUcFlhVGQ5OHRfR0RiUmoyd002ejZMOG42RzM3TEFGaG1ESkNLczRqc1lMRkpfR2p6Nk9xNE9OTEJCSVZtRmhEVnhoSGpnQXRKdnZ6QnhsOW1jaURTYVBLM28yUGN4WWtETUJJMmk5Z3ZtVzNkWnktSmFnS21CQ1dUYmxUMGxZRG5CNUhMQkhtMGc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T06:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "De The Cure a Oasis: las fotos históricas de leyendas del rock en calles de Monterrey Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "22a9dbca8622b192"
+ },
+ {
+  "titulo": "Cae presunto homicida de regidor de Cuernavaca en Morelos",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTdTWjZ5MGRuOW53NzJfTFdtVXYtaFJkbGtudW5WbjNNNW9neGlFT3lZbE1JY1Fzdmh1eXRoQmRKZlNZWWJQczVQS0Yyb3JPU1lSZVdTX2dYbUY0elRvdGduaHJLbXdjdEl5U2hmSTJmN2xCcGwzOXpNOG1HRmJhMGJhSGN5eWNDNXNGcmhUMG1KRnYxQ3I1ZUhn?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T06:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Cae presunto homicida de regidor de Cuernavaca en Morelos INFO7",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "47433ee2ca38f335"
+ },
+ {
+  "titulo": "Gana Parque del Agua premio con inscripción pagada",
+  "liga": "https://abcnoticias.mx/local/2026/11/12/gana-parque-del-agua-premio-con-inscripcion-pagada-295242.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T06:51:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "26c7cb4949f44cd1"
+ },
+ {
+  "titulo": "Agreden a feministas por denunciar a influencer en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlJRUFBuMXFmd29TTThpMU1uR3plTVBKSHRaS1NZdzBQY240LU5ibVlpNXMycU9VZjJnVFVMMEpBLUpQSzJnRjE1RDdRVVVTRU5ORXo0ODBzd1JYbXhCaVpyZU9wcjJ4Mm9UOU40dFZXM2ZUOFZBcnF0VEI1a2tPWnJIX0swVlR4ZS1qUk4zcXo2ZmtnX0dmQg?oc=5",
+  "medio": "Imagen Televisión",
+  "publicada": "2026-11-12T06:49:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Agreden a feministas por denunciar a influencer en Nuevo León Imagen Televisión",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "55f7b9c9f8040e82"
+ },
+ {
+  "titulo": "Choca tráiler contra muros de contención en Anillo Periférico de Escobedo",
+  "liga": "https://www.posta.com.mx/nuevo-leon/choca-trailer-contra-muros-de-contencion-en-anillo-periferico-de-escobedo/vl2278135",
+  "medio": "Posta",
+  "publicada": "2026-11-12T06:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "0972b58748c51089"
+ },
+ {
+  "titulo": "Volvo arrancará operaciones en su planta de Ciénega de Flores en diciembre",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWpXT0k0bzFMYWFVdVJYNm9RT1FOd2NGU2VWVjJ0U2ZReEx2MmRqUGFqWUE0bmNiQlI2SGY0Yl9KME9va0VjWmtXWkIwLWk1OG9CdHhfRVRMU05JMW9YNTZ5WlZWOE1NRE1hZzBfV1VoWjlJREJTdWFGa1BEaTVoRzRvMG5WMkJ3SENybmFXcTZmSlJ1c3VBNV9CSjhXSXRGYlY0UEJB0gGmAUFVX3lxTE5DazlZMUhkWm1iTGJpSGxoWWNGcnpMZUJyeWxpY05fQzhWQW85OG9qMzdpSXJRVEZpOUhpQlczajY2UmdUV21IZmgwczFtTmt3alBYSjR1QkR0Uy1UTWVZZGJZaDNEOFU3ZWd6WkpwdTFKQnlBOTB1cC1mcEtHWHl4OUROZ1U3V0FPZ3ZjSzNsWjVwYmROSW8xVFBDeFF5bmctWlFwMHc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T06:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Volvo arrancará operaciones en su planta de Ciénega de Flores en diciembre Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9835476b602d0856"
+ },
+ {
+  "titulo": "Después del maratón, ¿qué?",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXVxLU1xNUp1eTJnMWdXU2xub2htT0IyRkptWkFEVU5ma1pwcDRrei1mSWhid0JPbVFIZVM3Yk44TUVRUldwSl81TEN0WXlXVnNZMDBOZ0J3bVJXUE1MaTNhNUsxZDU4dE42VjJrR3Q5MEd6c21wazA5bzJTa3hqcm16TkhDelpIcUZSdlZTckkybEkyUHhKNQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T06:47:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Después del maratón, ¿qué? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6957dae566dfb273"
+ },
+ {
+  "titulo": "Exige Trump frenar caravanas; amaga con duplicar aranceles",
+  "liga": "https://www.elnorte.com/exige-trump-frenar-caravanas-amaga-con-duplicar-aranceles/ar3313262",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T06:45:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Donald Trump amenaza con duplicar aranceles a México si el País no detiene el avance de las caravanas migrantes que se dirigen hacia EU.",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": true,
+  "id": "9f72ff21122ab05b"
+ },
+ {
+  "titulo": "Diputado de MC se deslinda de anomalías por 188 mdp en El Carmen, NL",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQU1HblNUS2tGOGEtNHpnZUNpQnhfenJUdldjMUUtODhNb2JfM1lRR3hwdktuWnpEcTFUcXFnZ1Q1YlZwdzBXRXdUMHA0Z21BR0xaeWVpNjR5QXhoSFkwR1RfOU9ZbWNmVUNCdWRkM1dxeTd5Xzh4QVVaRzI5ZUczTEdvbFFVcHlRN05VMEZZWU9YTFpHQTgxSmRwV3BsUTk5V0HSAaIBQVVfeXFMTVN0Z05rS1ZDdV84eFZmdXZHb2dQemt5MEdQQXpJT0xaYnY5Zk0wOUZ4TEdnREVQaXdfbGdEUkRTRWh1YWlPM19yQnh0YkI5dEhZY29QQ2xXdE1fZ1JHbFVfWGt0N2ZHUmZaaUNjOUdzUG5jeGFTU2pRY2hqYnZhTVRWNnBBeWVnTzExWEstRkQzeklUQ1cwcDRlNmFNWGlWQnVB?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-12T06:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Diputado de MC se deslinda de anomalías por 188 mdp en El Carmen, NL Milenio",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e2a046ce3b532fa1"
+ },
+ {
+  "titulo": "Parque del Agua: obras inconclusas, deterioro y fallas de seguridad pese a su apertura",
+  "liga": "https://abcnoticias.mx/local/2026/11/12/parque-del-agua-obras-inconclusas-deterioro-y-fallas-de-seguridad-pese-a-su-apertura-295241.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T06:39:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "ec6515fb06820605"
+ },
+ {
+  "titulo": "Empresarios turísticos rechazan raquítico presupuesto de promoción para 2027",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHJjMWMzRmx6VEpaUW52dDJJTHhUSmZuX24xU0ROejRHMHhScFJ1d0pkX2tRSXV6Qzd4eHBULTByNTQ2WGdCWWxDLWxrbzJyOV9tS0RsOWQ4MmR0UE5SbS1neXRwQWtjZmZqTlE3eUtkR182RlZPTWl6S3QyWF84YkM2VDl4bFUtZXAzTXA3LUFud3hQeHNmazlpbEpjYWhBYkFuZ1pob0NuLVAwMmU4aGNvMi1nZlVUemNTLTdnVWNQWm9uTG5BTDFmNUN1S2Z1RkxLWVVDQnYtWlRJ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T06:37:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Empresarios turísticos rechazan raquítico presupuesto de promoción para 2027 El Financiero",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "128c110709d32fbb"
+ },
+ {
+  "titulo": "Samuel García critica estrategia de seguridad en Monterrey; exige respuesta a Adrián de la Garza",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1p6a2NObl9OXzhKVU80YjJ6Q0piV3VWbHlaRnR4RnJ3Zk5MTW9QYU8ycDQxRDRhSFZSME9neWJfc1FvSlhGYjAxUWUyNFlkN2FwZGpzLU9FbW9OOFl4RXRjcVlXQk9HZUcxSnFWVlI4NDVjS3hfdmJFLWN6alZETjAzSWdBRldHXzNTWkQ1RjJTVW85TVV1YtIBmAFBVV95cUxNd1p6a2NObl9OXzhKVU80YjJ6Q0piV3VWbHlaRnR4RnJ3Zk5MTW9QYU8ycDQxRDRhSFZSME9neWJfc1FvSlhGYjAxUWUyNFlkN2FwZGpzLU9FbW9OOFl4RXRjcVlXQk9HZUcxSnFWVlI4NDVjS3hfdmJFLWN6alZETjAzSWdBRldHXzNTWkQ1RjJTVW85TVV1Yg?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T06:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Samuel García critica estrategia de seguridad en Monterrey; exige respuesta a Adrián de la Garza Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "93b77b6dac937fe9"
+ },
+ {
   "titulo": "Palacio de Hierro invierte 4,000 mdp",
   "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDFZb1AteHRTRnBORlBNbHdiQmMxdlhWclpxWEdJSmtYcDNiWXk4SXpfOU1Pa2Z6UGhsd0RBOUtkRGJsQUZfLW8zdjlWQ09HRjQwa0lDWVB2VnMtRm16RmtJMV9zb2hyMjdBMm5ZU3VLdDNGa1cxdWlnX3NLWVpxSWhDWEw4a0RWbzlwc2tLTks2M196YktYUUFMN0Q?oc=5",
   "medio": "El Financiero Monterrey",
@@ -12,6 +648,20 @@
   ],
   "local": false,
   "id": "ddefc9549d4fe495"
+ },
+ {
+  "titulo": "La Corte de los pleitos internos",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUpOOExIZ2FNcnRGbHYxS3kyVFFDWEhjYTE5QW5qVjZVaHg5YkhRQlB3VnpUWUhuWG9FOVR1eWEyaUFkd2lHcGV4THV0cjVJN3lRdVhpV2hzYlFQZU5nRU5lQVRXeEt6R295Um9FVnZjcEw4SW0ydnZFNDYyWEloR2xtSEZGbG1JVEZ5SmwzUTVtd09WYzdDTEFrN2NXMEUwR09vR1dn?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T06:13:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "La Corte de los pleitos internos El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f492010b5c704e68"
  },
  {
   "titulo": "¿Humedad en casa? ¡Combátela, aquí te contamos!",
@@ -454,6 +1104,22 @@
   "id": "43b3064d3ed9e4ac"
  },
  {
+  "titulo": "Para el INE: recortes; a partidos: 47% más",
+  "liga": "https://www.elnorte.com/para-el-ine-recortes-a-partidos-47-mas/ar3313222",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Cámara de Diputados castigó al INE con 11 mil mdp menos en su presupuesto para 2027, pero dejó intacto el aumento de 47% para los partidos.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "cb967cca5b5503c1"
+ },
+ {
   "titulo": "REDES DE PODER MTY: El desplazado",
   "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0dDTmFkNy1lMktTd2VYNm1jVXI5OWRNLUVBRHZrRXJBU011aFpLWjBqcDZ2bHRGQm55bkgyXzRlcnN2bUx4WFo0Vkt5aWI2QXo1MGRSMVlvVmlOWjAtWkV0UUlwcXBrcWN1WjgxZkljUERqcHRtNzlGTmpqcGtid1lVM3VCOVRWSGQ0cWlyNjRLSlk?oc=5",
   "medio": "Reporte Índigo",
@@ -466,6 +1132,20 @@
   ],
   "local": false,
   "id": "3e075503d8961633"
+ },
+ {
+  "titulo": "Secretario ejecutivo de la CNDH concentra poder e impone su agenda sobre Rosario Piedra",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcklBY3FKeWRBaFZfVWZxUUFvVkVKOVRFd1d6eERabU9LTUZZX29CaTZlUjZpV1hTdnpWUFI4Xy1xQUdYNmloUkpmWkxXR3ROaXNGaEJiaThjZldwVl9EWFBjR21FV2xmNGRnejRxTU1CSXV6QVk1V1dJVnVpUWw3elEyMEZVc0tvcGoyM0NfaGdBMHV3UGdjQkhKeTFQRUlBc0xXd21hZzRGYjFqYmpwRjEzWDNRV2p2STNhQmV0alZFVEo2d0NmbUxkc3dGbVBCRlAzYkY0dFE0Tmc2dkE?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-12T04:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Secretario ejecutivo de la CNDH concentra poder e impone su agenda sobre Rosario Piedra Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b59c870e923537cb"
  },
  {
   "titulo": "Trascendió Puebla",
@@ -1032,6 +1712,20 @@
   ],
   "local": false,
   "id": "49dd0aa67ac9d5f5"
+ },
+ {
+  "titulo": "Toma Rayadas ventaja ante Pachuca en los Cuartos de Final",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTZVaFNGM1RDZFpHcnZnN2xIUXF3WG9iRmVZTVlaQnVoSFlwX0htNURfM0RPTVM3Nk1venNtWnZJQUl1WjczU0tRRHRNdFk0Zm9lMTdtWkhZeGphWWpyQjlHQlRjVmgyQ3h5OG5PWVdwV2kxYkV1T0lYTTExYVEtYTdpbnBfMXl3dEJiRHVWWks0cmNUXzBmMjhB?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T23:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Toma Rayadas ventaja ante Pachuca en los Cuartos de Final INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c64ca756d152b738"
  },
  {
   "titulo": "Papa León XIV regresa a Perú tras años de ausencia en su país natal",

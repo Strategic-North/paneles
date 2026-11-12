@@ -1,5 +1,364 @@
 [
  {
+  "titulo": "Neurólogos de Ciudad Real enseñan a reconocer el ictus en la calle",
+  "liga": "https://elcongresista.mx/salud/neurólogos-ictus-ciudad-real",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:44:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Neurólogos de Ciudad Real realizan una jornada informativa sobre el ictus, enseñando a la población a reconocer sus síntomas.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "a6ef6f69e6c1beb3"
+ },
+ {
+  "titulo": "La educación debe formar estudiantes críticos frente a la IA.",
+  "liga": "https://elcongresista.mx/educacion/reto-educacion-tecnologia-critico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:43:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "La educación contemporánea enfrenta un reto crucial en la formación de estudiantes críticos ante la inteligencia artificial y la desinformación.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "fedb30479cfccf09"
+ },
+ {
+  "titulo": "Afores: ahorro en pensiones impulsa 64% de inversión en México",
+  "liga": "https://elcongresista.mx/finanzas/afores-ahorro-inversion-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:41:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "El ahorro en afores ha representado 64% del incremento de la inversión doméstica en México, según la FIAP en su último estudio.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "e0cefe0e931e9d9d"
+ },
+ {
+  "titulo": "Papa León XIV viaja a Perú y pide justicia por víctimas de violencia",
+  "liga": "https://elcongresista.mx/justicia/papa-leon-xiv-peru-justicia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:40:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "El Papa León XIV llama a la justicia y reconciliación durante su visita a Perú, destacando la importancia de atender el pasado.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "81caf7c0ad99ed91"
+ },
+ {
+  "titulo": "Repartidores protestan tras amenaza de muerte a uno de sus compañeros",
+  "liga": "https://elcongresista.mx/justicia/repartidores-protestas-amenazas-cdmx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:39:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Repartidores en CDMX exigen mejores condiciones laborales tras amenazas de un vecino a un trabajador.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "5dfc91dd16e35a1a"
+ },
+ {
+  "titulo": "Guadalajara: protestas diarias por escasez de agua desde hace 40 días.",
+  "liga": "https://elcongresista.mx/politica/jalisco/guadalajara-protestas-escasez-agua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:35:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Guadalajara enfrenta una crisis de agua que ha provocado protestas diarias; colonias suman más de 40 días sin suministro.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "74b21c7a0541e95c"
+ },
+ {
+  "titulo": "Trump amenaza con duplicar aranceles a MX, si no detiene caravana migrante",
+  "liga": "https://zetatijuana.com/2026/11/trump-amenaza-con-duplicar-aranceles-a-mx-si-no-detiene-caravana-migrante/?utm_source=rss&utm_medium=rss&utm_campaign=trump-amenaza-con-duplicar-aranceles-a-mx-si-no-detiene-caravana-migrante",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-12T07:22:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "La amenaza llega mientras Washington mantiene un gravamen de 10 por ciento a los bienes mexicanos fuera del T-MEC.",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": true,
+  "id": "982e59c260cc31b6"
+ },
+ {
+  "titulo": "Renuncia vicefiscal de Sinaloa tras acusaciones de EUA",
+  "liga": "https://elcongresista.mx/politica/sinaloa/renuncia-vicefiscal-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:22:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "El vicefiscal de Sinaloa, Dámaso Castro, renuncia tras acusaciones de vínculos con el narcotráfico por autoridades de EUA.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "50f2d6ece598cd14"
+ },
+ {
+  "titulo": "Morena impulsará investigación sobre fraude electoral de 2006",
+  "liga": "https://elcongresista.mx/justicia/morena-investigacion-fraude-electoral-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:20:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Morena propondrá una investigación sobre las elecciones de 2006 para esclarecer presuntas irregularidades, tras comentarios de Vicente Fox.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ac5fb53e1ba589c0"
+ },
+ {
+  "titulo": "Chapulines en Hermosillo no son plaga ni representan riesgo",
+  "liga": "https://elcongresista.mx/politica/sonora/chapulines-hermosillo-no-plaga",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:13:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Especialistas destacan que los chapulines en Hermosillo no son plaga y desaconsejan fumigaciones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "db0bed44dc7baf22"
+ },
+ {
+  "titulo": "Zapopan distribuye 17 millones de litros de agua ante desabasto",
+  "liga": "https://elcongresista.mx/politica/jalisco/zapopan-distribucion-agua-desabasto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:09:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "El Gobierno de Zapopan ha distribuido 17 millones de litros de agua para atender el desabasto en 211 colonias afectadas.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c6291dda66b7a825"
+ },
+ {
+  "titulo": "Dólar se cotiza en $18.63 este 12 de noviembre en México",
+  "liga": "https://elcongresista.mx/finanzas/dolar-12-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:07:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Este 12 de noviembre, el dólar se cotiza a $18.63 pesos en México; los precios varían en bancos y casas de cambio.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "72453b83a00d69c2"
+ },
+ {
+  "titulo": "Gobierno de Jalisco comenzará tren Irapuato-Guadalajara en 2027",
+  "liga": "https://elcongresista.mx/politica/jalisco/tren-irapuato-guadalajara-construccion-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T07:01:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "El tren de pasajeros Irapuato-Guadalajara iniciará construcción en 2027 y comenzará operaciones en 2030, mejorando la conectividad en Jalisco.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d5e8f4bd0e210221"
+ },
+ {
+  "titulo": "Soñar con un familiar fallecido es anticipación de buenas noticias, afirma Raúl Durán",
+  "liga": "https://elcongresista.mx/politica/nacional/sonar-familiar-fallecido-buenas-noticias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:50:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Raúl Durán, experto en Kabbalah, señala que soñar con un ser querido que ha fallecido es una buena noticia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8747ea04690550b1"
+ },
+ {
+  "titulo": "Niño pastelero organiza tallarinada para ir al Mundial de Pastelería",
+  "liga": "https://elcongresista.mx/politica/nacional/nino-pastelero-tallarinada-mundial-pasteleria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:49:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "El joven pastelero Benjamín Almada organiza una tallarinada en Capiatá para costear su viaje al Mundial de Pastelería en Francia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bc8dfe30c354a3d5"
+ },
+ {
+  "titulo": "Ingenieros de la UNLP reciben reconocimientos en Brasil por sus investigaciones",
+  "liga": "https://elcongresista.mx/politica/nacional/ingenieros-unlp-premios-brasil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:48:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Ingenieros Malena Fanelli y Andrés del Negro de la UNLP reciben premios en Brasil por sus investigaciones en energías renovables.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f142182324e6c9e6"
+ },
+ {
+  "titulo": "Ensenada celebra el Festival Internacional de Cine sobre el agua",
+  "liga": "https://elcongresista.mx/cultura/ensenada-festival-internacional-cine-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:47:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "El Festival Internacional de Cine de Ensenada se celebra del 12 al 15 de noviembre con enfoque en el agua y diversas actividades culturales.",
+  "temas": [
+   "Agua",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "86fd7495efa72929"
+ },
+ {
+  "titulo": "Ensenada inicia el Festival Internacional de Cine con enfoque en el agua del 12 al 15 de noviembre.",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlJhSkdIa3NscHp4N3hDdFhZYndaMXV3WTVLM1pCZkNKQ2k1aTZDM0ktTlFVTkY0aTFKMmtzemdqM3ZpZThPTDNHUTc0Q3BqTGg1VmttdGVwTlpBS0pFVXJVbVI1RlZJV01Ndy1yNDZDOTlmVTAtRnFDaUtYc0dRVWZTR3V4YlBROTZEQw?oc=5",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:47:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Ensenada inicia el Festival Internacional de Cine con enfoque en el agua del 12 al 15 de noviembre. El Congresista",
+  "temas": [
+   "Agua",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3c5647f4a35a26c8"
+ },
+ {
+  "titulo": "Accidente entre dos autos en Ensenada: un hombre terminó detenido tras agredir a un policía",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVNPR0VYbHlHOEUyYkxEUTRVUlp2Y00ydGFtbkJPZDJWYjNWbVIzcGVBYnlUNEoyeHU5QmtBMWdMQWxYZjdoM0Q5cUpSRXc3Sm5SZmZpeC1rTC10MGFSUWZfNFBMX3F1anJ5dUxySmxvbVVHdUpjbHQ0S29sa0xRTGU1T3lHSU9FY0VZYXBEWGJhdnBRYjNlVWZOMzhrMXBpVkZGM0FPV3NTdnJsb0k4NVA4Nm43UFJ2anJQRTV5eFhXTjg?oc=5",
+  "medio": "www.novalaplata.com",
+  "publicada": "2026-11-12T06:47:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Accidente entre dos autos en Ensenada: un hombre terminó detenido tras agredir a un policía www.novalaplata.com",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "798099e6bccb8a7d"
+ },
+ {
+  "titulo": "Claudia Sheinbaum encabeza la mañanera del 12 de noviembre en Palacio Nacional",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-mananera-12-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:45:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Claudia Sheinbaum lidera la mañanera del 12 de noviembre en Palacio Nacional, con enfoque en la renuncia de vicefiscal en Sinaloa.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "acac9188fe4f6cc0"
+ },
+ {
+  "titulo": "Bonos soberanos en Argentina hacen dudar sobre reelección de Milei",
+  "liga": "https://elcongresista.mx/politica/nacional/bonos-soberanos-argentina-reeleccion-milei",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:38:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Los bonos soberanos en Argentina reflejan dudas sobre la reelección de Javier Milei, con probabilidades cayendo al 45%.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e6afe5ede3a55e03"
+ },
+ {
+  "titulo": "DIVE y Polideportivo Gonnet juegan final de Primera C en La Plata",
+  "liga": "https://elcongresista.mx/politica/nacional/dive-polideportivo-gonnet-final-primera-c",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:37:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "DIVE y Polideportivo Gonnet se enfrentarán en la final de la Primera C de la Liga Amateur Platense el 12 de noviembre en Villa Elisa.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "95f46c69f99e2558"
+ },
+ {
+  "titulo": "Ensenada se convierte en una sala de cine: arranca un festival con una propuesta diferente",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXcydXZ4YjFuZTRDSno5WGl4ZnZtTnE2dkV2U3IwMUtDQy1IMzB6RTIyVVF5TlluMHRnUHlCQ1o3eXU2RnVxSUtvV2lLTGR0Q29XbzdmMW1PNGUxak83UlREN0ZJWnR1ZVA3M0FHZ2twaFVkZHB3b0JMeUs1UUxVM3pnZGQ5WDNidWxWVkNmZlRqQ0JPbTBIdTR1MGpIZDg0MGJUdjVzQkVic21sTm91cWIwd1RTZTdLMkdTRW9zSzVnbEhWLVE?oc=5",
+  "medio": "Punto Capital Noticias",
+  "publicada": "2026-11-12T06:36:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Ensenada se convierte en una sala de cine: arranca un festival con una propuesta diferente Punto Capital Noticias",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "95b23072f4324ae0"
+ },
+ {
+  "titulo": "Hoy No Circula en la CDMX y Edoméx aplica restricciones a vehículos",
+  "liga": "https://elcongresista.mx/vehicular/hoy-no-circula-12-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:33:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Este 12 de noviembre, autos con engomado verde y placas 1 y 2 no podrán circular en la CDMX y Edoméx por el programa Hoy No Circula.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b63ead8d2af07069"
+ },
+ {
+  "titulo": "Partido Popular apoya protestas en Ceuta tras entrada masiva de 15,000",
+  "liga": "https://elcongresista.mx/politica/nacional/partido-popular-protestas-ceuta-entrada-masiva",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T06:33:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "El Partido Popular respalda las protestas en Ceuta sobre la situación de 15,000 personas tras la entrada masiva de julio.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e1f0ac0824ceb36c"
+ },
+ {
   "titulo": "Automotive Connection Potosí busca elevar negocios a 150 MDD en 2024",
   "liga": "https://elcongresista.mx/politica/san-luis-potosi/automotive-connection-potosi-2026",
   "medio": "El Congresista",
@@ -102,6 +461,20 @@
   ],
   "local": false,
   "id": "f22668bcff8b26e1"
+ },
+ {
+  "titulo": "Protección Civil contabiliza más de mil viviendas en peligro por movimientos de tierra en Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/proteccion-civil-contabiliza-mas-mil-viviendas-peligro-movimientos-tierra-tijuana-n913328",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T06:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "c8ca7a013f6e5f7f"
  },
  {
   "titulo": "Renuncia Luis Rogelio Piñeda Taddei tras bloqueo de cuentas en Sonora",
@@ -393,6 +766,20 @@
   ],
   "local": false,
   "id": "57237b435f9a3a69"
+ },
+ {
+  "titulo": "Noticias sobre vinculacion a",
+  "liga": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yYllnMnRLYWJPUmo2Q1k2UUlIRjNWQTFBZHRxaW1rb3BJWVhGZjRRN2ZOT29XaEFtNmFSeEJvWTdtdnlYVVJla3R0eV82UXNVSTJSTVl1ZU9DU2thUmVabA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T04:43:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T07:52:51-06:00",
+  "resumen": "Noticias sobre vinculacion a Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2bcbe1406a99aeb2"
  },
  {
   "titulo": "Recupera Policía Municipal espacio público en Oaxaca y detiene a cuatro",
