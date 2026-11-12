@@ -1,5 +1,518 @@
 [
  {
+  "titulo": "Amagan con paro en UAS por falta de salarios y aguinaldos",
+  "liga": "https://lado.mx/noticia/22290008/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-11T21:25:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Ante falta de recursos para salarios y aguinaldos, trabajadores de la Universidad Autónoma de Sinaloa amagaron con realizar una huelga.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "1b74ddd65b56128c"
+ },
+ {
+  "titulo": "¡Las ánimas llegan a las aulas! Biblioteca de El Quelite, Mazatlán, acerca a jóvenes a las tradiciones del Día de Muertos",
+  "liga": "https://lado.mx/noticia/22289988/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-11T21:25:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Con una calaverita literaria y la explicación del significado de los altares, Raquel Tirado Chávez participó en el Festival de las Ánimas organizado por la Secundaria Francisco A. Bernal de El Quelite en la zona rural de Mazatlán, Sinaloa",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "04c6c973d19155da"
+ },
+ {
+  "titulo": "Reparan hundimiento en avenida Sábalo Cerritos de Mazatlán, Sinaloa, para mejorar circulación vehicular",
+  "liga": "https://lado.mx/noticia/22289989/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-11T21:25:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Personal de Obras Públicas realizó trabajos de compactación y colado en el tramo afectado, con el propósito de recuperar las condiciones de la vialidad y brindar mayor seguridad a los automovilistas",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "ab70e6b35e4aa22e"
+ },
+ {
+  "titulo": "¡Mazatlán, Sinaloa se prepara para recibir a 8 mil corredores! Alistan operativo de seguridad para el maratón",
+  "liga": "https://lado.mx/noticia/22289991/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-11T21:25:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Corporaciones municipales, fuerzas armadas, Bomberos y Cruz Roja coordinarán acciones preventivas y protocolos de atención para la competencia del 4 al 6 de diciembre en Mazatlán",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9d31fd574fe7d4a7"
+ },
+ {
+  "titulo": "Asesinan a mujer de un disparo en la cabeza en la colonia Salvador Allende, en Mazatlán, Sinaloa",
+  "liga": "https://lado.mx/noticia/22289987/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-11T21:25:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Una mujer perdió la vida luego de recibir un impacto de arma de fuego en la cabeza durante la noche de este miércoles 11 de noviembre, en la colonia Salvador Allende, en Mazatlán",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5fbccf7c93bc1a79"
+ },
+ {
+  "titulo": "Investigan posible problema sanitario por camarón importado: Desaparece de estanques en Sinaloa",
+  "liga": "https://lado.mx/noticia/22289979/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-11T21:25:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Productores acuícolas de Sinaloa enfrentan una crisis sin precedentes: el camarón sembrado en granjas desaparece misteriosamente, lo que ha encendido las alarmas sobre un posible problema sanitario vinculado a la importación de producto extranjero.",
+  "temas": [
+   "Seguridad",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "2b2edcdc13e2d4b1"
+ },
+ {
+  "titulo": "Reportan ataque con drones contra agentes en Chihuahua",
+  "liga": "https://sinaloa.quadratin.com.mx/reportan-ataque-con-drones-contra-agentes-en-chihuahua/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-11T21:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Los agentes resultaron ilesos y solicitaron refuerzos",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "917f1b7801513b63"
+ },
+ {
+  "titulo": "Profesionistas pueden ser clave para mejorar el bienestar y la seguridad en Culiacán: Tere Guerra",
+  "liga": "https://visionciudadana.com.mx/profesionistas-pueden-ser-clave-para-mejorar-el-bienestar-y-la-seguridad-en-culiacan-tere-guerra/",
+  "medio": "Visión Ciudadana",
+  "publicada": "2026-11-11T21:16:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Culiacán, Sinaloa; noviembre 11 de 2026.- El conocimiento, la experiencia y el compromiso de quienes ejercen distintas profesiones pueden convertirse en una fuerza decisiva para mejorar la seguridad, el bienestar y la calidad de vida de las familias de Culiacán, afirmó Tere Guerr",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "47eb3ee8612e72dd"
+ },
+ {
+  "titulo": "Atacan a balazos a herrero en el fraccionamiento Doña Chonita, en la periferia de Mazatlán",
+  "liga": "https://www.luznoticias.mx/2026-11-11/policiaca/atacan-a-balazos-a-herrero-en-el-fraccionamiento-dona-chonita-en-la-periferia-de-mazatlan-/314636",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T21:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "15472245f11381e9"
+ },
+ {
+  "titulo": "¿Por qué renunció el vicefiscal de Sinaloa acusado por Estados Unidos?",
+  "liga": "https://lado.mx/noticia/22289832/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-11T21:10:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "60796c07fe68e695"
+ },
+ {
+  "titulo": "Se mantienen 4 casos de gusano barrenador en humanos en Sinaloa ¿en cuáles municipios?",
+  "liga": "https://noticieroaltavoz.com/se-mantienen-4-casos-de-gusano-barrenador-en-humanos-en-sinaloa-en-cuales-municipios/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-11T21:08:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Los Mochis, Sin.– Sinaloa mantiene cuatro casos de gusano barrenador en humanos, detectados en los municipios de Rosario, Mazatlán, Culiacán y Sinaloa de Leyva, informó el secretario de Salud estatal, Cuitláhuac González Galindo. La mayoría de los pacientes son adultos mayores de",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal",
+   "Salud"
+  ],
+  "local": true,
+  "id": "4f65e79fc2c2b4eb"
+ },
+ {
+  "titulo": "Video de Ya hit, presente de Future con Drake, Travis Scott y Loe Shimmy",
+  "liga": "https://sinaloa.quadratin.com.mx/video-de-ya-hit-presente-de-future-con-drake-travis-scott-y-loe-shimmy/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-11T21:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Mientras se prepara para su próximo álbum",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "85b37f0e38bc4e31"
+ },
+ {
+  "titulo": "Fallece Regina Torné, recordada por su papel de Gloria en El Chavo del 8",
+  "liga": "https://www.luznoticias.mx/2026-11-11/espectaculos/fallece-regina-torne-recordada-por-su-papel-de-gloria-en-el-chavo-del-8/314637",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T21:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "4dc0bbaf4753bed0"
+ },
+ {
+  "titulo": "Gobierno de Sinaloa no tiene recursos extra para la UAS; buscarán apoyo federal",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSE9Pd3o2SVJ3TEJ1dFVEZlRUOTlXMjFrTDZET08wOHc1aGRzclcxbU9vUmVXLXBiS1plbjc2b2UwRXJGMWRfZGxucXNaQ0xIVE5kazVCUkxvTkM4dFpYRDRYR3NjVTdHcmt0MjVUWlR6eUhQOVl4WDVmZk9pSi0xUlk2ZGJxZ2R2YllaVXdKZGFTZWRTRG5FZmlnRENDc3p4NDhnT19SUUZnaDBEajJvZ0pvMTdPQ0podjFSMThheUl2Y0FTWWc?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-11T21:05:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Gobierno de Sinaloa no tiene recursos extra para la UAS; buscarán apoyo federal El Sol de México",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "ab8e2561823cea18"
+ },
+ {
+  "titulo": "Matan a balazos a una mujer e hieren de bala a otras dos personas",
+  "liga": "https://vivalanoticia.mx/matan-a-balazos-a-una-mujer-e-hieren-de-bala-a-otras-dos-personas/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-11T21:05:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Mazatlán, Sinaloa.- Noche violenta en Mazatlán, una mujer es asesinada y dos hombres son heridos de bala en diferentes puntos de la ciudad.El primer atentado ocurrió en la calle Teniente Azueta en la colonia Centro.En ese lugar un hombre fue atacado a balazos, cuando los socorris",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "468c385073b56bb0"
+ },
+ {
+  "titulo": "Sheinbaum se reúne con Greg Brockman, cofundador de OpenAI, en Palacio Nacional: ¿De qué hablaron?",
+  "liga": "https://lineadirectaportal.com/mexico/sheinbaum-se-reune-con-greg-brockman-cofundador-de-openai-en-palacio-nacional-de-que-hablaron-2026-11-11__1737568",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-11T21:02:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "El encuentro tuvo como propósito abordar temas relacionados con el desarrollo y las aplicaciones que se le pueden dar a la inteligencia artificial.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "414fe5abcc7e5fc5"
+ },
+ {
+  "titulo": "Por aire y tierra será el despliegue para la Feria Ganadera; “la seguridad está garantizada”: SSPE",
+  "liga": "https://lineadirectaportal.com/sinaloa/por-aire-y-tierra-sera-el-despliegue-para-la-feria-ganadera-la-seguridad-esta-garantizada-sspe-2026-11-11__1737570",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-11T20:57:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "La seguridad de las familias que asistan a la Feria Ganadera de Sinaloa estará reforzada tanto por vía terrestre como aérea, informó el secretario de Seguridad Pública del Estado",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno del estado",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "6fa862436fe2b4c8"
+ },
+ {
+  "titulo": "Motociclista de 17 años resulta lesionada tras chocar contra una draga en Angostura",
+  "liga": "https://noticieroaltavoz.com/motociclista-de-17-anos-resulta-lesionada-tras-chocar-contra-una-draga-en-angostura/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-11T20:54:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Angostura, Sin.- Una joven de 17 años resultó lesionada la tarde de este miércoles luego de verse involucrada en un accidente de tránsito tipo choque en la entrada de la comunidad de San Luciano, en el municipio de Angostura. El hecho fue reportado alrededor de las 16:05 horas, c",
+  "temas": [
+   "Accidentes",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "f211247e070bd9b9"
+ },
+ {
+  "titulo": "Badiraguato contará con nuevo relleno sanitario; alcalde anuncia proyecto de 3 mdp",
+  "liga": "https://lineadirectaportal.com/sinaloa/badiraguato-contara-con-nuevo-relleno-sanitario-alcalde-anuncia-proyecto-de-3-mdp-2026-11-11__1737563",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-11T20:53:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "El alcalde indicó que la obra dará inicio en próximos días y estará ubicado por la carretera de entre La Apoma y las Higueras",
+  "temas": [
+   "Gobierno municipal",
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "b161c5f717bb9e0f"
+ },
+ {
+  "titulo": "Riña en el sector Scally termina con daños a un establecimiento y mujeres en Barandilla",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYWl5dUFyX2hIRm1TRGJwZDlQenNTd09XWFNrajROUmwya1ZXeTNJUktUWERyVVpQUVJQWU9SRlVBb3pGUVIyYkVNc3BjaWQ3Tmt6ekhiUkVwU2NsLXdmMnhLdW1GekRFTGtIOUxKMmVsOTlkbms0ZnJ5c3dIY2lMdmd2SmVIZDdPR3F4aVVpcHVjMW81dk9QTE01Qk5TUjZHUmVweHMzb0s2OGN1QmtfcEJKcTgzSEx0OVlVQmJDb1pWaXg4Rk9mdEdxS1pjVjJxWXFuVXA1amlEQUo0RTlwNExyWVo?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-11T20:49:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Riña en el sector Scally termina con daños a un establecimiento y mujeres en Barandilla Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7f6893376005f1e3"
+ },
+ {
+  "titulo": "Niñas y niños descubren la historia de Culiacán y disfrutan de cuentos y espectáculos en la FIL 2026",
+  "liga": "https://reflectores.mx/ninas-y-ninos-descubren-la-historia-de-culiacan-y-disfrutan-de-cuentos-y-espectaculos-en-la-fil-2026/",
+  "medio": "Reflectores",
+  "publicada": "2026-11-11T20:49:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "La presentación de la antología del concurso El Niño y la Niña Cronista, una función de títeres, cuentacuentos y talleres formaron parte de las actividades del Pabellón Infantil. The post Niñas y niños descubren la historia de Culiacán y disfrutan de cuentos y espectáculos en la ",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f5794b57a6c8ce93"
+ },
+ {
+  "titulo": "Morena Culiacán: Serapio Vargas exige acuerdo para respetar al ganador de coordinación municipal",
+  "liga": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTnlwRGx2VmMwMF9reFFEcUJlNUlFbS1jZWtscXVlY21OTUVubWVkOHRoVmxONy1GYVRoYk5LdW9BY1VIdnZoRUMzLWJnZ3YtMHVmd0dnWWkyNVdsNzMzZGkzSVlCWjR5bVM2bnlha0NpeUM0MzJTMm5RQTY5ajc4TEFzamtWYzBUS0xZNjliaW1mRXFFRlhmaXVyUXFlN3MtTDF4dGpyTU5QV1dfLU5hU25qaHN1cFptdk5xRzE0Tl90MmZwSUh0ZGhOeGtkUkU2dFI2Ql9EZVE1RXUtUjh4NG1odTdnMTNaVTRLLTln?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-11T20:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Morena Culiacán: Serapio Vargas exige acuerdo para respetar al ganador de coordinación municipal Debate",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "7e98503cc9d30e94"
+ },
+ {
+  "titulo": "Pablo Ruiz prepara una serie biográfica sobre su vida y trayectoria artística",
+  "liga": "https://www.luznoticias.mx/2026-11-11/espectaculos/pablo-ruiz-prepara-una-serie-biografica-sobre-su-vida-y-trayectoria-artistica/314633",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T20:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5157c90f7fd2d348"
+ },
+ {
+  "titulo": "Misiorowski y Schlittler son los ganadores del Cy Young en las Grandes Ligas 2026",
+  "liga": "https://losnoticieristas.com/deportes/2026/11/misiorowski-y-schlittler-son-los-ganadores-del-cy-young-en-las-grandes-ligas-2026-1165610/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-11T20:44:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Misiorowski y Schlittler se quedaron con el galardón de manera unánime en la Liga Nacional y Americana, respectivamente",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "6a3968263d1fb576"
+ },
+ {
+  "titulo": "Expo Ganadera Sinaloa 2026 sigue en pie en Culiacán; contará con más de 6 mil elementos de seguridad",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ0VwQS1rS29ld0UtenJKRDdTb21ScVh5RkVSMVAwVjRDMzZzUi05VTRfakNEcHVVRVotX1QwaE5yZ1F0RXJIWEt5YnBia3RNdWRWZ1g4SW1nR2oyWi1PaG9XZ0wzc3NSemhHdzZhZEFOaTBtbjdsTUVLZk8ydWI4OUFuY09qVTJ2ZUFpTTBPSWU3bWhyTWd3MjJ5VDBvU1pSbDFydU5SeUtHZk0xM1dZSVhiMmRiTFA4NEt1ZkpwS3FKUQ?oc=5",
+  "medio": "Extraoficial",
+  "publicada": "2026-11-11T20:44:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Expo Ganadera Sinaloa 2026 sigue en pie en Culiacán; contará con más de 6 mil elementos de seguridad Extraoficial",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "f1ce382590f56086"
+ },
+ {
+  "titulo": "Wildwood confirma nuevo doblaje en México: estas son las nuevas voces",
+  "liga": "https://www.luznoticias.mx/2026-11-11/espectaculos/wildwood-confirma-nuevo-doblaje-en-mexico-estas-son-las-nuevas-voces/314634",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T20:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "4473e2bc6514520a"
+ },
+ {
+  "titulo": "Detienen a un pastor en Iguala acusado de violación",
+  "liga": "https://sinaloa.quadratin.com.mx/detienen-a-un-pastor-en-iguala-acusado-de-violacion/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-11T20:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Se trata de Erick N",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "7947f6a4d3e9841d"
+ },
+ {
+  "titulo": "Jóvenes limpian parque Sendero de Paz en Mazatlán",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkg1MkdOMERGRllsbzE0QnY0RWNldEw1Y0MtZUZXUHA1dmVsZENKVExLbVlXWjNfVzJ1Rno4SU9rSjZRMHd0VHdGcm5PYWczRFdXWktPX0FSX3dfMi04UVlwUGhfeDA5TmtMUndfSnptM3FtLUJTU09rOFR6Rm5YY293VzZLck5CdW9sWjg5cDNtcUpnVG84TmJLUlJRZmdsZGpNbXZYQjdkb0Q4Y2s0eg?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-11T20:41:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Jóvenes limpian parque Sendero de Paz en Mazatlán Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b06885845231d7aa"
+ },
+ {
+  "titulo": "Gabinete de Seguridad reporta 14 detenidos presuntamente ligados al Cártel de Sinaloa en Chiapas",
+  "liga": "https://www.sinaloahoy.com.mx/portal/detenidos-cartel-sinaloa-benemerito-chiapas/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-11T20:37:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Gabinete de Seguridad reporta 14 detenidos presuntamente ligados al Cártel de Sinaloa en Chiapas Fuerzas federales y estatales detuvieron a 14 personas presuntamente vinculadas con el Cártel de Sinaloa en Benemérito de las Américas, Chiapas, y aseguraron 12 armas largas. Sinaloah",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6252ed33c6a30073"
+ },
+ {
+  "titulo": "Vecinos de Urías gestionan servicios públicos e infraestructura en el programa Contigo Mazatlán",
+  "liga": "https://lineadirectaportal.com/sinaloa/vecinos-de-urias-gestionan-servicios-publicos-e-infraestructura-en-el-programa-contigo-mazatlan-2026-11-11__1737558",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-11T20:37:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "64 vecinos de la colonia Urías atendieron la invitación y participaron en esta campaña de atención ciudadana que encabezó la alcaldesa Estrella Palacios.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "6e9e4b34d6578ce2"
+ },
+ {
+  "titulo": "Motociclista resulta lesionado en accidente tipo pega y huye en Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc3F6ZDItX1ZzQmtFX2FJUkZWSVlFY2RxcEhJS1FkRjdfU3g3aldmSmhILU03dmdPVEpFelRVMnl4SW1KNUQwOEl3b1VQNE44U1pUdFdFakt3eVB1ODV2NlNQWmFwWFFiZi1tX2hyVFltYjN2cXdCd29LQ3puYUpHWFJ4dndDVG9PVUM0YTBYUFNsRXhNeW5PbGNGOC1SUUhtdkV6S19qTGU5VHJSUmgzOE12SkpzdWZ0dGJaSlYyc0g4Vm9PTllhTzdFbWV5Zm1LMDlZ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-11T20:35:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Motociclista resulta lesionado en accidente tipo pega y huye en Los Mochis Debate",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "572d8741fdbc725b"
+ },
+ {
+  "titulo": "Entrega de apoyos en comunidades del municipio de Guasave",
+  "liga": "https://vivalanoticia.mx/entrega-de-apoyos-en-comunidades-del-municipio-de-guasave/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-11T20:33:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Dra. Catalina Esparza Navarrete- Presidenta del Sistema DIF Sinaloa. *DIF Sinaloa lleva apoyos alimentarios y artículos de primera necesidad a familias de San Fernando, Cacalotán, Sauce y Roberto Barrios, Chorohui y El Dorado, Guasave* *San Fernando, Guasave, Sinaloa, 11 de novie",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "2bf0fedc14327dc8"
+ },
+ {
+  "titulo": "Hombre lesionado por disparos recibe atención médica tras el hecho en Doña Chonita, Mazatlán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/hombre-lesionado-disparos-dona-chonita-mazatlan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-11T20:32:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Hombre lesionado por disparos recibe atención médica tras el hecho en Doña Chonita, Mazatlán Un hombre resultó lesionado por disparos en Doña Chonita, Mazatlán. Fue trasladado para recibir atención médica y la Fiscalía realiza peritajes en el sitio. Sinaloahoy - Noticias de Sinal",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "03d188ef2d026733"
+ },
+ {
+  "titulo": "Separan temporalmente a directora de la ETI 28 de Guasave tras conflicto por falta de rendición de cuentas a la nueva APF",
+  "liga": "https://vivalanoticia.mx/separan-temporalmente-a-directora-de-la-eti-28-de-guasave-tras-conflicto-por-falta-de-rendicion-de-cuentas-a-la-nueva-apf/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-11T20:30:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Guasave, Sin.– La directora de la Escuela Secundaria Técnica número 28 (ETI 28) fue puesta a disposición de Servicios Regionales de manera preventiva, mientras se realiza una investigación institucional derivada de las inconformidades de padres de familia por la falta de transpar",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "17d51cc4ed682bb3"
+ },
+ {
+  "titulo": "Renuncia Dámaso Castro a la Vicefiscalía de Sinaloa tras concluir licencia; es señalado por EE.UU. por vínculos con el crimen",
+  "liga": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdm5LVlB1ay05blJCaVhpbzZqTzdDQTF4NVloUHQzTm9sNGk5X1hRVDl6VHVNVjRwTVhPSkU4d1BxX3BKcTlkOThYQjA5aEdNNEJtSE52YWduN0E0UDQ5ZEE1Y0xtcmhpV3FGMmpIV2lqU185YjJ2VDlKOXA1aHluSTZVUnp0bUFtbDhTOC0xNzU2ZkpBenFtVnlsUnUzaHBJNjFzTmJWN2pUdUUzT1dPMGpwbGR5QktHZE82bUpWRHdEU3Y1cUhLeTAwbUdqWGpzeXR1WmtUT1k1dVVHeVVhdlBHYjlhQ3NEOXJoUlFn?oc=5",
+  "medio": "López-Dóriga Digital",
+  "publicada": "2026-11-11T20:29:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Renuncia Dámaso Castro a la Vicefiscalía de Sinaloa tras concluir licencia; es señalado por EE.UU. por vínculos con el crimen López-Dóriga Digital",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5dfa12dd2b2ecb17"
+ },
+ {
+  "titulo": "Asesinan a balazos a una joven en la colonia Salvador Allende, en Mazatlán",
+  "liga": "https://www.noroeste.com.mx/seguridad/asesinan-a-balazos-a-una-joven-en-la-colonia-salvador-allende-en-mazatlan-OP27288611",
+  "medio": "Noroeste",
+  "publicada": "2026-11-11T20:28:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "MAZATLÁN._ Una joven mujer fue asesinada a balazos en la calle Fidel Velázquez, en la colonia Salvador Allende, la noche de este miércoles 11 de noviembre, en Mazatlán. Al parecer la víctima tenía 25 años de edad. Al lugar arribaron elementos policiacos, del Ejército, de la Guard",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bdc9999a99ca8a8a"
+ },
+ {
   "titulo": "Fallece Regina Torné, actriz de “Como agua para chocolate”, a los 82 años",
   "liga": "https://lineadirectaportal.com/entretenimiento/fallece-regina-torne-actriz-de-como-agua-para-chocolate-a-los-82-anos-2026-11-11__1737547",
   "medio": "Línea Directa",
@@ -156,6 +669,21 @@
   "id": "acf6ec98365a80ee"
  },
  {
+  "titulo": "Movimiento Ciudadano exige avances en investigación contra Cuauhtémoc Blanco y protección para denunciante en Morelos",
+  "liga": "https://www.sinaloahoy.com.mx/portal/mc-investigacion-cuauhtemoc-blanco-morelos/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-11T20:23:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Movimiento Ciudadano exige avances en investigación contra Cuauhtémoc Blanco y protección para denunciante en Morelos Movimiento Ciudadano pidió a la Fiscalía de Morelos concluir las diligencias en el caso de Cuauhtémoc Blanco y garantizar protección para la denunciante. Sinaloah",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "428e69201124d0a8"
+ },
+ {
   "titulo": "Jaime e Irela son los lesionados de la aparatosa carambola en la México 15 en Guasave",
   "liga": "https://lineadirectaportal.com/policiaca/jaime-e-irela-son-los-lesionados-de-la-aparatosa-carambola-en-la-mexico-15-en-guasave-2026-11-11__1737549",
   "medio": "Línea Directa",
@@ -170,6 +698,21 @@
   ],
   "local": true,
   "id": "0010927311fcfc47"
+ },
+ {
+  "titulo": "Muere Regina Torné en Ciudad de México, actriz de Como agua para chocolate y El Chavo del 8",
+  "liga": "https://www.sinaloahoy.com.mx/portal/regina-torne-fallece-ciudad-mexico/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-11T20:20:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Muere Regina Torné en Ciudad de México, actriz de Como agua para chocolate y El Chavo del 8 La actriz Regina Torné falleció a los 82 años en Ciudad de México. Ganó un Ariel por su papel de Mamá Elena en Como agua para chocolate. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloa",
+  "temas": [
+   "Agua",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "1f57f7fd285e18a0"
  },
  {
   "titulo": "Breves de los Estados (AMEXI) 11 de Noviembre",
@@ -212,6 +755,34 @@
   ],
   "local": true,
   "id": "b43efe2822fa76bd"
+ },
+ {
+  "titulo": "Así gestionó Graciela Domínguez el subsidio de la CFE para Sinaloa con Claudia Sheinbaum",
+  "liga": "https://www.luznoticias.mx/2026-11-11/sinaloa/asi-gestiono-graciela-dominguez-el-subsidio-de-la-cfe-para-sinaloa-con-claudia-sheinbaum-/314626",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T20:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "e6e83044c9afda07"
+ },
+ {
+  "titulo": "Esto es lo que viene para la seguridad de Sinaloa según la gobernadora Graciela Domínguez Nava",
+  "liga": "https://www.luznoticias.mx/2026-11-11/sinaloa/esto-es-lo-que-viene-para-la-seguridad-de-sinaloa-segun-la-gobernadora-graciela-dominguez-nava-/314625",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T20:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "b0649c046693c7ac"
  },
  {
   "titulo": "Cancelan Palenque de Culiacán 2026 un día antes de su inicio; suman tres años sin realizarse",
@@ -270,6 +841,20 @@
   "id": "e3c37482b193ee14"
  },
  {
+  "titulo": "Graciela Domínguez busca pacificar Sinaloa antes de las elecciones del 2027",
+  "liga": "https://www.luznoticias.mx/2026-11-11/sinaloa/graciela-dominguez-busca-pacificar-sinaloa-antes-de-las-elecciones-del-2027-/314624",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T20:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "295f24e851e2a31b"
+ },
+ {
   "titulo": "“Buscamos ratificar el 1er. Lugar estatal en la evaluación de INAFED y seguir entre los primeros lugares nacionales”: Antonio Menéndez",
   "liga": "https://cafenegroportal.com/buscamos-ratificar-el-1er-lugar-estatal-en-la-evaluacion-de-inafed-y-seguir-entre-los-primeros-lugares-nacionales-antonio-menendez/",
   "medio": "Café Negro",
@@ -285,6 +870,34 @@
   "id": "82bd813a9f0d88ec"
  },
  {
+  "titulo": "Graciela Domínguez tendrá una administración austera para Sinaloa en el 2027",
+  "liga": "https://www.luznoticias.mx/2026-11-11/sinaloa/graciela-dominguez-tendra-una-administracion-austera-para-sinaloa-en-el-2027-/314623",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T19:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a2e13bba972d951e"
+ },
+ {
+  "titulo": "Noticiero completo de Milenio Noticias del 11 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWDdTQk45VTJycXFlbUNqMm1rLWo4T3dUU1pVNlUtUUlTUzF2Slo1ei1WS18wY3RSTm1Xc1dBeXc4RHlsVW1Jb2FNSFF6ZDhFRWlJbW11SXZOdVY3RkNMdmx0SVVCZzlDSEl2Y2o1OGMyRVp2bVAtT0dkVXZTZWVlUTBIMzRkZDFMNkRrN3Q1WXRHcUw5RXVZWGRxeEpjei1HRTdJRHV2MHBuZTdRSmVKdnQwN1lQNEcwQVU1bDBab1VmX1F6MWxVZXhTMzBSVFhDLW9rYVBSOGY1cGdYZnfSAd4BQVVfeXFMUHNlWkN4SnY3RTZvVnRORTFYZk92OXlCOHdoVmlLVzQ3UmJMYW9LT0hvcV9Sai1wZU1NM19sczE3aVpSbGhoXzhsR0JfR280cFNCNEFUSlpldWlKZTVsMlQ2SHV3LTB4Y1Y4UnJ1Q1E5QVJzVl9hMURKXy03TERSY2ZTbXVYbXk5Q3FlaUlBN0M5NjREOHVFYVdrcG1TU0Fib3FDQWlfRXdsS2puSXNsV3d2VXZEX0t4clJ3X1p6Um5zSWxvTG5RbzAwNW95dFpCd1pPRnBUWWFnVktEUjdB?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-11T19:56:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Noticiero completo de Milenio Noticias del 11 de noviembre de 2026 Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "af21e608dc8e76b6"
+ },
+ {
   "titulo": "Renuncia de Dámaso Castro: ¿Qué trabajo hacía el exvicefiscal de Sinaloa para Los Chapitos según EU?",
   "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHgySUhqZ3VyUTRZUzVjNlc2YXZBR0xSWXo0TXZGaVI1Tmo1YkZXY2Y0cVB6RTgtWjlFeGplYS0ySG5tT1VLdUZtX1Ywc3lERS1vSUVmU3NUaTFibUlKUkRfUWZITko3WnB0bnZqdlVqcmpZUm5YdS1YVkYzS01pZFpBa19LUkg1ckRmb0Jaeklxbjk2X2Fwd0l5YS1XR0hGa3IzbEswazJMVmN1dkJGZjFNeUdJYkhzR0tRbHljVjQ1b3V2TFRwUkN0R2Z2NTIzajdXR2Z4ODRmbmZvbkNjU1ZFTQ?oc=5",
   "medio": "El Financiero",
@@ -297,6 +910,20 @@
   ],
   "local": true,
   "id": "5f58ad7a5704f194"
+ },
+ {
+  "titulo": "Alarma en Coapa: Ricardo Arjona deja sin estadio al América para una hipotética final",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTUdlWHctZ1lJX0FzS2NEN3p0d0JDeDNYU09ZWGREdDdodm1UenVPTVdXcHR3ZW05Xy1iamlBek1IVWw1Mmg0bWJ1TVM5Nmo3VkhMZFd1eUlYd2tURFdNYXl0TkZzdFBhT25XWmhrUkRNdUJiMkJqb0VjMmtTenJzN2QxQ2FyLVUwQkFmZDlSRmd6THJhOE9GOUVBdU15dGdtRlZOOERKZ2Z6SHRQZmRUTi1qeC1aLTJWeFBwQnlEYnc4aHp1VWVxZDRramV3TnpCbHdtNA?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-11T19:52:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Alarma en Coapa: Ricardo Arjona deja sin estadio al América para una hipotética final Debate",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "f4c483de32eea7fd"
  },
  {
   "titulo": "Será Expo Ganadera Sinaloa 2026 un evento completamente familiar",
@@ -339,6 +966,20 @@
   ],
   "local": true,
   "id": "0077d4bc2244e1b3"
+ },
+ {
+  "titulo": "Fiesta MX habilita reembolsos por cancelación del Palenque de Culiacán y Expo Ganadera sigue en preparación",
+  "liga": "https://www.sinaloahoy.com.mx/portal/palenque-culiacan-reembolsos-expo-ganadera/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-11T19:48:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Fiesta MX habilita reembolsos por cancelación del Palenque de Culiacán y Expo Ganadera sigue en preparación Fiesta MX habilitó un número de WhatsApp para tramitar devoluciones. La Expo Ganadera sigue en preparación, sujeta a las condiciones de seguridad. Sinaloahoy - Noticias de ",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "1e5f5e08aee4409e"
  },
  {
   "titulo": "Prohíbe Gobierno de Escuinapa la pirotecnia en general; anuncia sanciones",
@@ -399,6 +1040,20 @@
   ],
   "local": true,
   "id": "d7cc01e7468dc870"
+ },
+ {
+  "titulo": "México afina su defensa tras recibir siete goles en amistosos",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGJDb2dMdkVvOE5wM1pwcUFOZFFlZHdiUXhRcDlXTEJGdEtvNDM3d19tTjlCSVA4amhxZVU4dlQzMGl1UkhEREtJS3c0cllYNHNubnhldmdqVjJJRXZoSEprdWZlbUk3VTNLWUpGcl9mVHJwMTRoQTRGSTVMU001MHlON0IwZWtxOVRKMG93dXVZVGk3SHBjRkNRSXJDSk5OenBwbzJOZjFzY2xiU3RWZklFN0hvZw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-11T19:39:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "México afina su defensa tras recibir siete goles en amistosos Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b85203186ecde50e"
  },
  {
   "titulo": "PAN acusa a diputados de Morena de priorizar elecciones sobre recursos para Sinaloa",
@@ -573,6 +1228,20 @@
   "id": "7a46a2a50bbeac04"
  },
  {
+  "titulo": "¿Habrá un apagón masivo en México este 17 de noviembre? Esta es la verdad detrás del rumor en redes sociales",
+  "liga": "https://www.luznoticias.mx/2026-11-11/mexico/habra-un-apagon-masivo-en-mexico-este-17-de-noviembre-esta-es-la-verdad-detras-del-rumor-en-redes-sociales/314619",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T19:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "245910c82ada2156"
+ },
+ {
   "titulo": "Plantea SSPE instalar cuartel para la Policía Estatal en Mazatlán",
   "liga": "https://www.noroeste.com.mx/mazatlan/plantea-sspe-instalar-cuartel-para-la-policia-estatal-en-mazatlan-FP27287471",
   "medio": "Noroeste",
@@ -587,6 +1256,20 @@
   ],
   "local": true,
   "id": "e292795734792778"
+ },
+ {
+  "titulo": "Atacan a balazos a barbero en pleno centro de Mazatlán",
+  "liga": "https://www.luznoticias.mx/2026-11-11/policiaca/atacan-a-balazos-a-barbero-en-pleno-centro-de-mazatlan-/314617",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T19:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6a1d677d65d052f1"
  },
  {
   "titulo": "Gala navideña de Casa del Mar recaudará fondos y abrirá festejos por sus 100 años en Mazatlán, Sinaloa",
@@ -763,6 +1446,21 @@
   "id": "99ba368e87a42219"
  },
  {
+  "titulo": "Aparatosa carambola termina en volcadura y deja al menos tres lesionados en la México 15, en Guasave",
+  "liga": "https://www.luznoticias.mx/2026-11-11/policiaca/aparatosa-carambola-termina-en-volcadura-y-deja-al-menos-tres-lesionados-en-la-mexico-15-en-guasave-/314614",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T19:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ed6c2dbe7f04f31e"
+ },
+ {
   "titulo": "El ayuntamiento no cuenta con presupuesto definido para reparar socavones en Mazatlán",
   "liga": "https://vivalanoticia.mx/el-ayuntamiento-no-cuenta-con-presupuesto-definido-para-reparar-socavones-en-mazatlan/",
   "medio": "Viva la Noticia",
@@ -824,6 +1522,20 @@
   "id": "98e64dd4cd4b3096"
  },
  {
+  "titulo": "Cam Schlittler y Jacob Misiorowski ganan por unanimidad el Premio Cy Young 2026",
+  "liga": "https://www.luznoticias.mx/2026-11-11/deportes/cam-schlittler-y-jacob-misiorowski-ganan-por-unanimidad-el-premio-cy-young-2026/314620",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T19:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "30f3a2636369cd6a"
+ },
+ {
   "titulo": "La Feria del Pueblo, la Expo Ganadera Sinaloa 2026, será un evento completamente familiar",
   "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlQyNUJHWm1pNldKQzRnRHVXcHJLVUpnMjZOVnhoejVqZU5hcEtWR0VVcUFsaFBNT1lUTS1fOTFreGV5aXR3VnV6MkVKcG43eFRocTFYb2llMW9zTVJZVTMxZTA5Y05waGxLOFRuY0xNV1JuUXZLUUtCaV85TnpyRXVNVWwwS0JxbmFSUGdpcWtWWjNzVXA1cG1kSEhXeVMtbkZodGV3VjhxNGhJQWVFMg?oc=5",
   "medio": "Gobierno del Estado de Sinaloa",
@@ -882,6 +1594,20 @@
   "id": "0dfa5293e8c6864f"
  },
  {
+  "titulo": "Peni de Aguaruto se convertirá en cárcel para mujeres tras construcción de nuevo penal federal en Culiacán",
+  "liga": "https://www.luznoticias.mx/2026-11-11/sinaloa/peni-de-aguaruto-se-convertira-en-carcel-para-mujeres-tras-construccion-de-nuevo-penal-federal-en-culiacan-/314613",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T19:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a0f8b71955df310b"
+ },
+ {
   "titulo": "Detienen en EU a exfuncionario de Sonora acusado de peculado y enriquecimiento ilícito",
   "liga": "https://lineadirectaportal.com/mexico/detienen-en-eu-a-exfuncionario-de-sonora-acusado-de-peculado-y-enriquecimiento-ilicito-2026-11-11__1737497",
   "medio": "Línea Directa",
@@ -922,6 +1648,20 @@
   ],
   "local": true,
   "id": "54c246f53d0023e7"
+ },
+ {
+  "titulo": "Salinas Pliego presume encuentro con Nayib Bukele en Casa Presidencial de El Salvador",
+  "liga": "https://www.luznoticias.mx/2026-11-11/internacional/salinas-pliego-presume-encuentro-con-nayib-bukele-en-casa-presidencial-de-el-salvador/314615",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-11T19:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9cf838564afd8fa1"
  },
  {
   "titulo": "Balean a dueño de barbería en pleno Centro de Mazatlán",
@@ -1153,6 +1893,20 @@
   ],
   "local": true,
   "id": "9c27489fc06b1df3"
+ },
+ {
+  "titulo": "Pez Toro, abundante en Sinaloa: Estudios científicos lo convertirían de plaga a dinero",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRnN5SDEtSHFHZTctWG91SWJhNEw1TzkyeEU3WUJhR05fY2RBSTRCT2prTXJjSDdHc3ZBeG93MkFaNUdfbHJOanl4ZWdGWGpXaTZlMDl6TUgxd01fZ2E3V0QzSzExWWJJRTFWcDVRNUt3UV9DRXRiaEwyS2kzTWpZSkEzYlltM0hSNlIwQkhtTC1rajdIcGp6dExISWx5bnZUNHRGYVdlUU1HUzFsblR6NXBoTUdBMlplY0xyWnhFLUo0VXhrREFwRlNfcTQ1T1FWUkZxUlhJVE5ZYjNsMXNZaA?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-11T18:55:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Pez Toro, abundante en Sinaloa: Estudios científicos lo convertirían de plaga a dinero Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e4e44fcef53e0a7a"
  },
  {
   "titulo": "Llega Papa León XIV a Perú, su última parada en su viaje apostólico por América",

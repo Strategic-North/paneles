@@ -1,5 +1,425 @@
 [
  {
+  "titulo": "FGE realiza tres cateos en Tijuana y asegura vehículos con reporte de robo",
+  "liga": "https://elportavoznoticias.com.mx/fge-realiza-tres-cateos-en-tijuana-y-asegura-vehiculos-con-reporte-de-robo/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-11T21:24:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "La Fiscalía General del Estado (FGE) realizó tres cateos en distintos puntos de Tijuana, donde aseguró cinco vehículos, dos de ellos con reporte de robo y otras unidades con irregularidades en sus... La entrada FGE realiza tres cateos en Tijuana y asegura vehículos con reporte de",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "fdb947c325156c4e"
+ },
+ {
+  "titulo": "Alcaldesa de Camargo denuncia disturbios en palacio municipal",
+  "liga": "https://elcongresista.mx/tamaulipas/disturbios-presidencia-municipal-camargo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:23:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Ernestina Perales, alcaldesa de Camargo, denuncia disturbios en el palacio municipal y expresa preocupación por su seguridad tras el incidente.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "49912355904fa256"
+ },
+ {
+  "titulo": "Casio y Baklava presentan el exclusivo reloj G-Shock DW-6900 en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/casio-baklava-nuevo-reloj-g-shock-dw-6900",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:22:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Casio y Baklava presentan una nueva colaboración con un reloj G-Shock DW-6900 de diseño exclusivo y características avanzadas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b3e09e4aad11bc07"
+ },
+ {
+  "titulo": "Harán nuevos estudios sobre deslaves de tierra en la Sánchez Taboada",
+  "liga": "https://puntonorte.info/2026/11/11/haran-nuevos-estudios-sobre-deslaves-de-tierra-en-la-sanchez-taboada/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-11T21:22:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Tijuana.- El Ayuntamiento de Tijuana en coordinación con el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE) del gobierno federal, están llevando a cabo un estudio técnico en los deslizamientos de tierra en la zona de la Sánchez Taboada. El presiden",
+  "temas": [
+   "Gobierno municipal",
+   "Educación"
+  ],
+  "local": true,
+  "id": "775cdc4926091ec7"
+ },
+ {
+  "titulo": "PAN denuncia extorsión en Pemex; transportistas pagan hasta 300 mil.",
+  "liga": "https://elcongresista.mx/justicia/pan-extorsion-transportistas-pemex",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:21:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "PAN denuncia una red de extorsión en Pemex que afecta a transportistas, quienes reportan cobros de hasta 300 mil pesos.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bf7451d78380c4d3"
+ },
+ {
+  "titulo": "Avanza construcción de caminos en Guerrero para 19 comunidades rurales",
+  "liga": "https://elcongresista.mx/politica/guerrero/caminos-artesanales-guerrero",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:20:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Avanza la construcción de caminos artesanales en Guerrero, mejorando la calidad de vida de 19 comunidades de la región.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8895e5e38a192a9e"
+ },
+ {
+  "titulo": "Canciller Roberto Velasco inicia visita de trabajo a Japón",
+  "liga": "https://elcongresista.mx/politica/nacional/canciller-velasco-visita-japon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:19:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "El canciller Roberto Velasco inicia su visita de trabajo a Japón para fortalecer las relaciones bilaterales y reuniones con empresarios.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2e992fd96250ffe5"
+ },
+ {
+  "titulo": "Padres de Familia Denuncian a Docentes y Directivos de COBACH en Tijuana, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMUc1STZZUHNTUnUxOS1ucU9fbzNSOXhoQ1lmNzd6MzRWbjRLc253dHYzdXRJVXBLTllQNXdDdm1JZlhsWHlVUnZoUFpVNTBrVFpDR0Rod3VTQ0IwbFZSMHlneF9hMDlPVDdEeDZLNDBFT01iMXJ5NUpxRk96aUxqMlctby03QXJwVlFBNGlLb1FRdmtJVEFwdE53RUtlWU5OTGZuVGlESnUtNlRFSXhLejcyQUE4cGlFXzJOQ3BDT3JQTW8?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T21:09:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Padres de Familia Denuncian a Docentes y Directivos de COBACH en Tijuana, BC N+",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "7cfd79f16e8ce84e"
+ },
+ {
+  "titulo": "Inician programa educativo sobre el patrimonio marítimo de Rosarito",
+  "liga": "https://elportavoznoticias.com.mx/inician-programa-educativo-sobre-el-patrimonio-maritimo-de-rosarito/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-11T21:07:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Un total de 450 estudiantes de preescolar, primaria y secundaria de Playas de Rosarito participarán en el proyecto “El Mar y Yo: Apropiación Social del Museo del Arrecife Uribe 121”, impulsado por... La entrada Inician programa educativo sobre el patrimonio marítimo de Rosarito s",
+  "temas": [
+   "Cultura y tradiciones",
+   "Educación"
+  ],
+  "local": true,
+  "id": "68a7dde8bde2063d"
+ },
+ {
+  "titulo": "Hombre de 62 años muere tras desvanecerse en calles de Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/hombre-muere-desvanecerse-veracruz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:06:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Un hombre de 62 años falleció en Veracruz tras desvanecerse en la banqueta de la avenida Allende.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ca64d801d193b49d"
+ },
+ {
+  "titulo": "León XIV se despide de 3.5 millones de argentinos en Luján",
+  "liga": "https://elcongresista.mx/politica/nacional/papa-leon-xiv-lujan-misa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:04:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "El Papa León XIV se despidió de Argentina con una emotiva misa en Luján, donde asistieron 3.5 millones de fieles.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5416c1eb90030bd8"
+ },
+ {
+  "titulo": "Mauricio de Alejandro demanda policía municipal y atención en Reynosa",
+  "liga": "https://elcongresista.mx/tamaulipas/mauricio-de-alejandro-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:04:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Mauricio de Alejandro demanda la creación de una policía municipal y propone instalar 100 cámaras de seguridad en Reynosa.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "9de335c786d04339"
+ },
+ {
+  "titulo": "Analía Franchín responde sobre polémico catering en misa del Papa",
+  "liga": "https://elcongresista.mx/politica/nacional/analia-franchin-polemica-catering-misa-papa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:02:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Analía Franchín defiende su asistencia a misa del Papa León XIV ante la polémica por el catering VIP.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8c43ee19cb29bb61"
+ },
+ {
+  "titulo": "Vinculan a proceso a mujer por violencia familiar en Aguascalientes",
+  "liga": "https://elcongresista.mx/politica/aguascalientes/nayeli-n-vinculada-proceso-aguascalientes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Nayeli “N” fue vinculada a proceso por agredir a su familia en Aguascalientes y enfrenta prisión preventiva por el riesgo que representa.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2970ef840c3ebd3c"
+ },
+ {
+  "titulo": "Vecinos de Colonia Oaxaca Exigen Puente Seguro ante Próximas Lluvias en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnBuYWU4Sm9Pb2xLZW9tMWVRcEdhT1lkaWtucGN1bmR0MWJMbU1RWjdralpGVEZtY0JwQlQ4QlRaN1lZeDNHaF9nNmxrenBGa2YxMnBVN3BnV3F1Rm5QR0RpOFZxZE9rd29MQTJ3QS01QjUwYXFoaVlNMW0wOGpiWmNNNjhGNmQ4YURLUkp4VS1KSFhhZUg4MnNScnNDVWNvb0p6VS1VbUR0VXhCUlpHbHdsU3hMN0gyTzdLS1VrNlg1WlJZeUt6NEFB?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T20:58:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Vecinos de Colonia Oaxaca Exigen Puente Seguro ante Próximas Lluvias en Ensenada N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "7c6ffe92dbfc7a41"
+ },
+ {
+  "titulo": "Detienen en Tijuana a presunto operador financiero de “Los Aquiles”",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3Y2ZEVVaWhHVUx4dm5JUTF3RlNSTzhwLXNwZmQ5YkpNd1otMHIyZF9IdXBOMnA3ZHExYXhzLW5qSHA0RXp0RDN2cllVYW9xVDQtMV9RVDJzRTgyTU9ORjdkM0k3blY2dVNyRjFVbWl0WE5Gc1pMUUczdC1fNzZ6bjBSd3N6X3luZ3ZnSVRNWHVYUi1vTkwzdVBkSFNsMDUtQXpF?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T20:55:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Detienen en Tijuana a presunto operador financiero de “Los Aquiles” Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "66e03bb36074c511"
+ },
+ {
+  "titulo": "Asesinan a balazos a Eduardo Valdovinos, aspirante de la 4T en Michoacán",
+  "liga": "https://jornadabc.com.mx/principales/asesinan-a-balazos-a-eduardo-valdovinos-aspirante-de-la-4t-en-michoacan/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T20:53:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Hasta el momento se desconoce el móvil del ataque; asimismo, no se reportan personas detenidas por estos hechos La entrada Asesinan a balazos a Eduardo Valdovinos, aspirante de la 4T en Michoacán se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "e2c09cf4ef53475d"
+ },
+ {
+  "titulo": "Temblor en México deja 90 sismos anuales de magnitud superior a 4",
+  "liga": "https://elcongresista.mx/politica/nacional/temblor-mexico-sismos-anuales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:50:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "México registra más de 90 sismos anuales con magnitud superior a 4, destacando su actividad telúrica en el Cinturón de Fuego.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c5eac04340733ff1"
+ },
+ {
+  "titulo": "Detienen a “Beto Leyva” en Baja California por tráfico y secuestro",
+  "liga": "https://elcongresista.mx/politica/baja-california/detienen-beto-leyva-baja-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:50:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Capturan a “Beto Leyva” en Baja California, acusado de tráfico de personas, secuestro y lavado de dinero.",
+  "temas": [
+   "Seguridad",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "b4268e620b9c5d89"
+ },
+ {
+  "titulo": "Julio Castillo presenta propuestas a taxistas de Mérida",
+  "liga": "https://elcongresista.mx/politica/yucatan/julio-castillo-propuestas-taxistas-merida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:48:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Julio Castillo se reunió con taxistas en Mérida para presentar propuestas sobre cuotas y modernización del gremio.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ab287792fa3ff662"
+ },
+ {
+  "titulo": "Luis Navarro valora apoyo de AMLO y Sheinbaum para educación en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/apoyo-amlo-sheinbaum-educacion-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:47:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Luis Navarro destaca la colaboración de AMLO y Sheinbaum para mejorar la educación y la infraestructura en Michoacán, el 11 de noviembre de 2026.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "887fc2585aa1df8e"
+ },
+ {
+  "titulo": "Aprehendieron a un agresor sexual prófugo",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wb01fZDNsNW9qcGEtRTFocHl4UkdmRk5XbHVjVHNubDh2ek5raWd2X3d4RjE4cHladVBkeERfUnJxaFhqX0dIMmhtVWxBcWh6eUpZRUpvdjZjUGs?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T20:46:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Aprehendieron a un agresor sexual prófugo Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2acc1b82623ef9f9"
+ },
+ {
+  "titulo": "El Dragón de la Inmaculada despierta en Morelia antes de diciembre",
+  "liga": "https://elcongresista.mx/politica/michoacan/dragon-inmaculada-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "El Dragón de la Inmaculada despierta en Morelia, anunciando el inicio de las festividades navideñas con su impactante figura mecánica.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8705a62c6b1a727e"
+ },
+ {
+  "titulo": "Siete detenidos y decomiso de drogas en Cajeme",
+  "liga": "https://www.uniradioinforma.com/policiaca/siete-detenidos-decomiso-drogas-cajeme-n913934",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T20:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "La PESP realizó despliegues en seis sectores del municipio.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "ede17c1a74ff9a1a"
+ },
+ {
+  "titulo": "Hombre atropellado por expareja de suegra en Saltillo, investigan caso",
+  "liga": "https://elcongresista.mx/politica/coahuila/joven-atropellado-saltillo-expareja-suegra",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:34:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Javier Alejandro, joven de 20 años, fue atropellado en Saltillo por expareja de su suegra, quien lo amenazó previamente.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4f4c51b5006dc3eb"
+ },
+ {
+  "titulo": "UDC informa que 2,800 vehículos circulan en 14 estados de México",
+  "liga": "https://elcongresista.mx/vehicular/udc-circulacion-14-estados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:33:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "La UDC anunció que 2,800 vehículos pueden circular en 14 estados de México bajo ciertos acuerdos de tránsito.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c93c3a2f29d34954"
+ },
+ {
+  "titulo": "Entregan 700 becas para la transformación a estudiantes de Tulancingo",
+  "liga": "https://elcongresista.mx/politica/hidalgo/entrega-700-becas-tulancingo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:32:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Se entregan más de 700 becas a estudiantes de Tulancingo para prevenir la deserción escolar y fomentar la educación superior.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d9d34c88cfc03a43"
+ },
+ {
+  "titulo": "¡Buenas noticias para quienes buscan visa americana!",
+  "liga": "https://www.uniradioinforma.com/sociedad/buenas-noticias-quienes-buscan-visa-americana-n913932",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T20:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "El cónsul de EU en Hermosillo confirma menor tiempo de espera.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "84477f61310329b3"
+ },
+ {
+  "titulo": "Transporte urbano suma cuatro unidades siniestradas",
+  "liga": "https://www.uniradioinforma.com/sociedad/transporte-urbano-suma-cuatro-unidades-siniestradas-n913930",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T20:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Dos fueron pérdida total.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "63a76eac69bad16c"
+ },
+ {
   "titulo": "Detienen a Óscar “N” por feminicidio de Karla y Osiris en Tláhuac",
   "liga": "https://elcongresista.mx/justicia/detienen-oscar-n-feminicidio-karla-osiris-tlahuac",
   "medio": "El Congresista",
@@ -26,6 +446,20 @@
   ],
   "local": false,
   "id": "ed41a955af5dbfcc"
+ },
+ {
+  "titulo": "UABC abre sus puertas en Mexicali, Tijuana y Ensenada para promover la ciencia, el arte y las humanidades",
+  "liga": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTTc4N2J6b3ViTjBiN2FUenRKQXA5dFdLSnQ1RFFRamI5SlFNbHpia3lhQW5uT3hzU3VYOWM0TUZ1SVNKbWlvam1RZFg2WXBpRFg1ODV4U0txS3hBLXlRd1ZId21uMVM5UWtOc2JEU056aU1UX3JieFJ1WWlsTjk4bE5mZEtEMm51dHE4TXdWaVY3YjVhem9tdnE5TVNwVm9ocVNMdmd5c2VLVGlod204QzVaaDNQSFhvTHNIM0F1ZmxiUkpzUkZHR1c3S2ozNDl0V3hwOXlHTDB2MHIxY0F2a3FmYmk4Sk5QVGxUVdIBhwJBVV95cUxOWWFjajFoQjlQUlNLMnVvVkRTMkVnY2J2U0dTLVVPUTlDZTdWN05iX281bzRVVmR5dDBZWGZCRHVKakF5U1JYMFZQeVNfUzZOVGFzNVJvdVV5aVFvTVdLT1llRkZzY0tNR0hmMkEtS0E5UkdZTk96bFQxWVZKUVhBOGVpT0JmNVNxTVoxSTRxNTJKaG1Ga214TDY4YzV2NFpUREFoeHptSkNJbzYtRUhHTFgzUTY2N2tTQTNRMWdLcHU1M1MwcG9oWk9BdUtLWVd1eEl0aXZIaEFHNUZTaTlyazlacHYtZTRoUUtwRVpITXItOUV2U2c2V1VIT1F4bDAyUm5BYk9jcw?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-11T20:19:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "UABC abre sus puertas en Mexicali, Tijuana y Ensenada para promover la ciencia, el arte y las humanidades El Imparcial",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "fcee6b7095199789"
  },
  {
   "titulo": "SE LARGA EL FESTIVAL INTERNACIONAL DE CINE DE ENSENADA",
@@ -128,6 +562,21 @@
   ],
   "local": true,
   "id": "e7a2a64a235d1f36"
+ },
+ {
+  "titulo": "Muere Regina Torné, actriz ganadora del Ariel por Como agua para chocolate",
+  "liga": "https://www.uniradioinforma.com/fama/muere-regina-torne-actriz-ganadora-ariel-como-agua-chocolate-n913928",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T20:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Ventaneando y TV Azteca difundieron la noticia y recordaron el papel de la actriz como Prudencia Gutiérrez en la telenovela La Loba.",
+  "temas": [
+   "Agua",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f488a81890ac8c30"
  },
  {
   "titulo": "Movimiento Ciudadano acusa al PRI y PAN de bloquear protesta de diputada",
@@ -472,6 +921,20 @@
   ],
   "local": false,
   "id": "7b08a8adb907892f"
+ },
+ {
+  "titulo": "Familia de Valentín Elizalde rechaza vínculo con documental sobre su asesinato",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVlyS0U2QktJY3NwcUd6SG9ReUhlby16SmNEVWFyWnpWS2Vqbjg2WnJfbklSZDNHZHR3dEQzV1ZuSm9Vb2pTc2JmLVk3bWN1X0ktSWJHclNzU2Zua2lEZVRIRWVDekc3WUR4N2dUQ0JaZk1LX01acXFnMXFBdkdkVlVvbUFHZHZBbjFkZXRHaHdPNUVjeDFob1d6Qk9PUm5Ub3g1RnNTZTlzYjN5S2FQdGFnblpZUU8xNjNZRA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T19:41:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "Familia de Valentín Elizalde rechaza vínculo con documental sobre su asesinato Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4c3278b4760c3ba2"
  },
  {
   "titulo": "León XIV regresa a Perú tras años de labor pastoral; visitará cuatro ciudades durante su gira",
@@ -1149,5 +1612,20 @@
   ],
   "local": true,
   "id": "22970e65d1c09f60"
+ },
+ {
+  "titulo": "CETYS impulsa alianzas para el desarrollo de la vivienda en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTBWY2l5RVA4ZnBaTG5hTXpqSnVFTXB1bVNmTTd4QUxFa1Jzdi1NNGRfaXRIQXdISVVzaEctYWJTS0FzS3EwZ3BKQzNnRnVtdVN4dUh3SkcyZ2dfTy02Mk9Ncm5XYVJMcXNDcWZHc0lsNG92RlZfb2Y2WWlNYnJ5bTlUSFZoYWloekZkSmFPeWsyeEJqT3R1MmVGeTFVdEVC?oc=5",
+  "medio": "CETYS Universidad",
+  "publicada": "2026-11-11T18:30:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T21:25:57-06:00",
+  "resumen": "CETYS impulsa alianzas para el desarrollo de la vivienda en Ensenada CETYS Universidad",
+  "temas": [
+   "Política y partidos",
+   "Educación"
+  ],
+  "local": true,
+  "id": "fa74b2a92119ca29"
  }
 ]
