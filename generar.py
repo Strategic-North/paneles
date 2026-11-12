@@ -18,11 +18,11 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 CDMX = timezone(timedelta(hours=-6))  # CDMX no tiene horario de verano desde 2022
-# Hora del corte (CDMX). Hasta el corte del 11.11.2026 fue a las 20:00; desde el del
-# 12.11.2026 es a las 18:30. El del 12.11 es de transición: del 11.11 20:00 al 12.11 18:30.
+# Hora del corte (CDMX). Hasta el corte del 10.11.2026 fue a las 20:00; desde el del
+# 11.11.2026 es a las 18:30. El del 11.11 es de transición: del 10.11 20:00 al 11.11 18:30.
 CORTE_ANTERIOR = (20, 0)
 CORTE = (18, 30)
-CAMBIO_DE_CORTE = date(2026, 11, 12)
+CAMBIO_DE_CORTE = date(2026, 11, 11)
 DIAS_RECIENTES = 3  # cuántos días hacia atrás se aceptan notas nuevas
 # Casi la mitad de los medios rechaza el User-Agent de Python: se usa uno de navegador.
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -236,7 +236,7 @@ def ventana_corte(dia):
 
 def dia_de_corte(cuando):
     """El corte del día D cubre del cierre del corte de D-1 al cierre del de D (CDMX):
-    de 18:30 a 18:30 desde el 12.11.2026; antes, de 20:00 a 20:00."""
+    de 18:30 a 18:30 desde el 11.11.2026; antes, de 20:00 a 20:00."""
     if cuando.tzinfo is not None:
         cuando = cuando.astimezone(CDMX)
     dia = cuando.date()

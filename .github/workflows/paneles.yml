@@ -2,7 +2,7 @@ name: Actualizar paneles
 
 on:
   schedule:
-    # Cada 30 minutos. GitHub usa UTC: 00:30 UTC = 18:30 h CDMX (hora del corte desde el 12.11.2026).
+    # Cada 30 minutos. GitHub usa UTC: 00:30 UTC = 18:30 h CDMX (hora del corte desde el 11.11.2026).
     - cron: "7,37 * * * *"
     # Corridas extra alrededor del corte: 18:17, 18:27, 18:33, 18:43 y 18:53 h CDMX.
     # GitHub retrasa las programadas de 15 a 55 minutos en horas de carga; con varias,
