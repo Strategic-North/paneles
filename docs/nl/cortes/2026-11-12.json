@@ -1,5 +1,333 @@
 [
  {
+  "titulo": "Se Comenta",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHcwM3lLbFd5czdYWnYxemdubzc1b3EwWXFBQ0FXeEFaSk41ZmZsN2lBZUhwY21MaU9GczZvbi1FU3Zrejg1ek5WYnFEU0xLRWt6bFNIdUpFMkUybWFBbE9JcVNma0UxZng1SnE2UTgzSjFjTzRhMGQ2cmRnNXlEdHA2SFFHaFNPM2VQZzdEazTSAZABQVVfeXFMTm1rYXoyT2N5MHFJQmdlaW9RY0N5aDVBVWpUSHkxd19XZk9MZWxwa2xndXNhLUdrYzQ3QXhNYndnS0MwaHRPRGdlR0ZrT2IwN2FxeUhLMm5TVG1ZRW1Xc3JaSVlZVDg0aFJGS2doS3BSUVFTTlljTkJ2b0hEejlzZ0V5cFhFd2llMm5EMEpud0Qw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T05:11:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Se Comenta Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b737ea5b16c19c85"
+ },
+ {
+  "titulo": "Gobierno de Zuazua anuncia Gran Feria del Empleo en Valle de Santa Elena",
+  "liga": "https://www.posta.com.mx/nuevo-leon/gobierno-de-zuazua-anuncia-gran-feria-del-empleo-en-valle-de-santa-elena/vl2278085",
+  "medio": "Posta",
+  "publicada": "2026-11-12T05:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "",
+  "temas": [
+   "Cultura y tradiciones",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "4d9d5fb805e5a28d"
+ },
+ {
+  "titulo": "Malas cuentas del Congreso de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVQwT1dzc0JraTBwNHpER2ZVbDVGTFZTcGs0d3lwb1c5X1Y3MUg0N1l1LTFGUUZ6QkFUM19QYThRLUZ2Ymswd3h5cVhKWldYT1o3MzBHeF9fN191N0xPRlktTWs0N3lUbERhRmdxcTlxNEQyUU5RblpGV3RnMjR1Tk9QbXE3bGwzYm1hbkR2RQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T05:04:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Malas cuentas del Congreso de Nuevo León El Horizonte",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "fbd126bc64916f4d"
+ },
+ {
+  "titulo": "La hora de los destapes",
+  "liga": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TWGpoWTg4UGRMeHE1LV9fSXRtRFVlZzhSdHVRZVl4S09HM01nTk1VaDhIVURLbXJyTE1MSDZrX0s4ZXBvRWZIZ2xXYURvTXVxTExPTWZ2N3BfOXQ4aEJTcTkwclBaa0U5RThFdlBqQUYtUWpOMHFMZQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T05:04:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "La hora de los destapes El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bb09c080e4fdbe28"
+ },
+ {
+  "titulo": "Matías Almeyda, técnico de Rayados… ¡únete a la fiesta!",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjBDSVk4OFhyTXVXb2RGNFlKdXRPc18wNkpkb2ZWd2h0cmhNc3ByUjF3elZZaWttb21jMEt6TDk3ZUg0aXg1aHFhUDZFbndOWUl5LW8zVV81SDJZV09kV055cGRNN2FBQWprS2pCcVFwVW85eHBLa2x0ekdSOXM4UzdOMGtjX3o5dExCZlBKeE1zaE1ZU2NXMGNqMi10WVE?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T05:04:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Matías Almeyda, técnico de Rayados… ¡únete a la fiesta! El Horizonte",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "17216fa8de32cfeb"
+ },
+ {
+  "titulo": "Dinastía Vs Resurrección, en Final de la Liga Intrauniversitartia",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzZyY2toYXVfeGVYZjVZUjFOdkZxWTFIMDZRck5nUWlKWm1lVG51NWhKa1NrQkEtUVF1a29kN0NPNkRIMU8zOGZnaG9OMVdhMVRFWktfaVFVc0JPVUJmVWdLVkZNbFNQYW05b0FCaGluTkFvMDNaeF8zNHV3X09oQi1RUDNBM3RXa2ZNX3hzMlhBUy1SNDE2bVVUM3RPUWJ6dE5SNk5HUnQ1MDJWNm1KMw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T05:04:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Dinastía Vs Resurrección, en Final de la Liga Intrauniversitartia El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "75aae7b84df132dd"
+ },
+ {
+  "titulo": "Tres equipos y sólo un liderato: ¿quién se adueñará de la cima?",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXNTZlNaMG9KVVd1bHFJbkRtZzRvbGYyb3BaajZQSk9fcXJUMXVqOW9paElfcWNBYlVaREdyOTY1NTMzZUZNYWdPNHJJeHpCbFZOeTBIbUJIVUUzeTRpZjZmWVltLXVzbmdwcUhqU3U0MXRFUjl0NEkyeXZNVm54LVY2di1mV3g3VXR2QjdKelpCcXQ5YzdvREpibDdYZktKeFNJZVdDdEVDRE0?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T05:04:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Tres equipos y sólo un liderato: ¿quién se adueñará de la cima? El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5bfd6c398f833950"
+ },
+ {
+  "titulo": "Presionan acero y cemento",
+  "liga": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95Rk1VMWtnYWJ3VTFhaHNvVEIwcmdRc01pbzdXdjd6UUlzSkpEVVlDY0dvSU9BNUx6bFlfNE8xMk5JYy1MVHRyMzhna2l0VW9razhmQkhsVTNIb1dRM3drQUpfWGM1NkRvRVR5UDM5bVM5ZXRSRzZkcmNnMA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T05:02:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Presionan acero y cemento El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "19aa8b2fb9f30efa"
+ },
+ {
+  "titulo": "Costos de construcción suben 140% en NL y asfixian vivienda",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFZkSFFpTjVKRUpjcGhaaW5PT0JCeW5Hc0JlenI2bkNWNUlkSlhOSlVJMDhpYzFxbHdhRjJGRkJmWHhaTkR2RDIwcVMxUnVfZEpXUlBnMjlLT21GUDRGMTVRMDdHLUR3eVVNZ0FlVHZaR2ZBNmZkYllqQW1nQ2xBdXdOeEJBWWd2QzFGN0dIX1g0NWp6cVFkTWpzWXhMWkM3R2tQYVlMcl8?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T05:02:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Costos de construcción suben 140% en NL y asfixian vivienda El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "39bf99345c4b9152"
+ },
+ {
+  "titulo": "Prevén inflación médica de 12.8% en México para 2027",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU9GYklFUXR0bmNzTlVlVmduaFRfb3g3YkVpMHpEa3Ffb1hMWTk1VUUxWDd2MjducnNnalVIREZFeFpLdWNrYk0wdVp1cUhCYnk0Z2Z4dzNXMDluZlBaamRlZ2RCdV84MGRNbGV3TXNNRDhSLUM0dG9YTEZNdFFEbTlUNHZTSHViQVJPbDFPaWNMazFLMk9yOWxYSFg5ZTA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T05:02:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Prevén inflación médica de 12.8% en México para 2027 El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "e9b3de7f9e01a264"
+ },
+ {
+  "titulo": "Monterrey exige frenar desfogue",
+  "liga": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QXzVMYTFqQjh5a2Qtc0d0b05XT2x6NWNqT0tRbDZsWVdwNlI4TmUxcWJfV2JwWWNHYmdGODd5TzMtZi0tWm1KN1R3S0Z2a2paZUpjM0NNM2gxNlFWOWhqMmEwbTZKeXVEWXFYbUFXejBQeHRzS0ZIZQ?oc=5",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Monterrey exige frenar desfogue El Norte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f658884f297d7abf"
+ },
+ {
+  "titulo": "Esquivarán cruces saturados con ballenas voladoras",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDlWaFZhNFY3Y1pfdTlFOXM2d3hreFlrQm1hZzVKaXlLVm1iTm5EdUdJTXNGVXRmaFo4djFNRXpHbEEtQkFKWVhQUVRBaUVaRWp4bkUzRWFnMHk2d0ZGMlVIVzV3djRFZTBHRVp0d0tYNm91TVBrVElEQTBUc3o3U1h2WUc3clNyXzBZWg?oc=5",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Esquivarán cruces saturados con ballenas voladoras El Norte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0bfe938d4c3aaacb"
+ },
+ {
+  "titulo": "Frenan en Sabinas planteles naranjas",
+  "liga": "https://www.elnorte.com/frenan-en-sabinas-planteles-naranjas/ar3313206",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "El Alcalde Sabinas Hidalgo, Daniel González, dice que ha logrado impedir que personal estatal pinte de naranja escuelas de ese municipio.",
+  "temas": [
+   "Gobierno municipal",
+   "Educación"
+  ],
+  "local": true,
+  "id": "a2bd18b878301e39"
+ },
+ {
+  "titulo": "Concluiría en una semana el trasvase de El Cuchillo",
+  "liga": "https://www.elnorte.com/concluiria-en-una-semana-el-trasvase-de-el-cuchillo/ar3313177",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "El desfogue de la Presa El Cuchillo alcanza el volumen máximo previsto por la Conagua; a ese paso terminaría el próximo miércoles.",
+  "temas": [
+   "Clima",
+   "Agua"
+  ],
+  "local": true,
+  "id": "06bb32d5edf04437"
+ },
+ {
+  "titulo": "Edición facsimilar celebra a Sor Juana",
+  "liga": "https://www.elnorte.com/edicion-facsimilar-celebra-a-sor-juana/ar3313132",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Por el 375 aniversario del nacimiento de Sor Juana Inés, Tec de Monterrey y Fondo Editorial de NL presentan hoy histórico ejemplar en CDMX.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "69c8dec1a7661a0f"
+ },
+ {
+  "titulo": "Quiere Luis de Llano evitar autoincriminación",
+  "liga": "https://www.elnorte.com/quiere-luis-de-llano-evitar-autoincriminacion/ar3313224",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Revela Luis de Llano en un documento al que REFORMA tuvo acceso, que Sasha Sokol pretende que lea un mensaje para llevarlo al terreno penal.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e982f14349248a05"
+ },
+ {
+  "titulo": "Exige IP de Francia certeza para invertir",
+  "liga": "https://www.elnorte.com/exige-ip-de-francia-certeza-para-invertir/ar3313223",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Representantes de Teleperformance y OMA afirman que inversión de continua de empresas francesas en México depende de certeza jurídica.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "3f2205f1764ab4a6"
+ },
+ {
+  "titulo": "Paran perdón a Cruz Azul entre conflicto de interés",
+  "liga": "https://www.elnorte.com/paran-perdon-a-cruz-azul-entre-conflicto-de-interes/ar3313221",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Cruz Azul, TFJA, Tribunal Federal de Justicia Administrativa, Cooperativa Cruz Azul, Rafael Anzures Uribe,Nacional,Corte y tribunales",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "59f4fba07d42dcda"
+ },
+ {
+  "titulo": "Revisará Fiscalía uniformes y terreno de Oyervides y Arratia",
+  "liga": "https://www.elnorte.com/revisara-fiscalia-uniformes-y-terreno-de-oyervides-y-arratia/ar3313212",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Fiscalía podría investigar a la Alcaldesa de Juárez Mónica Oyervides y su esposo Félix Arratia, por la asignación de contratos millonarios.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "fbd9855eecd1de70"
+ },
+ {
+  "titulo": "Para al INE: recortes; a partidos: 47% más",
+  "liga": "https://www.elnorte.com/para-al-ine-recortes-a-partidos-47-mas/ar3313222",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "La Cámara de Diputados recorta 11 mil mdp al presupuesto 2027 del INE, pero deja intacto un aumento de 47% para los partidos políticos.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "d7fa80f28f80b775"
+ },
+ {
+  "titulo": "Previo a entrar al Gobierno, no hubo ganga",
+  "liga": "https://www.elnorte.com/previo-a-entrar-al-gobierno-no-hubo-ganga/ar3313217",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "En 2020, antes de entrar al Gobierno, Félix Arratia compró a crédito una finca en Santiago por 7.5 mdp, de menor tamaño que la de su esposa.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "144a50eb6e34260f"
+ },
+ {
+  "titulo": "Prepara Nvidia salida de Huang",
+  "liga": "https://www.elnorte.com/prepara-nvidia-salida-de-huang/ar3313218",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T05:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Nvidia alista la salida de su fundador y CEO, Jensen Huang, luego de revelarse dos relaciones extramaritales que violarían su código interno",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "43b3064d3ed9e4ac"
+ },
+ {
+  "titulo": "REDES DE PODER MTY: El desplazado",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0dDTmFkNy1lMktTd2VYNm1jVXI5OWRNLUVBRHZrRXJBU011aFpLWjBqcDZ2bHRGQm55bkgyXzRlcnN2bUx4WFo0Vkt5aWI2QXo1MGRSMVlvVmlOWjAtWkV0UUlwcXBrcWN1WjgxZkljUERqcHRtNzlGTmpqcGtid1lVM3VCOVRWSGQ0cWlyNjRLSlk?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-12T04:44:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "REDES DE PODER MTY: El desplazado Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3e075503d8961633"
+ },
+ {
   "titulo": "Trascendió Puebla",
   "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0dvX2NNRTNqbFNLdjlCVl9MUXFZRHF2bTB1SEN3Uzl5MUVfbzJkZW5fZDBWWFNtamZLMnloMFozRWlad29ZOVNkS0Z2SU5nSWROak9keWpqREdNaFgwOFhCa3RaeEhpVFlITTkwQV95Y3RMYTYybDRoOEFxUVM5Tl96LUhtVHNTUFJ4dNIBjAFBVV95cUxPUmxKdDlDRmpBZ0wxcXMzeTJkLW5rcHBYQVQ3WnhVRE5ndHpNbFpJcVY1MVJCekVYd1ByMXZCclRTVmYwZmJIU3d4QU42d3E3amo3VVBWcENCRDNBTGVtRkd6SHY5QmdQM3ZlaGhQWEVTaWVZbzk1bHA1WGZ0eXk3TlVyRlBTUUFROG1uTw?oc=5",
   "medio": "Milenio Monterrey",
@@ -12,6 +340,20 @@
   ],
   "local": false,
   "id": "73ff819b44311be9"
+ },
+ {
+  "titulo": "Denuncia anónima ‘destapó’ la investigación de la FGR contra Inés Gómez Mont",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1h6WWN6dDdEdkJTakxNWHB5bWVocF83Yy1ndU9BeURucUdRLWlOc2o2VFM2SDFFaFBsTERnUDdtMndOSTBKbzZjODF5ZUVQcS1rdDZ0MmtPYVBaZVNhcndEZENmNDhLNndkaUYzdU11NXV6TXBPMmw1Sjdwdy0zeUJCanJheHlJQWliUUhQeno2VjBJdlc2R2JXSVpiRUpoRE04THN3azFkajJtN0N0eU1zM1FUcnY4X2NMaVNZS1FXeDVfQUE?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T04:20:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Denuncia anónima ‘destapó’ la investigación de la FGR contra Inés Gómez Mont El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6b583adeeecfc05b"
  },
  {
   "titulo": "Precio de la gasolina en Nuevo León este 11 de noviembre",
@@ -496,6 +838,20 @@
   "id": "c7e39dbf55dd5491"
  },
  {
+  "titulo": "Ataque atribuido a Israel deja seis muertos en hospital de Gaza",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUp1YWg1cV9VUVpKX2hObGRLUmJZa1Y2SGJhTDF0cWNTTnZvaEhxcGJHanY0b09oc3FOR0ItLTh2M3hsajJISklKbDU2a3VUbHEzT1Z4WnktOC1TUFFBSEJMWkMta1pJUy1DR0w0UGRZTW16eGtfcV9xN3RDVk5ITC1xMnhvSlRwcFBnR2dDaGVUSU5VSEpSYkJtNU9QYWtmMWl4M3duLWk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T23:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Ataque atribuido a Israel deja seis muertos en hospital de Gaza INFO7",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "32a6163f02717421"
+ },
+ {
   "titulo": "Rayadas gana 1-0 en Pachuca y se acerca a la Semifinal",
   "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2RrTmJWS1ZRQXlsdmI2a2pmbUtNOVo5SkV6NWZFdEZtNlFXZ3phYW9TbER1cGVYVWJ5T0xJemZEVUsta3YwVVluNjVZN2VySTItVWo1XzJwZER5Y0VvcmtwRGg1NlhzNUY3YmxaalEwLXZPcUxlMnlXdUFyMnlhT2FWZlBIMk5VQjBadnNlQWdFSTJIbmxsV2I3alZicGx6VFFn?oc=5",
   "medio": "El Horizonte",
@@ -550,6 +906,20 @@
   ],
   "local": false,
   "id": "f250f695152fd926"
+ },
+ {
+  "titulo": "América Femenil golea 3-0 a Toluca y se acerca a semifinales",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjloQkJGak8xM05FZ1Baa1ZYU0xINEI3c2FTWmZTdG1RNUJELVRYS3B6dlBBc05ieldrZTlBWXhqNElKVlcweHBOMGxuTFVrYmxRSHJ5eE9RbUlrUHo0S2Z5bl9YbmF6SzVMX2pJOWNEUnlSRnp1NTA1LWdvekZ2WFZickptdHZsMHJ2R1A0ZTRTcDhFd0tmTjhwNGptdw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T23:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "América Femenil golea 3-0 a Toluca y se acerca a semifinales INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2fc9abd2c5bad67b"
  },
  {
   "titulo": "Saskia Niño de Rivera revela extorsiones en penal de San Miguel",
@@ -776,6 +1146,20 @@
   "id": "00ac7657bcdf19db"
  },
  {
+  "titulo": "Asesinan a Eduardo Valdovinos durante cabalgata en Michoacán",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYkRoZlJ4NVd1T0dpaUZxa0podlJTNXkzNk9wcDBNOXdFY2paSndacnBGSHdmUDIyN1N3d0NhY3NqbVR5WUlUZGxjV0U0bmdOYVNvRUpvUEFTVWRuYnlLSHYzc080VXZ3SU5YdWFsek5sUkVpM2wwMjhidUo3LWhMbHZ4dlBhNVQ0STE2M3pyU0g3TTMyYUhYV2RvVktIQQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T22:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Asesinan a Eduardo Valdovinos durante cabalgata en Michoacán INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1fb640e6efa1fd82"
+ },
+ {
   "titulo": "Guadalupe realizará jornada de vacunación invernal en DIF Las Sabinas",
   "liga": "https://www.posta.com.mx/nuevo-leon/guadalupe-realizara-jornada-de-vacunacion-invernal-en-dif-las-sabinas/vl2278112",
   "medio": "Posta",
@@ -788,6 +1172,20 @@
   ],
   "local": true,
   "id": "a73a4f5faaffa151"
+ },
+ {
+  "titulo": "Anticipan inflación por paquete fiscal",
+  "liga": "https://www.elnorte.com/anticipan-inflacion-por-paquete-fiscal/ar3313168",
+  "medio": "El Norte",
+  "publicada": "2026-11-11T22:36:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T05:34:58-06:00",
+  "resumen": "Cambios fiscales del Paquete Económico 2027 tendrán efectos inflacionarios en corto plazo; provocará encarecimiento de bienes y servicios.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "880f7fb66cd67f7c"
  },
  {
   "titulo": "Fausto Pretelin analiza derrota de Donald Trump",
