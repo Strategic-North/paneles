@@ -1,5 +1,592 @@
 [
  {
+  "titulo": "“¡Viene mi niña!”, gritó la policía estatal antes de que los sicarios de ‘El Nenuco’ le dispararan",
+  "liga": "https://puntonorte.info/2026/11/11/viene-mi-nina-grito-la-policia-estatal-antes-de-que-los-sicarios-de-el-nenuco-le-dispararan/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-11T22:33:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Tijuana.- Dalia Consuelo Espinoza Suszek acababa de subir a su hija de cuatro años al carro para llevarla a la escuela cuando un vehículo se colocó detrás de ella y le bloqueó el paso. La agente de la Fuerza Estatal de Seguridad Ciudadana (FESC) logró darse cuenta de que iban por",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "437819b9eebf2241"
+ },
+ {
+  "titulo": "Michoacán registra 27 homicidios dolosos de menores en 2026",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-homicidios-menores-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:32:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Michoacán registra 27 homicidios dolosos de menores en 2026, concentrados en Zamora y Apatzingán, según la FGE.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0500f660b419908f"
+ },
+ {
+  "titulo": "Eréndira Castellanos se convierte en precandidata del PAN en Zamora",
+  "liga": "https://elcongresista.mx/politica/michoacan/erendira-castellanos-precandidata-pan-zamora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:32:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Eréndira Castellanos es confirmada como precandidata del PAN para la alcaldía de Zamora, tras ganar la encuesta del partido.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "eaefbd61976a60e5"
+ },
+ {
+  "titulo": "IEM y Congreso de Michoacán firman convenio para consulta educativa",
+  "liga": "https://elcongresista.mx/politica/michoacan/iem-michoacan-convenio-consulta-educativa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:31:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "IEM y Congreso de Michoacán firman convenio para consulta sobre la reforma a la Ley de Educación, promoviendo la participación ciudadana.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "eba7531e238ff7b7"
+ },
+ {
+  "titulo": "Atienden incendio en vivienda de la colonia Camino Verde en Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/atienden-incendio-vivienda-colonia-camino-verde-tijuana-n913938",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T22:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Bomberos trabajaron para controlar y extinguir las llamas; hasta el momento no se reportan personas lesionadas y aún no se determina cuántas viviendas resultaron afectadas.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "6e578747ee29736f"
+ },
+ {
+  "titulo": "Ataques en Michoacán dejan un alcalde herido y dos muertos",
+  "liga": "https://elcongresista.mx/politica/michoacan/ataques-michoacan-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:30:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "En Michoacán, tres ataques el 11 de noviembre dejan un alcalde herido, un aspirante asesinado y un policía muerto.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "7914a6c1ae7a952e"
+ },
+ {
+  "titulo": "Defensa de Danna Yanina critica revisión de su prisión preventiva",
+  "liga": "https://elcongresista.mx/tamaulipas/defensa-danna-yanina-prision-preventiva",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:22:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "La defensa de Danna Yanina cuestiona la audiencia de su prisión preventiva, señalando que se juzga más a sus padres que a ella.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "abbd7568461eeb66"
+ },
+ {
+  "titulo": "Congreso de Tamaulipas analizará 818 mdp del IETAM para 2027",
+  "liga": "https://elcongresista.mx/tamaulipas/congreso-tamaulipas-presupuesto-ietam-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:21:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "El Congreso de Tamaulipas revisará la solicitud de 818 millones de pesos del IETAM para 2027, buscando asegurar transparencia en su uso.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "6fd77361e9725802"
+ },
+ {
+  "titulo": "Aspirante de Morena en Tijuana, Ramón Vázquez propone dar más espacios a jóvenes y recuperar unidades deportivas",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV3lYeGU4ejg1TTBBTld4WHVKZ3BiSWRqb1YyTko2ZUE2aW84UkRBQlRpcThsbFVaZmE1TGE3a0dSRnQyUmttZ19pVTZFVmJoODNUX2tSSURqc1Jwd2dSMjRkUnRvX1VCR3BUVjA5ZV9NbWJrblFXOTJuT09ZU24zRHhXQWRaeFN4Y2FFMDF6LW1jaER2ZEg1MVozRENCWDV0bFNkZWxaemp5WFd5TmRTcTBGbnZaNTJiTUtCOHJYUzhaU0NDMVVGSGhtRS1JVDcxVWZlVXJhSnhqd29Yek1kZA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T22:21:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Aspirante de Morena en Tijuana, Ramón Vázquez propone dar más espacios a jóvenes y recuperar unidades deportivas Baja News",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "0a9aa7d660587a61"
+ },
+ {
+  "titulo": "Buscan a familiares de Juan Carlos Santiago Pedroza",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CWi1jNUFRMEcyMGd0ZFFlUmp1WUNhYWVaSXowWUpEeG9WOWdNN2FuTTZjdnYtNmNIOUVTeVhsTERiU282M2I4b2RYdHR2TmhvUk5SRS1pUjN3RkdnWERQSnVPOFpDM3lHYklZWWV3?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T22:21:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Buscan a familiares de Juan Carlos Santiago Pedroza Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6d3c05971acd6bc2"
+ },
+ {
+  "titulo": "Gobernador de Coahuila entrega bulevar Arturo Berrueto por 76.6 mdp.",
+  "liga": "https://elcongresista.mx/politica/coahuila/bulevar-arturo-berrueto-saltillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:20:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Manolo Jiménez, gobernador de Coahuila, entrega el bulevar Arturo Berrueto con una inversión de 76.6 millones de pesos en Saltillo.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dc2babe2366e8d34"
+ },
+ {
+  "titulo": "Resultados Tris Clásico hoy 11 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-clasico-sorteo-36927",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:20:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "El sorteo Tris Clásico número 36927 se celebró este 11 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9a6fa4c6703cbd44"
+ },
+ {
+  "titulo": "Yucatán tendrá 141 mil millones de pesos en inversión federal para 2027",
+  "liga": "https://elcongresista.mx/politica/yucatan/yucatan-inversion-federal-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:19:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Yucatán recibirá 141 mil millones de pesos en inversión federal para 2027, enfocándose en bienestar e infraestructura.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e754564ac66ac848"
+ },
+ {
+  "titulo": "Cierre de carretera en Guanajuato por fuga de gas clandestina",
+  "liga": "https://elcongresista.mx/politica/guanajuato/fuga-gas-salamanca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:18:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Una fuga de gas en Salamanca cerró la carretera a Valle de Santiago y evacuó a 30 familias. Las autoridades atendieron la emergencia sin daños reportados.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ecf41480fad2ba76"
+ },
+ {
+  "titulo": "Guardia Nacional Incorpora 21 Nuevos Elementos para Reforzar Seguridad en BC",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEk3Mms0akpYMjJrRE5IbE9RVHdidVJmQVlwTmJDRTIxQmNfWHItRTNUdF9wX0NUT1h4WTRBc3ZlSDcwcFVXdkoxSHp6Rno5Q0Y5ZTdSTkVVQml3T2prMG5UM19PS0dxSFZCZ0s4eE9LVEh5Tms4X05aOTBuY1pDaDBUWUFBNUNrRDYtMHo0LUtOYlRQd0NCREZfVzhTRXNDMzR2N0JCTldxOUk0QW9GNGV1VGlVT3RpRXhrZFEwVEl2MGZlbHc?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T22:17:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Guardia Nacional Incorpora 21 Nuevos Elementos para Reforzar Seguridad en BC N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e27f916ef01a0bcc"
+ },
+ {
+  "titulo": "Secretaría de Educación destaca programa “Pancita Llena, Corazón Contento” durante glosa del Quinto Informe de Gobierno",
+  "liga": "https://elportavoznoticias.com.mx/secretaria-de-educacion-destaca-programa-pancita-llena-corazon-contento-durante-glosa-del-quinto-informe-de-gobierno/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-11T22:12:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Ante la comisión presidida por la diputada Dunnia Montserrat Murillo López, la funcionaria informó que durante el ciclo escolar 2025-2026 se registró una matrícula de un millón 30 mil 492 estudiantes en... La entrada Secretaría de Educación destaca programa “Pancita Llena, Corazó",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": true,
+  "id": "a7205e8ab39725ab"
+ },
+ {
+  "titulo": "La Gobernadora Delfina Gómez entrega 90 computadoras en EdoMéx",
+  "liga": "https://elcongresista.mx/educacion/entrega-computadoras-mobiliario-escuelas-edomex",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:05:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "La Gobernadora Delfina Gómez invierte más de 3 millones de pesos en computadoras y mobiliario escolar para mejorar la educación en EdoMéx.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": false,
+  "id": "059c3ed5bad4040b"
+ },
+ {
+  "titulo": "Gobierno del Estado de México expide más de 18 mil licencias de conducir",
+  "liga": "https://elcongresista.mx/politica/edomex/gobierno-edo-mex-licencias-caravanas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:05:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "En 2026, el Gobierno del Estado de México ha emitido más de 18 mil licencias de conducir a través de Caravanas Itinerantes.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d9ee20116883cfaf"
+ },
+ {
+  "titulo": "Aumento del 50% en predial podría aplicarse en Playas de Rosarito",
+  "liga": "https://elcongresista.mx/politica/baja-california/aumento-predial-playas-de-rosarito-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:02:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Playas de Rosarito podría ver un aumento del 50% en el impuesto predial para 2027, sujeto a la aprobación del Congreso.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "58ae54d2e49b2770"
+ },
+ {
+  "titulo": "Ensenada: una referente del massismo desafió a Secco y ratificó su disposición a competir",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOURNcWtoRVRETlJTNnQ1QWV5aDlnSVRBUHNkQ2RaUGxKejUyZEJwMlBhOVE5S1N3YVpQUDVWSlhiS2dHMjUxb3QwQUgzM094dXJGeWQzR19CTjRKcjVWNk54ejUyaFZackVQcGRfd0RtSjhsajBIRG1lTGJBN1BMeFJhVXItQjRiQkJHR2tBMmpyLUVHUGhxUTZLbEpCNWxfdHJyUW1fTkZGUFlRT3dtNUNhN3lwb3ZXMVBzakNmWDI5WHRlUEFB?oc=5",
+  "medio": "laGacetaOnline",
+  "publicada": "2026-11-11T22:02:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Ensenada: una referente del massismo desafió a Secco y ratificó su disposición a competir laGacetaOnline",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e6b42c6073eff9c1"
+ },
+ {
+  "titulo": "Muere interno de 34 años en Cereso de Pachuca por miocardiopatía",
+  "liga": "https://elcongresista.mx/politica/hidalgo/muere-interno-cereso-pachuca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:01:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Un interno del Cereso de Pachuca muere a los 34 años tras desvanecerse, la causa es investigada por las autoridades.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1fbb28224c2cf38e"
+ },
+ {
+  "titulo": "Asociación Cívica Morelense impide a suplente de Gabriel Rivas asumir en Cuernavaca",
+  "liga": "https://elcongresista.mx/morelos/asociacion-civica-morelense-impide-suplente-rivas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T22:00:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "La Asociación Cívica Morelense impide que Alejo Carmen Lagunas asuma como regidor en Cuernavaca tras el asesinato de Gabriel Rivas.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "b8bf4c920a9f4c9b"
+ },
+ {
+  "titulo": "Gabriel Elizondo propone eliminar ISR al aguinaldo para trabajadores",
+  "liga": "https://elcongresista.mx/politica/coahuila/gabriel-elizondo-eliminar-isr-aguinaldo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:50:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Gabriel Elizondo propone eliminar el ISR al aguinaldo, buscando que los trabajadores reciban esta prestación sin deducciones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3ca5f8b98a6a1dd9"
+ },
+ {
+  "titulo": "Atacan base de la Policía en Tepalcatepec; un muerto y tres heridos",
+  "liga": "https://elcongresista.mx/politica/michoacan/ataque-policia-tepalcatepec-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:48:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Un ataque del CJNG en Tepalcatepec dejó un saldo de un policía muerto y tres heridos; se esperan refuerzos federales en la región.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cc3264ad4c027dcf"
+ },
+ {
+  "titulo": "Hasta en 50% podría aumentar el predial en algunas zonas de Rosarito para 2027",
+  "liga": "https://zetatijuana.com/2026/11/hasta-en-50-podria-aumentar-el-predial-en-algunas-zonas-de-rosarito-para-2027/?utm_source=rss&utm_medium=rss&utm_campaign=hasta-en-50-podria-aumentar-el-predial-en-algunas-zonas-de-rosarito-para-2027",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T21:48:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Hasta en 50% podría aumentar el impuesto predial en algunas zonas de Playas de Rosarito para 2027, si el Congreso de Baja California aprueba el presupuesto de ingresos que envió el Cabildo durante la tarde del martes 10 de noviembre, con ocho votos a favor y cuatro en contra. De ",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "723b77c98afc6360"
+ },
+ {
+  "titulo": "Inicia programa \"Tarjeta Jefas\" en García, Nuevo León, con mil mujeres beneficiadas",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/tarjeta-jefas-garcia-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:48:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Manuel Guerra inicia programa \"Tarjeta Jefas\" en García, apoyando a más de mil mujeres con productos básicos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cf841540a98bdf56"
+ },
+ {
+  "titulo": "Juez condena a 51 años de prisión a feminicida de la \"Barbie Regia\"",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/juez-condena-51-anos-feminicida-barbie-regia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:47:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Un juez condenó a 51 años de prisión a Francisco “N” por el feminicidio de Cindy la Barbie Regia en Monterrey.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6818447108e46a8d"
+ },
+ {
+  "titulo": "Detienen en Mérida a un hombre por presunto homicidio",
+  "liga": "https://elcongresista.mx/politica/yucatan/detienen-hombre-homicidio-merida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:46:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Detienen a un hombre en Mérida por el homicidio de un ciudadano guerrerense en la comisaría de Dzityá.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3276c23e8116a79d"
+ },
+ {
+  "titulo": "Asesinan a Eduardo Valdovinos, candidato de la 4T en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/asesinan-eduardo-valdovinos-lazaro-cardenas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:45:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Asesinan a Eduardo Valdovinos, aspirante a coordinador de la 4T, tras un mitin político en Lázaro Cárdenas, Michoacán.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f3af099a9be560b8"
+ },
+ {
+  "titulo": "Defensa de Nicolás Maduro busca frenar juicio en EE.UU. y cuestiona tribunal que lo acusa de tortura",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV2hSaUxDWms4c3hJbmdkaEhfajhmNHhkQ2xRX2ZmRUFyX1JlQUl2VnJEemcxem50bHhJT29TNmhNZ2lwbkVHbHdMbV9yWkZIVXlNbTdxVXBMWmtPNk9WTXBvOEh6blZmUmZTT2U0MV84RWw3ZVlZMXI4VWRwcktzTnpoeUlfZV9lME96S0N0alA4Y05XMEgtWkpQR2syMWFZb0ZKUHRZekFhVDhrUUVPUHlOTWZVTGM4SDlBQzFwWERYZ3hjdkhhNUp1WjZzWWFzSTZnUnhkQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T21:45:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Defensa de Nicolás Maduro busca frenar juicio en EE.UU. y cuestiona tribunal que lo acusa de tortura Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "76b908cf6e1b02a6"
+ },
+ {
+  "titulo": "Burgueño acuerda mesa con Cicese por deslizamientos en la Sánchez Taboada",
+  "liga": "https://jornadabc.com.mx/principales/burgueno-acuerda-mesa-con-cicese-por-deslizamientos-en-la-sanchez-taboada/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T21:43:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "También se acordó dar seguimiento a los estudios técnicos para definir soluciones integrales y realizar reuniones periódicas La entrada Burgueño acuerda mesa con Cicese por deslizamientos en la Sánchez Taboada se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "751d0fcf234eb9d3"
+ },
+ {
+  "titulo": "Realiza Gobierno de Tijuana primera sesión del club de lectura táctil",
+  "liga": "https://www.uniradioinforma.com/gobierno/realiza-gobierno-tijuana-primera-sesion-club-lectura-tactil-n913936",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T21:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "La iniciativa busca fortalecer la inclusión, eliminar barreras de acceso a la cultura y ampliar las oportunidades de aprendizaje y desarrollo para la población.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "83ce2fe6e2e34374"
+ },
+ {
+  "titulo": "“Están asfixiando a la gente”, dice coordinador de MC sobre aumento del predial en Rosarito",
+  "liga": "https://puntonorte.info/2026/11/11/estan-asfixiando-a-la-gente-dice-coordinador-de-mc-sobre-aumento-del-predial-en-rosarito/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-11T21:42:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Playas de Rosarito.- El coordinador de Movimiento Ciudadano (MC) en Playas de Rosarito, Salvador Sánchez Valdez, consideró que con la aprobación del incremento del impuesto predial hasta en un 100 por ciento, la alcaldesa Rocío Adame y los regidores “están asfixiando a la gente”.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "2b80b77509c804b7"
+ },
+ {
+  "titulo": "Incendio Consume Vivienda en Colonia Camino Verde en Tijuana, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbzVhTFFPdzJvdUcyR3d6akJQRmY5MnhSNkpnUVZKclBhVjZWME1JUEhaeXQ5ZFVFZnZMLUNKSmJHNUFIX25jNjgycmRhN09jdVZ2N0VkVGVHX3FyOW9uNG9mZm9qYTlNc2RXZWFEekV4SllNbWNReHFjVFVweHdUaTdJMUFWenFjZndtd01zUkhBMDdNZlBPOVVPblVlWHpXRDBmOE9PRGN1RGJCMlpTa2JHZmxMY0xvSUtfVFF2VVRMam9FRFE?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T21:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Incendio Consume Vivienda en Colonia Camino Verde en Tijuana, Baja California N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "9ff2e1163e79e916"
+ },
+ {
+  "titulo": "Gobierno de Sonora asegura más de 2,700 MDD en inversiones canadienses",
+  "liga": "https://elcongresista.mx/politica/sonora/sonora-acuerdos-canada-inversion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:35:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Sonora firma acuerdos con Canadá para más de 2,700 MDD en inversión, enfocados en minería y energías sostenibles.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aa1d37ce57ddc03f"
+ },
+ {
+  "titulo": "Cancún proyecta sumar 500 mil habitantes en 25 años",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/cancun-proyecta-sumar-500-mil-habitantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:35:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Cancún proyecta sumar 500 mil habitantes en 25 años, exigiendo un plan de desarrollo urbano sostenible para una mejor calidad de vida.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "47fb89aeee7abf33"
+ },
+ {
+  "titulo": "Sasha Sokol denuncia revictimización en redes tras abuso sexual",
+  "liga": "https://elcongresista.mx/justicia/sasha-sokol-revictimizacion-redes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:33:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "La cantante Sasha Sokol denuncia revictimización en redes sociales tras exponer el abuso sufrido por Luis de Llano cuando era menor.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "11e5a55dc160f74e"
+ },
+ {
+  "titulo": "Diez aspirantes buscan dirigir la Fiscalía de Michoacán; plazo se cierra el viernes",
+  "liga": "https://elcongresista.mx/politica/michoacan/diez-aspirantes-fiscalia-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:32:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Diez aspirantes se registran para dirigir la Fiscalía de Michoacán antes del cierre del plazo el viernes.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "36a5e8264dbe888c"
+ },
+ {
+  "titulo": "Morelia: invertirán 11 millones de pesos en centro comunitario",
+  "liga": "https://elcongresista.mx/politica/michoacan/morelia-centro-comunitario-11-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T21:30:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Morelia destina 11 millones de pesos a un nuevo centro comunitario para prevenir el delito y atender a jóvenes de la localidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "450da87ed844879f"
+ },
+ {
+  "titulo": "UIF congela cuentas de la ex directora de Talleres Gráficos de México y de su esposo",
+  "liga": "https://zetatijuana.com/2026/11/uif-congela-cuentas-de-la-ex-directora-de-talleres-graficos-de-mexico-y-de-su-esposo/?utm_source=rss&utm_medium=rss&utm_campaign=uif-congela-cuentas-de-la-ex-directora-de-talleres-graficos-de-mexico-y-de-su-esposo",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T21:29:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "La empresa Gráficas Corona JE, proveedora de materiales electorales en 2024, también quedó incluida en el acuerdo de bloqueo",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "2729b9312d86d313"
+ },
+ {
   "titulo": "FGE realiza tres cateos en Tijuana y asegura vehículos con reporte de robo",
   "liga": "https://elportavoznoticias.com.mx/fge-realiza-tres-cateos-en-tijuana-y-asegura-vehiculos-con-reporte-de-robo/",
   "medio": "El Portavoz",
@@ -28,6 +615,20 @@
   "id": "49912355904fa256"
  },
  {
+  "titulo": "Un hombre chocó en Ensenada y atacó a golpes a los policías que intervinieron tras el siniestro",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa3piVjhPc1JkMEppZFpMUkpwMXU5UmZfdlNWclJtYmJzbTYzYV8wSXFSejI5M0pQZ21ZWUVjTmV0ZmFLclVteGlqMHZaLVFmNUMyRFM5YmdPUk55T1duT2ZNZzJ1dGNZVEpxX3hORkpIRkQ1NGRkWjY5TmVXOUhPUF9qUjc5OW9mYVBtemVFVkFjbEY5QVd1WXJ5aEF2WGRxU2VHbG5vYTNmQWktMXdCUXZzbkpRWjdpeEpQQzhjRFdDRDBkR3dpcXhZcEN6UlZVQVpaNnRyLU9mcUNQNDVqUGVIWDFCd9IBgAJBVV95cUxNUmZrMVZIbG16Z3NmcGpNdTdWaGlJUW53WlBoRFZmdXRMRmMyWmtnTnNvWXp1NXhBRVZRUGlaRm8xSlRxSGRrN1laNlllSTdpTy0yMnFIS3BybGFJM3lpdEMyaDhsMXBvazNwc0VWd3pDeTRUTnk3WktBT1o0MmxBX01hcWJCS09YdmplMmxsVk01b2ZJc09GSk1RcERCMk5CRGx0SDBMVmxFUTBhd1ZlUFJ5eUlNM0d2ZTUyUWdaaFZUNWVQdTI3bFFGa0RsSUU5NHVMS3I1UFlTQkZjd3ZLQWswNDFxVHVzODRZNVpJaHdqRktKaGEzdmp5NnV6YXdK?oc=5",
+  "medio": "Infobae",
+  "publicada": "2026-11-11T21:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Un hombre chocó en Ensenada y atacó a golpes a los policías que intervinieron tras el siniestro Infobae",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1b5c707600ff0623"
+ },
+ {
   "titulo": "Casio y Baklava presentan el exclusivo reloj G-Shock DW-6900 en CDMX",
   "liga": "https://elcongresista.mx/politica/nacional/casio-baklava-nuevo-reloj-g-shock-dw-6900",
   "medio": "El Congresista",
@@ -40,6 +641,20 @@
   ],
   "local": false,
   "id": "b3e09e4aad11bc07"
+ },
+ {
+  "titulo": "Buscan atender deslizamientos y daños en vialidades de Sánchez Taboada",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbklLOGltQXpWZWN3Undzcy1HX3BYM2otSFNSc2x4YVd3dUZoQWZhcVQ4WVFILTJRd1ZMNWwzVWllYWluTUhhRS15V1BLVW9yaUw2ZEhFRW9Ublp1LTZXYmJieGs2cEdGNlppYVd4Mzg0Mi1KMG5Tcy1oYmxabzBjNG9IUFRjdGtqdHU5R2FuRDVRZVY3SmdLaTFQV0puaTZMcW0ycmRsMW5XUQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T21:22:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Buscan atender deslizamientos y daños en vialidades de Sánchez Taboada Baja News",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "5adba8c2d929febd"
  },
  {
   "titulo": "Harán nuevos estudios sobre deslaves de tierra en la Sánchez Taboada",
@@ -144,6 +759,20 @@
   "id": "ca64d801d193b49d"
  },
  {
+  "titulo": "Invierte Cespt casi 100 mdp en obras de alcantarillado sanitario en Rosarito",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/invierte-cespt-casi-100-mdp-en-obras-de-alcantarillado-sanitario-en-rosarito/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T21:05:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Son tres proyectos que lleva a cabo en conjunto con recursos del Programa de Estímulos de Agua y Saneamiento, informó la directora, Mónica Vega La entrada Invierte Cespt casi 100 mdp en obras de alcantarillado sanitario en Rosarito se publicó primero en La Jornada Baja California",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "5dd94a0cf0fb4faa"
+ },
+ {
   "titulo": "León XIV se despide de 3.5 millones de argentinos en Luján",
   "liga": "https://elcongresista.mx/politica/nacional/papa-leon-xiv-lujan-misa",
   "medio": "El Congresista",
@@ -199,6 +828,20 @@
   ],
   "local": false,
   "id": "2970ef840c3ebd3c"
+ },
+ {
+  "titulo": "Ensenada: chocó, agredió a un policía y quedó detenido",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDVqRHAtaEliYW1nQ2VHUXlldUVwWXV4M2Q2YlI0UDNkVGlPeDVyNjlHaTk5UEY3czBUZmllOU5RSFh6R09tZ0JQNE5Femw3dmhtUHZycGRjeGNJSzlJdlRXcWVlRFh4aFRjRW5fLWx3RlM5ZEhQTDZ0Z3p6SkUtb0NZUnJhb3B2N2FKZ0R2WElNUG00bWRnX2130gGfAUFVX3lxTE5aYlNpTmd1Y0dmclBjaDdBbV91OG9FdlVxRENqTGJvTnp6d05PV2w2bHRnazFZNUVCOHJjUURwdTVQR0YwblE4Q0JJaUpYVl9QYjNOSEpyWnNLMG82ME5sT0Exc0pBZEpqRFdOTy1CX2JCc2ppS0thbWlLS0w3X2VLV092b21jTkJlM0tkci1UdUZCS19QTjJQSGxxWS1qcw?oc=5",
+  "medio": "Diario Hoy En la noticia",
+  "publicada": "2026-11-11T21:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Ensenada: chocó, agredió a un policía y quedó detenido Diario Hoy En la noticia",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "22a538dfba33bdd4"
  },
  {
   "titulo": "Vecinos de Colonia Oaxaca Exigen Puente Seguro ante Próximas Lluvias en Ensenada",
@@ -287,6 +930,22 @@
   ],
   "local": false,
   "id": "ab287792fa3ff662"
+ },
+ {
+  "titulo": "Destacan nuevo protocolo de emergencia y ampliación de espacios en preparatorias durante glosa de Educación",
+  "liga": "https://zetatijuana.com/2026/11/destacan-nuevo-protocolo-de-emergencia-y-ampliacion-de-espacios-en-preparatorias-durante-glosa-de-educacion/?utm_source=rss&utm_medium=rss&utm_campaign=destacan-nuevo-protocolo-de-emergencia-y-ampliacion-de-espacios-en-preparatorias-durante-glosa-de-educacion",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T20:48:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Durante su comparecencia ante el Congreso del Estado, la secretaria de Educación, Irma Martínez Manríquez, habló sobre la implementación de un nuevo protocolo de emergencia en las escuelas, la atención a los casos de docentes interinos que no han recibido su sueldo, la inversión ",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Educación"
+  ],
+  "local": true,
+  "id": "3b1e46f90c47e50d"
  },
  {
   "titulo": "Luis Navarro valora apoyo de AMLO y Sheinbaum para educación en Michoacán",
@@ -418,6 +1077,20 @@
   ],
   "local": true,
   "id": "63a76eac69bad16c"
+ },
+ {
+  "titulo": "Últimas Noticias en Ensenada, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdU5fY08tUnN0Y0dLTzFpa1RfejQwUjF2c2FIVHFuaU5RelJVZTVQNnBGa25Qa3NzdTVoeV8yWWxvSzRTbHF2Q2tQa2JuN3RRMW84N21zV2Y3cEFUZnFRYVFoMWMtNGhOMks2RXZjRU5pZ21RS1M0UnB4UlFQS3V6RkZYVG4wQ0VESXoyM2hR?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T20:27:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Últimas Noticias en Ensenada, Baja California Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "287e3a808a765c0c"
  },
  {
   "titulo": "Detienen a Óscar “N” por feminicidio de Karla y Osiris en Tláhuac",
@@ -807,6 +1480,20 @@
   ],
   "local": true,
   "id": "18b57c538f232897"
+ },
+ {
+  "titulo": "Noticias sobre arboles gratuitos",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVQ0d1VnhKVkcyY0l0RHBYMFg5Zk5nWlBFRjhybFFTYW1xZUFicTF5RkFMV1F6ckZsRk9Bd21OOXE2YmdRcHFtLVMyZHhJVjZWckNaT2thWTR6M2dieURRYjBSMTNfQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T19:48:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Noticias sobre arboles gratuitos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "faf7da0b45c95b2e"
  },
  {
   "titulo": "Trabajadores de la UAEM bloquean autopista México-Cuernavaca por salarios",
@@ -1542,6 +2229,34 @@
   ],
   "local": true,
   "id": "9f72af2846651d69"
+ },
+ {
+  "titulo": "Noticias sobre areas verdes en mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01SWZKSlhQTzBaNXZkbTI4NjZDaEdpTWlQcHFlTXVNa1dLSE5qaHgxbTNGWWk5Z242cW1ROFlXVmtOdl9NMXA5ZTJEMk90b215ZDNfXzkxekdvQ1Bpa3Z0QnBSb0FrdHNIckIxR0hmaw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T18:46:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Noticias sobre areas verdes en mexicali Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a672b1f536467af4"
+ },
+ {
+  "titulo": "Noticias sobre vacantes de trabajo",
+  "liga": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZdlZVQXlzbzRoM1g5dmgwY1JSejFrZlVNX0FUM3lJcEFwSFpPcFAzWGhYbllQR01oZlRnS3kwR1RRQUFhOFh4WlhJNFNnSkxZaWN5NUZoTkxJX3RtVlpoQkNIY0ZYSER5?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T18:43:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T22:33:19-06:00",
+  "resumen": "Noticias sobre vacantes de trabajo Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "34ddadf7e7b02888"
  },
  {
   "titulo": "Meta cierra la cuenta de Russell Brand en Instagram",
