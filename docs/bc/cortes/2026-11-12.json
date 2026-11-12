@@ -1,5 +1,473 @@
 [
  {
+  "titulo": "UNAM reconoce deuda a profesores de asignatura, afirma rector Lomelí",
+  "liga": "https://elcongresista.mx/educacion/unam-deuda-profesores-asignatura",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:47:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "La UNAM ha reconocido una deuda con sus profesores de asignatura y enfrenta retos en la enseñanza de inteligencia artificial.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": false,
+  "id": "d126aed01c0353fd"
+ },
+ {
+  "titulo": "Volcadura de taxi deja ocho pasajeros heridos y al chofer detenido",
+  "liga": "https://puntonorte.info/2026/11/12/volcadura-de-taxi-deja-ocho-pasajeros-heridos-y-al-chofer-detenido/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-12T16:47:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Tijuana.- Un taxi de ruta volcó en una rampa descendente al bulevar Cuauhtémoc Sur y dejó ocho pasajeros heridos, cinco de ellos con lesiones de gravedad, y al chofer detenido como responsable. El accidente de tránsito ocurrió alrededor de las 12:30 de la tarde de este jueves 11 ",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "a31debaf50b4524a"
+ },
+ {
+  "titulo": "Incineran más de 12 toneladas de droga en Tijuana",
+  "liga": "https://elcongresista.mx/politica/baja-california/incineran-12-toneladas-droga-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:46:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "La FGR incineró más de 12 toneladas de droga en Tijuana en un operativo conjunto, marcando un hito en la lucha contra la delincuencia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "10e9a78197bf1c4d"
+ },
+ {
+  "titulo": "Víctor Castro entrega Quinto Informe de Gobierno al Congreso",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/informe-victor-castro-congreso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:37:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "La Paz: Víctor Castro entrega Quinto Informe de Gobierno que detalla resultados de su administración.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "79e0a102701b92fd"
+ },
+ {
+  "titulo": "Omar García Harfuch exhorta a municipios a coordinarse en seguridad",
+  "liga": "https://elcongresista.mx/seguridad/omar-garcia-harfuch-coordinacion-seguridad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:35:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Omar García Harfuch llama a los municipios a trabajar sin distinciones políticas para fortalecer sus cuerpos de seguridad.",
+  "temas": [
+   "Gobierno municipal",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ec956cd06144679c"
+ },
+ {
+  "titulo": "Newsom se reúne con Lula y firma acuerdo climático con Portugal durante la COP31",
+  "liga": "https://www.uniradioinforma.com/gobierno/newsom-reune-lula-firma-acuerdo-climatico-portugal-durante-cop31-n914077",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T16:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "California fortalece alianzas internacionales en energías limpias, prevención de incendios forestales y resiliencia climática durante la cumbre de la ONU en Turquía.",
+  "temas": [
+   "Clima",
+   "Política y partidos",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "cc8714fa65f1fc3e"
+ },
+ {
+  "titulo": "Rector de la UNAM propone mayor voz a estudiantes en su aniversario 40",
+  "liga": "https://elcongresista.mx/educacion/rector-unam-participacion-estudiantil-aniversario-40",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:33:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "El rector de la UNAM, Leonardo Lomelí, propone abrir espacios para la voz estudiantil en el marco del aniversario 40 del CEU.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "9c9fd567812139c8"
+ },
+ {
+  "titulo": "ONU pide liberación de Juan Carlos Ramírez tras 21 años en prisión.",
+  "liga": "https://elcongresista.mx/justicia/juan-carlos-ramirez-liberacion-onu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:33:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "La ONU pide la liberación de Juan Carlos Ramírez, encarcelado por 21 años, tras determinar que su detención fue arbitraria.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "3fa2994726257381"
+ },
+ {
+  "titulo": "Incautan 5.34 kilos de cocaína en el AICM ocultos en camisetas",
+  "liga": "https://elcongresista.mx/seguridad/incautan-cocaina-aicm-camisetas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:32:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Se incautaron 5.34 kilos de cocaína enterrados en camisetas en el AICM durante un operativo de seguridad.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "940fca2fc6781e4d"
+ },
+ {
+  "titulo": "Newsom comparte experiencia de California en combate a incendios forestales durante COP31 en Turquía",
+  "liga": "https://www.uniradioinforma.com/gobierno/newsom-comparte-experiencia-california-combate-incendios-forestales-durante-cop31-turquia-n914075",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T16:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "El gobernador y la primera dama visitaron un centro internacional de capacitación para bomberos, donde intercambiaron estrategias con autoridades de distintos países.",
+  "temas": [
+   "Gobierno del estado",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "3db25ae0c8ca52f5"
+ },
+ {
+  "titulo": "EE.UU. deporta a más de 483 mil migrantes en 2026 y supera récord del año anterior",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmlTVy1nblMycFB4WEJiYWZzV2c1Y0h5bHJERF80TmxLYkVMRHpqd0t0cFFmTTJwcUd3S1NsdGQ5a3JycGctV21sb2drU0hRcEV4d2VEQVJFVi13VTl3Ui1ldFY5VGxlYS1ib1MxdGU2S04yb0ZnbTVsb3NxT3ItZ2FBYVZsdkF6THBnVmlfTVZON0FyYjgtSUY1MW1HZXp5U1U5WG5jd3JRanR6V2x5S2l4cFlFZ1ItNFNDYUFZVQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T16:24:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "EE.UU. deporta a más de 483 mil migrantes en 2026 y supera récord del año anterior Baja News",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "4d84834cf319d557"
+ },
+ {
+  "titulo": "Incineran Más de Dos Toneladas de Marihuana, Cocaína y Metanfetamina en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWlhVlBJTnkwMm5nUlBWaUdBS1ViMEwzdHQxMVBZRWhBUUNlSE9DX1A4SFpfYThHLUFzMWlPR0hwRU1aOFlfSGtJcVJlTTJLbTNFOUdvVnZRaXdwenVfZUpKNDdtSm5RUTdMaDlfSjAzS09pWnA4V1luVGo4ZERGeFc3ZnMzcFdMRGE3SHZ0Z0R3cklQYlY1ME5keXZhUkZCZ1FSVDctQVFieEZwS3V3TlQ0MVBGTlgwLW1sb3RpSUZYXzk0a3Z1ag?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-12T16:22:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Incineran Más de Dos Toneladas de Marihuana, Cocaína y Metanfetamina en Tijuana N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1d191eb3816f1a21"
+ },
+ {
+  "titulo": "Newsom anuncia la creación del primer Consejo Asesor Juvenil Ambiental de California",
+  "liga": "https://www.uniradioinforma.com/gobierno/newsom-anuncia-creacion-primer-consejo-asesor-juvenil-ambiental-california-n914073",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T16:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Desde la COP31, el gobernador Newsom envía un mensaje a los jóvenes que heredan el futuro: su voz importa.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "001208b0d4ffaa2f"
+ },
+ {
+  "titulo": "Francisco Casas rescata a dos mujeres de un canal en Navojoa",
+  "liga": "https://elcongresista.mx/politica/sonora/francisco-casas-rescate-navojoa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:20:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Francisco Casas salva a dos mujeres atrapadas en un canal en Navojoa, destacando su valentía y disposición para ayudar.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1d7c216434bd0a16"
+ },
+ {
+  "titulo": "El gobernador Newsom y su esposa, Siebel Newsom, desvelan la vigésima promoción del Salón de la Fama de California",
+  "liga": "https://www.uniradioinforma.com/gobierno/el-gobernador-newsom-su-esposa-siebel-newsom-desvelan-vigesima-promocion-salon-fama-california-n914071",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T16:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "29c4433d62e800c7"
+ },
+ {
+  "titulo": "Morena debe explicar irregularidades en administración de Cruz Pérez Cuéllar",
+  "liga": "https://elcongresista.mx/politica/chihuahua/morena-irregularidades-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:19:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Isela Martínez critica a Morena por no cuestionar irregularidades en Ciudad Juárez, centrándose en las finanzas de su propio partido.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "3ab223d428b1d6b4"
+ },
+ {
+  "titulo": "Tres peregrinos de Yucatán resultan heridos tras choque con tráiler",
+  "liga": "https://elcongresista.mx/campeche/peregrinos-yucatan-choque-trailer",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:18:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Tres peregrinos de Yucatán fueron heridos tras un choque con un tráiler en la carretera Campeche-Mérida, donde su mototaxi resultó destrozado.",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "0bf4805441da3609"
+ },
+ {
+  "titulo": "Gobierno oferta puesto de director con sueldo de 96,526 pesos",
+  "liga": "https://elcongresista.mx/politica/nacional/vacante-gobierno-director-sueldo-96526-pesos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:17:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "La Secretaría de Gobernación ofrece una vacante con sueldo de 96,526 pesos para un director de fomento social en México.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "763605d972a5cbfe"
+ },
+ {
+  "titulo": "Balacera en Ocotlán, Jalisco, provoca despliegue de autoridades",
+  "liga": "https://elcongresista.mx/politica/jalisco/balacera-ocotlan-jalisco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:16:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Una balacera en Ocotlán, Jalisco, provoca un fuerte despliegue de autoridades y la suspensión de actividades escolares.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "670f1a7ed6623e52"
+ },
+ {
+  "titulo": "ONCE: el número 23572 gana 500.000 euros en sorteo del 12 de noviembre",
+  "liga": "https://elcongresista.mx/sorteos/once-sorteo-23572-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:07:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "El 12 de noviembre, el número 23572 ganó 500.000 euros en el sorteo del Cupón Diario de la ONCE.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cbc2312ef936a1bc"
+ },
+ {
+  "titulo": "Chofer de camión concreto vuelca tras falla de frenos en Reynosa",
+  "liga": "https://elcongresista.mx/tamaulipas/volcadura-camion-concreto-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:06:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Un chofer resultó herido tras volcar un camión en Reynosa debido a una falla de frenos.",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "fdeb6bb177588c36"
+ },
+ {
+  "titulo": "¿Qué Alumnos de Baja California Tendrán Megapuente en Noviembre 2026? Lista de Fechas",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmFYdVE3dFZjMExxMmxlblFtUkoyc1RzZjhaV1hVOGlnNnRFdFoxRFpIcTRiajd6WkJjWE9ycjZoTlhUc09rZkFkay1fT2F5cGJBeEw3dFByWTlaWGdoUENQc1BlZVFDdlo3cHl5SzBZLWdxc1Z5dXU2N2ZCSzBfVk5vN2hKSEQ0MDc3cG9XWS1nNjlZdVZscjkxQk1ON2JtNm5ZX084eVlBOUxtanFKWFdIS3dLR180cDB1RU1JN1hfX01IeTRrSzhPaVdaUnJ2eGVZ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-12T16:05:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "¿Qué Alumnos de Baja California Tendrán Megapuente en Noviembre 2026? Lista de Fechas N+",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "bc9d8c1b38e3270c"
+ },
+ {
+  "titulo": "Trump amenaza con duplicar aranceles a México si no frena inmigración",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-aranceles-mexico-caravanas-inmigrantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:03:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Trump amenaza a México con duplicar aranceles si no controla caravanas de inmigrantes que avanzan hacia EE. UU.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ecb34de1be0e3b00"
+ },
+ {
+  "titulo": "Sener promete 141 centrales eléctricas en construcción para 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/sener-141-centros-electricos-construccion-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:02:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "La Sener planea la construcción de 141 centrales eléctricas para 2027, invirtiendo 460,000 millones de pesos en infraestructura energética.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a791114af20e6030"
+ },
+ {
+  "titulo": "Verifica 6 detalles clave antes de comprar un celular reacondicionado",
+  "liga": "https://elcongresista.mx/tecnologia/celulares-reacondicionados-buen-fin-seis-detalles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T16:01:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Revisa estos 6 factores antes de comprar celulares reacondicionados durante el Buen Fin para evitar sorpresas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "101f4eced4a28c6c"
+ },
+ {
+  "titulo": "Morena impulsa investigación de elecciones del 2006 para «conocer la verdad»",
+  "liga": "https://jornadabc.com.mx/principales/morena-impulsa-investigacion-de-elecciones-del-2006-para-conocer-la-verdad/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-12T15:59:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "El grupo parlamentario del PAN, por su parte, calificó la demanda de Montiel como “una payasada y un chiste” La entrada Morena impulsa investigación de elecciones del 2006 para «conocer la verdad» se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "a944e5972467808b"
+ },
+ {
+  "titulo": "Detienen a conductor tras volcadura de transporte público en Tejamen; nueve pasajeros fueron atendidos",
+  "liga": "https://www.uniradioinforma.com/policiaca/detienen-conductor-tras-volcadura-transporte-publico-tejamen-nueve-pasajeros-fueron-atendidos-n914068",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T15:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "3d295f041a0079dc"
+ },
+ {
+  "titulo": "Marcelo Gallardo defiende citación de futbolista sin juego en Ecuador",
+  "liga": "https://elcongresista.mx/politica/nacional/marcelo-gallardo-defiende-citacion-kendry-paez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T15:54:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Marcelo Gallardo defiende la citación de Kendry Páez en la selección ecuatoriana a pesar de su falta de minutos en el campo.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d2605642742797b5"
+ },
+ {
+  "titulo": "Buscan detener a quienes arrojen ponchallantas durante persecuciones en Durango: gobernador",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnVCNktUS3VZcno2M1JmT2p5TjdIWGUzVUVhcjliM0daOHI4bng2YjVZT05JamZSWTM5ODRWNzBSbkxWVHQyV0ZTRWVHOUl0aHJ2djdEX29FbDR2RFdkUTRUMGZTVGczckdyYmNzSWRCVWlzd2MtQ1ZCQUxNc0dXQndBcWJSbkpXWnlVa0MtZ2hYTWJXeW02SGJyTElXcDRadjdKcFpPMGZLNl9jVkFBM1RESkxBclFkbUowSHkwMDI2U1Q3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T15:52:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Buscan detener a quienes arrojen ponchallantas durante persecuciones en Durango: gobernador Baja News",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "1d98c14e8ae99060"
+ },
+ {
+  "titulo": "Encuesta revela que 23% de empresas teme comerciar con México",
+  "liga": "https://elcongresista.mx/politica/nacional/encuesta-santander-desconfianza-comercio-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T15:49:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Encuesta revela que el 23% de las empresas teme comerciar con México por corrupción y falta de confianza.",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "24f6499b34bc5f05"
+ },
+ {
+  "titulo": "IEEBC presentará contratos tras escándalo por caso Taddei",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkNDbmMxNTNqa295Vk5XaWVGNEUzYVhuX3BrYUFwS3JoS1BFb25KNmFBRVE4WUZHbDZnTWJMYnBDdi1PRVNYLVcxMlcxTFA3bmlVcWg2MFFoODZzTXNZYUpzSEM1TTl3MjFxWWdGQ3Zmb2VDVG9rNzBWMXFyN09Wa085eV9nLTlpMkxOTlVXbFBtcGZNOUpWRVhEUkhWcTBzRDNTbzc4WTgzYmc5?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T15:49:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "IEEBC presentará contratos tras escándalo por caso Taddei AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "071a4cc058915298"
+ },
+ {
+  "titulo": "PAN solicita comisiones para investigar elecciones de 2006 y huachicol fiscal",
+  "liga": "https://elcongresista.mx/justicia/pan-solicita-investigar-eleccion-2006-huachicol-fiscal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T15:49:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "El PAN en la Cámara de Diputados solicita investigar la elección de 2006 y el huachicol fiscal, proponiendo dos comisiones especiales.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a6ce807d13c2e7be"
+ },
+ {
   "titulo": "Robo de carga en México supera 7 mil mdp anuales, advierten expertos",
   "liga": "https://elcongresista.mx/seguridad/robo-transporte-carga-mexico-2023",
   "medio": "El Congresista",
@@ -28,6 +496,20 @@
   ],
   "local": false,
   "id": "8bbab1514b9d4133"
+ },
+ {
+  "titulo": "Realizan mil pruebas de antígeno prostático en Durango; detectan seis casos de cáncer",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUE5X21ZUlNRdHliRnp4aGVoRkUyOTUzZ3FCd3ZDVUJid2pfcHgyVi1UZzZncHpRaHhOTkVqeUxLWm5GWmJZcXVKUVByMVU4ZXBoWkZQNWJQN0ZiRDFBV3VmdVk2Q2ZSY3BhVHEyUGl1Xzd4dG1reE9YT3QzSThLYVhxMURwa2lPeGZZeUQzaU9aQzN1S2Y5TUl5U200SlZDX243VW95ZDVKM1g4UXU0bW5sYzJaNWFmejV3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T15:45:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Realizan mil pruebas de antígeno prostático en Durango; detectan seis casos de cáncer Baja News",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "b031a69ff14db55b"
  },
  {
   "titulo": "EEUU revoca visa a Alejandro Fragozo, presidente del Tribunal Superior de BC",
@@ -1763,6 +2245,20 @@
   "id": "38e9c8f4239607c8"
  },
  {
+  "titulo": "Senapred ordena evacuación inmediata del sector La Ensenada en Ovalle por desborde del río Grande",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmplOXF0U0F0X2JZWm04MFdSWERzZjlnTExwWWplclpObmVjdHlFb1pzcUJrWGlPTGtEUmFod3R4UzdkUHN2VlE3bWpuUjEtTVJXODdMVElPejFSN2tFTGdXdThYejgyQm1BaXhsMTRfbWlMZ2plbkFmVHk2QUtleXhnamJHOWY5eldLV19uUFFxeERzcHplU1IzNEZPcUQxVWplcnRYVk41TlFGdjRuOW1mSzNsdm9WdEhuYWRUWWdaT3g4U01hLWNxaGNac0ZrQXo4ZUNSQQ?oc=5",
+  "medio": "Epicentro Chile",
+  "publicada": "2026-11-12T12:54:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Senapred ordena evacuación inmediata del sector La Ensenada en Ovalle por desborde del río Grande Epicentro Chile",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "c905422949f926a8"
+ },
+ {
   "titulo": "Senapred solicita la evacuación de sector La Ensenada en Ovalle por riesgo de desborde de río Grande",
   "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOHZ0TzlURVVkNDRUekk4U1VaZ0hSNGZmbzV6NHpCaUpDdWpOclVnUW9IdG03d2t2eHA3MmNjQkZQWXEzM3RoR3l4MGZuRUttWF9ndE8yMVFkWDk4Q2YwREZORG9zUEdwZGRIaGtZdUNPVC1aLTlJTTZQZk9remZJRFZibHBRRlRTczV3Um4wQkZRTUx1UU5fWkNhSTdYYVIwVUJ6TUdoLXNoV0tjYTRQZ3FTWGlfV1R1VFNwRFFROVJNbThRa3FQMnRfNWVwM1BLVm5RbTRVRUgxamFw0gH-AUFVX3lxTE1IbWw4U0d1QjJyWjlyVFdIR180RXRhbkZOUV9hbzBuY1U5d0FlSnQ2WGlKeWhHYS11V2Nydnl2YnlWeWtKQWFzcjZIaUJWaWR6TGlOa28wbk5RaS1tZlhuZ29kQVZ5REtfa25DcEdYV01Mb0xqSGJVamtISFhYSS03SFIwUkRscWVXWlVRT0s5RUFJMWJVUEtocE9teFVNeWFvREdXSFVYQTZVQkNwU1V1VE1pWWV6UW81MmMwMFZMc2FzbE9RUnp1MGxHVkhEdmVWb3JkNkNOZ3lBd3BqYmY5b3JzUEM1M1ROUTVDeENfWFJLamtKLVM1R0p2UVJ3?oc=5",
   "medio": "La Tercera",
@@ -1960,6 +2456,20 @@
   ],
   "local": true,
   "id": "b10a163a51119da3"
+ },
+ {
+  "titulo": "México, primer lugar de AL en abandono de mascotasa",
+  "liga": "https://jornadabc.com.mx/02_secundarias/mexico-primer-lugar-de-al-en-abandono-de-mascotas/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-12T12:32:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "México, primer lugar de AL en abandono de mascotas, indica Aida del Carmen San Vicente. Hay 18 millones de canes descuidados La entrada México, primer lugar de AL en abandono de mascotasa se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "32be49516c1bc6c7"
  },
  {
   "titulo": "Residentes de Maneadero bloquean la carretera Transpeninsular; exigen presencia de Conagua",
@@ -2530,6 +3040,21 @@
   "id": "b9fe22c743492332"
  },
  {
+  "titulo": "Pronostican inicio de lluvias durante la noche del jueves; Protección Civil espera un acumulado de 25 mm en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/pronostican-inicio-de-lluvias-durante-la-noche-del-jueves-proteccion-civil-espera-un-acumulado-de-25-mm-en-tijuana-33102864",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-12T11:30:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "El pronóstico del clima para este viernes es de 19 grados centígrados como temperatura máxima y mínima de 17, incluyendo precipitaciones.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "4180f9771c608979"
+ },
+ {
   "titulo": "Por aumento de descargas de La Paloma: Ovalle inicia evacuación preventiva de familias en La Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3JsOU0yN2Q1VkZTR2l5aU1pTXlhSjB2UjRkc3c4SXJYeTZNbEFqV3BsdllSUUV0alNrWWtmeHNWdEx2N2tLeVBWTjJHOE5Td2NtZHB4RnhNRzAtMExUZU0zODF6ODlJMFdCNzRWRDRSa3Z6aENkaEF5NDlwUEdmVEFtcm1WMVB6Ny0zUnNRTjdaUQ?oc=5",
   "medio": "Mi Radio",
@@ -2629,6 +3154,20 @@
   "id": "48b6ce47c3b3ecdb"
  },
  {
+  "titulo": "Va CAP contra el desmantelamiento del campo mexicano",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/va-cap-contra-el-desmantelamiento-del-campo-mexicano-33102729",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-12T11:22:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Decidirán qué acciones tomarán, tanto legales como de movilizaciones para proteger al Valle de Mexicali",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4f6673f91a1fa6fb"
+ },
+ {
   "titulo": "Suben precios de gasolina en Ciudad Juárez y El Paso este 12 de noviembre",
   "liga": "https://elcongresista.mx/politica/chihuahua/precios-gasolina-ciudad-juarez-el-paso-noviembre",
   "medio": "El Congresista",
@@ -2716,6 +3255,20 @@
   ],
   "local": false,
   "id": "333c682a0e8e939c"
+ },
+ {
+  "titulo": "Proyectan recaudación de 7 mil 400 MDP en Anteproyecto de Ley de Ingresos 2027",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/proyectan-recaudacion-de-7-mil-400-mdp-en-anteproyecto-de-ley-de-ingresos-2027-33102514",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-12T11:14:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Contemplan aumentos de 2 a 10 pesos en la aportación voluntaria para bomberos, de 60 a 70 pesos en la entrada de las Fiestas del Sol, de 21 a 30 pesos por estacionamiento del Parque Vicente Guerrero y cobro de 3 umas por constancia de uso de suelo para vivienda unifamiliar o de u",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8e4b349ba01ff6b5"
  },
  {
   "titulo": "Amenaza Trump con duplicar aranceles si México no detiene caravanas migrantes",
@@ -2981,6 +3534,20 @@
   "id": "7107da2b369e69f2"
  },
  {
+  "titulo": "Serpientes de Tijuana buscarán campeonato de la región 1 de CIBAPAC",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/serpientes-de-tijuana-buscaran-campeonato-de-la-region-1-de-cibapac-33102174",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-12T10:55:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "El equipo de la ciudad jugará la final ante los Colorados de San Luis R.C.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "17039f93d3e27f9d"
+ },
+ {
   "titulo": "Moody’s prevé crecimiento global de 2.6% en 2026",
   "liga": "https://elcongresista.mx/economia/moodys-crecimiento-global-2026",
   "medio": "El Congresista",
@@ -3050,6 +3617,20 @@
   ],
   "local": false,
   "id": "6fbc1814e4316e50"
+ },
+ {
+  "titulo": "Vinculan a proceso a pareja por desaparición de conductor de plataforma",
+  "liga": "https://oem.com.mx/lavozdelafrontera/policiaca/vinculan-a-proceso-a-pareja-por-desaparicion-de-conductor-de-plataforma-33101868",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-12T10:43:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T16:48:21-06:00",
+  "resumen": "Los imputados mantenían a un conductor de plataforma cautivo en un inmueble del Ex Ejido Xochimilco",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "44f66fac6fdc4a09"
  },
  {
   "titulo": "Aprueba DIF Baja California convenio con CONAFE para comunidades vulnerables",
