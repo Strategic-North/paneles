@@ -1,5 +1,660 @@
 [
  {
+  "titulo": "Minuto a Minuto: Rayadas visita a Pachuca en la ida de Cuartos de Final",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/11/minuto-a-minuto-rayadas-visita-a-pachuca-en-la-ida-de-cuartos-de-final-295221.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-11T20:23:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e2601f3392e8dd1b"
+ },
+ {
+  "titulo": "UDC defiende circulación de vehículos en 14 estados",
+  "liga": "https://horacero.com.mx/reynosa/udc-vehiculos",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-11T20:22:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La UDC, la Unión Democrática Campesina, informó en Reynosa que los vehículos extranjeros afiliados pueden circular en 14 estados bajo disposiciones de tránsito, aunque persisten restricciones en algunas metrópolis. The post UDC defiende circulación de vehículos en 14 estados appe",
+  "temas": [
+   "Política y partidos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "c8bdb517a401721a"
+ },
+ {
+  "titulo": "Hallan a hombre sin vida en el sector francés de Valle San Ángel",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0VNZEdreElpaXdCdFlBRjZjUEUyTHp2ODJfRXBucUhaSnRqbG5WN0VLbVV4Vy1scldycUJmWmRIX0FIWTh1Q09Xa2szNHlZRnhhblBKMjZuUkRJQ2VIcGRkZktpOFQ4SF9md3EyaUgyLWhqOEFMNmtyRnJZRjhOc3h5ZmNPanVtb2hfSEFidjZHM2JuSnBiLUdqZ1VvY1JDUlRZYw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T20:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Hallan a hombre sin vida en el sector francés de Valle San Ángel INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "42411ef1d6a6039b"
+ },
+ {
+  "titulo": "Manuel Guerra pone en marcha el programa \"Tarjeta Jefas\" en García, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNazBLWkgzZ1lfaFJwTGg2bl9sZG5HRFN2T0JPMWctRzhIaUJqbWdHMjdlS0F6U2NMTDBlT0l2ZXliem5YUGtDUkVWR3dGb2ZlTzB2anQweUZDTGhzdjk1UEY1VVlwZzdyYWRxX1kxakd3NzZScmlnV2hnQnZqZzFNZXhMRWwwTXJ5VV9NblVuMVBMMl9GdGhSSFp4d1lwU3NwSkVpS2ZMRDgxSWtxYzNqMERyeGozNko3aGJsRmNPdTh2LVZwei1hNlhFM3Q0Q293UzgwdG9vUU85TVhnbFlOb2R5a19abWQtd2c5NGEzVXJSLVV5M19GMGxoSFLSAZACQVVfeXFMT0VLQi1BaUJsTWk4VndTR1NlZzRSeFFOdndHMUZhTzlmXzVqamhOUFVyV2RKczNqUWJDNmlhc3hDX3dqNzI4S0MwY0EzZFdvekdLcUZyT05MWEZsMlRvSHdCNTNlTk8zY2Z2UWo1dll2TWwxRk5KRFFCTWNEQUU3ZFFQeFB1TVdpVjhXbkI3T1dPTVpwQTVib1lYWmVDNGJNUWdLY1ZSXzJTcGRKb2ZuMjFNWFkxWnVNOTVZU3RKdG9uRHVKVjlZT2FURElsTmIyZE9QNFNOLUVQcFJoVHVLdjhXS0VkXzI4S3g2QXJVMnVGeFFmMjMyMlJyM0lUUDRoTGk1QXRTZXYtc1VqOHBieTA?oc=5",
+  "medio": "El Universal",
+  "publicada": "2026-11-11T20:18:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Manuel Guerra pone en marcha el programa \"Tarjeta Jefas\" en García, Nuevo León El Universal",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6fed45199e3605bd"
+ },
+ {
+  "titulo": "Salón de la Fama del Beisbol Mexicano recibe siete nuevos inmortales",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1JXYi1jZTQwUWVaRjBidHhTR2RQV0lYNTFMMmhEbUJJUnRJY0pROFhSY0RPQ0ZqLWdtdGUwZzZJWEZQRXhxUzZHem9fX1hiRDF2RC16Y0hMSnFJc2YzSUJnMXdkSVJIVGVKSUF3NjF3QjlWa0NjUUpOOHBnSWdoLVRnSU55V1Y2aVB6WFRwQ0ZIUmJUMDBxYVFRSDFhcDBNT0FiRkR6QjlVSUVq0gGsAUFVX3lxTE1fN2M0UXV4TDNMODFJbk9YRWdjTzBXellUc2Fjdk8zZmJQd2VONmFQTXNxbUlXRUR1dlBBU2VfUFJSbkFHaU1LN3dLSWYwMWxrWUpQTkcwbXQzOEtJUGdTci1nOHctTTZ6Q2wzSVFlTXpUSXNmUVhIekhZdmFYalNjc1dUZkZVeXRyclJvakg2UzlVTk5icno4VUZScFFnY09CRGZVSzZoUjNhbFc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T20:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Salón de la Fama del Beisbol Mexicano recibe siete nuevos inmortales Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "22ed1d582e270aca"
+ },
+ {
+  "titulo": "Comparece secretario de Seguridad de Jalisco, destaca detenciones y baja en homicidios",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUtlZUNkY3NLMGN0OGZTSHZYWlN5bllzdkZHV0szQkVGSXRUbUpnazIzZzZJQU15UmFpczBVV0dPTjQ1aGJqZGwwVmExQVY0QTVqaEMwYVR0TlV2dHRVSm9rMm52WnhqR25sNVhvOVVuY3M3YkNkcWhqaDlkSGhFczIwTXpLemhYZGlQdTRzVkF0Zkt6UXo00gGXAUFVX3lxTE05S2VlQ2Rjc0swY3Q4ZlNIdlhaU3luWXN2RkdXSzNCRUZJdFRtSmdrMjNnNklBTXlSYWlzMFVXR09ONDVoYmpkbDBWYTFBVjRBNWpoQzBhVHROVXZ0dFVKb2sybnZaeGpHbmw1WG85VW5jczdiQ2RxaGpoOWRIaEVzMjBNekt6aFhkaVB1NHNWQXRmS3pRejQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T20:16:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Comparece secretario de Seguridad de Jalisco, destaca detenciones y baja en homicidios Milenio",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "837c54da0888fffc"
+ },
+ {
+  "titulo": "Kirén Miret, autora de 'Con miedo y sin permiso' | En 15",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVJmQ000NXpwYzM5c2MtQVpLNzh4SHJJeU9nRkdiMmlVM3JkWW9VS1BkN20zVm5mNlQwYkFWMU5oSExvSkY1cDR5d1lMelBwbG0yRVYxcXpYWTI3djVYOGZRVDhPMnpHa3lYVWNWMk5IbHV6bl9NQlNyYnQ3WjA4SDIwMXpVa0hpRV800gGLAUFVX3lxTE9uM0YyZEpOLU5FN2VyNU9IQ1JnYjZKTnhxTHJHSEpOMEtIamZPaGpRNlBnTk5GcVJaekxNU3hfVVRqWlJscXdOa1huU0NZUmc0MjVob21qbkJfTlBTaWpmNnAxOHpsczd2bXMxN3o0YjJuMVplMHJhQTRhMVNQb2drWFU2Tm5GMkdtQWs?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T20:13:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Kirén Miret, autora de 'Con miedo y sin permiso' | En 15 Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b0c77122d4016301"
+ },
+ {
+  "titulo": "Respalda MC destinar recurso del presupuesto a mantenimiento de L1 del Metro",
+  "liga": "https://abcnoticias.mx/local/2026/11/11/respalda-mc-destinar-recurso-del-presupuesto-a-mantenimiento-de-l1-del-metro-295222.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-11T20:11:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "571ba7f2a5b9bb39"
+ },
+ {
+  "titulo": "Mariachi de San Agustín Mimbres es declarado patrimonio cultural del Edomex",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWRRcU94YXY3S0RJWTBENzFyNVJ0Z253Qk9ER0tXM0NEV3V2cDVic3dBZVpQMklnUDhweHR6Q3ktSUdIY2dTZUVrRlJtMFIwLWJNQWx5Ull4S1ZaWmw4MDJHVWhKZjFveXh6eTBCZExHVFJ6Y1VURTJWUmxZZlM0ak5iQ1hCTnktel8yN2tmeVN6Q3FLTUFiQlhHZnUzdknSAZ8BQVVfeXFMUFZnVEl4bXFxTGEyVEdCSFpLR3ZTTkJKeVFHYno3QkRvUkhGcHBqR3FtUURzZWdkZjRER1pCMlVoV2xodXlNREZVYTJWOENFNi1ZYkdBTkFaSEtHbFV5bXV3OG5CdGF1bE1fZnUwOWdWNHhhVWFnVEhmSkJxQ0J0NExLR1E0QWlCLUp5RFByWGpvSkFfcEFmMUQxREV2dVdr?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T20:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Mariachi de San Agustín Mimbres es declarado patrimonio cultural del Edomex Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "beb96ae179f3dd34"
+ },
+ {
+  "titulo": "Modifican autoridades electorales lineamientos por orden del TEENL",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc09wdS1fbVhFSUt5RlFRYzhxNms5QV9yc0pLMTM0MVRZai10Q21mUUVaN2lPQ0lyY2tjbkNtbXhTNnNhWi02bnlFME9oTVNfX004M0ZWYlBaOFVTWEZUTzZXOTNhZFZjQVV2ejFqVm1TQkc1aVlTVWFHUGNXeEZFaElYdmJLWVpBRm9nSWRuZzBZdERsRzVBVTcyVDFxTzh2ekE?oc=5",
+  "medio": "Noticias Nuevo León",
+  "publicada": "2026-11-11T20:04:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Modifican autoridades electorales lineamientos por orden del TEENL Noticias Nuevo León",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "adbfdb4bdf350b29"
+ },
+ {
+  "titulo": "Torreón reúne al sector lechero nacional en encuentro de productores",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkYxcS1zc2F5S1d0aEVFVDhQVGtrN0g3YjUyX3JqWU5DeDBKakFqOE5aRjBNLXp3c0lvZHJ2YUprZ1FfREFycG1iV1kteVVwLTJRTGYwUmdKeE1kMFYzbGx3dnE4c0s5VDdmdHF1ZVVSaDI1VWF1SlFRTmpNRGhtQzBNM3J5dVRWTDNDc2U2Zk1ETHpaVWfSAZYBQVVfeXFMTWtLQVl2NDN6SjBBMzZXU0xFbGNlVkg2NnoyLURhSER0VUdSdE91dkhjX0JPMTd1UVZodlNVY2o5WDl2ZnBCaS1Pd1Z6MmtoS0htczdIbl9rM3dYVTAweXZFdkZEQ2U3LUk2cUxpVzhRTURnZFZlU3hlZDA2RjN2U004d3pZV2pLc2UxbTNPTFdzU1N0andB?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T20:04:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Torreón reúne al sector lechero nacional en encuentro de productores Milenio",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "02920ad9a09fa7cc"
+ },
+ {
+  "titulo": "Gana Jacob Misiorowski el Cy Young de la Liga Nacional de la MLB",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFQQ0wwOGVuXzFHQ1hQZ0ZYN3VTcGxaMkJVRkVzcGlUQkVuSDRkem9JS1RGVnl6YTNjMncyVlVhbTl4SjAxb1lON05EZk9telFEXzROcVlsUDJfbTJ2UkRub1pYd2dkU01pTEhlaDVGNWNqVEpmSlVidXNuRnpPbjlQLXFYenBReWw2YTFRZTBOYXVIWTIxNm9Wc2p4VURRazd3?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T20:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Gana Jacob Misiorowski el Cy Young de la Liga Nacional de la MLB INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "4cd94125babd8063"
+ },
+ {
+  "titulo": "Investigan Muerte de Hombre con Herida de Bala en la Cabeza en San Pedro Garza García, NL",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR0Y3aFNFZDNoUGduWXpxeVFIVnJELWZkYWRnYmxPWEZUQ1FUN291Z3NMcGFRTjFlbTFQVUZqRnB3ZS1fZmdjcHZraDNDbk95UVkwbENFTm1JbmhTNW1pZUZCcE1aZGN3eGV3RC0wc2lDN09yNFAtVzdKMERxUlZRdko5V2VKZzN3bjhBV2NvZnNnNTF2ZnNqRU9FNnFnc2RpUGl3SXZVQk5SUTAwT1ZvWXZvRkRrSnJaenVvenRvNkRpcmZaYlFnaTlCR1J5NzQ?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-11T19:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Investigan Muerte de Hombre con Herida de Bala en la Cabeza en San Pedro Garza García, NL N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7cf80ea75333dc45"
+ },
+ {
+  "titulo": "Leyendas del Atlético de Madrid y del Club América se enfrentarán en el Estadio Cuauhtémoc; AQUÍ los detalles",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenluRDhSSWtLMmhjN3lnbHhTbkpyYUs4TnR4aHdwOWgxZlFTMGlRVTNKNTV0QTZjNGxVWDBHYUt1MVJVYnRFcFVwMGpaUlVmSml2cnNpNmttcllLdlB4eXRBZ0U2aVBDTGFWTUNDMi0yVXZjWVF0NXU2VUhtdnp5YjNWaXRvMWt5Z0w1NGFLSWliLUIyb2x4X1l1SGdHN3pwQ3N5RtIBpAFBVV95cUxQSjdCd0lLRks1QWVqX3hKRmZFQ2ZUdUlaX2R6Y0RoOFlOcmdDdUdoODgwelZkaGNLLVJJSUxPelA0OGVnOTlMZ2pPeXZ5ZC1lRjIwbUFkTnpHZGI1MVlKaEtaSW5LeEFGNXN3Q0tZQlNfcUYxZGY1WFRkSm5wcEVPSjJ4RFVWR1FVeGs2VE9ZNUVUTlNQLVYwQTNvZV9Sb2M2YUs2MQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:55:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Leyendas del Atlético de Madrid y del Club América se enfrentarán en el Estadio Cuauhtémoc; AQUÍ los detalles Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "f933f55ec1b01bd5"
+ },
+ {
+  "titulo": "Descarta Secretaría de Salud alerta sanitaria por agua sucia en Guadalajara",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTEdqbnNHak5IMlpPeHRpYTM5Xy1xM3AtVC1qQUZiV3U0dzdYR3hlNWNvWFRqWmltYTk2UjEwNm11V2VvZ3lRdWtWWExpenlGNUpSUmpIMktWUnphQlNvRkN0S3p2bWtEdjNXMm1RYU9xbzNqMTZCOVNsR0lIcF9Hdmt3aGRjZENqNHFkdEdNS2RFMFY2amfSAZYBQVVfeXFMUExHam5zR2pOSDJaT3h0aWEzOV8tcTNwLVQtakFGYld1NHc3WEd4ZTVjb1hUalppbWE5NlIxMDZtdVdlb2d5UXVrVlhMaXp5RjVKUlJqSDJLVlJ6YUJTb0ZDdEt6dm1rRHYzVzJtUWFPcW8zajE2QjlTbEdJSHBfR3Zrd2hkY2RDajRxZHRHTUtkRTBWNmpn?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Descarta Secretaría de Salud alerta sanitaria por agua sucia en Guadalajara Milenio",
+  "temas": [
+   "Gobierno del estado",
+   "Agua",
+   "Salud"
+  ],
+  "local": false,
+  "id": "db885c8bd7d3f209"
+ },
+ {
+  "titulo": "Buscan incluir mantenimiento de L1 del Metro en presupuesto",
+  "liga": "https://abcnoticias.mx/local/2026/11/11/buscan-incluir-mantenimiento-de-l1-del-metro-en-presupuesto-295220.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-11T19:53:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "4ae1b19be58addce"
+ },
+ {
+  "titulo": "Defiende Coppola el criterio humano frente a la IA",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXhrREEybEhvRXJaZTlvMVByNmVadzBOTURia2tsRlhXSnM3QzRaeVQxaWtaQ0tRSEw5OGJWMlJYOHJfb2k1OGYzWklIYVZfY09QQ0prYUNOTGZUVnhoODhKckpwWENhemZkdWxIYTJicmFncHN5N2ladmZzWHo3ZUo5UzBYc0N5WTZsaC1DUXZYV2pLVHducUhobw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-11T19:51:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Defiende Coppola el criterio humano frente a la IA El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "11ba641156673798"
+ },
+ {
+  "titulo": "Plantean diputados locales fondo especial para municipios rurales en presupuesto 2027",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazgxS0JQaTVscmZiUkdiMkxYOGtmMnhpR3pvSDZVM0VjYnJvRkZUbjhrWkNVaTM3SGF1ejZrZVpDeFh1enZIekpYUEJSSXBtYmxiWGNCYmh1OHZ3NVNZZ20xZGQ5WlBaUmFfb0RfN0ZNamt1c0F3dWktaWtzTXhKQ0dFQWFQQnZzcWdaQnZEY1FhZkJJQ3NZNzlldHBETXVxcHFITklKenBIWWJuWm5YMlBnLU1SMXc0Nzk4?oc=5",
+  "medio": "Noticias Nuevo León",
+  "publicada": "2026-11-11T19:49:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Plantean diputados locales fondo especial para municipios rurales en presupuesto 2027 Noticias Nuevo León",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "7e3c6f329ae037c0"
+ },
+ {
+  "titulo": "Parque del Agua de Nuevo León gana premio internacional de arquitectura y paisajismo",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbFZnU1dEdU1Zb1BfNFpVYU95VHhzNzI2SndSdFMya2FHSGxzREIweEF6S0lQTkdoZElMOEdaUmVkYXVLZmhuMm1Jc3ROTHdKNFRlX1hUMFZVVlpvU0g5WUIweGx1ZW53ZGlOZHl1UXgtS1hPSXY0eFB6eEx6TWxGZXlkaEhwQmVfYVgtQ2FYdUZ5dVZIemU1R2ctdXJ5dVVKREt1eGo4azFlTk1IaDE4ZlFUTzNXUW5NVHRJTmxNRy13R0NQWk8wM19jeEFQWnk2NjM2QXJxZ2ZWQVE?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-11T19:48:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Parque del Agua de Nuevo León gana premio internacional de arquitectura y paisajismo Reporte Indigo",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "ab10da7c4bbe3945"
+ },
+ {
+  "titulo": "Realizan bacheo nocturno en el Centro Histórico de Saltillo",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclpITlJLcnZOcnpaODYxc2FpaVRrTGpxS2ZkUF9VTUc1UTYwcXBrYW8tTUowX1dacjl5YlAzeG82LUNoaTFkVmZhWVZTS0t3YUNlTzd6ZEk5ZnFQem9KOUc4T1pwb1p2SzF3N2xxbVE3c1g5WkdZbjd4UVdFTVZTYjhFc09CcVR6UUF1YXJZcGxyS1Vpa0VyeWl5NHFTcjRLOGpRbjdwejZuUQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-11T19:46:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Realizan bacheo nocturno en el Centro Histórico de Saltillo El Horizonte",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "a47e02971e5400a1"
+ },
+ {
+  "titulo": "Trump ADMITE en '60 Minutes' que la mano dura contra MIGRANTES costó votos",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUFKNjh1b3dfOHItOE10THdyNG14WF9HblhYNFYwQUsxbU5aWWxUdE1tZFZQMk9CQ3lHTWtRY1NEc3FTNEFrRV9VZjB0SlVza3NYdTNHN3lCUFA5dDJGaTVwWEl2dW11VGlhRFE4SGl3M2JLLWVwS21KdzgyZUIzWC1ZeFJSeFYzOC1OZHBwSHVHc0tCSERFeE15bzdYaEpPU2d2WDl1b3JsaTd5ZXdXZUl1TWRWRVZWdjVtY2dUdDdIMnZTTGQyWS1BTQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-11T19:45:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Trump ADMITE en '60 Minutes' que la mano dura contra MIGRANTES costó votos El Financiero",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "dd694ff5e87dbe40"
+ },
+ {
+  "titulo": "DiDi genera impacto económico de 81 mil mdp en Edomex",
+  "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3NHUVQ3VVl1TnQwWEdfY0RVRGlYa2w0NjJjbkRRc3hQVjJEV0NERDRYTUNocW9FelFQUkNuMk9oNWNMNk1MQkNiNkd5dlctNW5VWTZnQmdEcEtjQTBmMTBvYXdKbDhYREVaNGZmeG9sMHRKaGlLc0dNMFB1YjVacWlBU21NVDMz0gGIAUFVX3lxTE9fb3JuYWdOdUdyc0MyZzNXam9EMVFTdDVaSjVaRW9LeTVkbmxsUzNFS3d1aHV3WXpObDhnQ0VKQmRCYXpkU0FaWG03OUdndUlpb2lKbHVYcUVxRFpkajZVaGd0OTE2dTBhR2llT2F2aVlmZ3ZfT0d4R1g4OTRpU0JHZVU2OHAyR2c?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:44:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "DiDi genera impacto económico de 81 mil mdp en Edomex Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0dc7063a947237f8"
+ },
+ {
+  "titulo": "El cine mexicano se viste de luto: Muere la primera actriz Regina Torné",
+  "liga": "https://abcnoticias.mx/show/2026/11/11/el-cine-mexicano-se-viste-de-luto-muere-la-primera-actriz-regina-torne-295218.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-11T19:44:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "38cd63fd18104ec8"
+ },
+ {
+  "titulo": "Refuerzan bacheo en el Centro y colonia Centenario de Saltillo",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjlFRjZrdC1qYmRHM19yTm96OHZMRGNES3N6SHNsNktBamZBNGxSMmstaG5wU1NJNWRCR1VWV2R3SzFDcm5PaWg4bXp4RFkySVZpQzUtb2pLTDREeHJWYi1kYWlxc2o3Ylo1RjJiN3B2YzhhVkdPYUdySHRfWi1lZERjUm5TRUNiZmZiUWVCUG1xejNZSldtVlVubjhkNnpG?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T19:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Refuerzan bacheo en el Centro y colonia Centenario de Saltillo INFO7",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "5f81f612111432b6"
+ },
+ {
+  "titulo": "Debe México desplegar tropas contra caravana migrante.- EU",
+  "liga": "https://www.elnorte.com/debe-mexico-desplegar-tropas-contra-caravana-migrante-eu/ar3313033",
+  "medio": "El Norte",
+  "publicada": "2026-11-11T19:43:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La Administración Trump llama al Gobierno de Sheinbaum a desplegar tropas para frenar el avance de una caravana migrante ubicada en Chiapas.",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "c6608debb476ec17"
+ },
+ {
+  "titulo": "UAEH, segunda universidad pública con más licenciaturas de alto rendimiento",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0Q3ZFlVTjJ0NkIydmdXcGk3cDN4NmhacWhoODl5QTFBUXkxczJSZDZ3LVBwZ1J5X1hFaDFfTUE1YnotNElkbno2YXNaRnZyZ3RRNzdfdXc4ZUFWd25BeHh2UjhIelVPVlFub3A1R1NCUW9WOXkydmdZX2dRWG1tT1c0OEFHS3RSOTBKYTVOOENTSW9ZekVnWkFqTjhEU0R1N2fSAaIBQVVfeXFMTlJack5RejdXZThrakRsY09KVkxybnNkTnF2Z1REekxYSS1Ob24xd2xWWmtBTmtJemZNUUNibHdsRXlDbjRIWmhBaUNQbldzODBKZ250cVBBTnNPTHFvRFBwdHdNY2FmY1ZWWDRYMFdsbWFCZ09xQ2RmaTVzV2pmMXZBa0l1cHkzVW9PZkoxdmhpQ1QxSkQwaW1wbDBNRVFzeHV3?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:41:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "UAEH, segunda universidad pública con más licenciaturas de alto rendimiento Milenio",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "a9445af5e217dad2"
+ },
+ {
+  "titulo": "¡Toma precauciones! Cerrarán el Nudo Mixteco este miércoles y jueves; te decimos en qué horarios",
+  "liga": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFFIVTU0ZFo5UkN6QmNEb3FHNmwwNW1MaHdWYjJnTTd5M1lrR3U5OEktRXc2QkhqUEZiUmRUVE5qblR0QzVzVXhMMkVyVWQtZFlTT3NvYU5IZlhySEZoUTFFQkh5NE02Q3MxSThscnZNXzQ3S21VOWhYSVhBR1VySWVn0gGCAUFVX3lxTE9LWlFMeEtiVDNHMzBwTW02bVlTTHhJSFpGdGtDajk4cWxSbC1MYm0tNDU2VFVSOTZBcFRKblI1YWh2WUpNUEdBbkVTNzQ3YUxQUVhpSl9ySW4xeUh3amp0cXM3d1B1YXFndW1DQ29kbV84RHkwS3BZcGVVWFg3Tzc4YWc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:41:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "¡Toma precauciones! Cerrarán el Nudo Mixteco este miércoles y jueves; te decimos en qué horarios Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0be6a86656f99162"
+ },
+ {
+  "titulo": "Manolo Jiménez entrega bulevar Las Torres para mejorar movilidad",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHVqcWdHOElxSXVuSUl3SnZfWFctRElxaC1lclpWNXBXNTIxTWhJLVl0NS1BSF9RbEVGRHg1RGQ5aWJEREVoUzdZVHhDTkNxUDdIc181SXlIUW4xOWxVT3F0OWkzdjU4QzVDSWlJVE9uaVJOSGtkMUhZd0F4Y1BEeThwczVYcGhZSjNLTEZHVUVhZDFjNDFJSWZlYVF5dUFnUWxibXo3UVBYQWNuOUo2bg?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-11T19:41:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Manolo Jiménez entrega bulevar Las Torres para mejorar movilidad El Horizonte",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "492434190c816161"
+ },
+ {
+  "titulo": "Caen 9 hombres por narcomenudeo en Playa del Carmen, Quintana Roo",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV254UGJqMElOZS01TkhDS2JPcF9fMVl6SHBfVG51c3BiQU9fQjFfSHN1cEk2WC12WjFxUHQ0aTJZcENhZk55Qzl0Z2dmeXVtUmlnUThRNWUzM3I3WF9LdXloWWo0R3ZKSUFHbWN0dFV3eU1RUVZEcFlITVVEeFhkTXRKaFNmZ0tVa19uWXFDa05iUXBIWWJR0gGXAUFVX3lxTE50WE9WcE5xVWpmYlVWd0s0cXBFWFlLeGRmaEJCUzFEdWFoOVBEOFdnVmFSOUhxeVNITVlIbjIwdmk5X08zYkEzY2JoN3BQZVNYLW9qWDNEaW1mUEZmdXdNZ1I5QmZ0Z2REZTM0SUJTeXZua0RNRFgyUTB4cTdvOGhuay1Qbk43TDBETmZLMlA2RjEyMGd5MEk?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:40:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Caen 9 hombres por narcomenudeo en Playa del Carmen, Quintana Roo Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1f87d9fb56dfeb2e"
+ },
+ {
+  "titulo": "NL seguirá invirtiendo en seguridad por las familias de Monterrey: Samuel García",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnZQOUo2Y1hSNmNsVzVKSVh4aThtdVFSb3gtcWJwTmZRbFM4RVBTR3NkSl9VSjJiQzJfa0hnUFBLS0VnNzN6aXJNaVlOLUVYcmFBMGIzQUJKQ0tYUEt2R1VSVmJJb2pybzd0VVYydHFlSTNsOHUyNjlMcXg5N0xTcmduUGk1aE94aExja0Rfb2VrTUVWeU43ZmpxQTYwMGVKOE00SWZveV8weTdxVS1NS1ZYOA?oc=5",
+  "medio": "Noticias Nuevo León",
+  "publicada": "2026-11-11T19:39:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "NL seguirá invirtiendo en seguridad por las familias de Monterrey: Samuel García Noticias Nuevo León",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bd6c83b5375ee717"
+ },
+ {
+  "titulo": "Falta de presupuesto limita a NL para contratar nueva deuda, asegura CMIC",
+  "liga": "https://abcnoticias.mx/local/2026/11/11/falta-de-presupuesto-limita-a-nl-para-contratar-nueva-deuda-asegura-cmic-295219.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-11T19:39:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "2b04a640e44e89a0"
+ },
+ {
+  "titulo": "Entregan bulevar en Saltillo en homenaje a Arturo Berrueto",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0k2OThYc2FHLTdkVUVhYW9WX3FVR28zX2FfeWhxZDgwMHVGWUtTci1uZkVXZnN1X19iSGtiejlXeXVranhRS0xMNG1rdk5HM3lNSllqbWFyME51TVNucFNLelVnMEZmNHh5eWFtbmdkNHAtSnJWUzYtY2ZnS3RnUkFHLXhxRXJiSnlJdjI2UUhDdk5kZWtLUkQzNA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T19:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Entregan bulevar en Saltillo en homenaje a Arturo Berrueto INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "70660a17f848b55d"
+ },
+ {
+  "titulo": "Piden prevenir intoxicaciones por calentadores en Saltillo",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEd6Ul96VEotM0c1a2JjeXJnUWxZcHYzamtmRHkwaHpDQ0ZBZ1g3MU10ekc2OXZZdEZZckp3OENUYk8wT0tLdUVXN2hJVTVwQ2VvTGh3VURWeVR4R1BqSkdzYllXNzd6XzhsUE9OaG5Pc1dNLTNmU1pQaFNOV25Hd2JYb0NQV0RGTXVLSmFHZkhTUERmQndLSVlUTnRLb2tYTHpCaWpvT0U?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-11T19:36:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Piden prevenir intoxicaciones por calentadores en Saltillo El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1800d090f304cf92"
+ },
+ {
+  "titulo": "Despliegan operativo federal en colonia Tulipanes",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMkotbktWSjZlSkp0bkFnQlFPTDd1eUhtbzJWY1ZGT3BiS2trM2pLdW9EQnA1a1Y5NlE5MzNVY2RGNkI3LXNGckFzVjZoRno0SzFTN3NHWVBwQVdRdXp5VnVJQWM1NWhkRi1yWHJCU3RiT19IZTAzUWhzaTFNdHp4X2FNajFPS2FBbnUySzBZLW9hQTljWWRFTENDaGs?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-11T19:36:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Despliegan operativo federal en colonia Tulipanes El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "35e8b33dd9cba17e"
+ },
+ {
+  "titulo": "Fuerzas federales realizan cateo en vivienda de Saltillo",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXBwYnNkY0dDeUtGcmVpUjAxS0htNDVFaGxfSU5waUFTRThVRFVWQVo2c1gyTW55QVFEbVJUd3FXWjRxQVB0bGdLWE9BMWc4T1AtX3Y5VE1feEhtU1NxQ0RlWUpHLUFSX0FJbng0cTZ2bDctc0NkS1JLUjVTRnVKVTcyOE9EUVZucEVMalJnNWtRTUt4eGh3RA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T19:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Fuerzas federales realizan cateo en vivienda de Saltillo INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "76bb5ced27ed7b09"
+ },
+ {
+  "titulo": "Concentra NL el 42% de los nuevos parques industriales de México",
+  "liga": "https://abcnoticias.mx/local/2026/11/11/concentra-nl-el-42-de-los-nuevos-parques-industriales-de-mexico-295217.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-11T19:29:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "5beb4a3d930f153a"
+ },
+ {
+  "titulo": "Luto entre los payasos de Nuevo León: quiénes eran y cómo fueron sus últimos días",
+  "liga": "https://www.posta.com.mx/nuevo-leon/luto-entre-los-payasos-de-nuevo-leon-quienes-eran-y-como-fueron-sus-ultimos-dias/v-vl2278027",
+  "medio": "Posta",
+  "publicada": "2026-11-11T19:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b954b4edecb2d08f"
+ },
+ {
+  "titulo": "Discute directiva de Nvidia el futuro de Jensen Huang",
+  "liga": "https://www.elnorte.com/discute-directiva-de-nvidia-el-futuro-de-jensen-huang/ar3313023",
+  "medio": "El Norte",
+  "publicada": "2026-11-11T19:26:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Junta de Nvidia se reúne para discutir el futuro del director Jensen Huang, luego que se revelara su relación con presunta espía china.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "00b270641f68969f"
+ },
+ {
+  "titulo": "Proponen creación de fondo presupuestal para municipios rurales de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRi1CYTg4eFhCU2hWejdjZlY5U005OFBxdTB6N1ZBQllfS3NMM2o4WWpEVmttaFkzRldKUjh0ZUVibU5kZWNwMGVxZHFoX0FRV29aQXNfRDBQazQzUFZyZ3J2SUpzUHo5TDBQYnRMdzNfZzBaVl85QTN4Ti10MnVJVnd5Q0xZUDJtMWY1VjdSRkZNRUJDdXpkYlg0enBCTldtTm5OWDhUa0JQOXloRld4elpkR1JIdUh5YXJibjdFM2xwQmtDTEhqb0V4ZFBtdWJXN0E?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-11T19:25:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Proponen creación de fondo presupuestal para municipios rurales de Nuevo León Reporte Indigo",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "4758a5e01e1e1480"
+ },
+ {
+  "titulo": "Refuerza Matamoros desfogue de agua tras lluvias",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxObDdORkxJR1gxVHVYaUVtM0hncUstVktRUEZHaUhIdENWQzNodktYYXQ4STE0U004MFRydnMtR1kyOTItN1NHZTJlY0hFYmtRaGhSLWdWSmxqa3F5NmtHcF9ORVR3Y19ac21KeGlGWERxWjRwanNJNWZpclhoRVY3dWdIaWU1bjNJZlVoX1kzbGpnZjNYYmNib2Q0ZGhzZw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-11T19:25:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Refuerza Matamoros desfogue de agua tras lluvias El Horizonte",
+  "temas": [
+   "Agua",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "13a66df6cead1d0e"
+ },
+ {
+  "titulo": "Saltillo alerta por riesgos de calentadores y fogatas en casa",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXJ0Wk5aQzJnM01rMjFJczE4cDBCRXo2eFN3VHZhanlDYmhRVkFnTHUxdFpmTzFCWWFsMUxydlB6NEU1dDNidXlTVHJUWFFQZENLRkpvUWw2YU1hNnVtTlp3allBeXBQTWlReS1vN2xGWngweHFCRGhwZUMyVlFkUU9tM1RwMzlSMjJLMjFKVXpReG53UFgtTzlzXzlOdUk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T19:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Saltillo alerta por riesgos de calentadores y fogatas en casa INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "40fea5814022572b"
+ },
+ {
+  "titulo": "Casi 12 horas después, seguridad de Hidalgo informa sobre muerte de interno en el Cereso de Pachuca",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2VacG1SR2Q0dDY3WEpzTzRpcUh5bUpoZDV5QWxEUVcxVFQ1RER0M1FhNkdvWEphYTFJeTVoVWMxVlpYd1RSOGFTeU16Z0xSRDd1SVJCbFozbDhDbGoyWk9FU2lQQVludk5yMmREWDI3M3pQM3dOaFNRM1M3SkNyVkJDcjVtTTFFR0Vnbmk3QldUYVpE0gGUAUFVX3lxTFA1M2htVEpCTDl4T0cwV2pTTmxSRVNMUVA2RWw5SFZWY21TWHFDZFBQbW54R053LUlvQWlZbWdQWFFjbC1VUk9iRVREWTVVNWR1QUFweXZ6NnF6MmVHU3JnME9VTzdxNlV6WGNLSEJzblE4TERzQzhRNGZxaFJTRF9Zd2JwU185SXBDdVJBSHRQM3RFb3k?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:24:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Casi 12 horas después, seguridad de Hidalgo informa sobre muerte de interno en el Cereso de Pachuca Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d4e049b492ea8794"
+ },
+ {
+  "titulo": "¿Quién era Regina Torne, la actriz de 'La Loba' que falleció HOY 11 de noviembre a los 83 años?",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGR5bGNhUXBfcURRbjZSNzUyNTdNenQxbHdEaFhITXVEX19ITjgzYllxeXZRd2REbjdwUTlkTWUyRWpVZHkyaUo4N3dROWZjQ2xaUFpSRWV6NnBxdjhRS1F5b1llZW04LWxQMVhrYjRCSFNxN2VZZ2hfR2x0TGxuUm5TX0RiWWN3RXRIWVhxOUxwemtuUDdkdUZ6NmJhUXhhYkxMWV9XbG9ZMVhN?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "¿Quién era Regina Torne, la actriz de 'La Loba' que falleció HOY 11 de noviembre a los 83 años? Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "952026a4d62cf8af"
+ },
+ {
+  "titulo": "Tendrán trenes un tercio de recursos para obras prioritarias",
+  "liga": "https://www.elnorte.com/tendran-trenes-un-tercio-de-recursos-para-obras-prioritarias/ar3313018",
+  "medio": "El Norte",
+  "publicada": "2026-11-11T19:21:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "El Gobierno federal destinó para seis obras ferroviarias un tercio del presupuesto de proyectos prioritarios de inversión física en 2027.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "46ea4905cea8e9ea"
+ },
+ {
+  "titulo": "Muere familia regiomontana en brutal accidente carretero en Texas",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTERlRllSZ1BYc0hvZFh1WXFSZUY5eGJ4MURVc0ZqX19rZHRLSC0ycWdiMml5Q2FOMk9EQU1odzNlMTAySG9kekN6bW54alA1dEh6QzRqRWcwanc3NGptT3hTYVV4dHdIR0RJUlEtQmtEcndNQmg0eVBVSm9YNlk2ZFRHczFJdlV6SkRfTFVxVUVTbmFManpRRXdvZmN3X0luX3djQmpvMHNqREJ60gGsAUFVX3lxTE5MM0JjcXd2bDNuMkNZS21LcFJZR2FXZnZrQVo1cGdNOW93SDFicWN3V2dEMjAwQzE3UFRpOFcwTVFiNm0xdU5JTjM5NEtaQm5BVi1qU1h3WHFhVzU3TU1CVFc2X3JGaXBobThHcVFYQWJBdVNTbzFmUVJsdnhKcm9BcW1LcW9LcVVzaC1udUtRYjd2X0lSS0VEZ1M0eDVrbHZuQzRJVFVQNTkybVU?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-11T19:21:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Muere familia regiomontana en brutal accidente carretero en Texas Telediario",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "18908567bf38e3ce"
+ },
+ {
+  "titulo": "Eddy Reynoso manda mensaje a los posibles rivales de 'Canelo': \"nadie lo ha llevado a la lona\"",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVgxV0Y1ZkZ3bnFnY2RfdXdMN2ptWXVnYWVVdTB2aEpNMjNVSlVYZmlRZUZHeWdjS3QtWm8xUmEtNlhkM0E0RDFQa1lBVzllR3BxYVFHLXpaNUxNZjRJMnVYd0VkYjY4N0dpcnhmZnZBSE16NkJDamNBZGtFdlJfV2F6X2s4cUZ1UlhtM3FzWXY3NU43eDExQzRNV0h0cjhxd3FzeFZCZWRKZ0gy0gGsAUFVX3lxTE1HaHR6angxTXJhdTFHS3RTMmV1WFk4VEtxVXJEYjllUG1PQllORmtkRktTU3F1WS0wMnM4M09ISFdESTB2cXJkY3dOZjd2MnZLUHFmVkRsb3pNRmdLem16UkdENjF4SUFMZjJneFkyS0k4aUtKUTdJdU5SSF91M1pzd1hoRGdfbkVMZjNrUmc4X1VvTkpaVWtUNlc5bHkydnQxZUREczYyNkVqUVE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Eddy Reynoso manda mensaje a los posibles rivales de 'Canelo': \"nadie lo ha llevado a la lona\" Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7d6a2ede04e99365"
+ },
+ {
   "titulo": "Arranca en García el programa 'Tarjeta Jefas' en apoyo a más de 2 mil 500 mujeres",
   "liga": "https://abcnoticias.mx/local/2026/11/11/arranca-en-garcia-el-programa-tarjeta-jefas-en-apoyo-a-mas-de-2-mil-500-mujeres-295216.html",
   "medio": "ABC Noticias",
@@ -12,6 +667,48 @@
   ],
   "local": true,
   "id": "8d7d2fb9ba1cfdc1"
+ },
+ {
+  "titulo": "Realizan limpieza en la colonia Moderna y reparan luminarias",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXR4Nm03cmZUYXVIcWRPM1hpQXhvbG1rdnRvMmZKVGhDV3VORkM1dnN5WTR5NXhKR2MzVmpabHlnSTRYak9KY1VheFY0clFMY3psejVtSWk2eDl1V2puYWE5ZWNnY010dkFJUjNTSEFnNWZEUHgta050ZFgyamVoVmlPVlZjMzRTeTNlOEJQeUY4LVFLQkVvUWx0V2p5MG8?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-11T19:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Realizan limpieza en la colonia Moderna y reparan luminarias INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c70c85ece543d486"
+ },
+ {
+  "titulo": "Petardos y magnolias: el primer amor entre porros y metas por cumplir",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjRoRjdwLXREUk9rTE1qT0F4NVR1QXBNR3JEZjI0WDZkdzdjVWhHbGFjUTM2dFd3Y3lCSHRFNy1rWnBHVFJiTmt6TFB0ZlhYMHBvNmt3cTdXWjd6OVhwRmRoZnVWV2d4bTFpLWEwT01mMTIzcFVIR1FkNE5UMUtvWlVTUG1FTmpjTm9xZGJSZEVvUVMw0gGUAUFVX3lxTE8wN0FkUE90RjIwbFdydy1obnh3MXI3bGhiOGVtd0NuanYwWnoycEcxMnktcFlJTVdja0xTU0Fxa1U0b0M4eEZQUlF2ZzJRVVhybl9XZ0NZM1NENUZXa2tPZzRpaXFnRnQzbjJuN3p3OFFSVEtQdm1DOU1XanZoMjJtVUw3QUNWWnlBYWwxTTZyZXBCQzM?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:17:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Petardos y magnolias: el primer amor entre porros y metas por cumplir Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5fd77c649939e367"
+ },
+ {
+  "titulo": "Condusef alerta por fraude a nombre de Barclays México: así operan los falsos cursos de inversión en redes",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbFlvZWhwd2JRR1FFMWFFYXBfbzU2WkR3bDR1ajFUZWN5ZV9rM3F1UF95cWV5OXZ4TjZaYmZNWGxvcFFEYm5MYXkyQUQwOWJTSnhCUGVPMHFxNUk5bXY3MnhrY01wSndnNE1wZ2t3Zl82eWdsdDJLRlU3N3p3UE9LdzFHYVNqQ1gzNWFoMjVzX0prQThGanfSAZYBQVVfeXFMUEJKc2RaMm9zM3VNNF82TVlERjdmMDRYeldCNkZ1WXR3UmVsZmJrN21vUVhsTFNlNmwyRlVRM1Zqcy1oUXFMaGZpLUJ1RmhpZjVsN3RlX1pmQUdoanEzT1hrT3ZBQ0FKTDRnb2RYMHkzUkZndHBYRGZRMW4xNzVZSEkzTTNjRjBoN1F4Y1RPc0VGYlM4OGpB?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-11T19:15:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Condusef alerta por fraude a nombre de Barclays México: así operan los falsos cursos de inversión en redes Milenio",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "a293a16524911db6"
  },
  {
   "titulo": "Familia de la maestra Cecilia afirma que hubo más involucrados en ataque del Colegio Americano del Noreste",
@@ -482,6 +1179,20 @@
   ],
   "local": false,
   "id": "a993fb1d28bf6ef5"
+ },
+ {
+  "titulo": "Derrumbe en Brooklyn deja un muerto y al menos diez heridos",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVVJEdXgyMXhXLUkwNjdTVTFXcG94Sl9YY1NQdi0xVEVDTHQyS0h6N3V3dDE5SkZ6M1pkNTJQMnQyMWNKdXZnRGVQRE9KeV9UbUpjOGlRbDVIU3ZlaWh1N2VKbkpwRHU5VHFrUVhscUpYQnZfeHJLeWZleERoUzFnN1hnbDIxNXRkSEtsVzY4ZTBmR0VhZWV5THJpRVZyX3h2VkdFSGNrXzd1MFlTcjVZaA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-11T18:38:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Derrumbe en Brooklyn deja un muerto y al menos diez heridos El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "026ed4ea548f545a"
  },
  {
   "titulo": "Se reúne Adrián con embajadores de Francia y Portugal",

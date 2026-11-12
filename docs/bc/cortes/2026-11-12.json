@@ -1,5 +1,678 @@
 [
  {
+  "titulo": "Detienen a Óscar “N” por feminicidio de Karla y Osiris en Tláhuac",
+  "liga": "https://elcongresista.mx/justicia/detienen-oscar-n-feminicidio-karla-osiris-tlahuac",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:19:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Óscar “N” es detenido por el feminicidio de Karla y su hija Osiris en Tláhuac, con indicios de una agresión familiar violenta.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "77a88920bc64bf3d"
+ },
+ {
+  "titulo": "Planteles escolares de BC tienen cobertura docente completa: Irma Martínez",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkxvQzVzWlpHS2VHNzV1T29rcDl1azh2NWdNT3EzTVA4YkVIQUg5a3FjZGNDV280V2lNWW9NakJDUW1kaFcyUE9JNklXend0S1NNaDNGc2RUNE9TOWFTMXpNQ2JDOUNQNGNTdVBnNXpGOFZzbjFkMnZEN0RER2o3eldVenl5NV9DLWxNa21MX1hDd1o4RWJkc0pDTFBSMzNKTHV1aWEzYXpNckNGZlhsUi1pcjJmUmZ0TGVqTWRNZDd0QQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T20:19:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Planteles escolares de BC tienen cobertura docente completa: Irma Martínez AFN",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "ed41a955af5dbfcc"
+ },
+ {
+  "titulo": "SE LARGA EL FESTIVAL INTERNACIONAL DE CINE DE ENSENADA",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yeGdfWVhQbmI0NE9GUjItNGVraWhXQUwwQkRFVHB0SGVZbGJzRUhmV0thRk5rdGxySDdDaWVyeHpwY2VzcEFUSUpxdkVfS3dUMnJjQ0lIYThya1VZSWMtUVhhSTgxdw?oc=5",
+  "medio": "Radio Provincia",
+  "publicada": "2026-11-11T20:17:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "SE LARGA EL FESTIVAL INTERNACIONAL DE CINE DE ENSENADA Radio Provincia",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "134a5079968eed4e"
+ },
+ {
+  "titulo": "Congreso de Michoacán destina 13.1 mdp a laudos laborales",
+  "liga": "https://elcongresista.mx/politica/michoacan/congreso-michoacan-laudos-laborales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:17:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "El Congreso de Michoacán gastó 13.1 millones en laudos laborales, superando ampliamente el presupuesto aprobado de 1.9 millones.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f0fa216250bf2f60"
+ },
+ {
+  "titulo": "Octavio Ocampo propone presea Cuauhtémoc Cárdenas en el Congreso",
+  "liga": "https://elcongresista.mx/politica/michoacan/octavio-ocampo-presea-cuahutemoc-cardenas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:16:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Octavio Ocampo propone una presea en honor a Cuauhtémoc Cárdenas para reconocer contribuciones en Michoacán, a entregarse anualmente.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d7af6cadf5a72498"
+ },
+ {
+  "titulo": "UMSNH avanza en proyecto del Centro de Justicia Nicolaita",
+  "liga": "https://elcongresista.mx/politica/michoacan/umsnh-centro-justicia-nicolaita",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:16:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La UMSNH avanza en la creación del Centro de Justicia Nicolaita para proteger derechos de su comunidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3745e8373b9ea148"
+ },
+ {
+  "titulo": "Investiga FGE homicidio de empresario en Lázaro Cárdenas",
+  "liga": "https://elcongresista.mx/justicia/fge-investiga-homicidio-empresario-lazaro-cardenas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:15:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La FGE investiga el homicidio de un empresario del sector de paquetería en Lázaro Cárdenas, ocurrido durante una cabalgata.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "391da9289270f2ff"
+ },
+ {
+  "titulo": "Baja California participa en capacitación nacional sobre justicia alternativa",
+  "liga": "https://elportavoznoticias.com.mx/baja-california-participa-en-capacitacion-nacional-sobre-justicia-alternativa/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-11T20:13:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "El curso tiene una duración de 20 horas y es coordinado por la Red Nacional de Mediación de la Comisión Nacional de Tribunales Superiores de Justicia (CONATRIB), en conjunto con el Consejo... La entrada Baja California participa en capacitación nacional sobre justicia alternativa",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "903377242462d839"
+ },
+ {
+  "titulo": "Secretaria de Educación dice que tiene “información poquito diferente” sobre menor que murió por sobredosis en secundaria de Tijuana",
+  "liga": "https://puntonorte.info/2026/11/11/secretaria-de-educacion-dice-que-tiene-informacion-poquito-diferente-sobre-menor-que-murio-por-sobredosis-en-secundaria-de-tijuana/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-11T20:12:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Mexicali.- La secretaria de Educación de Baja California, Irma Martínez Manríquez, declaró que la información que se le dio en la Secundaria Número 78 de Tijuana, donde ayer murió un estudiante aparentemente a causa de una sobredosis de droga, es distinta a la que se difundió. “L",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": true,
+  "id": "e7a2a64a235d1f36"
+ },
+ {
+  "titulo": "Movimiento Ciudadano acusa al PRI y PAN de bloquear protesta de diputada",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/movimiento-ciudadano-bloqueo-protesta-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:05:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Movimiento Ciudadano denuncia bloqueo a la protesta de Marlene Gárate como diputada en Nuevo León y anuncia impugnaciones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "231935848292e967"
+ },
+ {
+  "titulo": "Atardecer en Tijuana: una postal urbana",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTI3RDR3VFE2Zy1zZTBGZ3V2empSMDlOb0M0WWJvUGc3NkhheEZfQi12c0pIUTVtVHZnM3l0X2ZnNnBGZV91X2ZKVzNYMmJzSDRDcFNiaTFEeVA1WUNyY29nNjN4YVl3T0dWUHpLeHZteUxkM0hGNTQtUzhfcjNhSmZXTk9JeXh6Njc3TnJEQXU1WUU?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T20:05:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Atardecer en Tijuana: una postal urbana AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "824819d102008879"
+ },
+ {
+  "titulo": "Oposición critica el estancamiento económico en Baja California",
+  "liga": "https://elcongresista.mx/politica/baja-california/oposicion-critica-estancamiento-economico-baja-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:04:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Durante la comparecencia de Kurt Honold, la oposición critica el estancamiento económico y la pérdida de empleos en Baja California.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "6016bef7be073738"
+ },
+ {
+  "titulo": "“Amiga…date cuenta!” se presenta en Tijuana con dos funciones",
+  "liga": "https://elcongresista.mx/politica/baja-california/amiga-date- cuenta-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:03:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La obra “Amiga…date cuenta!” se presentará en Tijuana el 12 de noviembre, con funciones a las 19:00 y 21:00 horas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ab1857067cf6a32f"
+ },
+ {
+  "titulo": "Respalda Gobierno de Ensenada acuerdo de colaboración para el ordenamiento turístico y ecológico del Puerto de Punta Colonet",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPckpZY0JVWTZUdnJWbzhKbDUzWFd3MkZxSURGLUdPcy1hZmpKeFdNQnBhTnBmM08taXVCcy1NeGlNc0FfMnU5a0xQRXdZVkZxblZVSmMwRXMwMU50MlFsa09WUWRNZ2lHcGMxWER1WnI2b3pfYmhfd3ZpdkNCMDlndldnRS0wMzJqOU96cjJQNzNuNzhtUTRJY2p0UVVsUjVfSTlrS2dyT2RjSkhCeGhfV3dwNDFiQzJMT2pOM2s5bkQzaXJpMlM2VWxaTl81TFNEekNndndxSmdNNnlaV0tLbS1xUkrSAeoBQVVfeXFMT3NuNERaWS1PQk5GYTkxVm0wSGRvZXpqVndGMnBxV2lkcWExNnl6cU1BX2JaMjZ5VkVGbHJ4MkRBUUlldHF5OVg3TUNOUEUydHpEZHBOTVpESXVZbk1YWHFYcXN1LXdCYmlnNGlZNTlLSF9mRlFnRnFEbkd3SzNjLUFHNW5wOEozMHQ1ZTBsZEFSblcwUHpva2V4UjRiVW5BeEJQdFAyejl3NktpXzZyNHIzSzZaZkFrUjNRbFJYTl9Tc3V6NW5xYnB3cXcwOS1zd0JqUW9OZUlSTlZGSkh5TnllUmxhYzZvdXJn?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T20:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Respalda Gobierno de Ensenada acuerdo de colaboración para el ordenamiento turístico y ecológico del Puerto de Punta Colonet Uniradio Informa",
+  "temas": [
+   "Gobierno municipal",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "20ef2914d54bcf2f"
+ },
+ {
+  "titulo": "Ariadna Montiel solicita crear comisión que investigue elección 2006",
+  "liga": "https://elcongresista.mx/justicia/ariadna-montiel-comision-investigacion-eleccion-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:01:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Ariadna Montiel solicitará el 12 de noviembre la creación de una comisión que investigue la elección presidencial de 2006 por declaraciones de Vicente Fox.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "bbc07a142a80c8e5"
+ },
+ {
+  "titulo": "David Piñera critica el uso de \"Baja\" en vez de Baja California",
+  "liga": "https://elcongresista.mx/politica/baja-california/david-pinera-baja-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T20:00:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "David Piñera critica el uso de \"Baja\" para referirse a Baja California en la Academia Mexicana de la Lengua.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "838820b51dbe25f7"
+ },
+ {
+  "titulo": "“Nos preocupa la mutilación que se viene haciendo del nombre de Baja California”: David Piñera",
+  "liga": "https://zetatijuana.com/2026/11/nos-preocupa-la-mutilacion-que-se-viene-haciendo-del-nombre-de-baja-california-david-pinera/?utm_source=rss&utm_medium=rss&utm_campaign=nos-preocupa-la-mutilacion-que-se-viene-haciendo-del-nombre-de-baja-california-david-pinera",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T20:00:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "“Llamarla sólo ‘Baja’, es ofensivo y denigrante”: David Piñera al ingresar a la Academia Mexicana de la Lengua como académico correspondiente en Tijuana. LEE AQUÍ SU DISCURSO ÍNTEGRO",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bd13ca5bfe5c5d6b"
+ },
+ {
+  "titulo": "Presupuesto 2027: 5 claves del plan de $138.000 millones para el Gran La Plata",
+  "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScDE5RVNlMU5HTGZaQm1ETEtVQnRkOGp0VEdzeVE2Q1FXbTJLeUU2REQ0ak9hdTd1QTZSM2hlZ1B0OEVPa21STExJYWNOdmtrR2thdnNYSEJ1T0FybVFZRjRoOW5IaHhZOEpOSmV5akIyekR6YU84LWRMdmcyS00?oc=5",
+  "medio": "El Correo Gráfico",
+  "publicada": "2026-11-11T19:59:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Presupuesto 2027: 5 claves del plan de $138.000 millones para el Gran La Plata El Correo Gráfico",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "8ece9007231a6925"
+ },
+ {
+  "titulo": "Congreso de Baja California aprueba ampliar licencias parentales con goce de sueldo",
+  "liga": "https://elportavoznoticias.com.mx/congreso-de-baja-california-aprueba-ampliar-licencias-parentales-con-goce-de-sueldo/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-11T19:59:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La modificación establece permisos de 30 días laborables con goce de sueldo íntegro, que podrán solicitarse sin distinción de sexo, orientación sexual, identidad de género o estado civil. Además, contempla una ampliación... La entrada Congreso de Baja California aprueba ampliar l",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "b23f23101c3dda5f"
+ },
+ {
+  "titulo": "Aprueba Cabildo de Ensenada el anteproyecto de Ley de Ingresos 2027, sin incremento en el impuesto predial",
+  "liga": "https://www.uniradioinforma.com/gobierno/aprueba-cabildo-ensenada-anteproyecto-ley-ingresos-2027-incremento-impuesto-predial-n913923",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T19:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Sin incrementos en el impuesto predial, se prioriza el bienestar de las familias ensenadenses",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "b20c43750e35cdb2"
+ },
+ {
+  "titulo": "BC, entre las 10 entidades con reformas contra la corrupción: Marina del Pilar",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnkxTk52YTRuTjVyc1g1TUgxWmZPNWF1eUphdXE3ZndMSnBTRlJZbXZ2eWdhRkNPbHRLeUM1R0lqNkw4Y2g4b3dORzhVTUlZbmpnVmdycG5sb3hqYXQzZFRxNjlQbjJ2ZVIxUnJ4TnhxdGViS05RWENuU1hXR09YWkhKY0puSkROQnNUUVRPcFU3alhWRXRjOUt5U05RZEZ5SktkQ2UtLUpSd1NKa1FvdG16dHFIamlxdkcyRUJVb3FVMXN3VlE?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T19:54:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "BC, entre las 10 entidades con reformas contra la corrupción: Marina del Pilar AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dc1ec5e864c39429"
+ },
+ {
+  "titulo": "El Trompo ofrecerá experiencia astronómica en el NDE 2026 el próximo sábado",
+  "liga": "https://www.uniradioinforma.com/sociedad/el-trompo-ofrecera-experiencia-astronomica-nde-2026-proximo-sabado-n913921",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T19:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Noche de Estrellas comenzará en el Museo Interactivo a partir de las 15:00 horas.",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "c659f4e37a77c9f0"
+ },
+ {
+  "titulo": "Sujeto que robó en una tienda quedó en prisión preventiva",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsOXJobk9vWm1RM3R4MVVudWc3WXZIR0daNHc3T2liWUl6YVFhTnpMSWZQZkhNYnJJUkhfSFVGLVEwZW5vZHJTSGlUNDBwRDhMa2ZqRUV0R3NxRjd3STlJQ0ExSEZMdHJIVkJiQnJ3?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T19:52:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Sujeto que robó en una tienda quedó en prisión preventiva Ensenada.Net",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a481ddd84dca15bb"
+ },
+ {
+  "titulo": "Celebran más de 3 mil personas la Expo Canaco en Nogales",
+  "liga": "https://elcongresista.mx/politica/sonora/expo-canaco-nogales-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:49:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Más de 3 mil personas visitaron la Expo Canaco en Nogales, destacando el esfuerzo por promover el comercio local y productos de calidad.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ca7b10a36977c157"
+ },
+ {
+  "titulo": "Montiel acudirá a San Lázaro a pedir comisión que investigue resultados de elección 2006",
+  "liga": "https://zetatijuana.com/2026/11/montiel-acudira-a-san-lazaro-a-pedir-comision-que-investigue-resultados-de-eleccion-2006/?utm_source=rss&utm_medium=rss&utm_campaign=montiel-acudira-a-san-lazaro-a-pedir-comision-que-investigue-resultados-de-eleccion-2006",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T19:48:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La petición sería la primera comisión investigadora impulsada por Morena desde que alcanzó la mayoría en el Congreso.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "18b57c538f232897"
+ },
+ {
+  "titulo": "Trabajadores de la UAEM bloquean autopista México-Cuernavaca por salarios",
+  "liga": "https://elcongresista.mx/morelos/uaem-bloqueo-autopista-mexico-cuernavaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:48:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Trabajadores de la UAEM bloquean la autopista México-Cuernavaca por más de seis horas exigiendo nivelación salarial pendiente desde 2021.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "42a7eb3efe761be6"
+ },
+ {
+  "titulo": "Miguel Ángel Flores se postula como candidato a la alcaldía de MTY",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/miguel-angel-flores-alcaldia-monterrey",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:47:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Miguel Ángel Flores, secretario de Gobierno de Nuevo León, anuncia su candidatura a la alcaldía de Monterrey con propuestas de seguridad.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "1658295e9078c1db"
+ },
+ {
+  "titulo": "Gobierno de Tecate convoca a participar en el Mérito Deportivo 2026",
+  "liga": "https://elportavoznoticias.com.mx/gobierno-de-tecate-convoca-a-participar-en-el-merito-deportivo-2026/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-11T19:47:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La convocatoria contempla tres categorías: Deportista del Año 2026, Atleta del Deporte Adaptado 2026 y Entrenador Destacado del Año 2026. Podrán participar deportistas y entrenadores mexicanos residentes de Tecate que cuenten con... La entrada Gobierno de Tecate convoca a partici",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b5b24cabbd75f0fa"
+ },
+ {
+  "titulo": "Defensa de Danna Yanina busca arraigo domiciliario para evitar prisión",
+  "liga": "https://elcongresista.mx/tamaulipas/defensa-danna-yanina-arraigo-domiciliario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:46:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La defensa de Danna Yanina busca que su proceso judicial continúe en arraigo domiciliario tras el feminicidio de Dafne Zapata.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7dc0832c34e643d3"
+ },
+ {
+  "titulo": "Refuerza Gobierno de Ensenada limpieza de infraestructura pluvial ante fenómeno de El Niño",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalBwMldkQm1GY0FjMnVGNzQyR0VmMWUzME9Ob2RjVno0YTJoOUJNZmttTUFNdkRYbnVQUDdER3lvTmg1NjJOLW1NN2t3eFRwNndocDFlSUVYa2VoMFhlNlZqWEFsbldocW5WdEM3cHlncmdqaERmdlR1U0F0RXoxbUlLa0pwTjNNelo0WUZYbkZoOWp1TTJSaENVOXhDelYxd1pLNGRrR0FwRmNDdW1YSzV1ZklneUIzU2JWNERZY9IBxAFBVV95cUxNUmxPeDdQZUloc0loWnBCaU1Ya1k1RHhHUl85aFZWbmhQZ1E0QXVnN2tjVDVNUDBxQzVVRFA3OFFDQmxzT1QybEM1Z3g5WnFFeU9WS1dKZ2NGejhic0h3WEN2OXhKdDBlTG9rSDQ3cVdOT2RLZEhncmxPOFdpTjZDa284YTJXMks4ZHN2TkJybGQxMGg3cHFxRm16RzNCNWpnU1c2Y0ZNMWN5clFMNS1DaFA5WnFxWmdMUXRQMl9Wc1ZLTWEw?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-11T19:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Refuerza Gobierno de Ensenada limpieza de infraestructura pluvial ante fenómeno de El Niño Uniradio Informa",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "d51723c39bdf2c1f"
+ },
+ {
+  "titulo": "Más de 100 familias fueron beneficiadas en jornada comunitaria de Evelyn Sánchez",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0lIdVZ1bkhYMEQ4LVRHTmtqMVcwanFNMVRXSlhzMnJHVEtSSy1IeE1ZdE1JeXJQa1c4elI4S3ZhcXR1Q0VveThlOHc0WmZNRDdWX1VCeHF5ZldsQzdpZjI5TFpVdGwzN1ZwcDdJMUl5Tm5rc0M3QWI0cEZuTkFfX09FV1VKa19uTVktYW82WUl6alc3eVF2X3lyTEpQbG9NaUE4ZzE1aUc2ZE91cFYwWkFZQWRXNndPUVFsdFcxQ2FnLXlOeDlGVG9yOA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T19:45:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Más de 100 familias fueron beneficiadas en jornada comunitaria de Evelyn Sánchez AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1436f821a210d6ea"
+ },
+ {
+  "titulo": "Decomisan 248 kilos de carne de venado y pecarí en Yucatán",
+  "liga": "https://elcongresista.mx/politica/yucatan/decomisan-carne-venado-pecari-yucatan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:45:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La Profepa y la Guardia Nacional aseguran 248 kilos de carne de venado y pecarí en un operativo en Yucatán, intensificando la lucha contra la caza ilegal.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5a57743d9f55d94a"
+ },
+ {
+  "titulo": "Ramón Vázquez realiza asamblea de Morena en Valle de las Palmas",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnRkTjRic3gtSFg5bkZGRFBRU21PNzRlT0c1SkF3aFZBQ0pjUjhUV2JjMDY3WFJrcEkwS3NvU29PRVNZMWRDOVZZNU1GbnFGaUFiQ0dIc0tHRHZBdk1GcWliV0QwdWJqVWl4MUJRVS1sdmVHMUtQRzNOVHpqRmp5U3p2TUNvZi1jLWVVS0ZaMXBoQ0NMRkVoczI2N1NTRDRy?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T19:45:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Ramón Vázquez realiza asamblea de Morena en Valle de las Palmas Baja News",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7b08a8adb907892f"
+ },
+ {
+  "titulo": "León XIV regresa a Perú tras años de labor pastoral; visitará cuatro ciudades durante su gira",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGQ1b2RzNUJ6bGRIME55MWNLZXVxWTdZeTZUSTd4WkZ6V0s3WEp2UWdnbElSWnkxVlh5MG9PNms1VWtsVmNqOFFLdFlNenZaOEkzc1dLYVNlMTVNd1R6Y19IQ1Fpc1JFRG92OVdpNWJDQWx4QjhSb3lyVV9UOW9DYUN6cHByU0Z5Z2dPMzhpaEdDbnZndTBRTkRRbDFfenJ2ektQV29NVzFUb1pWT1dBS3ltS1gzRDV6VjZmSXZUdlJfdDBwd3otcVB3aG4?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-11T19:41:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "León XIV regresa a Perú tras años de labor pastoral; visitará cuatro ciudades durante su gira Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fa5ce352ee9f6ef4"
+ },
+ {
+  "titulo": "¿Qué ha hecho Carlos Candelaria por Tijuana?",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTdOU2hnZ3hDcGhnMHladmdiWkpFNVdYZnVUWk5wZ3ByOEwtYUs4eFJpYi03UHJyRUtKSTM2b05BUlZQZGc3VXZMMllsZ083ZUZtdi1WRmpXckczeTdDY1ZXOVhiX3lOTVMzOF9NRDdmRlNWbWdjdGlNSFFNeTJmdVRQcVY2am9wMHJlUlBtS2Y?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T19:41:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "¿Qué ha hecho Carlos Candelaria por Tijuana? AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b039f1fde9444798"
+ },
+ {
+  "titulo": "Buscan a Ismael Arévalo Villa de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KM2pXNDk4Ymk1VDBzbHpSUzZpd2k5cG9Bd3FRenhOOG5kVzktRVZ5WEx1cGw5dTZsdFZkck5jWEI2R1NTRHp4ZGEtNkYwS1FwcWRZLXhYYlh5OEk?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-11T19:39:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Buscan a Ismael Arévalo Villa de Ensenada Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b84c4ab5c84dd3b8"
+ },
+ {
+  "titulo": "Mujer Estadounidense Pide Ayuda a Policías de Rosarito para Regresar a su País",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVC1qY01Pd1J4TXZFOWpLUWpCcmlTbmZFanFPQ1JVRVZuaG9pRjRjblhGai11VkhfeTNvSjFwLXZPSWNJVHExODRwOUVzb2k4UmhubGhPSGt1R2FmNVkwUXVzaWJBaXRSU0xfS3VjaHJ6YkxuSXNka0tJQmVPeUp3aDZ4M1FWRzFScThULU9scVpYT0NfRkRFenVYMW5zM0djSGR2cUFqaEl2ODlYNkxzamtGdVVDbDdSdDA2QTN3NVQyUUtjXzFZUw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T19:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Mujer Estadounidense Pide Ayuda a Policías de Rosarito para Regresar a su País N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "26bd40873f50906c"
+ },
+ {
+  "titulo": "Ramón Vázquez lleva asamblea de Morena a Valle de las Palmas",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTVwcHJ0MTAxSjBwZ0VuV3FCYmY3bVVYSk15MXh3S09OVEFnNEJvN0hOUExLMktYUDBkdXF2TjNWQW9VbGZ5Y0xIWU9ibmphX25qSkhPOHpwRFBHVFJZQ0JUODRJenJYOE43cmRObVpZanNPWm5KVm9WMkNfaDlPT0g1aHVkS2ZSell5Y1o2NFBTRmN0cVM0bFNXbzFaZjl1WW4yUzM5ZlZUQm1UTGFNNw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-11T19:36:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Ramón Vázquez lleva asamblea de Morena a Valle de las Palmas AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "14423d7ec515e7a7"
+ },
+ {
+  "titulo": "Resultados Tris De las Siete hoy 11 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-siete-sorteo-36926",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "El sorteo Tris De las Siete número 36926 se celebró este 11 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "74440e559df8e5bd"
+ },
+ {
+  "titulo": "Resultados Tris Extra hoy 11 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-extra-sorteo-36925",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "El sorteo Tris Extra número 36925 se celebró este 11 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "68b201c850bcd28f"
+ },
+ {
+  "titulo": "Resultados Tris De las Tres hoy 11 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-tres-sorteo-36924",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:35:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "El sorteo Tris De las Tres número 36924 se celebró este 11 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a6df154e0bdccc8f"
+ },
+ {
+  "titulo": "“Amiga…date cuenta!” ofrecerá dos funciones en el Foro",
+  "liga": "https://zetatijuana.com/2026/11/amigadate-cuenta-ofrecera-dos-funciones-en-el-foro/?utm_source=rss&utm_medium=rss&utm_campaign=amigadate-cuenta-ofrecera-dos-funciones-en-el-foro",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T19:28:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Con un gran elenco, la puesta en escena está programada para este jueves 12 de noviembre en el Antiguo Palacio Jai Alai.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2dcf9ed9ea611974"
+ },
+ {
+  "titulo": "Lucha y Despecho Vol. 2",
+  "liga": "https://zetatijuana.com/2026/11/lucha-y-despecho-vol-2/?utm_source=rss&utm_medium=rss&utm_campaign=lucha-y-despecho-vol-2",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-11T19:22:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "La peculiar cartelera que combina el pancracio con la música y baile, organizada por la empresa Lucha Libre Tijuanense será este viernes 13 de noviembre en el gimnasio del Auditorio Municipal.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3c5b917c63e8081d"
+ },
+ {
+  "titulo": "Matamoros: mantiene limpieza de drenes tras fuertes lluvias",
+  "liga": "https://elcongresista.mx/tamaulipas/matamoros-mantenimiento-drenes-lluvias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:22:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Matamoros intensifica labores de limpieza tras lluvias, operan cinco bombas de desagüe para evitar inundaciones.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "f32430fbe67add28"
+ },
+ {
+  "titulo": "Localizan sin vida a médico de 73 años en Nuevo Laredo",
+  "liga": "https://elcongresista.mx/tamaulipas/localizan-sin-vida-medico-nuevo-laredo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:21:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Encuentran sin vida al médico Arturo de la Garza de 73 años en Nuevo Laredo tras varios días sin contacto con su familia.",
+  "temas": [
+   "Seguridad",
+   "Salud"
+  ],
+  "local": false,
+  "id": "c684d524688d7346"
+ },
+ {
+  "titulo": "Arranca en Ensenada la Séptima Brigada Estatal de Búsqueda en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSXQtQzA4aEhYYUtuUGRoYTJMcTJJeWVxaEZXSV9JRkxXTERFVXRhVmZaTms0amJmejl4RnZELUF0Y3BPUTh4bl92a3RsX3Y1ZmlINlh6WXNUUTViREtQd0RxRmNuM2gwWkYtYmJjUC10VTlxYXR2RUpkRWJONEw3TTZyNmlGblFKTmJicHUzbE9xdEtqNXA4U3lPbG9majJqNkdCZ3FNUHh4dnRPbHBaNFMwczc1SnpTcW40YjBISk1vMTAxSUo3VFdwR3F2MDNMdER4dk4wZ3FMUQ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-11T19:21:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Arranca en Ensenada la Séptima Brigada Estatal de Búsqueda en Baja California N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "26fde35651984757"
+ },
+ {
+  "titulo": "Jalisco firma convenio para avanzar en el tren Irapuato-GDL",
+  "liga": "https://elcongresista.mx/politica/jalisco/convenio-tren-irapuato-guadalajara",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:19:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Jalisco firma convenio para agilizar la construcción del tren Irapuato-Guadalajara, con un recorrido de 4 horas y 15 minutos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8d9bf49cfd0da1ea"
+ },
+ {
   "titulo": "Conferencia sobe Sebastián Vizcaino en Casa de la Cultura",
   "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MNWJmeEx0TThVSWZGNnZRNDdvcnNzUGJORXpnYzdXanZvdWRlVmxBbmo0VENwb2ZET1hDbU4zWFRDcmY3RVZMdmh3SXY4V3pHV3gyYVZEbU9oNEE?oc=5",
   "medio": "Ensenada.net",
@@ -12,6 +685,48 @@
   ],
   "local": true,
   "id": "77d8c155b77888e1"
+ },
+ {
+  "titulo": "Firman convenio para liberar derechos de vía del tren Irapuato-GDL",
+  "liga": "https://elcongresista.mx/politica/jalisco/tren-irapuato-guadalajara-convenio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:18:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Jalisco firma un convenio para liberar derechos de vía del tren Irapuato-Guadalajara, facilitando su construcción y operaciones a partir de 2030.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9522f3ac4dc85e8d"
+ },
+ {
+  "titulo": "Gladyz Butanda: \"No tengo pasado oscuro ni cola que me pisen\"",
+  "liga": "https://elcongresista.mx/politica/michoacan/gladyz-butanda-sin-pasado-oscuro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-11T19:15:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "Gladyz Butanda reafirma su integridad en medio de escándalos de corrupción en Morelia, destacando su compromiso con la honestidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "214ebd475fa14b58"
+ },
+ {
+  "titulo": "La presidenta Claudia Sheinbaum lidera el ranking de aprobación en América Latina con 69.8%",
+  "liga": "https://jornadabc.com.mx/region/la-presidenta-claudia-sheinbaum-lidera-el-ranking-de-aprobacion-en-america-latina-con-69-8/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-11T19:15:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-11T20:29:17-06:00",
+  "resumen": "El ahora expresidente de Paraguay, Santiago Peña, protagonizó la caída más pronunciada del mes tras perder 18.2 puntos porcentuales La entrada La presidenta Claudia Sheinbaum lidera el ranking de aprobación en América Latina con 69.8% se publicó primero en La Jornada Baja Califor",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4ad842745ddfa82f"
  },
  {
   "titulo": "Llaman a vacunarse contra el neumococo",
