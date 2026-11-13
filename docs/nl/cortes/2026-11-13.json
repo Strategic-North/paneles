@@ -1,5 +1,327 @@
 [
  {
+  "titulo": "Arde nave de Ternium en San Nicolás",
+  "liga": "https://www.elnorte.com/arde-nave-de-ternium-en-san-nicolas/ar3314004",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T22:31:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Se registra un fuerte incendio en una nave de la planta Ternium, en San Nicolás; no se reportan personas lesionadas.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "c22d5941e0b188b2"
+ },
+ {
+  "titulo": "Organiza AMMJE Monclova bingo benéfico social",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGtNWWdVTENENmdweUZsVlhyM3M5RU52OGNSUUltMXdsaEpWRTM1WUE1bm45UEpkNnA3b25lNWxERWx4NkFraDY2NG9ZNzU4UjJLeUVRb2dLb2dSQktDVGcySXBubW9zTG1QMFZENU9paC04VnBWalM1THZJa19RVVdkTzlfc1dDNDhuSzJEZmNwYjhLd0RJ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T22:25:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Organiza AMMJE Monclova bingo benéfico social El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "61aa8a73e13dd2df"
+ },
+ {
+  "titulo": "Participan ediles en reunión de seguridad federal",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFFVZEp5bUw2TE9pSEN4b0lnejFUaEg3azdMd1hweERGS3NDRVVYSmlIV0FIWFdoVHRLSFRTMFhBSXFxZXZJdVlfQXpUcHRsOHIwclllR1p3Wk5BMmtPOE14MWEwZjFNS0gwMWpMeWxiMlB5STFxZlgxZWFnSE9nLUlIb3Z5SjZpVVh5Q21ESQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T22:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Participan ediles en reunión de seguridad federal INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "096f98bb75acf837"
+ },
+ {
+  "titulo": "Vuelca automovilista al interior de arroyo en Morelos",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZ1MWFtVC02b216WG92VlIzOHpBUi1mNG4zSE9GWjJSSjcxLTRZa2F0Zy1YdElNR3JoQXgtZXhqSjZEaXFRZkQyR0gwMHBoMG1pTUZQWHdKWVcwTWJhZEJqOUNDcndBWXVGS3FMeXJqQUxWaTFuSkwyYjZzX2xTMVR6UFpwY1VqTmFqc19ha0g4dm9TNW9CalVuR2FGZ3dyYUE?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T22:10:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Vuelca automovilista al interior de arroyo en Morelos El Horizonte",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "a9dd24a5961e6c89"
+ },
+ {
+  "titulo": "Vencen los 76ers a Raptors pese a ausencia de LeBron James",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeC11dTFqNExrMGZsN2c2Q2JrV1QyRmVUUXVCVVFDYnVNaV9LeEVrdTRKZmhCWGtEMnlmTVlUWHJYVy1LRzZiZ2JYaEJac1FOWkRDbmlkenVxekgwb2ExX0RqZ1RkNFlXdXhaTWF6SEdaQjl0VXA1a2ZQYUp4SlhqUkJxbnh2eU0tRUVjZkZnOHZSdVJNNWtiU1d4eXU?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T22:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Vencen los 76ers a Raptors pese a ausencia de LeBron James INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f06ceeb6c813bad5"
+ },
+ {
+  "titulo": "Aplican efectivo modelo de seguridad con código QR en acciones",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3lvN3NhZlFXV2Mtako1aXRpdVEyRmNfdTVGOFJLdmtkaDMxRTBRUUgwRGRaZTFIZE5YOGhnbk9kN3lnTzJpcUlyTUVRNTRIRkQ2T3lTaExycWQ0d19YamNOOTdMMW4wSXJySEpJSUtIdGhCcmdmdW03WWpNNmlTNzVuNVE4b2FBS1VNTVNEaWpCUlVpSTdydXpDenA4QzJ4?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T22:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Aplican efectivo modelo de seguridad con código QR en acciones INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c7855bdffee983a3"
+ },
+ {
+  "titulo": "Sofocan Bomberos incendio en colonia Ampliación María de León",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYi13eWJmLVJsREJ4QmFEeE1wZFZHbHZTa0JCcU50eHp4T0pObW5ON1J3dzIxYjlPcnpWbEJKUWU5R1FQNERland5SFdPbXJ1TnVRTGhRSkNEanZ2WFJmWjhzUElEM0FMS2sxdWk3NTJSd3pyMkU2Wk01T2JTLWJvQ0x5c0Y4SERMVEFmeEZsZ3BXbUx6anhSdzRuMV9FUFNHY2lqS3VoT1BhQkNo?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T22:06:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Sofocan Bomberos incendio en colonia Ampliación María de León El Horizonte",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "8b52788abbad750a"
+ },
+ {
+  "titulo": "Cae vehículo volcado al fondo de un arroyo en bulevar Morelos",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORE9rR0oyY0ZwVmpvOVd6c2JCVlBnODhkYjUzWFEtOEJkV1VWdTN6R2x5S2h2cFNuLXBJYlRFRkJiVTdEaF9adnRNbUZKcXNwZG1hSlhOVl9RZkNqcnZJYU5IQUFDNmhsWG1hc1FfbEE4alFqYjdQZTNJTzdBcng4cUFoWFFhZnlaZ29pZ2FQYUZPbHFibmQ1dXhCUmVCUWs?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T22:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Cae vehículo volcado al fondo de un arroyo en bulevar Morelos INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3079764d4abe8498"
+ },
+ {
+  "titulo": "Provoca propietario incendio en domicilio de calle Tamazula",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXNGdWg5SnNpRHlXbmp3Z2NyWUwwS3VPZkhPV1Z6VVlucjNzTTVBMTlCRFBUMEtaSXJlYUxSQ25IMlBuUHRoUnZUYkJ1dGI0dU04d2VUVUJJaWcwcTk3eHBIQkJMTWxMclY3UVRYZlUybmkxSWhKLWtocVgyNlFXdzBEdzB0V3dwNmVialhzWU5oVjA1UDNWYWU1c3I?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T22:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Provoca propietario incendio en domicilio de calle Tamazula INFO7",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "7aba497340baeefe"
+ },
+ {
+  "titulo": "Televisa se viste de luto: muere actor a los 56 años de edad; hacía frente a problemas económicos",
+  "liga": "https://abcnoticias.mx/show/2026/11/12/televisa-se-viste-de-luto-muere-actor-a-los-56-anos-de-edad-hacia-frente-a-problemas-economicos-295350.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T21:58:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "49500ac5a9afbc10"
+ },
+ {
+  "titulo": "Fin a una sequía de 13 años: Lechuzas de Leyes vence a Osos FIME",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2RxZHJQMW54LTdleVRJeUVtOXNNTy1NSHVIb2NwWThSSzkteHF4X3FiU3V3bjc5Ylc3Y0JuM2UtNERfalZNaEhCTV9VMHR1WGFhUHR5ZlJQdlNPMkJzOVNYUFdZSUNmcVRGQXpuTVdGZEkwb0hjTW9zaUQ0YXJ0TjV0Q2RWZ1M5RVFDTU9nNTNXZDJjYUZuZV8wMlJlSGRaTlE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T21:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Fin a una sequía de 13 años: Lechuzas de Leyes vence a Osos FIME INFO7",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "c4331a5100ad9e55"
+ },
+ {
+  "titulo": "Resulta lesionado conductor tras choque en calzada Antonio Narro",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVNzemFBc1l3VGRtV0RTaTRrV3ljVnMyUnR5Njd5b3pNaWtqeVJtOUFEdF9WVUR2eGRrVTNKRWJDSGpPdHlxdlZuVkJBXy1lNXQ0WHpVc3F0eUpEZmQzdVN1UzU4S0pHazBoQ2tzZVNVLURnNVJHb2s4R3BzU2ZPSnowTmE5Ym9ORkNwdHZYWE9kMEpXLXFRRjZ4NS1KRVYyWHp3?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T21:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Resulta lesionado conductor tras choque en calzada Antonio Narro INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "3142b4f3956c8191"
+ },
+ {
+  "titulo": "Aplica industria de Coahuila ajustes por reducción de jornada",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlhuYXpPbUtKZFlTTmM3a0Vua1FBQUg3cWZXNzRhci1fNTZXdlZyaER4b1ZscExwMVpxN0RaejI1RmVORG5HUFhjclQtOHEwUzFQbW1taElza1c5YUprZlRLQkZleWt2aUNXQ0dVV3JaSExteGt1ZXU4NUh3dDAyTWl0MFM3VFpVNE9MQU5rMDNSTTNmOWR4cXhzMmhXa0s2aUdrcDUzQ00xeVRy?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-12T21:49:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Aplica industria de Coahuila ajustes por reducción de jornada El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "65dac085933ace15"
+ },
+ {
+  "titulo": "Promete NL pagar adeudos a organizaciones civiles antes de finalizar el año",
+  "liga": "https://abcnoticias.mx/local/2026/11/12/promete-nl-pagar-adeudos-a-organizaciones-civiles-antes-de-finalizar-el-ano-295349.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-12T21:48:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7478b0fa379af677"
+ },
+ {
+  "titulo": "Conectará plataforma a universitarios con empresas locales",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVnZWd2lpRU9aRmpwQ0w3VUU5aWp5WTBmdkd5V1BMRGFrQTNJYjNzWnpWaW9qa3pGaU9FX0lCWlo1UkEteGJGVGZjbWZYWVFycnV5VDFvU0JOYmxTOEV0eEVfeE9RMXROb3g5blFNVVFWbUM4XzR1RDVzLVlEaWZFRS1SUkFveF9rSzNuREVYNFhPeTN5bUF3ak9qMA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T21:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Conectará plataforma a universitarios con empresas locales INFO7",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "9660bd6be9064a20"
+ },
+ {
+  "titulo": "Impulsan al talento joven de Jalisco con entrega de becas de 20 mil pesos",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFE1RUtYOTN0ZEZrQmttMFJMLVBWTFBwSlNmVWw4WGxvRjRzQzNGbld1NE84b2xqU0JReE15UXBKcmw3aXVQc081amx0SjFaYXBjV0NrSElqY2lfSkp0NWNXMVJ1NHhnX1cwN2ZrNHQ2Q0VlYWhpS3lrY2ZNS1Brb3JEWmk1UTZwaUxLQzBB0gGOAUFVX3lxTE00UTVFS1g5M3RkRmtCa20wUkwtUFZMUHBKU2ZVbDhYbG9GNHNDM0ZuV3U0TzhvbGpTQlF4TXlRcEpybDdpdVBzTzVqbHRKMVphcGNXQ2tISWpjaV9KSnQ1Y1cxUnU0eGdfVzA3Zms0dDZDRWVhaGlLeWtjZk1LUGtvckRaaTVRNnBpTEtDMEE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-12T21:47:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Impulsan al talento joven de Jalisco con entrega de becas de 20 mil pesos MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1ed7e0b7055d8194"
+ },
+ {
+  "titulo": "Prueban 75 empresas de Coahuila nuevos turnos laborales",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXVlV3Vac0VqanBZMlV4Vk1adExkcElYVHpmR2dudHQ2OW4wNERKV05jRS04ZHRjcmdESHhBZzYtSHlUdEwxMVdFNGFQTG1EeWZxWDVSVUN4Rmc1Z3BxYnJmZHBjQWYwUFN4ZDh3Qk40ZFhteVNTWGN5ZHhNN3NyLXRUSGxoU0tKTDJUUE0wMXJNVUlGcnRn?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T21:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Prueban 75 empresas de Coahuila nuevos turnos laborales INFO7",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "4b9bf797e941ee97"
+ },
+ {
+  "titulo": "Llaman a coordinarse en urbanismo",
+  "liga": "https://www.elnorte.com/llaman-a-coordinarse-en-urbanismo/ar3313967",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T21:40:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Juan L. Kaye, presidente de la Asociación Mexicana de Urbanistas, destaca la importancia de planear las ciudades de manera coordinada.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "00ce387de85d922b"
+ },
+ {
+  "titulo": "Busca Lorena de la Garza candidatura del PRI y PAN por Monterrey rumbo a 2027",
+  "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnFmWEdTNGJsMkhESWpuT25nR3EwQmVnTEVRWW45MUdzN2RoY2w1OFdZRHVkZ3JiUUxWX2RjOUFxaUoxelBuM1Fzbm1Kb2FwTDgxaGJRcGVhMnpPekRUSXJ1QzRuTERRVzJmY2dZWE9VMVU3cWR1MDF0UF9TUkxEVHM1Z0NUUdIBhgFBVV95cUxNQW56ZU0wNVpJaGNDZVFQU0tMV04xby1rTTRmZnZHMEFfdm5YUER1RVBhOGxFQWxNUEFuVkxVTEw1T1YxTDVCb3JoOXByUmFZMUZzeHZWM21UQjN3alNZcEp6bXk1RTN4RkE0LVZSRWlRSWJxb1ZZNnc4VEhWSzNiZ0lEN3hHUQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-12T21:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Busca Lorena de la Garza candidatura del PRI y PAN por Monterrey rumbo a 2027 Telediario",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "675a4c523cf4d2fe"
+ },
+ {
+  "titulo": "Sorprenden a Pato con certificado de Prepa",
+  "liga": "https://www.elnorte.com/sorprenden-a-pato-con-certificado-de-prepa/ar3313961",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T21:31:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "El piloto regio Pato O'Ward ofrece plática en escuela de San Antonio donde estudió, y es sorprendido al recibir su certificado de prepa.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "0ef1e025a294803f"
+ },
+ {
+  "titulo": "Promete Estado liquidar adeudos a OSC este año",
+  "liga": "https://www.elnorte.com/promete-estado-liquidar-adeudos-a-osc-este-ano/ar3313962",
+  "medio": "El Norte",
+  "publicada": "2026-11-12T21:31:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "El Gobierno del Estado se compromete a liquidar los adeudos pendientes con las OSC a más tardar el próximo 31 de diciembre de 2026.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "c830ff4c1bf22ffd"
+ },
+ {
+  "titulo": "Rompe en llanto El Komander en plena presentación",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ25OU2IzMW8ydFRfSk1jRU9BY3Y1WUd1cVhXUkwxVlVNRWF3N3V0N2ZzWXNTWWRYT1Q4Y1dzMmdEVWZ2ZEpSOWdMeEVoOFJCM190SFJZNkJpa2ItM0Q0cXdkQzQwR0tsSGU3QnotMmNRZ0pzU3dBSUwzUXZHTnM4YUFldmU0cjlTR0NWUlhXRl9iWjhE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T21:29:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Rompe en llanto El Komander en plena presentación INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5e1a54cb66809e38"
+ },
+ {
+  "titulo": "Pumas CU y Burros Blancos protagonizan Clásico estudiantil en playoffs",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNanhSTHpQYnJjd1pEc2h0V1hTTUZYX3pHYTNNUHdCQWc5OU53MDRXeHFwc09QZldBbVJ3ZE1jVllycExaSnlsYTI1d05SSGRFVlY3MXl4dlU5M0xHLUNIUUN6bFd0c0pVeWxIcEEtVFBuWjVLanlNdUpOTDN0SkVNclFVajRPMDlrcDZQMXpPQmdRaW5hWG1mLUsyeHIzU3JpUDJYYnppQWh6aVdxQWxlMXA0RXJrNkdrbW5YOGtxendPQzYtalJLSEZ0aDVrdw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-12T21:27:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Pumas CU y Burros Blancos protagonizan Clásico estudiantil en playoffs Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dee295f1704058f4"
+ },
+ {
   "titulo": "Refuerza Monterrey limpieza en la Basílica de Guadalupe",
   "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmFqZWZxZjVmcU04TzJDT29kdTFqYXJRaElfSjVLbUk2Ty1tM21uV2lhckRENFRPWWN6YnFXVFJYOXZRUWtZczR2cEZZQl9aN1FqMUM0Q3k5UUd2Vm1XV0RGWExqdmtvUjVKSTNyR0lodWJUZ0xaLTFuOWdQb2poYnQ2SThQWmZQaU9JTER0ZTBYa09GUWRMOWh1aGJzYmlPeGVKWWxR?oc=5",
   "medio": "El Horizonte",
@@ -126,6 +448,20 @@
   ],
   "local": true,
   "id": "c2326e48161b9c60"
+ },
+ {
+  "titulo": "Intensifica Monterrey limpieza en Basílica de Guadalupe",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0drdjBpRjJQMU9ha2Ywc2pVTjRHblRsajBCREJST2pHd3QyUkY5eF9tR1NHY0NiUEF1UGU3dlBlcVo5alduY3ZYeU13aW50OTRlZHBpdjVHYjFFVlJQNTg1OVVmdXNJdDQxeVM2amFBeGg5ZGFQeGg2eDZZRjFGS29PbUxtS25UVFdsSXV6ZzVMcE1FZ251Yg?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-12T21:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Intensifica Monterrey limpieza en Basílica de Guadalupe INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9506e25f17ebbcc5"
  },
  {
   "titulo": "Preside Américo, histórico inicio de exportaciones en el Puerto del Norte de Matamoros",
@@ -539,6 +875,20 @@
   "id": "7c852ffdec64e439"
  },
  {
+  "titulo": "Pedro Sánchez sostiene una videollamada con Claudia Sheinbaum: ¿De qué hablaron los presidentes de España y México?",
+  "liga": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONzNqWElGdEV2aGhpbVZZdC1oekNmVllfUFdUUDBUYnlSRnhjRE56U1dYeTJOXzlpdWFMQjdibmdrLWpCeEM2YmxUZGlkT3pyRHNlQjBKd19ERVFIQVY4N1cxdGl1OEpCbXVjbG1Hc0FyWUhUem1idTMzaTg0N250VW9qTmZSdWRyejRmTXVfVG9iQTY2TTBoVU9yQjR4Z0ZTNFlRY09oV2RaNENuLWtwTFRFR3RsbVFrdVFSQnk0c21FMnY4aGNManVvQWZ1UUZYR2VCNXNFbU1BNjJULTJvRGsyYnhCZHR5aU5VNktmQ1VTSWVadmRNag?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T19:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "Pedro Sánchez sostiene una videollamada con Claudia Sheinbaum: ¿De qué hablaron los presidentes de España y México? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "855e040bbe955b5b"
+ },
+ {
   "titulo": "Ambulancia choca contra auto y muere paciente que era trasladada",
   "liga": "https://abcnoticias.mx/seguridad/2026/11/12/ambulancia-choca-contra-auto-y-muere-paciente-que-era-trasladada-295343.html",
   "medio": "ABC Noticias",
@@ -945,6 +1295,20 @@
   ],
   "local": true,
   "id": "ac8de4d6f4b4f3ba"
+ },
+ {
+  "titulo": "‘Tano’, único sobreviviente de ataque a Valentín Elizalde, explica qué pasó: ‘Se me murió en los brazos’",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYktUN1dUeXAzSGpmYlNVaF9WMXE5RHRmNm9nQ3lmV0xzVGlUZVZBQjNLTUhPQWdxQy00OHhvOWVBLU9odFhjUVNDQkw2VHlpeE5ERlp1VFRHT3VFdk0zTlJ6dm1vajZlWE1SZlNLNER5WmVLWWo1TFhjdVpuNy1ySk40MUMzdzdFbFBOUXVGUmRCMnU0VDBnZXhaZ1JtSElVQnIxNzQ0b0VkRmsxMTJOWVZMUmc0YTZ4UWszb1ZpeDNUdjd4Si0tcENOdGJpblVHQ05KZUZrdmV0RDBPbUg1OA?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T19:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T22:34:40-06:00",
+  "resumen": "‘Tano’, único sobreviviente de ataque a Valentín Elizalde, explica qué pasó: ‘Se me murió en los brazos’ El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "622c302943b6081d"
  },
  {
   "titulo": "Ernesto Chavana presenta a Mario Monge y su homenaje musical a María Grever en Monterrey",
