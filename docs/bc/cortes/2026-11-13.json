@@ -1,5 +1,394 @@
 [
  {
+  "titulo": "Dallas Mavericks se llevan el triunfo ante Cleveland Cavaliers 130-120",
+  "liga": "https://elcongresista.mx/politica/nacional/dallas-mavericks-victoria-cleveland-cavaliers-marzo-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:20:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Dallas Mavericks vencieron a Cleveland Cavaliers 130-120 en marzo, manteniendo su sólida racha en la NBA.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d89b3d1b31f3a9d4"
+ },
+ {
+  "titulo": "Reginaldo Sandoval presenta encuesta en Michoacán para coordinar 4T",
+  "liga": "https://elcongresista.mx/politica/michoacan/reginaldo-sandoval-nueva-encuesta-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:18:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Reginaldo Sandoval anuncia una nueva encuesta en Michoacán para coordinar la 4T, apoyando al exalcalde Raúl Morón.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0fb2dfd357cc7e8c"
+ },
+ {
+  "titulo": "Mérida busca coordinación con la Federación para mejorar seguridad",
+  "liga": "https://elcongresista.mx/politica/yucatan/merida-coordinacion-federacion-seguridad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:17:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Mérida refuerza la coordinación con el gobierno federal para fortalecer la seguridad pública y la tranquilidad en el municipio.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "da2244d422687096"
+ },
+ {
+  "titulo": "Recorte de 77 mil millones afectará infraestructura y Tren Maya en Yucatán",
+  "liga": "https://elcongresista.mx/politica/yucatan/recorte-federal-presupuesto-2027-yucatan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:16:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Yucatán sufrirá recortes federales de 77 mil millones para 2027, impactando infraestructura, agua y el Tren Maya.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ff218f31ace5fe40"
+ },
+ {
+  "titulo": "Refuerzan Vigilancia por Pronóstico de Lluvias Fuertes Ensenada y San Quintín, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmVTWXJTR1l1N1dNQmZLWDRhYzJuMTVXR1pXUEVJUVdCU3I4TkhjdnVmMHNfVklHVk1mU1hfWGhjZVI3c3I4M3pjazZWOWFhRjJueXJMR3hXN2w5c1A2V2NyNnh2dmNmc19DSUItWFYtSlM4Qk1NaXJnQnh5dDVxRm5BUEhqdDMyUjMxZERnVlpwY1QxWVBIMjVyMkE3TzJ4Y2ZvT09vWTlsNzUwNklNZ3pWd2wyOFdYbkd0YjBTdXU5YU9Gc3lzUl9CYw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-12T21:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Refuerzan Vigilancia por Pronóstico de Lluvias Fuertes Ensenada y San Quintín, BC N+",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "cab88fe3c2092c65"
+ },
+ {
+  "titulo": "Confirman la edición 21 del Torneo Intertecos",
+  "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3ZLdjlHRjJtajJwR212blZiNExVMUtfb0JSc0EyTE9vQU45a1BaTzFmYlhwcjhUZmg4UjdhbkFlYWc0OFp0blJjZVAxWFF3bVpwTXFLbXBaTktqOHAzd1B6Z2JUSEVTRjhnc19KNVVtSUdmX2RsNnoyTDBBR2J6NEpMaEVPa00?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T21:10:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Confirman la edición 21 del Torneo Intertecos Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "2212ac2127c11edf"
+ },
+ {
+  "titulo": "Censan en Tijuana 3568 viviendas ubicadas en zonas consideradas de riesgo",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/censan-en-tijuana-3568-viviendas-ubicadas-en-zonas-consideradas-de-riesgo/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-12T21:09:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "La intención es conocer necesidades y actuar en caso de afectaciones por El Niño; el alcalde pide a familias proporcionar la información que requiera el personal, que acudirá identificado La entrada Censan en Tijuana 3568 viviendas ubicadas en zonas consideradas de riesgo se publ",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "f44000f34b1925ed"
+ },
+ {
+  "titulo": "Sorteo Caribeña Noche: se esperan resultados este 12 de noviembre",
+  "liga": "https://elcongresista.mx/sorteos/caribena-noche-sorteo-12-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:05:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Este 12 de noviembre se celebra el sorteo de la Caribeña Noche; los apostadores esperan conocer el número ganador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2a3e41b8b9fef9b6"
+ },
+ {
+  "titulo": "León XIV recibe emotiva bienvenida de 15,000 fieles en Lima",
+  "liga": "https://elcongresista.mx/politica/nacional/leon-xiv-lima-bienvenida-emotiva",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:04:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "León XIV recibe una cálida bienvenida en Perú, donde más de 15,000 fieles se reúnen en su honor en Lima.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "25659f4b761b4687"
+ },
+ {
+  "titulo": "Mérida develará réplica de la Estela Maya de Uxmal el 13 de noviembre",
+  "liga": "https://elcongresista.mx/cultura/merida-develara-replica-estela-maya",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:03:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "El 13 de noviembre se develará la réplica de la Estela Maya 18 en Mérida, un símbolo cultural y homenaje a las mujeres mayas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e39e748c3380dbd9"
+ },
+ {
+  "titulo": "Carlos Torres Piña lidera preferencia electoral en Michoacán con 34.7%",
+  "liga": "https://elcongresista.mx/politica/michoacan/torres-pina-preferencia-electoral-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:01:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Carlos Torres Piña lidera con 34.7% la preferencia electoral en Michoacán, según la encuesta de Rubrum.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "97be9da9e50f1a55"
+ },
+ {
+  "titulo": "Piden acelerar investigación por abuso en kínder de Morelia",
+  "liga": "https://elcongresista.mx/justicia/abuso-kinder-morelia-investigacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T21:00:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Padres de menores afectados en Morelia exigen celeridad en la investigación por abuso sexual en el kínder David Alfaro Siqueiros.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d71df8130dcfdf48"
+ },
+ {
+  "titulo": "WiFi gana el Martín Fierro de Cable 2026 y critica a colegas callados",
+  "liga": "https://elcongresista.mx/politica/nacional/wifi-gana-martin-fierro-cable-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:52:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "WiFi gana el Martín Fierro de Cable 2026, mientras Nicolás Wiñazki critica a colegas por su silencio ante el poder.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a442dbda8bedb526"
+ },
+ {
+  "titulo": "Se esperan lluvias intensas esta madrugada",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4TmZuaVZkQUNzSF95N3Q4dF9RSkFGODA5Q041SDNNUlNXeTRGeEpDYVN2cmRlSnRTN2RyMGFZdXJpSHlLZ1JKSkVHamZ0RmhWYU5YLXc1cXkxM1k?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-12T20:52:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Se esperan lluvias intensas esta madrugada Ensenada.Net",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "1e8b6bd27a900105"
+ },
+ {
+  "titulo": "Localizan sanas y salvas a tres adolescentes desaparecidas en Huatabampo",
+  "liga": "https://www.uniradioinforma.com/policiaca/localizan-sanas-salvas-tres-adolescentes-desaparecidas-huatabampo-n914157",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T20:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Las menores habían salido de Villa Juárez rumbo a Sinaloa.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "27c8fafe0e184f5c"
+ },
+ {
+  "titulo": "Aprueba Ciudad Juárez proyecto de vivienda vertical en San Lorenzo",
+  "liga": "https://elcongresista.mx/politica/chihuahua/ciudad-juarez-aprueba-proyecto-san-lorenzo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:50:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Ciudad Juárez aprueba un proyecto de vivienda vertical en San Lorenzo para fomentar el desarrollo urbano y la inversión en la región.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f75d20ae25ef2c83"
+ },
+ {
+  "titulo": "Tijuana Zonkeys llega a Los Mochis para disputar el clasificatorio de la Minicopa México",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVZ1Z2NDOVd5NTQ0TXotT0hwZElLb3UzSU1Db1E3SjAwN19OOUppeVlvY1F1Q3NoTmZraXd2VEhjcEQ1b0dHajZoblUtY3dSWVRTZUZuZDZZWERtTjkzb29BRlRjTm14YWFkci0xNlZmU2NCLU9xV0VWRWJSSC04TU5wekJXVTRndV9KVTQ4MWxHX1B6SF9oWDFxck9yQzdRUU1DOFB6MGVnbk1CazFFSkJUYkROZzdLSkE5cDlzUnY?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T20:48:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Tijuana Zonkeys llega a Los Mochis para disputar el clasificatorio de la Minicopa México Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "018d8cc4fcbe87bf"
+ },
+ {
+  "titulo": "Ronald Johnson destaca 360 extradiciones de EU a México en combate al crimen",
+  "liga": "https://elcongresista.mx/justicia/extradiciones-eu-mexico-johnson",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:47:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Ronald Johnson resalta la entrega de 360 fugitivos de EU a México, fortaleciendo la lucha contra el crimen organizado.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e65033aba56c57d3"
+ },
+ {
+  "titulo": "Rectora de UMSNH no responderá a petición de diputado Baltazar Gaona",
+  "liga": "https://elcongresista.mx/politica/michoacan/rectora-umsnh-no-respondera-baltazar-gaona",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:46:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "La rectora de la UMSNH, Yarabí Ávila, se niega a entregar información solicitada por el diputado Baltazar Gaona sobre la Comisión de Rectoría.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a3e24d4168fdb1de"
+ },
+ {
+  "titulo": "Adriana Sandoval abre Jornadas de Historia de Occidente en Jiquilpan",
+  "liga": "https://elcongresista.mx/politica/michoacan/inauguracion-jornadas-historia-occidente-jiquilpan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:46:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Jiquilpan celebra las Jornadas de Historia de Occidente en homenaje a Cuauhtémoc Cárdenas, abordando la historia de la tierra en México.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9190e38557fcf84b"
+ },
+ {
+  "titulo": "Secretarios de Economía y Turismo se comprometen a recuperar el malecón de Playas de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjBhQWNpU0VwdGJSb2hONHJRcXpUaEhNQjRmRGd1dTM1ME9wV0djNEJsLVNDSmlUQndzbDBXQ2JYT3dFUnZZbFV4WUY2TFB0Y3pLbWdEQ2oxUndBdTNpa1JaR01QbW0zWDIwMDl1b3BrVHNVMGlKZ2RwNWZQTmlHdGhFNUpudmx1cnozRFl4UzhKVGs3c2xWUjFra1B0VEZjdmJDa2RaTHNUZXBJaTB6SVRKSURYb0RBSGladmNPMGNYTy1vTjRzT3B1UzlFOXBUd2hsekVwZVlmUzA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T20:45:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Secretarios de Economía y Turismo se comprometen a recuperar el malecón de Playas de Tijuana AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "b9bbf829b5c00e71"
+ },
+ {
+  "titulo": "IDEFT capacita a 144 trabajadores en robótica, seguridad y aviación",
+  "liga": "https://elcongresista.mx/politica/jalisco/ideft-jalisco-capacita-144-trabajadores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:40:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "IDEFT capacita a 144 trabajadores en sectores clave como seguridad, robótica y aviación, mejorando su empleabilidad en Jalisco.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c3e7d54422b03b92"
+ },
+ {
+  "titulo": "Piden intervención de Sindicatura por presunto abandono de animales",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXJtTTVTTnNxNm40aGxXV2ZFdDZmYS1hLWJxZUpLdHhCX1FtWlhmLWVYaHBPd0tPOWdqNjN2LTdpTGtxQW1fZWZoRzRwMXM5THRza21TNjNvaUVzZmNzUERkSWlWMTVQQWc3eEdlcG5aMjRIMVc4QWc0TkhEcjdUaXQta3hHR1ZtaFRXZ1g2OVM0OWhzTjdyNk1rdnNERUFIVmZPeXB2alo4Sy1GOXdWSTM5UTFQbnJNSkE?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T20:35:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Piden intervención de Sindicatura por presunto abandono de animales AFN",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "8d121cd4dc2d28c2"
+ },
+ {
+  "titulo": "Exposición de artistas emergentes en Tijuana busca reunir fondos para prótesis de estudiante",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNU51UU10R3lYcjc1RmxSRmJ2T2tkTHBQMFllNXczQ1BkT2g1NXdLSkoxOUZCekJCcGUyWDNlQnNlTGc1VUF3NVpNazAtUHhxNmR6NmxEekZDWktJZXFILWtDbXF3WXdZMWZWSkRSUWZuZFdJcDlxNnlTMTFCaEVpNjcyX21VT1ZFeVVtVGtwODZsSkZxVEF6bTFtalBMMzgzQzllZlhuVEI0N2RYZkNObDVaWWlyRjR4NVBHc3EzcHlqWnBlM2Rn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T20:34:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Exposición de artistas emergentes en Tijuana busca reunir fondos para prótesis de estudiante Baja News",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "db0e62b28c80a826"
+ },
+ {
+  "titulo": "Sheinbaum respalda a líder latinoamericano para ONU en Celac",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-apoya-lider-latinoamericano-para-onu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:32:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Claudia Sheinbaum respalda el nombramiento de un latinoamericano como secretario general de la ONU en encuentro de Celac.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "51b4dcfa31073439"
+ },
+ {
+  "titulo": "Baja California activa plan de prevención hídrica ante El Niño",
+  "liga": "https://elcongresista.mx/politica/baja-california/baja-california-plan-prevencion-hidrica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:31:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "Baja California implementa un plan estratégico para asegurar el suministro de agua y responder a emergencias ante El Niño.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "047f872247b73ff0"
+ },
+ {
+  "titulo": "La recolección de basura en Puebla funcionará sin cambios en Buen Fin",
+  "liga": "https://elcongresista.mx/politica/puebla/recoleccion-basura-puebla-buen-fin-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:26:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T21:27:23-06:00",
+  "resumen": "El municipio de Puebla confirma el servicio de recolección de basura durante el Buen Fin 2026, sin cambios en horarios y rutas.",
+  "temas": [
+   "Gobierno municipal",
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "558a270079b69114"
+ },
+ {
   "titulo": "Semadet evalúa compensación por servicios ambientales en río Milpillas",
   "liga": "https://elcongresista.mx/politica/jalisco/semadet-jalisco-pago-servicios-ambientales",
   "medio": "El Congresista",
