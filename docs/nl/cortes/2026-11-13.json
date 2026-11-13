@@ -1,5 +1,642 @@
 [
  {
+  "titulo": "Proponen quitar IVA a terapias psicológicas",
+  "liga": "https://www.elnorte.com/proponen-quitar-iva-a-terapias-psicologicas/ar3314415",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T16:20:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Diputada local de MC, Marisol González, busca facilitar el acceso a servicios de salud mental; propone eliminar IVA a terapias psicológicas.",
+  "temas": [
+   "Política y partidos",
+   "Salud"
+  ],
+  "local": true,
+  "id": "9868d21b664f0b77"
+ },
+ {
+  "titulo": "Wall Street cierra mixto por crisis de Nvidia y tecnológicas",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX3dQSHY2eVVwekJ0NlM4TFREbkZRRXpXZjN3WVZxUm45YnJFLTdtejN2UFRIT0VTVXZCMXZhZkYtWnlFVzRuWTZFTGNzakhNeVNxdTBfTGJjeHJyV18tZ1Z1SlBsdUlFa2MxakZNb1otbWZxUWZyc2swcC1nUXlrT0FXb3ZrT05xcWVFcm5FOG5RZnVpUF9pQWZuNUxicmhuWUc3UVYwZWo4X2s?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T16:18:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Wall Street cierra mixto por crisis de Nvidia y tecnológicas El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f198f409ba92a975"
+ },
+ {
+  "titulo": "Seguirá en prisión involucrada en muerte de Dafne",
+  "liga": "https://www.elnorte.com/seguira-en-prision-involucrada-en-muerte-de-dafne/ar3314418",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T16:16:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Danna Cruz, acusada del feminicidio de Dafne, en Tamaulipas, seguirá en prisión luego de que una Jueza rechazó el arraigo domiciliario.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5bfb70131a23d22a"
+ },
+ {
+  "titulo": "Aprovechan reynosenses El Buen Fin",
+  "liga": "https://horacero.com.mx/reynosa/el-buen-fin-reynosa",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T16:13:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Compradores de esta frontera aprovechan los descuentos y promociones de la décimo sexta edición de El Buen Fin para adquirir electrodomésticos y artículos del hogar. The post Aprovechan reynosenses El Buen Fin appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "09ee4dde74f0b1b6"
+ },
+ {
+  "titulo": "EU suspende despegues de vuelos en todo su territorio por 'seguridad'",
+  "liga": "https://abcnoticias.mx/global/2026/11/13/eu-suspende-despegues-de-vuelos-en-todo-su-territorio-por-seguridad-295411.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T16:12:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3fbc1a79345802dc"
+ },
+ {
+  "titulo": "Conferencias buscan fortalecer la toma de decisiones en jovenes",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUpMNzVNRmhqUGxabG15cDg3aU5uUlY0WEtQSkFEZGlWN3hWSXUzX1kwMXJzRG1SLUJVQzB2aDZxYWE3Q1REenM1OXpHU3o0ZnZJZTdYX25kOXhxendzaUpZYmJlZW5kb0pOUHBEWkFLTnJFNld5UUNkcnk3MWFXRjRtUDBXMGZXaVk3emdQakExWENmaVM2ZWU3NTRrNTMyWlQ0NDJUNHhCZ3h4Q0oyay1R?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T16:10:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Conferencias buscan fortalecer la toma de decisiones en jovenes El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b76a70813a2c8303"
+ },
+ {
+  "titulo": "Envían al penal a dos hombres por doble asesinato en taquería de colonia Valle Verde en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjNZeno2TDdYYkplNWpTZmpST3owM0pGdE1yVjFYQUpJM3NzRjRlNzYxTWtVQldlOFNFdDk4ZUNWNmZOOURrdTcwMkkwaHVjNHJJVThUaU85a2xWYzBRdlBjb0ZPWDRUZkVaa1UzZFlKbW5wSmZlMkd0V1I4ZER3Wi1EVUQ1RlRqWGdfOXAzT1FlUjZWenFxbXNIVmNhOWI5Sm0w0gGjAUFVX3lxTE5sMy1obXhGekdIT2U3TEprTWxjeER6XzVaMWFhNDN6a3NfUU5qempFU2kyQ040TGNIaDR2OXRkZGlwZFk2d29ZOXpBZzJMSW80NHN4NFd2MTBQZVctdDRla3FwZ0lFaVlreElzZjgwTnhYTU1aRTFGNWdBVWlHLTk2cDNRaTNhU29aM3U5b1MyemgzMERTenVfNUVDVDNwQ1UxVmc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T16:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Envían al penal a dos hombres por doble asesinato en taquería de colonia Valle Verde en Monterrey Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3aa919f04debd9f5"
+ },
+ {
+  "titulo": "Carlos Canturosas destaca Presupuesto 2027 por 10.6 bdp",
+  "liga": "https://horacero.com.mx/tamaulipas/carlos-canturosas-presupuesto-2027",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T16:07:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "El diputado federal Carlos Canturosas Villarreal informó que la Cámara de Diputados aprobó el Presupuesto de Egresos de la Federación (PEF) 2027, por un monto de 10 billones 636 mil 488 millones de pesos, con 352 votos a favor y 130 en contra. The post Carlos Canturosas destaca P",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "2f62a8051a5d6b81"
+ },
+ {
+  "titulo": "Farmacias Benavides acuerda adquisición por parte de Farmacias del Ahorro",
+  "liga": "https://abcnoticias.mx/local/2026/11/13/farmacias-benavides-acuerda-adquisicion-por-parte-de-farmacias-del-ahorro-295414.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T16:07:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3d5c75d66a495cfd"
+ },
+ {
+  "titulo": "¿Cuándo y dónde ver el Estados Unidos vs. Haití, último reto de Pochettino antes del Manchester United?",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/13/cuando-y-donde-ver-el-estados-unidos-vs-haiti-ultimo-reto-de-pochettino-antes-del-manchester-united-295412.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T16:05:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ef884e4a7163d4f6"
+ },
+ {
+  "titulo": "Minnesota Vikings vuelve a perder y recurren a un viejo conocido",
+  "liga": "https://horacero.com.mx/columnas-hc-deportes/minnesota-vikings-vuelve",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T16:05:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Con una desastrosa actuación de Carson Wentz, QB, Minnesota Vikings pierde por segunda semana consecutiva. El marcador final fue de 23-6 en favor del equipo visitante, Buffalo Bills. La gran defensiva de Vikings contuvo hasta donde pudo a Josh Allen, QB de Bills. Se cansaron de e",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "35b5c3cbdd967d70"
+ },
+ {
+  "titulo": "Despliega GE operativo preventivo durante El Buen Fin",
+  "liga": "https://horacero.com.mx/reynosa/operativo-preventivo-buen-fin",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T16:02:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Elementos de la Guardia Estatal desplegaron un operativo preventivo en plazas comerciales y la Zona Centro de Reynosa durante El Buen Fin. The post Despliega GE operativo preventivo durante El Buen Fin appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "77dc4b572d27db3b"
+ },
+ {
+  "titulo": "¿Qué tiene Mon Laferte? La cantante EMPEORA de salud tras su presentación en los Latin Grammy 2026",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUl1Um5FUVVkYlFXQnZHb1R6T0o5d3hFNFNsOS1PVENyeDJzYlN5ZXZ4V18yWkotWmlydmY2QzRzOUU0N2pQZXJjT0c0VXVjd3Q0MmNfOXVsZno4VzlfR1BDM0FnMk45aENFYnN3enBUaXcyQVRaVHBkMXRKam1JUm5SeTFmNDlYTHhqTU8zVUVwMXBRMVZJRGlVbXgzNEg2Q1QzUFBFONIBpwFBVV95cUxQWmNoVUFmbjdHeFZ5MEtsNmd5Zno1M3lPQVpfY0hHUVhKNFlRSGRTXzFqNHU1a0RBOHFCMzBGcFY1VUx2TDlkNDhiQlAzUVRJNUgyQ0xidm1QNTh2eHcxUWp0RkExSW1yOHdjcFN0bFlWYmVsVjBpdGU1NGl3b2ZvLUJBbHJBTFo0ajhraDlTMjE1Wmw5QlVhdmlFSXMwRnpfWFR4YmpEOA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T16:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "¿Qué tiene Mon Laferte? La cantante EMPEORA de salud tras su presentación en los Latin Grammy 2026 Milenio",
+  "temas": [
+   "Salud",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "02f269133e0596cb"
+ },
+ {
+  "titulo": "Suspenden 12 partidos al portero del Andorra tras muerte de rival",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemsweDRvajgtUGMzV0lHVnBkdmkwYXZJLUpaRElqUXZqNG15ZkNsdUYyS2VkRnh2VHBmQmdUdlRyRHFER0tWTktnSlZtdXU2Z1NLdTRFR2pUb201QXVxSUhveUdHYXdkckw0WUZaRWZqeVVvZllJazFHbC1VN1d4M1dhSmZtcDVSX0Y5SFE1TnhFbE5HeXdtSlk3QWtSc09TSUk1TVBDSWNGeWJEaTJCbzF3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T16:01:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Suspenden 12 partidos al portero del Andorra tras muerte de rival El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cc5e00057b5bdb3c"
+ },
+ {
+  "titulo": "Trasladan a Miguel Ángel Félix de Puente Grande a hospital",
+  "liga": "https://www.elnorte.com/trasladan-a-miguel-angel-felix-de-puente-grande-a-hospital/ar3314407",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T15:59:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "El narcotraficante Miguel Ángel Félix Gallardo, de 80 años, es trasladado de Puente Grande a hospital en Guadalajara por problemas de salud.",
+  "temas": [
+   "Seguridad",
+   "Salud"
+  ],
+  "local": true,
+  "id": "935d1789c265674b"
+ },
+ {
+  "titulo": "Operativo Buen Fin 2026: Ejército Mexicano y Policía de Monterrey refuerzan seguridad en la ciudad",
+  "liga": "https://www.posta.com.mx/nuevo-leon/operativo-buen-fin-2026-ejercito-mexicano-y-policia-de-monterrey-refuerzan-seguridad-en-la-ciudad/vl2278826",
+  "medio": "Posta",
+  "publicada": "2026-11-13T15:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0c2b5d8a09c6fcf7"
+ },
+ {
+  "titulo": "Pide Canaco dejar intereses políticos y aprobar presupuesto en NL",
+  "liga": "https://abcnoticias.mx/local/2026/11/13/pide-canaco-dejar-intereses-politicos-y-aprobar-presupuesto-en-nl-295413.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T15:55:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "50f5c1302039d220"
+ },
+ {
+  "titulo": "Telediario vespertino CdMx, 13 de noviembre 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORlp1S004UlV4VUtSQ2pvY2FYejZobURKeDJzUU41UGFjdjYybkVra2VKb0QxUTRBRURFb1hNc25ZRndLMndHekNmQTUwcnpaUGF1Y3d2UWFtcFU5WDV5dnNBaGVyLXotTmJEWUdoTy1oQkpyZTduOTRrSGh2M3dNS1ZLTjdPUUZNeTgtemxWYnRlZEtqdHFnNmZOWGZGa3ZYcC1PVE5XWjhkQXVvNXJYV1F1YzhjWDlaUXJ4RFVrZDBQbUkyOUl6NFotMUVwRTJEV1NWeGdmdUZXbmhkN3o4eHVlNzczVEx1SHE5TWwtRW5QMmNT0gH0AUFVX3lxTE1XV1ZaNk93MUFYcTlJekNMLTkyUUE5THFQSTJ2Y0VtLVRFeXpadWl3UVBBeTlId1NTTUhfR013ZFFIS19wX3E4Q2wydXFpYmJuWTRHd1RyLXc1X2xFbDdzUUV3UUdqNnJuNmhzVDBhUUp1ZDl0OW9Hdld0VHFFX1FsdkFqekg0aHhJb25mV0ZycFRxM3B6T2hrTmhNX2hfdkh1R1NMY3FYOE95R19rM0s2NXV3LU9MUlMxSHpQNnRLSG85NzFZNy0zclNUaVpNYmhER21YZHdKUVV0by0wM3NMZFpPd3NZZndDM21pUWdHdXZtdVI?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T15:55:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Telediario vespertino CdMx, 13 de noviembre 2026 Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "10bdd284d2f882a2"
+ },
+ {
+  "titulo": "Motociclista resulta gravemente herido tras fuerte choque en Monterrey, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSC0ySkVIUk1JOTUyVHZnZWhjczNEZE9nQlJwNG1YQXBsQ0hvcl80V2RrU0tLU3RZWS1jcXdXVE9jU0ZxaVRXVlI5RDdMUzJVS293aXRianpMLU1FclpQS0hfNEg2Vl9GS2xFQTlWd2xRa25DeDIxSmxPTWNZbnhwUlF5NFhERjYxY3IzYjhTSDRoTUpycUN4V2hfbHdnbTIxMHd1ZDZPMmZPZw?oc=5",
+  "medio": "Vox Populi",
+  "publicada": "2026-11-13T15:52:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Motociclista resulta gravemente herido tras fuerte choque en Monterrey, Nuevo León Vox Populi",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "f5d5aefece99269f"
+ },
+ {
+  "titulo": "Guadalupe anuncia cierre de carril en Avenida Eloy Cavazos",
+  "liga": "https://horacero.com.mx/nuevo-leon/guadalupe-cierre-de-carril",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T15:52:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Guadalupe, NL.- Debido a trabajos de mantenimiento de unos módulos de concreto, el Gobierno de Guadalupe informó que a partir de las 13:00 horas de este viernes 13 de noviembre se cerrará temporalmente uno de los carriles de la Avenida Eloy Cavazos a la altura de la Avenida Camin",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a82bfc800409b265"
+ },
+ {
+  "titulo": "Apagón global de Microsoft paraliza herramientas laborales y reabre el debate sobre la dependencia tecnológica",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUl0blhpakNyR1dOOXA4VnpIc3pXSWI5LVVXOFRaWi1ZRGp4b0tMVFhtdFhId2VvOHlUenRLY2E1MHE0dXg4YVdGRzBzcERwRnMxTFJXeVY4Z3h4MC0zOVc1U2JLM0RpRC1hUV9pU1ZDRnVENXlDeEVyWXNhd2U2THdKZE1pWjFCRllweDZRLWRfT0xnMEdnbldkSlRtVWN2N1hiTnVR0gGmAUFVX3lxTE9SYUtySVBiTlNRRFlsUlBSRVozRFZlcDR3cDVjRFRzcWJWUXE0UEV2V1FUaGR5NmJGaE9QRVBmZlZDVUY0Xy1rODNSeGdPTHE4VVA1elIya1NTTGZ5TnhfaVVFNG9IWHY1TUxEQWsybmo0OVd4YldaaEw4ODRxVnpSTlc2TG0yZDlIcWtGUnYyckFjbWd2ZnFlR2RKcjllYXdxbTgtdHc?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T15:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Apagón global de Microsoft paraliza herramientas laborales y reabre el debate sobre la dependencia tecnológica Telediario",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "82ee2c455f969768"
+ },
+ {
+  "titulo": "CUPRA abre nueva agencia en Cumbres y fortalece su presencia en Monterrey",
+  "liga": "https://abcnoticias.mx/local/2026/11/13/cupra-abre-nueva-agencia-en-cumbres-y-fortalece-su-presencia-en-monterrey-295410.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T15:50:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "63fe63f6b5e61d9f"
+ },
+ {
+  "titulo": "Ordenan suspensión nacional de vuelos en EU por ‘razones de seguridad’",
+  "liga": "https://horacero.com.mx/internacional/vuelos-en-eu-suspension",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T15:49:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "La Administración Federal de Aviación ordenó la suspensión nacional de vuelos en EU debido a circunstancias extraordinarias de seguridad. The post Ordenan suspensión nacional de vuelos en EU por ‘razones de seguridad’ appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "be96bf201e876a16"
+ },
+ {
+  "titulo": "Jorge García firma tarjeta de nueve bajo par y toma el liderato de la Copa Multimedios en Valle Alto",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUlyTzlTNFRDMjVBMjcxc0hHbjd1QTVSZkR3V0FBUzk3QURhbVRpNi16V0kydFpQYzVndGVoR0NCUjBTVHNuRnVKWkM3OERfQzhhMlNmaFczMDhJRFprR3pMMG1lY0xLZFBZRUwzTEhhRXRlZmcxTGJDbDlhSkhQTnE2SkVWc3NvT1dzUWxwV1VyZVhVQnltRWRMUzhKbDd0bzRKR1k2cmZSZWRG0gGsAUFVX3lxTE55VlR5Ry1xbjNaNjYyTlgzNUVSZmNzcHRTbGk1TDdZSHI5dlktQTZ2OHpLUXJEYXh5MXZELW9YaUFJRDZSTUp0RHhKU0U1OHpPUUw1QUxWX2hfQk4wNnFrczFWWUJjR2luSXJzQ2hHWDNVLTRIa0I5cTJ1T2lFQ0NfY1l5ODFXamxEY0ZjTTV2YkV2TENTU2w0NUp6LTBNWngtbnBaRTV6ejdoYVY?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T15:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Jorge García firma tarjeta de nueve bajo par y toma el liderato de la Copa Multimedios en Valle Alto Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0acdf4eaee09e95d"
+ },
+ {
+  "titulo": "Estados Unidos frena todos los vuelos por falla de comunicación",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2RyVWlGR3Y3c1l2X3ZwN0JhU2JKSU9rd0R2bm9HdnBvT0lGaTZvb2JBb2NSWV94M1lQMThsS01Bb1BldHYxSDhhZ1NlSWtKWWRTSXRROU93VXVXNDhEUlcyTVZDSnJYU3h1RlctUHU3SDVRaTdKY29LWGFTSWd2Y05NT09wZ0c2VUdjNmlaTWN4bDFhenpjeEVYdU1MOFNuUmc2TXVDdnJjdXVlbUFCMDJVTmZNdw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T15:46:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Estados Unidos frena todos los vuelos por falla de comunicación El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "db82077914bfb49a"
+ },
+ {
+  "titulo": "Liquida Ahorra: Descuentos de hasta 90% en el Buen Fin para usuarios con adeudos en Nuevo León",
+  "liga": "https://www.posta.com.mx/nuevo-leon/liquida-ahorra-descuentos-de-hasta-90-en-el-buen-fin-para-usuarios-con-adeudos-en-nuevo-leon/vl2278805",
+  "medio": "Posta",
+  "publicada": "2026-11-13T15:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3b22e26d2526687f"
+ },
+ {
+  "titulo": "Procesan a dos sujetos por secuestro y doble crimen en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQV9nQ05mTWFtVG45RU5EODQwVGpYRTBGMXVTSjBMMlFXUW9ndEptVWotMEVwMmhfSjR1VVdzeDZrZ2hZaXBhaW5QNTEtRUFvNVBUMkM0OVhGN2lxc0FIbGNUcHlpb2ZSSXc2SnJucjE0TVYtcWtrWGQtcnFRNWdfbC1qQWJpRWdVMnJ6ekNhRHV5Nm1Id3JQb0xrNWRTUnFCME1BNA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T15:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Procesan a dos sujetos por secuestro y doble crimen en Monterrey INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a3948d19b08647cf"
+ },
+ {
+  "titulo": "Implementará Monterrey operativo vial por desfile de la Revolución Mexicana",
+  "liga": "https://horacero.com.mx/nuevo-leon/monterrey-operativo-desfile",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T15:43:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Con motivo del desfile cívico-deportivo por el 116 aniversario de la Revolución Mexicana, la Dirección de Tránsito de Monterrey implementará un operativo vial este lunes 16 de noviembre, que contempla cierres y restricciones a la circulación en calles del primer cuadro de la ciud",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "68b0087fc8a98b10"
+ },
+ {
+  "titulo": "Estados Unidos frena todos los vuelos del país",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGVYZm9hT1h2eGVaR3lPZklJczdvY0FkNjhhZm1ieS1yTEw0eUI4X2VUaFo1Z0JIZ3NHbkxhSlJSM1h3al9oWFQ2SXZmLVJrbmtqOHFEdWtaN2U5cE1UXzNjNFJtTTkyckFGVjRPekhRVWZTRVNNNm16bkxxaWlNdUpEVG1abERWSDZEaWJoY0ZVdw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T15:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Estados Unidos frena todos los vuelos del país INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "046f3fc9f1f7a32d"
+ },
+ {
+  "titulo": "Barcaza choca contra crucero con más de 100 personas abordo en el río Misisipi | VIDEO",
+  "liga": "https://abcnoticias.mx/global/2026/11/13/barcaza-choca-contra-cruce-con-mas-de-100-personas-abordo-en-el-rio-misisipi-video-295407.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T15:40:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "28e723b5180b556b"
+ },
+ {
+  "titulo": "Destinan más de $8,500 millones a becas en Puebla",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT2E2NEgzVC0weEk4MUtIQUNVU2ZlQm1uanE4U29NS3Q3cFJtaVMzWGFNSmt3LXJ4NHZBcG5rQkoyU3UxTkItOThaMnIyTU1nTHRYNmpoQkVmVjlWbm80SXhDNjl6M2JrX1RwOFlWdERjU1VxNDFEdnFEU1pla1F0NnBPOW5FRGgySmNZZDNXemhsQ3BHWjZ5amEwbw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T15:40:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Destinan más de $8,500 millones a becas en Puebla El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0b93d3949c30d376"
+ },
+ {
+  "titulo": "¡Como a Andrada! Suspenden 12 partidos a Owono por agresión a Jesús de Miguel",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/13/como-a-andrada-suspenden-12-partidos-a-owono-por-agresion-a-jesus-de-miguel-295409.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T15:39:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fa06c7b96ead901c"
+ },
+ {
+  "titulo": "Canaco insiste en la aprobación del Presupuesto 2027",
+  "liga": "https://www.elnorte.com/canaco-insiste-en-la-aprobacion-del-presupuesto-2027/ar3314391",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T15:35:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "La Canaco insiste en la necesidad de que el Estado y el Congreso lleguen a un acuerdo para que se apruebe el Presupuesto 2027.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "7354014bed0787fc"
+ },
+ {
+  "titulo": "Niegan prisión domiciliaria a Danna Yanina; seguirá en prisión por feminicidio de Dafne",
+  "liga": "https://abcnoticias.mx/tamaulipas/2026/11/13/niegan-prision-domiciliaria-a-danna-yanina-seguira-en-prision-por-feminicidio-de-dafne-295406.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T15:35:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a50e3b1b7144ad47"
+ },
+ {
+  "titulo": "Mayor: Que le vaya bien a México y la afición asista al Volcán",
+  "liga": "https://horacero.com.mx/deportes/tigres-femenil-mayor-aficion",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T15:34:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Stephany Mayor llamó a la afición a llenar el Estadio Universitario para el duelo de Vuelta de Tigres Femenil ante Pumas y deseó éxito a la Selección Mexicana. The post Mayor: Que le vaya bien a México y la afición asista al Volcán appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fad726ea9489f9a2"
+ },
+ {
+  "titulo": "Mauricio Pochettino deja Estados Unidos para dirigir al Manchester United; se despide entre lágrimas",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMm9lYzNvLVhBR2RvZ1dDZ1FiVlFaWGN5YWJ3c1BLRWg2cjcyNDNCZEJBYlZkOUZsVkRuQTlZYlczdkR5VnJLcXV2MS14VnN0Y1B6aEhCQk1zSVJfekVLQ3BZcmNNNUxwa0pzbFdnaTlCU3ZQUWdTYm41Z2FwNU03WjI5T2F2N2NENmwzN2lnUnZ3aGRjMXdTZjh6OFlFeGtWLXhBOWljYVZLYVlIM0d5RnZTNFHSAbQBQVVfeXFMUFlsSnhLMm5jLXBxMFZwbjc5ME1zc1d4Mi00MmJUdlRGUWhKNGp4OEVCdERkOUEzeGhZMjJSU1pGeDJad0tYWG82c3Z5UXFjZEtOdWd4bGlHUjlsOEs4QmZIVXBWYlg0dTlER09TYnRUenVyVEJCOXpVcXVzUjJ2ZFYxUHRuVXNETjVoNm1fQmFIbHRhem9OR05mSkRwQTNBWjVWUG1hc0FwcDdtWUpZSWpINkxH?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T15:34:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Mauricio Pochettino deja Estados Unidos para dirigir al Manchester United; se despide entre lágrimas Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c72c27be99d5c1b8"
+ },
+ {
+  "titulo": "Acumula Nvidia pérdida semanal de 13%",
+  "liga": "https://www.elnorte.com/acumula-nvidia-perdida-semanal-de-13/ar3314393",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T15:31:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Las acciones de Nvidia cerraron con una baja de 2.01%, con lo que en la semana acumularon una pérdida de 13%, la mayor desde abril de 2025.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "53467f2e852fc90a"
+ },
+ {
+  "titulo": "Exige MC destitución del Auditor Superior de NL; denuncia injerencia política de la Fiscalía",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySlZQcEg4Mmt6M25zLVVETkdNS1EzZUZieTZ4bXplbmIxOHZhOU1sN2ZRWTdjT0NabTVkQmowN3VQWEU0V0xZMU9KQ2hiV1ZIRUR0b3l5dzg0dGxOWXRMa2dZRnZZSkRnWHUtcQ?oc=5",
+  "medio": "Hora Cero Web",
+  "publicada": "2026-11-13T15:29:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Exige MC destitución del Auditor Superior de NL; denuncia injerencia política de la Fiscalía Hora Cero Web",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aba31b03eae4b496"
+ },
+ {
+  "titulo": "Denuncia MC presunta injerencia de Fiscalía en Auditoría de NL",
+  "liga": "https://abcnoticias.mx/local/2026/11/13/denuncia-mc-presunta-injerencia-de-fiscalia-en-auditoria-de-nl-295403.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T15:28:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "0bb3e3af080aa867"
+ },
+ {
+  "titulo": "¿Cómo reparar las orillas de los azulejos con boquilla? Guía práctica para un acabado profesional sin ser expe",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXNENzE2MDlHYjNCT1ZUQ0dyY282WXY5cUVxY1lhUWNXUVhLb3dXWWt5dG5jNk1ZUk56M25aMjV2NkxsNEM2Q1pFVV9hU3hvNnRVeUxVams1eE0wajBZOUNuV29MWDM2U1pQWEtMWlFmVnFwSzhEU2Z2WGE5NVM1akF6bW12VGl0cGlvTloxcFhIR2g3YkxmR9IBmAFBVV95cUxORXNENzE2MDlHYjNCT1ZUQ0dyY282WXY5cUVxY1lhUWNXUVhLb3dXWWt5dG5jNk1ZUk56M25aMjV2NkxsNEM2Q1pFVV9hU3hvNnRVeUxVams1eE0wajBZOUNuV29MWDM2U1pQWEtMWlFmVnFwSzhEU2Z2WGE5NVM1akF6bW12VGl0cGlvTloxcFhIR2g3YkxmRw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T15:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "¿Cómo reparar las orillas de los azulejos con boquilla? Guía práctica para un acabado profesional sin ser expe Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6cd8a70e0280567a"
+ },
+ {
+  "titulo": "EU suspende todos los vuelos en su territorio por ‘razones de seguridad’",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjltLVBIWEdwdEJpVThFMEtYRGVMYmhicVdXWWhlbUw2UUkyMmhZUXJLODY1RWpGV2otOVZtZ0trMERLMU1Ib3pyNmdpUXdiQ0pCa2Y2dE9wSV9TUnZWNXpfRzhmZGRJaVNRdHVJTno0d3JLSDAxLWVjRmlMb2xBZzRzOVJaT1lIR3RjN3N5bTJObWZlY3lDd3I1WXpSd1dBYjM5U3FGRnZxRVdVbHVremp3T0taQ0pmSU9XaQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-13T15:25:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "EU suspende todos los vuelos en su territorio por ‘razones de seguridad’ El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d101a59377506ee3"
+ },
+ {
+  "titulo": "Un Rayados parchado sale por boleto a la liguilla del Apertura 2026 ante Querétaro",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTU3WTEtMU9SM0JPNUFReUd5dWJZbHE5Q0ZqRGY3MEJicm1zZDluSUxpUS1DXzZPdHFFZXo1TjFCUUpZZmxvQlZ5VVZxRGtwTXdCajdRanJJeWZOS09iRktMd1M2NVF1RHZ0N080dld1cDRkRURoZ20zWDRydHBpMXpjdzlMTGM3R3lNbjZiQmFvN3lBdGIyN3dB0gGaAUFVX3lxTE5ZV0dXNW14TGpxc2VLUFZKbEV2T3pfd3llbFo2T3IydWw1R2ZhZ1liUXkwUWUzNklyVzNtdkl0clRlUWdCYmsyaVI1OHJxNnhQWk1iMnJCcms3cEc5X3MxVEUwUjlwQVIxR3FXWnYxc2Joc2Y4bTBYZmZ1US1CZGFCNTA3ZTl0ZWR0YjFrWDFfRWg5SVl4RTFpTVE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T15:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Un Rayados parchado sale por boleto a la liguilla del Apertura 2026 ante Querétaro Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "bf04021f21d254ed"
+ },
+ {
+  "titulo": "Asaltan a cliente bancario y le roban $600,000 en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlZPOGt4dWs0emY0MW9ZXzlNVVJxSmdqbmhPb1F5VlllSkFmODd2YnVCSDdZQWwwVEtJeTEyR0t0ZDVHTFUxQzFYUTF6bm1Ebms5elZxM1pkQzdaUzBXRm84Yml6TTFSdVFrdXBmSUFHcktOMXhHVExNSlB3SnkyYUFCNVp6dF9tLTFSaUFWUTVlNXZ2OHBpUTc3bl9NaDluOEdqWWdnYlBnUQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T15:24:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Asaltan a cliente bancario y le roban $600,000 en Monterrey El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "af498bcc924581eb"
+ },
+ {
+  "titulo": "Roban $600,000 a hombre que salía de banco en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkd2N09XeFNONXlpZEFlWjdiZ25JcG01OGZMLVI3YWY1TDJRZFJmMzBKYU1Ick5FcnZ1ckxHeFRkSmlTZ1BtYmtUaTk5U2V0UXE5aHo1SDE4SXJIX0tWM3hXSnI5X3IxQVdoc2czck4xWWt5ajh3U1ZvSzVLNEFjRTRlMlNNR0ttRWdXSk9WUjJYR0NJNnFV?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T15:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Roban $600,000 a hombre que salía de banco en Monterrey INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "aab7d7d3a25f3bfa"
+ },
+ {
+  "titulo": "Incendio en Ternium: Pese a afectaciones ambientales, la siderúrgica pone foco en retos comerciales con EU",
+  "liga": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb0ZrN0NFTktYYWg5OUtOUUxuaFNJTUUzVktweUFnZlRCR2hRR0swc0FIWGItcThqakVsVGhad1AtNnprOW92eTlJVVFKdVNZcGMwRWFwNVM4SjZpYnRsUm1BdnFwYjZ2NFc5OF96X2lpbTF3M1NjQ1Nvc3NveF9DMlpLMjNHZ1p1S0FTZFZ3Z3NfY1NBeGpGQ3l1SVJfTTNnSE8weUlxT2R3YXhQdVhfZGkyV3BFbThfcVg3UURUdkRNeUphOVRRMnNyaFNCR3dmMi1DbkF4Sk52bU1XcGZzUHdWMGZJOE1fYmp6dFFDZ9IB4wFBVV95cUxQWWxwMnhtaWtDTHZPelFrbkx6OGxTZmppX2tuempvTENQdF9SZkhSTE9hV2NVNmlfMngtbGt1THFhSmdXVGFINXA1dkFvUDRHZjFfdHUxMm95WXZtMm5KVUZYM05YUGNMWWprdHdlNGZaOUI4Q2FFdTZtNVJodU5HWE1IdnhCd1pkOTQ1VHJ1LVVTWDBNeDJ5QldHbDMtRHBURnNqeC00VWtKYlNDMHdlQm9mV3Bkb3JfNm5PcXJ1N2l3c1NSVjlxeXBsNWUwWEF0d3ZoMXZnclczRFZRQkxfSW9xQQ?oc=5",
+  "medio": "La Política Online",
+  "publicada": "2026-11-13T15:22:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Incendio en Ternium: Pese a afectaciones ambientales, la siderúrgica pone foco en retos comerciales con EU La Política Online",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "5f1e2e95c56ec19c"
+ },
+ {
   "titulo": "Realiza Pemex primer pozo de prueba para evaluar fracking en Coahuila",
   "liga": "https://abcnoticias.mx/coahuila/2026/11/13/realiza-pemex-primer-pozo-de-prueba-para-evaluar-fracking-en-coahuila-295404.html",
   "medio": "ABC Noticias",
@@ -28,6 +665,34 @@
   "id": "2f73fe5c4070e1cc"
  },
  {
+  "titulo": "Yoko Takahashi habla en Monterrey sobre el legado de Evangelion y su misterio con The Weeknd",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDkxeDV2YlRQWkh5WGZHWHNweUpWWlFYSG95T0hJbVJ3Qm9XUDNXM3ZzMGw2QnJWYy11MFgyUVdRc01sSTFSY244ZWhJdWJhUGlhZFB6Sm0tWmNXTEFOcFM2dmFNcHRSYjF6M3ZVWGJ4SFpjc096UFlIS1RNTjJzNnVYSkloX1Z1cndQX3psV1BsUWo4b2xj0gGXAUFVX3lxTE5ydWt3QTZmc0FXZS00X3E4dVNNMEVYb1JjZ1BGY25wSmt5Zkx2QkhKQ1pOb2YzV1RianY2THNuMDF5V0F5Um83Q25fd2lUYng2Y1Y3X19YMVFKczRBYlpFMjVEcGEwc0VMN1ZncHlsaGJ2akYzZTZhMkxZUHBNYlNKMktIaVR6Wm9oYnhva1kxWEFnXy11WG8?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T15:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Yoko Takahashi habla en Monterrey sobre el legado de Evangelion y su misterio con The Weeknd Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "490b7292d628de12"
+ },
+ {
+  "titulo": "Tras acoso y abuso entrenadores deberán registrarse en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2xqamhLTXlPay1fdVNETEQ0OFVhR1ZNSFdGUmtfbndTUEswUUFKY3piZ2xCQk9OTy1GRW81NzdhRUpNLWJ6MmJFbDZDOG5OUTVPbGxIZEJHTzNIcElLNEdaRzJ6RmtjamJ0c1V0MFlmWTdOQ1JkdzlMMlBkanB3YXJGVEFodDFGNVg4czMxVTR2VjYzN2l3WF80Yw?oc=5",
+  "medio": "Imagen Televisión",
+  "publicada": "2026-11-13T15:17:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Tras acoso y abuso entrenadores deberán registrarse en Nuevo León Imagen Televisión",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6e09242b4ca4de3b"
+ },
+ {
   "titulo": "Suspenden vuelos en EU por 'motivos de seguridad'",
   "liga": "https://www.elnorte.com/suspenden-vuelos-en-eu-por-motivos-de-seguridad/ar3314381",
   "medio": "El Norte",
@@ -40,6 +705,20 @@
   ],
   "local": true,
   "id": "b9f76844febac098"
+ },
+ {
+  "titulo": "Suspenden vuelos en EU",
+  "liga": "https://www.elnorte.com/suspenden-vuelos-en-eu/ar3314381",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T15:14:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Administración Federal de Aviación de EU ordenó una suspensión de vuelos ante problemas en comunicaciones de control de tráfico aéreo.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "265dbfcc9226247a"
  },
  {
   "titulo": "Alertan por posibles fraudes en compras por internet durante El Buen Fin",
@@ -309,6 +988,20 @@
   ],
   "local": false,
   "id": "d4975465d00ed94c"
+ },
+ {
+  "titulo": "Estados Unidos mantiene conteo de votos tras avance demócrata",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVk9uSUNRbzdlZE9fbFpZM1MyQkpDdmV3eC1QNmo1QXF3WDZMQ25FT3JvWVJIakhuTjRsenk0NWVvQUoySmpOQVFnc2VCcGJQUWk3eTRfSG9ZM1VRdlRkV3hoOHFlcHoxOXM3QWpLNkFmOTZZU1FtNFA1T2puVWVGMkZPOEtid3FIcF9kejItdzVwQXpkdjJsZGstbW04WUZyX2xGeGZB?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T14:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Estados Unidos mantiene conteo de votos tras avance demócrata INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "28933ac24c098aaa"
  },
  {
   "titulo": "Antonio Oseguera hermano de ‘El Mencho’ es condenado a 22 años de prisión por narcotráfico",
@@ -1895,6 +2588,20 @@
   "id": "e3fecffb47d755fe"
  },
  {
+  "titulo": "Despliegan operativo por amenaza falsas en Prepa 16",
+  "liga": "https://www.elnorte.com/despliegan-operativo-por-amenaza-falsas-en-prepa-16/ar3314248",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T12:14:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Policías de San Nicolás y ministeriales despliegan operativo en la Prepa 16 tras amenazas falsas de una riña y un supuesto tiroteo.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0fcbb65a6759a161"
+ },
+ {
   "titulo": "Viaja aroma de la navidad desde Oregón hasta Monterrey",
   "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEFHVndnN0JZYVpfbldYZ0hRNmhndHQxakY0WEpUSmdNNTBUOUtIbFd2U255ZEZHT3FxME5kbkNuaVdXUTNYdHU1aXF3ZFhaeE5iS0RPT09PS0tKNmpzcGc4SEctQjFHdXRsVDV2dDBVR2FxeU1WX3dQRlFLbmpKREdDZWhNN0Nsa0w5SVloR3E1SXV4TDZB?oc=5",
   "medio": "Info7",
@@ -1992,6 +2699,20 @@
   ],
   "local": true,
   "id": "4c13837da9a298c2"
+ },
+ {
+  "titulo": "Detienen a hombre con presunta droga y arma de fuego tras persecución en Guadalupe",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHBZRG9KQlByX0dTbHJwaGZzQk5TbXpjemtMaXg2cUtOMXV3cklzVmZTdnE5SW1YX3FzX25pd0l6Z2EwVVpud2lEcXdZR0JDYWNkNmNOUXBndzRVRS1xcWcySzZjMlFBTkd2bG1hbTNZR0kyUC1BYVlRVFFqRktiaFo0Ql8xekVGWTRuaGFkQ1pJOU5jX0ZMRnZHdFBpS0RGcUFv0gGjAUFVX3lxTE4wNXlnV1JxcGNpWnAyT0NRaGlsemtXM3kzRW00QU84Ui1vZ2k0NUZFU29fdGRBcGxjRTlhNEJFV3FDOFR5cG5wcnYydjhuenh5TDI3TDQtTkh6RlJDRE5BYmtxTWFQa0Fvamk3SGJobzNSbmhPX1VwY3VLTzRlY1RlRC1uRW5VbnFsWEhBeXNIakJjU3JTVFRzTmRZVW9WWmp4R28?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T12:05:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Detienen a hombre con presunta droga y arma de fuego tras persecución en Guadalupe Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "418d2ecaae32e78e"
  },
  {
   "titulo": "Walter Erviti confirma continuidad de Matías Almeyda en Rayados y pone bajo evaluación a jugadores",
@@ -3413,6 +4134,20 @@
   ],
   "local": false,
   "id": "a52a4930f1286f03"
+ },
+ {
+  "titulo": "Ticketmaster en El Buen Fin 2026: Las ofertas y conciertos participantes",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHZCSks1dW45VjhFSDk3cUwyYkNJdlNRTVdoVmZpQlpWeG5nalpocGFZckM1SV81RHNwTHROVDhqZFEzTE95VUZUQ1Y5LXRxdDM1TzRWZnducWNhc0RZSzhqd1BjOURxNGxCajdraGNxTWM2b2YtMnA0OXM3MmttYmx1TlpXLVdLZllEZVhyVVJRVlRlUU5BLTRINGc5Tmh2azBSU0E4U3pTSVlFaFJFamZsaUJPZGk4d3JtcEdTYi1RY0k4?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-13T10:01:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T16:22:09-06:00",
+  "resumen": "Ticketmaster en El Buen Fin 2026: Las ofertas y conciertos participantes Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "558a1ce1952a3c43"
  },
  {
   "titulo": "Ejecutan a hombre en la colonia Tamaulipas, en Guadalupe",
