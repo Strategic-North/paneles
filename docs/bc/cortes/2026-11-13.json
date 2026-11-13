@@ -1,5 +1,423 @@
 [
  {
+  "titulo": "Lluvias provocan encharcamientos y afectaciones viales",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMTlhOExwanAwWHo3VnJuR2xHV05BZVh6dGg3VTZGRlk1Z054bE0wVW9uOUJvNUhYNGpmUU94ZjJQc2J4cEo1VXRaWEVRRGRvVG9RMXZYazFaU3VBS21lT3cxaUJtTUJGc2lna3d6bUZlQ0tiaEhqLW9JUnpyb3NyaUhGV2xhNmxCQUJlX2ZjZ3lKWWRNN0hESWVQWWZJNXdKU1pPTnZWX04?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T10:26:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Lluvias provocan encharcamientos y afectaciones viales AFN",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "1f091b11a288136c"
+ },
+ {
+  "titulo": "Papa Francisco presenta nuevos retos a líderes católicos en documento",
+  "liga": "https://elcongresista.mx/politica/nacional/papa-francisco-nuevo-enfoque-pastoral",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:26:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "El Papa Francisco lanza un llamado a líderes católicos para transformar su enfoque ante los retos sociales y culturales actuales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c905d523577a5765"
+ },
+ {
+  "titulo": "Tijuana: intensas lluvias provocan sorpresivos chubascos",
+  "liga": "https://elcongresista.mx/politica/baja-california/lluvias-intensas-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:25:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Tijuana enfrenta intensas lluvias que provocan chubascos y alerta de Protección Civil este fin de semana.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1e3a6e0e95e5b17b"
+ },
+ {
+  "titulo": "Festival Internacional de Cine Fantástico FERATUM inicia su XV edición en Pátzcuaro",
+  "liga": "https://elcongresista.mx/cultura/festival-internacional-cine-fantastico-feratum",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:23:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "El Festival Internacional de Cine Fantástico FERATUM inicia su XV edición en Pátzcuaro con 110 películas de 25 países y una exposición conmemorativa.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "30e038086eda2867"
+ },
+ {
+  "titulo": "Festival Internacional del Globo: 10 mil asistentes disfrutan en León",
+  "liga": "https://elcongresista.mx/politica/guanajuato/festival-internacional-del-globo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:21:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Más de 10 mil personas disfrutan del Festival Internacional del Globo en León, un evento destacado en la oferta turística del estado.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0fdd084867ec2a18"
+ },
+ {
+  "titulo": "El enriquecimiento sin igual de los Trump, clave en la derrota electoral de los republicanos",
+  "liga": "https://jornadabc.com.mx/principales/el-enriquecimiento-sin-igual-de-los-trump-clave-en-la-derrota-electoral-de-los-republicanos/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T10:21:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Advierten demócratas que indagarán la dramática alza en la fortuna del mandatario La entrada El enriquecimiento sin igual de los Trump, clave en la derrota electoral de los republicanos se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "cd3ee33a0f2e84d2"
+ },
+ {
+  "titulo": "Sheinbaum asegura que está \"hablado\" con EE. UU. sobre fiscal prófugo",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-hablado-eeuu-fiscal-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:17:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Claudia Sheinbaum confirmó que se mantiene comunicación con EE. UU. respecto a la situación del exfiscal de Chihuahua, Guillermo Arturo Zuany.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0faac77354d344d9"
+ },
+ {
+  "titulo": "El tiempo de espera en garitas de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdk95NmVYTlZtYkUyZFdxSjFZVEVNUHB0TVQ5ZU5fV2M0VGw4R3dRaVdSWlk2Sm9jeWVnUGdBcVJyU0xuTFV5Sl9pSHFaZXUtRk5rOHBRU3ZfRjJsQW12SkdyY2cwZy12b3ZHRjhBVDVoUjlOREx1REQtRDNtV3BXV1BaUQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T10:16:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "El tiempo de espera en garitas de Tijuana Baja News",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "9d0b2cfde4bc3da7"
+ },
+ {
+  "titulo": "Recuerdan a Cuauhtémoc Cárdenas en la UPN unidad Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/recuerdan-a-cuauhtemoc-cardenas-en-la-upn-unidad-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=recuerdan-a-cuauhtemoc-cardenas-en-la-upn-unidad-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-13T10:16:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "\"El tiempo no nos alcanzó para hacer este homenaje en vida”, Javier González Monroy, exfundador del partido de la Revolución Democrática en Baja California.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "47db5b1903156fda"
+ },
+ {
+  "titulo": "Asesinan a policía municipal en Juchitán, Oaxaca",
+  "liga": "https://elcongresista.mx/politica/oaxaca/asesinan-policia-municipal-juchitan-oaxaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:16:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Asesinan a un policía municipal en Juchitán, Oaxaca, en su propia casa, mientras otro hombre fue baleado en un incidente separado.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "80c72583086318af"
+ },
+ {
+  "titulo": "¿Cuántos narcovotos?",
+  "liga": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41b3FfdElsc3djWFB2UC0xLUZOSXFvZ0dvZXNwMS0yTldkRWFBOU53UlNzZkRwNE9HMUhWU0Y3SFg5eXNqME1ua3c0RkE0RkFCTHZpTWVRUW9hOWl6cmRRU3NlSmcyOWlZeExz?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T10:13:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "¿Cuántos narcovotos? AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ef8da4d23efa333d"
+ },
+ {
+  "titulo": "Index Kaizen apoya a 235 jóvenes en Chihuahua con innovación.",
+  "liga": "https://elcongresista.mx/politica/chihuahua/index-kaizen-chihuahua-proyectos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:11:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Index Kaizen presenta 20 proyectos innovadores de 235 estudiantes en Chihuahua, buscando transformar la industria local.",
+  "temas": [
+   "Economía y empleo",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cd1be56b72c70ef7"
+ },
+ {
+  "titulo": "Sheinbaum defenderá en China el respeto a la soberanía y la cooperación entre naciones",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-defendera-china-respeto-soberania-cooperacion-naciones-n914173",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T10:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Aseguró que llevará a la cumbre de la APEC, que se realizará en China, un mensaje de cooperación para el desarrollo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5d35771636d25055"
+ },
+ {
+  "titulo": "Boston Celtics enfrentará a Dallas Mavericks el 15 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/boston-celtics-vs-dallas-mavericks-15-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:09:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Boston Celtics enfrentará a Dallas Mavericks el 15 de noviembre en el TD Garden, con un balance de 10-2 para los locales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "998caa84067f4dce"
+ },
+ {
+  "titulo": "Microsoft reanuda servicios tras caída global; hospitales afectados",
+  "liga": "https://elcongresista.mx/politica/nacional/microsoft-caida-global-servicios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:03:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Microsoft reanuda servicios tras caída global que afectó hospitales y embajadas. Impacto significativo en la atención médica en Reino Unido.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "75c587c9228166ce"
+ },
+ {
+  "titulo": "México y Japón fortalecerán cooperación energética en 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/mexico-japon-cooperacion-energetica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:02:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "México y Japón acuerdan fortalecer la cooperación en comercio y energía; reunieron planes en Tokio para el diálogo económico en 2027.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6c9f89f101bb449b"
+ },
+ {
+  "titulo": "Ryan Wedding subasta motocicletas y recauda 70.9 mdp en México",
+  "liga": "https://elcongresista.mx/sorteos/ryan-wedding-subasta-motocicletas-recauda-70-9-mdp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T10:01:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "El Indep recauda 70.9 millones de pesos tras subastar motocicletas de Ryan Wedding, 'El Chapo' canadiense, en México.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c25f1248eec1ec77"
+ },
+ {
+  "titulo": "Han adoptado a 65 menores en el DIF BC este año",
+  "liga": "https://puntonorte.info/2026/11/13/han-adoptado-a-65-menores-en-el-dif-bc-este-ano/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-13T10:00:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Mexicali.- Alrededor de 300 niñas, niños y adolescentes se han incorporado a procesos de adopción en el Estado desde el inicio de la administración, de los cuales 65 son solo en el último año de gobierno, informó la directora general del Sistema para el Desarrollo Integral de la ",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6e75bc88f98f1518"
+ },
+ {
+  "titulo": "Lluvias intensas sorprenden a Tijuana; Protección Civil prevé chubascos durante el fin de semana",
+  "liga": "https://zetatijuana.com/2026/11/lluvias-intensas-sorprenden-a-tijuana-proteccion-civil-preve-chubascos-durante-el-fin-de-semana/?utm_source=rss&utm_medium=rss&utm_campaign=lluvias-intensas-sorprenden-a-tijuana-proteccion-civil-preve-chubascos-durante-el-fin-de-semana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-13T09:55:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Protección Civil informó que las lluvias continuarán durante las primeras horas de este viernes, para posteriormente registrarse chubascos dispersos durante el resto del día y mañana sábado en Tijuana.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "caf6e048d3138a71"
+ },
+ {
+  "titulo": "Boca Juniors convoca 25 elementos para semifinal de Copa Argentina",
+  "liga": "https://elcongresista.mx/politica/nacional/boca-juniors-convocados-semifinal-copa-argentina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:54:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Boca Juniors presentó su lista de convocados para la semifinal de la Copa Argentina ante Banfield el 13 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6cfe6acdeea98fc3"
+ },
+ {
+  "titulo": "Avanza 20% construcción del puente mirador en San Juan Parangaricutiro",
+  "liga": "https://elcongresista.mx/politica/michoacan/avance-puente-mirador-san-juan-parangaricutiro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:49:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Avanza 20% la construcción del puente mirador en San Juan Parangaricutiro, buscando potenciar el turismo en Michoacán.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6b55d7bb3f3f6be4"
+ },
+ {
+  "titulo": "Interesados importadores chinos en aguacate de Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/importadores-chinos-aguacate-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:49:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Importadores de China se interesan en el aguacate de Michoacán, resaltando su calidad superior, con un mercado potencial de 1,400 millones de consumidores.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "35160c6c5b2570d1"
+ },
+ {
+  "titulo": "Muere Christian Cousins, actor de \"Un detective en el kínder\"",
+  "liga": "https://www.uniradioinforma.com/fama/muere-christian-cousins-actor-un-detective-kinder-n914170",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T09:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Alcanzó popularidad durante su infancia por su participación en la película junto a Arnold Schwarzenegger, falleció a los 43 años.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "daee9b1ede591ce7"
+ },
+ {
+  "titulo": "La Feria del Molcajete en Michoacán reúne a 50 artesanos locales",
+  "liga": "https://elcongresista.mx/politica/michoacan/feria-molcajete-morelia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:48:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "La Feria del Molcajete en Michoacán reúne a 50 artesanos y 25 cocineras del 13 al 16 de noviembre en San Nicolás Obispo.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7e2717ea4bf228bb"
+ },
+ {
+  "titulo": "Arranca operativo de seguridad de Buen Fin 2026 en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/operativo-buen-fin-2026-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:47:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Inicia operativo de seguridad por el Buen Fin 2026 en Michoacán para proteger a los compradores y fomentar la economía local.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4ebd04af33193be1"
+ },
+ {
+  "titulo": "Bienvenidos a Shenzhen",
+  "liga": "https://jornadabc.com.mx/opinion/bienvenidos-a-shenzhen/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T09:41:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "La histórica y humillante derrota de Trump y el Partido Republicano en las urnas el pasado martes 3 de noviembre empezó a reacomodar las fuerzas del poder en la política interna norteamericana, pero también en el tablero geopolítico internacional La entrada Bienvenidos a Shenzhen",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "38710ec172409681"
+ },
+ {
+  "titulo": "Sheinbaum envía felicitaciones a López Obrador por su cumpleaños 73",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-envia-felicitaciones-lopez-obrador-su-cumpleanos-73-n914167",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T09:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "\"Nuestro cariño, reconocimiento, admiración siempre\", expresó la mandataria.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e3ceeff14be9caf7"
+ },
+ {
+  "titulo": "Lluvias provocan encharcamientos y afectaciones viales en Tijuana",
+  "liga": "https://jornadabc.com.mx/principales/lluvias-provocan-encharcamientos-y-afectaciones-viales-en-tijuana/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T09:30:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "El alcalde de Tijuana, Ismael Burgueño, compartió un mensaje en redes sociales en el que pidió a la población extremar precauciones La entrada Lluvias provocan encharcamientos y afectaciones viales en Tijuana se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "ece222b163379866"
+ },
+ {
+  "titulo": "Recauda INDEP casi 71 millones de pesos por 57 motocicletas aseguradas a Ryan Wedding",
+  "liga": "https://www.uniradioinforma.com/gobierno/recauda-indep-casi-71-millones-pesos-57-motocicletas-aseguradas-ryan-wedding-n914164",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T09:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Subastaron 57 de las 62 motocicletas de colección aseguradas al exatleta olímpico canadiense.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f62e66c79e7333fb"
+ },
+ {
   "titulo": "Cuatro marchas y seis concentraciones en CDMX este 13 de noviembre",
   "liga": "https://elcongresista.mx/sociedad/marchas-bloqueos-cdmx-13-noviembre",
   "medio": "El Congresista",
@@ -12,6 +430,21 @@
   ],
   "local": false,
   "id": "26f1a49b5a2d7456"
+ },
+ {
+  "titulo": "Desconexión digital: ¿qué pasará con los turnos nocturnos, rotativos y las guardias?",
+  "liga": "https://jornadabc.com.mx/opinion/desconexion-digital-que-pasara-con-los-turnos-nocturnos-rotativos-y-las-guardias/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T09:15:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "La propuesta que ahora se discute busca extender el derecho a la desconexión a todas las personas trabajadoras y pide a las empresas establecer reglas claras. La reforma ha avanzado en el Congreso y existen condiciones para que sea aprobada La entrada Desconexión digital: ¿qué pa",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "a32483e1396d0eb2"
  },
  {
   "titulo": "Humanos gana el Road 2 Web Summit 2026 y recibe 15,000 euros",
@@ -56,6 +489,20 @@
   ],
   "local": false,
   "id": "f12569be4f42e75c"
+ },
+ {
+  "titulo": "Naranjeros remonta y conquista el Clásico Sonorense en la novena",
+  "liga": "https://www.uniradioinforma.com/deportes/naranjeros-remonta-conquista-clasico-sonorense-novena-n914161",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T09:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Naranjeros continúa en casa y este viernes recibe a los Charros de Jalisco en el estadio \"Fernando Valenzuela\".",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "19c3258d80ae2640"
  },
  {
   "titulo": "Aumenta la migración mexicana a EU pese al alza en deportaciones",
@@ -349,6 +796,20 @@
   "id": "9af97f8c99ac6463"
  },
  {
+  "titulo": "Baja California pasa de cero a una denuncia por robo a bancos en 2026; el caso se cometió con violencia",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-pasa-cero-una-denuncia-robo-bancos-2026-caso-cometio-violencia-n913525",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T08:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "La entidad ocupa el lugar 17 de 32 por tasa de denuncias: 0.3 por cada millón de habitantes, frente a 0.7 del promedio nacional, según un informe de TResearch con datos del SESNSP.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b930e8dae7a94ac7"
+ },
+ {
   "titulo": "UIF desbloquea dos cuentas bancarias de Rocha Moya, por orden de tribunal federal",
   "liga": "https://zetatijuana.com/2026/11/uif-desbloquea-dos-cuentas-bancarias-de-rocha-moya-por-orden-de-tribunal-federal/?utm_source=rss&utm_medium=rss&utm_campaign=uif-desbloquea-dos-cuentas-bancarias-de-rocha-moya-por-orden-de-tribunal-federal",
   "medio": "Zeta Tijuana",
@@ -593,6 +1054,20 @@
   ],
   "local": false,
   "id": "38e6b6a1933e2acf"
+ },
+ {
+  "titulo": "Pronostican llovizna pare este viernes",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/pronostican-llovizna-pare-este-viernes-33115540",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-13T05:23:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "Se espera una temperatura máxima de 20° centígrados en la ciudad",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "9837ef4e6a164b1b"
  },
  {
   "titulo": "La gastronomía de China deslumbró a un viajero en 10 días",
@@ -2564,6 +3039,20 @@
   ],
   "local": false,
   "id": "68cb121309bb721b"
+ },
+ {
+  "titulo": "SAN DIEGO: Mechanic Dies After Being Trapped Under Amazon Trailer in Otay Mesa",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlFaY1JLeFlFRWgzNnI2YlhkdHkwM056WGVJbEpVNXlGU3M4SmFGeWp3RmlUdVhEelI1MF95UDJMZjlucHhkZXVvWXc3YWpLNW9FXzBIaEV0b3VxRHpQdG5PejBvUndEOVd1Nk9EeE9iTDNOVFB0dUNfajlMWjR0Q3lkdGNoNVVRd1RCeEtZdkxmS3QxUFV2R3BWUWRTanZTVkdDQm02REhHOE02SlNRQm40NA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T22:22:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T10:29:21-06:00",
+  "resumen": "SAN DIEGO: Mechanic Dies After Being Trapped Under Amazon Trailer in Otay Mesa Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c25a095093d53046"
  },
  {
   "titulo": "Roba carros, le cumplimentaron dos órdenes de aprehensión",
