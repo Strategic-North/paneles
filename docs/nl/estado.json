@@ -1,12 +1,12 @@
 {
  "panel": "Nuevo León",
- "actualizado": "2026-11-12T17:44-06:00",
- "corte": "2026-11-12",
+ "actualizado": "2026-11-12T19:08-06:00",
+ "corte": "2026-11-13",
  "ventana": [
-  "2026-11-11T18:30-06:00",
-  "2026-11-12T18:30-06:00"
+  "2026-11-12T18:30-06:00",
+  "2026-11-13T18:30-06:00"
  ],
- "total": 850,
+ "total": 15,
  "fuentes": [
   {
    "fuente": "El Norte",
@@ -21,7 +21,7 @@
   {
    "fuente": "ABC Noticias",
    "ok": true,
-   "notas": 192
+   "notas": 200
   },
   {
    "fuente": "Posta",
