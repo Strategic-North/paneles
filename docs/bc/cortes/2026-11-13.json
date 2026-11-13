@@ -1,5 +1,720 @@
 [
  {
+  "titulo": "Trump, la caravana, el R2 y Cruz Azul: la confianza en la justicia",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHJIclRsWEw4RTZHSmRPa09PTHI4eTVaVk8xZTdGSlJUOUs2ZVpFYndhMGFWeGl2UTBJaHJKZ25CVjA0OVhBZHlrSzcwYV9FdW9IOGNxSmU3ZnNEbjlWbUV1NkNJZjIwX1Nnd0xjQ2xaOTBDRjRBT0pjT1B4eFQtYlZ4cy1JV25aOEVRRzg1UDNZYUQ0d19YOEtkMEtDM0tYYnVIUkJqYktpUQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T13:26:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Trump, la caravana, el R2 y Cruz Azul: la confianza en la justicia AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ca6bc443729b6044"
+ },
+ {
+  "titulo": "Inicia el \"Buen Fin 2026\", para impulsar el comercio nacional",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNU1jYUxlbGFWV2hDM0dNdXJRTjE0Rk5keUx4VjNOaTNRQVFyWlZBbmE4X0I5bW9BTkhwT2pxR19BQ3JHZ1NKdnd6Tk9wQ3RURU5MR1dkVkxhaEpmVjQ4VmlBUlFDNTlZbDhNZHdzdnJuS2VvVTg0bFhCZG5uRVJrNFJvNzJab2pYWWRoSWt0WFFMMENpNkNlZzMwQ2ZLMFc5Znc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T13:22:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Inicia el \"Buen Fin 2026\", para impulsar el comercio nacional AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "a5ca25eb5f9aaf2e"
+ },
+ {
+  "titulo": "Presenta Fiscalía de Baja California Informe tras Tres Años de Gestión",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTkl1ZDBTMDZic2w0cGVqbDRQUlFrOFRCQXZlclRFdzNaMS11ZVkzMFh0VzQ5MGJjX0NtLVlyaTVlX18tdlZoNDFXbXEyN01HWmdrdGktR094b3BHZkt3OFBNU1QybjBia2V1bVJESFJERGYwZ2E3RnBjRGtDVmVnd2VndXg4cmhPVGxqdVlHTWt4dWs2aWd3WlRMUkN0Vy1wNWpQMnNGVE8yd2NpeHY1Yk1ZTVd3WWFJRmxUUHl3?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-13T13:22:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Presenta Fiscalía de Baja California Informe tras Tres Años de Gestión N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "566ea5591a10f660"
+ },
+ {
+  "titulo": "Sismo de 5.9 se registra frente a Ica, Perú, durante visita papal.",
+  "liga": "https://elcongresista.mx/politica/nacional/sismo-ica-peru-papa-leon-xiv",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:21:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Un sismo de 5.9 se registró frente a Ica, Perú, durante la visita del Papa León XIV, sin reportes de daños.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "02d9124eb7185e94"
+ },
+ {
+  "titulo": "Costco ofrece descuentos de hasta 30% en productos para el fin de año",
+  "liga": "https://elcongresista.mx/politica/nacional/costco-descuentos-pre-navidenos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:19:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Costco lanza descuentos de hasta 15,000 pesos en productos pre-navideños, con cupones y ofertas adicionales por compras en línea.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c8bbd553f36ff97f"
+ },
+ {
+  "titulo": "Al Menos 7 de Cada 10 Mexicanos Mantiene el Hábito de Leer; INEGI",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQm9VQlQ5dVVkWTloeFd3RnZRSW5vVmFxc3VFQU9RLWRCUFhrc3FYeUhjTTNmeTRseHJIdlpCakgyTXpaNTRCbElVZjM2clFYYXB4M1o4NXhFYTBEMUs3eGJSWTZzX0FhYTVDZTJSSjY3Y2VyRGhGQmdUem1kenJtYXdsdGZLUFlqZlo3R3hfV0xqeUxKd2hxS0hpeFRiRDFJc1pEeE5rTy1rbEUwQ1dYbWg4UnM?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-13T13:19:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Al Menos 7 de Cada 10 Mexicanos Mantiene el Hábito de Leer; INEGI N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "235c051095b7fe50"
+ },
+ {
+  "titulo": "Chihuahua refuerza producción de manzana mientras investiga dumping",
+  "liga": "https://elcongresista.mx/politica/chihuahua/chihuahua-investigacion-dumping-manzanas-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:19:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Chihuahua investiga dumping en manzanas importadas de EE.UU., mientras la producción local se fortalece y se reduce la compra externa.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5fe708cc1505a123"
+ },
+ {
+  "titulo": "Microsoft resuelve caída de Outlook y otros servicios tras 12 horas",
+  "liga": "https://elcongresista.mx/tecnologia/microsoft-caida-outlook-teams-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:18:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Microsoft restablece Outlook y otros servicios tras más de 12 horas de caída que afectó a millones de usuarios en todo el mundo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "311a3ea9234c78b4"
+ },
+ {
+  "titulo": "Sheinbaum propone usar IA en salud; 15 millones se autodiagnostican",
+  "liga": "https://elcongresista.mx/salud/sheinbaum-integrar-ia-salud-app",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:17:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Claudia Sheinbaum propone integrar inteligencia artificial en salud para mejorar diagnósticos. 15 millones se autodiagnostican anualmente.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "c189cdda39bdc81b"
+ },
+ {
+  "titulo": "Baja California participa en capacitación nacional sobre justicia alternativa",
+  "liga": "https://elportavoznoticias.com.mx/baja-california-participa-en-capacitacion-nacional-sobre-justicia-alternativa-2/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-13T13:15:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Personas juzgadoras de Baja California, Baja California Sur, Sonora, Sinaloa y Chihuahua participan en el Curso Introductorio a los Mecanismos Alternativos de Solución de Controversias (MASC), una capacitación de 20 horas coordinada... La entrada Baja California participa en capa",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "903377242462d839"
+ },
+ {
+  "titulo": "Frenó su alza y se ubica en 18.30 pesos el costo del dólar",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2t0aGRaWVdfQmExVndUS3FYRXBjaFNOeGVLRjBVZmNKV0NhbVdTNVJxTWRVWVZJdy1pWTB3SE5CWkMxN18yWk1nY2R1TDktQ2JTTUVmWHlxY09PTkxaTXdobHQyY0tRVDJ1Q194dzJuT25fMFp3dXN6bjhmdlpIUmcwZngta0ZrTzlwY0IwUEdMaFl0RFBYQWxsVzVwOXlicHJCNTNJekxONm1YcHc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T13:14:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Frenó su alza y se ubica en 18.30 pesos el costo del dólar AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "82b77f1deeea986c"
+ },
+ {
+  "titulo": "Lo arrestan por robar una moto a mano armada en el Mariano, ya había sido detenido por portación de arma y asaltos, pero estaba libre",
+  "liga": "https://puntonorte.info/2026/11/13/lo-arrestan-por-robar-una-moto-a-mano-armada-en-el-mariano-ya-habia-sido-detenido-por-portacion-de-arma-y-asaltos-pero-estaba-libre/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-13T13:08:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Tijuana.- Un hombre que despojó a una persona de su motocicleta amenazándola con una pistola fue detenido por elementos de la Policía Municipal de Tijuana. El delincuente ya había sido detenido anteriormente por portación de arma de fuego y robos con violencia, pero la se encontr",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "448f81de9603e7f6"
+ },
+ {
+  "titulo": "20 años del asesinato de Valentín Elizalde retratados en docuserie",
+  "liga": "https://elcongresista.mx/tamaulipas/docuserie-valentin-elizalde-20-anos-asesinato",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:06:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "La docuserie sobre Valentín Elizalde a 20 años de su asesinato examina su vida y legado musical.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "291ef080e2a5f750"
+ },
+ {
+  "titulo": "SSPCM rescata a persona que intentó cruzar la canalización del Río Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/sspcm-rescata-persona-intento-cruzar-canalizacion-rio-tijuana-n914243",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T13:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f2a8570d0654f69e"
+ },
+ {
+  "titulo": "Suman cinco detenidos por ataque armado donde murió una niña en Ciudad Obregón",
+  "liga": "https://www.uniradioinforma.com/policiaca/suman-cinco-detenidos-ataque-armado-donde-murio-una-nina-ciudad-obregon-n914245",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T13:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "\"Tenemos detenidos a cuatro varones y una mujer\", declaró el fiscal.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1fa5ca70530af84b"
+ },
+ {
+  "titulo": "Detienen a dos hombres armados con droga en Bahía de los Ángeles",
+  "liga": "https://elcongresista.mx/politica/baja-california/detienen-hombres-armados-droga-bahia-de-los-angeles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:04:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Dos hombres armados con drogas fueron detenidos en Bahía de los Ángeles por la Secretaría de Marina, vinculados a una célula delictiva.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b960cde3f3811a6e"
+ },
+ {
+  "titulo": "Realizan activistas jornada de búsqueda de desaparecidos en Rosarito",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhaa2JydTY5clIwaFlZTDlRWXpWZlhacEJfek9LVWRmTW8xV0tJTy1RQkFxa1dzd2xmRjJsbGNJLUc1MTJONVEwaVJEVjY3YzhNRWFGOXc5QThUb0tTdUZhM2dEVjJxelZfTEU0WlFXWEdWWnV1VmVGSXFORy1PM2FQRFh3RXlpREVKUWJoYlZ4TkttQ1lLaFkwanBvdVBabmNCeTh1VkNtOWhsQ1MzMjdXb040YmdUR01r?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T13:04:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Realizan activistas jornada de búsqueda de desaparecidos en Rosarito AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "51ec29c4672c55ce"
+ },
+ {
+  "titulo": "Secretaría de Salud promueve entornos laborales saludables con acciones que favorecen el bienestar de los trabajadores",
+  "liga": "https://www.uniradioinforma.com/sociedad/secretaria-salud-promueve-entornos-laborales-saludables-acciones-favorecen-bienestar-trabajadores-n914239",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T13:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Durante la Gestión Estatal se han intervenido mil 728 entornos laborales mediante 32 mil 622 eventos educativos, beneficiando a 1 millón 960 mil 657 personas.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "8a6ae40d82b129ae"
+ },
+ {
+  "titulo": "Sheinbaum califica \"inmoral\" liquidación de exconsejeros del INE",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-liquidacion-exconsejeros-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:03:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Claudia Sheinbaum critica las altas liquidaciones de exconsejeros del INE, que alcanzan hasta 13 mdp.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "122d0ec1b8a2592e"
+ },
+ {
+  "titulo": "Instruye SSCBC a 350 estudiantes de UABC a través del taller \"Protección integral del ecosistema digital\"",
+  "liga": "https://www.uniradioinforma.com/sociedad/instruye-sscbc-350-estudiantes-uabc-traves-taller-proteccion-integral-ecosistema-digital-n914237",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T13:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Se brinda actualización de herramientas para identificar peligros y prevenir delitos.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "3c3b13dff78279f1"
+ },
+ {
+  "titulo": "Andrés Rozental es nombrado Oficial de la Excelentísima Orden del Imperio Británico",
+  "liga": "https://elcongresista.mx/politica/nacional/andres-rozental-orden-imperio-britanico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:02:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Andrés Rozental es nombrado Oficial de la Excelentísima Orden del Imperio Británico por su labor en relaciones entre México y el Reino Unido.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7db38af4c8ffcd39"
+ },
+ {
+  "titulo": "Senado exhorta a mejorar atención médica para 16,400 mujeres reclusas",
+  "liga": "https://elcongresista.mx/salud/senado-exhorto-atencion-medica-mujeres-reclusas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T13:01:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "El Senado de México llama a mejorar la atención médica para las 16,400 mujeres privadas de libertad, tras alarmantes datos sobre su salud.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "c0f27046cda559c0"
+ },
+ {
+  "titulo": "Lluvias dejan inundaciones, socavones y deslaves en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGZTU1lpd1ZFN0IzZnFMRDJ6UkI5ZmtrR21yZzNyUHlmNlBFQjcxS1hEMm9wVHRVVFVkNlVMMkxnMUpkcEEyZ2M1Y3BBQmszX0ZXREJhUVJfVnhqYnpEWlhodVpGaFowNGFTM0RtN2xtYzFEdjczMFFJcmV1UWhtM3FpQ092LWRqeDZMWU1uN2JBa2l2Rkhqa2llVQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T13:00:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Lluvias dejan inundaciones, socavones y deslaves en Ensenada Baja News",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "4b5c5308860179ed"
+ },
+ {
+  "titulo": "Refuerza Gobierno de Ismael Burgueño acciones preventivas ante el pronóstico meteorológico del fenómeno de El Niño",
+  "liga": "https://www.uniradioinforma.com/sociedad/refuerza-gobierno-ismael-burgueno-acciones-preventivas-pronostico-meteorologico-fenomeno-nino-n914235",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T12:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "d5fc7cedb08373ba"
+ },
+ {
+  "titulo": "Verónica Ruffo irá con el PAN por la gubernatura, confirma en AFN",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVEFaYzZ5NTE1dVhHTkN3dU1JeFREZXVCYk9BWlBOYTU3RkFmMVdCdlphZUMzMDNTa3lWNWdpX0ZhcHp0bWZ0SHJhaUZlMDBPQkdmcEs4WmFKY1E0YktTN1dRejZFNFFWVkxOUTVfQ0ZwUUxGbFZmSzVqWUozLTFrWTRCODZhcTVDNzd1U1JIMmlQdG1DZGN0RzZTOVc3dU9GV21mOU9GSi1GSXlLR2hWSWtnakF0UQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T12:56:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Verónica Ruffo irá con el PAN por la gubernatura, confirma en AFN AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f99e37d80c85e58d"
+ },
+ {
+  "titulo": "Curitiba elimina exigencia de término de responsabilidad para eventos",
+  "liga": "https://elcongresista.mx/politica/nacional/curitiba-elimina-termino-responsabilidad-eventos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:56:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Curitiba modifica legislación sobre fuegos artificiales en eventos al eliminar la exigencia de un término de responsabilidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8df945c22b97e568"
+ },
+ {
+  "titulo": "Sara Schell, de 23 años, gana Latin Grammy como Compositora del Año",
+  "liga": "https://elcongresista.mx/cultura/sara-schell-latin-grammy",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:55:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "La compositora venezolana Sara Schell gana el Latin Grammy como Compositora del Año 2026, destacando en la música latina.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "2149a11c461ef993"
+ },
+ {
+  "titulo": "Por caída de nieve y bajas temperaturas cierran Parque Nacional Sierra San Pedro Mártir",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYi1XZExBSTRpc2kzVmpPMmpVUmE4a0UyZUNCbXpyM2lMbTBhX2NmNC05UGRLOGRHWENLUzl5MFlLWTRuQURpSDR6OXFQYkU1Wjl4NmJIbXlXcEVfU25wcTZRdG5lUjVUcXhvSDlJMndvNWpBV3ZIZ2hRT01qejlxQ0llN3pSV3FlWHpRd0NkYUNzR0lyaWU1QzhQeXF5R2Z2Wm1scU0waGJrV0dENUNKZnhHajF4TGpFckczQUVZRmRuV2ZQbGtncUpn?oc=5",
+  "medio": "Periodismo Negro",
+  "publicada": "2026-11-13T12:55:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Por caída de nieve y bajas temperaturas cierran Parque Nacional Sierra San Pedro Mártir Periodismo Negro",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "7635fc6a07e88896"
+ },
+ {
+  "titulo": "Recordarán a víctimas de siniestros viales en SLP con homenaje digital",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/homenaje-victimas-siniestros-viales-slp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:53:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Pedaleando recuerda a víctimas de siniestros viales en SLP con un homenaje digital el 15 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "654496d8aab58f4e"
+ },
+ {
+  "titulo": "San Luis Potosí: 352 mil vehículos producidos en 2025",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/san-luis-potosi-produccion-vehiculos-2025",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:52:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "San Luis Potosí producirá 352 mil vehículos en 2025 y reafirma su importancia en la industria automotriz con nuevas proyecciones.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "53945ae39bfda226"
+ },
+ {
+  "titulo": "Autoriza Semarnat “Bella Vista”, fraccionamiento de 188 edificios multifamiliares en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONm5rcUg5QlpidnN5Y20wd0syZTcwU1FrRVJ6d1V1dWNoM2lsVUdES09adkpWaTliajQ4UW5mektnclpKOUFucGotamQ2NkZaaDR6aDB2cm5TVnItSVJyMko4SGdlTXlPM0hwNUhybWZIc3pCaUtEcnNFUWtOb2V6TDRSRE1laU1FVmJ6SFdYdmtid2EtU2I4alpVSnNlVk9lUGdIV01vMkhURWt5eUVjNGZVdndOem9wMGE5ZDVSWVktVVRW?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T12:52:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Autoriza Semarnat “Bella Vista”, fraccionamiento de 188 edificios multifamiliares en Ensenada Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e0ec1145750bd2ba"
+ },
+ {
+  "titulo": "Automovilista grave tras choque con camión en Querétaro",
+  "liga": "https://elcongresista.mx/politica/queretaro/automovilista-choque-camion-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:52:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Un automovilista resultó gravemente herido tras chocar su camioneta contra un camión en Querétaro, generando afectaciones al tráfico.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "87bc1c8aba38ae86"
+ },
+ {
+  "titulo": "Ante saturación de Long Beach, megapuerto Punta Colonet podrá recibir mercancías y exportarlas a EU: Sheinbaum",
+  "liga": "https://puntonorte.info/2026/11/13/ante-saturacion-de-long-beach-megapuerto-punta-colonet-podra-recibir-mercancias-y-exportarlas-a-eu-sheinbaum/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-13T12:50:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "CDMX.- El megapuerto Punta Colonet de Ensenada, cuya primera piedra fue colocada hace unas semanas por la gobernadora Marina del Pilar Ávila Olmeda y autoridades federales para que inicie operaciones en 2029, podrá recibir mercancías y exportarlas a Estados Unidos ante la saturac",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "c7765a6c172101e7"
+ },
+ {
+  "titulo": "Publica Gobierno de Ensenada resultados de la convocatoria “Becas Deportivas 2026”",
+  "liga": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0SEg5R1hfSTJPS051cTAwVFczcFFKZUJKeEZyZ240MHAzRF9uLU9zYlV3S2hFSUg4cm5feTlXazQ1eExFZ3VfanZaQnE?oc=5",
+  "medio": "XXV Ayuntamiento de Ensenada",
+  "publicada": "2026-11-13T12:49:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Publica Gobierno de Ensenada resultados de la convocatoria “Becas Deportivas 2026” XXV Ayuntamiento de Ensenada",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "3f2dab2937ad5594"
+ },
+ {
+  "titulo": "Crisis en INE: 48% de mexicanos duda de elecciones justas en 2024",
+  "liga": "https://elcongresista.mx/justicia/crisis-ine-confianza-elecciones-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:46:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Casi el 48% de los mexicanos duda que el INE garantice elecciones justas en 2024, revela encuesta en medio de escándalo de corrupción.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "cc6e9392a8b3c0b8"
+ },
+ {
+  "titulo": "Hombres con rifles, chalecos y droga, detenidos en Bahía de los Ángeles",
+  "liga": "https://zetatijuana.com/2026/11/hombres-con-rifles-chalecos-y-droga-detenidos-en-bahia-de-los-angeles/?utm_source=rss&utm_medium=rss&utm_campaign=hombres-con-rifles-chalecos-y-droga-detenidos-en-bahia-de-los-angeles",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-13T12:45:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Elementos de la Secretaría de Marina aseguraron a dos hombres que se vinculan con la agrupación delictiva de Óscar Parra Aispuro, alias el Parra.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "8e65e958bc14c0ed"
+ },
+ {
+  "titulo": "Niega presidente del Poder Judicial de BC cancelación de visa",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWFYRnJUZzNEVTE5U0c2ZkVQU1VKQ1Yta0VfcUxSYm1FbHl4MXFnSzRWM3o5RnB3bklJcDY3aDdRVkF4SUZaQVpRY0t2UXRzMGdJZ3hvdWFEMXU5ZEFqeklJWXl6U2x0NG9YNHVZbkQ3WElzWkpVRGpHZzVDM0Y4bThlZC1GZnk3M1VlbVZtbUVOVlRGQXNMRnB5aXBwUQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T12:37:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Niega presidente del Poder Judicial de BC cancelación de visa Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6e4dd2cce8840e49"
+ },
+ {
+  "titulo": "Gobierno de Tecate anuncia suspensión de labores en oficinas municipales este lunes 16 de noviembre",
+  "liga": "https://www.uniradioinforma.com/sociedad/gobierno-tecate-anuncia-suspension-labores-oficinas-municipales-lunes-16-noviembre-n914232",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T12:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "La atención en las dependencias municipales se reanudará el martes 17 de noviembre, mientras que los servicios esenciales continuarán funcionando con normalidad.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d2e6eae54e0d4aa2"
+ },
+ {
+  "titulo": "Clima en CDMX: temperaturas de 9 a 24 grados el 14 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/pronostico-clima-cdmx-14-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:36:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "El SMN prevé temperaturas de 9 a 24 grados en CDMX para el 14 de noviembre, sin lluvias.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d45ebae6824a16b4"
+ },
+ {
+  "titulo": "Seguirán chubascos hoy y mañana en Tijuana",
+  "liga": "https://puntonorte.info/2026/11/13/seguiran-chubascos-hoy-y-manana-en-tijuana/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-13T12:35:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Tijuana.- Después de las lluvias de esta madrugada, habrá chubascos durante el viernes 13 de noviembre y mañana, sábado 14, informó el director de Protección Civil Municipal, Sergio Armando Pérez Ibarra. Durante la Séptima Mesa Permanente de Preparación y Respuesta ante el pronós",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "d67edff7a26a6ae9"
+ },
+ {
+  "titulo": "Atiende SSPCM incidentes menores durante las lluvias registradas en la madrugada",
+  "liga": "https://www.uniradioinforma.com/sociedad/atiende-sspcm-incidentes-menores-durante-lluvias-registradas-madrugada-n914230",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T12:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "bf4057f56d66c461"
+ },
+ {
+  "titulo": "Tesoro de EU sanciona a dos organizaciones guatemaltecas por apoyar al CDS y al CJNG",
+  "liga": "https://zetatijuana.com/2026/11/tesoro-de-eu-sanciona-a-dos-organizaciones-guatemaltecas-por-apoyar-al-cds-y-al-cjng/?utm_source=rss&utm_medium=rss&utm_campaign=tesoro-de-eu-sanciona-a-dos-organizaciones-guatemaltecas-por-apoyar-al-cds-y-al-cjng",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-13T12:33:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "El Departamento de Estado designó de forma simultánea a Los Lorenzanas como organización terrorista extranjera y terrorista global especialmente designado.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "18743f9c9e5c2634"
+ },
+ {
+  "titulo": "250 agentes vigilarán comercios y calles en Morelia durante Buen Fin",
+  "liga": "https://elcongresista.mx/politica/michoacan/policia-morelia-buen-fin-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:33:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "La Policía Municipal de Morelia desplegará 250 agentes para garantizar la seguridad durante el Buen Fin 2026 y prevenir delitos.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "69f3b99ed5dad280"
+ },
+ {
+  "titulo": "León XIV se reúne con seis víctimas de abusos en Perú",
+  "liga": "https://elcongresista.mx/justicia/reunion-leon-xiv-seis-victimas-abusos-peru",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:32:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "El papa León XIV se reunió con seis víctimas de abusos en Lima, Perú, buscando impulsar cambios dentro de la Iglesia para prevenir futuros casos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "489cd24d1cef675b"
+ },
+ {
+  "titulo": "Rescataron a conductor atrapado en Valle Dorado",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpY25uUU5RSFVaWDJKOHgwcWxMVDI1czZQaUZwdE5kQ0tHLVNsUTBzR29SaGVjRlVTRjlkOWNXOGRfTFoxc2RMb19Pemd6S3hlcjlUQ2l4VndTdVE?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-13T12:32:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Rescataron a conductor atrapado en Valle Dorado Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d263bd5d235ebad4"
+ },
+ {
+  "titulo": "Identifican a 8 víctimas del derrumbe de edificio en Brooklyn",
+  "liga": "https://elcongresista.mx/politica/nacional/victimas-derrumbe-edificio-brooklyn",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:31:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Ocho personas fallecieron en el derrumbe de un edificio en Brooklyn, Nueva York, incluyendo residentes y trabajadores.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "98b8d80ae45f5678"
+ },
+ {
+  "titulo": "FGE Michoacán: rescata 12 canes y 2 gatos por maltrato en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/fge-michoacan-rescate-animales-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T12:30:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "La FGE de Michoacán rescata 14 animales potencialmente víctimas de maltrato en un operativo en Morelia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c05b317eaffc6bcf"
+ },
+ {
+  "titulo": "Gobierno de Tecate suspenderá labores en oficinas municipales este lunes 16 de noviembre",
+  "liga": "https://elportavoznoticias.com.mx/gobierno-de-tecate-suspendera-labores-en-oficinas-municipales-este-lunes-16-de-noviembre/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-13T12:29:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "El Gobierno de Tecate informó que este lunes 16 de noviembre permanecerán cerradas las oficinas municipales con motivo de la conmemoración del aniversario de la Revolución Mexicana. De acuerdo con el Ayuntamiento,... La entrada Gobierno de Tecate suspenderá labores en oficinas mu",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "ddfa9df83b9f755e"
+ },
+ {
+  "titulo": "Hubo caída de árboles y cableado, entre otros incidentes menores por lluvias",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMDUxMy0xRk5jT2M2bFBvWFdkR3RGMFphR3g3S3hTdjNmRVV3MkRPQ0wxODJMd1oyV0FJTlhUWDQ5OVJCb0lzMlhpc0JnU0UwSzZndTNiN3JZc3ktazQ4WHlSc3REaldPd3VTSERNQWxncXZwbnZrMjBSbTc4RlBfS3JqWVBTNDZ5YXFVaXphNWdPUjVXdXdBS0VjZ0JaX1JrZXVCQWFOSDdISDV6dzdDNHVCRHVIOHVzR0ZHRjBMMk5pWUxh?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T12:29:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Hubo caída de árboles y cableado, entre otros incidentes menores por lluvias AFN",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "c0c1e2a0cc1aa703"
+ },
+ {
+  "titulo": "Unidem exhorta a comprar con responsabilidad durante el Buen Fin",
+  "liga": "https://jornadabc.com.mx/general/mexico/unidem-exhorta-a-comprar-con-responsabilidad-durante-el-buen-fin/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T12:25:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "La unión de industriales estima durante el fin de semana de descuentos una derrama económica de 23 mil 500 mdp La entrada Unidem exhorta a comprar con responsabilidad durante el Buen Fin se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "aefc7c293f300238"
+ },
+ {
   "titulo": "Dejan encobijado sobre el Bulevar 2000",
   "liga": "https://puntonorte.info/2026/11/13/dejan-encobijado-sobre-el-bulevar-2000/",
   "medio": "Punto Norte",
@@ -12,6 +727,21 @@
   ],
   "local": true,
   "id": "badd15c42e7aa96f"
+ },
+ {
+  "titulo": "Sheinbaum felicita a AMLO por su cumpleaños número 73",
+  "liga": "https://jornadabc.com.mx/principales/sheinbaum-felicita-a-amlo-por-su-cumpleanos-numero-73/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T12:21:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "“Desde aquí nuestro cariño reconocimiento, admiración siempre”, expresó en la mañanera. También integrantes del gabinete federal le externaron felicitaciones al ex presidente, tales como la secretaria del Bienestar, la de Gobernación, el de Educación y la fiscal general La entrad",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": true,
+  "id": "657bf764fb326dc7"
  },
  {
   "titulo": "Toluca ofrecerá hasta 50% de descuento en agua durante Buen Fin 2026",
@@ -56,6 +786,20 @@
   "id": "0fac5278627ec6b3"
  },
  {
+  "titulo": "Lluvias Dejan Árboles Caídos y Encharcamientos en Tijuana, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcHkwM3BrZWlpY3o0WV9WejUzcXAtU1pVM21IVURjdFdFSVhKS0NlRmVIa3VCNUJ4UjIzLURQSmdzbHJweVduS09TR1g5X1hsUGlYQWFCVkp6THVETWNWN2ZJZDROZ1N2N3k0bGJIcWszUFZ0b0hjZG9qTjF4Szk3U2tHdmZaYVhlVkNlSTV4M0c1LUZ3QmZkM2hYVkdtX1dQTzFPeXYxZmpQWkpwUmVncDVnVEdSdC1UQWJRLVFrZXAyUmxSZGlDbUR0QXFGTEVo?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-13T12:18:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Lluvias Dejan Árboles Caídos y Encharcamientos en Tijuana, Baja California N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "93f610e33de5eb53"
+ },
+ {
   "titulo": "Tomateros se imponen a los Águilas en El Nido",
   "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb1NzWE8yd1I2dnVEbGtFQ3EtTlJGX2FiZ0t3WWk0bXJYQm1TWnpiUjZPZjVaWGJuV2dnLVlhZmQ4R0dFNmphMl9kSERoYVNpaVlieHljS1ZPZVV0dHdJWWhPYnB1bU9IZ0pRczQ3amZZcDFEcno1a2xSdmdqc1JZLUJZVmJ6Tlk?oc=5",
   "medio": "BajaNews",
@@ -69,6 +813,20 @@
   ],
   "local": false,
   "id": "88433b45c452ecc4"
+ },
+ {
+  "titulo": "Por acato judicial, Hacienda descongela cuentas de «ex funcionario» de Sinaloa",
+  "liga": "https://jornadabc.com.mx/region/por-acato-judicial-hacienda-descongela-cuentas-de-ex-funcionario-de-sinaloa/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T12:18:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Cabe recordar que las cuentas bancarias de Rocha Moya fueron bloqueadas por la UIF como parte de las indagatorias financieras iniciadas tras los señalamientos hechos por la justicia de Estados Unidos sobre su presunta colaboración con el Cártel de Sinaloa, en particular con la fa",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1299f57270f9a6b3"
  },
  {
   "titulo": "Reanudan búsqueda de estudiante desaparecida en río Salado, Tlaxcoapan",
@@ -129,6 +887,20 @@
   "id": "99e54ff734b8bcce"
  },
  {
+  "titulo": "‘El Fisgón’, monero de ‘La Jornada’, presentó en Tijuana el libro «Información contra la Desinformación»",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/el-fisgon-monero-de-la-jornada-presento-en-tijuana-el-libro-informacion-contra-la-desinformacion/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T12:12:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Al igual que en otros países de AL, la batalla se dará en redes sociales con las campañas de desprestigio, explicó Julieta Ramírez, coordinadora de Morena en BC La entrada ‘El Fisgón’, monero de ‘La Jornada’, presentó en Tijuana el libro «Información contra la Desinformación» se ",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "869e76f5f83d6e7f"
+ },
+ {
   "titulo": "Congreso de Sonora recibe propuestas para proteger salud mental y apoyar ganaderos",
   "liga": "https://elcongresista.mx/politica/sonora/congreso-sonora-propuestas-salud-mental-ganaderia",
   "medio": "El Congresista",
@@ -174,6 +946,20 @@
   ],
   "local": false,
   "id": "3a01f945497fbc0d"
+ },
+ {
+  "titulo": "Ni una caravana migrante se dirige a la frontera norte desde México: Sheinbaum al zar fronterizo",
+  "liga": "https://jornadabc.com.mx/region/ni-una-caravana-migrante-se-dirige-a-la-frontera-norte-desde-mexico-sheinbaum-al-zar-fronterizo/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T12:06:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "La Presidenta aseguró que durante el gobierno de Trump se han desintegrado 24 contingentes que partieron desde el sur mexicano La entrada Ni una caravana migrante se dirige a la frontera norte desde México: Sheinbaum al zar fronterizo se publicó primero en La Jornada Baja Califor",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "3fae68965f8c0b4c"
  },
  {
   "titulo": "Soles inicia con triunfo la Serie Final por el Campeonato de la LNBP",
@@ -265,6 +1051,20 @@
   "id": "854f05c940977a9e"
  },
  {
+  "titulo": "Aseguran agentes de la SSPCM a un hombre señalado por violencia familiar y lesiones",
+  "liga": "https://www.uniradioinforma.com/policiaca/aseguran-agentes-sspcm-hombre-senalado-violencia-familiar-lesiones-n914227",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T12:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c1541872fe213ec2"
+ },
+ {
   "titulo": "México supera 74 millones de turistas en 2026; récords históricos",
   "liga": "https://elcongresista.mx/politica/nacional/mexico-74-millones-turistas-2026",
   "medio": "El Congresista",
@@ -306,6 +1106,20 @@
   ],
   "local": true,
   "id": "8ff923a6acb5c86a"
+ },
+ {
+  "titulo": "\"Legal, pero inmoral\": Sheinbaum cuestiona liquidaciones de hasta 13 millones en el INE",
+  "liga": "https://www.uniradioinforma.com/gobierno/legal-pero-inmoral-sheinbaum-cuestiona-liquidaciones-13-millones-ine-n914225",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T11:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Exconsejeros del Instituto Nacional Electoral (INE) recibieron liquidaciones millonarias al concluir sus encargos, señaló.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "1000dbd95982d729"
  },
  {
   "titulo": "Robaron 60 metros de cable de un poste en Ensenada y los atraparon tras una persecución en moto",
@@ -1062,6 +1876,21 @@
   ],
   "local": false,
   "id": "67fe7760717aa1d4"
+ },
+ {
+  "titulo": "Pierde la vida hombre tras ser atropellado en la carretera libre Tijuana-Tecate; conductor huyó",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEg2WHN0Zjd4R2dLX1Y5MEIxSU5qaExIZ0YxeW9fdmdmVG9GQmVmYklmdm94aDFHMUM0eHhucEdIMnRxN2RCM2hxVUViMGkzczVZNkRMelpEN2M3OXFmSDhjczI2bzNxYW96eXdXT042dkhXeXRjeFZIMWJvM29nYmhFOHFfaFZnc0pYV1Z6M0xIemc0SEJ6VWlSTDRTMzFVUTFxRHF4WXZvOVZnLVZuQVNlVUdlejR4Z0cyUkpGS3VaUkJ6a09oSFpR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T10:49:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Pierde la vida hombre tras ser atropellado en la carretera libre Tijuana-Tecate; conductor huyó Baja News",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "919ba0218f0d50a0"
  },
  {
   "titulo": "Zendaya cobró un millón de dólares por episodio en la tercera temporada de Euphoria",
@@ -1904,6 +2733,20 @@
   "id": "fa76039cc4604115"
  },
  {
+  "titulo": "Rescatan a persona atrapada por la corriente tras intentar cruzar la canalización del Río Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/rescatan-a-persona-atrapada-por-la-corriente-tras-intentar-cruzar-la-canalizacion-del-rio-tijuana-33118362",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-13T08:22:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Paramédicos atendieron a la persona en el lugar y descartaron afectaciones",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c86c6f6088160aca"
+ },
+ {
   "titulo": "Hamlet Hail to the Thief deslumbra en Londres con su fusión teatral",
   "liga": "https://elcongresista.mx/cultura/hamlet-hail-to-the-thief-londres",
   "medio": "El Congresista",
@@ -1932,6 +2775,20 @@
   "id": "0bc04fe3034e7f42"
  },
  {
+  "titulo": "Lluvias dejan caída de árboles, cortes de energía y afectaciones viales en distintos puntos de Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/lluvias-dejan-caida-de-arboles-cortes-de-energia-y-afectaciones-viales-en-distintos-puntos-de-tijuana-33118323",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-13T08:19:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "En la Zona Centro, los equipos de emergencia atendieron la caída de un árbol, así como el contacto de otros árboles con cableado eléctrico.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "e70d7f27e9a83a12"
+ },
+ {
   "titulo": "Cultivadores de cannabis en Marruecos defienden su cultura",
   "liga": "https://elcongresista.mx/politica/nacional/cannabis-cultivo-tradicional-marruecos",
   "medio": "El Congresista",
@@ -1944,6 +2801,20 @@
   ],
   "local": false,
   "id": "c468730a21e02f30"
+ },
+ {
+  "titulo": "Dan la bienvenida a 18 nuevos oficiales de la Policía Municipal",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/dan-la-bienvenida-a-18-nuevos-oficiales-de-la-policia-municipal-33118148",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-13T08:09:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Los nuevos cadetes fueron 10 mujeres y ocho hombres quienes tomaron protesta la mañana de este viernes",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2af9146fa2cc9c1a"
  },
  {
   "titulo": "Asalto en La Plata deja a tres encerrados y 40 mil pesos robados",
@@ -1973,6 +2844,20 @@
   ],
   "local": false,
   "id": "2ef7ac1d2927884d"
+ },
+ {
+  "titulo": "Expediente Confidencial / La niña que el narco usó como escudo humano",
+  "liga": "https://oem.com.mx/elsoldetijuana/analisis/expediente-confidencial-la-nina-que-el-narco-uso-como-escudo-humano-33118087",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-13T08:05:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2f5618ee37b4319c"
  },
  {
   "titulo": "Claudia Sheinbaum inicia conferencia matutina el 13 de noviembre",
@@ -2045,6 +2930,20 @@
   "id": "1451a12031c3be65"
  },
  {
+  "titulo": "Tipo de cambio en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/tipo-de-cambio-en-tijuana-33117899",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-13T07:53:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Consulta aquí la compra y venta del dólar en los bancos de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "db41b141f595bc34"
+ },
+ {
   "titulo": "Salvamento Marítimo rescata a 119 migrantes en El Hierro",
   "liga": "https://elcongresista.mx/politica/nacional/salvamento-maritimo-rescate-119-migrantes-el-hierro",
   "medio": "El Congresista",
@@ -2088,6 +2987,35 @@
   ],
   "local": false,
   "id": "1e7e82a6012b156f"
+ },
+ {
+  "titulo": "Anuncian la edición 21 del “Torneo de box Intertecos”",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/anuncian-la-edicion-21-del-torneo-de-box-intertecos-33117495",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-13T07:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "El evento se celebrará el 4 de diciembre en el plantel Dr. Luis Garibay del sistema Jose Vasconcelos.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "b88f579ffdc5f954"
+ },
+ {
+  "titulo": "Tijuana identifica zonas de deslizamiento y prepara 102 inmuebles ante una posible contingencia por lluvias",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/tijuana-identifica-zonas-de-deslizamiento-y-prepara-102-inmuebles-ante-una-posible-contingencia-por-lluvias-33117830",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-13T07:46:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "El censo de personas y viviendas en riesgo continúa en actualización, mientras el municipio mantiene la limpieza de 33 desarenadores y coordina con organismos civiles la disponibilidad de espacios con servicios de atención para una eventual emergencia",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "81a95df2e32c36eb"
  },
  {
   "titulo": "Reunión en la UNAM con exalumnos y autoridades para impulsar becas",
@@ -2431,6 +3359,20 @@
   ],
   "local": false,
   "id": "2e135861940db026"
+ },
+ {
+  "titulo": "Abaten a “El Pariente” tras enfrentamiento armado en Ensenada; hieren a dos policías",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW1UTk9HYjlKWW83OGZVTlBFVUZkRndEUlNaT2d2NDJGVFR3M3l2M3MtU3dBRy1hMVZjdEJ6eWZjVzRaVjNsRWg3bVhsSXBtM1JHNjlnV01hdTg5eHZZQVdVTFFVbGd1V1NhUkloSF9SSVJBSGNoMnNqNEpmeF9DWENxZzRZOW1vTFRWV0tmYXRqY2xhZmppQk9mV1FDcEZMME0xREswT0NiSmVvT0VGbUFrRkR3RENW?oc=5",
+  "medio": "Guardia Nocturna",
+  "publicada": "2026-11-13T04:34:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T13:32:43-06:00",
+  "resumen": "Abaten a “El Pariente” tras enfrentamiento armado en Ensenada; hieren a dos policías Guardia Nocturna",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a9bbf98be3df510f"
  },
  {
   "titulo": "Golden Retriever de 15 años recupera movilidad con pilates",
