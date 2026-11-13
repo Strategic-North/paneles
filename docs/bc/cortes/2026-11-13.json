@@ -1,5 +1,66 @@
 [
  {
+  "titulo": "Alumbrado público en Michoacán enfrenta déficit de 18 mdp en 52 municipios",
+  "liga": "https://elcongresista.mx/politica/michoacan/alumbrado-publico-deficit-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:16:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "El servicio de alumbrado público en Michoacán presenta un déficit de 18 millones de pesos que afecta a 52 municipios.",
+  "temas": [
+   "Gobierno municipal",
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0d2d0cd9dc208abf"
+ },
+ {
+  "titulo": "“En esta casa crecimos”: familias que perdieron todo en incendio de Camino Verde piden apoyo de la comunidad",
+  "liga": "https://puntonorte.info/2026/11/12/en-esta-casa-crecimos-familias-que-perdieron-todo-en-incendio-de-camino-verde-piden-apoyo-de-la-comunidad/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-12T19:13:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "Tijuana.- Dos familias que vivían en casas de madera en la colonia Camino Verde, en la Delegacion Sanchez Taboada, quedaron sin hogar la noche de ayer miércoles 11 de noviembre, debido a un incendio, y piden apoyo de la comunidad para reconstruir sus hogares. Los hermanos Elizabe",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "3907eee6d7579f4e"
+ },
+ {
+  "titulo": "México reduce 3.4% las defunciones en 2025, según INEGI",
+  "liga": "https://elcongresista.mx/salud/mexico-reduce-defunciones-2025",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:10:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "En 2025, México reduce las defunciones en un 3.4%, según INEGI. Conoce las causas principales de mortalidad.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "3b922ecb95f22aa0"
+ },
+ {
+  "titulo": "Coparmex cuestiona Presupuesto 2027 por falta de inversión en áreas clave",
+  "liga": "https://www.uniradioinforma.com/negocios/coparmex-cuestiona-presupuesto-2027-falta-inversion-areas-clave-n914115",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "Advierte rezagos en salud, seguridad y educación.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Economía y empleo",
+   "Educación"
+  ],
+  "local": true,
+  "id": "9cbf162db4f544fe"
+ },
+ {
   "titulo": "Fragozo dice que no ha sido notificado de la revocación de visa",
   "liga": "https://zetatijuana.com/2026/11/fragozo-dice-que-no-ha-sido-notificado-de-la-revocacion-de-visa/?utm_source=rss&utm_medium=rss&utm_campaign=fragozo-dice-que-no-ha-sido-notificado-de-la-revocacion-de-visa",
   "medio": "Zeta Tijuana",
@@ -44,6 +105,20 @@
   ],
   "local": false,
   "id": "ae5f55cc9fb3597b"
+ },
+ {
+  "titulo": "Capacitan a policías de Navojoa para atender violencia familiar",
+  "liga": "https://www.uniradioinforma.com/sociedad/capacitan-policias-navojoa-atender-violencia-familiar-n914112",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "Buscan mejorar la atención a víctimas.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6902cc4904202ba2"
  },
  {
   "titulo": "Encuentran dos indicios humanos en búsqueda en Huitzilac, Morelos",
@@ -103,6 +178,21 @@
   "id": "c8408fd55823d719"
  },
  {
+  "titulo": "Vadhir obtiene nueva suspensión que frena orden de aprehensión",
+  "liga": "https://www.uniradioinforma.com/fama/vadhir-obtiene-nueva-suspension-frena-orden-aprehension-n914110",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "Un juez federal concedió protección al actor ante posibles actos de detención.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "0a0ceeead1f93cf1"
+ },
+ {
   "titulo": "Apoyaron con vuelos y viáticos a madres buscadoras de Tamaulipas: Pon Méndez",
   "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0Y0TEllYjNDRWxocGwzZnMtYmM1VGk3RlJ2Zlc5MTVrSUxCcmNQNUluUnlGQXo5N2dpeVAySGJjc0pEeEJhUjlxc1Y0MnRaZ1JXUmZJdGEySUxvNVdNcHItd2gxRnRtdkw3ZkRvdmJJMW9zRTFrTG1pYjFHdWI3MWNxWHdZS0xFS0ozNENSaENFVk1Ma2JxeXdQN0tqS0doLXVjTjY4dlF1VWM1NGQ2RThLN1ctNl82amFHbDVJN1JRMjNK?oc=5",
   "medio": "AFN",
@@ -117,6 +207,20 @@
   "id": "179d8db918e0e131"
  },
  {
+  "titulo": "Cobach Sonora lleva la ciencia más allá de las aulas",
+  "liga": "https://www.uniradioinforma.com/sociedad/cobach-sonora-lleva-ciencia-mas-alla-aulas-n914107",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T18:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "Estudiantes participan en actividades de innovación en todo el estado.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "4c1aa5281ee2ce11"
+ },
+ {
   "titulo": "Escucha Vázquez Valadez a vecinos de El Tecolote",
   "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1gyUnFESzdWTFFIZUZoMjJFRTZaOU1hZXNoRUNSMDloZGpxaEdQei1QNHZfMUdLbS1YRy1mbkpvT1JMams2R01XYmNCRGV2Y3FuaTZOcDZSM1FscDJ1WDRhaUc2Q0hKdGM4MWdraklSTkEwUVZqT3VRUEs5c2JsWF9GME1UYlpYYjl6V3JTQjE4eTJQV04wTS1nQVE4dVR4?oc=5",
   "medio": "AFN",
@@ -129,6 +233,21 @@
   ],
   "local": false,
   "id": "0658d2a1ece27954"
+ },
+ {
+  "titulo": "Desaparece enfermera tras ataque armado a clínica en Guanajuato",
+  "liga": "https://www.uniradioinforma.com/sociedad/desaparece-enfermera-tras-ataque-armado-clinica-guanajuato-n914105",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T18:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "La joven de 21 años fue vista por última vez en su lugar de trabajo.",
+  "temas": [
+   "Seguridad",
+   "Salud"
+  ],
+  "local": true,
+  "id": "bfa7edc1cfd35fdb"
  },
  {
   "titulo": "Presidente del Poder Judicial de BC dice que EU no le ha notificado revocación de su visa",
@@ -157,6 +276,20 @@
   ],
   "local": true,
   "id": "592e0e7d94ae62c3"
+ },
+ {
+  "titulo": "Peñasco reunirá expertos de cinco países para hablar de educación ambiental",
+  "liga": "https://www.uniradioinforma.com/sociedad/penasco-reunira-expertos-cinco-paises-hablar-educacion-ambiental-n914102",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T18:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T19:18:51-06:00",
+  "resumen": "El coloquio se realizará del 27 al 29 de noviembre.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "31e58a386ece1ba0"
  },
  {
   "titulo": "Enfrentamiento en Ocotlán deja 2 agresores abatidos y 1 detenido",
