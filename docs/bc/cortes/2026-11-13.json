@@ -1,5 +1,615 @@
 [
  {
+  "titulo": "Semadet evalúa compensación por servicios ambientales en río Milpillas",
+  "liga": "https://elcongresista.mx/politica/jalisco/semadet-jalisco-pago-servicios-ambientales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:25:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La Semadet analiza implementar pagos por servicios ambientales para mitigar la contaminación en el río Milpillas afectado por basureros.",
+  "temas": [
+   "Medio ambiente",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c8d77d45ba4ab4b6"
+ },
+ {
+  "titulo": "LA DSPM DA BANDERAZO DE ARRANQUE AL OPERATIVO BUEN FIN 2026",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLW90Z0ltLVkxV0RISWlxd1Y0LVg2SFNoNGp3R0kzYUxfT2lTQ25WY1ZCSXktQkJJSEduWjc4SE9HUVdiSnB1Uy1USkd5aUg2ZFVZc1QtdEl1Vm83X01BY0VPT1gyVEJYYjh0Ym43NTZhQUVqV3NoLXhBeTdob2g4WmNJMUlzNXVJY3EzbmNkVnNTRVRfYzFCQ0R1ak9lMzlR?oc=5",
+  "medio": "radar tecate news",
+  "publicada": "2026-11-12T20:24:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "LA DSPM DA BANDERAZO DE ARRANQUE AL OPERATIVO BUEN FIN 2026 radar tecate news",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6c616bad1b7bbbcf"
+ },
+ {
+  "titulo": "BC alista proveeduría local y un plan estratégico en Comisiones del Agua",
+  "liga": "https://zetatijuana.com/2026/11/bc-alista-proveeduria-local-y-un-plan-estrategico-en-comisiones-del-agua/?utm_source=rss&utm_medium=rss&utm_campaign=bc-alista-proveeduria-local-y-un-plan-estrategico-en-comisiones-del-agua",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-12T20:19:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La instalación gaviones, estabilizadores de taludes y muros de contención en el acueducto; el equipamiento del Booster del Carrizo y el blindaje de plantas de bombeo son algunas de las acciones de la estrategia hídrica ante el fenómeno climático de El Niño",
+  "temas": [
+   "Clima",
+   "Agua"
+  ],
+  "local": true,
+  "id": "bae6e7fc26003c2b"
+ },
+ {
+  "titulo": "Michoacán: Chava Rivas gana oro en Campeonato Centroamericano de Bowling",
+  "liga": "https://elcongresista.mx/politica/michoacan/chava-rivas-gana-oro-bowling",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:17:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Salvador Chava Rivas conquista medalla de oro en el Campeonato Centroamericano de Bowling en República Dominicana, junto a Álvaro Alcocer.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7a13f39f4f3e8483"
+ },
+ {
+  "titulo": "Alumno que falleció en plantel de Tijuana sufrió sobredosis de metanfetamina",
+  "liga": "https://jornadabc.com.mx/principales/alumno-que-fallecio-en-plantel-de-tijuana-sufrio-sobredosis-de-metanfetamina/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-12T20:13:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La Fiscalía General de Baja California inició indagatorias para saber donde adquirió la droga, ya sea dentro o fuera del plantel educativo La entrada Alumno que falleció en plantel de Tijuana sufrió sobredosis de metanfetamina se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "91e06cf2539e08ca"
+ },
+ {
+  "titulo": "¡México hace historia en Dakar 2026!",
+  "liga": "https://www.uniradioinforma.com/deportes/mexico-hace-historia-dakar-2026-n914155",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T20:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La delegación tricolor conquistó 14 preseas.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "908b2c01576ab0c6"
+ },
+ {
+  "titulo": "Ocotlán, Jalisco: enfrentamiento deja dos muertos y un detenido",
+  "liga": "https://elcongresista.mx/politica/jalisco/enfrentamiento-ocotlan-jalisco-dos-muertos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:09:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Un enfrentamiento en Ocotlán, Jalisco, dejó dos muertos y un detenido tras un ataque armado a miembros del Ejército.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "084cc5f16203624a"
+ },
+ {
+  "titulo": "¿A qué hora inician las ofertas del Buen Fin?",
+  "liga": "https://www.uniradioinforma.com/negocios/a-hora-inician-ofertas-buen-fin-n914152",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T20:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "¡Está a punto de iniciar!",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ac3840bd188c7e90"
+ },
+ {
+  "titulo": "REFUERZA GOBIERNO DE ENSENADA LIMPIEZA DE INFRAESTRUCTURA PLUVIAL ANTE FENOMENO DE EL NIÑO",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVpSSkFkYklLODcwckZCMG1Fbmg2anlIM29PZDVhRTVEYXVPblVoVUZaWFdoVVlXVmUtTXU1R0pGdUtmd0otNFpHRGtyZTdaWGk0Q01zZTY3OUVtNk1KUGNRRXduaUc4RGktdXd2VDFaYjc2VjJ0QnRBMV9ORWphWGpJUGNCbE05cW12U0lxbHZZTFFid2E3WXRYMGpUc3hDaHhIcEwtNUZ3U081SERRbUZLZ3l4UXpBZGFpWjRwSllFN2kwMG5nN3hB?oc=5",
+  "medio": "radar tecate news",
+  "publicada": "2026-11-12T20:03:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "REFUERZA GOBIERNO DE ENSENADA LIMPIEZA DE INFRAESTRUCTURA PLUVIAL ANTE FENOMENO DE EL NIÑO radar tecate news",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "d51723c39bdf2c1f"
+ },
+ {
+  "titulo": "Ejército repela agresión armada en Ocotlán, Jalisco; dos abatidos",
+  "liga": "https://elcongresista.mx/politica/jalisco/ejercito-repela-agresion-armada-ocotlan-jalisco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T20:01:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "El Ejército Mexicano repelió una agresión armada en Ocotlán, Jalisco, dejando dos agresores muertos y un detenido.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "54fd1c7fb4e6fe1c"
+ },
+ {
+  "titulo": "Alistan jornadas contra dengue en comunidades de Sonora",
+  "liga": "https://www.uniradioinforma.com/sociedad/alistan-jornadas-dengue-comunidades-sonora-n914147",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T20:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Nebulizarán 10 localidades.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "8d27b2446655e858"
+ },
+ {
+  "titulo": "Recolecta Gobierno Municipal más de 128 toneladas de basura y azolve en colonias de la ciudad",
+  "liga": "https://www.uniradioinforma.com/gobierno/recolecta-gobierno-municipal-mas-128-toneladas-basura-azolve-colonias-ciudad-n914149",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno municipal",
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "6f4acfc53cd4346e"
+ },
+ {
+  "titulo": "Calculan en mil 500 mdp el pasivo laboral por falta de seguridad social para policías estatales",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTB6QnZ3N2hBNDZ4QzRLUjBHMGNJX3NLN2ppRGp4SzhnV1VYWnJtNi0tdHR4MF9vd3JEbVVfRXFRbzVjcXJRZnZ6eFMtYlFIQms2V3RDeHZCaS00dXFNYkpubEpqTG1VTmpocUhLaW1xVm5WRlVnS2NLN21hT1RQRlZyOWlld2FTRDJwODR5WDlTUUNYaUJKeWtkaWtYSTNjOTZOc2xFR0kzbk5VbzFtUW1Zdm81d0p1TmhKckQ5UzdRWS1aekVMMFBTMEpuUEo0N29wNER2cXBZNkpTbXlr?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T19:56:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Calculan en mil 500 mdp el pasivo laboral por falta de seguridad social para policías estatales AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d788a2081e517c34"
+ },
+ {
+  "titulo": "Sor Juana Inés de la Cruz: el legado de una escritora que desafió las barreras de su época",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1VsS011eFppR0d1RTZSXzRYdGdIdUJLcHFSWFRHRHFJVVg3QjhmMDdMOEk3Qkhaa1VrMjl2VmdQTUI2SlJOYm9iMDA0RnhXMmlDRlk4OG1jVjZQdnlZRlZJelo4VUFrbW5sOGlvc0dnRDNRSktKZU9taDdvTDlQOVk5dDdtNTB2bF9PZ2FYV0UwUzBEdnJ0ZFk1bERHbnFBd3hWdlNGYmNybjcyTmJSN2FDblkwNFpDTGZwQzlBQnJpWTdHVlBLOQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T19:54:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Sor Juana Inés de la Cruz: el legado de una escritora que desafió las barreras de su época Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "26b8b1a641d1552d"
+ },
+ {
+  "titulo": "SCJN difundirá fichas de personas desaparecidas",
+  "liga": "https://www.uniradioinforma.com/gobierno/scjn-difundira-fichas-personas-desaparecidas-n914143",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Las alertas llegarán a televisión, redes sociales y un micrositio.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6f42480a69306aba"
+ },
+ {
+  "titulo": "Confirman Causa de Muerte de Alumno de Secundaria 78 en Tijuana, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3lTa2Y0VktHVEJSRVdUUkN0bjdDMkFUQmh2TkFqd1ktakZpUDlGVHh6YjBLRVhBcnNjanhsT2xsRkFfUlA1TmJGZDZPWVdDazRtYXBhZTdKejBvNFE1TjVya0tMY05OTXQwTnluUno4LVQ1bGo2M2dDZFExalhUSjhId3FuSkVOUU9YMFRSdExTWWxTNzVXeTBFV2hPbGoyNHlRRlk5RGF5UWNqT1JTVDIyTUl4cExuQmk3QVJsUlMxTVNHeWROMGxR?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-12T19:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Confirman Causa de Muerte de Alumno de Secundaria 78 en Tijuana, Baja California N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6de1adb02558f195"
+ },
+ {
+  "titulo": "Latin Grammy Awards 2026: Anuncia ganadores y actuaciones estelares",
+  "liga": "https://elcongresista.mx/cultura/latin-grammy-2026-ganadores-actuaciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:49:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Revelan los ganadores de los Latin Grammy 2026 en una gala excepcional con actuaciones de grandes artistas en Las Vegas.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "87bb8ce1b55fc7ee"
+ },
+ {
+  "titulo": "Invitan este sábado a La Noche de las Estrellas 2026",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03T29OYVBQS2FNOUFhVjVfUUdQVjR0TVlRMnlmM0FRZkkza3JCUUNXQTViUGIzcndUa3p6cGdOREdVc2tucU4wS0RzdnhScUpfM2E0Nmt6MkxCZms?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-12T19:49:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Invitan este sábado a La Noche de las Estrellas 2026 Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4d09014bd9cdfda1"
+ },
+ {
+  "titulo": "Un desayuno gratis lo llevó a las apuestas",
+  "liga": "https://www.uniradioinforma.com/sociedad/un-desayuno-gratis-lo-llevo-apuestas-n914138",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "El conferencista Diego Zepeda alertó sobre los riesgos de la ludopatía entre jóvenes.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "71a0dddd6741755e"
+ },
+ {
+  "titulo": "Condado de San Diego instala monumento para honrar a las 18 naciones tribales de la región",
+  "liga": "https://www.uniradioinforma.com/gobierno/condado-san-diego-instala-monumento-honrar-18-naciones-tribales-region-n914140",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La instalación incluye una bandera representativa, un mural artístico y una placa informativa para reconocer la historia, soberanía y aportaciones de los pueblos indígenas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ed69a244657f9594"
+ },
+ {
+  "titulo": "¡Bobby Pulido se despide de la música con un Latin Grammy!",
+  "liga": "https://www.uniradioinforma.com/fama/bobby-pulido-despide-musica-latin-grammy-n914136",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "El cantante cambiará los escenarios por el Congreso de Estados Unidos.",
+  "temas": [
+   "Gobierno del estado",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3ec454f42a489ae5"
+ },
+ {
+  "titulo": "Javier Díaz González destaca modelo de seguridad en conferencia",
+  "liga": "https://elcongresista.mx/politica/coahuila/javier-diaz-gonzalez-modelo-seguridad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Javier Díaz González destaca modelo de seguridad en la capital y busca liderar la Conferencia Nacional de Seguridad Pública Municipal en 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9faa5797bb469811"
+ },
+ {
+  "titulo": "Latin Grammy 2026: grandes estrellas deslumbran en la alfombra roja",
+  "liga": "https://elcongresista.mx/cultura/latin-grammy-2026-looks",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:38:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La alfombra roja de los Latin Grammy 2026 en Las Vegas destacó la moda de estrellas como Rosalía y Karol G con diseños impresionantes.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5bd0a5bce47bb668"
+ },
+ {
+  "titulo": "Buscan al menor Jesús Aarón Reyes Peralta de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56YzVqenFybUpDTTB4UDFtTlVHMU5qOHJEWmpQSXYwV0s3RHVnTjdhUFA1UWxfQzlzQzE3UjNsRWtRMFV3cUNUblRPU1l2SWdJdjlkQlJpRFhZV0U?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-12T19:37:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Buscan al menor Jesús Aarón Reyes Peralta de Ensenada Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d044b6e6929b1126"
+ },
+ {
+  "titulo": "María, de 85 años, enciende la Navidad en el CEDAM",
+  "liga": "https://www.uniradioinforma.com/sociedad/maria-85-anos-enciende-navidad-cedam-n914131",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:36:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La adulta mayor colocó la estrella del árbol navideño.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6af4d8b2ff176cc4"
+ },
+ {
+  "titulo": "Resultados Tris De las Siete hoy 12 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-siete-sorteo-36931",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:35:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "El sorteo Tris De las Siete número 36931 se celebró este 12 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "39b306e934774a36"
+ },
+ {
+  "titulo": "UABC organiza diálogo sobre batallas culturales y resistencias sociales",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/uabc-organiza-dialogo-sobre-batallas-culturales-y-resistencias-sociales/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-12T19:34:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Del 18 al 19 de noviembre realizará en el Campus Mexicali y la SDSU de Valle Imperial, California, un seminario sobre temas migratorios, fascismo y fronteras La entrada UABC organiza diálogo sobre batallas culturales y resistencias sociales se publicó primero en La Jornada Baja C",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "84bb2dba761b7bf7"
+ },
+ {
+  "titulo": "Asegura Fragozo no haber sido informado de cancelación de visa",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmlvQVZaMnFZZzdOLUg0c1l1NWM1SER3amFPUlZkLS0yRnFLOFFjUzlDTEtnb3p5VVBZYms4aFRGVzBaVExiODJiQ1J3bXdSMllVREdOdmhMejdKY19zdkdLbjM2VzJRWWl0N3piazhmZkxyX1N5eE1CNnBTQkU4YV9hOGdia2JoemFQbjZSbmEzVFF6V3ZvemxxLVBaSXlJeTI3YVpUQ2YwNzNKQThxb0drRQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-12T19:34:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Asegura Fragozo no haber sido informado de cancelación de visa AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "34ac690110b0382a"
+ },
+ {
+  "titulo": "Revisiones periódicas permiten detectar el cáncer de próstata en etapas tempranas y tratables",
+  "liga": "https://www.uniradioinforma.com/salud/revisiones-periodicas-permiten-detectar-cancer-prostata-etapas-tempranas-tratables-n914133",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "En el marco del Mes de la Concientización sobre la Salud Masculina, el urólogo Dr. Arturo Arrieta destacó que este padecimiento puede desarrollarse sin síntomas y llamó a los hombres a realizarse revisiones periódicas a partir de los 40 años",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "a131c226fa3f2df3"
+ },
+ {
+  "titulo": "Presentan cuarta edición del “Duelo de Estrellas” en Rancho Casian",
+  "liga": "https://elcongresista.mx/estado-de-mexico/duelo-de-estrellas-rancho-casian-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:32:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Este domingo se celebra el “Duelo de Estrellas” en Rancho Casian, con 12 jinetes en acción y un ambiente festivo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6573d299a4ce6a6e"
+ },
+ {
+  "titulo": "Julio Bracho presenta “Anecdotario de un hombre en llamas” en TJ",
+  "liga": "https://elcongresista.mx/politica/baja-california/julio-bracho-anecdotario-hombre-en-llamas-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:31:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Julio Bracho presentará su stand-up \"Anecdotario de un hombre en llamas\" en Tijuana el 12 de noviembre con cinco funciones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "fc5e95fdb830a501"
+ },
+ {
+  "titulo": "Roger Taylor deja Duran Duran por problemas de salud",
+  "liga": "https://www.uniradioinforma.com/fama/roger-taylor-deja-duran-duran-problemas-salud-n914129",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "El baterista anunció su retiro tras empeorar su tinnitus.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "1e01cd539fc78de5"
+ },
+ {
+  "titulo": "Familias migrantes podrían perder apoyo para vivienda tras nueva medida del Gobierno de Trump",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQejFLY2dCbnF1eFl4aFZQNHZnbjlWdld3cGstcEpDel93VHhIcnpRekxlQjNrUjBWUWExNUV5VF9kclBiSjg5bkU2OVZMQjlZUUFRZlhTRGdZZmNWSjBxNUkzY0pfaDZUSUE4NXBQckNZQ1pqaHJETndGMVd4RDFHbkxIUmNnRGJ1TmJYd1B5WWdJQ0hhblJnaGk5WjBLSmVqLVFOZDdRSy11T3A0S1EtRjlEdl9ibmxQZ18zaW1tZF85eTRyendkU3hJTFNpZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-12T19:28:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Familias migrantes podrían perder apoyo para vivienda tras nueva medida del Gobierno de Trump Baja News",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "ce6ce227a1884cf2"
+ },
+ {
+  "titulo": "Julio Bracho se sincera en “Anecdotario de un hombre en llamas”",
+  "liga": "https://zetatijuana.com/2026/11/julio-bracho-se-sincera-en-anecdotario-de-un-hombre-en-llamas/?utm_source=rss&utm_medium=rss&utm_campaign=julio-bracho-se-sincera-en-anecdotario-de-un-hombre-en-llamas",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-12T19:28:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "El actor mexicano presentará su espectáculo de stand up, basado en experiencias personales, familiares y anécdotas de su trayectoria artística, este 12 de noviembre en Entono Bar de Tijuana.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5a6a769f15e664b1"
+ },
+ {
+  "titulo": "Asociación 'Justicia Vs Cáncer' Ofrecen Amparos Médicos Gratuitos en Mexicali, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYU1qYXBnTE1YVXktUGsyTDJkSzM1Y2xXMzd6ZkhDLUZXRExteElfRnhZN2xOLTBiYXJhRE9fWEd3eG1KOVp1SHFlcHlPRS1Wd0xFOVJtcnJsSzNnM0NTRmJSd2lacGJneGE3d0lMdGVVV2tmaVVQcGdWU0RCY2s0b3pfMWpKdDhVRW5IVFkyOEd2WWl1RFNEZzJGSlg3MzhlZnROcDh0U2R3RXNiNi1aVHdudTBPX2VGRmIycXZMLVVEZUk?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-12T19:27:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Asociación 'Justicia Vs Cáncer' Ofrecen Amparos Médicos Gratuitos en Mexicali, BC N+",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "b9a30d3f9dc30e2f"
+ },
+ {
+  "titulo": "Pronostican lluvias ligeras durante la noche en el condado de San Diego",
+  "liga": "https://www.uniradioinforma.com/gobierno/pronostican-lluvias-ligeras-durante-noche-condado-san-diego-n914126",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "El Servicio Meteorológico Nacional prevé precipitaciones desde la noche de este jueves hasta la mañana del viernes, además de varios episodios de lluvia durante el fin de semana.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "270587f461aa43c8"
+ },
+ {
+  "titulo": "Localizan a tres adolescentes desaparecidas en Huatabampo",
+  "liga": "https://elcongresista.mx/politica/sonora/localizan-tres-adolescentes-desaparecidas-huatabampo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-12T19:25:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Tres adolescentes desaparecidas en Huatabampo fueron localizadas sanas tras salir a buscar trabajo en Sinaloa.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "806fa287d46d6b1a"
+ },
+ {
+  "titulo": "Isabella Springmühl convirtió los \"no\" en pasarelas internacionales",
+  "liga": "https://www.uniradioinforma.com/sociedad/isabella-springmhl-convirtio-no-pasarelas-internacionales-n914124",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La diseñadora guatemalteca compartió su historia de inclusión y perseverancia.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5e8877842cd3abb3"
+ },
+ {
+  "titulo": "Aclaran Diferencia en Cifras de Homicidios Presentadas en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkVwa0Y1MlFaNUhFYy0wNWFhV2FQUUtMV2hKb181TEN6MXRQbk5iV1k2YlFrZURpNkl5dlY0bXdlU09tLXZzc0FzbW5EUmhMdURxeHJpWG1WSS1QUDJoeHZNck9IWHpVSkFVOFVLWG5qX0NJN05OYnRnWk9peVNWYVU0V0NvNTVuOWxNRUFmaFZpd1VsYW5BeWNyeEJQUmc4eEE4UnpjUEUxMXZQV3VMUVJOYzE4a2dQUURobWNiTzJqdw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-12T19:23:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Aclaran Diferencia en Cifras de Homicidios Presentadas en Baja California N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "22cccebf00a3e07f"
+ },
+ {
+  "titulo": "Harfuch llama a cerrar filas con municipios para combatir inseguridad",
+  "liga": "https://www.uniradioinforma.com/gobierno/harfuch-llama-cerrar-filas-municipios-combatir-inseguridad-n914122",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Pide coordinación policial sin distinciones partidistas.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "6b48829be62f4047"
+ },
+ {
+  "titulo": "Presentan “Duelo de Estrellas” de Rodeo en Rancho Casian",
+  "liga": "https://zetatijuana.com/2026/11/presentan-duelo-de-estrellas-de-rodeo-en-rancho-casian/?utm_source=rss&utm_medium=rss&utm_campaign=presentan-duelo-de-estrellas-de-rodeo-en-rancho-casian",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-12T19:19:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La cita es este domingo 15 de noviembre, a partir de las 3 de la tarde.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7950ff13ae0d6075"
+ },
+ {
+  "titulo": "Incineran más de 13 toneladas de narcóticos en el Campo Militar El Aguaje",
+  "liga": "https://jornadabc.com.mx/principales/incineran-mas-de-13-toneladas-de-narcoticos-en-el-campo-militar-el-aguaje/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-12T19:18:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Según el acto, la Fiscalía Especializada destruyó un aproximado de ocho toneladas y 434 kilogramos de narcóticos La entrada Incineran más de 13 toneladas de narcóticos en el Campo Militar El Aguaje se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b0ea3337289f7860"
+ },
+ {
+  "titulo": "Nel Torres, del primer casting en Ensenada al sueño de hacer publicidad",
+  "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tVndlblF4NEdibktqT0JSRUxxMEJnY3c4UFRjZlJpaDZfTjVfZ0xJay1sSWsxTUZER2ZaMlFTRElZYU1ySXRvbkRCMU8tX1B4eWdtMTVKYTBHd3lycVJVMkh0U2t0bXk1NUpHQ1pna3JhVkhmNGtLREZfTC1yV3c?oc=5",
+  "medio": "Agencia NOVA",
+  "publicada": "2026-11-12T19:17:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Nel Torres, del primer casting en Ensenada al sueño de hacer publicidad Agencia NOVA",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "482fda12285b7601"
+ },
+ {
   "titulo": "Alumbrado público en Michoacán enfrenta déficit de 18 mdp en 52 municipios",
   "liga": "https://elcongresista.mx/politica/michoacan/alumbrado-publico-deficit-michoacan",
   "medio": "El Congresista",
@@ -14,6 +624,34 @@
   ],
   "local": false,
   "id": "0d2d0cd9dc208abf"
+ },
+ {
+  "titulo": "Patronato HGT invita a sumarse a \"Esfera de la Esperanza 2026\" para apoyar a niños y adolescentes con cáncer",
+  "liga": "https://www.uniradioinforma.com/sociedad/patronato-hgt-invita-sumarse-esfera-esperanza-2026-apoyar-ninos-adolescentes-cancer-n914119",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "La campaña busca reunir 3 mil esferas para atender las necesidades de los pacientes de Oncología Pediátrica del Hospital General de Tijuana",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "f91a6cf7160ea5a4"
+ },
+ {
+  "titulo": "Emilio Betancourt comparte en Hermosillo su historia de resiliencia",
+  "liga": "https://www.uniradioinforma.com/sociedad/emilio-betancourt-comparte-hermosillo-su-historia-resiliencia-n914117",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-12T19:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-12T20:25:47-06:00",
+  "resumen": "Invitó a enfrentar los retos sin miedo al fracaso.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ca1749ce39869d6f"
  },
  {
   "titulo": "“En esta casa crecimos”: familias que perdieron todo en incendio de Camino Verde piden apoyo de la comunidad",
