@@ -1,5 +1,47 @@
 [
  {
+  "titulo": "Cae 6.1% el tráfico de pasajeros por avión en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU9ocHVueDJfQ3ZfemdTbmpnUGhCWGk3SjlkaDdrenVDWEZFdnBDdHVwaENRQ1IwcFZJTXpJMnJPSERNcUdZMzg3amltcHZxRUFlQUd6aDNReTVieTZuRW5BUmdoeWVEbjNUaHF2enNJTGpiTUVGOWc5dVN1VHZLZVVvNjJtOTJEaEZWdWdxNDZVaXdIOWp1WjR2bw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T08:23:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T08:30:34-06:00",
+  "resumen": "Cae 6.1% el tráfico de pasajeros por avión en Tijuana AFN",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "a3bc46633af6208e"
+ },
+ {
+  "titulo": "Oxígeno en la Industria de BC; actividad subió 0.3% anual",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVNtLVQ4dWcyQUlsakdOQ2xsZmVVTDJxSVJBdTcwb0lqXzk0LUVDVWhsZ1dIZHl3VkxDZ21aeEROeUF6eWFSLU0xUnQxeFNDczVHMERURFNfZ25rbGJaYUxvdU1hV29QMGlidVNtWVJSbWtNM3N6a0pXSUpWck5PUUdZSk8tb2FNQVdsUnhTVGRxV1BHR1JMSnFaSDhuZTA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T08:23:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T08:30:34-06:00",
+  "resumen": "Oxígeno en la Industria de BC; actividad subió 0.3% anual AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "a6a7eb48167cc4bb"
+ },
+ {
+  "titulo": "UIF desbloquea dos cuentas bancarias de Rocha Moya, por orden de tribunal federal",
+  "liga": "https://zetatijuana.com/2026/11/uif-desbloquea-dos-cuentas-bancarias-de-rocha-moya-por-orden-de-tribunal-federal/?utm_source=rss&utm_medium=rss&utm_campaign=uif-desbloquea-dos-cuentas-bancarias-de-rocha-moya-por-orden-de-tribunal-federal",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-13T07:55:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T08:30:34-06:00",
+  "resumen": "Los demás instrumentos financieros del ex gobernador siguen inmovilizados, porque no quedaron comprendidos en la medida cautelar del tribunal",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "1451a12031c3be65"
+ },
+ {
   "titulo": "Frente frío 5 genera lluvias fuertes y bajas temperaturas en México",
   "liga": "https://elcongresista.mx/politica/nacional/frente-frio-5-lluvias-bajas-temperaturas",
   "medio": "El Congresista",
@@ -28,6 +70,20 @@
   ],
   "local": true,
   "id": "5b8786900e9f9c5d"
+ },
+ {
+  "titulo": "Baja California, cuarto estado con más muertes del país: 676 por cada 100 mil habitantes",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-cuarto-estado-mas-muertes-pais-676-cada-100-mil-habitantes-n913523",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T06:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T08:30:34-06:00",
+  "resumen": "En 2025, la entidad registró 70 defunciones más por cada 100 mil personas que el promedio nacional, según INEGI.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "678da8f452a7b280"
  },
  {
   "titulo": "Rosalía obtiene seis Latin Grammy en la 27.ª edición de los premios",
@@ -490,6 +546,20 @@
   "id": "bd399b1c48963837"
  },
  {
+  "titulo": "Noticias sobre plan nacional",
+  "liga": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nYnJYM2haS1lybzlOQXhwOUZIazAybk40QlBBdzV6ZWhfbWlxaS0zSGZSSlNqU3Jyb28zMDR4RFl5UThLZFhLZ2dlZ3NUZ0FDeWp5RzdqbS1hSE52cW9TMQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T02:40:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T08:30:34-06:00",
+  "resumen": "Noticias sobre plan nacional Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1c1dfd6db89b8b07"
+ },
+ {
   "titulo": "Estados Unidos amenaza a México con acciones ante narcotráfico",
   "liga": "https://elcongresista.mx/seguridad/estados-unidos-amenazas-narcotrafico-mexico-2023",
   "medio": "El Congresista",
@@ -558,6 +628,20 @@
   ],
   "local": false,
   "id": "2b77ab2ee46d9957"
+ },
+ {
+  "titulo": "Noticias sobre calle quinta",
+  "liga": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fcUtYWEl0SFJVRnY0ZkVfaGo4eV9YTWxmMndITE8tM2pjNmhlSFBZNmxTdHpzRUJYZG9NeGFFLXd5LWFOd29mUzBZZzZJSlJUSU9ZYXZqay0zZmRqeG44?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T02:24:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T08:30:34-06:00",
+  "resumen": "Noticias sobre calle quinta Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5c275d6293ca39f7"
  },
  {
   "titulo": "Formalizan alianza Morena-PT-Verde en Guerrero para elecciones",
@@ -1855,6 +1939,20 @@
   ],
   "local": false,
   "id": "a24af4724557fbdb"
+ },
+ {
+  "titulo": "Clima en Ensenada, Baja California: Pronóstico para el viernes 13 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOOWpUYk5lSHk4R1A4WFJ2RHlCZEJKN1NwX3Z0NlRWWndXZ1ZjUnlsV2w1ekk0cVhHVmZoYjU4SENSc0FLOTRxQWo5bXRkY1pxa2FXQWc3YndXUmk0SWtYZE9EODVxRktSbHVNSmtqUVNud2t2cEc4SW55TVdScFpFcktlckIxWGJES056dzlyOGxDZzdtM3JaZm40Y1NBNnRrNHpGbWVEeVNoS0JsOU9vYzFBeW1PXzJ1eW1zLW53SDQ4UVB3NGQ0ajcwTHZhTnY0dThhM2RlU3otekVoWGtLVDZQY1cwNmlMVjByVE5LUUtVb0F4V2tNVEtiSU0td1BvSDFRdF9QMDVmc2Y5dXFKRnp5b1BVY2ZDbDVwbXEwdw?oc=5",
+  "medio": "El Heraldo de México",
+  "publicada": "2026-11-12T23:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T08:30:34-06:00",
+  "resumen": "Clima en Ensenada, Baja California: Pronóstico para el viernes 13 de noviembre El Heraldo de México",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "1735e4af3daffa9e"
  },
  {
   "titulo": "Municipal detiene a hombre con arma larga, encargado de “cuidar” las tienditas de droga",
