@@ -1,5 +1,199 @@
 [
  {
+  "titulo": "Cuatro marchas y seis concentraciones en CDMX este 13 de noviembre",
+  "liga": "https://elcongresista.mx/sociedad/marchas-bloqueos-cdmx-13-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:17:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Cuatro marchas y seis concentraciones se desarrollan en CDMX este 13 de noviembre, con posibles afectaciones viales.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "26f1a49b5a2d7456"
+ },
+ {
+  "titulo": "Humanos gana el Road 2 Web Summit 2026 y recibe 15,000 euros",
+  "liga": "https://elcongresista.mx/tecnologia/humanos-gana-road-2-web-summit-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:11:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "La startup portuguesa Humanos gana el Road 2 Web Summit 2026 y recibe 15,000 euros, destacando en control de riesgo de IA.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5b611ece2fa84c8e"
+ },
+ {
+  "titulo": "Diabetes causa 441 muertes en Yucatán en primer trimestre de 2026",
+  "liga": "https://elcongresista.mx/politica/yucatan/diabetes-muertes-yucatan-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:04:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "La diabetes en Yucatán provocó 441 muertes en el primer trimestre de 2026, reflejando una alarmante alza en la mortalidad.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "943f8d0c5608f757"
+ },
+ {
+  "titulo": "Festival Alegría Corregidora presenta desfile con más de 30 carros",
+  "liga": "https://elcongresista.mx/politica/queretaro/festival-alegria-corregidora-desfile-carros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:03:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "En Querétaro, el Festival Alegría Corregidora presentó un desfile de más de 30 carros alegóricos, atrayendo una gran multitud.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f12569be4f42e75c"
+ },
+ {
+  "titulo": "Aumenta la migración mexicana a EU pese al alza en deportaciones",
+  "liga": "https://jornadabc.com.mx/02_secundarias/aumenta-la-migracion-mexicana-a-eu-pese-al-alza-en-deportaciones/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T09:01:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "El 88 por ciento de este grupo se estableció en Estados Unidos pese al endurecimiento de los controles migratorios y el aumento de las deportaciones La entrada Aumenta la migración mexicana a EU pese al alza en deportaciones se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "54b6d64c6ff1e481"
+ },
+ {
+  "titulo": "Puerto del Norte en Matamoros comienza exportación de 2 mil t a Brasil",
+  "liga": "https://elcongresista.mx/tamaulipas/puerto-norte-matamoros-exportaciones-brasil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T09:01:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "El Puerto del Norte de Matamoros inicia exportaciones con 2 mil toneladas a Brasil, respaldadas por una inversión de 35 mil mdp.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "d3473e5ef490812d"
+ },
+ {
+  "titulo": "Dirigentes de Somos, involucrados en fallas por 563 mdp en el INE",
+  "liga": "https://jornadabc.com.mx/principales/dirigentes-de-somos-involucrados-en-fallas-por-563-mdp-en-el-ine/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T08:58:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Documenta Tribunal Federal anticipo indebido en 2017 e irregularidad en concurso para construir sede en NL La entrada Dirigentes de Somos, involucrados en fallas por 563 mdp en el INE se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "b1fc1cc1230daf32"
+ },
+ {
+  "titulo": "Trabajadores del IMSS bloquean calles en CDMX desde el mediodía",
+  "liga": "https://elcongresista.mx/justicia/bloqueo-trabajadores-imss-cdmx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:55:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Trabajadores del IMSS realizan un bloqueo en CDMX desde las 12:00 h. por aumento salarial y en defensa de la seguridad social.",
+  "temas": [
+   "Salud",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f379e5246eb302c7"
+ },
+ {
+  "titulo": "Incendio en planta Ternium de Nuevo León consume tanques de ácido",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/incendio-ternium-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:50:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Incendio en la planta Guerrero de Ternium en Nuevo León consume tanques de ácido clorhídrico y provoca la suspensión de clases en la UANL.",
+  "temas": [
+   "Educación",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4b2519990adf11a2"
+ },
+ {
+  "titulo": "Rastreos intensivos en carretera de Ciudad Juárez por desaparecidos",
+  "liga": "https://elcongresista.mx/politica/chihuahua/rastreos-ciudad-juarez-desaparecidos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:49:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Se realizan rastreos en Ciudad Juárez en búsqueda de personas desaparecidas, coordinados por la Fiscalía y colectivos civiles.",
+  "temas": [
+   "Seguridad",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6d7e9d360a321989"
+ },
+ {
+  "titulo": "Accidente en la México-Querétaro deja 24 heridos en excursión escolar",
+  "liga": "https://elcongresista.mx/politica/hidalgo/accidente-mexico-queretaro-excursion-escolar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:48:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Un accidente en la autopista México-Querétaro dejó 24 personas lesionadas durante una excursión escolar en Hidalgo.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "45ca66b7ad824e08"
+ },
+ {
+  "titulo": "Una mujer fallece y tres heridos tras choque en Morelia-Salamanca",
+  "liga": "https://elcongresista.mx/politica/michoacan/accidente-morelia-salamanca-mujer-fallecida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:47:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Un accidente en la carretera Morelia-Salamanca deja una mujer fallecida y tres personas heridas este viernes por la mañana en Uruapan.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1c04e74a5c0661cc"
+ },
+ {
+  "titulo": "Marina pide precauciones ante fuertes lluvias",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1hTOE80MzNnallyQVVld3JxWkZ0MzNkYWd1ZzRIMFYyTHNMa3NDTVpUbmF1R1BMWEdWVHNfc3NtWElyRWtRN2VyQjItR1gyRDF3Z2FqMTRDcnBhYTNqYnlYVFJZNHBLbTRvNWxCbnU1Mm1Wb3JKazRvQ09TUG1qWmd0eDlVVnBCYTF4eEhCbTdNai1wUW01QlVfcV8?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T08:47:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Marina pide precauciones ante fuertes lluvias AFN",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "2c34168e35cfc7a8"
+ },
+ {
   "titulo": "Cae 6.1% el tráfico de pasajeros por avión en Tijuana",
   "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSU9ocHVueDJfQ3ZfemdTbmpnUGhCWGk3SjlkaDdrenVDWEZFdnBDdHVwaENRQ1IwcFZJTXpJMnJPSERNcUdZMzg3amltcHZxRUFlQUd6aDNReTVieTZuRW5BUmdoeWVEbjNUaHF2enNJTGpiTUVGOWc5dVN1VHZLZVVvNjJtOTJEaEZWdWdxNDZVaXdIOWp1WjR2bw?oc=5",
   "medio": "AFN",
@@ -28,6 +222,133 @@
   "id": "a6a7eb48167cc4bb"
  },
  {
+  "titulo": "Anitta triunfa en Grammy Latino 2026 con Mejor Álbum e inclusión",
+  "liga": "https://elcongresista.mx/cultura/anitta-grammy-latino-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:22:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Anitta gana Mejor Álbum en Grammy Latino 2026 con *Equilibrivm* y destaca la cultura brasileña en su discurso.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fa76039cc4604115"
+ },
+ {
+  "titulo": "Hamlet Hail to the Thief deslumbra en Londres con su fusión teatral",
+  "liga": "https://elcongresista.mx/cultura/hamlet-hail-to-the-thief-londres",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:20:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "La obra Hamlet Hail to the Thief fusiona teatro y música con gran éxito en Londres, recibiendo elogios de la crítica.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "d6cb3a942fc9db1a"
+ },
+ {
+  "titulo": "\"Hamlet Hail to the Thief\" de RSC se exhibe en Londres hasta 2027",
+  "liga": "https://elcongresista.mx/cultura/hamlet-hail-to-the-thief-londres",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:19:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "La obra \"Hamlet Hail to the Thief\" de RSC estará en Barbican Theatre de Londres hasta el 23 de enero de 2027, fusionando teatro y música.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "0bc04fe3034e7f42"
+ },
+ {
+  "titulo": "Cultivadores de cannabis en Marruecos defienden su cultura",
+  "liga": "https://elcongresista.mx/politica/nacional/cannabis-cultivo-tradicional-marruecos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:19:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "En Marruecos, cultivadores de cannabis de Tamdit rechazan la legalización sin el desarrollo necesario que mejore su calidad de vida.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c468730a21e02f30"
+ },
+ {
+  "titulo": "Asalto en La Plata deja a tres encerrados y 40 mil pesos robados",
+  "liga": "https://elcongresista.mx/estado-de-mexico/asalto-herreria-la-plata-40-mil-pesos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:08:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Un asalto en La Plata dejó tres víctimas encerradas y 40 mil pesos robados, evidenciando la inseguridad en el comercio local.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "4e62af4577fe7508"
+ },
+ {
+  "titulo": "Cade Cunningham brilla con 52 puntos y 0 pérdidas en victoria",
+  "liga": "https://elcongresista.mx/politica/nacional/cade-cunningham-52-puntos-0-perdidas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:07:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Cade Cunningham registra 52 puntos y 11 asistencias sin pérdidas, llevando a los Pistons a una victoria en doble prórroga.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2ef7ac1d2927884d"
+ },
+ {
+  "titulo": "Claudia Sheinbaum inicia conferencia matutina el 13 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/conferenciamatutinaclassheinbaum13noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:05:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Claudia Sheinbaum presenta avances de su gobierno en la conferencia matutina del 13 de noviembre para abordar temas importantes del país.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7b2ee57b3479ad42"
+ },
+ {
+  "titulo": "Francisco Ramírez, escultor moreliano, continúa creando a sus 85 años",
+  "liga": "https://elcongresista.mx/cultura/francisco-ramirez-escultor-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:03:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "A sus 85 años, Francisco Ramírez, escultor moreliano, sigue creando y compartiendo su arte en su taller en Michoacán.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b9e76eed25b5d382"
+ },
+ {
+  "titulo": "Cuauhtémoc Cárdenas: el legado de justicia social enfrenta el asistencialismo",
+  "liga": "https://elcongresista.mx/opinion/cuauhtemoc-cardenas-justicia-social-asistencialismo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T08:01:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Cuauhtémoc Cárdenas critica el asistencialismo del gobierno actual y resalta la necesidad de justicia social.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9af97f8c99ac6463"
+ },
+ {
   "titulo": "UIF desbloquea dos cuentas bancarias de Rocha Moya, por orden de tribunal federal",
   "liga": "https://zetatijuana.com/2026/11/uif-desbloquea-dos-cuentas-bancarias-de-rocha-moya-por-orden-de-tribunal-federal/?utm_source=rss&utm_medium=rss&utm_campaign=uif-desbloquea-dos-cuentas-bancarias-de-rocha-moya-por-orden-de-tribunal-federal",
   "medio": "Zeta Tijuana",
@@ -40,6 +361,166 @@
   ],
   "local": true,
   "id": "1451a12031c3be65"
+ },
+ {
+  "titulo": "Salvamento Marítimo rescata a 119 migrantes en El Hierro",
+  "liga": "https://elcongresista.mx/politica/nacional/salvamento-maritimo-rescate-119-migrantes-el-hierro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:52:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Salvamento Marítimo rescata a 119 migrantes de un cayuco semihundido en El Hierro, sin incidentes en la salud de los ocupantes.",
+  "temas": [
+   "Migración",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a94248e6d6a8ccb8"
+ },
+ {
+  "titulo": "Gina Hinojosa propone $1,500 por hogar y congelar tarifas en Texas",
+  "liga": "https://elcongresista.mx/finanzas/gina-hinojosa-promete-1500-hogar-texas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:51:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Gina Hinojosa, gobernadora electa de Texas, promete $1,500 por hogar y congelar tarifas eléctricas para ayudar a las familias.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "35a1db10a28723bb"
+ },
+ {
+  "titulo": "Eduardo Martínez Guzmán toma posesión como presidente de Contepec",
+  "liga": "https://elcongresista.mx/politica/michoacan/eduardo-martinez-guzman-toma-posesion-contepec",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:48:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Eduardo Martínez Guzmán asume como presidente de Contepec, Michoacán, marcando un cambio político significativo en la región.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1e7e82a6012b156f"
+ },
+ {
+  "titulo": "Reunión en la UNAM con exalumnos y autoridades para impulsar becas",
+  "liga": "https://elcongresista.mx/educacion/reunion-economistas-unam",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:46:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "La UNAM reunió a economistas y exalumnos en un encuentro clave para impulsar las becas en la Facultad de Economía.",
+  "temas": [
+   "Economía y empleo",
+   "Educación"
+  ],
+  "local": false,
+  "id": "d5e9433ca3783bcd"
+ },
+ {
+  "titulo": "Proponen en Sonora mejorar la salud mental laboral de trabajadores",
+  "liga": "https://elcongresista.mx/politica/sonora/salud-mental-trabajadores-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:30:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "El diputado Óscar Ortiz propone fortalecer la salud mental de trabajadores en Sonora mediante reformas laborales.",
+  "temas": [
+   "Política y partidos",
+   "Salud"
+  ],
+  "local": false,
+  "id": "b48b76b9a115471f"
+ },
+ {
+  "titulo": "Iglesia católica celebra a San Diego de Alcalá y San Nicolás I el 13 de noviembre",
+  "liga": "https://elcongresista.mx/cultura/santoral-13-noviembre-san-diego-san-nicolas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:28:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "La Iglesia católica conmemora el 13 de noviembre a San Diego de Alcalá y San Nicolás I, figuras que han dejado huella en la historia.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2b4044a8f8f4093c"
+ },
+ {
+  "titulo": "Emturyc otorga Camping Municipal a Bien Producido SA por $2.324 M.",
+  "liga": "https://elcongresista.mx/politica/nacional/emturyc-camping-bien-producido",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:26:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Emturyc adjudica el Camping Municipal a Bien Producido SA por $2.324 millones para un nuevo proyecto de glamping en Mar del Plata.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ddb8760969fcd82a"
+ },
+ {
+  "titulo": "Meta presenta Muse, su asistente de IA que busca gestionar tus compras",
+  "liga": "https://elcongresista.mx/tecnologia/meta-asistente-muse-compras-online",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:21:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Meta lanza su asistente de IA Muse, diseñado para gestionar compras de forma segura, aunque la confianza de los usuarios sigue siendo una preocupación.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f653ca008c1cdd2d"
+ },
+ {
+  "titulo": "Coyotes de Afores cobran 11 mil pesos por trámites que son gratis",
+  "liga": "https://elcongresista.mx/finanzas/coyotes-afores-retiro-desempleo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:20:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Gestores informales cobran hasta 11 mil pesos por trámites gratuitos de Afores para retiros de desempleo, afectando a trabajadores.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "991daf42b96cf6fc"
+ },
+ {
+  "titulo": "Incorporan atención a la menopausia en protocolos de salud pública",
+  "liga": "https://elcongresista.mx/salud/menopausia-atencion-salud-publica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:19:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Un estudio revela que el 67% de las mujeres mexicanas experimentan síntomas menopáusicos que afectan su día a día. Se urge atención médica especializada.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "8300e36a493ee27b"
+ },
+ {
+  "titulo": "García Harfuch pide fortalecer policías municipales en México",
+  "liga": "https://elcongresista.mx/seguridad/garcia-harfuch-fortalece-policias-municipales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T07:08:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T09:22:24-06:00",
+  "resumen": "Omar García Harfuch exhorta a los municipios a mejorar sus corporaciones de seguridad en asamblea sobre seguridad pública.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "360f4be09fc1b0d7"
  },
  {
   "titulo": "Frente frío 5 genera lluvias fuertes y bajas temperaturas en México",
