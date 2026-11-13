@@ -1,5 +1,584 @@
 [
  {
+  "titulo": "Realiza Pemex primer pozo de prueba para evaluar fracking en Coahuila",
+  "liga": "https://abcnoticias.mx/coahuila/2026/11/13/realiza-pemex-primer-pozo-de-prueba-para-evaluar-fracking-en-coahuila-295404.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T15:22:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7206aa4380832f27"
+ },
+ {
+  "titulo": "Respalda Erviti a Almeyda; evaluarán a jugadores",
+  "liga": "https://horacero.com.mx/deportes/matias-almeyda-rayados-2",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T15:21:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "El director deportivo de Rayados, Walter Erviti, respaldó la continuidad del técnico Matías Almeyda y advirtió que el plantel estará bajo evaluación. The post Respalda Erviti a Almeyda; evaluarán a jugadores appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "2f73fe5c4070e1cc"
+ },
+ {
+  "titulo": "Suspenden vuelos en EU por 'motivos de seguridad'",
+  "liga": "https://www.elnorte.com/suspenden-vuelos-en-eu-por-motivos-de-seguridad/ar3314381",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T15:14:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "La Administración Federal de Aviación de EU ordenó una suspensión nacional de los vuelos \"por motivos de seguridad\".",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b9f76844febac098"
+ },
+ {
+  "titulo": "Alertan por posibles fraudes en compras por internet durante El Buen Fin",
+  "liga": "https://horacero.com.mx/tecnologia-y-finanzas/compras-por-internet-buen-fin",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T15:13:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "La Profeco en Reynosa recomendó verificar la autenticidad de páginas web y promociones para evitar fraudes en compras por internet durante El Buen Fin. The post Alertan por posibles fraudes en compras por internet durante El Buen Fin appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "da35ceb54b360d1a"
+ },
+ {
+  "titulo": "Investiga presunto plagio de dos hombres en Juárez",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWXNBMENNTm5GTC1UaWZfOWgwWG1XWkE5Z2dGSDY1TWl0d2tnUEk3Z3FCWDEyZXVCOVR3UGtIWXN2NENtdTJXQnlJZWVfeVpaN3paaVNBbllNV3ZmR0c0dXdudlEwb0ljNVBCR21wLTMyWGpuMzdxSDBTcTRaS1Vlc00xa0F0QkhaR3gwQWREeGVSZw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T15:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Investiga presunto plagio de dos hombres en Juárez INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "275dafdd2640dbcf"
+ },
+ {
+  "titulo": "Barcaza choca contra crucero con 129 personas a bordo en Luisiana",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUMySDVpMnk2amdQeWRxdm8yV3Uxa0czLUpNODlmMUpxd3NxNnY5anB3UXJkd0dCZm5VTjJYQmd6Qld5Wk5TRWlZTC1GZy0zeGQxenJDSjlFa0c3Y0dpYmV3a1RDSE0tRVJYWkJrejRzRVo0WXE2RTJmanczS3BhUGt4bUhFVEdHeDFYMm9UdkdMYXNLeWh5N0U0eDE5aXBzVmhhQkVPRVNKUU13?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T15:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Barcaza choca contra crucero con 129 personas a bordo en Luisiana INFO7",
+  "temas": [
+   "Accidentes",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "4707d43bc72f3390"
+ },
+ {
+  "titulo": "Realiza FGR diligencias en oficinas del INE por caso de corrupción de Taddei",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/13/realiza-fgr-diligencias-en-oficinas-del-ine-por-caso-de-corrupcion-de-taddei-295402.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T15:10:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "a33ffaac3b8177f9"
+ },
+ {
+  "titulo": "Buen Fin también impulsa la vacunación; aplican influenza y COVID en Plaza Morelos",
+  "liga": "https://www.posta.com.mx/nuevo-leon/buen-fin-tambien-impulsa-la-vacunacion-aplican-influenza-y-covid-en-plaza-morelos/vl2278794",
+  "medio": "Posta",
+  "publicada": "2026-11-13T15:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "bd26c77d91002561"
+ },
+ {
+  "titulo": "Hombre asalta a mano armado banco y se apodera de 600 mil pesos al sur de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0l0WFdGbmdmNUtQV3h3TGtldFl1WEFMbnh5aW5rd1JTMmlmR05hbUxscXpvaTJmckJpTV92VzdYX1h1ZEZBZmdERFducHlnZlp3eWJlNVFwMExiTHlzSWVEWlVzZ2pKblYwc3ZnUWZiU2xEd2pUSW51VTBvMTNJaEZicVhYTDhYeXhuVGdHUTN3VWQ5LVFVWm5IMFlCZ9IBngFBVV95cUxQRlZBZ3dBQVJqR0xwRno4dE55NzRYRklaMlFfNGxiYVhyVmhOVVBEWUFEYmwxc1pPOFNZNVhDMVdxbEtHZnJLa0tJekd5V1BZUy1SblYzVFdqUXFDWF9IMWVHZGdsVW1RWHRaZ1hodmZ6Rk5BQjBSdDRpWWJzQkdVdE0wSkxwbUltaHBHaTNRamxqQ3pSUzcyVTVUMGNoZw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T15:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Hombre asalta a mano armado banco y se apodera de 600 mil pesos al sur de Monterrey Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d22a21b78eedd170"
+ },
+ {
+  "titulo": "Waldo presenta nueva denuncia ante FGR (VIDEO)",
+  "liga": "https://horacero.com.mx/nuevo-leon/waldo-denuncia-fgr",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T15:02:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Waldo Fernández González acudió a la Fiscalía General de la República en Hidalgo para presentar una nueva denuncia penal. The post Waldo presenta nueva denuncia ante FGR (VIDEO) appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8267cdd74d670dfc"
+ },
+ {
+  "titulo": "Garantiza Erviti continuidad de Almeyda en Rayados",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdXM0X1hQSDdPajBOT2hraDItcEhfVnA0ZDE0RDhJRGQ1Zld4aUFxNTBoOUN6MjZMWUFrbDNaVS1STWJrREh5WXU5YWM1M3kzRWc2N08xNjlxUDJ4LWNnYW8ybXctdjZsTVZrb3VfR21xMldCREVGUUNxLUc3aDBuTHRPLUd6VGg1OUNJZ0hOb2xjY0NUbmtoWThwcUhqUQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T15:01:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Garantiza Erviti continuidad de Almeyda en Rayados El Horizonte",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "697ce5873b09ab32"
+ },
+ {
+  "titulo": "¡De Japón a la Sultana del Norte! Yoko Takahashi ya está en Monterrey para La Conve 66",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdG1jNFlIQ2ZzSzB3SFdCUklJemt5aUJ1RHl3d3FKWVFDcG9MZ3lDT1dRRXhod2tOVWYtTm5qODJ3Qi1hM09OdmVGcjhFMmxMOHRNcVJ3Qmx1Q1MtZFEza1VrNjVfR2hEVTkwbUZhRjFyZkllR0syc3pBQ2xwZHdqUEREYTgxVXZkU0xILTRaMDBNc292Ul9MVEZMQzZISVJBOFHSAaIBQVVfeXFMT2htVW9BOGFuVEVmTHFTNHZfallGbTVjTXl4NHVyWEFwczVlVWUyUGNvV3BHdWJ1cDBpLWVBSUY1dEpvc00tWnFmWTBFUmoyc18yYV91UnpQVWt2UGJGZTRjdVVvTXR0S3BPM1hFc3lBdEVINGUwbGF4dDJXanJYNjNnSVNwZjZmMG5kdFZYd2ZnNlloMDVWU0RYbFN3V2lLdTJR?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T15:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "¡De Japón a la Sultana del Norte! Yoko Takahashi ya está en Monterrey para La Conve 66 Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "82bebeeded6f8070"
+ },
+ {
+  "titulo": "Suspenden 12 juegos a Owono tras muerte de De Miguel",
+  "liga": "https://www.elnorte.com/suspenden-12-juegos-a-owono-tras-muerte-de-de-miguel/ar3314370",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T15:00:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "El portero Jesús Owono es sancionado 12 partidos por la Federación Española tras la entrada que causó la muerte del jugador Jesús de Miguel",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c57d9a0cd36efc7e"
+ },
+ {
+  "titulo": "Cliente denuncia asalto al salir de un banco en Monterrey, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3hYVVNoQzREb1o4QXBHRDJLX0kwQTkwS0l5eWxJRjZmeW1qQjFuaHBKLWwtQ1NZcGJJOHBkaGRsdHFzOTNVRzVHd2F2T1hMR3NaMWMzeGRpZmZBTnBQTlJha2JrcWtaLXlsZDE2ZXBzb2xsMXI1d1U1OUpMOVdQczFJQVpUT2t6YTBkZS1PcGRoaUl1VF9SQ2txLWZFc0hha1djcFRkWVl5cDMtZlc4?oc=5",
+  "medio": "Vox Populi",
+  "publicada": "2026-11-13T15:00:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Cliente denuncia asalto al salir de un banco en Monterrey, Nuevo León Vox Populi",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5eb10ecd2f40ab90"
+ },
+ {
+  "titulo": "Burros Blancos vs Pumas CU: dónde ver los cuartos de final de la ONEFA",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXRUVUlfUkE0OE9Ta1NmV3BKUGhRVzdLZ0FEdGs4b3hFbXR2MXQ0RDFuNDBLSTdLWEpLX3FPb0JXazZzOHBxUDV0VnNrekR0dmtPUjBDdUlZR3FoOUVBV2VHMnh1enZoZ09WZlBSWkJUT1JpVDdxRF85N3FSdkdrYWVBcDVLdlpsbjVJVEI2WXRSTWx3SHZRY1ZwYlpVZzBGaFJDM0x1R29TdVNRUFQ1bkZtOHh2UWpEZ3o4WGdiS1VjOFRzNGc?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-13T14:59:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Burros Blancos vs Pumas CU: dónde ver los cuartos de final de la ONEFA Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e2d094d75fd237b7"
+ },
+ {
+  "titulo": "Suman otro cargo contra Santiago Peña por caso de Ueno Bank",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcktrTzVlaVc3VUlFamRsQWhpbUJfOVlidXl6YzJqa3ozVUNqV1ZpZ0gtQVEtQW9NdGUwXzBGYVQ0Z3NCZmlCWXY0UkczYmFuU2FFbjhJTkRWbGRPUi0zbDh0LWRrdEhuTGFITVZjZjNrMEVUdmo2ZVIxT2lqb3ZfWDhidm10aFR5SG1BTko2SmhUdlA0UGNvWFprd2R4T19BbS1WNUZsYm8xVnVheXBoYw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T14:59:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Suman otro cargo contra Santiago Peña por caso de Ueno Bank El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7cf3534801399a15"
+ },
+ {
+  "titulo": "Confirma Tame Impala concierto en la Arena Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFFURE9mSS03MEt0dUYydGNnLVlUWlc2LUhVakhzSTF6RTVlMkJoeHZ1NGxsb1FfdmVQOC1TMVhMNlFGYmFSNEE1MXpDcE84Nk1hMFB0ZGRRLWJPQnBOeVFSQTM2azcyMTRoSFdCMWR4d0xtM2x3cHU2VWk5RmNzallvZk9rV193S3JySlZoeXJ4ZWpaYWVWTQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T14:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Confirma Tame Impala concierto en la Arena Monterrey INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "95f6ed109df07ad0"
+ },
+ {
+  "titulo": "Descartan Amenaza de Tiroteo en Prepa 16 de la UANL en San Nicolás, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbkQzYmQyQU9WZndvZE9JSHh4OWZwS3lWeHpJVEdlRlh3QUR2cXVhOHllYVQxNmdkSVk4bVNpcl9UekhqZWRXU19SU2hKUUlpajlNdmU5clVRUC1UaGN5MnJudElEOVVnOUkxdEFqRE9NSlAxQWk2VWFuSHRLQ0Z3ODFZd2pFTlUyMEdpLTU0UGp3eWFuLWlZU2FvSWtLTVI3V0NVLXZ6ZmlmWmJ6OEFzT0pkczEyV3NXNXdScWxWaW0?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-13T14:56:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Descartan Amenaza de Tiroteo en Prepa 16 de la UANL en San Nicolás, Nuevo León N+",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "5e5a4951ecb25a9e"
+ },
+ {
+  "titulo": "Detienen a Hombre tras Persecución en Guadalupe, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1dmMFVhTFdxZklMSVktSE52Z0hkYWdzZG5IaDE1ZXBIUjdweVV0VE1PXy1XTUhOMnVTcFlfSjdPLVN6azJseWswZDZvR2tuQnMyNmg4a1p5RjF1bkdmRk1FM2lBYXo3MV9ITFlndzJwdDhDMXV6d2VHNWZsdHE3QUdBd05heFQ0SmhYclNIQ2I2SGs0Ny0wWFBsSGdCSl8tOVljMDJqYw?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-13T14:53:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Detienen a Hombre tras Persecución en Guadalupe, Nuevo León N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4268e3aaefd21d5b"
+ },
+ {
+  "titulo": "Acusa MC presiones de la Fiscalía a Cuentas de la ASE",
+  "liga": "https://www.elnorte.com/acusa-mc-presiones-de-la-fiscalia-a-cuentas-de-la-ase/ar3314366",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T14:53:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "La bancada de MC acusa que la Fiscalía ha intervenido en la labor de la ASE, realizando presiones de intereses políticos y partidistas.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1c817c9f4733ed94"
+ },
+ {
+  "titulo": "MC pide a Congreso de NL destituir a auditor Superior del Estado por presunto uso faccioso de organismo fiscal",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHJLVmhlNm1ReEh4NWgyd1RNZFNQcl9BbnpTTnl2WGNnT0dYTTVPZTVtdFVjd2FIVkNScEhjaUVtVkk1SGpGcFFHM2JlczVMWHpEdmdYTmhVcmhMbzZVS2pKNV9abEFfUU0xYXFCVk93ZDJhQWJONnA2MTNOZzhJQWN2b01zX0xUdXZnYWp1WFlBOEtSOFdzNDNyNTFJNGvSAZ8BQVVfeXFMT3I5eGVtVnlhcTBXMTc2R09Xdlg1ZW9zRnBxQThyYV92YndUWHlFWG5aZnI2RWhqNXhKQ29rQU9qdm9aUXljSUhVWU5nZUhqS3NpaG1QZnZ2WVljXzgyOTJPRFJ3Q0RSdG9vb0xaUW1scm5UaGNZcVR1TlNrYlljUUI4dUlDQnhWUGlUdTI1X0I5OEREd3RMNkdFbUlYMURN?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T14:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "MC pide a Congreso de NL destituir a auditor Superior del Estado por presunto uso faccioso de organismo fiscal Milenio",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "020326ec506a3ecc"
+ },
+ {
+  "titulo": "Ofrece Agua y Drenaje descuentos del 90% por el Buen Fin",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazU3RElkYkFOR3RDZzJJWkVUTHR5QkJwZnhBQVpRbTJtT0g5cnVCdFE1NTZ5U1ZxWGVObGNBQzVOT1VTMFVrZm5ucmppNm9GZ0d2VTM5b3ExNTh6Ukg5cjUtRHFoZUljSkJ3U3ZaNUVmY0psQ0NSSjRPYzQ2TVdleG1vRUxmaFZJRUxoNXZ3WHpjRFJfMWNGdnduZTdEcmJBYlVybmJn?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T14:49:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Ofrece Agua y Drenaje descuentos del 90% por el Buen Fin El Horizonte",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "d4975465d00ed94c"
+ },
+ {
+  "titulo": "Antonio Oseguera hermano de ‘El Mencho’ es condenado a 22 años de prisión por narcotráfico",
+  "liga": "https://abcnoticias.mx/global/2026/11/13/antonio-oseguera-hermano-de-el-mencho-es-condenado-a-22-anos-de-prision-por-narcotrafico-295399.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T14:46:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d1efc7c0721e05a5"
+ },
+ {
+  "titulo": "Buscarán abogados de Dámazo apelar sentenciar; afirman que hubo interferencia política y mediática en el caso",
+  "liga": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVXdlSzBMblZmUzdDMHJfYkNCN0M5cFlFaHVBbmFfcXFsZUtRdTQwWFJ2c2taOUxkTzdERzAwcVJncXA3cDFjOHU5cHlEYm5sSmhxZ1ZLTFNrUVZ6eW9jZUxjYm9kYllkMmZXMTQzMkFhRGhwUlczdUMtOWlTUnZfdnJULVJ5RC04QW9wRFdRRUFNWjdsSkg0RGFKVHVJb3hkZFF2WFlzcmZQcmc0QnVMNE90bGpKMHFqbUJ3ZEtxbHk0aGlObExFakJCVXJaRjR6Qmtrb2IwQkYyaDROSjF4MDFwN0picXZRbTRIVVhvX0ptekYzNDF2bm9WRQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-13T14:46:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Buscarán abogados de Dámazo apelar sentenciar; afirman que hubo interferencia política y mediática en el caso Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c5beeecfd455e948"
+ },
+ {
+  "titulo": "¿De la Rosa o De Nigris? Así podría ser la alineación de Rayados contra Querétaro",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/13/de-la-rosa-o-de-nigris-asi-podria-ser-la-alineacion-de-rayados-contra-queretaro-295401.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T14:45:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "01eee8e1003e1521"
+ },
+ {
+  "titulo": "MC pide al Congreso de NL destituir a Auditor Superior del Estado por presunto uso faccioso del organismo",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRF9Gb1ZNR0k5Uy1KSENTSUlBT3FtRElZeW4xdnpfQUo2a1ljOXU0d28zRE5tX20wRHpnLWJ3UXBjOENtR2g4cFV4aHBMdVNCMUZISHdQMUNzSEF3R2RmandTMXdQMnZucDRaaXJlR3RmTnlNT1VwVzBMLVJ3R21vWVBrLXlUVl9saXA1ZGxjaUNWV1NLX3A3b9IBmAFBVV95cUxQWlc3TWZDRTF2MlUzMThVcm92cGJaRjFhblBDN1k4YXc0eWczLXZIdWZSWnAxcTBwU2pFb3RpdnJ5ckZmd3ZYc1c2MlEyMVBDVWlRWE9QblZZdGd4VmJBUmRuWnZpSW1rTTBfRkduLTJac3FOSUJhYmZmLU00bUZXbGVFeHhqLUJOWi1ZUkQ2Y1lCdWkzV0lWbw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T14:45:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "MC pide al Congreso de NL destituir a Auditor Superior del Estado por presunto uso faccioso del organismo Telediario",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "11889e3a668bcc89"
+ },
+ {
+  "titulo": "Política",
+  "liga": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9MYTN5ZDhwU0F2NzZGbmxteEI3Z0NMTjNrSEJzcHpVM2xuWG5LTFV4RUpnc3JyUkJWMF9lNmNNa3dYa1ZCYTZpQjVn?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T14:45:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Política Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ea4232934f8d56b1"
+ },
+ {
+  "titulo": "Asociación Mexicana de Gas Natural anuncia inversión de 500 mdd en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHIzbVEtR0R3ZUJiTjRHR3hwZlN0MEV0NzVhNExnS0xFb3d1Q2FnZjQ5d05VbXpzVm8xcUN1Q2ZESlpaQjkzWHlWTEU5aUhlRnFpVXFVVmR6UnpkNW5xMExmUmI2NWxKZzE4TnNvTjl2RFpzaWVzWjdvN1Q1aW1KbjhfT2s4Sm5zclB3blloMkVDZVNxWG15X08xQU53SDBF?oc=5",
+  "medio": "Almomento.mx",
+  "publicada": "2026-11-13T14:44:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Asociación Mexicana de Gas Natural anuncia inversión de 500 mdd en Nuevo León Almomento.mx",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "d27d8b927a62ce41"
+ },
+ {
+  "titulo": "Chocan buque cisterna y barco de crucero en Nueva Orleans",
+  "liga": "https://www.elnorte.com/chocan-buque-cisterna-y-barco-de-crucero-en-nueva-orleans/ar3314358",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T14:42:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Un buque cisterna chocó contra un crucero fluvial en Nueva Orleans, sumergiendo parcialmente la embarcación; realizan labores de rescate.",
+  "temas": [
+   "Accidentes",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "c0dd41f6d41636ff"
+ },
+ {
+  "titulo": "Verónica Aguirre reconoce labor del personal de Limpieza Pública",
+  "liga": "https://horacero.com.mx/tamaulipas/veronica-aguirre-reconoce-personal",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T14:41:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Reconociendo la importante labor que diariamente realiza el personal de Limpieza Pública en beneficio de las familias sanfernandenses, la alcaldesa Lic. Verónica Aguirre de los Santos acudió a las instalaciones del parque vehicular municipal, donde sostuvo un encuentro cercano co",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "76aa6ff6b262b000"
+ },
+ {
+  "titulo": "Buscan reunir 2 mil 500 juguetes con torneo infantil de beisbol en San Nicolás",
+  "liga": "https://www.posta.com.mx/nuevo-leon/buscan-reunir-2-mil-500-juguetes-con-torneo-infantil-de-beisbol-en-san-nicolas/vl2278783",
+  "medio": "Posta",
+  "publicada": "2026-11-13T14:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "32e334fbc433cd2c"
+ },
+ {
+  "titulo": "Buen Fin 2026 extiende su duración a cinco días en Monterrey",
+  "liga": "https://abcnoticias.mx/local/2026/11/13/buen-fin-2026-extiende-su-duracion-a-cinco-dias-en-monterrey-con-vigilancia-de-seguridad-295400.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T14:37:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cddab1ea9f17aa93"
+ },
+ {
+  "titulo": "Conarte | Consulta aquí la cartelera de la Temporada de Danza 2026",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEdmWFZMTFI1MjUzNUNLOFVoN2t3ZXZBejI3T0NselNhLXdQZS1FY2lsU1BzQTR2VVJ4Zzk3cDVBcWJ3LVlzWHdnRHpWN3AxM2FORmZSZTBZdjNmX1pmcHlIV1pySktyNWJUNVNKRzFwMGNiVTdqcndFbG8zaUM3WWpJWTBuYy1zLUhqSWJKa00yNjFFRmt6UHA3dEp2aThwT18wVWlNTDg4dnVBSVMxeGc3TGpIeXd4dVdjLUJZSm9tdw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-13T14:36:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Conarte | Consulta aquí la cartelera de la Temporada de Danza 2026 Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f5c81cc5f53bad33"
+ },
+ {
+  "titulo": "Martha Herrera destaca labor del Encuentro Mundial de Valores",
+  "liga": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9heW1FSGJyTWpfSzlJSGtOQXBBbnpsMkR3cnBVWUpadWhETlNhMEdmMFhKbkpBVVdjcXVBNWdoMzZzbE1kQzN2YVpMLV9RTHM0bzhkM2pYLU9Va2UtSll5WUtjRTY4dHlL?oc=5",
+  "medio": "Hora Cero Web",
+  "publicada": "2026-11-13T14:33:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Martha Herrera destaca labor del Encuentro Mundial de Valores Hora Cero Web",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b796c118dc41d753"
+ },
+ {
+  "titulo": "Telediario Matutino Monterrey, 13 de noviembre 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSHdfLWpkTTFXMUYyNmstb0JoWTFMT193cl92T2c2RXd5eklhLVMzTVRoS0pzZGI1amFPWTNnQ2Nfc1ZsaUhTWFFJYkw1RGZpVFpLU0ZQNWZydVBFcUxPZlNXM2xxQ3ZoM0lISFk5Vm9yME8tVVRxZjN0VUR6SXM4bzd3c0o5dEU5T2tIQjNyckNzTUw1OS1yRzllZ0VSZXBVUTd1QW84aGhzUnp3ZTNlbXVfdnBiN2l4M0VNdmZYTkFob3Z1Wm1kVUtFTnZESXZpRjNHSTFHSWV3OHYxRWhrQzBzcTROc3NDTDBzUXdlS0nSAfABQVVfeXFMTVZuNGZTeGR0bnZYVGI0aWpYckd2Vzd1ZTRoTlBKLWViM1ZRTlEyeDA1WVdDVUdaSVNmR1BTQkVNWkR1cjhfSTkyNnFiRm54ZlpBXy1kSVdicWV2T3lrYTJYbzRmM2FEWThZZ1lwcXhXZ0RaZm9tV1Yya2xoc2JtVUtybmJhU1BWaWN6UkIteTdPMG94VFhoLVRuN2l1WWVZTjRZOTE2S25UVEs3eHNGWWRtRXpXZ21XNTZmTkN3Y3B2TjZla0lIWnBIR1FZNU9HM0l0Nl82R1VFTkVBaFZ3RmRrc1hBUmNtQ2ZzUHAtbmZ1?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T14:32:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Telediario Matutino Monterrey, 13 de noviembre 2026 Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "decfcab2671df720"
+ },
+ {
+  "titulo": "CUCEA inicia investigación tras denuncia contra intendente por tomar fotografías sin consentimiento a alumnas",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0pvbXgzN1R1eXZnUW5iTDAwcUt0dTBHS2d5SjlwV2N6dzhvQ090QktFZnRTcUZENXpmRURYLTB4Q3FWcHIwWDNid2xlblVOZlFxZkZxZVBteHlpQWQ2Zkl4VXNNN3hiRlh5OW5qQmZtOWlmdTNrc2l6cXVLMU1KT0hUMzVlX09naDB0aGE2S0JHUWZZd3gw0gGXAUFVX3lxTE9rSm9teDM3VHV5dmdRbmJMMDBxS3R1MEdLZ3lKOXBXY3p3OG9DT3RCS0VmdFNxRkQ1emZFRFgtMHhDcVZwcjBYM2J3bGVuVU5mUXFmRnFlUG14eWlBZDZmSXhVc003eGJGWHk5bmpCZm05aWZ1M2tzaXpxdUsxTUpPSFQzNWVfT2doMHRoYTZLQkdRZll3eDA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T14:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "CUCEA inicia investigación tras denuncia contra intendente por tomar fotografías sin consentimiento a alumnas Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e28d4f0d53d58505"
+ },
+ {
+  "titulo": "Roban 600 mil pesos en Torrebrisas; delincuente escapa en motocicleta",
+  "liga": "https://www.posta.com.mx/nuevo-leon/roban-600-mil-pesos-en-torrebrisas-delincuente-escapa-en-motocicleta/vl2278785",
+  "medio": "Posta",
+  "publicada": "2026-11-13T14:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "940416a218dd6eef"
+ },
+ {
+  "titulo": "Regala Kimi Antonelli al presidente de Italia su casco firmado",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcm1yeXZHa2NQUnE2LWZRcW1OcEplb082TWJ3cXkxd1YwcEhwQVhEY1dvMVJ3QjFPQUlObzc4aElxZXRhQ3hqczV3c3FKbm1vWHJpeWlOM2VOWV9JNFQza2kyR3hidlpBTHB4bnd4aUphbkktZVZNOGxMY2NheWNtOXBRRVprWVlBRXZILW9aVnpFQlhCcEZlTTdoTXlSbmx2?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T14:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Regala Kimi Antonelli al presidente de Italia su casco firmado INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b928c088864d6e42"
+ },
+ {
+  "titulo": "Aprueban Registro Estatal de Entrenadores en Nuevo León ante Delitos contra Menores",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb2ZYQlgwWnlWUXRvYzA5MFlHcWcxQndqZVZXZlNSZGhELTVwWVdvbDdUaWhzSFAzNXBoa1MwMUc4dDZ4VmhVdWxBZkpLbE5sYjUxSFQ0c2RtSm1qRjE2dnEtTlUzYmxLdUNyRmprX2Q1VzBoNFFBSGcwU1lVdHp1ZEpkMzFxWjJnMkxOLTZsX3pRQzhneEVLcGJRU2hPU2s4NVlpY3ljNUkxelJteUVRdTlyUXBxWGROZWpYQmhIc3l1b3kxcVg3aw?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-13T14:28:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Aprueban Registro Estatal de Entrenadores en Nuevo León ante Delitos contra Menores N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f66cfb4ec18431a4"
+ },
+ {
+  "titulo": "¿Qué estado NO tendrá clase el 20 de noviembre? Suspenden actividades por Día de la Revolución Mexicana",
+  "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVNjbE1EVUh1VWE4NkZKeFp1MS1scFh3SDU1WkZHOWhWSzVEVkdJY3lBUWlKSTVTbHhaVVJua2FXTWI4N2VkbklDUmFjOGFqdzZDa2RRQXpsVHZSMUJnZXRxcFp6Z1RKUmF3OExEb0Z4N3NQbzFJYXA1RzVuM0FmRllabGXSAYQBQVVfeXFMT2lTY2xNRFVIdVVhODZGSnhadTEtbHBYd0g1NVpGRzloVks1RFZHSWN5QVFpSkk1U2x4WlVSbmthV01iODdlZG5JQ1JhYzhhanc2Q2tkUUF6bFR2UjFCZ2V0cXBaemdUSlJhdzhMRG9GeDdzUG8xSWFwNUc1bjNBZkZZWmxl?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T14:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "¿Qué estado NO tendrá clase el 20 de noviembre? Suspenden actividades por Día de la Revolución Mexicana Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9ac38ebf6b0c7a00"
+ },
+ {
+  "titulo": "Javier Taja busca encabezar los Comités de Defensa de la 4T en Acapulco",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcjRGMzgxOC1JTG9QekplTGg4T2tKU1N5UFdvUmtfZEVGMlpDaVU2N2VWaTBfNXlOQkktLW8zWGYyWjJRMmVLU0laRXZueHZJcXZaVC1LbVRQandSREhGVVZ5VTNhM0cwNjNIdlpRNmJpazVXRWJwVXpHYnJiVVoxNGV0b1R0UXktTG1rakRBSUpWTEhXbWfSAZYBQVVfeXFMTnI0RjM4MTgtSUxvUHpKZUxoOE9rSlNTeVBXb1JrX2RFRjJaQ2lVNjdlVmkwXzV5TkJJLS1vM1hmMloyUTJlS1NJWkV2bnh2SXF2WlQtS21UUGp3UkRIRlVWeVUzYTNHMDYzSHZaUTZiaWs1V0VicFV6R2JyYlVaMTRldG9UdFF5LUxta2pEQUlKVkxIV21n?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T14:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Javier Taja busca encabezar los Comités de Defensa de la 4T en Acapulco Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8831ff4df930f79d"
+ },
+ {
   "titulo": "Pick-up participa en accidente en la Carretera Nacional de Monterrey, NL",
   "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1RlM1ktaE5tYW5GZnZ0VUdfVkVXVDFSTDZ4M3hoelZiam5tWmptUzBNQUxpeWVwREZPY2ZoMEl3dDRjeUNlSG90bDJwczhXdFBLRHFJZTZJY2EzMWxydXdveFhrdkYwdk93bFFzWnZ6SjRqS0pwVXJUY0ZteFN5b3l6eXllaFhyYkl4NlN3MXktcjFZYXZNSFROT05QZnpyOUwtdm9oTmJVa3FQbDVhSjBvQQ?oc=5",
   "medio": "voxpopulinoticias.com.mx",
@@ -13,6 +592,20 @@
   ],
   "local": true,
   "id": "f4cd871ca8741ec1"
+ },
+ {
+  "titulo": "Captan nueva pelea entre alumnas de secundaria ahora en Nuevo León l VIDEO",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2tyNWtSQjJjSUJrZGN2Slpsbm5MaWx4Z2ljTF9ELVd6M0doeEJUTGhqSkRrRDhOOTBXQjFwY09GN1VjU3MtMWtObnd0WkRBUXQ3SzlSNUdjU2JwaUFBNFFxQjV4ekwwa3dNVnBVTTR4cWUwQU8za2VJRDVVRGRqbmxzSWh4eHA3bHU3NkFidGVxUEhqSF9ENmdTSl9WdEVLSUtwM0hNdWNhd3UtbnhxN2tEV2NSSXpE0gHTAUFVX3lxTFA3bjNKWFUtdFdUdW0zRkx4Z2VPYnR1Y3JGVUxqSVVfTjhTd25uSzlmRGdmSGpxSEQ5LXpTSDFDVTVMeG1xRVRmVTItQ1lVbWdXQVp1X1BMcWpQdVVHTXR0ZFMyRDBKZ0p6blNoaEUtcmRjbjU3M2l6Z3RWTUNteVlQb3RLOUJJUlVWa05qSldrXzBwMEZzTG1MaGx3SWMzN3RDNnd2VTdFSHZhUFkyN0xseUltSUtWZVZ2VndJMTQxUWhiM01WcU1FU2NtNkNUMFVGSkk?oc=5",
+  "medio": "Infobae",
+  "publicada": "2026-11-13T14:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Captan nueva pelea entre alumnas de secundaria ahora en Nuevo León l VIDEO Infobae",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d56a90d56bf5392f"
  },
  {
   "titulo": "Panista Carlos de la Fuente transa contra candidato de su propio partido",
@@ -439,6 +1032,20 @@
   "id": "ce698b9a48869271"
  },
  {
+  "titulo": "José Aron 'N': de sacar de prisión a exigirles 600 mil pesos",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSm5JelRHcG1MTW5NZnRYMHBpdUJvUFhwYnNIcVlaSDhuY2VFbThhYXNiVVdZZG5DWDZvTGhuc09qWmN6TlFPelVHVm1RclhadzBQYl9oY0VleVB1S0xjZWxhVEQxaktEWWJlLUpTbnhuU1lfY0pHQlBuRTV4RHM4ZllrWFJiQUQ4Sk1DcGM0VlDSAZABQVVfeXFMUHdvUUNsZ2tIYVQ5NWl0c2lnVDdfSkh4aFVTRzNUcEl4Rmdud2Q5U2ZTY1pJMFJxeEgyeTJhdXpMVVdCTVVnTGt4bEpaT0Z5b1lUaUIxQ001QXp6bFRDQUdtdDlWYy0zYUVIVWl6TlNzQlcxbXcyUjI3MjV3YWFZaHYzMENoSU9IcUhDYWVyWm94?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T13:42:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "José Aron 'N': de sacar de prisión a exigirles 600 mil pesos Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5966b909dbed810a"
+ },
+ {
   "titulo": "Margot Robbie protagonizará nueva película de A24",
   "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2VIYjhsYzZscmVBRHpuN19renNBZWpnTkNlRlp0STA3aExsU2tuRDVSVjk5ODVRbkdLMFZsUVA1bHBjbXVGUUNRNnRYYURTMndVSml4YVZnWmxHUk1rM2diTmZwdjE3VjZwMG5QTHdEeUFoZ3pCTzl6dDhNXzl0Y0dYZHlkNnJvVTR1RVJpRFNQWHlaRHJPLWZR?oc=5",
   "medio": "El Horizonte",
@@ -523,6 +1130,20 @@
   ],
   "local": true,
   "id": "d00d9be0cfa0dc24"
+ },
+ {
+  "titulo": "¿Qué relación tenía con Kimberly Powell? La polémica de Nvidia",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREhLNWh6c3FmQ04wNHFWUzhyVTRQTm5aY0p5LTljeTRnQzExQ0l1TXZkelVNbVplQ2t1VXJpRnpNdFVacWZ2d0dVZENsN2tJa0hnTUJrb2lCSkx1Y2l4bGFaSFhDNzNBblcyMGxBMDZvelVYX2xOVE9TZGs3RnZnWmlNWnp1UnBEWWdhNldpdjcxS1REVG5BTnMtZzVZNDRMcXpKVNIBpAFBVV95cUxOMjJObHlVcGlfWFBWOXVFMjJTazZaNTJCaDA2N0ozSXhObGNzR0lNUXI2M0V1a2M4by1YWEZwbXV2c0NudXpiWXZEdUR2V2tmeTVrUDJ3R1h4clhxZkFJNml5V2xheGxOMFo2SGJOYzlOZUw1ZG5vSE1kVzhvZ3JoNGc2QlBmaUpnZHJiMG5GMEY1SHRmWVl6R2hwM1g1RnJ5b2xEUA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T13:33:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "¿Qué relación tenía con Kimberly Powell? La polémica de Nvidia Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5c0aabb158f00cd6"
  },
  {
   "titulo": "México alcanza máximos históricos en viajeros internacionales en 2026",
@@ -1130,6 +1751,20 @@
   ],
   "local": true,
   "id": "8143dff01ddfe7bd"
+ },
+ {
+  "titulo": "Rayados renovó a Óliver Torres y ofreció nuevo contrato a Carlos Salcedo",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/13/rayados-asegura-a-oliver-torres-y-busca-renovar-a-carlos-salcedo-para-2027-295389.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T12:29:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "a2239112d3117772"
  },
  {
   "titulo": "Ciclista resulta lesionado tras ser impactado por camioneta",
@@ -3020,6 +3655,20 @@
   "id": "9a8be13b53d4ac56"
  },
  {
+  "titulo": "Sheinbaum ofrece apoyo federal a Puebla por penal de San Miguel",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2tnbWpISzJTRXA3YlZidmJ3bGUtajFzNktYcS00UzJ5VDF6MHpxSy1mVGJSNlljTGI5d0FUdi11ZV9SdTZ5am9Memc1TnVFYXpuai1xWXFBOWExU1RLTmJBNGxERnpmZmpHblc2bFVNSlNwa21abFZad2tqRkVidklJd1AtVDJFMGVrNEJ5b29NTklidGI0V19sdXFtRFlFQlFJSzQ4WdIBpwFBVV95cUxPYmFSbUJkX2ZmN0hVZVB6b0otUUxMYTk3bE0xSTIzbjJWRGhCaGRpVGFKQ3d3TVFwd1hrSWZHaGZNc0pLbzJDMnBQQ1B1MWtoRjhQNjZaVXhNTEpOTjcwRGRpWjhsOGNaaXdoNUpHSUF2YTl4ZE1XVG1wTFBjY0FNZXdFU1EyNktRbi1SVzVreXdvdmVqQjdzNnI4NWhoSlV3SF9mM2U0TQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T09:38:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Sheinbaum ofrece apoyo federal a Puebla por penal de San Miguel Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2b394f17a38aa844"
+ },
+ {
   "titulo": "Dialoga Toño Chávez con adultos mayores de Reynosa",
   "liga": "https://horacero.com.mx/reynosa/adultos-mayores-reynosa",
   "medio": "Hora Cero",
@@ -4094,6 +4743,20 @@
   ],
   "local": false,
   "id": "410cb4bc2b0218ec"
+ },
+ {
+  "titulo": "Comunidad",
+  "liga": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nbUNETTlUNmotRFQ2ZUNjclY4MWdHU2t0MWF0OXFPbFNBejJnZ3ZyTzBhaXp2ekthTm9fOWpEWHFUYTlLQ0FMUjlIMWVMVmVjZ0NWQ1ZjME96R2hfVVREMUVNcXR3TF81V2lOUGlxRFRjOGlsaHc0?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T07:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Comunidad Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "58b01ddb4393206c"
  },
  {
   "titulo": "Defensa y SCJN inauguran curso sobre seguridad nacional",
@@ -7920,6 +8583,20 @@
   ],
   "local": false,
   "id": "8129c5506d873140"
+ },
+ {
+  "titulo": "Denuncian a Angélica Rivadeneyra, integrante del PT, por condicionar apoyos a cambio de afiliación en Edomex",
+  "liga": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQckppRzIySGxId2kzcm1hekdUQU1VcHpjbW1TN1NDVFNVSTZEZ0huTVdyWllkVTl2UlhHcHV5MEVVX0VpZ2RGTWpBN0NTOGhHVlBlMGxBRkRZMFRZRE1Ray13c2Q4cGpxMlhXMVVhYUtrVGZwSV9BNmRaSHlUa0M5OU9iMVdJcVhTX0J5WHAtYkRWMXdVVnFEYzQ2NW1wOTNnaDIyNjV1TzNPTUF4VWRJb1BPZjVaSW5adldjN3JsNzVGQkhJd1BUNjNDU1lLWjBuZk5WYmdvNlJQalRCaUNHc0tRb1o5YzlQeUlZ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-12T20:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T15:25:36-06:00",
+  "resumen": "Denuncian a Angélica Rivadeneyra, integrante del PT, por condicionar apoyos a cambio de afiliación en Edomex El Financiero",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "764d3ce3244139ea"
  },
  {
   "titulo": "Avanza el Kospi un 2.79% impulsada por empresas tecnológicas",
