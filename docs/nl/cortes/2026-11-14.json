@@ -1,5 +1,33 @@
 [
  {
+  "titulo": "Última hora",
+  "liga": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTUVNMl9RNnY0eFRSdDBGaExhbHdZbWgzNktUcHdlTUJCZnkwbE15RWhsbXBYQ0lxMHl1dC1IZmh6REtkT0l6TlktdmhDSENucW40OFF6ZXp6YnljbF9nVVowQk00OU5uWDRLemRWUEotOTFmRi1HcVhwOHJ1RkFUSjZaV290Nmt0Zi00Yi1kMjh5YzkyTUlwZjc2a3lYdjlhT1hVX0xLRFh0YjAyR0d6TkdiZlNTYWxpQTJHS1U2WlFCS3VJV1NmajJyUkRvajRIckNWSDdoVkt3NTVqM2pDZXUxbW5HQ29FekRteGV5ekdmMFdRSTJzOUMyM3JfeGNFTHBaLTVVaU4?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-14T02:41:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "Última hora Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0b537fe1cba87ce6"
+ },
+ {
+  "titulo": "La advertencia en la pared",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkxmZnUtYTNqNnd3TWJHN04xOGpmMzczQUl3SldVektuaFpuTUo5VllMMFRFbEs1bm9rTHQzd2JWMW9WVjBkN1hQczJYUk5YekVMektVVUptOUMyYzBWUTh2YWNYdEdJbUdhTlhNM3liZFcxSU5DaERwUF9KUHd5LU1YSVRoenVsbnNVdUQ2NNIBjwFBVV95cUxPWkxmZnUtYTNqNnd3TWJHN04xOGpmMzczQUl3SldVektuaFpuTUo5VllMMFRFbEs1bm9rTHQzd2JWMW9WVjBkN1hQczJYUk5YekVMektVVUptOUMyYzBWUTh2YWNYdEdJbUdhTlhNM3liZFcxSU5DaERwUF9KUHd5LU1YSVRoenVsbnNVdUQ2NA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T02:21:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "La advertencia en la pared Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0d56397882196984"
+ },
+ {
   "titulo": "Trascendió",
   "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDBnc1JYVzZHLUR4bHRFbkJFTEE4Q3dDSmt3d1pDWUFYbjZGVVhES2Zob2JlR1RrcTVLNVh4Y2Z2QkJsdDBCamtDX21CNVd3TFFROXVGYi1VR3MtU0lvNGtEVUFfM3VSRnZnWHVwWXdqTXN3anpRMGdZYy1hM2x3OFh5SXBSd9IBhgFBVV95cUxQcmoxOGQ0OFRLNFh5ZkZQMURJU2d6Sm0wSUpHVXEwbzUtSUlXdG0ybXdwd1pCck1FRUhJN09mVEJCbFg0WmVxNHBSMWt0UXJPWUFWME5UblVOTDJRbWRnUFV4RFI1b3J3YkxIcnBkUVJsWHg4MHhDV2ZVZnJNbWZoNFcxczZzQQ?oc=5",
   "medio": "Milenio Monterrey",
@@ -280,6 +308,20 @@
   "id": "99a8c952ea255bf5"
  },
  {
+  "titulo": "Anuncian Emilia y Danna colaboración histórica en el pop latino",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3h2WlRiQUN2M2ZpSzZGQ05ZdDdMS0phM0V1M2c3RjVuVWJ5NHRwS3V6UDBZX1YwYlVLY3psaU1FaVVfNVZZWk4xeVVobHRlTUJ6V2FHZXlKcmp6a1o3YzlVYld6bGUxdTVFMmZyQ2FSemZqc2tuSG85N0otYWxGTXRaRlFOVFJWTnZTTzFFUVE0YndxWjJSOHRpYVZwenp2VG9mZHc5VmgzX3pf?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T22:57:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "Anuncian Emilia y Danna colaboración histórica en el pop latino El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b694c75ac51ed4c8"
+ },
+ {
   "titulo": "Avanza diputados locales en Comisión en registro estatal de entrenadores para prevenir abusos contra atletas",
   "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYjdxOTN2aUJBXzVuOWJuN21TZXhIWnVJVE9zSUlXd2x6UmpiZ3hYSldWNjQ3MkNJVDNORzdka1NRSV95NmhpSFhCQml6d3hnQVZhSy13SjNtb0lrVnQ5UV8zZVU5djY0ck5WMHQyQXpCYldoQV9hdlFENkxuYlNPWV8wTVlfOEMtN1JSdGE3RGl1YXRrSlR0WGpSdUxTRFlRVTM5Zmwxc25tZ1BKSUl2Rl8wYUt1Y1dnaTcwZlYzVzM1dXA3NEY1NERyWkRSN2FMS2w4Y2theVFEZw?oc=5",
   "medio": "noticiasnuevoleon.com.mx",
@@ -532,6 +574,20 @@
   ],
   "local": false,
   "id": "eca3a1b8b4038f12"
+ },
+ {
+  "titulo": "Blindan corredores comerciales de Saltillo por Buen Fin",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlRaUXUxa3Q4TE1Kb0twNnF3UWJNcEhFQkhObUVnTk5WQUl3bmMwSjNwTTVvVDVhOGM3VzUzZlB0aDBNRlRvY1V4YkVFLWJEbEdmeThVNmZNcFBzMExpMTlJU2VPTl9fbE16bXd2ZXdtdlJOVDhHc3ZoUFRKRGxsT1hFcTA3UWlqcnBFQjFhTnlqcU9BTk1HV2VkU3c3SXQzcFJJNg?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T22:33:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "Blindan corredores comerciales de Saltillo por Buen Fin El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5810b12f40f5cc07"
  },
  {
   "titulo": "Golpe al narco: Desmantelan narcolaboratorios e invernaderos del CJNG en Degollado, Jalisco",
@@ -787,6 +843,20 @@
   "id": "a3a0780f4d258d46"
  },
  {
+  "titulo": "Imponen Indiana Pacers su jerarquía ante los New York Knicks",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODI2VFhqMEcxMkRVQmJhU0syTGN2Z2ZsdGlyUGpyOXJqXzU5YWVzcnZQcEdaTUZMUzZuZno0eW5EYnlNSnUyX3kwMXhCTTliakR0UVhkRzhIVVNBRHUtbkNFTURuVlU5NnNLemloYmlBQW9qdlNkVXI3cTVCSzhuQXBkSURPTDVXVGtCc1QtN2twaktlSS1WcjRIZGJmSDJ0bU85aGNITF9wWjQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T21:58:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "Imponen Indiana Pacers su jerarquía ante los New York Knicks El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bd4477166d1ece36"
+ },
+ {
   "titulo": "Actor de versión joven de Boba Fett habla de su paso por la franquicia de Star Wars en Monterrey",
   "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHY2M1YtNWE4eXk2dUFLa1UycFVmcEZqZHhJdk5mRE9Bem9EZ1piSXdHNHllTnRoN2I2WTlDRWFPZVQ5WkRxSGpGNGpWOHJkRWNibnNCQl9UNjhGQ3BKM05jMFp0eGZpQTNRdE5XV1NiZHBEekpDRlVXUlBtTGlsVHMybGd1VmZpTFZFbGUtbE9LbHdQY2lhMXFFSnQ2MzR3UXhZ0gGjAUFVX3lxTE5DQlBGbEtMU0tibEdvZWJuUlJqZzlyS3laQTBZY0E4d2tEMnVvRHY1RTd4T1h2UDU0aUlOaDA1R3J6a1plbVpiWXlaOFkzUlRGdUV4SFNqZ0FDRUZYWXNaVXJ1R1Bpd2ZWcG11NjNBV1VteHRUTGNneEJ0Zll1UWtrNEZaZFJpTjJsNDUwd1JvZ0QwbmVNbWI1RFk4QWR0aWgwS1k?oc=5",
   "medio": "Milenio Monterrey",
@@ -855,6 +925,20 @@
   ],
   "local": false,
   "id": "65dc1e216ea3bf3c"
+ },
+ {
+  "titulo": "En Matamoros, tras repeler ataque armado detienen a cuatro integrantes del “Cártel del Golfo”",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDdScnRycjBjVFJqbVVTZWdnYXRGT21mbDlXWUtiN0szUzdWM0RBQ2RKejRfa2c1Zm12QUd3Sk1kWFlDV0Y0WXpMbFVSMC1LN1VrOUJtT01fZXBUa0tjNTljMmhEeUFRbk1xTU5uTnAwUHA3a2JKU0NjMXhHWDRXY3ZUNngtaHBSam9iLU1RZC1HMnBwN25xa2pMbEZDZ3NWM2l1X0g2QUNXZ2MxMlI0ZkNxazRKemdzbGlLU2NfZ2taZE8teUg4RFBTbjNQaDJEVnlUcWFRclNBU0xTYlhkODhR?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-13T21:50:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "En Matamoros, tras repeler ataque armado detienen a cuatro integrantes del “Cártel del Golfo” Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f6dcf3d227bacec3"
  },
  {
   "titulo": "Falla eléctrica en tanques de Agua y Drenaje afecta suministro en Guadalupe, Apodaca, San Nicolás y Pesquería",
@@ -1180,6 +1264,20 @@
   ],
   "local": false,
   "id": "1d5ded5a797150fd"
+ },
+ {
+  "titulo": "Impulsa Canacintra que proveedores locales atiendan a Pemex",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd3lxWjlISE5QQ2J0UlJueEVaVUhxRjBnQU9SMHN4TXRJTHctbXBydWdsaHhDeFpDNEY1WFdLUlY2RlVpa0xsU2FkN3lNNEQwcUJrMk1XS3hWZ1dJYmVqeGpYWkRRUXhnbVROS25Vc2JWd0F5bHh1ZDdnMHpRREExbWJIcnhwbU9GU3llMkk2bDBDa3U1MG11Y0x1YXhkSFNoNlpvSlZrOTVCUQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T21:12:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "Impulsa Canacintra que proveedores locales atiendan a Pemex El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "425a3fdd1eb1e9ff"
  },
  {
   "titulo": "Arranca en Ciudad Madero operativo de seguridad Buen Fin y Navideño 2026",
@@ -1672,6 +1770,20 @@
   ],
   "local": true,
   "id": "52ae440c0b5cd584"
+ },
+ {
+  "titulo": "Estados Unidos suspende sus despegues por falla de comunicación",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlQ3YW5meFhlelF0Wk1KZ2FFVXowR2hkUVFVOGFaNkE3ZGV3NkoySU9WR0RFVkpfRG1CVFNibWVNRFJRTzVGS3ZlME5zcy1yVExuX21VUWJ4UHVMeFRZWHgySDlUWlFOZmhPNDJ2WGhZUzZjU2dMNEZ5QVNTNkw1NnVxVG5SM1NYXzkzRnV6TUNkcHJvYVJCaDZyMHJzU1ZoVGJlVmZPai1ESC1QbVI1ODQ3ck5wZw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T19:57:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "Estados Unidos suspende sus despegues por falla de comunicación El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cc2be11fb5a6fdd6"
  },
  {
   "titulo": "Más de 400 colonias sufren cortes de agua en Apodaca, Guadalupe, San Nicolás y Pesquería | LISTA COMPLETA",
@@ -2320,6 +2432,20 @@
   ],
   "local": false,
   "id": "38d421adda64870c"
+ },
+ {
+  "titulo": "Advierten clausuras a quintas que organicen posadas sin permisos",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXByV1RIcFplWENGZU5McXlPWGdqWmFZSkIySmVYZlpCbF8zWGp3czExQ2t4cEVKcVBia2p6VXZCdU5WSjdLS1RtM0JUZEhSMGdqc2RtYTlhblRlZTlsck4zOWxDZ2dySGd2VjFtZzVyQnVTcjRsSzJMSm9lc2tmLTBqNXFZNGZsTW5tVDZuU0FKWURaeVpETlAya18zbWtZeE13azVRQm1JUERaemltZEtR?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T18:51:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T02:52:42-06:00",
+  "resumen": "Advierten clausuras a quintas que organicen posadas sin permisos El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2d3d22706ea1c016"
  },
  {
   "titulo": "Starship despega súper cohete en su vuelo 15 (VIDEO)",
