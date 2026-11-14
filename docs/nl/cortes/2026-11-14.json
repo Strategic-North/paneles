@@ -1,5 +1,594 @@
 [
  {
+  "titulo": "Gabito Ballesteros fue detenido junto a cinco personas más y dos armas de fuego",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHI1WVRONlEzVHNib3J0dDBvWV9VTk42blFVM3k4d0NCRDdQWFVreHNJc2VpQ0ExdGZQdzNuWGg5eUVDSVNVTG1MRVhrUXhadXJkeWRfVFhSYXQtYnU5YXJyZ1MwNXY1eVJSb3oxXzY1ZEdkbXpuWkZhQ1Uzel9kenJzQmdPQ0luMWhnbk5iQlptUEphUGhIWmlZUENWMlnSAZ8BQVVfeXFMTjByNVlUTjZRM1RzYm9ydHQwb1lfVU5ONm5RVTN5OHdDQkQ3UFhVa3hzSXNlaUNBMXRmUHczblhoOXlFQ0lTVUxtTEVYa1F4WnVyZHlkX1RYUmF0LWJ1OWFycmdTMDV2NXlSUm96MV82NWRHZG16blpGYUNVM3pfZHpyc0JnT0NJbjFoZ25OYkJabVBKYVBoSFppWVBDVjJZ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Gabito Ballesteros fue detenido junto a cinco personas más y dos armas de fuego Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "3a856dff4992562e"
+ },
+ {
+  "titulo": "Hoobastank y Simple Plan dan concierto durante vuelo",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWJQbWE0ZW9yZTJsT3R2LXpoaFM1TVVNbWV1Ym5pQ1I5eDc2TjZnQ0ZlUWdLcThVZUhISkQ5b3lFUFdGX1NsdlBiLVVBZVBFWndXSWhhN2NnQ0V1cWNoQkdDYnVfX3lCbkNORjlsdzFNYmlOZzNzQlQzaGRMUWFjY0dTT2JxU0FwTldsSG9HS0JtVlBfbG1POA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T15:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Hoobastank y Simple Plan dan concierto durante vuelo INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "16f8d17fb11f1791"
+ },
+ {
+  "titulo": "Monterrey tendrá una semana con descenso de temperatura y lluvias al inicio",
+  "liga": "https://abcnoticias.mx/local/2026/11/14/monterrey-tendra-una-semana-con-descenso-de-temperatura-y-lluvias-al-inicio-295484.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-14T15:29:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "5b53e3b2115f34a0"
+ },
+ {
+  "titulo": "Minuto a minuto: Rayados visita a Querétaro por un lugar en Liguilla",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/14/minuto-a-minuto-rayados-visita-a-queretaro-por-un-lugar-en-liguilla-295486.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-14T15:27:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "534451a1441a8d14"
+ },
+ {
+  "titulo": "Entregan techumbre en Cecytec La Jabonera en Torreón",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOExVS2FrbEF4T0xqZHk2aTVNdnlycVJlbVVzNkQwaG4xUThYMGtNSUp5RnRoSEp3ZHVRaFJEajdUN1Z0MTZ5Y3RnRmtLTUhqMzN1b3pQeG5fcUNETGx0VjJsMi1YSEEtaTdpTUNkbURPY2VrQWlVWWVrQ2JyX2tjYTVCWWRjeWJsT2lUVNIBjAFBVV95cUxOeURlZWFrZjU1TWNKNmVIZXpGT0pOa1RFOW80OWYyYjB6dzZxV0tUU2dZVkFUZkNELXlpWmNUdnkzRGhZcTFhSjc0a1pJZVpHOElfcGlZcTV2UjMwbGtXUjBzX3R5Z0JubVhlREt4U3lwbUcwWFBDZndwR25JZ0lwWlgzWlVBenJwajZzZA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:27:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Entregan techumbre en Cecytec La Jabonera en Torreón Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c9953b8792df15d6"
+ },
+ {
+  "titulo": "Asesinan a balazos a motociclista tras discusión en puesto de tacos en El Salto; un menor resultó herido",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc1FKUWthSzF5VTZOMkN1dnRfNWo4QmdiTmkxNWQyS0pjd3pacVVTVHhFaVdTTGFSTUZQS3F6eHFEWDNJZDNkNndzVmtLT0NKbTJndy1MNnU5amhhOXBzTHBHZVNQVW1zWlpJRGtGWUFLYU1OTDdvbnh4Zkk1MzRHVHlEODZLWTIySE44dVNGd1jSAZABQVVfeXFMTUJWTWpNdDNUQ2pJN1F2WUwwZm5BMzBtdHp1Y1dYYldoa1d1NUNRUTBkbkpPalNTcEk5SXBnMGVFZlpZUTdoWUNmMERtSHU0SHNseV9HQUV2YUdQT0U4eXc5eTBMRDFQNnc5OXNBN0FNSGZYUmRZUHkzY1NYTkRic3ZHbzFKYW5QZjJEa2VyMVR3?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Asesinan a balazos a motociclista tras discusión en puesto de tacos en El Salto; un menor resultó herido Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b72441988f8850f3"
+ },
+ {
+  "titulo": "Peñoles impulsa la reforestación y conservación de áreas verdes en La Laguna",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1Q2WTFXOVN3cDVXcEFZemxpUmE1VG9vVDhuRUlaT3FjTDlaLXA5QzctOWp2MkxGS2c3bngzTXUwV0YyUXhiLTlFaXI1NnIwYmlhaFpNSUJqUmY4bFAwalZiT1BPN3hGZ3RqaXFlTm4zM2RaaG42R0E4cDZYUk9QOHlWeEZZNUlhbS1BVGttcTPSAZABQVVfeXFMUFl1N3JaVjRkZFdCdEYyU3NEMnRBbE1jUHRmUTRyLWtDLVZDdGJKRno1WkRMbjllNUF4Umg3UTRHM1VMVEdpZEtwZHpVRS1IZkt0bTVqSl81aWxmYW5LbkppWkhVcldxbmJlN2Q2Vndhb0pscFYxVGc0R25Qal9rVG9LQ0I3aTBKVm9DTUNBYUdo?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:26:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Peñoles impulsa la reforestación y conservación de áreas verdes en La Laguna Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "95237b731e6f8fa0"
+ },
+ {
+  "titulo": "Garantiza Julio Menchaca vigilancia de recursos públicos ante inicio de proceso electoral",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VmeUlYM1MwdkUzenM3WVlJTlFqVXZXMTRRcU5vd3Nxb3RLVkVlSWlvQ2I5djdOb2NtRVlmd0VDbGtCMjBrQmtZMUNQY0Z2RHBHUzFQTDQ5THhWZDhNdDJaaWhNWXQ2RjBOYm1zT0RBTS1BOHNfbTVDckQwRGRRaElGVmNra2YxMGQ5X3dsWUVHeE10dTQycGtIMNIBmwFBVV95cUxNMVBVOFNGMEM0ZjliWkctaHJHOUpPTkNYZ2NJNEFfSDFQZVhHc016STRrMmpBX3dBQW41anNBbVVrVWVCYWdaODBQSzc1Qms4T3dUN3BVUU8yUHJtRVR6Q1d2TFNFTVd3UzNXOWZPaDNQUjZnckRrRGRMQ2lrRmNUaW5hcjZtZFd3eXdyVGRrVDJaWC1GemkzdllUZw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:25:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Garantiza Julio Menchaca vigilancia de recursos públicos ante inicio de proceso electoral MILENIO",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "b7a3bc0bff635655"
+ },
+ {
+  "titulo": "Indaga FGR a Gabito Ballesteros y otros 4 por arma",
+  "liga": "https://www.elnorte.com/indaga-fgr-a-gabito-ballesteros-y-otros-4-por-arma/ar3314840",
+  "medio": "El Norte",
+  "publicada": "2026-11-14T15:23:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "La FGR investiga a Gabito Ballesteros y otros cuatro detenidos por portación de un arma, resistencia y desobediencia en Querétaro.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "21fe02e641fa078f"
+ },
+ {
+  "titulo": "¿Qué se festeja el 16 de noviembre? Efemérides, celebraciones y por qué es feriado en México",
+  "liga": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBenFIMVdkUjMxVTY5MjlkYno1MVlsNllBOFRIaEFWRi1oQllyVDFQYTg3aE5OdnFIU0lzYUpVYldwMFJtR1Rwck5jeWNxZnNGb29QVUY2d192b2xnaWdLNzB2TE5hUndlNHZ4Slhmbjhabl9VLUQwWnBVY3pQUdIBfkFVX3lxTE9vdHJJNFRFVzAtQ2VUUnZvamtzbVBXa3B6SnlyUkhzRklicG0tVllVdjBMbnpWanFUOXFBY1pXb1M4WXNoYWUxQnI5UkoxdXdQbkh1aDhLandXbkpCUy1NdTFtNlhKQXp2aW5XV1VEQnl5Z0UxSkhraUZzQlNKZw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "¿Qué se festeja el 16 de noviembre? Efemérides, celebraciones y por qué es feriado en México MILENIO",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "23eabdd4f0ae14d6"
+ },
+ {
+  "titulo": "Desairan Buen Fin y saturan puentes hacia Texas",
+  "liga": "https://www.elnorte.com/desairan-buen-fin-y-saturan-puentes-hacia-texas/ar3314838",
+  "medio": "El Norte",
+  "publicada": "2026-11-14T15:21:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Compradores mexicanos saturan los cruces de Reynosa rumbo a Texas para aprovechar las promociones anticipadas del Black Friday.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a0f92473e52337be"
+ },
+ {
+  "titulo": "Empresa de Alice Huang tenía chips Nvidia prohibidos en China: Revelan red de contrabando de servidores",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX1NBSE9IM2dicks4ZWt3cnQxRXVkZlVSaDhreXVVSUY4aFdvUDRfLUFRckQ3VWtEVjFsOUQ3SURTTFJjNTV4N0EwQlk1eGo4akdOaEVCVVlaampqVVVWRTV4cmhrWWFqUi1UeDhWLVppRk5Dd0dIb1oxenFKeU9rYmVPTGlKZWxhWHM4eGJ1emdEa2Ffd0Y4aDdFdHFwQkw4TElYMU9OVlFMV3NBMUNySi1aNktLQXVlNmVQOFVkcl9McnFuNG00WGNucnZLZGlFSjBuSjZ4ZTY5Y052SVU4M2ZGTElfTzg?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-14T15:20:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Empresa de Alice Huang tenía chips Nvidia prohibidos en China: Revelan red de contrabando de servidores El Financiero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "b3e0b3a1f7658c82"
+ },
+ {
+  "titulo": "Iglesia Católica anuncia Jubileo por 250 años de Arquidiócesis de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmhhU1FXbjZfak9YTHdZUXFub1pQUWNUbUw0N0lmNXBscmtleUhwNG5STjFJaHBROHVZSmw4VDhqUDRuNUl0RVh4cnlZMkpKdkVNX3BWdzNRVUVnUVpmcWJHanp4TVFaRUNRZ21QdDNFbUdYaEQxSzRtLVl0WEM2OFFnOHM3aVZzblNCRU1KcWQ0STJHS3RZNDROM2VjSXlr0gGgAUFVX3lxTE8xX3MwWkYwNHlQM3JYYkUtNUd3dEhSaWlFMTZXdXllUmNpWkRNVUtDMGlHUnMyS2Q1eTdOTDNvMkZHU2dXNXROd1I4UE0xY3VBeFk2SXZfaVFXWUNQUEFhdDJTcnNGNlFTQUpscVlmUFk0RlpOTUMwUi1zMTV3QVZ0YVpndWJhLWFSdTFIeURkYlNlTlM2YWNTS1gyLWxpZGw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Iglesia Católica anuncia Jubileo por 250 años de Arquidiócesis de Monterrey MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3538e236cb452174"
+ },
+ {
+  "titulo": "¿Hay que aprovechar? Estos serán los precios del 15 al 21 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2hTUmNVVXlpM0RqZVRIQzZnd2M4aUNjNEE1Mm5TaHhRZnNwSXZ1QlBGY194eUpVblNGY1JsbkNyejA1WEE1TGVRZnB4M1p6X3BBY0d1eFphRXQ1LVlERkVkLWJXR3pqUnZYUjREYS1tb2JVOXN4X1VuMTY0VzBOdHJzaC14X1BxRTI5QWVjUHctay1YR0M5UEtxaGZoVzJV0gGgAUFVX3lxTE1jTzRKYkd5b3F1YjN3MVdvX1ZLZkhvcDNZWXJhTGg2OEdaUXkxSGFjREI1cU03U0pzYVB4SzB5N0p5RzlDc0psOGFCTEFhVGNuVVdiOGdGeHV2M1RNdHhBUTRXWGtwTVgyX0FBT0ZWRHdDUXJQS1ZtYUJqaWluMFN6OENYam1wRlVBNUQ5am5jdHhkWUg3MHVoSEVKVjlLTGE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:18:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "¿Hay que aprovechar? Estos serán los precios del 15 al 21 de noviembre MILENIO",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "42cf09acff2b3618"
+ },
+ {
+  "titulo": "Metro y UNAM reconocen a los ganadores de 'En Metro al FICUNAM'",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0xXenR5ZHd6NlRXNnVkY2syd2trS05CMjBwelRSMmphRjFKSDE5Qm9fR294UWtINTY5TExyUDdKR040R2Q3dnNnbDFqUmd1Ml92YkMxNm4xQUtsUTVYV2pBa2pQajEwZkJuaHVyM0VMVFVjT1ExVFlpN3RnYmdFNGg0LUs2WEdXVUxEZNIBjAFBVV95cUxOeFA5QkNiNUd1T2VNcU9kNW8wUGctTnFSZ0JUMmNhLXczcjdGbUE1M09IclJZRmNOblI3WXhsb0VSaE1vTmk3VUp1ZUpiYzREX1laekgwSXZKOVp3STQ5SkhESnN4cFVCcmtmaVZHcWdzemdMbTliV3JZUDhfcVJHdWk4ZXNQWENQeVk1Qg?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Metro y UNAM reconocen a los ganadores de 'En Metro al FICUNAM' MILENIO",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "068d332ef972833b"
+ },
+ {
+  "titulo": "Capturan a “Roomie” por el feminicidio de su compañera de domicilio en Ciudad Valles, San Luis Potosí",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlY1WVVvcGFZSlZHWThmakhpVXF0NHZnMXU5UnQ4QWkyV0xEaVJCeHM4ZWhEeTI5bDVOcmtJdk9YYzdOOGp2YjRiWG52Y3lvTHhUMlhSQUNXaHpIV1dZQWdNV2o4ZGdzUTBRRTBWZEkzY041UVZzaUFXekpfMTItV0xvcXZxNEJrUTgwdHNVNWFmUdIBkgFBVV95cUxOc0VUWDU0c0dKRHNrV3RCNGNid1Fmc3lkT1VGVEMyM1VJdDBIbWNYY0NTakpoX1RnWkpVLVJ2RnRfcUFSMjZybjBFTTNITXpfV3dOWE01TTFPT2htZ2Jtc1JtdkVhNEljTkZnSmduLTBMRWFPVzNEaWFwNXNrNzlDNm52NzZFOWxvVGd3MVNyclFOQQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-14T15:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Capturan a “Roomie” por el feminicidio de su compañera de domicilio en Ciudad Valles, San Luis Potosí Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "68a713a4c2136280"
+ },
+ {
+  "titulo": "Brigada de Registro Civil Nuevo León ofrece documentos gratuitos a la ciudadanía",
+  "liga": "https://www.posta.com.mx/nuevo-leon/brigada-de-registro-civil-nuevo-leon-ofrece-documentos-gratuitos-a-la-ciudadania/vl2279145",
+  "medio": "Posta",
+  "publicada": "2026-11-14T15:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5639b6eb51f5b60a"
+ },
+ {
+  "titulo": "Explosión de coche bomba cerca de Damasco deja dos muertos",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU0JXTmxfbmRhWFpjRFNQZkhYT2laSzBicEx4aWgtSlUtMTNiQ0ItdzhhOXZzbV9BODFMWHBOOF90YnlncXBEaWRvOFZmUllKak1BQjhyM3VPR2pmcWplMncxZ1lvZk5rdEhKajVyaUlJbGxRUVdlRWw2OXNzWkViY0RGNXZnVWZOYzBIUkUzN21TYlYyaGVTeU5wVElxR2RzdEE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T15:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Explosión de coche bomba cerca de Damasco deja dos muertos INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "129e227260c84959"
+ },
+ {
+  "titulo": "Estudiantes mexiquenses consiguen segundo lugar en competencia internacional de robótica",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVlVUZlVTIzek5zRjFaeUpVclJUcnYyb3ZYdWxkV2hVUklFS3hGUjFmT19BMzZQMUIxLXJnLU14ek1nNFZvN3M0cUQ4cFpKR1UtZ1I4cnVPelZxVXo4N1l4NkFnRS1DNjMtR0tIZjV6dzU2ck5Ua1ozUVM4WmppMHo0MFFaTkQxRFg0c1hnc2hrN05SMmhkMk5pTVBfX2VQVjY1OVpiQdIBpwFBVV95cUxQcVR5LUVrNlRLbkhuSW5lZzkxdEd3TjZCek81UGZxaDlEZHQ2VEZCal9nQ2NaVk9VbkFpczM5U3VvR1Q1MjJwVndUOExpRDBjbXpqQUQ1ZE9zZ3lkSndTUDJ4a2tuME5QUXRDaE9ZQV9RblpHQlN0ZGoxVVFWQkVHYmllQkpQRGE1SnJrNHZDSGh1cFRuSXkzVUw0NkxDYkJfTkN2bEcydw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Estudiantes mexiquenses consiguen segundo lugar en competencia internacional de robótica MILENIO",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "afddf59639de277d"
+ },
+ {
+  "titulo": "Mueren seis presuntos integrantes del CJNG tras enfrentamiento armado en Guanajuato",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/14/mueren-seis-presuntos-integrantes-del-cjng-tras-enfrentamiento-armado-en-guanajuato-295485.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-14T15:12:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "24d1ecb602687f94"
+ },
+ {
+  "titulo": "Plazas comerciales concentran 80% de quejas durante Buen Fin en Puebla: Odeco",
+  "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObV9SbG5OOHRXZjRjUzhFMy1VMEpaZVhRZGRVZmZnZkFFdlBTTnNwUkRzdk8tSUZrdko5Vjc0eTdJMHNPSzZabngyNW5tS3VsaGZPVl9QRnVOSTJRMnJLNVV5YUp3Zk1xR2NyeEZzMmFLQmxhVmdFcnZzNFFQSHZVTGlfVzZoQdIBhgFBVV95cUxQb0FIZ21rODRrQ1hqSng0UGlhc0M2dV92Z3l4eV8xSlZXNzFJcnhSU1kyUklibmRqNURwdUV5aHhPZlpwbDlLMzE1dlJBcGUwSTJuRjRDOTRPeF96ZmRyUGhiRlg2Rnk5cHlSYVVGNVdhOG9iZWRaa0xvZ3Rjbi1JMXJtM011UQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:08:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Plazas comerciales concentran 80% de quejas durante Buen Fin en Puebla: Odeco MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "43f1a588db28b977"
+ },
+ {
+  "titulo": "Habla Jorge D’Alessio del regreso de Lupita D’Alessio",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT05rMmo0V2xINFdUMDBMT2FWREhFanNBYVl2NjVGTmZVVzBNRjZQamZhQWJZb2ttbXN4T1czT3hXVElhenpmRnd3QzVHNVItM0xYNU14RFlpektOMjRXaDZ6UUFLNzJxcnZ1RzF2cURsNktmUFNEb3o0ZlphZVFqVzVOenhNN0JDaFJqOHhsVXdsQ0xQSE9oOERfUFR4WEY3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-14T15:06:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Habla Jorge D’Alessio del regreso de Lupita D’Alessio El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b8f28a1c7e2e6003"
+ },
+ {
+  "titulo": "“No creemos en absoluto que fuera un ciberataque”: EU apunta a fallas del sistema tras suspender todos los vue",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTcwaEpJemZ4UkhwMng2X2VpTkh3aDE0U3pYUEF2aS1QbWp1aWR3b1FkeXVYUHhnd3ZsX1UyMmxTc1NFREVHaGpCcFN2aEpXOE1BNXNyVUlzLVdXTW5ENTA1OFA0XzRHdFdXQ0dnOFZiR1pTUGtXLTlKV1NYaWJfM3RjVElpWGtmTXNCWmloeXhtQlFaRzFNUlVUX2MxbUwt0gGgAUFVX3lxTE1jU1o4ajBDYXZ2X3RkMWlQd2IyNklHVVpXdjllR1g3Z3FGRDg1Tmh5cURxejdmdmJ1dTJfMlNsTlVPS1JHTGoyWVN0akUycjNZekJJVEJWSy1GVzI4dFpYTmxrMVphcEVwUmd5R2o5WmdDZWpoTThxQ1Y1c0QwamthRUpUekx3dDZZNzkxQnZxa3VFZXRoRmhrMmhOUEd2NnE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:05:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "“No creemos en absoluto que fuera un ciberataque”: EU apunta a fallas del sistema tras suspender todos los vue MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7d4f881e16705f0f"
+ },
+ {
+  "titulo": "¿Qué famosos quedaron varados en EU tras la suspensión de vuelos?",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOME4xa2Q1MzY4V0JQUWpWdVU0Vl8xZVNLYUk0TGY3bDQ4V1l2ZUNRSENPUXZaR1NXYjM4S3RtS1M4YkRnMW85Q2lHTFFDZDBLYXpPdjlRZWFicXFhSU9SWTR3OHNYeTVXZm5yTFhkSU5rMVhsdFFRVG9ZU1psNDZPQXBiVTBBMFJaZ3RLYlJpREprd9IBkgFBVV95cUxNM0ZMVnpWYldBZUE2SEVxLTJhM2k1N2tSOXJvYXMzSWlzc2pHUmgtUnhuODU3MUZXeU9KQW1RWDRLcXh3TWpRaU9QUWZ6Z2QtUnVLeGFmR282NURnRXRkeGloWnJKVWg2dUYxNTBLNW5wLUtnb1RIYkxzUXZLXzRha3oxS0Q0ZnNPR1Y2cTBVTkVVdw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "¿Qué famosos quedaron varados en EU tras la suspensión de vuelos? MILENIO",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "1176077dba8741c7"
+ },
+ {
+  "titulo": "Centro para Migrantes Jesús Torres se mantiene atento ante posible aumento de viajeros",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNHh1ZXgtbnNEMVV1MnlPaXg1VDhuMUs2VjFCTzRGTkZKQ2RwRi04QVBpOEt4Smt2WW16Y3JqLUVNQldYcW5Mcmg5ei1BUmJKeUZwT08zeENURWxLa0ExQnNCQXJMLXhWcWZZR3U3aTJndTRNTGtzcm9jUF9lR0VIc1RkWEMtOW9fVkRV0gGLAUFVX3lxTFBWTWg5elpDNkhvcTRzdFhOdWRVck1zVjlrSHFfMHhvOVRoWGNodzdjcTgzX3k4VzFHc3RoRk9VVG5vXzVuYkx0cF9QQ2tLdkxGT2d4UnJ3SWZKRnN5Vl94bGx4U2EtdHRPVFdpMHZmVWR1YnhTRUNheDNwUGFLVzJ3bTJOTzNqLTU3cjg?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Centro para Migrantes Jesús Torres se mantiene atento ante posible aumento de viajeros Milenio",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "8f70eca2823784a9"
+ },
+ {
+  "titulo": "¿Los Simpson predijeron un apagón mundial el 17 de noviembre de 2026? Esta es la verdad",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnptRTBEV0JhNFEza2pWYjE4blZzdldJem5OaUdST21Oak1oM0hLTUJnaGs1c3N1dnF2MEt4alJhc256ckhINWtudGdwemFRWmF1Rmx0WmNKSmRDdG5UOUtUZFpyV0lzYUVjc2hiazVCc1FHbWVxX2pnZXllbnpDVEJ5YVB6NzJocFp2TUU5TzhJLTU5ZWdWRDVB?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T15:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "¿Los Simpson predijeron un apagón mundial el 17 de noviembre de 2026? Esta es la verdad MILENIO",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "9bd55c565ecb84d3"
+ },
+ {
+  "titulo": "Carlos III celebra 78 años con sus 14 canciones favoritas",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHJ2akIxRjJLeDlIbGdyTXhodDhUbkgwcFhTZ25hZUNKV19GWlJUSHdnMDlmVVlBQmdMbUVXanZlTEY4d05lMnY4VTc1dHZhUTUzRW9HUkYycmpNaVZpeEFaWlByM3NVbVRXblpyYTNfQ1kzSkJnQzVRSFRRQjFha0Z4cGtxVEJiRWY0WDY0T2lYOTk5NWlYY25mTlZkZTQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T15:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Carlos III celebra 78 años con sus 14 canciones favoritas INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5c49668400eb39b1"
+ },
+ {
+  "titulo": "Buen Fin 2026: San Pedro blinda centros comerciales con Unidad K9 y cadetes policiales",
+  "liga": "https://www.posta.com.mx/nuevo-leon/buen-fin-2026-san-pedro-blinda-centros-comerciales-con-unidad-k9-y-cadetes-policiales/vl2279144",
+  "medio": "Posta",
+  "publicada": "2026-11-14T15:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a011c4f2aad36123"
+ },
+ {
+  "titulo": "Comenta Jorge D’Alessio sobre Lupita D’Alessio y giras",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVFuV2NScVBxMGcyVVlDa0Q3ZmFOcWo2X0ZYWjBrb21wMFZIWUJkUE5remFpT3dtTUlBeEFfX2ZvSTN6cFpPc21sY3NfT05uSTQ3TXNRbFlqT3N4UWZycVZjZkhNN0padEhYOGlaUldKblEwd0FPcFVXbWFOT3F2Z3JQbHpMcmNJT0lOZEQ1VFE3QmttenJWSXFJbGk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T15:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Comenta Jorge D’Alessio sobre Lupita D’Alessio y giras INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "be7cf165f89b3b91"
+ },
+ {
+  "titulo": "Retiran más de 12 toneladas de basura de ecosistemas acuáticos",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0txNHY1YkRob0dscmg4NmZwZ3E0SHpxa3RJQnpCWjlFM010dWMwZHJzbjdJa3ZJRlJUNjJBZWtFV1labXRQYmhXUmJDZHRiNWJhS2VoeW84WTViU0cweTlwcWFPZFVzT0FTYmtQRG44WmhLVjNONzdrYkwteTIxb1N6R2RRZGxYREc5R2Fzc1B6S3RqMU9DNXJzTGl0b0cz?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T14:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Retiran más de 12 toneladas de basura de ecosistemas acuáticos INFO7",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "7a2a37977b882c3e"
+ },
+ {
+  "titulo": "Monterrey necesita algo más que grandes obras para transformarse, advierte presidente de la AMU",
+  "liga": "https://abcnoticias.mx/local/2026/11/14/monterrey-necesita-algo-mas-que-grandes-obras-para-transformarse-295483.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-14T14:58:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9080666953f1d55e"
+ },
+ {
+  "titulo": "Hombres armados asaltan tienda de accesorios para mascotas en Apodaca; se llevan efectivo y joyería de oro",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYm56RXBzdjlaZUJoTy1La2tYd1pBMW45Mm1mZ0VCNDlwNlhMUEpQeGk0R2JlN3p0bUoycHlzY2dxenlRTFlIRktmdVdvRlN2b0J0Zm00RkJJTlBpTEVVcmxMR0x3eEFLSmtjdzVJdE1CZmtNUlM0R1Rra0FhR2pmejQ3dFdjODA0MDJOOEhZVDM2UFo0WE5SZjZaUmxVaGNIaDN30gGjAUFVX3lxTE1VQk1RR1FOcmdZOW9BV2hFMW9SQzRlOENROWY3ZHI1V2xRdVZvTHE4YVcxYVFkWmZEVllhYVFNTlB6RXlFNHZpZ3pKdXhaakozYTNybjJLcEJSU2ljU0N3cm9qQzBuSFgxam1qV3JYSXdETndySHJCSVUtbTZobmNzbm1Lem93ZXloeTF4NlRQWWlfLTB6VEh6ZHBaQVZacnI1bDA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T14:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Hombres armados asaltan tienda de accesorios para mascotas en Apodaca; se llevan efectivo y joyería de oro MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f9f9be36e3eb1e3b"
+ },
+ {
+  "titulo": "Aprovechan puente para vacunarse en módulo drive-thru",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONExrWE4zTk8tYzhxUkdVc0NxNkRDNXJwaXUwWjg1VVpFYVV1UWFEWUQyQm5tZWZMaUVVQkVmRnh5Q1NlRUJZVUtUSjVwSWY5ZmhYc2psVC1DRXBLTG0tVWZwdldWUnQzR3YySVlkeU1MbTdRT0dlc28wQmUyVFZOTW1ndnVIT1Z3NU9odVd4UHlwRmlwSlA5RHFRYXFLOW5SS2M4?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-14T14:56:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Aprovechan puente para vacunarse en módulo drive-thru El Horizonte",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "44cce02fb09ebb2d"
+ },
+ {
+  "titulo": "La Boca se acerca al lleno total y El Cuchillo pierde almacenamiento",
+  "liga": "https://abcnoticias.mx/local/2026/11/14/la-boca-se-acerca-al-lleno-total-y-el-cuchillo-pierde-almacenamiento-295482.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-14T14:55:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cce004555628f8ec"
+ },
+ {
+  "titulo": "FSPE detienen a dos personas tras distintas intervenciones en San Miguel de Allende; aseguran dos armas de fue",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWRmNVhHWkhxQVczX0V1eXJvbXJKWE4zY0lMeHlrREZBTnlsWUhKMTRmaHpoUHhMeHg0d3I5b2NQb3VUVURIcS1CbGdwdlFIaUtuQUwtaVNEZkN2cHV0ZzRXeXFlb1NLWHZUT3BOWldxVnZkOVVHejN1ekFHUm1vNlZlSzhZUzVHcW5zODc5REtnZ0Z3dGFR0gGXAUFVX3lxTE5BS1ZVOGFzcnFKT3lVOUF0U3MzS216RTNmWjNzdGstYTJmcU9FX3JMcVZfM3lZSHgzSUZaaGYwWExOS2YyZzRhNjVjUE10ZWhPaVA2WVM0NEplR2R1RzdlbnZPbjlwSmRSQlkzNXdKVE15cVB5YXdiR0FBQ3otanJQc2c3ZFpBX0hHakJLcmNwd1FaUEp1eHc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T14:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "FSPE detienen a dos personas tras distintas intervenciones en San Miguel de Allende; aseguran dos armas de fue MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "abfb7540aae5df90"
+ },
+ {
+  "titulo": "León XIV cumple promesa y vuelve a Santa Cruz de Succhabamba",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXlyQS1SbDRLYTlNN2c4bVpFSFZhbDhxS0ZfMEp0TXJqMjg2U2g4WXQtRHVEcjVWS0lyUU9PTEZiN2JwQThzRXByMk4tNXB2TTJBU1NqNGxXSlBpZGM0SlBOVGZOTHYyYWIwYXpNWVppTkUxWHptQjBkZUxrWG92a3JQQ3FZVUEtYVE4djY1Z18taDJ2SW1XdXZWbnFhVGViZHZ5bQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T14:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "León XIV cumple promesa y vuelve a Santa Cruz de Succhabamba INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "77d1a1c2ed43ee23"
+ },
+ {
+  "titulo": "Mueren mujer y su hijo por incendio dentro casa Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOalFOMmYwZ3Y3aV9tODVMTnpLd044dzBzRjA4YjBWcHFtT0tuaU9BYmZ6b1lSOWtXaXJoaVN5ekdDV2xWWVRKcS1BTlJvaVdUaHh6OTNFcFRzX0pJci1kamRGdzFsZmUzTENRWnFxNVJucDVYQ0lYcVBKSzBQWjRPRzhzamRkMmtsd0dVNHlpUU9qdw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T14:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Mueren mujer y su hijo por incendio dentro casa Culiacán Milenio",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "2fa378d98050cc69"
+ },
+ {
+  "titulo": "Ejército destruye 38 plantíos de droga en cuatro estados",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFBPc1NBMXhCOU04MVRSNEd0bzBKcmhhaVhKX0pPa2YwMElrcFZRTjgxcEE0WmNkcm14bHhUeGxPb0hsSXhCMVZxR2w5cnJiLXdGc0g4cjJMTFZRdTJCRUs4VmN0MGJmTW5rNnkxRVZjRkJFQy15Zl9tVzc3T3FLeUtGNkZsRUQzUHl1YkpvbkhCWWFxZURsSw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T14:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Ejército destruye 38 plantíos de droga en cuatro estados INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c0e9a2bf511e9f71"
+ },
+ {
+  "titulo": "Aprovechan familias módulo de vacunación contra la influenza",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTFmb2t5bjhjNVdCSTRLZVgyMGxWZGhJazg1MHFaQ3BPOVNQcVh0aVEwSzVrb3RVd0FXZDJPbDB4Z3piNXIwbWJGVVE2a3o2dldISDBiQnNkRE15cmhnMVk0enFEdEFfWmhtcm9QNld3RW5rdU9tNG9SYnA2UUU0U1BZVm5jWmJHZXBwazdrdFJlLUdtTmJ2eVRqeFlsbkE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T14:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Aprovechan familias módulo de vacunación contra la influenza INFO7",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "6fb91965cdb7cac5"
+ },
+ {
+  "titulo": "Graban en video desgarradora detención por el ICE",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2doWGRjV2hwVXExSkVPeVU0Si0waDFDUHFyUHVZZFgwekE5Zjd5ZDFOZ1FSRWFFUGJEdW9KelFEa0g0YXdvZG1Xdm1aSENOb09kZUltU3o2ajVPVmFjdThkbkhia2RZc1d6aXJGUXd4cVQ4MTVaOEVsOF90R3czay15UFBzWlozLTRTR3BXUUVCZ1QtemNqdkdiaVBHUFJOTVY5Rw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-14T14:46:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Graban en video desgarradora detención por el ICE El Horizonte",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "b7a6b0e80b5874eb"
+ },
+ {
+  "titulo": "Pescadores de Sonora evitan que SEMAR les decomise sus redes",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGRWQXdNa295dmNXVUc0ODgzZEpnZHFzSHFkcWd2NGJrT25aVTBOTXVrVlBJeW1DWkhaM3VQTzJycjZvVlJzTjdJbkRmVV9QSHZYT1UtdDhWQ1hvekVfS2NPcjJmQWJVcVZ1Vzh4c04ycmdzbHBfakJKbW0wOFZOelBpcmdQRHFvSVdiekNldUZKRlBLSFVSMlJmbW12XzVXeWxacDlBWUViZnc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-14T14:43:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Pescadores de Sonora evitan que SEMAR les decomise sus redes El Horizonte",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "0d67364c101bc15f"
+ },
+ {
+  "titulo": "Vuelos en AICM se regularizan tras suspensión temporal en EU; piden a usuarios acercarse a aerolíneas",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWTNEM0d5cnVFdDBKb2llaTBuSzRvamk3eEVTV0d1cnQwQmhqWXoyLWZpbjBvR3p0TklNOFUwVmhtdU80aXp2X2UwUktyVDNhOHlaUWh6ZmFiWGpsOXkxdUoxSV9OdE5SWFJoQVMxWTNOSDY2MGlWczdsYWU2UWFWMlRiUUZnb2tFQ3lBbEZWaHQ4NzgzVTRIQ3ZnTWFhenhiMnNKdF9PSFc3VTV0dVNwdmlwOUUyWU5TV2ZKWHdjQ1JFYTJQQVhuUkR3Q19sTWQ3WXZQWEMzekhKQVVrS19XVlhnajJNOWlN?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-14T14:42:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Vuelos en AICM se regularizan tras suspensión temporal en EU; piden a usuarios acercarse a aerolíneas El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1535b7f8f8510e88"
+ },
+ {
   "titulo": "Maestro Shifu se entera en vivo de la detención de Gabito Ballesteros; así reaccionó",
   "liga": "https://abcnoticias.mx/show/2026/11/14/maestro-shifu-se-entera-en-vivo-de-la-detencion-de-gabito-ballesteros-asi-reacciono-295481.html",
   "medio": "ABC Noticias",
@@ -14,6 +603,20 @@
   "id": "1e8599dbd6f3ca37"
  },
  {
+  "titulo": "Chiefs pierden a Kenneth Walker para duelo ante Falcons",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd2E2YUVWUW9fUEJBU2d3M05yUC1NbFJIejk3d0xNMFpJQjdXeUpWSnQ3WGJCcVpiZzV2T0gwNmdmU0lOWnpaSzRySzhNNkY2N29sdEIwOEh6TzJIamNhQlZIY0tfWENpRmhhclNKSFl5dUVuc040V0h4MGdWVGV6UnE4OUdzOWZDNE9GTFAyYVVKLUxUcVZN?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T14:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Chiefs pierden a Kenneth Walker para duelo ante Falcons INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "614a6dc11260ba13"
+ },
+ {
   "titulo": "¿Afectará el frente frío 5 en Nuevo León durante este fin de semana?",
   "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0RrakRwUnlfV0wwRVM0dmVJWjM3R2ZJU3lZR2d1cmRnSlRzZG14ZW5SZXNCNEZzck1ESzNVc2RUNXhoeTFvZk16cGRsYVhhWkdZbDBBTE53SE52eVFNZWpXa3hWZzFtUlZEbDY4dFdBOWpYaGRJcFAzRlJNaHF0SEI2VEZCdms4ZzRLdmsxTURVN0RTeV9kMlotWjVGdUN0S0UtV21PZnhpVGRI?oc=5",
   "medio": "Vox Populi",
@@ -26,6 +629,20 @@
   ],
   "local": true,
   "id": "cedf0cb7c1f8feb3"
+ },
+ {
+  "titulo": "Hallan sin vida a un hombre y una mujer tras presunto ataque armado en Hidalgo",
+  "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEFQaHpmV2JfTDgxOXRoNGtfNnh4Z2lQVmRzSFFCRk5pVHg2dVo3V1U3ajZ5RlY2QlQ0bmxvZ0NHblJrcm1RajNoVXVXa29maE9wc0lfT2xuR0NiRU9MUXYydTRyYklOcHducVI0SDU4TjB1MVVpYlN2cUdBZVJxejE2YXd0bEXSAYcBQVVfeXFMTmJfQUhfaXBWTFhOYlNjOTVGUHBrZnJOTXlXTDRCN3JnX3ZUTWkzZjFJZEo4SnZURjBqRTVCM2Y4TGlmcWZfR1JnN3V2cTlzTWhvS3J1T3U4R3JaQ3VjYzlWS1lQdmhVOXF1ZHFndm9pRTI3MlMzZmlTczduaDJYYmU1T21JeWxZ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T14:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Hallan sin vida a un hombre y una mujer tras presunto ataque armado en Hidalgo MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a90b1fa7550c4886"
  },
  {
   "titulo": "Poncho de Nigris ofrece un millón de pesos de recompensa tras robo de 600 mil de La Postrería 77",
@@ -229,6 +846,20 @@
   ],
   "local": true,
   "id": "bd1ddbad915a4b6f"
+ },
+ {
+  "titulo": "Video: explota propulsor de Starship frente a costas de Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXQ1NzhlQkVEQnZNVjVTMEVQUFJiTTNSY0hnUzBBQzNINk9kcGluTEtWeUJpY0RETmdCNVZLRzJPZjFhZTVsV1Nza25LMlN0Ylk2UXg0azF1TTJZSS1iN1JfU3NfZ09lS2tmVWYtMVNkTGhmbTM1b245MnVBLVpoNUozRm91MU1VdXpvZUZCSUJTMHZWOWdPMXFJMHpKeVFlUU05YVZXMA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T14:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Video: explota propulsor de Starship frente a costas de Matamoros INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "747b33c8b3217eb8"
  },
  {
   "titulo": "Conoce la historia del emblemático Pulpo Rosa en Tampico",
@@ -783,6 +1414,20 @@
   "id": "a591301595382ecc"
  },
  {
+  "titulo": "Noruega vs. Gales EN VIVO: Dónde ver partido de la UEFA Nations League",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1JSMEM4WXFFekZ2TFNQM2VobU5reWlsNTFQV0hydW8wVzRuMG9JbHNEX2NrVFdsenRJM0pXNnQ5cm9IWHU3ejQ5WkpIU1pfWkJJN19hQThDbVl3Q2pVQTNvb2xSdGhDRzNRU3pVVHEwT0l0cVFHUGEzalE2cGc1SmRPa1NTWndFWkhpZ0JrN2ZoLVl6bm5RWHZQWlJUMmVMb05SN3JHVTdNOGVLRk8wMk5uNjdNbEQwQ3lKQVRB0gG-AUFVX3lxTFAxdmxQalhYamg0X1hpSW0yclF4Si03SmdwRDZMU1p2NE5VazAwOEpUY0tZTlF0WFFGbFRlR1Jnak4yelprdmxFcFhrZjdSb05iTUt5Tzh1RlRvQ2tUYk0wSUNpRkFGdm9pb1lmWW5VMndhd1RIOE9sc1hqRllGdnUyVW9tdFF6YWR3MTJuT3d0ZkxvS0d2Z2ZCUF95TVgxMUdoaVZ5V0psUUZ3a2dLRXpXcEhBNFN6WHlyRzB0T2c?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T12:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Noruega vs. Gales EN VIVO: Dónde ver partido de la UEFA Nations League Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "8877203f526cfea7"
+ },
+ {
   "titulo": "Trump critica conmutación de penas de muerte en California",
   "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXJ6ZmRLSHZsZkZ3RXQyOEF0bGNIeXBrTVMzT1NLVEhMOW5QZmx1c1E5WGRSbTNlREVSYmIxaWVXdVBBcnYxZlNmdGU2SXgwSWJFb3F0ZEF6UG1lU3l6V1J2UkgxUGxEY1o0dWlrXzBwbjloV2k4MVVENjFlOTJhQ09ybVZTd3g5MV9Bbkxna1JDeHFsdGMzUzhZSEdCbW1SWmc?oc=5",
   "medio": "Info7",
@@ -1289,6 +1934,20 @@
   ],
   "local": true,
   "id": "eb010e74b178d1b9"
+ },
+ {
+  "titulo": "Gobierno de Trump pide recursos al Congreso para sistemas aéreos: Esto sabemos sobre la suspensión en EU",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHpOc3ZOTVRUcmtodnhaUE01YnMzSk5hczlwbHh1NldrVWpSb3NQdWp2UmFYcDVFSnR6WHp0M1N6UWRyMk5mems0dEkxN0ROTllSMGpJTTFKOEhkZWdGZ3lDMk9tRUx2RGNqX0xjNnZBenpzcjVRblYzckpkUG5mdkRza0tvZHhJZ0x1NE9rSXlxaXFoTkJfRkh0dzBqRzF1VFNPMVRiRUQ3LXFlc3IwZTlXU2ZFbHktM01wWmtPeVJHLVlBaHN5SXE3ejNCb2I2d1UyaVhidGVfOTJtMVl2VE9Ndm8zTGJE?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-14T11:29:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Gobierno de Trump pide recursos al Congreso para sistemas aéreos: Esto sabemos sobre la suspensión en EU El Financiero",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "58fb186a4121a56d"
  },
  {
   "titulo": "¿Qué conciertos hay en Monterrey este fin de semana? Cartelera del 14 y 15 de noviembre",
@@ -2426,6 +3085,21 @@
   "id": "216089e4221ca6d0"
  },
  {
+  "titulo": "Peleas de boxeo EN VIVO HOY sábado 14 de noviembre de 2026: Horarios y dónde VER cartelera completa desde Méxi",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkpZVUNINkswS01QRjZFZEwtS3lyWk9SekZDdk1TN0prdG02clNnTjdyTlotVzVBNTlRamY1Z2hHcWtQVk0zbHIzd1lDMmk4dmtiRnZqWndmQlJPMkNWc2cybVNKcGVidTF1RlZ3ZmNtemhMdGZFZ29QaDZTUXJEZUNITWJ0M3FFbVBNQzg0Q1B5SzU3dnNqOU04YktMbGhTODJZ0gGjAUFVX3lxTFA4WXloMG9aM1RsWUoyeHFYaTNadmgxYjVCN1R5OHd2blZxaHo2azZSVG9iUHBId2h3OUxfYk5pVUgwWXlTRVM3S1VQR1V6YjFKZlpDem5ucjU4TW0wYTd5azBKeUMyczlLS2tNM3NKLThrWDZPYjZST2VvWl81dkhSZUtxZGxUU1hnTVhjRDJfclFkWmNNbXlRLWVKS01yTnAwNnM?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T08:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Peleas de boxeo EN VIVO HOY sábado 14 de noviembre de 2026: Horarios y dónde VER cartelera completa desde Méxi Milenio",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "68690c64d9013c25"
+ },
+ {
   "titulo": "Organizaciones civiles de Nuevo León esperan pago de 186 millones de pesos antes de terminar 2026",
   "liga": "https://abcnoticias.mx/local/2026/11/14/organizaciones-civiles-de-nuevo-leon-esperan-pago-de-186-millones-de-pesos-antes-de-terminar-2026-295458.html",
   "medio": "ABC Noticias",
@@ -2804,6 +3478,20 @@
   ],
   "local": true,
   "id": "dd5e6a809ca806a8"
+ },
+ {
+  "titulo": "Calidad del aire CdMx: ¿hay contingencia ambiental HOY 14 de noviembre 2026?",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeE9ubDBxSFlUNW9tdFRSbmU1N0xSWVo5am54LVRTcDRwQ2lIRnUtTzdCRkZYbXFieVUwa0FROXo2YzFUUWRuN2tSN21IaXhueVRmX1FIUTJJa0FRM2lwQmRuRmpWMmZwdDJIenF4ZjNpSXNsTE9POXlyRVlyd3hHQWdydGtnT3AwWnfSAYoBQVVfeXFMTkd0UnBNRUx4T3FTY09Rbnd2T01idFNNNVR4U2tqODYwQk5BRDR5V2h4LWU5YlZmSEhMQzJvS1NwMk1Kbm1ZdTZHZXRnRTNweDYzaER4cEdkUktFZlZIVkprSFh4bnpzdy05dmdVUWd5NkhvS1NOaFhJUDJGcy1rOFZxTnYtbGZKVF9B?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-14T07:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Calidad del aire CdMx: ¿hay contingencia ambiental HOY 14 de noviembre 2026? Telediario",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": false,
+  "id": "46c448bc70fd7c8f"
  },
  {
   "titulo": "Sigue la señal de El Financiero",
@@ -3524,6 +4212,20 @@
   ],
   "local": false,
   "id": "ddb2a45d21b2bfb8"
+ },
+ {
+  "titulo": "Los servidores buscan casa",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0Zib3F3VWtnMkxVbHNSRENSWjZsbmg1cnd1Y25sMkFsRTVhZEZTUnUwQjFaMW92cWFIVVdHRDJRT3JnZnNCODJjeHZHTDN5Umo3bGRQNzZ5UEViN08tZHY3TmVzanI4ZEtpaGY0OFFWa1R0Y1RUMFZtYkEwY1p4Tm55TVBrS254QV9vRWJrTkdxT2lfT2pyN0FXdmRoQdIBngFBVV95cUxNSDhsM2cydmRjLWZMRU9kN2R2SEh5UGR5YmZSWlRXYlE0WVZzRDJCVjBkd0Jyakt1WlBNSVR6anc4UzBQWjBMZWd6REFhOW1VT1RhNndyYXlHdTVTRmZKTkhwNUdjMGNmQkt5N3hkSEYxRmR0MFZ5bEozQ3VSa0RDN0tzd3gtQjk5cGFGUTEzWWN5dTYtbjROMXQwTUZ6dw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-14T01:51:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T15:39:23-06:00",
+  "resumen": "Los servidores buscan casa Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "55abda8767a6e1d0"
  },
  {
   "titulo": "Trascendió Puebla",
