@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-13T19:10-06:00",
+ "actualizado": "2026-11-13T19:42-06:00",
  "corte": "2026-11-14",
  "ventana": [
   "2026-11-13T18:30-06:00",
   "2026-11-14T18:30-06:00"
  ],
- "total": 29,
+ "total": 50,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -36,7 +36,7 @@
   {
    "fuente": "Uniradio Informa",
    "ok": true,
-   "notas": 57
+   "notas": 58
   },
   {
    "fuente": "Punto Norte",
@@ -96,7 +96,7 @@
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 41
+   "notas": 39
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 53
+   "notas": 51
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
@@ -116,7 +116,7 @@
   {
    "fuente": "Google News: Ensenada policías municipales detenidos",
    "ok": true,
-   "notas": 5
+   "notas": 3
   },
   {
    "fuente": "Google News: Ayuntamiento de Ensenada deslinda",
