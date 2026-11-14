@@ -1,5 +1,427 @@
 [
  {
+  "titulo": "Gobernador Joaquín Díaz Mena se disculpa con diputada de Mérida",
+  "liga": "https://elcongresista.mx/politica/yucatan/disculpa-diaz-mena-cecilia-patron",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:46:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Joaquín Díaz Mena se disculpó con Cecilia Patrón por no invitarla a la Feria Yucatán Xmatkuil 2026, un error humano según el gobernador.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "9a02586ee5a7ce9e"
+ },
+ {
+  "titulo": "Estados Unidos retoma vuelos tras fallas de telecomunicaciones",
+  "liga": "https://elcongresista.mx/politica/nacional/estados-unidos-vuelos-reanudados-fallas-telecomunicaciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:38:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Estados Unidos reanuda vuelos tras fallas en telecomunicaciones que paralizaron el tráfico aéreo en todo el país.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fbf713f80eff988b"
+ },
+ {
+  "titulo": "Inauguran Sistema Vial Abastos-Independencia con 450 millones de pesos",
+  "liga": "https://elcongresista.mx/politica/coahuila/inauguracion-sistema-vial-abastos-independencia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:37:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Inauguran el Sistema Vial Abastos-Independencia en Torreón con una inversión de 450 millones de pesos, mejorando la movilidad.",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "86b80e0f4472b635"
+ },
+ {
+  "titulo": "Congreso de BC pide intervención de García Harfuch por violencia en Tecate",
+  "liga": "https://elcongresista.mx/politica/baja-california/congreso-bc-intervencion-garcia-harfuch-tecate",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:36:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "El Congreso de Baja California solicita la intervención de García Harfuch debido al aumento alarmante de la violencia en Tecate.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "b3271de7c10bdac3"
+ },
+ {
+  "titulo": "Christian Nodal y Ángela Aguilar presentan nueva versión de “Dime cómo quieres” por su sexto aniversario",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRU9kbU1kcEdNSVN5NnJkaE9DdGVJbFNKcFFNOFQ4UDZ6QmEzTG1XMFN1OExfNXkxUFJNN2FBWmZNbW9RZURXTXVOMWx1RnRoYjlCVmp3UHZzTlhqOXlmVENBNkhramUzczVQcXdLcjZZTGhVX0lzQlVEb0k1R2VWSjU2Ym9BNmYwR2I1Ump1OWgwY1MyeEZWUWtPWXYyOWpxUGlMZWRsWVdnX1JpR01nQVVQNFkyaGM2SkYtS3puNHJ6LVhNaFZ1M08wQmliNWttcGZaR1FpNnRXWEEt?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T21:34:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Christian Nodal y Ángela Aguilar presentan nueva versión de “Dime cómo quieres” por su sexto aniversario Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "69183d7d8725e13e"
+ },
+ {
+  "titulo": "DIF Morelia atiende cinco casos mensuales de violencia y omisión de cuidados",
+  "liga": "https://elcongresista.mx/politica/michoacan/dif-morelia-cinco-casos-violencia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:32:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "El DIF Morelia reporta cinco casos mensuales de violencia y omisión de cuidados en menores, destacando la negligencia familiar.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6004f02c87fe5b8f"
+ },
+ {
+  "titulo": "Raúl Zepeda analiza cuotas de seguridad y antecedentes de candidatos",
+  "liga": "https://elcongresista.mx/politica/michoacan/raul-zepeda-evaluacion-candidatos-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:31:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Raúl Zepeda anunció la evaluación de antecedentes de candidatos en mesas de seguridad en Michoacán para el próximo proceso electoral.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "3ca6d9f4800411a5"
+ },
+ {
+  "titulo": "Oficinas de gobierno cerrarán este lunes 16 de noviembre",
+  "liga": "https://puntonorte.info/2026/11/13/oficinas-de-gobierno-cerraran-este-lunes-16-de-noviembre/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-13T21:30:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Mexicali.- El Gobierno de Baja California anunció que el próximo lunes 16 de noviembre serán suspendidas las actividades en las dependencias estatales, con motivo de la conmemoración del inicio de la Revolución Mexicana. El oficial mayor del Estado, David Cervantes Aguilar, infor",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e70fb3ecc02d9d31"
+ },
+ {
+  "titulo": "Lluvias en cinco municipios de Baja California acompañadas de vientos",
+  "liga": "https://elcongresista.mx/politica/baja-california/lluvias-baja-california-vientos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:19:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Se anticipan lluvias en cinco municipios de Baja California, con vientos de hasta 70 km/h, según la CEPC.",
+  "temas": [
+   "Clima",
+   "Gobierno municipal",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "0fff744f39f974ba"
+ },
+ {
+  "titulo": "Alud en Tijuana provoca daños en dos casas de Santa Fe",
+  "liga": "https://elcongresista.mx/politica/baja-california/alud-danos-santa-fe-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:18:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Un alud en Tijuana afectó a dos casas, generando pérdidas materiales y preocupaciones entre los vecinos sobre la construcción del parque industrial.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "fccee640defd18fd"
+ },
+ {
+  "titulo": "Aseguran 31.8 millones de cigarros piratas en Lázaro Cárdenas",
+  "liga": "https://elcongresista.mx/politica/michoacan/aseguramiento-cigarros-piratas-lazaro-cardenas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:17:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "La ANAM y la Semar aseguraron 31.8 millones de cigarros piratas en el puerto de Lázaro Cárdenas, Michoacán.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f928e347d82bacd4"
+ },
+ {
+  "titulo": "Refuerza Ayuntamiento de Tijuana acciones preventivas por El Niño",
+  "liga": "https://jornadabc.com.mx/principales/refuerza-ayuntamiento-de-tijuana-acciones-preventivas-por-el-nino/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-13T21:14:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Como parte del trabajo se presentó un mapa de polígonos de deslizamiento con fichas informativas para cada delegación La entrada Refuerza Ayuntamiento de Tijuana acciones preventivas por El Niño se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "da6f278eb84f5f2c"
+ },
+ {
+  "titulo": "Catea FGR estación de gasolina en San Antonio de las Minas",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamo4Y2w4MHlrTzlBZnotanBReXpQaGpCYUxjcUh6QjFxeGpMSHpGQ0hWNlByVElLYnpUVmJKTm9NdjRTblZiN0N3OFo5MlhWVHBuZkFJTUsxQmxhcXgxbVA4NG5zOHZpWUpFU3hCdE5veDhqdUtmNHJBN0JSdWJtVmdwWHNFYV9MUUptTXhVR3Q2NlF1TW9qWG02VzdmbDlWc3d6ZlJPaDlxZkNXZXc?oc=5",
+  "medio": "El Mexicano",
+  "publicada": "2026-11-13T21:10:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Catea FGR estación de gasolina en San Antonio de las Minas El Mexicano",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ca743772e483f47a"
+ },
+ {
+  "titulo": "Fracasa CANACO con pases fronterizos Fast Lane, de 4 mil que recibió solo se usaron 109; Ayuntamiento invita a otras cámaras a participar",
+  "liga": "https://puntonorte.info/2026/11/13/fracasa-canaco-con-pases-fronterizos-fast-lane-de-4-mil-que-recibio-solo-se-usaron-109-ayuntamiento-invita-a-otras-camaras-a-participar/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-13T21:09:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Tijuana.- La Cámara Nacional de Comercio (CANACO) de Tijuana, encabezada por Olivaldo Paz Gómez, no consiguió aprovechar ni el 3 por ciento de los 4 mil pases de cruce ágil Fast Line que recibió gratuitamente del Ayuntamiento para atraer consumidores de Estados Unidos durante las",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "0c1af7cbd4d568c1"
+ },
+ {
+  "titulo": "Lorenia Valles destaca el aumento del salario mínimo a 440.87 pesos",
+  "liga": "https://elcongresista.mx/politica/sonora/lorenia-valles-aumento-salarial-nogales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:09:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Lorenia Valles destaca el aumento del salario mínimo a 440.87 pesos en Nogales y los programas sociales en su gira por Sonora.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "10febd188fa9de2b"
+ },
+ {
+  "titulo": "Documental revela supuesta traición en asesinato de Valentín Elizalde",
+  "liga": "https://elcongresista.mx/tamaulipas/documental-traicion-valentin-elizalde",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:08:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Nuevas revelaciones en un documental sugieren traición en el asesinato de Valentín Elizalde a 20 años del crimen.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "9be5d263f7adf525"
+ },
+ {
+  "titulo": "Anuncian lluvias constantes, sin intensidad fuerte durante las próximas horas en Ensenada",
+  "liga": "https://www.uniradioinforma.com/gobierno/anuncian-lluvias-constantes-intensidad-fuerte-durante-proximas-horas-ensenada-n914376",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T21:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Se mantendrá el monitoreo permanente de las condiciones meteorológicas, así como la vigilancia en zonas de riesgo.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "cb9e90f3f458a8bf"
+ },
+ {
+  "titulo": "Starship completa su vuelo de prueba, pero SpaceX desvía su propulsor al Golfo de México",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ0U5YldLT3lNYmYzSWZTSTN4U2hURlkzQ3k0bWVsQzNoTXRpTnNtRkltQXJqbVNZQS0wMGxrT3ZRcF9McXBicDZBU0pmR0V0T3c1bUpkNG1za2ZJTFVSYnNtM2JERkpiVEwxdFFzdGFNdDYxTGxZVF9uZ3FGZ0ZGUHU2Nkd5WEZ2c0N3anhKTkM2LWtQSGtad3lLUzZLdzRzQmJMNllOZ3FtTlZrX2drTUVUYkMwWWF2NFI5UUllMHp3bXQ5Ung1QThEUng5cDQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T21:07:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Starship completa su vuelo de prueba, pero SpaceX desvía su propulsor al Golfo de México Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "98b201ce2fd70bc5"
+ },
+ {
+  "titulo": "Impulsa diputada Evelyn Sánchez reformas contra violencia en el noviazgo y económica de cara a su segundo informe en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbXRPa0ZzRUxrMDNqWnlvMEtaZWk2UmxISTM2YXkyd29LTVZjYnRUSU9ldUt3YzFPQ1YzSVVqN0VZVlN6VExoNFNIUzJieVRxRHV0cXJpLUVSMHUzYmFuSU4yejRJcnNsei1PdUpCQmltT3pYSzZyeE54eVBtTzZRTHNHQXRPeEVsbGotc1Z6czludi1hVGtLSjRGbkZXMFY4VDBlbnMzWTNxZWpVb3NCeW1idUEwc2pCQTd1QVdKVlVPdG8teDFuWV9LT2pZYUstMjNlWnNRNGRqdXZyUjRxNlhJd0JRMXk5enNUenl2MFo4Zw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T21:05:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Impulsa diputada Evelyn Sánchez reformas contra violencia en el noviazgo y económica de cara a su segundo informe en Tijuana Baja News",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "bb13037d86531c1f"
+ },
+ {
+  "titulo": "Cancelaciones y demoras en vuelos en Morelia por restricciones de EUA",
+  "liga": "https://elcongresista.mx/politica/michoacan/cancelaciones-vuelos-morelia-restricciones-eua-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:03:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Las restricciones aéreas de la FAA generan cancelaciones y retrasos en el aeropuerto de Morelia, afectando a varios vuelos desde y hacia EUA.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e9f32e5c85c08dd9"
+ },
+ {
+  "titulo": "Rectora de UMSNH denuncia ataques a la autonomía universitaria",
+  "liga": "https://elcongresista.mx/politica/michoacan/rectoria-umsnh-autonomia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:03:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "La rectora de la UMSNH denuncia ataques a la autonomía por parte de los poderes de Estado en Michoacán.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "118f228968da4cef"
+ },
+ {
+  "titulo": "Dos casas en Santa Fe afectadas por alud procedente del parque industrial de Fibra Macquarie México",
+  "liga": "https://zetatijuana.com/2026/11/dos-casas-en-santa-fe-afectadas-por-alud-procedente-del-parque-industrial-de-fibra-macquarie-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=dos-casas-en-santa-fe-afectadas-por-alud-procedente-del-parque-industrial-de-fibra-macquarie-mexico",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-13T21:02:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Va a seguir lloviendo y se va seguir deslavándose eso y qué va a pasar con toda la gente. Dice una vecina hace rato, hasta que no haya un muertito entonces sí nos van a pelar, y no es el chiste, el chiste es que como personas que pagamos impuestos, que nos ayude o que nos ampare ",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "cd8a5f0eddf0f5fe"
+ },
+ {
+  "titulo": "UMSNH realizará sesión nocturna sobre elección de Rectoría",
+  "liga": "https://elcongresista.mx/educacion/umsn-h-sesion-nocturna-eleccion-rectoria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T21:01:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Esta noche, el Consejo Universitario de UMSNH debatirá sobre el proceso de elección de su próximo Rector o Rectora a las 22:30 horas.",
+  "temas": [
+   "Proceso electoral",
+   "Educación"
+  ],
+  "local": false,
+  "id": "f6cfd218052c9f74"
+ },
+ {
+  "titulo": "Coyotes persiguen a mujer y su perro en Wicker Park",
+  "liga": "https://elcongresista.mx/politica/nacional/coyotes-mujer-perro-wicker-park",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T20:59:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Encuentro con coyotes en Wicker Park genera alerta entre dueños de mascotas en Chicago. Según expertos, los animales eran curiosos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "17a672cae2749d88"
+ },
+ {
+  "titulo": "Fast Lane de Tijuana busca sumar a restaurantes, hoteles y plazas comerciales para atraer consumidores de EU",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTmZZZVdkZVBRM0UxOUk3b085VmRGYXBwdzBvRWpUS0hHVHZSU1VuMWJoMGRJbk1WMm5UdnFzTHVTYVc4NExNa2pzRDJ4RXZGTHdUZzA1UTYtNzNETm5GdVZTQk9jU0hKd3B0Rkx3Nm9iWVlpTmlxWnZSenFKbkpHME5TSjJsOVZyOW1rTmsxemo2dERFa1JHOHBjQWkxZ1VpeVQtcy1VNWRFQ3FaNnE0WXpVdnFhVFVWaEZodVdHX1FtSk91Yk5wWndXaUZueWZoYWtDZmZQcFpUdzg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-13T20:59:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Fast Lane de Tijuana busca sumar a restaurantes, hoteles y plazas comerciales para atraer consumidores de EU Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "bba2fd2f882b1835"
+ },
+ {
+  "titulo": "San Antonio: se estrena la obra \"Bella Goes to Tamalli Land\"",
+  "liga": "https://elcongresista.mx/cultura/san-antonio-bella-goes-to-tamalli-land",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T20:57:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Se estrena \"Bella Goes to Tamalli Land\" en San Antonio, una obra infantil que aborda lecciones sobre autodisciplina y generosidad.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "27fae9a586a0a6fd"
+ },
+ {
+  "titulo": "\"Quiten las cámaras y que no vuelvan\": San Diego, a punto de apagar sus 505 lectores de placas Flock",
+  "liga": "https://www.uniradioinforma.com/sociedad/quiten-camaras-vuelvan-san-diego-punto-apagar-sus-505-lectores-placas-flock-n914374",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T20:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "San Diego podría ser la ciudad más grande de EU en apagar todas sus cámaras lectoras de placas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cc95d3c38d121882"
+ },
+ {
+  "titulo": "EU levanta la suspensión de vuelos tras falla en comunicaciones; descarta ciberataque",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUlZOUnlRdEVZQ1dPclBjQkFyNE5YaHdMT2o4UnZoV1hfcVJyNjRJWkx2aEhaVTFpclRybW1mLTFzRVJUVEJTcjd6RTBMSDVBdFh2RTF0Z0V0NFZFdjZoVFZyei0xTkl6ajZuV0l6NHJEbF9oSkhlN203Qk1uTjZ0SFVQZlFyeXJBTzJDT0p4aEtqcEV5MlV0Nk5BcW9qNUF1MG5CUm9lOGpUVEhxSnBJTWVJMFhfU2Fqb2RYaGtKNlE5c0p2MVFJQmp1YXdSVUFq?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-13T20:56:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "EU levanta la suspensión de vuelos tras falla en comunicaciones; descarta ciberataque AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "31f16d9445b9beea"
+ },
+ {
+  "titulo": "Colonia El Simbolar celebra su 56° aniversario con actividad deportiva",
+  "liga": "https://elcongresista.mx/politica/nacional/colonia-el-simbolar-jornada-deportiva-56-aniversario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-13T20:53:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Colonia El Simbolar celebró su 56° aniversario con una jornada deportiva que unió a jóvenes y familias en diferentes competencias.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d03daeeffd5104b5"
+ },
+ {
   "titulo": "GobTam y GobNld invierten 4.2 millones en educación en Nuevo Laredo",
   "liga": "https://elcongresista.mx/tamaulipas/gobtam-gobnld-inversion-educacion-nuevo-laredo",
   "medio": "El Congresista",
@@ -73,6 +495,20 @@
   ],
   "local": false,
   "id": "32bd3e220ce0df66"
+ },
+ {
+  "titulo": "Toño Astiazarán asume liderazgo de los Defensores de Sonora del PRI",
+  "liga": "https://www.uniradioinforma.com/gobierno/tono-astiazaran-asume-liderazgo-defensores-sonora-pri-n914372",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-13T20:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Alejandro Moreno encabezó su nombramiento.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "7991b00fa543e437"
  },
  {
   "titulo": "Lluvias dejan 22 incidencias en Tijuana; Protección Civil alerta por nuevos chubascos",

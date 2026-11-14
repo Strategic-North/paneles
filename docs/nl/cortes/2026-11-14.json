@@ -1,5 +1,485 @@
 [
  {
+  "titulo": "Falla eléctrica en tanques de Agua y Drenaje afecta suministro en Guadalupe, Apodaca, San Nicolás y Pesquería",
+  "liga": "https://www.posta.com.mx/nuevo-leon/falla-electrica-en-tanques-de-agua-y-drenaje-afecta-suministro-en-guadalupe-apodaca-san-nicolas-y-pesqueria/vl2278972",
+  "medio": "Posta",
+  "publicada": "2026-11-13T21:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "0c921e1df01c68ea"
+ },
+ {
+  "titulo": "Desmantelan laboratorios de droga sintética en Jalisco",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUTlQbXg5aWIwak1PTGt6ZmpSVDIya3BlOHBBVFRTbXRIZ2w1Vk82a2hkQVF3ZUNxZjI5WDl5dGprZnN3SWZkbGpKVzVzN1M1U3EzeEp6OHJxUlF4YXpPOTM5bkIzSWJ5Y3FUbVR3V1dLY2FxYkloU2o3QnFIXzZHUzJYY1NkTXducno2bGVpTXdHWGo4ZVA4UXVmYjkzbjRVWEFv?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T21:48:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Desmantelan laboratorios de droga sintética en Jalisco El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "733744a0663ce90c"
+ },
+ {
+  "titulo": "Poncho de Nigris denuncia robo de 600 mil pesos de la nómina de la Postrería 77: ‘Pasó una desgracia’",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRDNObkJMQVNWcTVXaHlLR0t0My1kQXVQWmhyWk96QURmM2RYLW85UlFGNEx4SEZQNk5nUjE1RXhZcndBVTROVWRBTFh6eXI1S1dJcHAwQjhOek43MXpVcmpfTzJ6M2NoUnJiOTlwR3hJQzZabGlNSWt0QmRDYlJnWjdYNVpQSW5PbkZZMjN5TkNtRlFLWTZKMWlleEl4VXFpWEpEUFdSeWV1Qlc1SmF4bURZdVhFb2szSGRsYk5YM0xfQm4xcC1DMUNQaTJ4dnYxZ2c?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-13T21:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Poncho de Nigris denuncia robo de 600 mil pesos de la nómina de la Postrería 77: ‘Pasó una desgracia’ El Financiero",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "27430620581f628a"
+ },
+ {
+  "titulo": "Aseguran centros de producción de narcóticos en Jalisco",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0wyZktoNFdMU1pXdVpyeUJ0cEktWHF0NHRnbzBMRkJ1ZTNDSFN1c2swS1NlQWtsM0g1VkpVX1hwZ284UFY5Mlo2b2FZTFZOWUF4M1MxOUFGMWVUeXFsbHRXS2xISk9WRmlrUVhLX3dHaXMzMFRsYnZVVEs1QkNhcHNCaXl3TTZXZmpWaGF1WTRjTlV2WlRz?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T21:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Aseguran centros de producción de narcóticos en Jalisco INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "dff11a1e1bd12f82"
+ },
+ {
+  "titulo": "Reportan fallas en suministro de agua más de 400 colonias en cuatro municipios",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamVfRXQzb2VaaXlCYlZFYXY5bFdLQkFWLVg1Mlg1aXhFcS1PRHBMb2g2c1Z5a09HMDBybkdZa050WXliSXpHZ21MdXlRdVozSkRSUm1Pc3JJVEtiZDRvSS1FSUVxWENxZlc5c1RRTTZKX1pYck50MHYxQ1prOXhGWWcyTFlPbUdieTlSOF9hNzh2RnlvMXRDSWpTbGFqUVFsVFVoVUFCYldmclBQLVVIOVdURktyTGhYTGFIb1RWSmgwemJEamNJVE1LZkFWZW94SHNj?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-13T21:37:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Reportan fallas en suministro de agua más de 400 colonias en cuatro municipios Reporte Indigo",
+  "temas": [
+   "Gobierno municipal",
+   "Agua"
+  ],
+  "local": false,
+  "id": "39511f3d82c9d31b"
+ },
+ {
+  "titulo": "IP estima un 2027 complejo",
+  "liga": "https://horacero.com.mx/tamaulipas/ip-estima-complejo",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T21:37:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Ciudad Victoria, Tam.- IP advirtió que el comercio formal enfrentará un 2027 complejo por las reformas fiscales y por la llegada del dinero digital. El presidente de Canaco Victoria, Federico González Sánchez, señaló que a nivel federal, el Paquete Económico 2027 ya fue aprobado ",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "481e3e9cf2f43ee4"
+ },
+ {
+  "titulo": "Sorprende Mac DeMarco en Monterrey con playera de Tigres",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWVJOTd1VWI0RVBURklCVFlVcFNkSkw5YUUxWVhqdjVOalZBN0lBWWp3c1RjTzhnbGFERHRoNm93OE1xRF84VmowSGpqSHdhbnNsTmN2U0RkcW5LNGZfQkwta0Ficm8yTzJPTXF1cUhXblJMdk1CUTl0M1JYWDZCWmhDVWpXSTZyTEFXN3FsZHpvU1Nna1FYVnpmZ01ubFE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T21:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Sorprende Mac DeMarco en Monterrey con playera de Tigres INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "677495f376630e2f"
+ },
+ {
+  "titulo": "Suspenden feria de pirotecnia para salvaguardar manos de menores",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM25aNFoxX3pSSVlkOWZrY1Vwdjc3REFBYlhrVDhhLWlKOEtpbmNkajNyVjRMc25fMVk1anFyaXBENEgtVzRyS2JmZ1NWUDh3VVB1WlhsY2stOWY4ak56ZzJZS0RROHhIRDZ3ZGxqZzAzdm1EOEE0ZzNQVHktREcxcVQwRjljd2szSURIQjBucGxjWHNyQ2ZTN3hSVGVZdHFDMWYzaU81QzRSTFNoNGNNQw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T21:33:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Suspenden feria de pirotecnia para salvaguardar manos de menores El Horizonte",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "a3aa6084be5be720"
+ },
+ {
+  "titulo": "¡Se llevó ropa y tenis! Cae presunto ladrón de boutique en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUpkMzBuOFNQN3piYnBxQXc3Z3Fvajh2Nm9DOWVXUHFfMnFtTDV5OHI5MTVwVHhvcWNGWmxFQmNLRE5tekgwem94RElUYmlSRUFsejVCaVUtZGd3Ukt2TkQ0U3AtSlIzY0U3X2hoZ1FXWW4tUklmR1NxMVI0czlfSGF3VGxmR1V5cnphWjRtM0taZ2JBdkdDbUxWQ0NfMGhCM2g1ckpxcVrSAagBQVVfeXFMTzFVS3ZNVC1JeHc5SEFlMWtOTjQyMW1zSTNIdGUzSXhjQlB1TzlyRW1tR2JPb2NwWHZvX0hrVHlnQlotRHBMZHZKZFYtbzdlMGF2QzZlMEhVeUpQem1GanJNcGdZdTc4RVhheEZmNG50aXdjaUF5bU1OaXA0OUNHRXdGLVc1LS0xLVZ1QzlvSFplRk85WjRvMlh5UXZVdXhjcnFOcXBULWg1?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T21:28:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "¡Se llevó ropa y tenis! Cae presunto ladrón de boutique en Monterrey Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "72aa4ad8b14a853d"
+ },
+ {
+  "titulo": "Sentencian a exentrenador de gimnasia en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWs2QmFxM1pnVnd6Q2dkMmoyYXhvYW1kOE9PU0dJM3RlbGtRdlZqbEFNdVFiTXlGMlkyQnY3T1otRWRaX1JZLTZncUR5OHdOU2NSMFhOQzJLdXR4WXJaRS1ySTBISm1wSXpZMXdZenZnTUFQYmVqR3Q1dUh4SWZxbnFRcmZuNXAtaXpLTkIxXzFmSkd2NWQySjVmN3RNVWh5T2fSAaIBQVVfeXFMTklDQ1lMaE1FVnAtMTNzQ2xneldHMmVkUUNZN1cwbWV0cWVfSTZMcThuNFluSUpzRUx1ZGpJUzI0RUMxOFRLb0FuTEh4YVltWEVtRUJOU1J5RDBoN19pY3BvQmM1czMxVHpsLTI3Y1EwUnEycmtSMzBhRFIwU1hDeDM5bXJYZ0hCdVpRcWhUQVcwSUNDT0ttUzNoLTQ4WGdCNGdn?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T21:28:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Sentencian a exentrenador de gimnasia en Nuevo León Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "17722ec29bfc5bd3"
+ },
+ {
+  "titulo": "Cuestionan a Asistencia Social por transparencia en Yo Jalisco y apoyos a discapacitados",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3NhbVlGY18wREdJNXl2OHpwTjU4a1c0Z1dBalpld0pZMmlBdFZPanI2ZE1TemdyeGdCcVZWaXdCd0VnWmsxd0FRVl81d2w5VVdFaWU5WkFQT2RGdl9WTHhrdS01ZVltekxNLW56OXNSaWRvMG5majM0WnhhS01TaTRmRmloX1dxS1dtNWdFd0JNc3lS0gGUAUFVX3lxTE9Pc2FtWUZjXzBER0k1eXY4enBONThrVzRnV0FqWmV3SlkyaUF0Vk9qcjZkTVN6Z3J4Z0JxVlZpd0J3RWdaazF3QVFWXzV3bDlVV0VpZTlaQVBPZEZ2X1ZMeGt1LTVlWW16TE0tbno5c1JpZG8wbmZqMzRaeGFLTVNpNGZGaWhfV3FLV201Z0V3Qk1zeVI?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T21:24:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Cuestionan a Asistencia Social por transparencia en Yo Jalisco y apoyos a discapacitados MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a6c11253db16aa0b"
+ },
+ {
+  "titulo": "Prohíben feria de pirotecnia en el municipio de Arteaga",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTdkd2JXQzV0WGlJak41NDh6UjBHQ0wwVi03d3hLam1DSVlRZDMtX0wzNC1jRDBiNDZRMlZaYUFFS2JwVXF1VWYyYmxaLU9rdE1HR2RPWXdwS0hhTGhSVnBfUlBVajlUWUVTajgxXzdvTXJnWkxqNENHMU9ZbFhidXh5ektkQ2RhUUxPaW1uSVdyUTFESEpZ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T21:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Prohíben feria de pirotecnia en el municipio de Arteaga INFO7",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "de003eb4f54d4171"
+ },
+ {
+  "titulo": "Abarrotan contribuyentes oficinas por descuentos",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM08zU2I5bmxfTm1RYkoyb3E4QklzVFVNRGJvLVM3NDJnNUlFREc2bmhNbFVlMU9aMU9LbjBSWng1dV9aRHZMN1pkUEUxSldkc0EzdGVFLXhIQ2VVUENLUjU2WTdSTVAtR0R6MzJMLXNsZVR0bWcxNXpqcE41eWFWMlJ1RjUyMmJjZFI4b0tzdktNbTFGcUgtbjc0aw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T21:22:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Abarrotan contribuyentes oficinas por descuentos El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "817fb72c3c27a061"
+ },
+ {
+  "titulo": "Inicia en Díaz Ordaz la edición 16 del Buen Fin",
+  "liga": "https://horacero.com.mx/tamaulipas/diaz-ordaz-buen-fin",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T21:21:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Con el objetivo de fortalecer la economía de Díaz Ordaz y respaldar a los comerciantes del municipio, la alcaldesa Nataly García Díaz, acompañada por el presidente de CANACO Servytur Camargo, Dante Villarreal Vargas, integrantes de su directiva, miembros del Cabildo y comerciante",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "35e56e98a2743fd5"
+ },
+ {
+  "titulo": "¿Quién paga la factura de cuidar en casa?",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcURqd0lEX3hLV0lNSWwzcFo5aTJ6NERxdHoxVkpiMUk5SkJhbnZHU3czR2ZNRUc0R25SYlFDUV9WNGQ2TzlfaHNreUYxZlJVQWJvQ2hWaE0wVUlGRFJ5VjdRRVpsRzFiX3lzZHlNNnZidGtYVUhDN0VSNlgxZi1xUlBUWDBHWThHNWduYWE5ZWVvSmNMdzYyb0g2Mm4zOGNKRnhLWElhNFpUYVk?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-13T21:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "¿Quién paga la factura de cuidar en casa? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "68ad1ba4d646ef6d"
+ },
+ {
+  "titulo": "Logran afectados por 'Lady Tandas' acuerdo parcial",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmZMRmE4TEtTck91Y2t1WmE1RnVKOW5zZ1J1djQtQng2NnV1TFlDck12XzVNTjhDR2lqNDZMR2s2LUtIZDY1WUtnTS1IcUZwT1N2amowbFJvbWU4WDhwbHRESU13VHdmbVpiUmtpTU9aLWFmRjdvczBzS3lybVNWa2VROTJzUWxxRWJncEZjY19OWTVKVFNMVXYxOA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T21:17:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Logran afectados por 'Lady Tandas' acuerdo parcial El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "18790e1b0f0f98c7"
+ },
+ {
+  "titulo": "Paro aéreo en EU genera pérdidas de hasta 950 millones de dólares",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelBwQXctTnFleUJiVUZvS1N4dmcyenR6a3JJYmFBSDRCSnlVQ3h2WWkzdEozOWRpZU40akZmdkkwOEk5Z1k5bERSNExObmJvZnd5VnVQX3NIdzdiWkxwcW9qU3FiZkVyZjBiUUMwanp2dXFWUkhVSHo5SjJKUFR5TzhZMWhZajc1T2NSdjBuYnVyMGFZbXB6d2tPbjZ4S29HTE9RWkIwbkF3TU85VUJvS2FQQmRVSVJuQWNyNdIBvAFBVV95cUxQcTBUOVVqbFVDX1ZYMmoxSUFsNll2WGxvcDEybUNvcC1IZWhHMEY4RGRqc3NmOUUwcWZYX296aVBNYzZ0cjNQX0FXNkdMNVVZajV4dTRtNXR4dEdCbFhXYnZ2VjJtaGhRM0hlQnhBVzdBMFNyQ1dpUjl0endpNTFsSGpEUU1pX0hBUVIwNGx3RXpJWERwRk9pR3ppY283Q0FGaWdlRThtQm1Gc3RSX0JyOHBSWlpDRWNTNjF1RA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-13T21:16:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Paro aéreo en EU genera pérdidas de hasta 950 millones de dólares MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8b421168547a9f6d"
+ },
+ {
+  "titulo": "Encabeza José Alberto Granados Fávila arranque del Buen Fin 2026 en Matamoros",
+  "liga": "https://horacero.com.mx/tamaulipas/buen-fin-2026-matamoros",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T21:16:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "El alcalde José Alberto Granados Fávila encabezó el banderazo de arranque de la edición 2026 del Buen Fin en Matamoros, que se desarrollará del 13 al 17 de noviembre, considerado como el periodo de promociones y descuentos más atractivo del año. The post Encabeza José Alberto Gra",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "154be5d1e144abf3"
+ },
+ {
+  "titulo": "Abarrotan cientos de contribuyentes dependencias por descuentos",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREFoRExkOGRHbE5faTIxQnNSSXp3VFA4MFItRS1yMDZKMHZydmhCOGEta050TnJjTFV5NE5rX1ZkX1U5UlhpTEthOURteEx0WUxidjJVMFY1ZnI4THBnVzRPM2dyeFQ0M044SkMxdHFDQVJCc0laUGFsRjFickIwVDJNcHlna1NsdGZWSUFoUS1pclVFbzJHc2Fyak1qMG5JRXc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T21:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Abarrotan cientos de contribuyentes dependencias por descuentos INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "916506662d69f88b"
+ },
+ {
+  "titulo": "Refuerzan la seguridad en Saltillo y reconocen labor de policías",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlNBOUhTb1pPSHFCbW45VThKczZuMlo1b0o3Y3VyNHFhMV8wdWt1d3ZpbU5meVVSTl8yTV9yOHp3RDZESzBxTWJDa3lZajNUSTBUQ0Z2azlPc3RFYlg3aUxER1EyZ25zbnR3ZGp1SE9OOVZ0bVdlNkEwU3ZYQUZFQ0pKdTNjSDY0Ri0wR0hqMFdSZkQ1Z1BLSEh2WFRGOExjVmZSbi1ZdEhEX2tzSVdmYQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T21:12:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Refuerzan la seguridad en Saltillo y reconocen labor de policías El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1d5ded5a797150fd"
+ },
+ {
+  "titulo": "Arranca en Ciudad Madero operativo de seguridad Buen Fin y Navideño 2026",
+  "liga": "https://horacero.com.mx/tamaulipas/ciudad-madero-buen-fin",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T21:07:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Ciudad Madero, Tam.- Con el propósito de garantizar la tranquilidad de las familias, visitantes y consumidores durante el periodo de promociones del Buen Fin y la próxima temporada decembrina, el Gobierno Municipal de Ciudad Madero llevó a cabo el Arranque Operativo de Seguridad ",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "e89c597677929751"
+ },
+ {
+  "titulo": "Pretende Canacintra que empresas locales participen con Pemex",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEZNOFV1eFRrdlNDajN2TVF5ekJOaU4xQ1lkUHo3WUFVQWxBRU9femdwcUQ5RHdRMnRLdlBvNkk3VjVueTkwWW9VdGlBRzBLdDQ2UVNTZTE5STBRSk1HMjZEei1GUHM3SEk3RjVGOHNTc29LNzdPcVdELXFmWUV3OUp3QjM4WnFPWmpTcFdFcTlpb3ZYZkpBQ05ZcUNRNm8?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T21:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Pretende Canacintra que empresas locales participen con Pemex INFO7",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "3b2b83590095905d"
+ },
+ {
+  "titulo": "Varada y perdida: Karina Torres confirma que le revocaron su visa; estaba en el AICM",
+  "liga": "https://abcnoticias.mx/show/2026/11/13/varada-y-perdida-karina-torres-confirma-que-le-revocaron-su-visa-estaba-en-el-aicm-295446.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T21:06:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "cca66e60081afed6"
+ },
+ {
+  "titulo": "Detienen a conductor que embistió puestos de mercado en Monterrey; le encuentran droga y dinero",
+  "liga": "https://www.posta.com.mx/nuevo-leon/detienen-a-conductor-que-embistio-puestos-de-mercado-en-monterrey-le-encuentran-droga-y-dinero/vl2278967",
+  "medio": "Posta",
+  "publicada": "2026-11-13T21:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5b376c243288aa72"
+ },
+ {
+  "titulo": "Prevén baja presión y cortes de agua en 443 colonias",
+  "liga": "https://www.elnorte.com/preven-baja-presion-y-cortes-de-agua-en-443-colonias/ar3314600",
+  "medio": "El Norte",
+  "publicada": "2026-11-13T21:04:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Agua y Drenaje informa de baja presión y cortes de agua en 443 colonias en Apodaca, San Nicolás, Guadalupe y Pesquería, debido a una falla.",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "60815503b4e19d97"
+ },
+ {
+  "titulo": "Aseguran 32 millones de cigarros 'pirata' en Michoacán",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1BJenNxNHQ0OWpfdmc0N2dQa21JMUUyZERtMGVZTUVsVnV1Y1R5OWxjYXMtZVpLR1R3VjRNT0tDT0h0T1FINi01Mjh5Y3FLN3oycnEzU2pnTkw3SjRwSHhHZHNTb1VSWlcyR21QWnNhLXVjX3B0S25wMU5OR1FnaUM0VHdLdl9MUVY3S3JTQWY3aUwwTnRxci1URi1jRTdu?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T21:02:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Aseguran 32 millones de cigarros 'pirata' en Michoacán El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "43f057d00070ecd6"
+ },
+ {
+  "titulo": "Refuerzan seguridad y premian a policías en Saltillo",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3VVR18wWldTaFNvN3VHWXVhcUo3X2RaandQQnh6NnQxWkFjRlJ4UTBWdnRtRWxncnl1eVo3S0s5V1BibzdmckNoN1RPUDlmYUd1UGtGU2MtQlQ1ZDNMV3VBMmlBckZYdVhHUWV1Rm4wdWVKLTBCZjlPRWU4bWtzM1RIb0FieFJsS05zXzZxN3NIS2c?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T21:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Refuerzan seguridad y premian a policías en Saltillo INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c693c1e18acd70db"
+ },
+ {
+  "titulo": "El concreto ya no será el mismo",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQW05NjVQNlJtc015eEdlT3M1eWtKcjF5TTdrcHgwaEd4QWw4Wm96aWF5RTdXWkNKM2o1MXVCR1F4eGVhR19oUnFPTjlfVjE2UjRoUnhpdlozcDdfVWg0NEF5bmRMZlFoTVhTVXlpcDhJeEdNN1RxWUE1bEx6b1M1QUFFV2YzRHJmazdWNFJfdEZUeVY4YmVrMzMxcXBRcDE3OEFLUU0ybUNUWUdULTRnNw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-13T21:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "El concreto ya no será el mismo El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8706033e909fc43b"
+ },
+ {
+  "titulo": "Aplicarán cierres viales en Monterrey por Desfile de la Revolución",
+  "liga": "https://abcnoticias.mx/local/2026/11/13/aplicaran-cierres-viales-en-monterrey-por-desfile-de-la-revolucion-295445.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T20:57:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "64b29eb04f7c00d9"
+ },
+ {
+  "titulo": "Sacude sismo de magnitud 5 la ciudad de Kuqa en China",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXdmZFVQVmZyV2tieWtNc1J1SG5mT09BeXlaOEZETUNlSERmT0MwTk9ZeHpYWmVwRVpUTHlWckF1eGEzeEJxdm5kSlBZOEZkUWVJUWU3NUp6b1NVRjlhUHJTVmpCVDNPQlVWNk1JWTQ1bmkzUk5kS0U2d291YnNWb0d1bC1jSGtQQnRWdGlTT3RybXpTNmhwZHdfZw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T20:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Sacude sismo de magnitud 5 la ciudad de Kuqa en China INFO7",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "bee7d2ffc72217da"
+ },
+ {
+  "titulo": "Hoy No Circula CdMx y Edomex sábado 14 de noviembre 2026: qué autos descansan",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc29ZOUhVYkhoMF9BbW54YnJhOVRYS3E0Tlo3VUc3QzVvcEYxanc1dWFqT2hKY1g3cXZsZkhDWS1mSXp3TEJjSGNyTFdZZzg5MFBYSHc3dHJ5NVp5ZF9lSmx3V2x6dW5IaWVHejBaR2FKZEZhSmNHVW5mTDZtV2F2SHBFNnJJNTYwVHJOcl9QRWRSZUl6NkJrY2FyS1hpWnpMVllkeEF30gGmAUFVX3lxTE5TT1JSejdxUFl2dWNjTGRlYjVBVXdoS21wcFd6ajRRNVZyTnBxdUptZEFCNlNSc0RuMkJvQjU4R2JNRVRZLUxlRUp3cHZwTHYtMkZqQWZIYkNJRXZyTk10NWZnNUN3c29CSkNJX0tFN0ZEMC1OZ0gzSkFQU2lhV1VGdXBZVFZRWmFyRi14ejB1Q3JKWjRCeGlsY1RqdEY2UXJlZm5sT0E?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T20:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Hoy No Circula CdMx y Edomex sábado 14 de noviembre 2026: qué autos descansan Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0e29c0b95c0cc6ba"
+ },
+ {
+  "titulo": "“México y Perú fortalecen cooperación para impulsar una justicia con perspectiva de género”: FGR",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVHhhZWNGRElJTU5TblFPT3loakJhbFY0QmdhQWVOUmNickpWOUppN3V0MW15YkxRUzZfaGVGMUdUSXNXamMwQTBMQTI0SG45a3piaVVZcFZQOHp1ZTN0SkhFTDUxSjVqdzd5cXBsNDRHazRabkZJQUt1WU16eHJseXdzcGw2emJDM0Zfb29NTmk2ZGZJNjVjYlNNMkd5N1MyRVpSQmZHOEk5a2o5VlBVNWdfOERvejZuYTZaU0JmNzNCQnVrTkVsLTZBS1dEUk1LMU5JSk05TWttRWpTNWUzbHBkdUVIZw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-13T20:55:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "“México y Perú fortalecen cooperación para impulsar una justicia con perspectiva de género”: FGR Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dcd367927186c2ff"
+ },
+ {
+  "titulo": "Obtiene FGR sentencia de 50 años a sujeto por robo en carretera",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFMzN041OUxWVHdqdVcwZFJmcHdpU1FLS09EbXlBZmdmS1NlYTFhNUg1LWhGYkUwU19LLS1XWXVsMk5EVUtuMTVLUUlXaVNYQmlKN0pXN1lQMHZZMmFkdlowYWxqWUVtV2htWDlqbm5zMm9fV1k5a1d6VTRWMk9NSHdud1dXSzEyNGhYa3hPYXg4V3dSOVY2Z1d6NDVaUy1DTXc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T20:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Obtiene FGR sentencia de 50 años a sujeto por robo en carretera INFO7",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "e9dc512e13060b07"
+ },
+ {
+  "titulo": "Recrea Bizarrap emblemática escena de Hollywood en restaurante",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUJHbnIzaE52eFN3WDYtYm10eF80MWs3UURGdWJQb1NCWHgtTnJTWEJMdzVOenNmTXQ0dzZBb1Q3a1J3ZFRiU0tBN1p5SnRzX2M2LTZxTlBBNWdIX2J3R2U0YnI2SjJ2d2xyRGNpemEzTjZjcGVtYm8tejBWWk85ZzlPMi1EOFh4MFpxZEdzaVdrN1p6Y0JIc1RXc1RtdGZKZHgxUnV3?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-13T20:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Recrea Bizarrap emblemática escena de Hollywood en restaurante INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "35a71665eed07ef1"
+ },
+ {
   "titulo": "Sheinbaum inaugura la Universidad del Deporte en Puebla; garantiza beca para los estudiantes",
   "liga": "https://abcnoticias.mx/nacional/2026/11/13/sheinbaum-inaugura-la-universidad-del-deporte-en-puebla-garantiza-beca-para-los-estudiantes-295444.html",
   "medio": "ABC Noticias",
@@ -40,6 +520,20 @@
   ],
   "local": true,
   "id": "5eb5b928aca26618"
+ },
+ {
+  "titulo": "Auto se mete a mercadito y causa destrozos; conductor fue detenido con droga",
+  "liga": "https://abcnoticias.mx/seguridad/2026/11/13/video-auto-se-mete-a-mercadito-y-destroza-puestos-en-monterrey-295442.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-13T20:32:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8636b00b58ae9be2"
  },
  {
   "titulo": "Disputan segunda parte de la jornada cinco de Liga de Naciones",
@@ -674,6 +1168,20 @@
   "id": "dc1b5d48d1b089c9"
  },
  {
+  "titulo": "Realizará la UANL la Cátedra Alfonso Reyes en Madrid 2026",
+  "liga": "https://horacero.com.mx/nuevo-leon/uanl-catedra-alfonso-reyes",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-13T19:06:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "El Rector de la UANL Santos Guzmán López inaugurarála séptima edición de la jornada alfonsina bajo el título “Alfonso Reyes, una diversidad de caminos”. Por espacio de tres días, académicos y escritores de México y España dialogarán sobre el legado y vigencia del pensamiento crea",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "6152ed3f7ff0a31b"
+ },
+ {
   "titulo": "Invertirán US$500 millones en gas natural para Nuevo León",
   "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMi1ob2xmdkxLZG5PSUdNSnJOUTl5dGZocVhLNTRfTFNxZ0pPNHg5eVB4SjlJZmJHdG0zWWVnZzBXemx3XzBzaXhzSnNud0w5cmNtLVR4YUNMMjFMYzBZbkNlZThiTENVdzUybkg2Vlp0dU9tbUg4QlU4UW9sOHZ0bHY2T3E5M0k0NEJOamhhczhCS1pYNjJIcVJXQTBjWk9NQjBGWFNPN0o?oc=5",
   "medio": "El Horizonte",
@@ -873,6 +1381,20 @@
   "id": "6f81749b113cd703"
  },
  {
+  "titulo": "Asaltan a cliente bancario y le roban $600,000 en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlZPOGt4dWs0emY0MW9ZXzlNVVJxSmdqbmhPb1F5VlllSkFmODd2YnVCSDdZQWwwVEtJeTEyR0t0ZDVHTFUxQzFYUTF6bm1Ebms5elZxM1pkQzdaUzBXRm84Yml6TTFSdVFrdXBmSUFHcktOMXhHVExNSlB3SnkyYUFCNVp6dF9tLTFSaUFWUTVlNXZ2OHBpUTc3bl9NaDluOEdqWWdnYlBnUQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-13T18:44:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Asaltan a cliente bancario y le roban $600,000 en Monterrey El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "af498bcc924581eb"
+ },
+ {
   "titulo": "Sheinbaum inaugura en Puebla Universidad del Deporte y anuncia beca de transporte para universitarios",
   "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ3BRUURyYTZSRzVxUUllcjRfMVg4bDZ5SkRzNUVRYXd1SERHc2RJcjl0aGh0cEt0SVNWV3M5Qnk0M3hTcDZEQlFoOG56aEdmQWtlUDdwR24tSnZsUWZCRTRvYVpyanpPbFRZaFJjQmRtZ1N3X0R1bXUwb3gxTTZ5RHZOdXNxWDdlQXNIdUt3RUlkNkkwOTdyN1VyZEtiOXYtR18yY0hBdUtZY0FqLVBVQXBFM3o1QWJUbGpuWEFaYVM1QUZ6MnNITjhGbFFVVnJhbUdfbmZqWUMxdlhmbUV0NGNEaw?oc=5",
   "medio": "Reporte Índigo",
@@ -971,6 +1493,20 @@
   ],
   "local": false,
   "id": "c357117ca0a90076"
+ },
+ {
+  "titulo": "Exige Claudia Sheinbaum informe al Gabinete de Seguridad sobre exfiscal de Chihuahua vinculado con la CIA",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaF8ycFBZR1ppbmV1a29vVDRhMGxDWkxBUFlnWVYwYlRDMFJiOWZNZ2tISDRYU1RSZ1MxMFVmaWhZZHFlOHNCdUUzSnhvZlplMl9UUjgyRzZnN2k2WEtfdDRnT1oyX1JGMS14MTlPQ3FueWFrdE1MLVdQUnkyazl1cFFwc09pWTdjMUc4TUtpOFRWREFfYWJvdzBENVliWWtKUXhJ0gGjAUFVX3lxTE5rX2FuNno3ZlpHd1N2MUU0VG4xajVKYklYWHdYZV84dW9OWEFYVmxfMmRlVURCM1M0NU9MdTFsSVFIS1pSSENRcGI0aTczOUgyWG43TEdPc1JkMDhUWUNkbVBnNGtyWW1SZFFEX0NMN0xRY01lWVUteGdnZzY4Z3RiMHRKa21Vd2JwV2huTHdTdy0yNmt1Mzg5c0V3dGRPMHhQSHc?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-13T18:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-13T21:53:06-06:00",
+  "resumen": "Exige Claudia Sheinbaum informe al Gabinete de Seguridad sobre exfiscal de Chihuahua vinculado con la CIA Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "40969ebd2656c917"
  },
  {
   "titulo": "Crece 12.82 % el padrón de investigadores de la UAT en el Sistema Nacional",
