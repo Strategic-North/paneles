@@ -1,5 +1,91 @@
 [
  {
+  "titulo": "Consulta indígena en México genera protestas en 18 estados",
+  "liga": "https://elcongresista.mx/justicia/consulta-indigena-mexico-protestas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-14T03:35:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "La consulta indígena en México ha generado protestas en 18 estados, evidenciando críticas por su falta de efectividad y marco legal.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d83a54a426463e98"
+ },
+ {
+  "titulo": "Monclova inicia la edición 2026 del Premio Municipal de la Juventud",
+  "liga": "https://elcongresista.mx/politica/coahuila/monclova-premio-municipal-juventud-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-14T03:35:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Monclova lanza la edición 2026 del Premio Municipal de la Juventud, abierto a jóvenes de 12 a 29 años.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ffdc965f26334100"
+ },
+ {
+  "titulo": "Trump asegura que se forman caravanas migrantes en México",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-caravanas-migrantes-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-14T03:20:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Donald Trump hace nuevas amenazas sobre caravanas migrantes, mientras la presidenta Claudia Sheinbaum reafirma que no han llegado a la frontera.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "be7df30e27428f3f"
+ },
+ {
+  "titulo": "Chiapas busca transformar su economía con 300 asistentes al evento",
+  "liga": "https://elcongresista.mx/politica/chiapas/chiapas-foro-economia-circular",
+  "medio": "El Congresista",
+  "publicada": "2026-11-14T03:09:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Tuxtla Gutiérrez fue sede de un foro sobre economía circular que reunió a 300 asistentes en pro del desarrollo sostenible en Chiapas.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2f02bce92ab31679"
+ },
+ {
+  "titulo": "Teruel, Aragón: tres eventos culturales coinciden en horario",
+  "liga": "https://elcongresista.mx/cultura/teruel-tres-eventos-culturales-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-14T03:05:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Este 14 de noviembre habrá tres eventos culturales en Teruel, que coinciden en horario, incluyendo cine, teatro y música sinfónica.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "89f10e0069c73d93"
+ },
+ {
+  "titulo": "GTA VI se posiciona como el videojuego más esperado con USD 3,200 M.",
+  "liga": "https://elcongresista.mx/politica/nacional/gta-vi-videojuego-mas-esperado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-14T02:53:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Grand Theft Auto VI se anticipa como el videojuego más esperado, con una recaudación estimada en 3,200 millones de dólares en su primer año.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "15cdc334c9e24998"
+ },
+ {
   "titulo": "Investigan posibles vínculos de Durazo en escándalo del INE",
   "liga": "https://elcongresista.mx/justicia/durazo-escandalo-ine-corruption",
   "medio": "El Congresista",
@@ -85,6 +171,20 @@
   ],
   "local": false,
   "id": "986ed7967f0f4e00"
+ },
+ {
+  "titulo": "Baja California, en el centro exacto del mapa de la amistad: 74% se considera \"muy buen amigo\"",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-centro-exacto-mapa-amistad-74-considera-muy-buen-amigo-n913529",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-14T02:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "La entidad ocupa el lugar 17 de 32 en el Ranking Buen Amigo 2026 de TResearch y Mitofsky, con un resultado igual al promedio nacional.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "522f3274cbfee33b"
  },
  {
   "titulo": "Jesús Owono, portero del Andorra, suspendido 12 partidos por colisión",
@@ -876,6 +976,62 @@
   "id": "d2a7b810d1560d67"
  },
  {
+  "titulo": "Investiga FGR al INE; renuncian tres directivos",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVk80bVUxQ0NvdjJrU1A3OXJZaDBIci1teWsyeEJfYU9qYm5aUHlvWE5QZFJUNW1udUtWXzZxR05CMHEzc0Q0Sk14M2lTQ1Vnelhxckg1bzdSdW1JTjZ5aDlsSDg3X3k5V1N2T0gyeWZTZjZEUVVJdlplYWE4cGFxZ2JNSm80Q1hRczRWSXgtSksxX3dvc0lqRjZNaG5JV3ZyTFptYQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-14T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Investiga FGR al INE; renuncian tres directivos El Vigía",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "037d7f1ee305d44c"
+ },
+ {
+  "titulo": "Exhorta Ipebc a buscar atención en salud mental",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJSZ0g1ZXBaODNxZEpRT0JObTNzMGxMMUVsYVVyUGFZVWwxUG9mWnBfeXZiUzdLcVM4YVIzTTh2bXJhbVFYa3NnS0dQZ0FyWDVkNWptY1NLUEhIcGZaUDZPRlVfclVzNlRDbldiYVp3cE1RbU9vSUt2VVh6WlZwRWlmNGJoekZCLXRESnhFRldMZkN1OE9rSFRuMFhzVmZZYW5OYQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-14T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Exhorta Ipebc a buscar atención en salud mental El Vigía",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "c535b3e2f90aa5aa"
+ },
+ {
+  "titulo": "Karla Souza llega a “Grey’s Anatomy”",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMThKeHZOWVBld0ZEUFAtZS1NRGV3M0hIN015aWlkdHVxTk15UFpWdFp6SlAybmVQeUJ4N3dWOVRlYlA0ZjBCbElTaE1zVDhiNmQtdFU3cFdqZVduTi1rZjE5ekdHbHdxN0hnSE92YVVUNlZvNFczX3NDbk5rN1NSeGNkUFBzejY2dEZ4cTBHMEtSMUxlZ2xDZw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-14T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Karla Souza llega a “Grey’s Anatomy” El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "07d58ee6749d6edf"
+ },
+ {
+  "titulo": "Otro más",
+  "liga": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqLTBqQklPdF9RSkppaVM5eUVtNG1KbE9zdEM4QzliNHN3VllUNEZUR2Z2bmt5NzVSQWpmQkZ6RHoyaVpVV2d6VGhLUVRsZUpvb3ZldjdiS1B4TEFCaGJHdi1lVXppelc3RW5NbFZNZy1oUQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-14T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Otro más El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "17e67ab0f7dc4a4e"
+ },
+ {
   "titulo": "Localizan restos humanos dentro de caja en El Sauzal.",
   "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0h5OU12bTJyYUVfU180aXl0Wi1aeng5WDRlSVFhY2xLYl9VdmEtMHlqRG02aTUzejZaaXZYYVRmb3M1UTBKRW95QWVDZTBISEVEWmVpNjFvUVF0MktITzZNMzhvWUszdXczQTBqdFM4b1JBTm9zODJDaVNPWHRES0Uwck1RX1FWSDNvcHd3?oc=5",
   "medio": "Semanario ZETA",
@@ -1557,6 +1713,20 @@
   ],
   "local": true,
   "id": "1242afbec85740e7"
+ },
+ {
+  "titulo": "Fallas Operativas de Aviación de EUA Provoca Afectaciones en Vuelos de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMlNiYkxQNEFxS1FsNlVPdHItclJBQUNyeFdwS2hteV9BVFZlMVdGZVpja1RPWlFIQndIOFdnZzM0ejlfMVMyNXRldkRRMUJ3RnZwRGY3ZHplblFKWmk2bzRJd2ZncDFuTlNWd3pKTWtFejU1czFsdTNtblh3emdTSnFUckdRc21vNWlCNWNpT0lFME1uUG1oWU1SbmxDX1FVaTRUU0IwSUpYZE5ZNV9KaEh1cWNReGZCYzlxSWlYaTZoR0RTbW1VSWRoUTRMR3QwMFNXRXgtdkk?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-13T22:36:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "Fallas Operativas de Aviación de EUA Provoca Afectaciones en Vuelos de Tijuana N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5529d907786a5694"
  },
  {
   "titulo": "Entran en operación Centros Comunitarios “México Imparable”",
@@ -2356,6 +2526,20 @@
   ],
   "local": false,
   "id": "32bd3e220ce0df66"
+ },
+ {
+  "titulo": "REALIZAN “MEGA JORNADA DE ESTERILIZACIÓN” EN LA COLONIA ROSAS MAGALLÓN EN ENSENADA",
+  "liga": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqRWxlU3FrSU85R2NKQ1RzQzZXdmJ2SldRb211TG1WNlptaDZDeHZGOFlxNDY5NjY1TlRBMkRvdWo1Sy1LNDhEQWlyWDExZTFIX1ZteDhvXzAyWWNuWFdPcDJiYlU?oc=5",
+  "medio": "Gobierno de Baja California",
+  "publicada": "2026-11-13T20:46:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-14T03:47:45-06:00",
+  "resumen": "REALIZAN “MEGA JORNADA DE ESTERILIZACIÓN” EN LA COLONIA ROSAS MAGALLÓN EN ENSENADA Gobierno de Baja California",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "68b3680c34ee06c0"
  },
  {
   "titulo": "Toño Astiazarán asume liderazgo de los Defensores de Sonora del PRI",

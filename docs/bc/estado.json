@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-14T02:52-06:00",
+ "actualizado": "2026-11-14T03:47-06:00",
  "corte": "2026-11-14",
  "ventana": [
   "2026-11-13T18:30-06:00",
   "2026-11-14T18:30-06:00"
  ],
- "total": 261,
+ "total": 274,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 39
+   "notas": 40
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
