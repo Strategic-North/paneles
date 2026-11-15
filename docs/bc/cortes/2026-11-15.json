@@ -1,5 +1,94 @@
 [
  {
+  "titulo": "Al Día RN beneficia a más de 600 instituciones en 10 localidades",
+  "liga": "https://elcongresista.mx/politica/nacional/al-dia-rn-10-localidades-600-instituciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T09:05:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "El programa Al Día RN en Río Negro beneficia a más de 600 instituciones en 10 localidades mediante la simplificación de trámites.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "93664e13dd2216b7"
+ },
+ {
+  "titulo": "Alcaldes en Tamaulipas: 26 casos de violencia en 20 años",
+  "liga": "https://elcongresista.mx/tamaulipas/alcaldes-tamaulipas-violencia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T09:03:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "En Tamaulipas, 26 alcaldes han sufrido violencia en 20 años, reflejando la crítica situación de seguridad en la región.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "8da130ada2abe71c"
+ },
+ {
+  "titulo": "Nuevas lluvias en México debido al frente frío número 6",
+  "liga": "https://elcongresista.mx/politica/nacional/lluvias-frente-frio-numero-6-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T08:55:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "Este 15 de noviembre, el frente frío número 6 generará lluvias y vientos en México, afectando diversas regiones del país.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6c463bad99e58569"
+ },
+ {
+  "titulo": "Ataque sicarial en inauguración de boutique deja un herido en Sucre",
+  "liga": "https://elcongresista.mx/sociedad/ataque-sicarial-boutique-sucre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T08:54:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "Un atentado sicarial en Sucre durante la inauguración de la boutique de Keisy Díaz dejó un herido el 14 de noviembre.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "fa6c9e7302adc3b5"
+ },
+ {
+  "titulo": "Apple y el iPod: 450 millones vendidos en 25 años de revolución",
+  "liga": "https://elcongresista.mx/tecnologia/apple-ipod-25-anos-revolucion-musical",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T08:54:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "Apple celebra 25 años del iPod, que ha vendido 450 millones de unidades, revolucionando la industria musical.",
+  "temas": [
+   "Economía y empleo",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "2418d487ca969b9d"
+ },
+ {
+  "titulo": "IMSS alerta sobre estafa de trámites falsos en redes sociales",
+  "liga": "https://elcongresista.mx/justicia/imss-estafa-tramites-falsos-redes-sociales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T08:47:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "El IMSS alerta sobre estafas de trámites falsos en redes sociales que pueden comprometer la información personal de los ciudadanos.",
+  "temas": [
+   "Salud",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "bc02a985b97fbbe6"
+ },
+ {
   "titulo": "Guadalajara: VIII Festival de Cortometraje Universitario del 23 al 28 de noviembre",
   "liga": "https://elcongresista.mx/cultura/festival-cortometraje-universitario-guadalajara-2023",
   "medio": "El Congresista",
@@ -130,6 +219,20 @@
   ],
   "local": false,
   "id": "b0810e29306d7620"
+ },
+ {
+  "titulo": "Deitac lanza mapa digital para impulsar la atracción de inversiones en Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/deitac-lanza-mapa-digital-impulsar-atraccion-inversiones-tijuana-n913866",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-15T08:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "La plataforma concentra la disponibilidad de naves, capacidad energética y datos clave de los parques industriales de la ciudad",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "bcf764790e6cc60f"
  },
  {
   "titulo": "Iker Jiménez y Carmen Porter reciben Antena de Oro por Horizonte",
@@ -1299,6 +1402,20 @@
   "id": "ca5909840b12a152"
  },
  {
+  "titulo": "Noticias sobre ley antimemes mexico",
+  "liga": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jOE82by1QZTNaLWYxVktpRnNCMnlucDVKVkszUTFCZ2FVdE1aWG9ZSnU1U3FDLXJ0SnFnWkdKSjljSGdVYTU1RWdBSXJ1cFZCbEYweEZ4YjdzNVF4eUEycGY1Y01MY2lhWHc?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-14T23:48:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "Noticias sobre ley antimemes mexico Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "65e1bdffe7594156"
+ },
+ {
   "titulo": "Parque Esperanto recibe el Green Flag Award 2026",
   "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUluY19jN1NWNU1QVDk0akpyMzlPVW0zdXpEaHRiS0ZtaElyRHlURWVuQ1ZFeGVLMmxBdG9aNkhKZ1NRMHpOQmVOZVVTckstY2U5SjhoZFYwS1RaU0xSRUt1SWZSMXU3X0dsU2djdlNnRFltcXVkWDFHQmM0MzJ1SlNKMTB0R2tGY2d2NlR3MjZ0STBlVUdpajZBaWhaUWdZ?oc=5",
   "medio": "AFN",
@@ -1787,6 +1904,20 @@
   "id": "9736b8e27bdd0a7d"
  },
  {
+  "titulo": "Noticias sobre cuerpo encobijado",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5URVVOeFRES2ZYY1ZsY09oMTl4SHZRVXdQLW03eEN6LVRNUkZ1cWtiZ0FoWi1tS1hDaHFZaUdMSHNJS1JmRUowNGV2Mkc2R0pyZkNscUpjVnA1U2JMT1RfTU45bS1Xdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-14T22:24:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "Noticias sobre cuerpo encobijado Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "943d9184319c7d90"
+ },
+ {
   "titulo": "Hombres armados asesinan a un hombre en Morelia, Michoacán",
   "liga": "https://elcongresista.mx/politica/michoacan/hombre-asesinado-morelia-villas-del-pedregal",
   "medio": "El Congresista",
@@ -1974,6 +2105,20 @@
   ],
   "local": false,
   "id": "07ba733565918b09"
+ },
+ {
+  "titulo": "Noticias sobre distrito 11 tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zenBZVkpnazZMaWhiRUxhc3d3Q0pIREJjdHQwX1Zva3g4MTl2ajFTc3dGaFI2MlhaN05UeXdYMmlKUDEyTG9qNlJ5cW1ib1hsazJNODlmVV9hUWo1UDhvTjZjaWluZEdq?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-14T21:46:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "Noticias sobre distrito 11 tijuana Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "610f7a01708d5797"
  },
  {
   "titulo": "Subastan ejemplar de raza Brahman rojo en Yucatán por 2.6 mdp.",
@@ -3140,6 +3285,20 @@
   ],
   "local": false,
   "id": "a07f294ee7f5aa92"
+ },
+ {
+  "titulo": "Noticias sobre pacientes libres de cancer en tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWxUWVg0X3VvZkFGZWJOdUlSWE9GU0JqakZzdEs5dzdJZkN6amZBS3VFRVRNX0c0Z25vVmJyWG9kVk5JY3MyZ3lkeUlBZzVJZHh5RUl2bjNhMkJQbGZ4YkwtN2QxUHNIOThRb3NReDhvUHNoWVh2YzRQMzFpWEdBNA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-14T18:46:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T09:41:52-06:00",
+  "resumen": "Noticias sobre pacientes libres de cancer en tijuana Baja News",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "df98668b951768ba"
  },
  {
   "titulo": "Noticias sobre ninos que vencieron el cancer",

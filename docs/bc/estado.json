@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-15T08:45-06:00",
+ "actualizado": "2026-11-15T09:41-06:00",
  "corte": "2026-11-15",
  "ventana": [
   "2026-11-14T18:30-06:00",
   "2026-11-15T18:30-06:00"
  ],
- "total": 226,
+ "total": 237,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -20,8 +20,8 @@
   },
   {
    "fuente": "El Imparcial",
-   "ok": true,
-   "notas": 1
+   "ok": false,
+   "error": "ParseError: no element found: line 1, column 38"
   },
   {
    "fuente": "Zeta Tijuana",
@@ -71,22 +71,22 @@
   {
    "fuente": "Google News: Ensenada",
    "ok": true,
-   "notas": 77
+   "notas": 75
   },
   {
    "fuente": "Google News: site:elvigia.net",
    "ok": true,
-   "notas": 69
+   "notas": 68
   },
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 88
+   "notas": 92
   },
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 77
+   "notas": 76
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 31
+   "notas": 32
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
