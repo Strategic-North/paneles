@@ -1,5 +1,586 @@
 [
  {
+  "titulo": "Entre telescopios, talleres y descubrimientos científicos, la UAS despierta la curiosidad por el universo durante “La Noche de las Estrellas”",
+  "liga": "https://vivalanoticia.mx/entre-telescopios-talleres-y-descubrimientos-cientificos-la-uas-despierta-la-curiosidad-por-el-universo-durante-la-noche-de-las-estrellas/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-15T13:43:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "La Universidad Autónoma de Sinaloa (UAS) se sumó en Culiacán a la XVIII edición de “La Noche de las Estrellas”, evento que se realiza de manera simultánea en diferentes ciudades del país con el objetivo de acercar la ciencia a la sociedad mediante diversas actividades dirigidas a",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "ac58c3ea7290cda5"
+ },
+ {
+  "titulo": "Revisa el Ayuntamiento de Mazatlán infraestructuras de mercados municipales",
+  "liga": "https://vivalanoticia.mx/revisa-el-ayuntamiento-de-mazatlan-infraestructuras-de-mercados-municipales/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-15T13:37:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Albaro Sandoval Mazatlán, Sinaloa.- El Ayuntamiento de Mazatlán ordenó realizar una revisión integral de las condiciones de infraestructura de los seis mercados municipales, con el propósito de identificar posibles riesgos, evaluar el estado físico de los inmuebles y determinar l",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "0e7b3a310277c458"
+ },
+ {
+  "titulo": "The Spot, con Claire Danes y Ewan Mcgregor, llegará próximamente a Disney+",
+  "liga": "https://punto.mx/2026/11/15/the-spot-con-claire-danes-y-ewan-mcgregor-llegara-proximamente-a-disney/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-15T13:36:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "La nueva serie dramática original de Hulu, The Spot, explora una historia de culpa, secretos y traición. Protagonizada por Claire Danes y Ewan Mcgregor La entrada The Spot, con Claire Danes y Ewan Mcgregor, llegará próximamente a Disney+ se publicó primero en Punto MX .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bb14e229c44cb9c1"
+ },
+ {
+  "titulo": "¿Por qué los perros comen pasto? Estas son las razones y cuándo debes preocuparte",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa2I2YVJQNFQ1ZXZlVEFjSncyRTJIUWF4TG5GZldGUk9KV2RmY08wTGJjcnJvVlA2aG9EblA4cE9HelBYWlNUVTRnazd3a1c4ZnBsbHNhUmFuNnBWMG4xcVAya2RvVDI0Y2ZxS0pzLVJuZWtpNkdVaVpjalFSUk1UMzV2Z184RVIwY2o0NmZwYXVLR0ZkVE01U19UVEpOUVQyMkd2VVV3ek5nOTJNSVdscFZzREJWN0JtZzBpT0dsd1RIczFxc1lhUzEzaHdwZktoQ29fRERJbG9Jdw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T13:36:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "¿Por qué los perros comen pasto? Estas son las razones y cuándo debes preocuparte debate.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d2feb35c486dc093"
+ },
+ {
+  "titulo": "Ante la adversidad económica en MiPyMES, analiza Gobierno Municipal analiza poner en marcha el programa ‘Mazatlán No Cierra’",
+  "liga": "https://vivalanoticia.mx/ante-la-adversidad-economica-en-mipymes-analiza-gobierno-municipal-analiza-poner-en-marcha-el-programa-mazatlan-no-cierra/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-15T13:31:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Albaro Sandoval Mazatlán, Sinaloa.- Ante las dificultades económicas que enfrentan micro y pequeños negocios del puerto, el Gobierno Municipal analiza poner en marcha el programa Mazatlán No Cierra, indicó la regidora Wendy Barajas Cortés, quien dijo que la propuesta está en un p",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "c5484443c0400d5d"
+ },
+ {
+  "titulo": "Guamúchil Collector celebra cinco años impulsando el coleccionismo de Hot Wheels y autos a escala",
+  "liga": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcXd2dVJYYVI1NklBNUNCQ3BCa1ZuT3ZoMDVXdFlnRXV4OWlwb3ZFQ25xSTFqNFBSUEJxQ3Z5OE95TExUNGQwNEh0bW9EdDktbzJYeFBpQjFOQnVyaTczaTRhV09Fc1d3RU1oVDVzZm0tYzhHc1ZWNUY5cFJ6bDBhTU56TUk4VHpHSkVMUVc0M3JMb1dFLTVzZ09UQ0Mtdy15czRNbW1NWXRTZEh4d0hRd2d1YnMwQlZqZGxsZlhFZXBFMWc5RnhTN2NkZUVpT1NhV2E1YjdHT0VuYkRDekdfN09yaXRjWGZVcUxWekVuMDYxZw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T13:31:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Guamúchil Collector celebra cinco años impulsando el coleccionismo de Hot Wheels y autos a escala Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cc7e50c820287faf"
+ },
+ {
+  "titulo": "¡Ya viene el Desfile Navideño a Los Mochis! Estos son los días en que la ciudad se llenará de luz, alegría y espíritu navideño",
+  "liga": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNFBFbDlfdUY1U1VFbmRtNnNzSGw2c1ZiY19qN2N1VE5xc0NOQ0J3eG05T255RGtLd2lGRktkVFlPWjRqdkhKN2U5amxKZlYxRkx2Y1c5ajh5a0QtUVdiTUw2QUg2aGVNX19PTFluaWhRbDlwWWUycWRzZThoeGZKeUNyZTRySUlVU2plaHNWdWV2dlBhRkJSM0xtRkZTS0FHQUJpem9yNlpiLXdRY1gyWkUtNHd0ZHhfeTRJTUtnWmxpUE5aMTkzM18wY0I2N1kyWGh2dDNxSVdFOTNFbjZTUkYwS3lVQTY5ZmlBYzFRQ20tbkY5QmtHTlpwaGVXUjlvclVSWmxWUnVNb3U0eFhCc0dHQ2o?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T13:30:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "¡Ya viene el Desfile Navideño a Los Mochis! Estos son los días en que la ciudad se llenará de luz, alegría y espíritu navideño Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fd0ba2d9d07d0fff"
+ },
+ {
+  "titulo": "¡Ya viene el Desfile Navideño a Los Mochis! Estos son los días en que la ciudad se llenará de luz y alegría",
+  "liga": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVWJrNktrQ09mSzcyNnpBR1cwNXVEdy1yNnB2WTExS21sR2pjMXowaXpiUkk0T1REZGY0NksyWmthMnd0Z3JpcVVqQW9aclFnb1BNWTNfVG5vbjdleWRNR1VRMWhodDk1RkhKdVBra0ozTUZ0dGxmMUhjcW1qQjF4aF80cVFXYWFLZ1czQVhMU1VmSHZwS0NCVVVYRnlmQjFjOXN5cHlpelVnTklnWmQ2UHJzLWt6Vi1YZEoyTmQzV185Q3pzN0pudVFocVdIV21TeEtUbkVwaVFSUFQ0MVNZZ0FUUUw3d3lhc09qRk1zMjdkX2RKcUQyQzkwOHU?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T13:30:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "¡Ya viene el Desfile Navideño a Los Mochis! Estos son los días en que la ciudad se llenará de luz y alegría www.debate.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3de5b379f5b8961d"
+ },
+ {
+  "titulo": "Catalina Esparza asume la presidencia del DIF Sinaloa y reafirma su compromiso con las familias vulnerables",
+  "liga": "https://www.luznoticias.mx/2026-11-15/sinaloa/catalina-esparza-asume-la-presidencia-del-dif-sinaloa-y-reafirma-su-compromiso-con-las-familias-vulnerables/315072",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T13:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a2475fc1461986ce"
+ },
+ {
+  "titulo": "Revisaremos el 5° Informe de Gobierno con honestidad, sensibilidad y compromiso, Moncerrat López",
+  "liga": "https://www.luznoticias.mx/2026-11-15/politica/revisaremos-el-5-informe-de-gobierno-con-honestidad-sensibilidad-y-compromiso-moncerrat-lopez-/315071",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T13:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "8e61066bdfbf33ad"
+ },
+ {
+  "titulo": "Desarrollo económico y seguridad, temas pendientes: Secretario tras entrega de Quinto Informe",
+  "liga": "https://lineadirectaportal.com/sinaloa/desarrollo-economico-y-seguridad-temas-pendientes-secretario-tras-entrega-de-quinto-informe-2026-11-15__1739459",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-15T13:27:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "El secretario General de Gobierno, César Julio Saucedo Barrón, aseguró que en el Poder Ejecutivo existe apertura al diálogo con los sectores sociales",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ba7cfd60d80bef4a"
+ },
+ {
+  "titulo": "Asegura Marina producto pesquero y vehículos en Yucatán",
+  "liga": "https://sinaloa.quadratin.com.mx/asegura-marina-producto-pesquero-y-vehiculos-en-yucatan/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-15T13:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "El operativo se desarrolló en la carretera Progreso–Telchac Puerto.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "ee9a18870e551b33"
+ },
+ {
+  "titulo": "Policías municipales de Culiacán celebran misa por el Día del Policía en Catedral",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/policias-municipales-de-culiacan-celebran-misa-por-el-dia-del-policia-en-catedral-1167355/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-15T13:26:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Elementos preventivos y de vialidad participaron en una celebración religiosa para pedir por sus compañeros, sus familias y los agentes fallecidos en cumplimiento de su deber.",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "013ea0b7d49b8294"
+ },
+ {
+  "titulo": "Ven un complicado cierre de año empresas de Mazatlán; buscan salvar empleos",
+  "liga": "https://punto.mx/2026/11/15/ven-un-complicado-cierre-de-ano-empresas-de-mazatlan-buscan-salvar-empleos/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-15T13:26:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Empresas de Mazatlán enfrentan un complicado cierre de año, entre dificultades para cubrir gastos como aguinaldos y mantener sus plantillas laborales La entrada Ven un complicado cierre de año empresas de Mazatlán; buscan salvar empleos se publicó primero en Punto MX .",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "6e7e21ffedec07dc"
+ },
+ {
+  "titulo": "Reportan violencia intrafamiliar en domicilio a Culiacán y detienen a un hombre armado",
+  "liga": "https://lado.mx/noticia/22317944/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-15T13:26:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "El ahora detenido al parecer amenazaba una mujer con un arma de fuego en un inmueble ubicado en el sector Bachigualato.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "7c885a215e98eb74"
+ },
+ {
+  "titulo": "Cobaes registra 6 % de deserción escolar; es una de las más bajas a nivel nacional",
+  "liga": "https://lineadirectaportal.com/sinaloa/cobaes-registra-6-de-desercion-escolar-es-una-de-las-mas-bajas-a-nivel-nacional-2026-11-15__1739460",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-15T13:23:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "El director general Santiago Inzunza Cázares, reconoció que la beca Benito Juárez ha aportado a la permanencia de los jóvenes en las aulas",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8472a5ebe42af710"
+ },
+ {
+  "titulo": "Instalarán dos centros de recepción de leche en Sinaloa; operarán antes de terminar el año",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ1RydkE0MFJuclFXa3lDejRxQ0szMlVYOWhYRW4tTHRvaEVQaGpfeld2Vmw2YzBUT2hJZ1BLSWs5YUV1NzJRUE9kRVpMOTFyQkdjSkhjd2tPc2xoUUdlbG1ucFBfQzMwTmhNVXFJTERKX3hnZFcycDZjZnV0Wml4TTlhaUhxT1h6VkNURkpHS3FDU3QyYlg5VWlqZ2hadTdFMFpEWUJUZ1RocFk4ejZlaQ?oc=5",
+  "medio": "ADN Informativo MX",
+  "publicada": "2026-11-15T13:21:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Instalarán dos centros de recepción de leche en Sinaloa; operarán antes de terminar el año ADN Informativo MX",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2ffcf21af16ec31d"
+ },
+ {
+  "titulo": "Preocupante situación que se vive en gran parte del país: Iglesia católica",
+  "liga": "https://lineadirectaportal.com/sinaloa/preocupante-situacion-que-se-vive-en-gran-parte-del-pais-iglesia-catolica-2026-11-15__1739458",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-15T13:21:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Mario Espinoza Contreras, administrador apostólico de la diócesis de Mazatlán, comentó que los creyentes en Dios deben reforzar su fe en Dios, mientras que las autoridades deben hacer un gran esfuerzo de no caer en la corrupción",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "78cf6ce10adbf5e6"
+ },
+ {
+  "titulo": "Mariana Valenzuela mantiene su brillo en Portugal y disfruta de breve descanso en Mazatlán",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNlhjRjVLZnFlNXdvc2xwYkxaRGFuQ21ZMnpBQmJ4aWZXV1dkVE8tT0lqa1NoYTBaSmRQdnNsMzR0T0FfYUxBaWFtekNqN25UdFhyVWFFblhkN2syU3diLVFIaHg2bTQ3OV9zSzk4eXg3TVRrQ1pyT1djbzBlNy1fZGY5SDZpLU54d04zWGJKM25mTlF4eGVCeElYeWN6bFR5ZDVhYl96eExkcUZkRU9Cb1VUYUJMb3lqb2d1emU0d3o0Zl9pZVRZeU5TUzM5RHNfSUU3NHpZQTdDVWVR?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T13:19:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Mariana Valenzuela mantiene su brillo en Portugal y disfruta de breve descanso en Mazatlán Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e4f42d0c4a10fea5"
+ },
+ {
+  "titulo": "Sinaloa priorizará contratación de policías, capacitación y equipamiento para seguridad en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVREMGt5YWs2U2Vfd2VBWTRSVEFNTUs0YWRhUFhScVlQdlQtenZMZ1drUjRGSjJMYjRVUU9Ga2w4Rlo1bTdycjI4TmMtenNvV2E1ekRZMDRTdVo3S1VwVWVtNmlNaFFjdE5BWFhvVWVtQTI3QnJ2eU9nV3NOdmVvYWpwcHh5WEprdlZBMncyVkhkMDU3WE9pMnE1Sll5Y3Ywa1h1Zmt6b19mcXdab291Wk1fREdhZ2c?oc=5",
+  "medio": "ADN Informativo MX",
+  "publicada": "2026-11-15T13:16:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Sinaloa priorizará contratación de policías, capacitación y equipamiento para seguridad en 2027 ADN Informativo MX",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "77fcdcbbd89a0752"
+ },
+ {
+  "titulo": "El compromiso de la Gobernadora Graciela Domínguez es trabajar con sentido humanista, por amor al pueblo: secretario César Julio Saucedo",
+  "liga": "https://visionciudadana.com.mx/el-compromiso-de-la-gobernadora-graciela-dominguez-es-trabajar-con-sentido-humanista-por-amor-al-pueblo-secretario-cesar-julio-saucedo/",
+  "medio": "Visión Ciudadana",
+  "publicada": "2026-11-15T13:14:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Culiacán, Sinaloa; noviembre 15 de 2026.- Con la representación personal de la gobernadora Graciela Domínguez Nava, el secretario general de Gobierno, César Julio Saucedo Barrón, entregó a las diputadas y diputados de la LXV Legislatura del Congreso del Estado, el documento relat",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "58ac20fa65e11fde"
+ },
+ {
+  "titulo": "La gente en Sinaloa no aguanta más retenes de las fuerzas armadas: CEDH",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUxYQWduMmhETDJoT05FdmlBazh6RzBqMlI5S3k0c01HRFJRVVBGdkZVOWhGeDQtSlpHOXl5Si1JVzdtQUp5RUxWLXZNYlZrR3FsazZkdUxwRkl3ODdOQ1AyaEQzbUluc3F4X1JmY2tQaUhsVzdfZm5weFZ1Um96VXVveUc1bFlBRk4yRkt1eDl1aXZEY0hpMm5xYjJfSFc4bmhEeTVHSmFNd1ZKQ05VMVZySkFzRzZDd2NwTQ?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-15T13:14:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "La gente en Sinaloa no aguanta más retenes de las fuerzas armadas: CEDH El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "edd877c393c8adbb"
+ },
+ {
+  "titulo": "Un Juguete, Una Ilusión: 15 años sembrando esperanza y sonrisas en la niñez",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMERsTDVKaUlzd2tmSlpFSjdreEs1Y3hiZDU4VVliZkpMRmluZWFzeGRvLXlxVzVuaWpWd1ZpVkxhdmRLUHNRa3k2SDhYXzBtczJBcU56TWVVYmV1MVlDZFFSZ0tXYVM3ZmhHb1BmbFBVTzN5Q2kwVGtqZERVNk8zWmpGcklrV3pqUGZzV29IYjZkV0paSzRYZ2dPT21HMVlZUEVBd0U1YnEyc05PNXBzYTR5RFdSR3Z5Rkx4QjZtVUZCdmdMY0pOcHpCN2poLUNNZ2c?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T13:13:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Un Juguete, Una Ilusión: 15 años sembrando esperanza y sonrisas en la niñez Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6b9e08c35b574299"
+ },
+ {
+  "titulo": "En espera de base sindical 300 trabajadores del Ayuntamiento de Mazatlán",
+  "liga": "https://vivalanoticia.mx/en-espera-de-base-sindical-300-trabajadores-del-ayuntamiento-de-mazatlan/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-15T13:12:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Albaro Sandoval Mazatlán, Sinaloa.- Alrededor de 300 trabajadores municipales permanecen en lista de espera para ingresar a las filas del Sindicato de Trabajadores al Servicio del Ayuntamiento de Mazatlán, informó su dirigente, Laura Tirado Aguilar, quien señaló que existe una im",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "53247eeeec3ddf76"
+ },
+ {
+  "titulo": "Destinan 38 millones de pesos a obras para familias desplazadas en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDdLejVTNkV0cHBNYlhMUHRGVkxPUkxTUWZOTlE0MWxlczZlYm9HeHhPNlBaX193RlRLUU9lYmlwaFJRbXgzSl9qS0YyX1VLamlsazVwRmFkLTJlZlp4MGJHbGd3YUhBWWlVSUtPOGFua3J2MVRiUFFzdl9oUmJDRGZtWDV2TmMwdnRwclRWN2lSRWpVQnZKSE81cGs?oc=5",
+  "medio": "ADN Informativo MX",
+  "publicada": "2026-11-15T13:11:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Destinan 38 millones de pesos a obras para familias desplazadas en Sinaloa ADN Informativo MX",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e8cf0e18d3a592a9"
+ },
+ {
+  "titulo": "Congreso de Sinaloa recibe Quinto Informe de Gobierno estatal",
+  "liga": "https://lado.mx/noticia/22317860/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-15T13:10:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "El Congreso de Sinaloa recibe el Quinto Informe de Gobierno, el cual detalla la situación actual de la administración y su compromiso social.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "11e41dc1599cb743"
+ },
+ {
+  "titulo": "“Estoy viviendo el momento más importante de mi vida”: Miguel Ojeda",
+  "liga": "https://punto.mx/2026/11/15/estoy-viviendo-el-momento-mas-importante-de-mi-vida-miguel-ojeda/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-15T13:10:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "En su noche de inmortalidad, Miguel Ojeda dedicó un emotivo reconocimiento a sus padres, hermanas, esposa e hijos, quienes fueron parte fundamental de los sacrificios y sueños que lo llevaron a la cima del beisbol La entrada “Estoy viviendo el momento más importante de mi vida”: ",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "7cc6216ab6c16812"
+ },
+ {
+  "titulo": "Asesinan al periodista Eduardo Flores Salado en Acapulco, Guerrero",
+  "liga": "https://lineadirectaportal.com/mexico/asesinan-al-periodista-eduardo-flores-salado-en-acapulco-guerrero-2026-11-15__1739452",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-15T13:10:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "La Fiscalía de Guerrero confirmó el inicio de una investigación por el delito de homicidio calificado, en agravio del periodista",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4fd9c1a322608681"
+ },
+ {
+  "titulo": "Descartan paro de camiones mientras revisan la viabilidad de subsidio a estudiantes",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNmc1M1Y2ODNLT1BPV2VtTUE1MlNwcFlDWGxRVUpXMDZnVlFQRjRSZFBLbUJQNVFKNnNXWDAxRjdJb2I1YUJ6a1gxS1haUzBUZkVMZ3d1RWFVSXc3QktacHM0Wi1jc2E1eXFKR3RpVUJvdHZqY0lMSzNtaFE4cFU4amFBalJPZndJRXpMZkFobFV5WXR5Qzk0NG0ycDAtUThPSW5fbFBsMXVqbDJfTDJvV0NDdnBtbWlFWE1wUDdWd3hJUEdzaGJmXzlpbmRGU1o1TTFTVEFDdEFDdlZjMXc?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T13:09:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Descartan paro de camiones mientras revisan la viabilidad de subsidio a estudiantes Debate",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "01bb7789eef1583b"
+ },
+ {
+  "titulo": "Queda libre Gabito Ballesteros tras un día detenido en la FGR",
+  "liga": "https://sinaloa.quadratin.com.mx/queda-libre-gabito-ballesteros-tras-un-dia-detenido-en-la-fgr/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-15T13:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Gabito Ballesteros y cinco hombres más que conformaban tanto su staff fueron detenidos y trasladados a las instalaciones de la FGR.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3a9b00202c0513e4"
+ },
+ {
+  "titulo": "Ataque armado en fiesta de Pueblo Nuevo deja una persona sin vida en Mazatlán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/ataque-armado-fiesta-pueblo-nuevo-mazatlan-2/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-15T13:08:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Ataque armado en fiesta de Pueblo Nuevo deja una persona sin vida en Mazatlán Una persona perdió la vida tras un ataque durante una fiesta en Pueblo Nuevo, Mazatlán. El reporte de posibles personas lesionadas está pendiente de confirmación oficial. Sinaloahoy - Noticias de Sinalo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "98cc557b5d07e669"
+ },
+ {
+  "titulo": "PRI realiza sexta sesión de coordinación con sectores y organizaciones en Salvador Alvarado",
+  "liga": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ0JvNjdBUEU0eEpnT21hZGIyYVJKSTE4SEZWOXRDVWpERFluRWxQWmpydksyQWxnU1VDcjJNX1pDaUtSNlBjaXoyTXVwQjRWMDVRVGhlTjVIekdlaGllYnBhT0V3RGt3X3VWaVRRa2xmdU1tWFZ5X2QxbjllXzhyaXFoUk8zZTNWaUpiekg1T2ZDcTkxeVI1OFJVYzN5SEVZTGplSmNCSHJLbnMyVll4cjlSZW1INmRDMWxQWXY4b0w2WlFaMzhERDg2SzRVcGNaMlFJSHJPc2Z2SUdHTkNtak9hcHBqYmp3VGc?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T13:04:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "PRI realiza sexta sesión de coordinación con sectores y organizaciones en Salvador Alvarado Debate",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "c710f55e49afed31"
+ },
+ {
+  "titulo": "Carrera con causa Oyster Bar reúne a más de 600 corredores en Mazatlán para apoyar clínica del Imdem",
+  "liga": "https://www.sinaloahoy.com.mx/portal/carrera-oyster-bar-rehabilitacion-mazatlan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-15T12:59:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Carrera con causa Oyster Bar reúne a más de 600 corredores en Mazatlán para apoyar clínica del Imdem La octava carrera Oyster Bar reunió a más de 600 participantes en Mazatlán para apoyar el acondicionamiento de la clínica de rehabilitación del Imdem. Sinaloahoy - Noticias de Sin",
+  "temas": [
+   "Servicios públicos",
+   "Salud"
+  ],
+  "local": true,
+  "id": "627c9228cbb288e9"
+ },
+ {
+  "titulo": "Califica Obispo de Mazatlán como lamentable el actual periodo gubernamental en Sinaloa",
+  "liga": "https://www.noroeste.com.mx/mazatlan/califica-obispo-de-mazatlan-como-lamentable-el-actual-periodo-gubernamental-en-sinaloa-DB27373653",
+  "medio": "Noroeste",
+  "publicada": "2026-11-15T12:58:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "MAZATLÁN._ El actual periodo gubernamental en Sinaloa ha sido lamentable y triste porque la inseguridad y la falta de continuidad de un gobernante, manifestó el Obispo de la Diócesis de Mazatlán, Monseñor Mario Espinosa Contreras. “Es de dar risa, ¿verdad?... yo creo que este per",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "670d3c66004d925a"
+ },
+ {
+  "titulo": "Irrumpen a balazos en fiesta a plena calle en Mazatlán; hay un muerto y dos heridos",
+  "liga": "https://www.luznoticias.mx/2026-11-15/policiaca/irrumpen-a-balazos-en-fiesta-a-plena-calle-en-mazatlan-hay-un-muerto-y-dos-heridos/315067",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T12:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3dd5e9c0fb7afdcc"
+ },
+ {
+  "titulo": "La AARFS advierte pérdida de rentabilidad en el campo y pide apoyo para la comercialización",
+  "liga": "https://vivalanoticia.mx/la-aarfs-advierte-perdida-de-rentabilidad-en-el-campo-y-pide-apoyo-para-la-comercializacion/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-15T12:55:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Briceyda Villarreal ​Los Mochis, Sinaloa.- El presidente de la Asociación de Agricultores del Río Fuerte Sur (AARFS), Luis Xavier Zazueta Ibarra, describió un 2026 difícil en materia de precios de comercialización y llamó al gobierno federal a destinar mayores recursos al sector ",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "97ca7085db695bab"
+ },
+ {
+  "titulo": "Baja temperatura más de lo esperado en la sierra de Sinaloa; Surutato amanece a 1 grado",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPak1odGQxMVFGeHhYeGw3Znk5VGFiZzF3alpwNWhFWG9saGcwcURyUm8tbUMtZmEtel91S2dXaGFEV3dZNVVKU1hwZC1iSFN6Ni1veHE1aVNRdUMwSGY1YWJoVTBlRU9FZ2tjLWlnRGpKQzJqaHVLbkJQMkl0U1pJX0JPMWhid0hFWWl2NkszalIxQVdDVkVib2JRZmxIOHlhdW1iLTFFS3FPRW5UZEIxNDJldGFjTE9KSzNhNXk0WlVxUWVraWlaWTFrN3lSUjFhNHk3bE4ySlVMVjdqYU81ckZR?oc=5",
+  "medio": "Debate",
+  "publicada": "2026-11-15T12:52:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Baja temperatura más de lo esperado en la sierra de Sinaloa; Surutato amanece a 1 grado Debate",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "edc45eca86b67739"
+ },
+ {
+  "titulo": "La Feria del Libro Los Mochis abre sus puertas con más de 130 actividades",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZlZSTWNBQUpEVWs4RHViMnZ5a01vbVVqOVRyX1A4N1B1eE1BTWp3T25mdkdxdGpvTDdMQkxsMzloXzRZLWtOb3R3dlV6Zi1lZmhQaks3R2ZhSkZTMVJCMkJjdlBjNEp5VHZmX0FVQS1uV3pQNVVWWmd6bWJhWkctMlNqemVGZEROZjI2WEtLZ0duczJPR1JWbldXN25pVTdDVUlZWE1xdU9JOUM4YXhHZmJ0WEZYRnZrN2k4TmNpRHB1TnFtUFR1eG1vSE9FNUhRT0E?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-15T12:51:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "La Feria del Libro Los Mochis abre sus puertas con más de 130 actividades Debate",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "e9f7f1727d2ba9ad"
+ },
+ {
+  "titulo": "Informe de Gobierno contempla avances del Plan Estatal de Desarrollo",
+  "liga": "https://sinaloa.quadratin.com.mx/informe-de-gobierno-contempla-avances-del-plan-estatal-de-desarrollo/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-15T12:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Entre los temas prioritarios se encuentran las acciones para atender la problemática de seguridad que enfrenta Sinaloa.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cb7e04d4effb2214"
+ },
+ {
+  "titulo": "El 35 % del agua se pierde por falta de tecnificación en el norte de Sinaloa: agricultores",
+  "liga": "https://vivalanoticia.mx/el-35-del-agua-se-pierde-por-falta-de-tecnificacion-en-el-norte-de-sinaloa-agricultores/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-15T12:49:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Briceyda Villarreal ​Los Mochis, Sinaloa.- El líder de los productores trigueros del Valle del Carrizo, Baltazar Hernández Encinas, reconoció que la falta de infraestructura tecnificada en el norte de Sinaloa impide que el sector agrícola aproveche al 100 por ciento el recurso hí",
+  "temas": [
+   "Agua",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "ad9173ffb67df670"
+ },
+ {
+  "titulo": "Realizan en la Facultad de Ciencias Químico-Biológicas de la UAS Taller de Gomitas Funcionales para impulsar la innovación agroindustrial y la formación práctica del estudiantado",
+  "liga": "https://visionciudadana.com.mx/realizan-en-la-facultad-de-ciencias-quimico-biologicas-de-la-uas-taller-de-gomitas-funcionales-para-impulsar-la-innovacion-agroindustrial-y-la-formacion-practica-del-estudiantado/",
+  "medio": "Visión Ciudadana",
+  "publicada": "2026-11-15T12:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Culiacan, Sinaloa; noviembre 15 de 2026.- Con el objetivo de fortalecer la formación práctica de la comunidad estudiantil, se llevó a cabo el Taller de Gomitas Funcionales en la Facultad de Ciencias Químico-Biológicas (FCQB) de la Universidad Autónoma de Sinaloa (UAS). Esta activ",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "52908b9852f8085f"
+ },
+ {
   "titulo": "Disminuyen reportes de violencia en Ahome durante octubre: SEMUJERES",
   "liga": "https://vivalanoticia.mx/disminuyen-reportes-de-violencia-en-ahome-durante-octubre-semujeres/",
   "medio": "Viva la Noticia",
@@ -84,6 +665,34 @@
   ],
   "local": true,
   "id": "6dc56e873a903b74"
+ },
+ {
+  "titulo": "“Queremos trabajar en paz”: Tras ataque armado, antro bar de Mazatlán pide apoyo de autoridades",
+  "liga": "https://www.luznoticias.mx/2026-11-15/sinaloa/queremos-trabajar-en-paz-tras-ataque-armado-antro-bar-de-mazatlan-pide-apoyo-de-autoridades/315064",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T12:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "60c43af99ae6d920"
+ },
+ {
+  "titulo": "Analizaremos el 5° Informe de Gobierno con objetividad y sin prejuicios, Eligio López Portillo",
+  "liga": "https://www.luznoticias.mx/2026-11-15/politica/analizaremos-el-5-informe-de-gobierno-con-objetividad-y-sin-prejuicios-eligio-lopez-portillo-/315065",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T12:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "cce9d8af88b770a6"
  },
  {
   "titulo": "No se prevé paro de transportistas en Sinaloa; está en revisión subsidio de la tarifa de estudiantes: SGG",
@@ -229,6 +838,20 @@
   "id": "529f607180d657b7"
  },
  {
+  "titulo": "Gabito Ballesteros queda libre; su defensa niega apología del delito y afirma que las armas tenían permiso",
+  "liga": "https://www.luznoticias.mx/2026-11-15/espectaculos/gabito-ballesteros-queda-libre-su-defensa-niega-apologia-del-delito-y-afirma-que-las-armas-tenian-permiso/315062",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T12:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f52f3d7c5ddb3f2d"
+ },
+ {
   "titulo": "¿Necesitas pagar el agua? Japama abrirá sus oficinas este lunes 16 de septiembre",
   "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON2FhNVF5Umloc09IOGZtSDNFS1lyU0JsNmJWTHRhSlAzeG9zdFR2VXBKV0M4TExYZG5Rd3c5aEZydXBncTdGeFMzUzA3UzA1YmY1S21aNnRueXFmTjVfVWRDTXhnWGxialMwS2lVNGdpOExvdlRFc0tvaFRrT3hpdkFHUVE3WkRvSDIxZzFiZ0pLUnlUclZMdmpFdE00VHdkSF81UGdXZ3ROYkhVSEM2TU9qRHdOeUpVRURPY1JvV0djNkZvSElNdGRJMjg4Q2FOWnBRN000czM?oc=5",
   "medio": "El Debate",
@@ -269,6 +892,34 @@
   ],
   "local": true,
   "id": "050ea506ab288b2b"
+ },
+ {
+  "titulo": "El 5° Informe de Labores destaca el cumplimiento de metas del Gobierno de Sinaloa",
+  "liga": "https://www.luznoticias.mx/2026-11-15/politica/el-5-informe-de-labores-destaca-el-cumplimiento-de-metas-del-gobierno-de-sinaloa/315061",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T12:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "aa8d0eb4c2d8958f"
+ },
+ {
+  "titulo": "El 5° Informe plasma el cumplimiento de las metas que se han propuesto, Secretario General de Gobierno de Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSzhFdlh0NkduU3UxRGZKdnhnNk02N05ZRm92SjVxbG5EcFdrMnRDUmtPaXBmZGtjSlpjX2JPUlZxTGk4Q080ZEd3ckx1ZGlTRVBKOGhIbE5wOF94UThmOG9vcGNva1RIYXo2ZVgzenpweG5IRzhVcHdhLXpKeG01RDZtbzJ5bUloMmVVYzRXOU0ySU9FZDc4ZWpQbnVpZWV5clNIekRLUzcya2pQM2NJZHZQSllfeEhMcU5DVmFaRjRaY3U5eFpLRlRSTXJOeGlyYWtRTlJQd05yMUxscENPaTAtbXFvZWlQNWlRbVhQeV9zZFM5YVlVZ1RB0gH_AUFVX3lxTE8tZl95alZKWXFGdkhMUllCN1FDQThHWGlrMjZKUHNBUjlJelJZalFiUmlhdW5ZUWE2UThKeldZRFp3WG8zbXg4ejRTcDRCSFdsbmhFaGtzS0RQMFp5YzRxeGItY2RnXzhWR2J5ejM1NEh4LU5VX2E3dEJMQkUxWi1VNHRRMkI2ampHY3ZWVkVPUkN4dWZxLThUand6bVFZWGJiWGx1d0VVTDFXaVBDd1lTT1RRS1ppenRMMFBJQ1ZpU1J5UktEVWtSNVh2M21jSy1Xb3Y0cUxqbGdjTHBrUUhzMG5qWGR1RkNiY0FibFNXcXNkS0tESFJyWGNEV2V1QQ?oc=5",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T12:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "El 5° Informe plasma el cumplimiento de las metas que se han propuesto, Secretario General de Gobierno de Sinaloa Luz Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7724542da967ccf3"
  },
  {
   "titulo": "Feria del Libro Los Mochis 2026 arranca con cuentos y una sala repleta de niños",
@@ -483,6 +1134,35 @@
   "id": "a0d8d841bdf12016"
  },
  {
+  "titulo": "César Julio Saucedo Barrón presenta el Quinto Informe de Labores al Congreso del Estado",
+  "liga": "https://www.luznoticias.mx/2026-11-15/politica/cesar-julio-saucedo-barron-presenta-el-quinto-informe-de-labores-al-congreso-del-estado/315057",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T12:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "09d1ede8af65a5f4"
+ },
+ {
+  "titulo": "César Julio Saucedo Barrón entrega al Congreso el Quinto Informe de Labores del Gobierno de Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRDVONVhKR3dUeVJQSkR2TzZoQURMOWRUVHZFUld5TFRDTzdibkVfVngwTVBuOVZQTE9odkRPcVZwTWZ5RF9iZDBaR2ZXb2tSekVYUm9EQWRyd2tlWE84T3RkZnFleFZOUnpOdXRncG1zcGRwVTh3aVFEaDFyMFc1WXVYNHd1ZzZvRktFWmJnOExjblJ1bWg2X21XTFd1ZFVkZDFaOFBGSWxlWENLMzNKUmZsbXRVaTdJYlNmdFBiSTZGRXBoYU1vWnNid0VLc2FqVjJaYUdqWWbSAd4BQVVfeXFMTWliYmdSOGJYNUNXSWdUY1liMVJqc3N6cW1KLWM3MFJMVWtidVZmVXRRZnBHcHg4YmJWVjcxVlBKOTBUYkpiWWVYdzYzVUNYRWVkaWpqSHBHcXdKY2ZZRUFXSmd4a3FnblBzbkJkM2N6dUx2bVhfOHVFU0o4eUFsQUNBTVljM2NIWGxqUVhsV0hwZkFRZW1vSGstU09TN25rUlhUVTFPMFVMa2NIX3U3ZEYyclp4UVU2OGFKdTl5Z293aGZlb3VMUTBValRzNDFiT2tDa3BsRHAxdnl3TWxR?oc=5",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T12:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "César Julio Saucedo Barrón entrega al Congreso el Quinto Informe de Labores del Gobierno de Sinaloa Luz Noticias",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "e5cb9b73fc273fc9"
+ },
+ {
   "titulo": "“Para terminar con la violencia en Sinaloa se requiere voluntad”: Mario Zamora",
   "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNODdIOWlad3l6enFqa2JYbHQwTG14OG5kYmNnRTROdHhNN00yN1BHYlV4dl9wMzYwX2JWanZEb2RGTXF6RTItaDBZSUdDMElyVGdrVkRUVDZFeUtiNXdRb2VFX3NlcTIxNGlYYmFBS0hRN1ppRzByYXhtRnNab1AzT0tBNTNXY1pfUC1NM0Z4VTlzVTU2c2xjSDljTU9OUU9qVXk3cDYwMFZLazVZN3lvZ2FJQ2JtejA4R25PbWVHV1Zndw?oc=5",
   "medio": "El Sol de México",
@@ -582,6 +1262,21 @@
   ],
   "local": true,
   "id": "cb56d172ffdb390d"
+ },
+ {
+  "titulo": "Frente frío 6 entra a México hoy 15 de noviembre: estos estados tendrán heladas y lluvias",
+  "liga": "https://www.luznoticias.mx/2026-11-15/mexico/frente-frio-6-entra-a-mexico-hoy-15-de-noviembre-estos-estados-tendran-heladas-y-lluvias/315068",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-15T11:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "b94baddd043f8727"
  },
  {
   "titulo": "Avanza en el Congreso de Sinaloa iniciativa del PAN para reducir a la mitad el Impuesto sobre Nómina",
@@ -741,6 +1436,20 @@
   ],
   "local": true,
   "id": "ce2b910899a3331c"
+ },
+ {
+  "titulo": "Enfrentamiento en baile deja 5 muertos en Puebla",
+  "liga": "https://sinaloa.quadratin.com.mx/enfrentamiento-en-baile-deja-5-muertos-en-puebla/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-15T11:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "Una presunta disputa personal habría provocado una riña que terminó en un intercambio de disparos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f666e3c3297b2723"
  },
  {
   "titulo": "Violencia en Sinaloa: ataques armados dejan cuatro muertos y cinco heridos en Mazatlán",
@@ -1808,6 +2517,20 @@
   "id": "d0c4759bdc3ff2b7"
  },
  {
+  "titulo": "Gobierno de Sinaloa analiza si tiene recursos para subsidiar cuatro pesos al pasaje estudiantil",
+  "liga": "https://oem.com.mx/elsoldesinaloa/local/gobierno-de-sinaloa-analiza-si-tiene-recursos-para-subsidiar-cuatro-pesos-al-pasaje-estudiantil-33148353",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-15T08:37:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "La propuesta de los transportistas busca que el Estado cubra la diferencia entre la tarifa actual de 3.50 pesos y los 7.50 pesos que solicitan recibir por cada estudiante",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b8b7b762e86cd549"
+ },
+ {
   "titulo": "Dólar hoy: el precio que marca el tipo de cambio este domingo 15 de noviembre",
   "liga": "https://lineadirectaportal.com/mexico/dolar-hoy-el-precio-que-marca-el-tipo-de-cambio-este-domingo-15-de-noviembre-2026-11-15__1739365",
   "medio": "Línea Directa",
@@ -1905,6 +2628,20 @@
   ],
   "local": true,
   "id": "8734bab029e2b6e3"
+ },
+ {
+  "titulo": "Paseo del Ángel crecerá hasta Sepúlveda con restaurantes y 18 nuevos departamentos en Culiacán",
+  "liga": "https://oem.com.mx/elsoldesinaloa/local/paseo-del-angel-crecera-hasta-sepulveda-con-restaurantes-y-18-nuevos-departamentos-en-culiacan-33148045",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-15T08:01:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T13:45:15-06:00",
+  "resumen": "La expansión contempla nuevos establecimientos hacia el oriente, hasta la calle Sepúlveda, además de la próxima apertura de un restaurante entre el callejón Ramón Corona y Aquiles Serdán",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9d36b01d308a8c6c"
  },
  {
   "titulo": "Clima en México hoy: frente frío 6 provocará chubascos y viento de hasta 50 km/h este domingo",
