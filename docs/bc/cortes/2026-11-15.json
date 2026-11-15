@@ -1,5 +1,50 @@
 [
  {
+  "titulo": "Fiscalía de Sonora detiene a un hombre y asegura 17 dosis de metanfetamina",
+  "liga": "https://elcongresista.mx/politica/sonora/fiscalia-sonora-detiene-hombre-metanfetamina-cajeme",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T01:32:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T01:42:50-06:00",
+  "resumen": "La Fiscalía de Sonora detiene a un hombre y asegura metanfetamina en Cajeme como parte de acciones tras un ataque armado.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7d3d267b62cfff71"
+ },
+ {
+  "titulo": "Accidente en carretera San Luis-Riito deja cinco lesionados",
+  "liga": "https://elcongresista.mx/politica/nacional/accidente-san-luis-rioto-cinco-lesionados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T01:16:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T01:42:50-06:00",
+  "resumen": "Un accidente entre dos camionetas en San Luis-Riito dejó cinco personas heridas, una de ellas menor de edad, sin reportar lesiones graves.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cf195e8a359bcc28"
+ },
+ {
+  "titulo": "Asesinan a balazos a dos hombres junto a las vías del tren; en la colonia Postal",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmFYSktpZTN0Rnc0SVFjODZQYzc3NUZMSS1QTG90QlQ3cl9ydVlzcWFUMGFxWlJLVVBTTWttWmN5UUJTYjlwV1JEMkRnZkRDUFEzQUJ6Vk5YOHZfbEJJTDkxQjAtZzk0dWVpYV9YLXJGWk9yQzRJTnV0NWt2Z25wVFJueVFlYkZTLXpNNWZrcjJHZl9UQi1mVEdhazlMWXR6VGU2SE9feE4yM3NueFltOGRTRVVOVTBuTlhocg?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-15T00:35:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T01:42:50-06:00",
+  "resumen": "Asesinan a balazos a dos hombres junto a las vías del tren; en la colonia Postal AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f8b6b0377b7a577a"
+ },
+ {
   "titulo": "Alok lanza su EP “Nostalgia” con clásicos brasileños reinterpretados",
   "liga": "https://elcongresista.mx/cultura/alok-ep-nostalgia-lanzamiento",
   "medio": "El Congresista",
@@ -12,6 +57,21 @@
   ],
   "local": false,
   "id": "3a3a2a298ebb140c"
+ },
+ {
+  "titulo": "Secretaría de Medio Ambiente de Baja California hace a no utilizar plásticos de un solo uso",
+  "liga": "https://www.uniradioinforma.com/sociedad/secretaria-medio-ambiente-baja-california-hace-utilizar-plasticos-uso-n913712",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-15T00:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T01:42:50-06:00",
+  "resumen": "Si es indispensable usar desechables, optar por alternativas de cartón, papel o materiales compostables y amigables con el medio ambiente.",
+  "temas": [
+   "Gobierno del estado",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "ca5909840b12a152"
  },
  {
   "titulo": "Parque Esperanto recibe el Green Flag Award 2026",
