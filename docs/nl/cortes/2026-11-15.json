@@ -1,5 +1,132 @@
 [
  {
+  "titulo": "Trascendió Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcTdXWEhCTzl5YTZhY25aRHlLTmkxNG54bmN4UE1BUklaMC02ckZHN0dKUWFqX1JrZm5IdnhiWk1XTHBMR25tQW0wYjRUR2dEQWJ2MVJUXzhlMjR1Q2JFTkt5a2dwZHZqVW9lMTNJdTZ1NkR2RVNtd0lzS2FpRU1ETzljQ1dPamxSaUNUVTVlOWltaWRj0gGUAUFVX3lxTE5ZOXgwQS1xalZucGhWS1VSZzBKMzJ1Z3d4OElodTFJNGFhQVpiOTJ6clAtbENON0didHFRSmtuNWhHWVMtS3A5M2Fxek1aUm1XX19lazFYcTg1ZGxoQjlmajBxd1lkOUJpTGhRcmFyWEV4cWFudjcxWTROMENvbFFDaE9WY1BQaDkzREI0U0pyTldHRWw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-15T02:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "Trascendió Monterrey Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d83b7bf995476fe7"
+ },
+ {
+  "titulo": "¿Hay contingencia ambiental HOY, 15 de noviembre? Calidad del aire y autos que No Circulan en CDMX y Edomex",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeFh6N2RBTVA1WW4ySFJGNlVONzdrdkZoWlNBNkFqeG1McGtpTmlJNHlwTHVjZkVUTDZ4X2g2Q3cwLXA3c1JZYmVmSkRSSnpNMVRnam5MWDhudEt2cnhzSVowRkdxa1B2MGY1alBQYktUQjdJOUNSOTBnZFBudy1KYnZ0OG40VnRhdG16MWtnOUk3bHNlckVMSFMxNEtIMy1hbGZMel9vcHBPTkJac2Uxc0kxMHlObE96RUdHZFBxSEZIeXBRZFNsM2M3bTBURm5kbFc5OExmLWpkbU5KMmhlNUhYeTdaeHNG?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-15T02:20:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "¿Hay contingencia ambiental HOY, 15 de noviembre? Calidad del aire y autos que No Circulan en CDMX y Edomex Reporte Indigo",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": false,
+  "id": "6c1a838498dd639c"
+ },
+ {
+  "titulo": "Invitan al Reciclatón",
+  "liga": "https://www.elporvenir.mx/local/invitan-al-reciclaton/1044544",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-15T01:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "Materiales como el unicel o las pilas pueden reciclarse y evitar así el daño al medio ambiente.",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "095030d31ed82c9b"
+ },
+ {
+  "titulo": "Piden investigar daños ambientales en Contry Las Aguilas",
+  "liga": "https://www.elporvenir.mx/local/piden-investigar-danos-ambientales-en-contry-las-aguilas/1044543",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-15T01:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "La diputada Itzel Castillo Almanza lamentó la destrucción que esta sufriendo el cerro de la Silla",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "fb2ba7d17f4c0eb5"
+ },
+ {
+  "titulo": "Realizan operativo de limpieza en la Moderna",
+  "liga": "https://www.elporvenir.mx/local/realizan-operativo-de-limpieza-en-la-moderna/1044542",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-15T01:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "Más de 100 toneladas de basura, cacharros y escombro fueron retiradas de la colonia Moderna, en Monterrey",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "97ee5f2874e40bdf"
+ },
+ {
+  "titulo": "Recolectan cinco toneladas de residuos en San Pedro",
+  "liga": "https://www.elporvenir.mx/local/recolectan-cinco-toneladas-de-residuos-en-san-pedro/1044541",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-15T01:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "El operativo, realizado este viernes por la Secretaría de Servicios Públicos y Mantenimiento a la Ciudad, contó con la participación de Red Ambiental",
+  "temas": [
+   "Gobierno del estado",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "0e32d06814514aef"
+ },
+ {
+  "titulo": "Pagarán apoyos pendientes a organizaciones civiles",
+  "liga": "https://www.elporvenir.mx/local/pagaran-apoyos-pendientes-a-organizaciones-civiles/1044540",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-15T01:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "El Gobierno de Nuevo León pagará, a más tardar el 31 de diciembre de 2026, los apoyos pendientes de 2025 y 2026.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8d7c5677494a52f0"
+ },
+ {
+  "titulo": "Incorpora IVNL nuevos cajeros automáticos",
+  "liga": "https://www.elporvenir.mx/local/incorpora-ivnl-nuevos-cajeros-automaticos/1044539",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-15T01:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "Durante el arranque del Buen Fin Fomerrey 2026; el área inauguró tres dispositivos en colaboración con Banco Azteca",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7e6628471a981edc"
+ },
+ {
+  "titulo": "Ponen en marcha brigada del Registro Civil",
+  "liga": "https://www.elporvenir.mx/local/ponen-en-marcha-brigada-del-registro-civil/1044538",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-15T01:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "Miguel Ángel Flores Serna, secretario General de Gobierno, indicó que los módulos de atención permanecerán este domingo 15 y martes 17 de noviembre",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5511b97cd139951b"
+ },
+ {
   "titulo": "Abarrotan puesto de regularización del ICV",
   "liga": "https://www.elporvenir.mx/local/abarrotan-puesto-de-regularizacion-del-icv/1044537",
   "medio": "El Porvenir",
@@ -1172,6 +1299,20 @@
   ],
   "local": false,
   "id": "ee06f6d888290455"
+ },
+ {
+  "titulo": "Explosión en baños de vapor en Puebla deja viviendas dañadas",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2VUWFBESFZaUTlhZ2t4Nlo0b3RuQ21ZY21rRUlpLWx6cTFQN2R0dTRWaFBBYlRvclk3Z2tGRUZZTjdaZW1FQlpoUG80d290SzJrZnBOSnd0elJPMzhYU2pEVzF2LTRzMTlyTFNYMTYxLUNBOHJFa1NqbXRzWE5naVpkTGRjRk51XzlDbEcxb3hmYTFsZjFmczZ1TmxFRGxGemFuTTJya0VzUdIBqgFBVV95cUxPR0FOQVY0X0VJd3lkR0toVzBPcEhNS0tFRkU5Rkd4a0ZIZXZENFRydnd4RGpiSTNsYmt6aWRxMVhpLXNNWmwyS3pJRkRQSnBXa25CbkZRN0hTWGlFVmhCNklsTU50X0VpRC1hS1ZGZi1VbjFzdi1NNGNQNHFXbDBrT19kWW9PYmJCWGhKemdIOHhwZUUtVWZnT0EwSWd3TzFDZnFBRklFNldIQQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-14T19:13:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T02:53:34-06:00",
+  "resumen": "Explosión en baños de vapor en Puebla deja viviendas dañadas Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9edd2e2eae449ec0"
  },
  {
   "titulo": "Cierran circulación hacia Saltillo por volcadura en carretera 57",
