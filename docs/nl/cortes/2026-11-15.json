@@ -1,5 +1,47 @@
 [
  {
+  "titulo": "Reabre Dallas Love Field tras descartar amenaza en un avión",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGN1bk1HNFFOYUVGX0drUGpkVTdjTUxnbVRTd2N3VVJub3dLclhDREM0cllVODZMdnRsZ0YzUERoMU5BX04yWmJQRzNwUjY3MXRZS25wWXN6S0F3cE1kZkMwazIzRjBTLTUyd3pJbDdXdGtXcy1JeVA3djNUZ3JZNnRaaDhJelJPcUZEbG5qTFNqMEFfQ2pJOHE2U0o5YmdiMHIxRXBMVnIteEpHUFBYQQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-14T23:42:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T00:28:07-06:00",
+  "resumen": "Reabre Dallas Love Field tras descartar amenaza en un avión El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c87d2abfa67bc28f"
+ },
+ {
+  "titulo": "Dallas Love Field reabre tras cierre por alerta de seguridad",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3NGVV9rcHUtVDkwOGZMVHBQMTM3Ym5sYVVRRWFJU19ySTh1VjRfWlp2UURwM2RYNDh1U0ZSbGFod3pnd29YcmU4TloxeHR3eFVvWWdKOEZFMzRhT1VERVU4VEgxMVdjM1dsbE5ERTJwWmdZM2lBd3RxS3haaE0tYmd4S0tjME8tMzdYb0pmb2w5RXB4VmdvMFM5NlN4SFowRjV1Tw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-14T23:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T00:28:07-06:00",
+  "resumen": "Dallas Love Field reabre tras cierre por alerta de seguridad INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "972a440c50530f64"
+ },
+ {
+  "titulo": "Llega Sheinbaum al AICM para despegar hacia China",
+  "liga": "https://www.elnorte.com/llega-sheinbaum-al-aicm-para-despegar-hacia-china/ar3315045",
+  "medio": "El Norte",
+  "publicada": "2026-11-14T23:32:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T00:28:07-06:00",
+  "resumen": "La Presidenta Claudia Sheinbaum despegó rumbo a China, donde participará en la APEC 2026 y se reunirá con el Presidente Chino, Xi Jinping.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7c09e0f0c56ff9bf"
+ },
+ {
   "titulo": "Rafael Márquez ‘No estoy conforme con el equipo’ tras la derrota del Tri",
   "liga": "https://abcnoticias.mx/deportes/2026/11/14/rafa-marquez-295513.html",
   "medio": "ABC Noticias",
@@ -180,6 +222,20 @@
   ],
   "local": false,
   "id": "27e5dc3362dffa33"
+ },
+ {
+  "titulo": "(VIDEO) Accidente en Aeropuerto de Miami: Chocan aviones de Copa Airlines y UPS en pista de aterrizaje",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTlczSU5RX1Z5d1JfM1hXSmFMZlRwWEcyMVdKRHd0ams1UkpYOWlRUGZKbVRZcFlxRWtwSjlid2EwallyOUE1MkpmdVlzRmhYMEVwdEUtZDFRTWE5MWw3RUxZMkV6eUUyTjBMS1RiNUc3VDliQ0ZRc2NISElOdVVNM2x0all4eDNUVm5wR0JyVlAzdmNDUDhweXdoV0lWdzg0U3p4LU82bGcydmJlRVhIbGJtX2VJVzV5bWo2OU1IVDZ4N0tvbzdQNTIxWExROXhmX0E?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-14T22:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T00:28:07-06:00",
+  "resumen": "(VIDEO) Accidente en Aeropuerto de Miami: Chocan aviones de Copa Airlines y UPS en pista de aterrizaje El Financiero",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "95c5dba21edaa187"
  },
  {
   "titulo": "Aprueban autoridades estatales electorales solicitudes de aspirantes a candidaturas independientes",
@@ -377,6 +433,20 @@
   ],
   "local": true,
   "id": "9e8d9d5008c27303"
+ },
+ {
+  "titulo": "Brigada de Control Vehicular en Guadalupe termina en caos; reportan esperas de hasta 14 horas",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWxYOHJPTklEbm51T01SRGgwVkNfSGIyWXVmblZRZ3NBOXRwM1dZaG5vREgzT1ZRN1FTWkNJZVVpRmUtSlNzSW1tRm1fOE5mNUQxZVo0Vnl3ZzA5VXEwTmpleDdEdjhZejdxNUFYM0J4ZzRrcGlCNE5UdWV0WjNTVFJTWkplU2dxUmVTVWVqZGwzT1NkMElPR0pn0gGaAUFVX3lxTE83bWVlRm96V2pTMXBYRWh0NmtZaGdTOHpqZFhjYkpjcnNTZ01qRUZueU01WTNaQWhvRnd0UWRFbEtLYkdSWGk4enZTaU42VzZ3RnhLMGd6Mk1nOHUyNFBGS1hqalhVX2NYandQbWNOLVBWZGl1OTlOZFV2NFBET21OVTRyQjlCeFdpVy02RUdPOERXNGpJcDFYaGc?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-14T20:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T00:28:07-06:00",
+  "resumen": "Brigada de Control Vehicular en Guadalupe termina en caos; reportan esperas de hasta 14 horas Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "49190ad277612df3"
  },
  {
   "titulo": "¡Ni una victoria para Márquez! México cae ante Jamaica en Nations League; deberá remontar en Monterrey",
