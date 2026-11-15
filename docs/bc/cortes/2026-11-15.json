@@ -1,5 +1,181 @@
 [
  {
+  "titulo": "José Salvador de León y Norma Lira celebran 55 años de Howard’s Burgers",
+  "liga": "https://elcongresista.mx/politica/nacional/howards-burgers-55-aniversario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:37:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Howard’s Burgers en Culver City celebra 55 años bajo la dirección de José Salvador de León y Norma Lira, enfrentando nuevos retos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "633dfab39234454a"
+ },
+ {
+  "titulo": "Andy López Beltrán intenta desviar atención de la corrupción en Morena",
+  "liga": "https://elcongresista.mx/justicia/andy-lopez-beltran-desvios-corrupcion-morena",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:36:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Andy López Beltrán busca desviar atención de escándalos de corrupción pero no tiene éxito. La crítica hacia Morena crece en la opinión pública.",
+  "temas": [
+   "Política y partidos",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "48c6b576a40e2ae7"
+ },
+ {
+  "titulo": "Entrega DIF Coahuila 305 aparatos funcionales en la región Sureste",
+  "liga": "https://elcongresista.mx/politica/coahuila/dif-coahuila-entrega-aparatos-funcionales-sureste",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:35:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "DIF Coahuila entrega 305 aparatos funcionales en la región Sureste para mejorar la calidad de vida de personas vulnerables.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d7fd715aa049c28b"
+ },
+ {
+  "titulo": "Atacan domicilio de edil de Tepehuacán; mueren dos policías",
+  "liga": "https://elcongresista.mx/politica/hidalgo/ataque-policias-edil-tepehuacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:34:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Dos policías mueren en Tepehuacán tras un ataque armado al domicilio del alcalde Francisco Martínez Enríquez en un clima de violencia.",
+  "temas": [
+   "Seguridad",
+   "Clima",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "97b8e9883c840de4"
+ },
+ {
+  "titulo": "DHS abre opción de residencia permanente para beneficiarios de DACA",
+  "liga": "https://elcongresista.mx/politica/nacional/dhs-residencia-permanente-beneficiarios-daca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:21:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "El DHS confirma que beneficiarios de DACA podrían acceder a la residencia permanente si el Congreso aprueba una reforma migratoria.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "015c855dc7c97b0a"
+ },
+ {
+  "titulo": "Daira Martínez, de 9 años, publica cinco libros y propone formación científica",
+  "liga": "https://elcongresista.mx/ciencia/daira-martinez-queretaro-publica-cinco-libros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:17:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Daira Martínez, una niña de 9 años, presenta sus logros en ciencia y busca acceso a la formación de astronautas análogos.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0885b9f895afb709"
+ },
+ {
+  "titulo": "Niño prodigio del básquetbol inspira a la NBA con su talento",
+  "liga": "https://elcongresista.mx/politica/nacional/ambar-baleani-basketball-kyrie-irving",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:16:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Ámbar Baleani, joven promesa del básquet, sorprende a Kyrie Irving y sueña con jugar en la WNBA tras desarrollar su talento de forma autodidacta.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c211f58087c1c24e"
+ },
+ {
+  "titulo": "Hoy No Circula domingo 15 de noviembre: circulan todos los vehículos",
+  "liga": "https://elcongresista.mx/vehicular/hoy-no-circula-domingo-15-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:05:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Este domingo 15 de noviembre de 2026 no aplica el Hoy No Circula: todos los vehículos pueden circular en la CDMX y el Estado de México, salvo que la CAMe active una conti",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "36ff1eae0fce552c"
+ },
+ {
+  "titulo": "Guerreros: campesino desaparecido desde septiembre por La Nueva Familia Michoacana",
+  "liga": "https://elcongresista.mx/politica/guerrero/guerrero-domingo-atanacio-desaparecido-secuestro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T04:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Domingo Atanacio, campesino en Guerrero, desaparece desde septiembre tras un secuestro por La Nueva Familia Michoacana.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5c780ecaa379b33a"
+ },
+ {
+  "titulo": "Detienen a Miguel Ángel “N” en caso Carlos Manzo en Jalisco",
+  "liga": "https://elcongresista.mx/politica/jalisco/detencion-miguel-angel-n-caso-carlos-manzo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:50:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Grecia Quiroz celebra la detención de Miguel Ángel \"N\" en el caso Carlos Manzo, y exige esclarecer a los autores intelectuales.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a1f6a9596b8fa539"
+ },
+ {
+  "titulo": "Gabito Ballesteros se presenta en Nextlalpan tras su liberación en Querétaro",
+  "liga": "https://elcongresista.mx/estado-de-mexico/gabito-ballesteros-nextlalpan-liberacion-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:49:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Gabito Ballesteros se presenta en Nextlalpan tras ser liberado de una detención en Querétaro por apología del delito.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2aebf7eb26bd892d"
+ },
+ {
+  "titulo": "Mara Lezama presenta avances del proyecto Barrio Mágico en Chetumal",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/mara-lezama-barrio-magico-chetumal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:47:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T04:45:53-06:00",
+  "resumen": "Mara Lezama discute avances del proyecto Barrio Mágico y otras iniciativas económicas en Chetumal, enfocadas en el desarrollo local.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "02ef9e81f4e2003b"
+ },
+ {
   "titulo": "Iurreta, Durango: homenaje a emprendedores y asociaciones en premios",
   "liga": "https://elcongresista.mx/politica/durango/iurreta-durango-laboral-kutxa-hemendik-sariak",
   "medio": "El Congresista",
