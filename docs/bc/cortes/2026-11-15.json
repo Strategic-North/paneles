@@ -1,5 +1,194 @@
 [
  {
+  "titulo": "Iurreta, Durango: homenaje a emprendedores y asociaciones en premios",
+  "liga": "https://elcongresista.mx/politica/durango/iurreta-durango-laboral-kutxa-hemendik-sariak",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:34:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "Iurreta acoge la entrega de los Laboral Kutxa Hemendik Sariak, reconociendo la labor de emprendedores y asociaciones el próximo jueves.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "07fde18961a9a09b"
+ },
+ {
+  "titulo": "Inauguran exposición \"Miradas de una historia compartida\" en Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/inauguracion-exposicion-sonora-francia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:20:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "Hermosillo inaugura exposición sobre 200 años de amistad con Francia en el Festival Cultural que celebra la relación histórica entre ambas naciones.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "38b301085b1e2084"
+ },
+ {
+  "titulo": "Aprueba Ficoseg en Sonora 787 mdp para proyectos de seguridad",
+  "liga": "https://elcongresista.mx/politica/sonora/sonora-ficoseg-aprueba-seguridad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:11:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "Ficoseg aprueba 787 millones de pesos para proyectos de seguridad en Sonora, incluyendo videovigilancia y equipamiento vehicular.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "28f76adeccdeb2da"
+ },
+ {
+  "titulo": "Accidente en Tuxtla Gutiérrez: Renault choca contra Hyundai tras maniobra evasiva",
+  "liga": "https://elcongresista.mx/politica/chiapas/accidente-tuxla-gutierrez-renault-hyundai",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:10:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "Un Renault choca contra un Hyundai tras una maniobra evasiva en Tuxtla Gutiérrez, Chiapas, sin registrar heridos graves.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6e765b125bafc897"
+ },
+ {
+  "titulo": "Tampico: duplica motocicletas de carga para recicladores a 26",
+  "liga": "https://elcongresista.mx/tamaulipas/tampico-motocicletas-recicladores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:10:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "Tampico aumentará de 13 a 26 las motocicletas de carga para ayudar a recicladores y proteger a 89 caballos.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2e577e7b9ca53c6a"
+ },
+ {
+  "titulo": "INE podría adoptar medidas para corregir sobrerrepresentación en 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/ine-propuestas-corrigir-sobrerrepresentacion-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T03:02:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "La Alianza Democrática propone al INE medidas para abordar la sobrerrepresentación política en la Cámara de Diputados para las elecciones de 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "32778f2e9a382b88"
+ },
+ {
+  "titulo": "Orquesta Sinfónica de Yucatán cautiva a más de 30 músicos en concierto",
+  "liga": "https://elcongresista.mx/politica/yucatan/orquesta-sinfonica-yucatan-emotivo-concierto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T02:33:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "La Orquesta Sinfónica de Yucatán ofreció un emocionante concierto en Mérida, con destacadas actuaciones y un repertorio vibrante.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "18da6a95c7f98196"
+ },
+ {
+  "titulo": "Cárteles usan drones para vigilar frontera de Tijuana y San Diego",
+  "liga": "https://elcongresista.mx/seguridad/carteles-drones-frontera-tijuana-san-diego",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T02:30:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "Los cárteles en la frontera Tijuana-San Diego emplean drones para vigilar a la Patrulla Fronteriza, afectando su operatividad.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c9746f96ac4d6caf"
+ },
+ {
+  "titulo": "Tapalpa: pronóstico del clima para el domingo 15 de noviembre",
+  "liga": "https://elcongresista.mx/politica/jalisco/clima-tapalpa-15-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T02:23:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "El 15 de noviembre, Tapalpa se presentará con un clima claro y temperaturas entre 11 y 20 grados Celsius.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "be521d93e767f060"
+ },
+ {
+  "titulo": "Celebran 51 años de la Vela Muxe en Juchitán con desfile",
+  "liga": "https://elcongresista.mx/politica/oaxaca/vela-muxe-juchitan-51-aniversario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T02:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "La comunidad muxe celebra 51 años de la Vela Muxe en Juchitán con un desfile que recuerda a sus fallecidos y exige justicia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "282dcc0df3e8c2f9"
+ },
+ {
+  "titulo": "José Rozo Contreras, destacado músico, cumple 50 años de fallecido",
+  "liga": "https://elcongresista.mx/cultura/jose-rozo-contreras-50-anos-muerte",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T02:06:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "Se cumplen 50 años de la muerte de José Rozo Contreras, referente de la música colombiana y director de la Banda Sinfónica Nacional.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "d7cb1843cdad3331"
+ },
+ {
+  "titulo": "¿Qué es el spoofing de email? Cómo funciona y cómo evitarlo",
+  "liga": "https://www.uniradioinforma.com/ciencia-tecnologia/que-spoofing-email-como-funciona-como-evitarlo-n913578",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-15T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "El spoofing de email falsifica la identidad del remitente para que un mensaje parezca provenir de un correo o empresa legitima. ESET comparte consejos que ayudan a detectar y bloquear correos falsificados.‌",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "22332e25f2f8d176"
+ },
+ {
+  "titulo": "Festival Internacional de Murales en Mitla pinta 8 muros en 2023",
+  "liga": "https://elcongresista.mx/politica/oaxaca/festival-internacional-de-murales-mitla-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-15T01:46:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-15T03:48:32-06:00",
+  "resumen": "El Festival Internacional de Murales en Mitla 2023 culmina con la creación de ocho nuevas obras que celebran la cultura zapoteca.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5292048a55fa8375"
+ },
+ {
   "titulo": "Fiscalía de Sonora detiene a un hombre y asegura 17 dosis de metanfetamina",
   "liga": "https://elcongresista.mx/politica/sonora/fiscalia-sonora-detiene-hombre-metanfetamina-cajeme",
   "medio": "El Congresista",
