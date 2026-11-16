@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-16T12:27-06:00",
+ "actualizado": "2026-11-16T13:35-06:00",
  "corte": "2026-11-16",
  "ventana": [
   "2026-11-15T18:30-06:00",
   "2026-11-16T18:30-06:00"
  ],
- "total": 439,
+ "total": 503,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -16,7 +16,7 @@
   {
    "fuente": "Noroeste",
    "ok": true,
-   "notas": 73
+   "notas": 71
   },
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 365
+   "notas": 370
   },
   {
    "fuente": "Los Noticieristas",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 3
+   "notas": 4
   },
   {
    "fuente": "Noticiero Altavoz",
@@ -125,13 +125,13 @@
   },
   {
    "fuente": "Google News: site:debate.com.mx \"Los Mochis\"",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: Sinaloa",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  ]
 }
