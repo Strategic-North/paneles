@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-16T15:26-06:00",
+ "actualizado": "2026-11-16T16:25-06:00",
  "corte": "2026-11-16",
  "ventana": [
   "2026-11-15T18:30-06:00",
   "2026-11-16T18:30-06:00"
  ],
- "total": 462,
+ "total": 513,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -71,37 +71,37 @@
   {
    "fuente": "Google News: Ensenada",
    "ok": true,
-   "notas": 79
+   "notas": 83
   },
   {
    "fuente": "Google News: site:elvigia.net",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 72
   },
   {
    "fuente": "Google News: site:bajanews.mx",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 78
   },
   {
    "fuente": "Google News: site:afntijuana.info",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 56
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
    "ok": true,
-   "notas": 3
+   "notas": 2
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 16
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
-   "ok": true,
-   "notas": 3
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
@@ -110,23 +110,23 @@
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 1
   },
   {
    "fuente": "Google News: Ensenada policías municipales detenidos",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 3
   },
   {
    "fuente": "Google News: Ayuntamiento de Ensenada deslinda",
-   "ok": true,
-   "notas": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: Ensenada (detenido OR detienen) funcionario",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 0
   }
  ]
 }
