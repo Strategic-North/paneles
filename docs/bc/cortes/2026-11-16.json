@@ -1,5 +1,457 @@
 [
  {
+  "titulo": "PSOE Salamanca propone 35 millones para mejorar presupuestos 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/psoe-salamanca-propuestas-presupuestos-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "El PSOE de Salamanca propone 35 millones de euros para mejorar presupuestos de 2027, enfocándose en áreas cruciales como educación y sanidad.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3cd65b281bb78e98"
+ },
+ {
+  "titulo": "Asesinan al periodista Eduardo Flores en Acapulco, Guerrero",
+  "liga": "https://elcongresista.mx/politica/guerrero/asesinan-periodista-eduardo-flores-acapulco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:55:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "El periodista Eduardo Flores fue asesinado en Acapulco, Guerrero, lo que genera indignación y exige justicia por parte de colegas y autoridades.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6d251c47c7cd6b34"
+ },
+ {
+  "titulo": "Fallece Miguel Ángel Félix Gallardo, \"el jefe de jefes\", a los 80 años",
+  "liga": "https://elcongresista.mx/justicia/felix-gallardo-fallecimiento",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:54:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Miguel Ángel Félix Gallardo, conocido como \"el jefe de jefes\", falleció a los 80 años en Guadalajara, tras años de poder en el narcotráfico.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d51de09092e1715b"
+ },
+ {
+  "titulo": "Sequía afecta 800 hectáreas de maíz en el sur del Edomex",
+  "liga": "https://elcongresista.mx/estado-de-mexico/sequia-danha-800-hectareas-maiz-sur-edomex",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:48:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "La sequía en el sur del Estado de México afecta 800 hectáreas de maíz, poniendo en riesgo las cosechas de agricultores locales.",
+  "temas": [
+   "Agua",
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "3012fbc78c69eabe"
+ },
+ {
+  "titulo": "Coliseo Podestá: reapertura con gala lírica y 140 años de historia",
+  "liga": "https://elcongresista.mx/cultura/coliseo-podesta-reapertura-140-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:47:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "El Coliseo Podestá reabrirá el 17 de noviembre con una gala lírica, celebrando 140 años de historia con una programación cultural renovada.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f817cd9f461c9ef6"
+ },
+ {
+  "titulo": "Empresarias destacan a Ana Lucía Pineda y su impacto en el Gobierno",
+  "liga": "https://elcongresista.mx/politica/nacional/empresarias-elogian-ana-lucia-pineda",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:37:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Empresarias de Agua Bendita elogian a Ana Lucía Pineda, primera dama de Colombia, por su impacto positivo en el nuevo Gobierno.",
+  "temas": [
+   "Agua",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "caf6c17c0b41b94f"
+ },
+ {
+  "titulo": "Gimnasia visitará a Huracán en la fecha 14 del Clausura femenino",
+  "liga": "https://elcongresista.mx/politica/nacional/gimnasia-huracan-clausura-femenino-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:36:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Gimnasia visitará a Huracán en la fecha 14 del Clausura femenino, buscando sumar puntos tras una victoria previa.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "af5c9c457c817ff8"
+ },
+ {
+  "titulo": "Lanzan entrenador de lectura de notas musical gratuito en línea",
+  "liga": "https://elcongresista.mx/educacion/entrenador-lectura-notas-musical-gratuito",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:36:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Nueva herramienta gratuita para aprender a leer notas musicales online con teclado MIDI, mejora tus habilidades musicales fácilmente.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Educación"
+  ],
+  "local": false,
+  "id": "44a0469a308f82cb"
+ },
+ {
+  "titulo": "Hugo Alconada Mon expresa su pasión por Estudiantes de La Plata",
+  "liga": "https://elcongresista.mx/politica/nacional/hugo-alconada-mon-pasión-estudiantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:35:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Hugo Alconada Mon compartió su conexión con Estudiantes de La Plata y su experiencia tras la clasificación a la final de la Copa Libertadores.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f6d92b493df4ebbe"
+ },
+ {
+  "titulo": "La Plata celebra la segunda edición de la Semana de la Música 2023",
+  "liga": "https://elcongresista.mx/cultura/semana-de-la-musica-la-plata",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:32:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "La Plata celebrará la “Semana de la Música” del 14 al 22 de noviembre, con más de 200 mil asistentes y destacados artistas.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "0a4a36eae8acefed"
+ },
+ {
+  "titulo": "Luis Parra pide a Aragón dejar de ser \"tierra de sacrificio del Estado\"",
+  "liga": "https://elcongresista.mx/politica/nacional/luis-parra-aragon-tierra-sacrificio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:28:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Luis Parra, candidato al Congreso, pide que Aragón deje de ser \"tierra de sacrificio\" en su visita a Ribagorza.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "da9a4dc6de4bafbf"
+ },
+ {
+  "titulo": "Ahorro para vivienda en México requirió hasta 10 años de esfuerzo",
+  "liga": "https://elcongresista.mx/politica/nacional/ahorro-vivienda-mexico-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:27:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "La dificultad para acceder a vivienda propia en México se traduce en un aumento de hogares inquilinos, alcanzando hasta 10 años de ahorro.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "eb3ac3b3593ac033"
+ },
+ {
+  "titulo": "Estopa anuncia preventa de entradas para su gira en 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/estopa-gira-2027-preventa-entradas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:24:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Estopa inicia la preventa de entradas para su gira 'La Maketa' el 16 de noviembre y la venta general el 17 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ad91c364702c36f6"
+ },
+ {
+  "titulo": "Morena aplaza convocatoria para elegir nueva presidenta del INE",
+  "liga": "https://elcongresista.mx/justicia/morena-aplaza-convocatoria-presidencia-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:09:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "La convocatoria para elegir a la nueva presidenta del INE se aplaza una semana más por falta de consenso político y reformas prioritarias en el Congreso.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d8274c41c73ffd5d"
+ },
+ {
+  "titulo": "Grand Theft Auto VI se lanza el 19 de noviembre tras 13 años de espera",
+  "liga": "https://elcongresista.mx/politica/nacional/grand-theft-auto-vi-lanzamiento-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:06:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "El esperado Grand Theft Auto VI se lanzará el 19 de noviembre, regresando a Vice City en un mundo abierto y dinámico.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "741b201a4f3adaa3"
+ },
+ {
+  "titulo": "Toluca regulariza 2,100 negocios tras incremento en licencias",
+  "liga": "https://elcongresista.mx/politica/edomex/toluca-regulariza-negocios-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T05:02:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Toluca regulariza 2,100 negocios y facilita forma legal de operar, impulsando el desarrollo económico en la ciudad.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "afeae7c6ddacbaa7"
+ },
+ {
+  "titulo": "Ejecutan a hombre en Dzityá; la víctima era de Guerrero",
+  "liga": "https://elcongresista.mx/justicia/ejecutan-hombre-dzitya",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:56:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Un hombre originario de Guerrero fue ejecutado en Dzityá, Yucatán, en un ataque perpetrado por sicarios.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b879e75a5c327f1e"
+ },
+ {
+  "titulo": "Kast baja a 18 % de aprobación y 79 % rechaza continuidad de Rabat",
+  "liga": "https://elcongresista.mx/politica/nacional/kast-baja-aprobacion-18",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:56:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "La aprobación del presidente José Antonio Kast cae a 18 % y el 79 % rechaza continuidad de ministro Rabat, según encuesta reciente.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ed97f8e6ed9c6304"
+ },
+ {
+  "titulo": "Natuza Nery canta en karaoke y recibe elogios en Japón",
+  "liga": "https://elcongresista.mx/politica/nacional/natuza-nery-canto-en-kioto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:52:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "La periodista Natuza Nery impresiona en karaoke de Kioto al cantar una famosa balada de Céline Dion y recibe elogios.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5dcc7e2ba6470e42"
+ },
+ {
+  "titulo": "El Mar Menor presenta estado ambiental frágil en 19 de 32 playas",
+  "liga": "https://elcongresista.mx/politica/nacional/mar-menor-estado-ambiental-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:51:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "El Mar Menor presenta problemas ambientales graves en 19 de 32 playas analizadas en un reciente informe de verano.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5e60439c8b0f6d49"
+ },
+ {
+  "titulo": "Ensenada tiene por primera vez un campeón sudamericano en boxeo",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZy10bDRXMTMtU1REaHBTdjhMRDBpSnhIVnRsWk43VVBxc3JfdWgzYnI0S0JQZzlXVURJU0FQa2xLcjFBMWl6RGtaVXFoQllza2wyRkZGNGdHUWd4QzJzVFM1clhEd29fQUxpT2FvLUFPZlFmZ2t1ZXZiR3M4eldPbmRzLVFsb2hBUmdJNDRvS3ZTdmlkbG5Dc2Ytc3NUMHUtWDlVZ3dVX3NjZw?oc=5",
+  "medio": "Fuerte Barragán",
+  "publicada": "2026-11-16T04:51:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Ensenada tiene por primera vez un campeón sudamericano en boxeo Fuerte Barragán",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "adb0ad932224aa00"
+ },
+ {
+  "titulo": "CEIM capacita a 30,000 personas anualmente en minería en Chile",
+  "liga": "https://elcongresista.mx/politica/nacional/ceim-capacita-30000-personas-anualmente",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:48:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "CEIM en Chile capacita a 30,000 personas al año en minería, enfocándose en la capacitación técnica y habilidades blandas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "04729522bc65f9fd"
+ },
+ {
+  "titulo": "John Alfredsson destaca influencia de Lars Ulrich en su carrera",
+  "liga": "https://elcongresista.mx/cultura/john-alfredsson-lars-ulrich-influencia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:20:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "John Alfredsson, de Avatar, elogia a Lars Ulrich de Metallica y su impacto en su carrera musical en una reciente entrevista.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "a9bffb46f7b80bc3"
+ },
+ {
+  "titulo": "Avanza 32.5% la demolición y remodelación del tren CDMX-Querétaro",
+  "liga": "https://elcongresista.mx/politica/hidalgo/avance-remodelacion-estacion-tula-tren-mexico-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:17:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "La remodelación de la estación en Tula avanza un 32.5% y estará lista para el tren México-Querétaro en 2027, mejorando la conectividad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7caf649e86f70537"
+ },
+ {
+  "titulo": "Hoy No Circula lunes 16 de noviembre: placas 5 y 6, engomado amarillo",
+  "liga": "https://elcongresista.mx/vehicular/hoy-no-circula-lunes-16-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:05:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Este lunes 16 de noviembre de 2026 descansan los vehículos con engomado amarillo y terminación de placa 5 y 6 (hologramas 1 y 2), de 5:00 a 22:00 horas, en CDMX y los 18",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c05674dc5435ee02"
+ },
+ {
+  "titulo": "Murió Félix Gallardo, \"jefe de jefes\" del narcotráfico, a los 80 años.",
+  "liga": "https://elcongresista.mx/politica/nacional/felix-gallardo-muerto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T04:02:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Félix Gallardo, \"jefe de jefes\" del narcotráfico mexicano, falleció en Jalisco a los 80 años tras décadas de prisión.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "21b8c1dbf5b41474"
+ },
+ {
+  "titulo": "Desirée Barquero: constelaciones familiares ayudan a sanar emociones",
+  "liga": "https://elcongresista.mx/salud/desiree-barquero-constelaciones-familiares",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T03:49:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Desirée Barquero comparte su experiencia y los beneficios de las constelaciones familiares para la sanación de emociones.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "c272813b2505394b"
+ },
+ {
+  "titulo": "Demócratas en Congreso de EE. UU. buscarán reformar agenda migratoria",
+  "liga": "https://elcongresista.mx/politica/nacional/reforma-migratoria-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T03:48:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Los demócratas en el Congreso de EE. UU. buscan reformar la política migratoria tras ganar la mayoría legislativa.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cbcc253308adacd9"
+ },
+ {
+  "titulo": "Desmantelan granja de criptomonedas del CJNG en Tlaola, Puebla",
+  "liga": "https://elcongresista.mx/politica/puebla/desmantelan-granja-criptomonedas-cjng-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T03:47:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Desmantelan granja de criptomonedas del CJNG en Tlaola, Puebla, con el aseguramiento de 100 tarjetas gráficas y 50 equipos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d3f3fbb2a3eeb572"
+ },
+ {
+  "titulo": "Ha-Joon Chang advierte a México sobre su relación con EE.UU.",
+  "liga": "https://elcongresista.mx/economia/ha-joon-chang-mexico-debe-rediseñar-relacion-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T03:46:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Ha-Joon Chang advierte que México debe replantear su relación con Estados Unidos para mejorar su economía y evitar consecuencias negativas.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "bf8f70e2cb26fcc6"
+ },
+ {
+  "titulo": "Sheinbaum se reunirá con Xi Jinping en APEC; comercio no será central",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-reunion-xi-jinping-apec-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T03:46:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T06:12:50-06:00",
+  "resumen": "Claudia Sheinbaum asiste a APEC en China. No se abordará el comercio con Xi Jinping, se enfoca en cooperación y el Plan México.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c5695ca1f4c0335a"
+ },
+ {
   "titulo": "Destruyen con trascabo y reducen a chatarra avión que perteneció a Pedro Infante y sobrevivió a la Segunda Gue",
   "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTFPODVPYUxWN3NrUDYydDZla19oMnozWnBVcW5pc3RJV0JMeld4WEZjSG9FVHlPcUJXWjFyc0VtM0V1aVRsZy1oSFdvdXQ2cVJ0T2FONzdxVXF1d3h5RUgzZExYRGhTdU14T3ZHY1pZRUV4ZjhMbWFtcHE0VUI4aU9rTDI3ejk2dkgtT0FWOXFvbWpRZURMY2N2M0tZc3dLSFHSAaIBQVVfeXFMTlUxTzg1T2FMVjdza1A2MnQ2ZWtfaDJ6M1pwVXFuaXN0SVdCTHpXeFhGY0hvRVR5T3FCV1oxcnNFbTNFdWlUbGctaEhXb3V0NnFSdE9hTjc3cVVxdXd4eUVIM2RMWERoU3VNeE92R2NaWUVFeGY4TG1hbXBxNFVCOGlPa0wyN3o5NnZILU9BVjlxb21qUWVETGNjdjNLWXN3S0hR?oc=5",
   "medio": "Milenio",
