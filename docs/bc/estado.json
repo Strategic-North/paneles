@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-16T16:25-06:00",
+ "actualizado": "2026-11-16T17:22-06:00",
  "corte": "2026-11-16",
  "ventana": [
   "2026-11-15T18:30-06:00",
   "2026-11-16T18:30-06:00"
  ],
- "total": 513,
+ "total": 535,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -45,8 +45,8 @@
   },
   {
    "fuente": "El Congresista",
-   "ok": true,
-   "notas": 30
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "fuente": "El Portavoz",
@@ -71,22 +71,22 @@
   {
    "fuente": "Google News: Ensenada",
    "ok": true,
-   "notas": 83
+   "notas": 86
   },
   {
    "fuente": "Google News: site:elvigia.net",
    "ok": true,
-   "notas": 72
+   "notas": 70
   },
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 78
+   "notas": 76
   },
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 56
+   "notas": 51
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
@@ -96,17 +96,17 @@
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 16
+   "notas": 15
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 6
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 22
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",

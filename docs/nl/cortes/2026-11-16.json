@@ -1,5 +1,537 @@
 [
  {
+  "titulo": "Familias desafían frente frío visitando balneario en La Huasteca",
+  "liga": "https://abcnoticias.mx/local/2026/11/16/familias-desafian-frente-frio-visitando-balneario-en-la-huasteca-295666.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T17:20:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "c4c94c445cb24591"
+ },
+ {
+  "titulo": "Jamaica entrena en el Estadio Monterrey antes de enfrentar a México en Nations League",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/16/jamaica-entrena-en-el-estadio-monterrey-antes-de-enfrentar-a-mexico-en-nations-league-295664.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T17:19:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "6aceac8bfc1375dc"
+ },
+ {
+  "titulo": "Frente Frío 7 entra HOY a México: ¿Qué estados sufrirán con bajas temperaturas?",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUw0VkVkR0Vzb01oUUliZHMwWnFQNTA0NjdZa1JobXFiU0xYYzJYZVduY1JQblRDd3dBQUhVVURVbkhZamJSdUtYeVN1N0FlXzhvYnUySXRvYnFPR3ptMTI3elptNWd5VjlkN3ZsbkRHV29LUnFJQXRSM2Y1UmZBX0NZTHpmbGJwNzZCT3l1Z3k4N2hTclJ6eWI2WWdFb0RLY2JWdGtmTGJUMTgxRFZkcDhzanNKWmI5NE9nWUhqS3pqWnoyUFliYw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-16T17:18:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Frente Frío 7 entra HOY a México: ¿Qué estados sufrirán con bajas temperaturas? El Financiero",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "f0a23dcdab7c975c"
+ },
+ {
+  "titulo": "Encuentro reúne a 150 participantes para analizar tecnología",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3dYaGFiVngxZEJOWV80eFdVVWFsY05Jc185ZndkYmE3Mm5fZjFaVUxkZnpGLUxoYTMzc1VsVU5Nbkk0OFlIcGl6bVBOazJtNG5HZnEwczhUYUxzQnJJbFpkQVRtN0JhLS15enFManRWSEFRYVQxZmVZcG1lMldFckZIdFlPbmdLYWlMM1NDbEMxQTBfc2ZHc3lXQnRfbkk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T17:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Encuentro reúne a 150 participantes para analizar tecnología INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "978ffc69a871bbf4"
+ },
+ {
+  "titulo": "¿Cómo aterrizó un piloto novato su vuelo en curso durante la crisis aérea del viernes en EU?",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOTFmUFRjbFd6UTRoZWhGYUxvNEtJWmdpdlVfY0dFdWc3Wk9Bclg0M1Ezd09jQ0o0VmU1NDA1ekxiS01uUFNkd2ZvZExZQzVCYkFLR21mUldNUVVCTmIxRUNzMjFMMEZVcVBxMU5aVE5uLVMzWkQ4Mi1xLVN2dWdaXzBaV0RyM0V6YS1uZl9CeUZwSzRVT05DR0dwRUYwZU5SdWVXaGlyVU9mblBVRzdQTVBlQTFuVndaaFNfWk9mWkFPVmtuZEtYclJEaUl4RlhQMVd5Y05Bdw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-16T17:14:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "¿Cómo aterrizó un piloto novato su vuelo en curso durante la crisis aérea del viernes en EU? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "12c8b05e572f46ce"
+ },
+ {
+  "titulo": "¡La NFL en México! 49ers vs. Vikings en el Estadio Banorte: Fecha, hora, dónde ver, show de medio y más",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGNBY0ZBNVQ1dEhJOFM5eG8tcVNraFJ5eldDQVFXVzh6MC0wWk0tOFhVeEl2anh6TVhPYzVIUFRORUIxT1RyQ0YzRkhycE03SnJYTkFhbmdkWEdJYktxbXpIelliT2xwSjBveW5RZmlhd01nUm1YQUdJS2NteUxnOEladnZ3TUp0alBpVV9TVWpwdFVwRTRWR0dLRzdoQjY3eFVfcXp0cXltbUtCOUE?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-16T17:14:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "¡La NFL en México! 49ers vs. Vikings en el Estadio Banorte: Fecha, hora, dónde ver, show de medio y más El Financiero",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "95422dc54a3fafc6"
+ },
+ {
+  "titulo": "Monterrey suma cuatro unidades médicas a sus Puntos Seguros",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWtpR0w0OFlMU3gxUXpFZVNzQmlXVUs0V3MzR0tBNEpsRS11bE9pZmdSbHVLSnBicTdwZEZPVGFONEZXYWpnM09LenMxYUp3V0FNTUZ1Vy1uclY0M3R5dU9TU3B3dldlNXRjRmFaVEN2clBzVGp6Z01XSmMwb0NEU09kUVFwM19vakNVQ0pmMUlpYzQ3MjBTYnRYaGJKQQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T17:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Monterrey suma cuatro unidades médicas a sus Puntos Seguros INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e5e9319b2f84b7b2"
+ },
+ {
+  "titulo": "Refuerzan seguridad en comercios de Monclova por Buen Fin",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUlBdDgzZXBJVzU0N3dpemZ0XzV3Z3R1MHhBdzMtb1h5Qmc5c3JwMzJ2Wm0tc1M1U2Rfcy1MMTd6alNpekJtRkR2WXRRNkh2dWlhbnBkQV9ROVBSSWZPc1hKZ2tlT2lLUWZhdGpiYUNKOU1QdDhERUpfRmVkb0Q1MU92R2F3Z19seWtfWkRZWWZ6NDFmM1lrVTJNNmx4d01zZGkwcUpHOA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T17:11:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Refuerzan seguridad en comercios de Monclova por Buen Fin El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "faa53a0708c9e686"
+ },
+ {
+  "titulo": "Yan Yuexia: quién es la guardaespaldas de Sheinbaum en China",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/16/yan-yuexia-quien-es-la-guardaespaldas-de-sheinbaum-en-china-295662.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T17:10:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1e1c43cfa019f884"
+ },
+ {
+  "titulo": "Janzey apuesta al reggaetón con el lanzamiento de “Posesiva”",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGFnTmVmbTVyRUpSdm9fZFI0dHdnNmZPWHJLY2Z0VWdpTURfaU9mbWxwYVYxQ01HUjRWdUJqRXRIRV9vWlpyY3ZZM2JvdW5Mc1F1QXFKbm9NczhrdkM5cF94UG5PLXV3LVA2d1cyemJOX3ZuUEhLS1Vjb1hoam1pSVQxbzd6MVdRMEFkbUZUd3Z3TGE5ZnlTeGVlNlc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T17:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Janzey apuesta al reggaetón con el lanzamiento de “Posesiva” INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a9333d9945e09865"
+ },
+ {
+  "titulo": "Localizan a mujer sin vida en terreno baldío de Apodaca",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2JMOVZfR2JlYlZjZktIaklkYkFtNEdIMTY2QWRQb01xMk9mRE43aTlJNHpTdTVFcFZHZ21QVTg4VmFHcEUzbnR5SHh4dm5Zb29vcnh6VTh2WWhNSk5rS2REc3l3N0dLUkd2QkFXQkRFMzlzNUxsTE5LcUhuc1NiNXc5b3lOeWdhYlMwVnA4VGNBaGtxN0R5S1k3eVJ6Sk10VnN2WEtJOU1aOWtIU2FhZTlVTQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-16T17:08:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Localizan a mujer sin vida en terreno baldío de Apodaca MVS Noticias",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1023fd2be84188ab"
+ },
+ {
+  "titulo": "Monclova despliega 115 efectivos para vigilar el Buen Fin",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeG1meWtDdnFjUWVkbUt4LXI5S0xjNGZtVXhVQnpETE9HNjFlVlJ2N29PR2hJdWRiNmphQ092SlNMdm9na241Z1J0SVJaazJsS210ZmJfUmp0ZnpaRlpqcmR0SE5pVFpNZXZGS2tUWXVNNnRTeWd1aUh1MnI3bl9ya3A0U0s1WEpCeUdDWmQ5Y2IwVWtfRE1lajF3?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T17:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Monclova despliega 115 efectivos para vigilar el Buen Fin INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b4c925baaff086d1"
+ },
+ {
+  "titulo": "Jamaica no se conforma con la ventaja ante México; buscará otro gol en Monterrey",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/16/jamaica-no-se-conforma-con-la-ventaja-ante-mexico-buscara-otro-gol-en-monterrey-295663.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T17:04:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "b13f23f9055f15b2"
+ },
+ {
+  "titulo": "¿Qué es SMART, el sistema con inteligencia artificial que utiliza la aviación de EU?",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3VfSGRuLTlCRzBWTzJsSlBrY3JKaXZ2a0JkREJteFVmbUpIZ2ZuajhmcXY1RnJPcUU1dTBHZlVDUkVuVmxxbi1nMERNd056cFhrcjRTUHNXOFZMdElwZ2VSSEw4OEF0ZnBuN24xNDdnWmxFdGdOSmpZOXNNTGJHSmRIZFY5b0tMWENORHRTMHh4Z9IBkgFBVV95cUxPTDZZOFQ5eTBieWt5NVdwT1FUUy03b0NST1gwY1RtYWxQcDRmLWtBWWtURi1MZlRuMEZ1MjdwZDJZY0gtbkpOcjhCdjRzaGFWSzVFX2hOX3Rib1pOLTNlS0tkY212WG9veW15dkQ3OGwtWlA0NmtYLTVtczBDT3I3SEZheWdUb19uU2ZlOW1peWNEZw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-16T16:58:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "¿Qué es SMART, el sistema con inteligencia artificial que utiliza la aviación de EU? Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9daf922f9cae1935"
+ },
+ {
+  "titulo": "¡Lo celebra! Dolores Aveiro, mamá de Cristiano Ronaldo, defiende a su hijo y habla tras la derrota de Portugal; esto dijo",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOU1RdVBkbE1vZUEwZU9PQWlaMlRPaFRCRFFxUXlaNlRaM2Q4OG5zSHVIenNsUWMtZGk3MHc1amdkRVNqV0szeC1qMTI1QXZ0bXJ6ZklkR2xFWUFKa1FKcTNGeWR4c1U4VjJhcnlzZzJQcHZZdFBnRXVpTmFnbGd5T1h0UUtxTWxRX0FMMHNaWTAzS3VGc09HdUJzOF8tX3BCdGdzLW1Zd3Fnc21ILUx4THpqU21qNTI5SWllQzlHbklKUdIBwgFBVV95cUxPbzF2VHo5WDBrZklEM0ZMRlYtVDlSZmxxUHNnTjJLR2JpdHIzdjBDZWozcFA0TjEzTVFlMnRoLVpYQ1ViMnZEbVZnODlUVDF1dWpNeUxvb0FXMXJrcUg5ZEo4NnkzRndjWGpUV3EzakRCT1c3SmRwZ2YzYkNRVGNhT2l6WmdMRDNHSGxnSHJFNTJrZTNHR1RNYnV3el90d3dCVVU2NFp2cm5FdFMyODVwOFdtbUNyTnRkWXA1SlZBcXMyZw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-16T16:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "¡Lo celebra! Dolores Aveiro, mamá de Cristiano Ronaldo, defiende a su hijo y habla tras la derrota de Portugal; esto dijo Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d45fda3ac99511d0"
+ },
+ {
+  "titulo": "Espíritu de lucha y superación consolida a NL como primer lugar en todo: Samuel García",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzRqUllZT29yV3VUNEZVZHRSc3ZMbTdiSlVjR1F5TjhJWnV5dG1HYnVJZzVCVFZUT09taTNKVE1pQWZEUlc4aWlocXAxWEQ4UUZjSDN1bV9BZy1vOVBwZlI1cHItQTA0NzZ3cjBwOV81a1NoNmJDUV9RMXMzeFVod1FJQWh1NDE0cEVmOVdiR1BSU2F3aWxZRXQ2dGg1djVuMk1kTUJ4Z21odw?oc=5",
+  "medio": "Red Crucero",
+  "publicada": "2026-11-16T16:57:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Espíritu de lucha y superación consolida a NL como primer lugar en todo: Samuel García Red Crucero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "cfb4124084e35006"
+ },
+ {
+  "titulo": "Inhabilita por un año a exfuncionario por boda en el MUNAL",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHIwa1VFWGprcEk1VFVKU0dHQUVaOXlQeEgtV2NGQ0VZSWdTYkowOXQ5d25qUFBaUl80ZzNLa0pwNFg5OXFNUnkxYUtIaVdkMlBpMkl3STY0YkxKNU9RWUpOS3FBUHdpSGN6TmFOLU5TVlBnWVBhWVpSWml4dUVTcXgtTUtvVnlWeEgwbzhxNHptVEhDbmt5UDFmV0NCZU1YSUJwRTNub2w?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T16:56:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Inhabilita por un año a exfuncionario por boda en el MUNAL El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "47b100b850fe6acc"
+ },
+ {
+  "titulo": "Falla en sistemas de United Airlines afecta vuelos de salida",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3ZRaDh5MVdGSF93Q0ZzU1BGZ0poOWM2aVhlU2J6WVU4YnBfRFMxeXo5YUVXc1BHcWRtN0l4X0JXSzNLLVpJb2IxMEQ1S1FQZTB3NnhRZ0ljYnZCT0VrUmtOaDJjekM2a0RnRl9lWEl4eDdlX0lzX1VPQzYxNmNfN3lmWDBUZGF0dnFEb0VISDJwUUNBY29nMk44Z01mdThHUmxxVjZwbXFiTVA1b2JEMFFR?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T16:56:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Falla en sistemas de United Airlines afecta vuelos de salida El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c6bbd95ece377bac"
+ },
+ {
+  "titulo": "United Airlines sufre interrupción de sistemas y afecta salidas",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2dFRVYyUGRRZDZGV3lIUEMwbjJpQTlJaFdJazJ1ZHJxR19vRlF6dnMzUXJobGNBWG42dTdDYTJBUTZrNEExVGp4OEdYQzhmNUxnNTZCSnAtVXZhQ2JLb0pkZVVzTWcwbkFIbkZ0S29PVkcxc2NfOU9BZ09QRTM2dlVGN3RMS1JUR09PcFpkTTJGNnBrSE5kd21VRWtFekVmOFdHeXc4REM?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T16:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "United Airlines sufre interrupción de sistemas y afecta salidas INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "445b4f4ca9fee0f2"
+ },
+ {
+  "titulo": "Karely Ruiz tira a la basura el maquillaje de Paolita Suárez",
+  "liga": "https://abcnoticias.mx/show/2026/11/16/karely-ruiz-tira-a-la-basura-el-maquillaje-de-paolita-suarez-295661.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T16:51:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d39e858c70a68ff5"
+ },
+ {
+  "titulo": "Descarta Nvidia regreso de Jesen Huang pese a presión de magnates",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSk9iaDdtM3hmLXFqM1oyem9TZ04xNERHYWdiSkhhQVY4UVZpMlFKT1ZMNkp1S1N4bF92QlpSMVl2dnRYZ0M1ZFVTbDZyTWxpZzUzWjZPZkxOT0hTRHFrTllxam5jYTQyQ01vOXRBZ3IyeHQ4SXdwU0xJZkF5bFljTXhwZnFkTk9KeFd3WmV5Z3hXN1NBWlBUSTlmWWVjZVFhVHRHTzVSQ0wyV213N3d3UHhQS2RDY01l?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T16:50:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Descarta Nvidia regreso de Jesen Huang pese a presión de magnates El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f3292e57e9f92dcf"
+ },
+ {
+  "titulo": "Detienen a dos empleados por presunto intento de robo en tienda de conveniencia en Salinas Victoria",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0JXTkVzNllWbDJuWXdWRkF6Nlh5Z202X25MUVFUb19XeVBGUjBRZE5sT3JUTGp0ZUdDR1I0OC1JVUpLR2VaSmRsUUYta3N4QTIxbUMxczNRdnptMldpVGNZazNYTlV3ZzZPWmFXUWxCNDhKVldCT2k4SmZ6T3Z1T0o0ZnZlRHBRM3NGWldZQVZDQXpHakNlNjBhY9IBmwFBVV95cUxNUDZ0U2J4ZDBzTXBjRFFRNmlMeGdOZnYtb1VtWlFNejdWWFQ5cTJqZkI0elZjbjlrd0dRb2JTRGVWNVk5ZjRRZFdLMkFsQmF3MDhEclhfWWNHcW51OXk5NFIxTDhnOUp1VlpZZ2tTeG00c3M2QUowaTgwUEk4bDFRMUNBa2F6SmNtS0Y2SkdCbUQ5S1hLRXpLajJjRQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-16T16:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Detienen a dos empleados por presunto intento de robo en tienda de conveniencia en Salinas Victoria Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "49d41667470a596c"
+ },
+ {
+  "titulo": "Inhabilitan a ex funcionario de SRE por boda en el Munal",
+  "liga": "https://www.elnorte.com/inhabilitan-a-ex-funcionario-de-sre-por-boda-en-el-munal/ar3315720",
+  "medio": "El Norte",
+  "publicada": "2026-11-16T16:49:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Martín Borrego es inhabilitado un año por usar su cargo en SRE para organizar su boda en el Munal bajo la fachada de un acto diplomático.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "00852902aea9b7c5"
+ },
+ {
+  "titulo": "INE abre convocatoria en Reynosa para contratar supervisores y capacitadores electorales",
+  "liga": "https://horacero.com.mx/reynosa/convocatoria-en-reynosa-ine",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-16T16:48:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "La Junta Distrital Ejecutiva 02 del INE en Tamaulipas abrió el registro para contratar supervisores y capacitadores-asistentes electorales rumbo al Proceso Electoral Concurrente 2026-2027. The post INE abre convocatoria en Reynosa para contratar supervisores y capacitadores elect",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "7b4383162f02e69b"
+ },
+ {
+  "titulo": "Muere Tina Simmons, actriz de Star Wars, James Bond y Batman",
+  "liga": "https://abcnoticias.mx/show/2026/11/16/muere-tina-simmons-actriz-de-star-wars-james-bond-y-batman-295660.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T16:46:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "336e70a972936534"
+ },
+ {
+  "titulo": "José Eduardo Martínez asume la Dirección Jurídica del Instituto Electoral de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdk4yWFZfZmwzRFhWLXA1RlR1U0dKR2FlR0tNRkNVQzBpSTY3WTVNNFJVbnp6RjJYX09xa3pIYjdqaFRNNGJXWl9tQUVtR3IzWThZd3F4dFExOWs4V3FEb1o1MGdnQ3VmZGhFZHpKVXRvTFVVWVN4V3F1SnYtc3NfQXRBTFlUMjRCUDNTWDh4V0hieGdRd2Q3WjZtd1pFLTFsRU13aXNPNUlkTmdlUXY4SnY2VEE0amVPTldYQlhSUUFNb2JaaWxwODQ3TGlPQUpPNVdTSGV3?oc=5",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T16:45:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "José Eduardo Martínez asume la Dirección Jurídica del Instituto Electoral de Nuevo León ABC Noticias",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "b547ebb6ce19279a"
+ },
+ {
+  "titulo": "Mochila de emergencia para mascotas SSC CDMX: qué debe llevar",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/16/mochila-de-emergencia-para-mascotas-ssc-cdmx-que-debe-llevar-295659.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T16:41:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "164f9497d1afd05d"
+ },
+ {
+  "titulo": "Banco de Alimentos de Reynosa se prepara para apoyar a migrantes",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmxBaG5vVndobnpwaXZ5eFRaQzZmOVNvZ3lpOENCZDYteGFQWE1wUDRUZmlsY25oLWx3ZEhFYVM2MFBxbU82VWk1aV9UbmxwVXEtN2FKZ0o5VHNaZGJGVURXd3d1UDdfTXZmY3k1MWloNmNkZHFOQ2MyTVFCd204cUV5LTlSZE95WG1HbTdrc3JCbl9IZTdzeWJQRHEwaE5JV0RONlNJeDNRMFg1VU8wbmgwRQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T16:41:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Banco de Alimentos de Reynosa se prepara para apoyar a migrantes El Horizonte",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "e9be857de248b059"
+ },
+ {
+  "titulo": "Trump, Xi y Putin se reunirán para discutir la paz mundial",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeDFRQ2ZkQ1BBYjVHMktaT1BIODFOQ2J3bWpKN1pySHJEdjFtd09RdzRPck9ZQ1BYdm1iVzF1bTR5S2l0TkF0Y2o3WGdDVGJIQnBDMmEydzV4SENZUG9GcFpTQkw3clNsZFBILTBIdERiV3AwNXNXVU53SjRMWXJ3YVF6SkxmV0p0S3ZMVFNfVHp0ZXhOTDZzYTc2NHZ4aWJWZDBqWHlwM1NDR0Q4Y3c?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T16:41:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Trump, Xi y Putin se reunirán para discutir la paz mundial El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a2e79c09827c8666"
+ },
+ {
+  "titulo": "Usman Nurmagomedov habría quedado libre tras altercado en hotel",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUm5VTkNXTjFYMXZERzRtSlBkeVNLTDh3ZGlBU2VsRnJ0NGp2NXpSZjBkNFpnQzd2YV9DSXNxdVp0ZE9KQmhSQU5VWTVBMGsxOWducDNvMUViTzJrTXh3dFF2LU1qWXlBTVE1dXdWeGJGMmFkaFlYcHpQQ3hHd2dDUnRLbldZU1JqcFVOWTE2Ykxmbm1HbnJlUm42cklQbWxXaWc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T16:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Usman Nurmagomedov habría quedado libre tras altercado en hotel INFO7",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "907790f6ba5d1f89"
+ },
+ {
+  "titulo": "Prepara San Pedro un nuevo cierre vial ¿A partir de cuándo?",
+  "liga": "https://abcnoticias.mx/local/2026/11/16/prepara-san-pedro-un-nuevo-cierre-vial-a-partir-de-cuando-295656.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T16:36:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a3f00bed64952d66"
+ },
+ {
+  "titulo": "Aquí vamos otra vez: United Airlines sufre interrupción de sus sistemas",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2EzbFRFT1V6MlR4bEMweGVjLXFKSHQ2TWRDQ2tyalBjaEVGbzdvTkY2QldOeDN4dV8xZGltcWNGZGxKWDFmVFlQcGg0RGRBMVI3WTdWMndHc3FiNEhObVVDVTYzajVrWnpvNHc2ODZRcnNFejFlSXVMTksyTGRLRTlXZXZsZzgxQTB4UWhCNE1vUjZPU3hXNFpSemVhM1N4eGFRWm1HR19ra3BCZUVyY3hvdXB3Rno1clJVN2hicmU?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-16T16:34:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Aquí vamos otra vez: United Airlines sufre interrupción de sus sistemas El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8ab4257f1aab12fb"
+ },
+ {
+  "titulo": "¿Por qué criticaron a Belinda tras ser invitada de Karol G?",
+  "liga": "https://abcnoticias.mx/show/2026/11/16/por-que-criticaron-a-belinda-tras-ser-invitada-de-karol-g-295657.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T16:31:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "09b1dfc0d2b407d9"
+ },
+ {
+  "titulo": "Ataque armado deja un herido en colonia Lomas de Santa Catarina",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmlQMjFudWxWWkFFb1luRUtxVXpvWDZwTG55UkVYMVlWWTViVWRoRHpGaXZsbG1GLXRTYWU1QTZhaVl6U3J2NnAwLVppUXhHYnBWNWwxLWNsQWFrMDZVQUlwbnVURldpYUhLR0RZMHN1MElRZk5XM1VWTkl4allHUVB6TUJuSkkyREJXZkhGRkI0ZWpzNlhieGZBdDdHWUd5UHZsQlpwXzlWX2txWnlOZmhON1d3ZVBpZjNFeVVR?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-16T16:29:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Ataque armado deja un herido en colonia Lomas de Santa Catarina MVS Noticias",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "78a3c2dca8c9c1d8"
+ },
+ {
+  "titulo": "Reporta United Airlines falla generalizada en sus sistemas",
+  "liga": "https://www.elnorte.com/reporta-united-airlines-falla-generalizada-en-sus-sistemas/ar3315714",
+  "medio": "El Norte",
+  "publicada": "2026-11-16T16:29:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "United Airlines reporta una interrupción en todo su sistema, apenas días después de falla en la red que provocó suspensión de vuelos en EU.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "16e0e842a187a48a"
+ },
+ {
+  "titulo": "Alcaraz y Medvedev arrancan con victoria: Resultados del Día 2 de las ATP Finals 2026",
+  "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGxObTZmcmJrYW9WYVlaam5sWERjZDhqSmJwaFdNZUJUVTJiZ0hLVE0xeVFnZUtUS2xwMGZDY2Vxbk5WM2MyVUJIcW1uTWpiZUJsNlUxNkp6LTFMX2VnM29GZE5keFlrN0gyRTRCODV4OHd3Tl96SVA3d0RsbGRrTmo5Q1DSAYQBQVVfeXFMTThmUTN0YXlpRW5memxBZzNMUS11LXNIUnIyV3RLNXY3a0E2RTBIcU9PU1g4QnVZXzMwME0tQ2o0MVNGM3lCYXpGZnR5WVlaUXVoODBtSnZWd3NNZUIzcHZCWHk5SEc4RjYzeFhMQWVyZGQtcTlqdENKZngwTjMyRGFTV3hx?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-16T16:26:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Alcaraz y Medvedev arrancan con victoria: Resultados del Día 2 de las ATP Finals 2026 Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "19c00c723960171e"
+ },
+ {
+  "titulo": "Rosario Robles ‘reprocha’ desbloqueo de cuentas a Rubén Rocha: ‘Yo no puedo abrir una tarjeta de débito’",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa1NXRDM1M1N4X2swUnVOT2o5VTJJMmpMbGRITG5uM3ZpZVlOb3l6OHNzekQ2dzhQdzNXMjNfVXZZZXBDWFF5eTlMSVV4QVRnMjJQYmgwWUZJNkpjblpZWUI0WjBYSl9zNlltSjRSZjE3STRQUEhHWExEZUgxZWtiSXN2ZEF6MUhJM2cwMG82TjVFcm40NzhnRnEyeXhoVjhlOEFyM1RXckh2cFN3XzhlNjExTVdqN3NRbndrM3EtT0UxOXFlMnA3NFhlYXdVX2tROEUySkJCUHdYNWNqMWJfaGtsVm85U0U?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-16T16:25:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Rosario Robles ‘reprocha’ desbloqueo de cuentas a Rubén Rocha: ‘Yo no puedo abrir una tarjeta de débito’ El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "091e770e4c10b75d"
+ },
+ {
+  "titulo": "Exregidora de Morena en Veracruz denuncia detención ilegal",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUxiNW5iUTd5Ujl0Y0p5V19Rc09SSko0VnVleG9qeWVYX1hual8ydlNrNm9mWlBndl9kSG9OQm5nbWFwTzVKeUVCSWt1RWdHM0hMWmU4QUZtTTEwTzJOX0RmSW9Fc3FfUUl6aXZQYldNcUhqR2VLaVN6Q0tpV2RiVWkzN1gwTkdsT2VBcnc1bmhXMmY5dnA3ODZxcw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T16:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Exregidora de Morena en Veracruz denuncia detención ilegal INFO7",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c8462ded36e2eecb"
+ },
+ {
   "titulo": "PT impulsa segunda encuesta con Morena para definir candidatura en Nuevo León",
   "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazRyc2JCdm9SWkRUV1FXN29VU0IzTmxxVUZDUUFrN29XZGxNN3FSdXQyY3k5ZFF5djRfWDM2d1RUMjROSmYyTXZidm9PWUNPZU1VYWVtcU1rRThTcDR6aDNkZGRGWU91RF8tbUxsX0hRUzB4TllkUFF4Ym5weTkxelpVQkNfcEJDTWJvWkwycTg1azdMdEpOQmRselF2OWUyVnRjekVMTzgyT3dFNGMzaVdYYw?oc=5",
   "medio": "SonoraPresente",
@@ -43,6 +575,34 @@
   "id": "86cc2757a5c36fd4"
  },
  {
+  "titulo": "Cae Wall Street debido a incertidumbre sobre la IA",
+  "liga": "https://www.elnorte.com/cae-wall-street-debido-a-incertidumbre-sobre-la-ia/ar3315710",
+  "medio": "El Norte",
+  "publicada": "2026-11-16T16:14:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Una ola de ventas arrastra a las Bolsas de EU ante la inquietud por las acciones de IA y el reporte de Nvidia de mañana.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8e0e84200ef90399"
+ },
+ {
+  "titulo": "Banco de Alimentos de Reynosa prevé apoyo a posible caravana",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUVEcnFMeXVBeXppdEd2TnhKUlN5Nl9rbWhQd2l2ZWtnVHJSTEZiWEFQNlRaRldSYVNCMTRiajNsWVJGc1lFdEJFUkZ6YWp5c1BnN00wNkFQekY3M1dYY25jTGlfbFpRakRxZ0UyTUxqX0hnTjN2QUZUNlQ3MjZieEstTDhfMnl3UV91NjRsalM5SlhjclBCYWlRSXRla1Jx?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T16:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Banco de Alimentos de Reynosa prevé apoyo a posible caravana INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "179f9115a2da3414"
+ },
+ {
   "titulo": "Realiza IEEPCNL cambios en áreas Jurídica y de Fiscalización",
   "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXh3eGRFQ2daYS03YVhCV3FMX2oyYW5sbEdHb0JsX3loN3BTR0V2VU5JM1hBa1V1Wk9kTjkteFhrX2k0YnlISmg3OXFzZ3l3NGlaSF92a1czdE4xUEtXalRRSm94aEx3RzAxakVVZEtFNVNUOXBVX3ZteUdXV3R4dDRVT2VFaUFCMGhNMTVya0N3Ynd3R3dJWlljQjhoVElwUnlYTExNbGZIa21XNVRRdEtiQzhZTDdmeWc?oc=5",
   "medio": "MVS Noticias",
@@ -55,6 +615,20 @@
   ],
   "local": false,
   "id": "f895dc0f2a76749e"
+ },
+ {
+  "titulo": "Asesinan a tres integrantes de una familia en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUIzLTRPaWVqanpETUVlRUZhTVdTMmx1dDlhbWo0b0NtMWV1V21IdjhuUmk5V1JmdjBJMVBCaDhDbklhZ2pLNzJtNi1iN3VJRE5YZ3ZHN3FnaC1VRVdzSmZlckVfd3drNnVfRk5FdnMxbmJvVDFhZjFremdqZXRVcDZzZlpGMGNQRWZvaUNRaE9qM0huUnpHeXp0Yw?oc=5",
+  "medio": "Excélsior",
+  "publicada": "2026-11-16T16:11:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Asesinan a tres integrantes de una familia en Nuevo León Excélsior",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5e68f969b9bcdd20"
  },
  {
   "titulo": "Reynosa extiende exposición gratuita de Leonora Carrington",
@@ -85,6 +659,20 @@
   "id": "3354d2a39ac2cb59"
  },
  {
+  "titulo": "Extienden hasta diciembre exposición de Leonora Carrington",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGJ6cHV5TU9KcUxxYnBueFJTSHRvZXQ5VHRMNVBOcDdScWxYTUJkenFLVmg4M3lBengxVTFOQ2tkdTVMSV9pbWVIQXQ0dlV2VGo4XzdfbHM3SVdKSFNMczVjdy10V0VNRVJiSFdRVWgydmU2bnZRdFl0RVI5eXhTbHlRSWRqMWFsM0hzSl9Zd0NlYkJuU0toVGU0ZmhaUQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T16:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Extienden hasta diciembre exposición de Leonora Carrington INFO7",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "023bc29b7410ae77"
+ },
+ {
   "titulo": "Celebran neoloneses aniversario de la Revolución Mexicana",
   "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUR4M19PdHV6OFZSUTYtZUNoM0ZPZ2VudUFTclBtMnFHQ05MUi1XMUdSZXVHZm1rVDItWFZma2sxc1lUbEhtTmZYaGFtYXJ6T0plQUR5VVp0XzJlT3Rnb0RUdndLc0JEV3hOT0lfZk80Q1RCdGM3M2o5MWpHTERJdHdqYmIzMUM1bTVFYVE2S3BSem84aFF4S0N2eHA4M3pweTBhdlFNVlg?oc=5",
   "medio": "El Horizonte",
@@ -97,6 +685,20 @@
   ],
   "local": false,
   "id": "46e242c0b1bee2dd"
+ },
+ {
+  "titulo": "Hallan restos óseos humanos cerca del viaducto de Reynosa",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWGVMMzIxZWlpclpYY2o3X0NEc1lEREZFbXh2SUdfOWpxV1BDWjIyVm5yazFFWkNqTFlwV3lJbmNKcXFLQmp6N285aXBlNUpBZXdyVFl4bnV3bDlZUXAtdDUtR0k4WHA0YkxKX0xqeG9LWUQ4TjltMDQ2Y25fOFhSYko0Y05FdEVRQUFyLVBiZEEzWDVfRk9naUp6b2s?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T16:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Hallan restos óseos humanos cerca del viaducto de Reynosa INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b798af37b6524ed1"
  },
  {
   "titulo": "Buscará José Luis Garza Alcaldía de Guadalupe",
@@ -125,6 +727,20 @@
   ],
   "local": false,
   "id": "25b48c91ed856499"
+ },
+ {
+  "titulo": "Iglesias buscarán llevar mensaje de esperanza a Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVFXS01ocGEzU05DWmpleGE0MW8zVnNZZ3QweklyMGRWYllQU2M0TkxTNGZ1V2RfNHZFWm1aYXVIR2dPbG5MZ0xJczRKMXE5OGotcU8yWGYwVElIX0NiLTIya1ZERHJZT2p4ZjJWYThpdXpZMkFocVhDeE1ic2QxWmliTzZpS3JPcUhxUFVTb29IanNONkI4NWU5WlQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T16:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Iglesias buscarán llevar mensaje de esperanza a Matamoros INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4e8c865c50a2f142"
  },
  {
   "titulo": "Avanza Gobierno Federal en revestimiento de canal Guillermo Rodhe",
@@ -197,6 +813,20 @@
   "id": "c29942f8a1939e59"
  },
  {
+  "titulo": "Impulsan cultivo de ostión en Matamoros con 108 mil semillas",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQndRTi04ejRUeERvYnRCQmZHWnBoWkNXYmNKVGpGdVd3RDdsNmg2TDRyeFhKaC1DaEZ5d0lsUnJ1YmJScDhZamdlZEtyY0RPcEkxSzN4TXNhendKQnVNVTlsVTluUGViYVFHMU0xQ0pvU0xYSEpKNlo3YjRzaWZDYWZlRHl3U0JHMnVLNXVNUmtXZWlNeG9fNXJrNThKUGNX?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T15:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Impulsan cultivo de ostión en Matamoros con 108 mil semillas INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "986ccb1c8ae3ba89"
+ },
+ {
   "titulo": "Se busca a María Elizondo; desapareció el 14 de noviembre en Nuevo León",
   "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1I0aWtGQ3B5YkFsa2xRYUE2bFNkSzZnTnVMS1JocGpVd2ZvRVN0cDJsS3ZhYUpzUnZxRDU5ek4tSzFHZzdGU1hBVGIwTkdOZ3V1ZzdycXNpR05wWC1VOVdBNmZ0YnVHQ3ZibkNHVEc2djRmVHJRNlRVS21FZWF2aEsyX202RVFCczVwdWlSVkhXalZOOEktc3pn0gGfAUFVX3lxTFBGQ1BMVUVFaTNCOTJTel9xeGRfb1VTTkpfX0tVYUNsQUlCTFY5d1VUZWYtVkdpekJCWVZBSGUzYjY4ZGVqSFR1ZzBhWVB2U0xQUkQxMFpxb3VIVWt1ZE55alJubkxOTl8yLWQ0bml6cS13Z3RlSTFPN3FIdjFheW05bEpHZlZLdVJWZ1U1aTFpczhrNHEwYktOcVZxZHRlRQ?oc=5",
   "medio": "Excélsior",
@@ -252,6 +882,20 @@
   ],
   "local": true,
   "id": "5de4bd13dc3e699d"
+ },
+ {
+  "titulo": "SEDENA avanza en revestimiento del canal Guillermo Rodhe",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFRxVm0xQWltNnNNU3daMGRNSE5xZ19Ra0VqVHpHU1I0djJkZGRMaW5CWXRaVk1VbHBZWWFTek45TVpVVGFNQUM0OHlaYWhQeDdtM0FyZUd6X2F4Sk8tM25TRXNjNWQ2Uk1vS2VhbGR0WE5PeUFkMlhsRldRYllwZW55eldjQm1pUXVmWnl6MnJLQlNibGNzR3o5QQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T15:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "SEDENA avanza en revestimiento del canal Guillermo Rodhe INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4531c7b1259893c8"
  },
  {
   "titulo": "Detienen a dos empleados por presunto robo en Salinas Victoria",
@@ -338,6 +982,20 @@
   "id": "ccc2003a1ecb720c"
  },
  {
+  "titulo": "Arrancan operativo para buscar fragmentos espaciales en Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkNBbEN4OUVHWW1ubnZIRVNrbFkzSlNlbEpwdS1BeHR5aExGSWdKdlM3eHVYaXlWVTN6R0RsalI5YThMTHE1NFltT1RqczBvVktMajdsbk1IRXMzY3FIb210Mm1UWWF2RWVweE0wcnJLUnY0U0o4Nnd5NW5zLTlySFRES1R5OWhrdFJjY2FfSmVQTVBCbzk3Tkt6dzlPdDFjdkZ6OXFaMA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T15:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Arrancan operativo para buscar fragmentos espaciales en Matamoros INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7d0bc837831993a2"
+ },
+ {
   "titulo": "Nuevo León: cinco años de conflictos por el presupuesto",
   "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXl3Z3BiWGh5YVpMS3hlTmtYQzdsRWR5SmYxVHdheE5sclM2SjB1UjFBTHJ2Nzdtb2lXczNDajJSSmRLeVhYZkxZSFBoTG4xOEotdXZqTktUUUdPd25rUUhETEVPRGZZV1VMN1JORUpQSWQyVVhsVk81OXF2S0o0R1ZVakZKN0JBRDhFYmtKLTZsQ3oyRHpyY05KeVY0ZmpSMFoyMA?oc=5",
   "medio": "Meganoticias.mx",
@@ -420,6 +1078,20 @@
   ],
   "local": false,
   "id": "5e9bc8f07fe5a11d"
+ },
+ {
+  "titulo": "Robo en OXXO Salinas Victoria: detienen a empleados tras intento de robo a caja fuerte",
+  "liga": "https://www.posta.com.mx/nuevo-leon/robo-en-oxxo-salinas-victoria-detienen-a-empleados-tras-intento-de-robo-a-caja-fuerte/vl2279633",
+  "medio": "Posta",
+  "publicada": "2026-11-16T15:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "07da5f606f766256"
  },
  {
   "titulo": "Morena descarta segunda encuesta para elegir candidato en NL; respaldan a Clara Luz",
@@ -1212,6 +1884,20 @@
   ],
   "local": true,
   "id": "3aa09ec6d5f98f6d"
+ },
+ {
+  "titulo": "Ternium en Nuevo León: ¿cómo combina su carrera deportiva con el compromiso ambiental?",
+  "liga": "https://www.posta.com.mx/perspectivas/ternium-en-nuevo-leon-como-combina-su-carrera-deportiva-con-el-compromiso-ambiental/v-vl2279627",
+  "medio": "Posta",
+  "publicada": "2026-11-16T14:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b7117118890b105c"
  },
  {
   "titulo": "Dejará Jesús López la presidencia de Universal Music",
@@ -3308,6 +3994,20 @@
   ],
   "local": true,
   "id": "ce5269480076aedb"
+ },
+ {
+  "titulo": "Tragedia en Nuevo León: Ataque armado contra una familia deja a un padre y a sus dos hijos sin vida",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd3V2X2FvMDNaeWl2LU1YMWZMVGZ4RmdWbWJQTl9tcExucU90X0ljQ0RnNnF4LXFHc0kyazRxN1EzOWVCZTBwdVlvYWNBU3FtenQyR3p5YmprRVBCTEFPUFQtM1VEUkFSaGJwNy1uUFNjOGxYajlkYm1TOTZ2UzNqbXhwZ3MzbHRkc1dhNjc0QkRKSk1oRWhpaVlsN1ZXa1NaT0xMYy1YTHFzQXI5NmNRTDNYSWVGTVI0a0E0NDFfSDJCQjduWjltbzkxQmN1VFJ2WnB2T3IzTQ?oc=5",
+  "medio": "Mercurio Sinaloa",
+  "publicada": "2026-11-16T11:57:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T17:22:13-06:00",
+  "resumen": "Tragedia en Nuevo León: Ataque armado contra una familia deja a un padre y a sus dos hijos sin vida Mercurio Sinaloa",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "fbed09b4d1628fb0"
  },
  {
   "titulo": "¿Quién es el favorito para campeón en la UEFA Nations League?",
