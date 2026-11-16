@@ -1,5 +1,585 @@
 [
  {
+  "titulo": "Culiacán se prepara para el 20 de Noviembre: trajes revolucionarios desde 150 pesos; comercio local espera repunte de ventas",
+  "liga": "https://lado.mx/noticia/22325589/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-16T15:25:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Comerciantes ambulantes y pequeños negocios del Centro ofrecen vestuarios para niñas, niños y adultos, con precios que varían según el modelo y la talla.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "f73b525876587e2a"
+ },
+ {
+  "titulo": "En hermetismo cierra \\\"el Jefe de jefes\\\" su historia con Guadalajara",
+  "liga": "https://lado.mx/noticia/22325566/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-16T15:25:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Trascendió que sus cenizas salieron alrededor de las 3 de la madrugada del lunes, con rumbo a su natal Sinaloa.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "04c6ac03efab7866"
+ },
+ {
+  "titulo": "Sinaloa acumula seis robos bancarios en 2026; ya supera el total registrado en 2025",
+  "liga": "https://lado.mx/noticia/22325565/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-16T15:25:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Durante los primeros nueve meses del año se contabilizaron seis robos bancarios en Sinaloa, mientras que en todo 2025 se registraron cuatro casos, de acuerdo con las estadísticas de incidencia delictiva.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "316fff39fbe8fdb8"
+ },
+ {
+  "titulo": "LMP: Venados de Mazatlán quiere reivindicarse en la serie ante Charros de Jalisco",
+  "liga": "https://lado.mx/noticia/22325552/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-16T15:25:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Mazatlán recibe a Jalisco del 17 al 19 de noviembre en el Teodoro Mariscal. Los porteños necesitan cortar su mala racha y acercarse a los equipos que tienen dos juegos de ventaja, mientras los tapatíos buscan mejorar su ubicación en el standing.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fd4686dbcf9c375b"
+ },
+ {
+  "titulo": "La Navidad ya no espera a diciembre: familias buscan adornos y pinos desde noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXhCTkpQczA4RlpiTXJhY09XSDltM3g1NEkxR21sMW1lajE4QVBDZ3NNR3pPYVYwNEp1NkZQRndTdFFqakhwNng5c2dIZlpabWlOOEQ5OEpmcDBoaU9QNy1VRGV4N0RJOE9Yb3JPOFZGbUU3X2p1ak5hM3dtYUswQW9NOS1aZkdXR1N0d1l5OER6eFZFSVZ4amg2VE1HUkY0RWJwMU15OWNVWVJHWlZWaDNwZ0ZsZ3dtRzVycUx1WWt1OHNqYUJVS1dXX1ZCaDNwTURZV3o1YTFSclduU0E?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T15:22:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "La Navidad ya no espera a diciembre: familias buscan adornos y pinos desde noviembre Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "865339de4df03bc2"
+ },
+ {
+  "titulo": "Matan a joven de 18 años en la colonia El Mirador",
+  "liga": "https://cafenegroportal.com/matan-a-joven-de-18-anos-en-la-colonia-el-mirador/",
+  "medio": "Café Negro",
+  "publicada": "2026-11-16T15:20:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Culiacán, Sinaloa.- Un joven fue asesinado a balazos junto a una obra en construcción en la colonia El Mirador, en el sector norte de la ciudad. El occiso fue identificado por sus familiares como Irving Gerardo, de 18 años de edad. La agresión se registró al mediodía de este lune",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4ef8ba5d2012d24e"
+ },
+ {
+  "titulo": "Productores de frijol en Sinaloa aspiran a vender la próxima cosecha a 35 pesos el kilo",
+  "liga": "https://lineadirectaportal.com/sinaloa/productores-de-frijol-en-sinaloa-aspiran-a-vender-la-proxima-cosecha-a-35-pesos-el-kilo-2026-11-16__1738858",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-16T15:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "La CNC señala que el precio de 27 pesos que exigen productores de otros estados sería una referencia para que el grano sinaloense alcance los 35 pesos por kilo",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "332240d97a7b611f"
+ },
+ {
+  "titulo": "Son extraordinarios: Sheinbaum tras reunión con mexicanos en China",
+  "liga": "https://sinaloa.quadratin.com.mx/son-extraordinarios-sheinbaum-tras-reunion-con-mexicanos-en-china/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-16T15:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "La Jefa del Ejecutivo Federal escuchó las historias e inquietudes de las y los mexicanos que viven en China.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "16cd9d8c59a853bc"
+ },
+ {
+  "titulo": "Identifican a joven asesinado a balazos en la colonia El Mirador, Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa1pwSUZpd2ZWdWtWeEJsSnFBOElMMW1QZXY2OFdTODgtYmtMSEhkUFY3a3NHT1FMMzZLQzFBbUQtdVdSbnR4WGpjRGp5S1kwQy0yMVNjZDFhbl9BTFdOYVloRDc4TWE5eHBtWFhWUkVDMzdqdEpvVWx1Z1VnalFmUHJHWXJEMjRPNkNzb21kdUVCZkRlcGhjaHlUSThOY18xRUtBMFFxMEF1VHAwbHZfMlhiQ1pPNEdLUFhpdnZONWNLaHllbjd5RlU3SmoxaHBPT1E?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T15:16:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Identifican a joven asesinado a balazos en la colonia El Mirador, Culiacán Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2df22536e9dfbd32"
+ },
+ {
+  "titulo": "Realizan de dos a tres vasectomías al mes en IMSS Bienestar Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcURMRWVFVGQ0cVJneDN2OV9EWDZiQ1BqVHVqNTJyVVNWcER4NG1aMW5VQjhac2poT0cxa0YyTnV6QUpnUnVEaHVqSGpEUWNkenJsS1otd0kzNmZDek8zeVF0WUFuRjF4VzJfc1N4QndhS1pPSDF0bFljWHRCaGUxd1JEV0wzRGIwNVk4SU5GS1ZXME9FaFNFcG1iWDZWNGJuWGlWWEdZbUM3MEthTUswT2d4TnhiYXBfSTZ5VDdvWEw4MUxMa3NRQUFsZU9hZw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T15:14:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Realizan de dos a tres vasectomías al mes en IMSS Bienestar Los Mochis Debate",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "ac8b3aafcd322db6"
+ },
+ {
+  "titulo": "LMP: Dayson Croes gana el premio jugador de la semana tras lucir con los Cañeros de Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWHlLZWF2LXNPdDZtLUstYlZ4ZUhwcTdfdG9lRTJUN3NqRklYMU42MTRJSHBEay1SazE4SDZZSXBZenU4dVlxMjZrQnFRNC1RS0RjSU9fTzBWWTdqbDNiX05hbHVDbG04VVRyblhFU1lRM184NDd6c1NSbVhDUmtXb3d6NEEzWlNXaGJYOU1DanZianh5bVhFNjVTVms4NUo1Q09KUWRjd2tSYjRPSDdaN19wb0hhYU4xc0dBTkZ2YkFTTVhYazBhcFR0QlpKTXRXNXFhYmdBQ3NJWEdOUUIweg?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T15:12:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "LMP: Dayson Croes gana el premio jugador de la semana tras lucir con los Cañeros de Los Mochis Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "961424e3f6b3ff78"
+ },
+ {
+  "titulo": "Badiraguato cierra con broche de oro los festejos por su 421 aniversario; Banda El Recodo pone a cantar y bailar a más de 20 mil personas",
+  "liga": "https://noticieroaltavoz.com/badiraguato-cierra-con-broche-de-oro-los-festejos-por-su-421-aniversario-banda-el-recodo-pone-a-cantar-y-bailar-a-mas-de-20-mil-personas/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-16T15:11:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Badiraguato, Sin.- La noche de este domingo 15 de noviembre, el municipio de Badiraguato cerró con broche de oro los festejos por el 421 aniversario de su fundación, siendo la Banda El Recodo la encargada de poner a cantar y bailar a más de 20 mil personas en el Parque Alameda. L",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "41c49d279b76aad7"
+ },
+ {
+  "titulo": "Hallan 7 cuerpos en límites de Sinaloa y Nayarit: La Concha y Acaponeta se consolidan como corredor de violencia del Cártel de Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRkYtd3ppbHZQYWlBczl2Y2xrbXIxX2dYYzI0NHNMMWR2dXhDUnByTmI4VEFYQV9nbDZheEszb1ZCMHhEYTFQTHg0SFl0aXVOT3E2aTYzcFNJSjNJeXdzVmlqaWVtdHgtR1ZmY3VVZXFQNmVreDlkV3BBcmxuaDlGR1pPTGU0X2cwMnpYdUpoUHlTZ051MTAxWjQ1cW80bUYzOVBfemJmVnhNem1HTEkzT01DVE9WREFwX2hzN3dNWFpoOWtHeFkyVXp0ckNrNmMwVk5CaE5Sd3JrOTRsaWotT0RGdl9oV2ExRDFBWGNKUS0wcGdYSkF3VFBpb1cwLUVGSDZTWEtsNDl4NnlrR1NxbWV5VmduQkloakNaa0EzcXROQQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T15:11:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Hallan 7 cuerpos en límites de Sinaloa y Nayarit: La Concha y Acaponeta se consolidan como corredor de violencia del Cártel de Sinaloa Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "38277aa12482e94c"
+ },
+ {
+  "titulo": "PAN acusa trato privilegiado al gobernador con licencia de Sinaloa, Rubén Rocha Moya",
+  "liga": "https://lado.mx/noticia/22325391/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-16T15:09:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Los legisladores coinciden en que en México, las pensiones son inembargables y sólo para cubrir obligaciones alimentarias se puede afectar la pensión de alguien.La entrada PAN acusa trato privilegiado al gobernador con licencia de Sinaloa, Rubén Rocha Moya se publicó primero en A",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "6758caa78a5b11ff"
+ },
+ {
+  "titulo": "Más de 17 millones de mexicanos salieron de la pobreza en ocho años: Banco Mundial",
+  "liga": "https://punto.mx/2026/11/16/mas-de-17-millones-de-mexicanos-salieron-de-la-pobreza-en-ocho-anos-banco-mundial/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-16T15:08:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Banco Mundial reporta que 17.3 millones de mexicanos salieron de la pobreza entre 2018 y 2026, impulsados por mayores ingresos y programas sociales La entrada Más de 17 millones de mexicanos salieron de la pobreza en ocho años: Banco Mundial se publicó primero en Punto MX .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c2f97cf97631f81e"
+ },
+ {
+  "titulo": "Matan a balazos a joven de 18 años en una zona de construcción en Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa0RYNG1mU2VkMlBlNzJHc0I3bUcyYThZMDdSc3FtcUMtTy1OejRBV1VPVHlIY3UtNlUzYkNTdmZ3Mk85YTRIdG9sUVFGbzE4ME9rZ1F3Y25hY1RKUXZMelZZZ0RvYUVSVEExUkU4OVc0N0R4LXRPWWlTc0cwcERVUnJDZ19aVHpPX0xRcDlFZzVERkdVci1QbHZlWVJMbUNmdU5lVXpaMi1XOWs5RzAzV2NnT3BaNXJxVm1xM1hUNm8zVnBiQUlrdVJLMWZfbkRlMzNj?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T15:04:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Matan a balazos a joven de 18 años en una zona de construcción en Culiacán Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6cc58cb70b583744"
+ },
+ {
+  "titulo": "Caso César Jáuregui: 3 apelaciones pendientes y nuevo amparo no confirmado",
+  "liga": "https://sinaloa.quadratin.com.mx/caso-cesar-jauregui-3-apelaciones-pendientes-y-nuevo-amparo-no-confirmado/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-16T15:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "El proceso en su contra mantiene abiertos distintos frentes legales que corresponden a procedimientos independientes.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f3c0d4cd69aa39e6"
+ },
+ {
+  "titulo": "Morena lleva 315 de 760 asambleas previstas en Sinaloa; tiene 445 pendientes",
+  "liga": "https://riodoce.mx/2026/11/16/morena-lleva-315-de-760-asambleas-previstas-en-sinaloa-tiene-445-pendientes/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-16T15:03:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ce62913f7f31e4e9"
+ },
+ {
+  "titulo": "Sin apoyo económico, sigue pendiente apertura de nueva estación de Bomberos en Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNekNLQng5NmxQVmRIYzlsQ210ejlOcWxCN1I3MVZTb0JrVWxfdlh1ZlpKSjQ0cm4yVFRKRDItczQtM2h4Nnd5Mm5lemwtakZuTWQ1NXJvTEdDSkVISFpnTGRWcUN5NG5DLWowaXhWNFc2YXB0SVlfWWt2TDZLRnI4d1JocTc0bVI1T1NFMmNneTRfUUdYMi1aaDU2MjdqanVXR1E0ejhaV1pzbzBleUYyN01GVUw5WWI2VzNSbkwwQ2VqV3dJQjdqaGJtQjktWnJsdTRqWXJVSDJHRnVfMnVId2VyaTh0UQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T15:03:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Sin apoyo económico, sigue pendiente apertura de nueva estación de Bomberos en Los Mochis Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3f373d65b2e6e45f"
+ },
+ {
+  "titulo": "Matan a un hombre en la colonia el Mirador.",
+  "liga": "https://vivalanoticia.mx/matan-a-un-hombre-en-la-colonia-el-mirador/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-16T15:02:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Culiacán Sinaloa. Un joven fue asesinado a balazos junto a una hora en construcción en la colonia El Mirador en el sector norte de la ciudad. El occiso fue identificado por sus familiares como Irving Gerardo de 18 años de edad. La agresión se registró al mediodía de este lunes 16",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2d558fb9ae044df9"
+ },
+ {
+  "titulo": "Redes de polleros vinculadas al Cártel de Sinaloa en Ensenada",
+  "liga": "https://lado.mx/noticia/22325362/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-16T15:02:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "En octubre, autoridades estadounidenses y mexicanas interceptaron una serie de embarcaciones con decenas de migrantes que intentaban llegar a California. En uno de los operativos, detuvieron a Nestor “N”, identificado por integrantes de la Mesa de Seguridad, como operador de una ",
+  "temas": [
+   "Seguridad",
+   "Migración",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "677d0fc70740f43b"
+ },
+ {
+  "titulo": "Cártel de Sinaloa exhibe a jóvenes desaparecidos",
+  "liga": "https://lado.mx/noticia/22325359/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-16T15:02:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Videos distribuidos en redes sociales, exhiben violencia del CDS y el CJNG en Tecate; dos jóvenes reportados como desaparecidos, protagonistas de video criminal. Violencia sigue a pesar de operativo policiaco",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "423a1897c83eba3a"
+ },
+ {
+  "titulo": "Localizan sanos y salvos a cuatro menores extraviados en la Feria Canaco de Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMWVfa2s1Y09JZ1lXZGJCZVc5OHR2LXlnN0FEVXU5WEduYUFKRV94dVlkR0Z5dXR4RkZKa3BuSGVPZ1JTZ1c3LTNXV1N5U0lOSi1obUI4SkZHUE1rd0JOTEl6S0FUdXBJVWtFRHdUQmNOU2VoRWxPYktrb0luQXE5YldFWE1XeG12Z205VnhTeWtTbnZvYUZ5VXd3a29EZVlQX2JRX2cwRXJXcy1IWHpwbmlMUDFyZ0VlbEN0OGVmMXU4SGF1QkhZOTNiR1h4U1RqUGJvVzFEY0RCcU1xTXNVTllZWQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T14:57:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Localizan sanos y salvos a cuatro menores extraviados en la Feria Canaco de Los Mochis Debate",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "16183e91b82eb1ae"
+ },
+ {
+  "titulo": "Fallas en bancos de EU afectan a miles; reportan problemas en Chase, Bank of America y Wells Fargo",
+  "liga": "https://lineadirectaportal.com/internacional/fallas-en-bancos-de-eu-afectan-a-miles-reportan-problemas-en-chase-bank-of-america-y-wells-fargo-2026-11-16__1739797",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-16T14:56:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Los reportes comenzaron a multiplicarse durante la mañana, cuando usuarios señalaron fallas para ingresar a los portales digitales y aplicaciones móviles de bancos como Chase, Bank of America, Wells Fargo, US Bank y JP Morgan",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7493ff947c1f55b6"
+ },
+ {
+  "titulo": "Privan de la vida a joven de 18 años en la colonia El Mirador, al norte de Culiacán",
+  "liga": "https://lineadirectaportal.com/policiaca/privan-de-la-vida-a-joven-de-18-anos-en-la-colonia-el-mirador-al-norte-de-culiacan-2026-11-16__1739801",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-16T14:55:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "El cuerpo quedó en la calle Carmen Serdán, entre bulevar Pedro Anaya y Rey Baltazar",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e5d605a38691dc39"
+ },
+ {
+  "titulo": "Exigen justicia por asesinato del periodista Eduardo Flores en Acapulco",
+  "liga": "https://riodoce.mx/2026/11/16/exigen-justicia-por-asesinato-del-periodista-eduardo-flores-en-acapulco/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-16T14:51:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2f25f3d96640e173"
+ },
+ {
+  "titulo": "¿Usar los rayos del sol para cocinar? Evolución Termosolar proyecta aprovechar energías infinitas",
+  "liga": "https://lineadirectaportal.com/sinaloa/usar-los-rayos-del-sol-para-cocinar-evolucion-termosolar-proyecta-aprovechar-energias-infinitas-2026-11-16__1739788",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-16T14:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "A base de espejos, Orlando Valdez creó unos hornos que utilizan los rayos solares para preparar alimentos y reducir el uso de combustibles que dañan al medio ambiente",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "a608c8effc50f785"
+ },
+ {
+  "titulo": "Atentos a hipotermia y enfermedades respiratorias en temporada invernal",
+  "liga": "https://sinaloa.quadratin.com.mx/atentos-a-hipotermia-y-enfermedades-respiratorias-en-temporada-invernal/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-16T14:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Durante la semana epidemiológica reportada se contabilizaron 12 mil 962 casos.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "030bb6f5cc832b35"
+ },
+ {
+  "titulo": "‘Me llena de emoción este homenaje’: Javier Arturo López, inmortalizado por Yaquis",
+  "liga": "https://punto.mx/2026/11/16/me-llena-de-emocion-este-homenaje-javier-arturo-lopez-inmortalizado-por-yaquis/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-16T14:46:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "El lanzador culichi, Javier Arturo López, tendrá su número retirado e ingresará al Recinto Histórico Alfonso R. Bours, en reconocimiento a su legado con Yaquis La entrada ‘Me llena de emoción este homenaje’: Javier Arturo López, inmortalizado por Yaquis se publicó primero en Punt",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a0e81bd61048f508"
+ },
+ {
+  "titulo": "Asesinan a balazos a un hombre en la colonia El Mirador, en Culiacán",
+  "liga": "https://reflectores.mx/asesinan-a-balazos-a-un-hombre-en-la-colonia-el-mirador-en-culiacan-2/",
+  "medio": "Reflectores",
+  "publicada": "2026-11-16T14:45:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Un hombre fue asesinado a balazos durante la tarde de este lunes en calles de la colonia El Mirador, ubicada al norte de la capital The post Asesinan a balazos a un hombre en la colonia El Mirador, en Culiacán appeared first on ReflectoresMX .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4a96344475f63f00"
+ },
+ {
+  "titulo": "Matan a joven de 18 años en la colonia El Mirador, en Culiacán",
+  "liga": "https://www.noroeste.com.mx/seguridad/matan-a-joven-de-18-anos-en-la-colonia-el-mirador-en-culiacan-EB27401104",
+  "medio": "Noroeste",
+  "publicada": "2026-11-16T14:44:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "CULIACÁN._ Un joven de 18 años fue asesinado a balazos la tarde de este lunes 16 de noviembre en la colonia El Mirador, en Culiacán. La víctima fue identificada como Irving Gerardo “N”, cuyo cuerpo fue localizado sobre la calle Carmen Serdán, en el sector mencionado. El reporte d",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e018485d73d60975"
+ },
+ {
+  "titulo": "José Luis Urquidy ya tiene fecha para su regreso con Venados de Mazatlán",
+  "liga": "https://lineadirectaportal.com/deportes/jose-luis-urquidy-ya-tiene-fecha-para-su-regreso-con-venados-de-mazatlan-2026-11-16__1739783",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-16T14:42:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "El ligamayorista tuvo paso con Medias Blancas de Chicago, Filis de Filadelfia y Piratas de Pittsburgh en su regreso a Grandes Ligas",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "afd5b496c562d4ad"
+ },
+ {
+  "titulo": "Falta coordinación entre corporaciones de seguridad en Sinaloa, advierten abogados tras hechos violentos en Mazatlán",
+  "liga": "https://noticieroaltavoz.com/falta-coordinacion-entre-corporaciones-de-seguridad-en-sinaloa-advierten-abogados-tras-hechos-violentos-en-mazatlan/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-16T14:40:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Culiacán, Sin.- La falta de coordinación entre las corporaciones de seguridad es uno de los principales problemas que deben atender las autoridades para enfrentar la violencia en Sinaloa, consideró Francisco Javier Villarreal Gastélum, presidente de la Federación de Colegios y As",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ecc283d66b42591a"
+ },
+ {
+  "titulo": "Realizan en Salvador Alvarado el Sorteo del Servicio Militar Nacional Clase 2008 y remisos",
+  "liga": "https://noticieroaltavoz.com/realizan-en-salvador-alvarado-el-sorteo-del-servicio-militar-nacional-clase-2008-y-remisos/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-16T14:38:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Guamúchil, Sin.– Con la participación de autoridades municipales y representantes de la Secretaría de la Defensa Nacional, se llevó a cabo en Salvador Alvarado el Sorteo del Servicio Militar Nacional para los jóvenes de la Clase 2008 y remisos, mediante un procedimiento supervisa",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "f757fd5fd99fe485"
+ },
+ {
+  "titulo": "Mario Zamora se reúne con integrantes del PAN en Ahome; busca reforzar lazos rumbo al 2027",
+  "liga": "https://lineadirectaportal.com/sinaloa/mario-zamora-se-reune-con-integrantes-del-pan-en-ahome-busca-reforzar-lazos-rumbo-al-2027-2026-11-16__1739789",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-16T14:38:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "El diputado aseveró que con el apoyo de los militantes se podrá generar un cambio ante la problemática que enfrenta el estado",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "423d8a38062e8553"
+ },
+ {
+  "titulo": "Nacer antes de tiempo: una historia que nos obliga a actuar",
+  "liga": "https://vivalanoticia.mx/nacer-antes-de-tiempo-una-historia-que-nos-obliga-a-actuar/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-16T14:36:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "15 de noviembre | Día Mundial de la Prematuridad Por Dr. Gerardo Kenny Inzunza Leyva . «Brindar a los bebés prematuros un buen comienzo para un futuro esperanzador». María tiene 17 años y vive en una comunidad rural de Choix, Sinaloa. Tiene 30 semanas de embarazo y apenas ha acud",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2381f05137ae2d00"
+ },
+ {
+  "titulo": "¿Una serie de comedia o una película dramática? Checa los estrenos que llegan a Netflix esta semana",
+  "liga": "https://lineadirectaportal.com/entretenimiento/una-serie-de-comedia-o-una-pelicula-dramatica-checa-los-estrenos-que-llegan-a-netflix-esta-semana-2026-11-16__1739787",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-16T14:33:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Prepara las palomitas o tus snacks favoritos para que puedas disfrutar de estas grandes producciones con tus amigos y seres queridos",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "1033727f225a992e"
+ },
+ {
+  "titulo": "Garantiza Jumapag pago puntual de aguinaldos; destinará 21.5 millones de pesos",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/garantiza-jumapag-pago-puntual-de-aguinaldos-destinara-21-5-millones-de-pesos-1167648/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-16T14:32:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Modesto López Leal aseguró que el organismo ha mantenido un fondo de ahorro para cumplir con esta prestación de sus 421 trabajadores, entre sindicalizados y de confianza.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "550769f8948ba19d"
+ },
+ {
+  "titulo": "Pablo Sandoval anuncia su retiro del beisbol profesional",
+  "liga": "https://sinaloa.quadratin.com.mx/pablo-sandoval-anuncia-su-retiro-del-beisbol-profesional/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-16T14:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "El anuncio se dio durante un juego de de exhibición de la Liga Venezolana de Béisbol Profesional.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d40a540a2df57360"
+ },
+ {
+  "titulo": "Judicializa FGR a más de mil personas en Sinaloa durante 2026",
+  "liga": "https://www.noroeste.com.mx/culiacan/judicializa-fgr-a-mas-de-mil-personas-en-sinaloa-durante-2026-AB27400909",
+  "medio": "Noroeste",
+  "publicada": "2026-11-16T14:31:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Más de mil personas han sido judicializadas por la Fiscalía General de la República en Sinaloa durante 2026, en medio de la crisis de seguridad que enfrenta el estado desde septiembre de 2024, periodo en el que se han registrado enfrentamientos entre grupos criminales, homicidios",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "406494cb59ef5b6b"
+ },
+ {
+  "titulo": "Raymundo Riva Palacio señala que la DEA tendría lista de Morena con 35 políticos",
+  "liga": "https://www.sinaloahoy.com.mx/portal/lista-morena-dea-riva-palacio/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T14:28:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Raymundo Riva Palacio señala que la DEA tendría lista de Morena con 35 políticos Raymundo Riva Palacio señala que la DEA tendría una relación de 35 políticos de Morena por presuntos vínculos con el narcotráfico. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "7acda90fd00d0419"
+ },
+ {
   "titulo": "Le quitan la vida a balazos a un hombre mientras arreglaba una motocicleta en Escuinapa, Sinaloa",
   "liga": "https://lado.mx/noticia/22325160/",
   "medio": "Lado.mx",
@@ -54,6 +634,34 @@
   ],
   "local": true,
   "id": "11db135783be4763"
+ },
+ {
+  "titulo": "Santiago Peña cumple 48 años en prisión preventiva en Paraguay por el caso Ueno Bank",
+  "liga": "https://www.sinaloahoy.com.mx/portal/santiago-pena-prision-paraguay-ueno/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T14:19:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Santiago Peña cumple 48 años en prisión preventiva en Paraguay por el caso Ueno Bank El expresidente paraguayo cumple 48 años bajo prisión preventiva en Asunción. La Fiscalía amplió la acusación en su contra por el caso Ueno Bank. Sinaloahoy - Noticias de Sinaloa y el mundo Sinal",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9b2c7297807d7346"
+ },
+ {
+  "titulo": "Identifican a Jesús Antonio, mecánico en Escuinapa privado de la vida mientras reparaba una motocicleta",
+  "liga": "https://www.sinaloahoy.com.mx/portal/mecanico-escuinapa-jesus-antonio-ataque/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T14:17:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Identifican a Jesús Antonio, mecánico en Escuinapa privado de la vida mientras reparaba una motocicleta Jesús Antonio, de 52 años, fue privado de la vida mientras reparaba una motocicleta en el Centro de Escuinapa. Autoridades localizaron seis casquillos. Sinaloahoy - Noticias de",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b37c593511cd0476"
  },
  {
   "titulo": "Prevén aumento de casos de influenza y COVID-19 en Sinaloa a partir de diciembre",
@@ -155,6 +763,20 @@
   "id": "3a7f3cc75941a37f"
  },
  {
+  "titulo": "Seguridad Pública de Sinaloa desmiente retiro de fuerzas federales en Mazatlán y confirma su permanencia",
+  "liga": "https://www.sinaloahoy.com.mx/portal/fuerzas-federales-permanencia-mazatlan-sinaloa/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T14:02:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Seguridad Pública de Sinaloa desmiente retiro de fuerzas federales en Mazatlán y confirma su permanencia La Secretaría de Seguridad Pública de Sinaloa afirmó que las fuerzas federales permanecerán en Mazatlán mientras sea necesario para recuperar la tranquilidad. Sinaloahoy - Not",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "1a675fc4704b7b34"
+ },
+ {
   "titulo": "Culiacán enfrenta crisis económica; empresarios siguen pagando las consecuencias: Taniyama",
   "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdnFMdkN3VXRNaGNILVRoYzlyQmZDTExaV3RMRXB6QkRhZlo5b3BPbmxDb1NvNFFTME1hTmM2WUNpMXpxdGhRX0JpZ0x1QVFJM2haWVdnWmUwZW43OHpsS1RPTGR3YUdvZ1RoT043eTVMZU9BSk1CVDRHb2VVbnBvNDRCcEdacERvU2VyOUozTEpZWE1Mb1BlQ29nNjlpWnViUG1iTjJGT1BHY2kwU3o4akxraXRQT3UzdVhyQ3VnTWJwVExRSW9yQVI2cDhmWXVuYUpmeklhMGlaVWFaR1FTenU3X0I?oc=5",
   "medio": "El Debate",
@@ -211,6 +833,20 @@
   "id": "e7dede8d262523cc"
  },
  {
+  "titulo": "Damián Alcázar destaca recibimiento de Claudia Sheinbaum en China y genera respuestas en redes",
+  "liga": "https://www.sinaloahoy.com.mx/portal/damian-alcazar-sheinbaum-recibimiento-china/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T13:57:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Damián Alcázar destaca recibimiento de Claudia Sheinbaum en China y genera respuestas en redes El actor destacó el recibimiento de la presidenta en Shenzhen, durante su visita por la cumbre APEC 2026. Su mensaje provocó respuestas diversas en redes sociales. Sinaloahoy - Noticias",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ce56dae0286149e3"
+ },
+ {
   "titulo": "Sheinbaum buscará ampliar exportaciones mexicanas a China en reunión con Xi Jinping",
   "liga": "https://riodoce.mx/2026/11/16/sheinbaum-buscara-ampliar-exportaciones-mexicanas-a-china-en-reunion-con-xi-jinping/",
   "medio": "Ríodoce",
@@ -251,6 +887,21 @@
   ],
   "local": true,
   "id": "c49cadd203a4c005"
+ },
+ {
+  "titulo": "Protección Civil prevé temperaturas mínimas de 8 a 21 grados en el norte de Sinaloa",
+  "liga": "https://www.sinaloahoy.com.mx/portal/temperaturas-minimas-norte-sinaloa-martes/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T13:55:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Protección Civil prevé temperaturas mínimas de 8 a 21 grados en el norte de Sinaloa La sierra del norte de Sinaloa podría registrar mínimas de 8 a 12 grados el martes; en Ahome y Juan José Ríos se prevén entre 18 y 21 grados. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "6bb518b749721b2d"
  },
  {
   "titulo": "Llega el frío a Los Mochis y estos antojitos son los preferidos por todos",
@@ -336,6 +987,20 @@
   ],
   "local": true,
   "id": "d6d9971553d51899"
+ },
+ {
+  "titulo": "Liga MX disputa tres boletos a liguilla con Santos, León y Pumas en la jornada 17",
+  "liga": "https://www.sinaloahoy.com.mx/portal/liga-mx-liguilla-apertura-jornada/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T13:48:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Liga MX disputa tres boletos a liguilla con Santos, León y Pumas en la jornada 17 Tres lugares para cuartos de final siguen disponibles en el Apertura 2026. Santos enfrenta a León y Pumas recibe a Monterrey en la última jornada. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloa",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "57180d169f326ccb"
  },
  {
   "titulo": "Trabajadores que laboren este lunes 16 de noviembre deberán recibir pago triple",
@@ -436,6 +1101,34 @@
   ],
   "local": true,
   "id": "a83f7f906d503af3"
+ },
+ {
+  "titulo": "Sergio Esquer aumenta su conversación digital tras intercambio con Paloma Sánchez, reporta El Debate",
+  "liga": "https://www.sinaloahoy.com.mx/portal/sergio-esquer-conversacion-digital-sinaloa/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T13:43:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Sergio Esquer aumenta su conversación digital tras intercambio con Paloma Sánchez, reporta El Debate El monitoreo de El Debate registró un aumento de 2 mil 675% en la conversación sobre Sergio Esquer y menciones negativas de Paloma Sánchez e Imelda Castro en X. Sinaloahoy - Notic",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4bc4a5887c566b8b"
+ },
+ {
+  "titulo": "Cañeros de Los Mochis barren a Mayos de Navojoa con triunfo en once entradas",
+  "liga": "https://www.sinaloahoy.com.mx/portal/caneros-mochis-barrida-mayos-extrainnings/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-16T13:41:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Cañeros de Los Mochis barren a Mayos de Navojoa con triunfo en once entradas Dayson Croes impulsó a Randy Romero en la entrada 11 para que Cañeros vencieran 9-8 a Mayos y completaran su segunda barrida consecutiva. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2d386937d6c862aa"
  },
  {
   "titulo": "Cae Sinaloa del séptimo al lugar 23 en competitividad; alertan por más cierres de negocios",
@@ -1208,6 +1901,21 @@
   ],
   "local": true,
   "id": "34e31d2f4aa31aa9"
+ },
+ {
+  "titulo": "Opera transporte público con 50% de camiones durante día inhábil en Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcGVBR0xSVjhCRU44MWJjei1aLXB2QjNLUlJvUElHendYaE9SbWM4TEt6dEZYRDRsYVotM2dnOUJNQ2JWc01zVS1uUzBQSjFNeWRJWmhMd2l6N0lnUHBfQWlqZjJlbUhVaVJWdGFFcU13aUJqd3NFTmxxeGpKWlJVVkVGOS1YMm9uanJMWVRMakRuTHJHTzRIdVd3X3VNOXdzaUdGRThQY2dVRy1oalNwNlhmVk5JN290b0c1WS16OWEwTGlicjNMRXN3ci1Ld2tCdTRzSTdrUQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-16T12:43:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Opera transporte público con 50% de camiones durante día inhábil en Los Mochis Debate",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "8dccdff26524d0e5"
  },
  {
   "titulo": "Festival de las Liquidaciones en Guamúchil: fechas, horarios y ofertas",
@@ -3222,6 +3930,20 @@
   "id": "b26ff4e343b6ef19"
  },
  {
+  "titulo": "Más de 100 mil asistencias registra la cuarta FIL Culiacán, informa Cultura Municipal",
+  "liga": "https://oem.com.mx/elsoldesinaloa/local/mas-de-100-mil-asistencias-registra-la-cuarta-fil-culiacan-informa-cultura-municipal-33164094",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-16T10:13:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "La afluencia de este año se comparará con las 126 mil 369 asistencias que registró la feria en su edición de 2025",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "40fff1312c8289e9"
+ },
+ {
   "titulo": "Profeco exhibe diferencias de precios de la canasta básica en supermercados",
   "liga": "https://lineadirectaportal.com/mexico/profeco-exhibe-diferencias-de-precios-de-la-canasta-basica-en-supermercados-2026-11-16__1739703",
   "medio": "Línea Directa",
@@ -3248,6 +3970,20 @@
   ],
   "local": true,
   "id": "2614eea8e39ae8ac"
+ },
+ {
+  "titulo": "Buen Fin registra alta afluencia en comercios de Culiacán; Canaco espera resultados de ventas",
+  "liga": "https://oem.com.mx/elsoldesinaloa/local/buen-fin-registra-alta-afluencia-en-comercios-de-culiacan-canaco-espera-resultados-de-ventas-33163985",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-16T10:08:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "Plazas comerciales, el primer cuadro de la ciudad y espacios de venta popular reportaron movimiento de consumidores desde el inicio de la jornada",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9605e78c63885e31"
  },
  {
   "titulo": "Sinaloa tendrá un clima caluroso, hoy lunes 16 de noviembre",
@@ -3291,6 +4027,20 @@
   ],
   "local": true,
   "id": "8c17550b4f3642b4"
+ },
+ {
+  "titulo": "Suspenden desfile del 20 de Noviembre en Concordia; conmemoración se realizará en escuelas",
+  "liga": "https://oem.com.mx/elsoldemazatlan/local/suspenden-desfile-del-20-de-noviembre-en-concordia-conmemoracion-se-realizara-en-escuelas-33163623",
+  "medio": "El Sol de Mazatlán",
+  "publicada": "2026-11-16T10:05:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "La decisión se toma por consenso entre autoridades municipales y directivos escolares debido al poco tiempo de preparación tras las clases a distancia",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "4164f600a6499a68"
  },
  {
   "titulo": "Triple empate en la cima del standing dentro de la Liga Mexicana del Pacífico Banamex",
@@ -3379,6 +4129,20 @@
   "id": "b9dc786de8649211"
  },
  {
+  "titulo": "Adolescente de Choix da a luz a bebé prematuro tras dificultades para recibir atención médica",
+  "liga": "https://oem.com.mx/elsoldesinaloa/local/adolescente-de-choix-da-a-luz-a-bebe-prematuro-tras-dificultades-para-recibir-atencion-medica-33163871",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-16T09:59:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "La joven de 17 años solo había acudido a una consulta prenatal durante su embarazo. Su bebé nació a las 30 semanas de gestación y requirió atención especializada en Culiacán.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "38b0816239c3378b"
+ },
+ {
   "titulo": "Supermercado de Culiacán tiene la canasta básica más cara del país: Profeco; ¿Cómo comparar precios sin salir de casa?",
   "liga": "https://losnoticieristas.com/mananera/2026/11/supermercado-de-culiacan-tiene-la-canasta-basica-mas-cara-del-pais-profeco-como-comparar-precios-sin-salir-de-casa-1167524/",
   "medio": "Los Noticieristas",
@@ -3448,6 +4212,20 @@
   ],
   "local": true,
   "id": "7a223f794026b15a"
+ },
+ {
+  "titulo": "Culiacán registra el precio más alto de la canasta básica en monitoreo de Profeco",
+  "liga": "https://oem.com.mx/elsoldesinaloa/local/culiacan-registra-el-precio-mas-alto-de-la-canasta-basica-en-monitoreo-de-profeco-33163804",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-16T09:50:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T15:26:02-06:00",
+  "resumen": "El paquete de 24 productos rebasó por 21.50 pesos la meta federal. En el mercado Garmendia, los locatarios reportan que algunos clientes compran por pieza o gastan apenas 10 o 15 pesos por producto",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "1e03a5a7ec01c05b"
  },
  {
   "titulo": "Realizan universitarios diagnósticos psicológicos a 40 adolescentes internados en Sinaloa",
