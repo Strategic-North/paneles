@@ -1,5 +1,541 @@
 [
  {
+  "titulo": "Frente frío 7 traerá lluvias y vientos a Baja California el 16 de nov.",
+  "liga": "https://elcongresista.mx/politica/baja-california/frente-frio-baja-california-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T11:06:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Se pronostican lluvias y fuertes vientos en Baja California debido al frente frío 7 que llegará este lunes 16 de noviembre.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "2bde3b81bd04e271"
+ },
+ {
+  "titulo": "Implementan operativo con 80 agentes en peregrinaciones de Torreón",
+  "liga": "https://elcongresista.mx/politica/coahuila/operativo-vial-peregrinaciones-torreon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T11:05:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Torreón implementará un operativo con 80 agentes para resguardar la seguridad de las peregrinaciones guadalupanas del 21 de noviembre al 11 de diciembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d4d8514f946b2492"
+ },
+ {
+  "titulo": "Maru Campos presenta modelo humanista en Madrid y critica al gobierno.",
+  "liga": "https://elcongresista.mx/politica/chihuahua/maru-campos-modelo-gobierno-espana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T11:05:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Maru Campos presenta en Madrid su modelo humanista basado en necesidades básicas y critica el debilitamiento institucional en México.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f931ecb07c2e1969"
+ },
+ {
+  "titulo": "Presupuesto 2027 es resultado de un falso debate, acusa Moreira",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTllxSTk3OWFBdHJmQlhVaW4yTi1WY0NsOWo2OUJQNVVNd3c4X2YwcVdsaUlIdmFDNFBiemhaXzZWMUxQdDAwUDhIeklFbGlfdGZJQ3Nicno2RGNHWkFFbmFNeGhXaGR0Vl84ck04S1RQcFFhWk93aGtYVTNhYWZBOG1LQjZ4NXpidzBlMTZCZ3h6dHV1Zm1kSGNfbXNiVGNjTzk0bzV2TVlzVXdsNnZJR09xaw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-16T11:03:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Presupuesto 2027 es resultado de un falso debate, acusa Moreira AFN",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "487bf2b59c9a0447"
+ },
+ {
+  "titulo": "Córdoba impulsa innovación en siete localidades con 600 participantes",
+  "liga": "https://elcongresista.mx/politica/nacional/cordoba-inpulso-startup",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "El programa IN-Pulso Startup en Córdoba involucra a 600 participantes en siete localidades para fomentar la innovación y el emprendimiento.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9ec22f6b791d04c7"
+ },
+ {
+  "titulo": "Aeropuerto de Cancún registra 448 operaciones el 16 de noviembre",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/aeropuerto-cancun-448-operaciones-16-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:58:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Para el 16 de noviembre, el Aeropuerto de Cancún espera 448 operaciones entre llegadas y salidas, con múltiples destinos nacionales e internacionales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f2d713ad22fb75f4"
+ },
+ {
+  "titulo": "Quintana Roo destina 2 mil millones para enfrentar sargazo en 2027",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/quintana-roo-sargazo-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:55:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Quintana Roo destina 2 mil millones de pesos para enfrentar el sargazo, ampliando la recolección marítima a 4 mil toneladas diarias.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "438c6e9cbdb8ea63"
+ },
+ {
+  "titulo": "Segob impulsa diálogo para resolver conflictos agrarios en México",
+  "liga": "https://elcongresista.mx/justicia/segob-dialogo-conflictos-agrarios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:52:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Rosa Icela Rodríguez de Segob resalta la importancia del diálogo para resolver conflictos agrarios en el país.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b8d7c7dce0a4a6a3"
+ },
+ {
+  "titulo": "SAT amplía incentivos fiscales para RESICO, mejorando condiciones para contribuyentes",
+  "liga": "https://elcongresista.mx/finanzas/sat-ampliacion-resico-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:51:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "El SAT anuncia en 2027 cambios para el RESICO que incluyen la condonación de multas y el aumento de ingresos para contribuyentes.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "dab60c45978654a1"
+ },
+ {
+  "titulo": "Trump insiste en amenaza de aranceles a México si no frena caravana migrante",
+  "liga": "https://jornadabc.com.mx/principales/trump-insiste-en-amenaza-de-aranceles-a-mexico-si-no-frena-caravana-migrante/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-16T10:47:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "“Como saben, dijeron que iban a detenerlos y, si no lo hacen, impondremos fuertes aranceles a México”: Trump La entrada Trump insiste en amenaza de aranceles a México si no frena caravana migrante se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "4a00d3a2d3896965"
+ },
+ {
+  "titulo": "Periodistas de Acapulco de Juárez exigen a la FGE esclarecer el asesinato de Eduardo Flores Salado",
+  "liga": "https://zetatijuana.com/2026/11/periodistas-de-acapulco-de-juarez-exigen-a-la-fge-esclarecer-el-asesinato-de-eduardo-flores-salado/?utm_source=rss&utm_medium=rss&utm_campaign=periodistas-de-acapulco-de-juarez-exigen-a-la-fge-esclarecer-el-asesinato-de-eduardo-flores-salado",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-16T10:42:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "La FGE confirmó el homicidio 12 horas después y omitió precisar si investiga la labor periodística del reportero.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c97db4d301a22a80"
+ },
+ {
+  "titulo": "Asesinan a un hombre a tiros; le disparan junto a una caseta de seguridad",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWU41Uk1FSEZoeTF5cERlRmlQeDRhNWtrdzliZmJ3aFZwdFVxMnZFRkdIazFYWTBGcVlBWlk4LXZzeWQ5dkRJS3c0WURVbTg3bTNhNDlld2I2akM4eWF6bVVycVlTSUlrZUlhTll4S2JFMUMybTg5azhmVHdKbkxuSEltQXZEZzNQc1E5Ry02dWtOR3MwNFNmTTcybkQ5ZmpFeHFSM2c2OEVqcHBxMFNRUy1pZw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-16T10:42:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Asesinan a un hombre a tiros; le disparan junto a una caseta de seguridad AFN",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "f26b1208854cf5cb"
+ },
+ {
+  "titulo": "Jalisco: 20 detenidos por operativo contra \"R2\" vinculados a proceso",
+  "liga": "https://elcongresista.mx/politica/jalisco/jalisco-detencion-r2-vinculados-proceso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:30:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Las autoridades vinculan a proceso a 20 detenidos en Jalisco tras operativo contra \"R2\", con cuatro en prisión preventiva.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "201cdf938d5d431d"
+ },
+ {
+  "titulo": "Congreso Internacional Minero Sonora cierra su edición 16 con asistencia histórica",
+  "liga": "https://www.uniradioinforma.com/negocios/congreso-internacional-minero-sonora-cierra-su-edicion-16-asistencia-historica-n914589",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-16T10:29:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Roberto Sitten Ayala, destacó que el congreso registró una asistencia promedio de 7 mil 250 personas diariamente.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "7389487b3baa0cd6"
+ },
+ {
+  "titulo": "Poder Judicial de Baja California reporta más de 3 mil jornadas de capacitación durante 2025-2026",
+  "liga": "https://elportavoznoticias.com.mx/poder-judicial-de-baja-california-reporta-mas-de-3-mil-jornadas-de-capacitacion-durante-2025-2026/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-16T10:24:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "El Poder Judicial de Baja California amplió las oportunidades de capacitación y actualización profesional para su personal y público externo, como parte de las acciones presentadas en el Informe de Gestión 2025-2026... La entrada Poder Judicial de Baja California reporta más de 3",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f5025cacdfbd7870"
+ },
+ {
+  "titulo": "Caída del café en Tuzantán dejó 200 migrantes y tierras vendidas",
+  "liga": "https://elcongresista.mx/politica/chiapas/tuzantan-crisis-cafetalera-200-migrantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:23:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "La crisis del café en Tuzantán causó la migración de 200 personas y la venta de tierras entre 1989 y 2005.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1a125270e1fd145c"
+ },
+ {
+  "titulo": "Las Normas del nepotismo",
+  "liga": "https://zetatijuana.com/2026/11/las-normas-del-nepotismo/?utm_source=rss&utm_medium=rss&utm_campaign=las-normas-del-nepotismo",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-16T10:22:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "En 2024, la empresa Idea Consultores recibió dos contratos más que vinculan a Norma Castañeda Bustamante, hija de la alcaldesa de Mexicali, con varios millones en recursos del erario municipal",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "f1d72a5f496965b9"
+ },
+ {
+  "titulo": "Iberostar: presenta su programación de fin de año y reformas",
+  "liga": "https://elcongresista.mx/politica/nacional/iberostar-programacion-reformas-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:20:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Iberostar celebra 20 años en Brasil, presenta programas para 2023 y nuevas reformas en sus hoteles.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0c588a696de0b37f"
+ },
+ {
+  "titulo": "Juez de Massachusetts fija nuevo juicio a Lindsay Clancy para marzo",
+  "liga": "https://elcongresista.mx/justicia/nuevo-juicio-lindsay-clancy-marzo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:17:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Lindsay Clancy tendrá un nuevo juicio en marzo por el asesinato de sus tres hijos tras rechazo a desestimar el caso en Massachusetts.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "67341fdcdc2f267f"
+ },
+ {
+  "titulo": "Desde 2018, 17.3 millones de mexicanos han salido de la pobreza.",
+  "liga": "https://elcongresista.mx/politica/nacional/17-3-millones-salen-pobreza",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:16:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Desde 2018, 17.3 millones de mexicanos han salido de la pobreza, indica un informe del Banco Mundial.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f26cc7ea72d7d157"
+ },
+ {
+  "titulo": "INE asigna 96% de contratos directos, sumando 2,829 millones de pesos",
+  "liga": "https://elcongresista.mx/politica/edomex/ine-contratos-adjudicacion-directa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:12:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "El INE asignó el 96% de sus contratos por adjudicación directa, totalizando más de 2,829 millones de pesos en los últimos dos años.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "da9826e6dfdf4ab2"
+ },
+ {
+  "titulo": "Santiago Peralta destaca estabilidad de Ecuador en la industria del chocolate.",
+  "liga": "https://elcongresista.mx/politica/nacional/santiago-peralta-ecuador-paccari-chocolate",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:11:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Santiago Peralta, fundador de Paccari, resalta la estabilidad de Ecuador en la industria del chocolate y la importancia de educar a los consumidores.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a495ee2e7fabd961"
+ },
+ {
+  "titulo": "¿Quién fue la primera persona eliminada de La Mansión VIP 2?",
+  "liga": "https://www.uniradioinforma.com/fama/quien-fue-primera-persona-eliminada-mansion-vip-2-n914587",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-16T10:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Tras varios días de convivencia, tensiones y momentos inesperados, ya hubo una primera eliminación.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a20aaa1daa0c3069"
+ },
+ {
+  "titulo": "Hombres armados vandalizan vivienda en Villa Bonita, Culiacán",
+  "liga": "https://elcongresista.mx/politica/sinaloa/hombres-armados-vandan vivienda-villa-bonita-culiacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:06:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "En Culiacán, hombres armados vandalizaron una vivienda tras derribar el portón con un vehículo.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f09aa70397a2a68a"
+ },
+ {
+  "titulo": "Rescatan a un adulto y un menor en Mazatlán tras denuncia anónima",
+  "liga": "https://elcongresista.mx/politica/sinaloa/rescate-adulto-menor-mazatlan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:05:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Rescatan a un adulto y un menor en Mazatlán tras llamada anónima. Dos hombres fueron detenidos en la operación.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "20668359f55d5f9c"
+ },
+ {
+  "titulo": "Matan a comerciante en Apatzingán; abaten a un sospechoso",
+  "liga": "https://elcongresista.mx/politica/michoacan/asesinato-comerciante-apatzingan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:04:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "En Apatzingán, una comerciante fue asesinada a balazos y uno de los agresores fue abatido en un enfrentamiento con la policía.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b977f87dc39c71b9"
+ },
+ {
+  "titulo": "Pablo d’Ors destaca la importancia del silencio en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/pablo-dors-silencio-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T10:02:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Pablo d’Ors destaca la relevancia del silencio como medio para promover la paz interior durante su conferencia en Morelia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7cc03b1b1f4f8fca"
+ },
+ {
+  "titulo": "Seguridad en playa en marcha: inició la temporada de guardavidas en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0lLTlVyOHVkaHVsRmttT1pvb3hCS0NHUG5DcmJTaEJtSGI5c3c4Y2E3QldjRktYOThpZzRVOUtxbVduQUNxSXlYaVZvRm5CNjFFalpuQll1dkczQWdxNTNpY0NCMHV1TWhqYkhFUGF1Ylc3STN0cnBYRzdjbVg4SFpuNV9XRGdiekJXZlhpWGZoLXluczE5TVNHei1FdE52RHpfNzJnb2hLaDVQdS0w?oc=5",
+  "medio": "Infocielo",
+  "publicada": "2026-11-16T10:01:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Seguridad en playa en marcha: inició la temporada de guardavidas en Ensenada Infocielo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b230edb172aaa5e7"
+ },
+ {
+  "titulo": "Denuncias por robo de autopartes en Baja California suben 163%: es el segundo mayor aumento del país",
+  "liga": "https://www.uniradioinforma.com/sociedad/denuncias-robo-autopartes-baja-california-suben-163-segundo-mayor-aumento-pais-n913955",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-16T10:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "En 2026 la cifra baja: a septiembre, la entidad suma 75 carpetas de investigación, 9% menos que en 2025.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "713a2cb56a938fa5"
+ },
+ {
+  "titulo": "Respalda Rosa Icela Rodríguez comisión para investigar \"fraude electoral\" de 2006",
+  "liga": "https://www.uniradioinforma.com/gobierno/respalda-rosa-icela-rodriguez-comision-investigar-fraude-electoral-2006-n914584",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-16T09:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Indicó que desde la Segob están al pendiente y \"es importante\" que se esclarezca.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "fe68fa7fe3900983"
+ },
+ {
+  "titulo": "Frente frío 6 provoca lluvias intensas y vientos en México",
+  "liga": "https://elcongresista.mx/politica/puebla/frente-frio-6-lluvias-intensas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:48:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "El frente frío 6 afectará a México con lluvias de hasta 150 mm y descenso de temperaturas en diversas regiones.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3c730b655931a1d8"
+ },
+ {
+  "titulo": "FGJES investiga caso de niña expuesta al uso de vapeador; hay tres adolescentes señaladas",
+  "liga": "https://www.uniradioinforma.com/policiaca/fgjes-investiga-caso-nina-expuesta-uso-vapeador-hay-tres-adolescentes-senaladas-n914581",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-16T09:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "La Fiscalía inició una investigación para esclarecer lo ocurrido y determinar las posibles responsabilidades.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d774300149f7297f"
+ },
+ {
+  "titulo": "Barcelona iluminará 140 km de luces navideñas el 26 de noviembre.",
+  "liga": "https://elcongresista.mx/cultura/barcelona-luces-navidad-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:46:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Barcelona inaugurará el 26 de noviembre 140 kilómetros de luces navideñas con nuevas propuestas y un gasto de 4.6 millones de euros.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1469f283e3890a96"
+ },
+ {
+  "titulo": "Frente frío 6 provocará lluvias de 25 a 50 mm en Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/frente-frio-6-tamaulipas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:45:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "El frente frío 6 provocará lluvias de hasta 50 mm y vientos en Tamaulipas a partir del 16 de noviembre.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "751430c63fb67ff1"
+ },
+ {
+  "titulo": "Sinaloa tendrá 35 grados este lunes; frío en otras regiones del país",
+  "liga": "https://elcongresista.mx/politica/sinaloa/sinaloa-temperaturas-35-grados-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:43:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Sinaloa alcanzará hasta 35 grados Celsius este lunes mientras otras regiones del país experimentan frío y lluvias intensas.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3e34803c43be6b13"
+ },
+ {
+  "titulo": "Recibe comitiva oficial a Sheinbaum para la reunión de APEC en Shenzhen",
+  "liga": "https://jornadabc.com.mx/principales/recibe-comitiva-oficial-a-sheinbaum-para-la-reunion-de-apec-en-shenzhen/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-16T09:40:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Un grupo de jóvenes vestidos de rosa y blanco bailaron y cantaron para la mandataria al ritmo de la Marcha de Bienvenida La entrada Recibe comitiva oficial a Sheinbaum para la reunión de APEC en Shenzhen se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "83ee379e5beee377"
+ },
+ {
+  "titulo": "PRD y Morena formalizan alianza hacia elecciones de 2027 en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/prd-morena-alianza-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:38:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "PRD y Morena unirán esfuerzos en Michoacán para las elecciones de 2027, fortaleciendo su presencia política en la región.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "7cf82c867411144d"
+ },
+ {
   "titulo": "Reconoce Armando Ayala trabajo legislativo de Claudia Moreno",
   "liga": "https://elportavoznoticias.com.mx/reconoce-armando-ayala-trabajo-legislativo-de-claudia-moreno/",
   "medio": "El Portavoz",
@@ -12,6 +548,95 @@
   ],
   "local": true,
   "id": "5c1ea6060ab0a167"
+ },
+ {
+  "titulo": "RUTA concluye su primer encuentro queer en Morelia tras tres días.",
+  "liga": "https://elcongresista.mx/cultura/cierre-ruta-encuentro-queer-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:34:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "RUTA finaliza su primer encuentro queer en Morelia con un festival que celebró la diversidad y la inclusión en la música electrónica.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "53011420a8739595"
+ },
+ {
+  "titulo": "León XIV resalta legados de Francisco en su viaje a Sudamérica",
+  "liga": "https://elcongresista.mx/politica/nacional/leon-xiv-viaje-sudamericano",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:31:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "León XIV destaca el legado de Francisco en su gira por Sudamérica, enfocándose en la inclusión y la fe.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "57334eb2d1dc8f5e"
+ },
+ {
+  "titulo": "Frente frío 7 impacta Sonora con lluvias y descenso de temperaturas",
+  "liga": "https://elcongresista.mx/politica/sonora/frente-frio-7-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:25:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "El frente frío 7 impactará Sonora con lluvias y descenso de temperaturas hoy, 16 de noviembre, advierte el SMN.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "69cb826bdbe475a9"
+ },
+ {
+  "titulo": "Rosalía recibe nueve nominaciones a los Grammy 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/rosalía-nueve-nominaciones-grammy-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:23:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Rosalía obtuvo nueve nominaciones para los Grammy 2027, destacándose en categorías relevantes junto a otras artistas.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c86eb9e81abc496c"
+ },
+ {
+  "titulo": "Miguel Ángel Félix Gallardo registra su nombre como marca en México",
+  "liga": "https://elcongresista.mx/politica/jalisco/miguel-angel-felix-gallardo-registro-marca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:22:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Miguel Ángel Félix Gallardo, el narco que registró su nombre como marca en México, fallece el 15 de noviembre en Guadalajara.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ea3e4e940e9778c5"
+ },
+ {
+  "titulo": "Rosa Icela Rodríguez apoya comisión para investigar fraude electoral de 2006",
+  "liga": "https://elcongresista.mx/justicia/rosa-icela-rodriguez-comision-fraude-electoral-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T09:21:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Rosa Icela Rodríguez respalda una comisión que investigará el supuesto fraude electoral de 2006 tras la confesión de Vicente Fox.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "03e01f423b3bf254"
  },
  {
   "titulo": "Fred Warner manda mensaje a México tras triunfo de los 49ers sobre Cowboys",
@@ -138,6 +763,63 @@
   ],
   "local": true,
   "id": "92ba01f4f0e8b19e"
+ },
+ {
+  "titulo": "A la venta el buque «Ensenada de Bueu», uno de los cinco arrastreros de Marín para el caladero nacional",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnkxZWVySEdWQWdzbjd1VHdDM1k0UHYxOVJJdEFmRGhEUlhjSnZQZF9nZFd5OXNfTXZRRm1mMXM1UFBCUTJtQXNnc1hVSTZNeHU2TUxXcmFscnRBRk5VcjJPc1E2UWVPNmx0RjJFN1ROSEIxbWRRamY3T1ZiU3pzdWJkaHY2dklISGV2Sk5GYmtWWFE5aEhjd0R0cUdkMlI2eVo5VXUtd2oxRGhTTHFycXlXMGFoQjc5YnpuMnZ5em_SAcYBQVVfeXFMTVRaanVfcXlrbWNreXJnMHBhNEExTlVYVVVhTzhmWlhPenNTQ08zemRabHd5ZlZDdFFtWmFMem9Ic21zRVR1Sm40b1g5Vk1wem5fT012UzNIdTBfQldoUUs0QUF0MjVTTXB1RzJSUjI3YmdETEhWVUpoMnpiQ1NYcVJLb3pnTWNneVBlNkFJSkEySlp4LWpyRmhWV0Q3d3NiemhPRjVmQ0EwSFc1VVFxVXFPZThOa1daWldOY2hGQmxYTUpQcDRB?oc=5",
+  "medio": "Faro de Vigo",
+  "publicada": "2026-11-16T07:43:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "A la venta el buque «Ensenada de Bueu», uno de los cinco arrastreros de Marín para el caladero nacional Faro de Vigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a592a201bb1f61f3"
+ },
+ {
+  "titulo": "Comparte Rosalinda Rentería su Luz de Otoño",
+  "liga": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01UE9pdUhjUjFkN2hhbnZvby0xam8wczNUSjhlM1ZxMF9RZzdGLTRlVkxXSzFaejZsRWNiV2pid01sNXNGcXU1NGRjck9NTkZhQXFyZg?oc=5",
+  "medio": "Zona Norte Noticias",
+  "publicada": "2026-11-16T07:28:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Comparte Rosalinda Rentería su Luz de Otoño Zona Norte Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2cec3c8ca343ef9c"
+ },
+ {
+  "titulo": "Mediante títeres y máscaras promueven empatía por neurodivergencias",
+  "liga": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJajhZUzNKd3hyWTMtaU55NDNCWUJjNXdzVkl4cFZSXy1KX2RWc3VyLVpuVUxtdjNnV0I2bzQydHJxUjZrbnZsZ0RIZE1YVjZJdnl4SA?oc=5",
+  "medio": "Zona Norte",
+  "publicada": "2026-11-16T07:28:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Mediante títeres y máscaras promueven empatía por neurodivergencias Zona Norte Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cd7a349dcbb1c6d5"
+ },
+ {
+  "titulo": "Asaltan con violencia un OXXO en la colonia Maestros",
+  "liga": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9paDEwX2c4OWRfUEdoOWRSeTRpU2JNOG5RYW9nWlZicnd4Z3UzNjZ2VEJ1dnRVNDltWWdGeTdKZmR4ZjctX2dsalk2U1NmY2RjcklzVg?oc=5",
+  "medio": "Zona Norte Noticias",
+  "publicada": "2026-11-16T07:28:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Asaltan con violencia un OXXO en la colonia Maestros Zona Norte Noticias",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": false,
+  "id": "17c28e727de91709"
  },
  {
   "titulo": "Robo a transportistas crece 33% en Baja California; en el país cae 21%",
@@ -344,6 +1026,34 @@
   ],
   "local": false,
   "id": "ad91c364702c36f6"
+ },
+ {
+  "titulo": "Hallan muerto y maniatado a un hombre en la zona de Pata de Gallo",
+  "liga": "https://oem.com.mx/lavozdelafrontera/policiaca/hallan-muerto-y-maniatado-a-un-hombre-en-la-zona-de-pata-de-gallo-33160233",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-16T05:16:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Los hechos se registraron la tarde del domingo en la zona poniente de Mexicali",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c9fe2fcfa9499ba2"
+ },
+ {
+  "titulo": "Inicia este lunes con cielo nublado; se esperan chubascos por la tarde",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/inicia-este-lunes-con-cielo-nublado-se-esperan-chubascos-por-la-tarde-33160187",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-16T05:11:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T11:16:11-06:00",
+  "resumen": "Se espera una temperatura máxima de 21° centígrados en la ciudad",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "bde46c04f3173f82"
  },
  {
   "titulo": "Morena aplaza convocatoria para elegir nueva presidenta del INE",
