@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-15T17:47-06:00",
- "corte": "2026-11-15",
+ "actualizado": "2026-11-15T19:24-06:00",
+ "corte": "2026-11-16",
  "ventana": [
-  "2026-11-14T18:30-06:00",
-  "2026-11-15T18:30-06:00"
+  "2026-11-15T18:30-06:00",
+  "2026-11-16T18:30-06:00"
  ],
- "total": 576,
+ "total": 19,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -16,7 +16,7 @@
   {
    "fuente": "Noroeste",
    "ok": true,
-   "notas": 73
+   "notas": 72
   },
   {
    "fuente": "Noroeste",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 6
+   "notas": 3
   },
   {
    "fuente": "Noticiero Altavoz",
