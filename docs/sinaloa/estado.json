@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-16T19:52-06:00",
+ "actualizado": "2026-11-16T20:52-06:00",
  "corte": "2026-11-17",
  "ventana": [
   "2026-11-16T18:30-06:00",
   "2026-11-17T18:30-06:00"
  ],
- "total": 58,
+ "total": 104,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -16,7 +16,7 @@
   {
    "fuente": "Noroeste",
    "ok": true,
-   "notas": 67
+   "notas": 68
   },
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 424
+   "notas": 430
   },
   {
    "fuente": "Los Noticieristas",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 6
+   "notas": 10
   },
   {
    "fuente": "Noticiero Altavoz",
@@ -120,8 +120,8 @@
   },
   {
    "fuente": "Google News: site:debate.com.mx Mazatlán",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:debate.com.mx \"Los Mochis\"",
@@ -130,8 +130,8 @@
   },
   {
    "fuente": "Google News: Sinaloa",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  ]
 }
