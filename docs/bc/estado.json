@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-17T00:01-06:00",
+ "actualizado": "2026-11-17T01:19-06:00",
  "corte": "2026-11-17",
  "ventana": [
   "2026-11-16T18:30-06:00",
   "2026-11-17T18:30-06:00"
  ],
- "total": 149,
+ "total": 171,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -70,43 +70,43 @@
   },
   {
    "fuente": "Google News: Ensenada",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:elvigia.net",
    "ok": true,
-   "notas": 70
+   "notas": 72
   },
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 57
+   "notas": 58
   },
   {
    "fuente": "Google News: site:afntijuana.info",
-   "ok": true,
-   "notas": 51
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
-   "ok": true,
-   "notas": 4
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 13
+   "notas": 12
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
    "ok": true,
-   "notas": 9
+   "notas": 8
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
-   "ok": true,
-   "notas": 28
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
@@ -120,13 +120,13 @@
   },
   {
    "fuente": "Google News: Ayuntamiento de Ensenada deslinda",
-   "ok": true,
-   "notas": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: Ensenada (detenido OR detienen) funcionario",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 0
   }
  ]
 }
