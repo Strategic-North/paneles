@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-17T01:19-06:00",
+ "actualizado": "2026-11-17T02:39-06:00",
  "corte": "2026-11-17",
  "ventana": [
   "2026-11-16T18:30-06:00",
   "2026-11-17T18:30-06:00"
  ],
- "total": 171,
+ "total": 234,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -76,22 +76,22 @@
   {
    "fuente": "Google News: site:elvigia.net",
    "ok": true,
-   "notas": 72
+   "notas": 100
   },
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 58
+   "notas": 57
   },
   {
    "fuente": "Google News: site:afntijuana.info",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 50
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 4
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
@@ -105,8 +105,8 @@
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 29
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
@@ -116,12 +116,12 @@
   {
    "fuente": "Google News: Ensenada policías municipales detenidos",
    "ok": true,
-   "notas": 3
+   "notas": 4
   },
   {
    "fuente": "Google News: Ayuntamiento de Ensenada deslinda",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 0
   },
   {
    "fuente": "Google News: Ensenada (detenido OR detienen) funcionario",
