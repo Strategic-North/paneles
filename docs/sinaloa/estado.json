@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-16T18:19-06:00",
- "corte": "2026-11-16",
+ "actualizado": "2026-11-16T19:20-06:00",
+ "corte": "2026-11-17",
  "ventana": [
-  "2026-11-15T18:30-06:00",
-  "2026-11-16T18:30-06:00"
+  "2026-11-16T18:30-06:00",
+  "2026-11-17T18:30-06:00"
  ],
- "total": 758,
+ "total": 33,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -16,7 +16,7 @@
   {
    "fuente": "Noroeste",
    "ok": true,
-   "notas": 68
+   "notas": 67
   },
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 395
+   "notas": 426
   },
   {
    "fuente": "Los Noticieristas",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 6
+   "notas": 8
   },
   {
    "fuente": "Noticiero Altavoz",
@@ -130,8 +130,8 @@
   },
   {
    "fuente": "Google News: Sinaloa",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  ]
 }
