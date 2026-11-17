@@ -1,5 +1,343 @@
 [
  {
+  "titulo": "UIF bloquea cuentas de exdirector del INE por irregularidades",
+  "liga": "https://elcongresista.mx/justicia/uif-bloquea-cuentas-exdirector-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:49:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "La UIF bloquea cuentas de Juan Carlos Cuervo, exdirector del INE, por posibles irregularidades en contratos electorales.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "471ecd13ed252fa5"
+ },
+ {
+  "titulo": "Alejandro Moreno acusa a MC de respaldar presupuesto por impunidad",
+  "liga": "https://elcongresista.mx/justicia/moreno-acusa-mc-presupuesto-impunidad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:47:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Alejandro Moreno critica a MC por su apoyo al Presupuesto 2027, acusándolos de proteger a Samuel García de investigaciones.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b99faedc07e9c290"
+ },
+ {
+  "titulo": "Incautan 18 vehículos y equipo táctico en Jalisco; vínculo con el CJNG",
+  "liga": "https://elcongresista.mx/politica/jalisco/incautan-18-vehiculos-equipo-tactico-jalisco-cjng",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:46:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "La FGR asegura 18 vehículos y equipo táctico en Jalisco; algunos indicios tienen relación con el CJNG.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "11ede57a1041eb71"
+ },
+ {
+  "titulo": "Vinculan a proceso a tres por portación de armas en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/vinculan-a-proceso-tres-hombres-portacion-armas-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:45:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Un juez vincula a tres hombres, incluido un menor, por portación de armas de uso exclusivo de las Fuerzas Armadas en Sinaloa.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "89ee13a27cad9c99"
+ },
+ {
+  "titulo": "Navidarte llevará diversión y solidaridad al Parque Morelos de Tijuana",
+  "liga": "https://elportavoznoticias.com.mx/navidarte-llevara-diversion-y-solidaridad-al-parque-morelos-de-tijuana/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-16T19:44:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "El próximo domingo 22 de noviembre se realizará “Navidarte, una Navidad con causa”, una feria navideña organizada por estudiantes de la Universidad Autónoma de Baja California (UABC), que tendrá lugar en el... La entrada Navidarte llevará diversión y solidaridad al Parque Morelos",
+  "temas": [
+   "Cultura y tradiciones",
+   "Educación"
+  ],
+  "local": true,
+  "id": "0d0863fc5b5dbb39"
+ },
+ {
+  "titulo": "Canacintra Tijuana sumará propuestas industriales al Plan Estratégico Metropolitano 2040",
+  "liga": "https://elportavoznoticias.com.mx/canacintra-tijuana-sumara-propuestas-industriales-al-plan-estrategico-metropolitano-2040/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-16T19:43:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "La Cámara Nacional de la Industria de la Transformación (Canacintra) Tijuana participará en la elaboración del Plan Estratégico Metropolitano 2040 mediante propuestas enfocadas en las necesidades de infraestructura y competitividad del sector... La entrada Canacintra Tijuana suma",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "f07e2945e024e4fb"
+ },
+ {
+  "titulo": "Moreno acusa a MC de avalar Presupuesto a cambio de impunidad para gobernador de N.L.",
+  "liga": "https://zetatijuana.com/2026/11/moreno-acusa-a-mc-de-avalar-presupuesto-a-cambio-de-impunidad-para-gobernador-de-n-l/?utm_source=rss&utm_medium=rss&utm_campaign=moreno-acusa-a-mc-de-avalar-presupuesto-a-cambio-de-impunidad-para-gobernador-de-n-l",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-16T19:42:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "“Son unos esquiroles, que son un satélite y que trabajan para Morena”, declaró el dirigente del PRI en referencia a los legisladores del partido naranja",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "a361cbdde70dff6f"
+ },
+ {
+  "titulo": "[VIDEO] Papa León XIV es golpeado con un rosario cerca del ojo durante su despedida de Perú",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWllHSVhlUXJVR0dqN2xQQk5nbUxJLVBMVFBQYWx1N3pYOWl5Nl9KTkFfeDZZei12ZkdWeFBrZEJ5WVFnaWtwUjN6UkNiXy1OTURYRVNpNEIyUU5qLUlxRjA0ay00cjNJWDRndEJxaTlXR3ExNTN4dkZaQnBUOWM4LVh2V09SM3JoRnRzN05VdGUtdTk5TVRHYU1lYkhWSVFIUThRdl9PRHd3VHhZdVNmZ3FJSlJiYjhua3VLczVrWGEtUm1FYmVITQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-16T19:41:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "[VIDEO] Papa León XIV es golpeado con un rosario cerca del ojo durante su despedida de Perú Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "84d28c9fee97567e"
+ },
+ {
+  "titulo": "Ciudad Madero refuerza apoyo a la Cruz Roja en su 101 aniversario",
+  "liga": "https://elcongresista.mx/tamaulipas/ciudad-madero-apoyo-cruz-roja-aniversario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:39:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Ciudad Madero renueva su apoyo a la Cruz Roja Mexicana, duplicando el respaldo mensual en su 101 aniversario.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b8faf090268e39f8"
+ },
+ {
+  "titulo": "Elecciones de 2027 en BC costarán 592 millones de pesos",
+  "liga": "https://puntonorte.info/2026/11/16/elecciones-de-2027-en-bc-costaran-592-millones-de-pesos/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-16T19:38:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Mexicali.- El Instituto Estatal Electoral de Baja California (IEEBC) aprobó el presupuesto que ejercerá en la organización del proceso electoral 2026-2027, por un monto de alrededor de 592 millones de pesos, que incluye 65 millones de pesos más en gasto operativo que las eleccion",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "67dcd7d08a202d2d"
+ },
+ {
+  "titulo": "Resultados Tris De las Siete hoy 16 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-siete-sorteo-36951",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:35:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "El sorteo Tris De las Siete número 36951 se celebró este 16 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8977ec428fa9619f"
+ },
+ {
+  "titulo": "Aseguran 106 kilos de marihuana y municiones en Chihuahua",
+  "liga": "https://elcongresista.mx/politica/chihuahua/aseguran-marihuana-municiones-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:33:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "La SSPE asegura 106.4 kilos de marihuana y 364 cartuchos en Chihuahua, reforzando la seguridad en la región.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0e0a8f4a213cf291"
+ },
+ {
+  "titulo": "CMIC desconoce avances del plan federal de infraestructura para Ensenada y San Quintín",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQUV6TmR2WXIyNkpnWjIwQmRWV1Zxc2NTNUlES1VFY2EyNkVScWJqak8ybzUwOUhlNUhvWUpHcjVrRmp0MUF0NWoyMHQxLU1UV0ZKa2hJVWthYWo4blpHTTZsUEpLZEFyaFNGNXM0aFgtXzJOZ2hjOGdiLS1sVDh6cVo5WEVBX0I2SWpsSUw4ZW9yeExwellrRFp0SmhIWWRWbE90NGdnczNPTWNtUHhEZV8tSGdaUG9aWkc5eGZRcWNxN0hIcGtKVERaMnQ0VV84MmVORnVR0gHwAUFVX3lxTE1nWTNaNS0wcWtoV0p1dVlSZ0J0Wm9DX1VfYkFZSFFlTk9KUU9RN3AxLTUzMDNCWFFDMXZsQ2FpOVVlMjNqdnFyLTExY1d3QlZCN0Y2em1WRy1YT2V4elNRdTVoX3pzTXc0bmdGOXF3SWRBQXVHazlBQVJOUEM3Mlk0V3NqamJvMjZhXzNiYXdKXzQ4Ny05Qjg1ZmQ5N25nV2FEV1lJcl90SGc2Qy1GSGdCWjR3eXVWOEdkTV9zbXQwenY5RGhaamluLXRfeTdHdFdFdTZMN3FNekc1R2tkY2tyNkNoTVF6d0VMZnFjSEladQ?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-16T19:32:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "CMIC desconoce avances del plan federal de infraestructura para Ensenada y San Quintín El Imparcial",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5d4d10559f2942d4"
+ },
+ {
+  "titulo": "Denuncian abuso policial en Progreso, Yucatán por detención arbitraria",
+  "liga": "https://elcongresista.mx/politica/yucatan/denuncia-abuso-policial-progreso-yucatan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:32:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Pareja denuncia abuso policial en Progreso, Yucatán, tras detención y filtración de fotos por el alcalde Eric Rihani.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a134c3a97511a8f4"
+ },
+ {
+  "titulo": "Activistas trans lanzan miniserie en maya sobre violencia de género",
+  "liga": "https://elcongresista.mx/cultura/mujeres-trans-miniserie-maya-merida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:31:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Muñeca Aguilar presenta una miniserie en Mérida que aborda la violencia de género y la exclusión social hacia mujeres trans, el 22 de noviembre.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d3ee8f8b1e2de233"
+ },
+ {
+  "titulo": "United Airlines restablece sus sistemas tras falla tecnológica que afectó vuelos en Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVU2aldQNTluYnlQa0JFZEo0Q0Rxc1hLTnNJYWhoZElJbE5FX0FLdzlDQ1ZCVVE1VFlDeThieUU3MUU3V0MxaU5ON0JYQzlzVHBRaWFFVFdlRURkTW5Od1lNNS03MzZBOVVIUV96TGRmT0MyUHRYa2VfaTV4WHBOM0lBcWFUWDhYeTMxb2FBUEpUQlZwSGlVRVNQQWFiU3NPbHZvX1NFVzRBM2lLcHctdzYxb2cwUVcwSU5ReE9HSHBQMl9jazFaT3N4MnpabzVLN2lsSg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-16T19:31:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "United Airlines restablece sus sistemas tras falla tecnológica que afectó vuelos en Estados Unidos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "524d407a91672751"
+ },
+ {
+  "titulo": "Persecuciones y balaceras en Ciudad Victoria dejan dos heridos",
+  "liga": "https://elcongresista.mx/tamaulipas/persecuciones-balaceras-ciudad-victoria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:30:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "En Ciudad Victoria, Tamaulipas, se reportan persecuciones y balaceras con al menos dos hombres heridos y movilización policial.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "302cbe7b82e9dbf1"
+ },
+ {
+  "titulo": "Segob busca retorno seguro de más de 5,400 desplazados en Oaxaca",
+  "liga": "https://elcongresista.mx/politica/oaxaca/segob-oaxaca-retorno-desplazados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:26:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "La Secretaría de Gobernación busca lograr el retorno seguro de más de 5,400 desplazados en Oaxaca tras años de violencia y conflictos agrarios.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "471bdea3d6e19be4"
+ },
+ {
+  "titulo": "Adolescente muere tras choque entre patrulla y transporte en Ajalpan",
+  "liga": "https://elcongresista.mx/politica/puebla/adolescente-muere-choque-patrulla-transportes-ajalpan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:25:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Accidente en Ajalpan resulta en la muerte de una adolescente y varios heridos, incluyendo a policías.",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ad392b6767375954"
+ },
+ {
+  "titulo": "Cuatro policías de Tehuacán reciben sanciones administrativas",
+  "liga": "https://elcongresista.mx/politica/puebla/sanciones-policias-tehuacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-16T19:25:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Cuatro policías de Tehuacán son sancionados por indisciplina con 15 días sin sueldo. No han sido dados de baja.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b011a3c1d3eb3b29"
+ },
+ {
+  "titulo": "Suma IMSS 48 nuevos módulos de «trato digno» en servicios de urgencias",
+  "liga": "https://jornadabc.com.mx/region/suma-imss-48-nuevos-modulos-de-trato-digno-en-servicios-de-urgencias/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-16T19:24:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Como parte del Plan Integral 12 Acciones en 120 Días anunciados por Zoé Robledo, aumentará el número de agentes que atienden y orientan a derechohabientes La entrada Suma IMSS 48 nuevos módulos de «trato digno» en servicios de urgencias se publicó primero en La Jornada Baja Calif",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "2250ddd415b48d64"
+ },
+ {
+  "titulo": "Anuncia Claudia Agatón mesa permanente para recuperar vialidades prioritarias de Ensenada",
+  "liga": "https://www.uniradioinforma.com/gobierno/anuncia-claudia-agaton-mesa-permanente-recuperar-vialidades-prioritarias-ensenada-n914715",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-16T19:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "En acuerdo con el sector transportista, que participará de manera permanente, se priorizarán las rutas del transporte público y las calles de mayor beneficio para la población",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "581ed505c4d24f97"
+ },
+ {
+  "titulo": "Robert Pattinson será el nuevo James Bond; relevará a Daniel Craig como el agente 007",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I5QVVHYlBEbzM0cFV5YkFoaERsb0R4NFlkOVVqaEpEYWJhT3E5SkpjYUlqczJhVlRZUmlrSUQxRHpDdl9IbmhMMzhSdDd5bXR2NU1CSldpZ1d3ZG0wblpSY0xXeVZZME41Z2EwaHRBWVYwdGwzSkxGZkhaZFd6djVFV3VERFdKRGF3WDFUc2dka2NWdE1sLTdHTzZBX20tX2Fnak92SDBHMkNCS3RHczljdjhFeVMzdG5ZcnpHcXJOSFFf?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-16T19:19:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T19:52:33-06:00",
+  "resumen": "Robert Pattinson será el nuevo James Bond; relevará a Daniel Craig como el agente 007 Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "300262970cbdf00b"
+ },
+ {
   "titulo": "Gobierno de Michoacán pedirá 200 mdp para subsidiar transporte",
   "liga": "https://elcongresista.mx/politica/michoacan/gobierno-michoacan-subsidio-200-millones",
   "medio": "El Congresista",
