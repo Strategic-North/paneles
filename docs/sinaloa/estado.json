@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-16T20:52-06:00",
+ "actualizado": "2026-11-16T21:55-06:00",
  "corte": "2026-11-17",
  "ventana": [
   "2026-11-16T18:30-06:00",
   "2026-11-17T18:30-06:00"
  ],
- "total": 104,
+ "total": 129,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 430
+   "notas": 428
   },
   {
    "fuente": "Los Noticieristas",
@@ -115,8 +115,8 @@
   },
   {
    "fuente": "Google News: site:debate.com.mx Culiacán",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: site:debate.com.mx Mazatlán",
@@ -130,8 +130,8 @@
   },
   {
    "fuente": "Google News: Sinaloa",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 100
   }
  ]
 }
