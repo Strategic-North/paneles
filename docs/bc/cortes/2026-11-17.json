@@ -1,5 +1,931 @@
 [
  {
+  "titulo": "Recomienda la SSPCM reforzar la seguridad en los hogares",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0xhLWl5YmdRcXpQN0JsVDJRelVZLUV4Vldib2lfMTNPWFphVFFxVjZoeVZSYlJNaWM5aUNTbFJzS1pmbms3dEg2YjM1OXg4VnRFRXdJWDZJVmQ1enlTLTVqZkNpZC1lcko1ZE9ucXRDbzJXX2dlYXQ5bkY4UzZ5Z3ptQ3lNVmRJN3VnRF8wNDBHcVg5LXVVOFIzY2ZZTUE?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T15:25:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Recomienda la SSPCM reforzar la seguridad en los hogares AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9705aeb47230a5d8"
+ },
+ {
+  "titulo": "Congreso de Coahuila entrega 11 condecoraciones a coahuilenses",
+  "liga": "https://elcongresista.mx/politica/coahuila/condecoraciones-congreso-coahuila",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:21:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El Congreso de Coahuila rinde homenaje a 11 destacados coahuilenses en una ceremonia especial de condecoración.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bf366ef3f3f04929"
+ },
+ {
+  "titulo": "Cómo iniciar y hacer crecer un negocio de alimentos",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDM1prMUhSbDZwR0RQUXRFUnNkSU1QVUU0MTEyQV9nUmQtSVg5Wm9BY044aVA1NjFkZnE1Ukh3UzNCc1N0UDBvWU9aLTI0ZTRYRjJsbmg3VkJFVWRuSjBQOU5n?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-17T15:20:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Cómo iniciar y hacer crecer un negocio de alimentos Ensenada.Net",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "7a784df3e4a83f65"
+ },
+ {
+  "titulo": "Congreso de BCS aprueba cuenta pública de Víctor Castro por 806 mdp",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/aprueban-cuenta-publica-victor-castro-806-mdp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:18:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El Congreso de Baja California Sur aprueba la cuenta pública de Víctor Castro a pesar de 806 mdp en observaciones sin justificar.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "99dcfca214d9b890"
+ },
+ {
+  "titulo": "Asesinan a mujer a balazos en la Zona Norte de Tijuana; hay dos detenidos",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDdIa3oybTE3SDA4cG1zcmVUTDBrQTBoTElfTjVoby1LVHpUUU9tdGlCTk0tRVFIc0tnYUNGeG1rSmNQZWJLWC1kWnoxYmwtaEtPY0VLRGt2Vy1pWGNzVmRCR1FqVG1peTRwdjFBR096YWJYdUR1NnYwUHZFZHJIQ3ZRTjFFU0IyR0FSeElUMFNXcFdiUzk5REZOTTItekZ5WTZqNEpkcWZ3dUR2ZGc1bUsyTmpsQQ?oc=5",
+  "medio": "Periodismo Negro",
+  "publicada": "2026-11-17T15:18:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Asesinan a mujer a balazos en la Zona Norte de Tijuana; hay dos detenidos Periodismo Negro",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c149564452e02654"
+ },
+ {
+  "titulo": "Entregan Paquete Económico 2027 al Congreso de BCS por 28 mil 300 mdp",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/paquete-economico-2027-bcs",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:18:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El Paquete Económico 2027 de BCS asciende a 28 mil 300 millones de pesos, priorizando sectores como educación y salud.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a9622a8a649e7cf7"
+ },
+ {
+  "titulo": "Despiden a seis trabajadores de Servicios Públicos en La Paz tras protestas",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/despiden-trabajadores-servicios-publicos-la-paz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:17:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Seis trabajadores de Servicios Públicos en La Paz fueron despedidos tras protestas por bonificaciones y derechos laborales, buscando reinstalación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e9a8efbb786f608d"
+ },
+ {
+  "titulo": "Monserrat Peart logra récord continental en buceo libre para México",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/montserrat-peart-record-continente-buceo-libre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:16:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Monserrat Peart establece un nuevo récord continental en buceo libre, alcanzando 102 metros en Nicaragua, y mira hacia el récord mundial.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6ec2e2467ea28b57"
+ },
+ {
+  "titulo": "La delincuencia vuelve a disminuir en las principales ciudades de California",
+  "liga": "https://www.uniradioinforma.com/sociedad/la-delincuencia-vuelve-disminuir-principales-ciudades-california-n914865",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T15:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f720cb48238b4ac2"
+ },
+ {
+  "titulo": "Senderos Seguros se extiende a Michoacán y continúa en Edomex: SICT",
+  "liga": "https://jornadabc.com.mx/region/senderos-seguros-se-extiende-a-michoacan-y-continua-en-edomex-sict/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-17T15:15:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Es un proyecto que \"devuelve la tranquilidad a las comunidades\"; ya ha llegado a Sonora y se aplica como parte del Plan por la Paz y la Justicia en municipios michoacanos La entrada Senderos Seguros se extiende a Michoacán y continúa en Edomex: SICT se publicó primero en La Jorna",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "53d17ea0c3860562"
+ },
+ {
+  "titulo": "UABC propone un presupuesto de 6 mil 200 mdp para el 2027",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkpYd0ZfTURvQjlkYzdHRWJVaWdDanV0cXI0ZW5FcEZrRnEtRzJndDB5aHZHc3owQkxzSy0xSDIySElaaXNlQVpkOXpzUXdoVlZXbHhEUTgyRlB3WWRkRzBTWnppMS05SGVDbm5vZ3I2LWl3SENUdGJsdjg3VTllcWR0ejVNQzIyQjRpcGJMV21qR1lKU0lmbXJ6UU5xVk5WVVY4RXNhQ3FOS2hH?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T15:15:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "UABC propone un presupuesto de 6 mil 200 mdp para el 2027 AFN",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": false,
+  "id": "77eeabca5953b8dd"
+ },
+ {
+  "titulo": "Newsom anuncia la finalización de un importante proyecto de control de inundaciones en el Valle de Sacramento antes de El Niño",
+  "liga": "https://www.uniradioinforma.com/sociedad/newsom-anuncia-finalizacion-importante-proyecto-control-inundaciones-valle-sacramento-antes-nino-n914863",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T15:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Mientras Trump debilita la preparación ante las inundaciones, el gobernador Newsom refuerza las defensas contra inundaciones de California para ayudar a proteger hogares, negocios y comunidades.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "3d4758ff5db886b3"
+ },
+ {
+  "titulo": "Exalcalde morenista y suplente de Ayala busca candidatura del PAN en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnNSa1NLbmtMQXhKcWVYYUNXTTlCSHRpNG5NZWJhazVFWHZpVlpYZE9XMTV1bVBCVlBOUFRNeEhzRkg3MHRhMlJZek5KYXYyb2RDZ0ZMZEE3VENlSlZTMHRKaTJDX19yNVhGUFI1Sm83UjNlX2tjbkprbmJiaWZ6aFpvSy03VXZZZFQ1Wmx5MlJNQkdzblp2VmhZNGVVN3V4WE9nSzY1S08xcUprT3lEVzdQcw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T15:13:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Exalcalde morenista y suplente de Ayala busca candidatura del PAN en Ensenada Baja News",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "325fb5c0843393b0"
+ },
+ {
+  "titulo": "“Nos quitaron el triunfo”: Piloto mexicano pide a SCORE revisar el resultado de la Baja 1000",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZklLMkxqUnh3UlhMN1B4SGk3ak5haGNHNTFvZEZObW0xWlY0QXBDaVg4TUJXeFp3OWFsM3NyeE5EbldpRXRObzdBN3FUb3BialNTMUdpazcxbU1fMndaLWp2aFZIQmZmZWgwalFhTVZ0NmFVa2tDN0J5NHVjM3EtRDJ5ZGVBUkpxVXFkX3RqMk1EYlR4bDVZdVVEbE13MUhnYnBDbC1kX1FaQTEtdXhZNjBjQjRaOGt2Q21XY3VVUjBzZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T15:11:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "“Nos quitaron el triunfo”: Piloto mexicano pide a SCORE revisar el resultado de la Baja 1000 Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ec9c36cb5e56390f"
+ },
+ {
+  "titulo": "Cómo elegir ropa deportiva",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EWUp4Zzl2bEZQXzUxLWk1b2NIdlUtcjM4al9yX1AxekFCQngwd1o3YTQ2TFRfLXhjcGhrU2tuUGFrSDlMek1HVTN4c3RaODNHa3pzWlFtOHdkdURKTzdPM3lB?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-17T15:10:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Cómo elegir ropa deportiva Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f6e5891154d89430"
+ },
+ {
+  "titulo": "Ensenada se prepara para recibir a la industria cinematográfica del noroeste",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjFYdTRLWnNzUnN2SHlHWXdGOGxjd3hIQXRNVEFGcjlzZE9qMTVhdVI0eGNyN3pjeUFfSGc1N29BelBncndGS2xrNGFJNkV2djBHRWpPUlRoR3NXdVp6d1VfeUFmVlNKa3E0RzB0cW9KVXhjRms0Z205UmFkMkZPb3F4bXk2MHI5Q25VdnZWWjdNV1FlUGhGeWVnYUR4ZWFUYVJ4UXd1X2xud0NRWFBTYQ?oc=5",
+  "medio": "Diario Tijuana",
+  "publicada": "2026-11-17T15:08:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Ensenada se prepara para recibir a la industria cinematográfica del noroeste Diario Tijuana",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "004d1dbd2c06c4f1"
+ },
+ {
+  "titulo": "Gobierno de Morelos impulsa productos locales en Oxxo",
+  "liga": "https://elcongresista.mx/morelos/gobierno-morelos-productos-oxxo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:07:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El Gobierno de Morelos promueve la inclusión de productos locales en Oxxo para mejorar las oportunidades de comercialización.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "263a9fd7d6fea18d"
+ },
+ {
+  "titulo": "Defiende Ramón Vázquez licencia legislativa y pide unidad en proceso interno de Morena en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOemhsZWUyWGR0SEpKY0I4WkZJV0d5YUxqaDBmT2xfc0N4MUFldUVNbWZwR2xmbVhhSFgzdWpXRGlsV0RHeDFlVDZHaFRQaHlxUXdQNmtlVHhteXc4NXllSWZlRnUxUGdoM3NaclozNU5fR01aV1JOclNuMXdkeDFkb3g0NlRsWkdMd3pTMEp1b0xVRGNQXzdlZElmam5ZOUxDaGxkb3M2WjNWR2M1bmJKdUdkYVVqLXFNQy11cDlsWFhwekpYYUV2Y05hd0Y1UQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T15:06:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Defiende Ramón Vázquez licencia legislativa y pide unidad en proceso interno de Morena en Tijuana Baja News",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "8feb9836d8e219ab"
+ },
+ {
+  "titulo": "¿Nuevo romance? José Eduardo Derbez sale con la DJ Mariana Bo",
+  "liga": "https://www.uniradioinforma.com/fama/nuevo-romance-jose-eduardo-derbez-sale-dj-mariana-bo-n914861",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T15:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Según declaraciones de la DJ, ella y José Eduardo se conocen desde 2025.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "11371abf1d258ef1"
+ },
+ {
+  "titulo": "Gerardo Aguado impulsa propuestas para mejorar convivencia vecinal en Torreón",
+  "liga": "https://elcongresista.mx/politica/coahuila/gerardo-aguado-propuestas-convivencia-torreon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:05:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Gerardo Aguado fomenta la convivencia vecinal en Torreón mediante propuestas legislativas dirigidas a mejorar la organización comunitaria.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "026dcb8e069ba32b"
+ },
+ {
+  "titulo": "Solo 9 de cada 100 trabajadores de 50 años están empleados en México",
+  "liga": "https://elcongresista.mx/politica/nacional/baja-empleabilidad-mayores-50-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:02:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "En México, solo el 9.5% de los trabajadores mayores de 50 años tienen empleo formal, lo que plantea retos laborales importantes.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5759a21e01251c5f"
+ },
+ {
+  "titulo": "Madre denuncia a policías por la desaparición de su hijo en BCS",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/madre-denuncia-policias-desaparicion-hijo-bcs",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:01:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Claudia Sánchez denuncia a policías por el secuestro de su hijo Isaí en Cabo San Lucas. Continúa la lucha por justicia en BCS.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2955885214f82a34"
+ },
+ {
+  "titulo": "Baja California Sur inicia la Baja 1000 con casi 300 equipos inscritos",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/baja-california-sur-baja-1000-inicia-300-equipos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T15:00:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "La Baja 1000 inicia en Baja California Sur con casi 300 equipos registrados y una ocupación hotelera del 75%.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "6fc3d8e560b063d7"
+ },
+ {
+  "titulo": "Celebran el Día Nacional de la Gastronomía Mexicana en Tijuana, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFB4cU1fLXBzdnctVHNVUkgtVVllT0hjYjFZa0J0RkV3LTR3VW5DcEdraDhHVnhQZGFNb010eF8tbFlpY2l0MDFDelFDSkdaM3lxN2dtRnFZQUJpS01xMFY2bzQzYWdyckw3SV83VEFTanNfZWJzcXVqYVJwNFMyTnMyYW5GRkhjLU9UQUxmWnY3aHVjSWxBWTRJRlRKZmEwcEctNnh5LXdzM1ZWMjIwYjkwNmE0YmRHcm5kVW81TFVVU29vV05j?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-17T14:59:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Celebran el Día Nacional de la Gastronomía Mexicana en Tijuana, Baja California N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e6d1e8721d4ac643"
+ },
+ {
+  "titulo": "Una estación de tatuaje bien preparada",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZdlFEazFDb0ZnbDFJUFNEd21fdmJYVThHTVMtUDNvQjNSeEVlN0ZFNENFb19wTW9YX2hJNXhpMmYwWVVMVlJGdktPeHpDNERKUkduQS1OWEJ5OGVOd3ZPYnhB?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-17T14:59:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Una estación de tatuaje bien preparada Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9c5c955606a33351"
+ },
+ {
+  "titulo": "TIJUANA: SSPCM defiende actuación de policía tras video difundido en redes sociales",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzJEb0NUSk1hcVdyMnNHT3c2Zi1CVXBaUmQtTUNmaG5ySk9hdDdpMzVvZXZqel8wSkRaY3ZWR1cyU2RIQlhXWTFLbWwzdGdEUUZESUEwV25tc3VhSWc2aEdaajVOSlg0YmJMbXZnakRDYTA4aENvYl9rdUpFb2s2RnpHSmZYRlA5LWgzZTlPY2xWbFhFdk43ckZlSy1mN0V1TDl6ZUNLaFVleUo3TTFERWd3UEY0VjJLc3c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T14:57:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "TIJUANA: SSPCM defiende actuación de policía tras video difundido en redes sociales Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "87f4a2e53f7155aa"
+ },
+ {
+  "titulo": "Hombre calcinado y tres heridos en siniestros en Juárez",
+  "liga": "https://elcongresista.mx/politica/chihuahua/hombre-muerto-y-heridos-en-siniestros-en-juarez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:56:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Un hombre falleció calcinado en un incendio y tres más resultaron heridos en Juárez tras explosiones y siniestros.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a46265259df506ec"
+ },
+ {
+  "titulo": "Juárez: último día de El Buen Fin con ofertas hasta del 50%",
+  "liga": "https://elcongresista.mx/politica/chihuahua/juarez-ultimo-dia-buen-fin-ofertas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:55:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Ciudad Juárez se prepara para el último día de El Buen Fin con descuentos de hasta 50% en comercios.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2e6235e88d30f7dc"
+ },
+ {
+  "titulo": "Tromba deja daños en transporte público en Yucatán",
+  "liga": "https://elcongresista.mx/politica/yucatan/tromba-danios-transporte-yucatan-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:54:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Una tromba en Yucatán dejó daños en el transporte público y obstrucciones viales el 17 de noviembre de 2026.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "02da8453e42a77ac"
+ },
+ {
+  "titulo": "Investigadores nicolaitas patentan ventilador mecánico pulmonar",
+  "liga": "https://elcongresista.mx/politica/michoacan/umsnch-ventilador-pulmonar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:53:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "La UMSNH presenta un ventilador mecánico pulmonar patentado, desarrollo que responde a la emergencia causada por COVID-19.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "22bbe56c24312671"
+ },
+ {
+  "titulo": "Vecinos de El Veladero Exigen Obras para Evitar Inundaciones en Ensenada, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzV5Y29sdE5VQ0FWNk9DUkJLUk5hVEcwVU02R1kyR3hXY2Fza01TdDJWQ3J4cE5iX3hyUkVMdHl6OHR4LW5JYmZJMG5aOWcyWF82eVBwUlFhSU1Md3NTRE9BeVpTZXlMWS1nWTNMc3B5cEctaFVTazZJRVlDRWc3RDFORDBJbW16eXpxcTRYYWNsc2FIYzJtVldrS2hKMXlFVEVPVTROTmk0RTVReXFaRDJPVVRSQVZCSjhLTEo3VUZ3cVE?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-17T14:53:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Vecinos de El Veladero Exigen Obras para Evitar Inundaciones en Ensenada, BC N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "06f4bb6683ee2ee1"
+ },
+ {
+  "titulo": "Llega “La Casa del Pavo” a Smart & Final",
+  "liga": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UNmdxUzB0U25aWFdMU0tJSjl2SWNqMi1uMnF5RE9TRHFjUV9RN29oZXBHU0hnVU1pck5QWFg5VjU1SHl1c3otYUFicWxHOGFYbnMzNVFCZUt5LThnTFE?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-17T14:50:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Llega “La Casa del Pavo” a Smart & Final Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "beafc8f1d3edf211"
+ },
+ {
+  "titulo": "Más de 40 plazas comerciales se ampararon contra cobro de estacionamiento",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTldCd0tQTEZITFBPSk5lclRNR0xGOTkwWUhVanhkR3NYbm5BMUZhcmU2VGh3OEx6RENUQmh5TExzbmREaksyM284aXE2d1VsaFlKb3NqT2MzR0JZMi0yRXIxMzJCY1lNVWNvWVBBRHFoRldVcndYMFphSTVQOFZnRWREcjBKdEVGZ1lIckc0QWRUUkxpWm12NF9raUNHMHBTS2ZBRjRyRXJ3V2RhSHJQMUhCZnJUd3ZFa19QOHdwRWMxUQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T14:47:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Más de 40 plazas comerciales se ampararon contra cobro de estacionamiento AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4f88a680434dc138"
+ },
+ {
+  "titulo": "Inician rehabilitación de la calle Río Paraná en Mexicali con inversión de 12.6 millones de pesos",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkE5UmJGXzU4VmZMc3dwOVJCa0tiLVJyT0IzemRCODJ5bjVHZ2ltWlBnZzMxM1JjaTJfXzVYdU9LYlBzcDMyT3htM0ppZ19sRnpGYlRTM292eXRWQk56NklyQ0tiUXBDSWQ3d1VYUVh0d2ZFV3FJS29LY3F0YjNvam5CbGRYNE5jMFVlRzRpX1c3Z3BnWU0tVlpOOXZuOVRXLXVvSUhKZDcyT0lqQmU4cXJtMWwyaXpyLWtwRFBuYWFnNXhzVFh5RzVRdTl1QQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T14:46:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Inician rehabilitación de la calle Río Paraná en Mexicali con inversión de 12.6 millones de pesos Baja News",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "0f4825bdf3234213"
+ },
+ {
+  "titulo": "Detectan 13 casos de influenza en centro infantil de Culiacán",
+  "liga": "https://elcongresista.mx/politica/sinaloa/influenza-centro-infantil-culiacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:45:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Confirmado brote de influenza en Culiacán que afecta a 13 niños en un centro infantil. Se implementan protocolos de seguridad.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f8e0ac9ef862a838"
+ },
+ {
+  "titulo": "Se han invertido alrededor de 12 mil mdp en infraestructura: Sidurt",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjlCVEthRlpUWnMtZ0tTaGxjdnpfOHBaaGZXejgwUDBOVHpLWmY2MFNQM0lRdFg1d2RmM25DV2JXTnVWbmtma08wN3lDTm50WkdDYVczS3gzVmpiUDBjdC00WGRQM3Z4bU5MN0dEdnF0YUw2WUEtMDVFc1RsN043Y3RPQTFfYnpnQ3hwSUJaVEVjUWQ5OVZSelFTcWVhN183dGZudnpoZFo3cXdBVnFpTXB0Uk52OUF5?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T14:44:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Se han invertido alrededor de 12 mil mdp en infraestructura: Sidurt AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "eb5f1046e34f8cd3"
+ },
+ {
+  "titulo": "Detienen a 40 migrantes en dos embarcaciones frente a las costas de California",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlVndGFIWEx0N2tFOFFfdEg0NG9leGxuZGdSak12bFF2RjZFejg5MEV5SjhMempGSXBwcHNqSDRsWXpsWEJxaXRwU0lIUWpzeWtNeWhNWTQwb0lRR3c0WnBKajBRMDFYcjR0NHNFTDZfTVQ0cnNZMm9uWEZtQnJURUNxS2V6SWluUkpfbGZZNGUwemp6X3dYSExmWXdCbkQ0enNkZG94NUhoWkVnNFBIZzBnRXk?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T14:42:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Detienen a 40 migrantes en dos embarcaciones frente a las costas de California Baja News",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": false,
+  "id": "04f7974e801bb3b8"
+ },
+ {
+  "titulo": "Gildardo Real cumple compromiso con vecinos de La Cholla con jornada de descacharre",
+  "liga": "https://www.uniradioinforma.com/sociedad/gildardo-real-cumple-compromiso-vecinos-cholla-jornada-descacharre-n914856",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T14:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "La jornada forma parte de las actividades comunitarias que ha venido realizando en distintos sectores de Hermosillo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "72a6948c306fb140"
+ },
+ {
+  "titulo": "Superar el temor a no ser especial: consejos del libro “Atrévete a ser normal”",
+  "liga": "https://elcongresista.mx/politica/nacional/superar-temor-a-no-ser-especial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:36:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El libro “Atrévete a ser normal” ofrece consejos para superar el miedo a no ser especial y vivir con mayor felicidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "536689c693326ca9"
+ },
+ {
+  "titulo": "49ers vencen a Vikings en el NFL México City Game",
+  "liga": "https://elcongresista.mx/politica/nacional/nfl-mexico-49ers-vikings",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:34:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "San Francisco 49ers enfrenta a Minnesota Vikings en el NFL México City Game el 12 de noviembre en el Estadio Banorte.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "21382f690454c633"
+ },
+ {
+  "titulo": "FiscoClic: innovaciones para el registro de jornadas laborales",
+  "liga": "https://elcongresista.mx/politica/nacional/fisco-clic-registro-jornadas-laborales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:33:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "FiscoClic y otras empresas desarrollan soluciones tecnológicas para el registro de asistencia laboral ante cambios en la jornada máxima semanal en México.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "66bc218ca8d77748"
+ },
+ {
+  "titulo": "Deutsche Bank: filtra información sobre 1,586 cuentas desde 2017",
+  "liga": "https://elcongresista.mx/politica/nacional/deutsche-bank-filtraciones-cuentas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:32:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Deutsche Bank se enfrenta a filtraciones sobre 1,586 cuentas vinculadas a Donald Trump y conexiones con oligarcas rusos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8412893b2c762c0c"
+ },
+ {
+  "titulo": "El 90% de concesionarios de radio y TV cumple con lineamientos de audiencias",
+  "liga": "https://elcongresista.mx/politica/nacional/concesionarios-radio-tv-90-cumplimiento-lineamientos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:31:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El 90% de concesionarios de radio y TV en México ya ha implementado lineamientos sobre derechos de las audiencias, según la CRT.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5b90b59365dc2868"
+ },
+ {
+  "titulo": "Somos abre la puerta a candidatura de Lorenzo Córdova rumbo a 2027",
+  "liga": "https://www.uniradioinforma.com/sociedad/somos-abre-puerta-candidatura-lorenzo-cordova-rumbo-2027-n914852",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T14:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Guadalupe Acosta Naranjo llamó a la presidenta Claudia Sheinbaum a sacar las manos del proceso electoral.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "dfb24190721a4bb0"
+ },
+ {
+  "titulo": "Invita Gobierno Municipal a hacer uso del Registro Único de los Animales de Compañía (RUAC)",
+  "liga": "https://www.uniradioinforma.com/gobierno/invita-gobierno-municipal-hacer-uso-registro-unico-animales-compania-ruac-n914525",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T14:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El Ayuntamiento de Tijuana habilitó un trámite en línea para facilitar la adopción de mascotas desde celulares o computadoras.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "5719acf2d55222c3"
+ },
+ {
+  "titulo": "Capacitan a personal de Protección Civil BC en estabilización de estructuras colapsadas",
+  "liga": "https://elportavoznoticias.com.mx/capacitan-a-personal-de-proteccion-civil-bc-en-estabilizacion-de-estructuras-colapsadas/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-17T14:28:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Personal del Grupo de Respuesta Especializada Inmediata (GREI), perteneciente a la Coordinación Estatal de Protección Civil (CEPC), recibió capacitación teórico-práctica en sistemas neumáticos para la estabilización de estructuras colapsadas, con el propósito... La entrada Capaci",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "219a00a174d6ea8d"
+ },
+ {
+  "titulo": "El informe sobre el estado del condado destaca los avances en el acceso a la atención médica, los derechos del consumidor y la crisis del valle del rí",
+  "liga": "https://www.uniradioinforma.com/sociedad/el-informe-sobre-estado-condado-destaca-avances-acceso-atencion-medica-derechos-consumidor-crisis-valle-ri-n914849",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T14:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "32c5f1058325f02e"
+ },
+ {
+  "titulo": "Priistas respaldan alianza con el PAN para elecciones en Chihuahua",
+  "liga": "https://elcongresista.mx/politica/chihuahua/pri-chihuahua-avanza-alianza-con-pan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:21:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El PRI en Chihuahua avanza en una alianza electoral con el PAN, buscando frenar la 4T en la región.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "11fb6be8364d6cfb"
+ },
+ {
+  "titulo": "Cruz Pérez Cuéllar lidera a Morena en Chihuahua rumbo a 2027",
+  "liga": "https://elcongresista.mx/politica/chihuahua/cruz-perez-cuellar-mando-morena-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:21:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Cruz Pérez Cuéllar asume el liderazgo de Morena en Chihuahua, enfrentando tensiones internas y preparando el camino hacia las elecciones de 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "07dea2e68c01455c"
+ },
+ {
+  "titulo": "Realiza FGE jornadas de búsqueda de persona desaparecida en Hacienda Los Venados",
+  "liga": "https://www.uniradioinforma.com/sociedad/realiza-fge-jornadas-busqueda-persona-desaparecida-hacienda-venados-n914847",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T14:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Se desplegaron agentes de investigación, binomios caninos y maquinaria especializada para ampliar las labores de búsqueda en campo.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "da12330b50970d6f"
+ },
+ {
+  "titulo": "La Plata reinaugura el Coliseo Podestá tras obras de restauración",
+  "liga": "https://elcongresista.mx/cultura/reinauguracion-coliseo-podesta-la-plata",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:19:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "La Plata reinaugura el Teatro Coliseo Podestá tras una restauración integral que celebra su 144 aniversario.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "12e1b2ae45821e20"
+ },
+ {
+  "titulo": "Yucatán: se construirán más de 18 mil viviendas en Ciudad Renacimiento",
+  "liga": "https://elcongresista.mx/politica/yucatan/ciudad-renacimiento-ucú",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:18:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Yucatán iniciará en 2027 la construcción de más de 18 mil viviendas en el proyecto Ciudad Renacimiento, en Ucú, fortaleciendo el crecimiento de Mérida.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "88f4e4bb800114f6"
+ },
+ {
+  "titulo": "El equipo de socios organiza una jornada de puertas abiertas para la comunidad sobre la crisis en el valle del río Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/el-equipo-socios-organiza-una-jornada-puertas-abiertas-comunidad-sobre-crisis-valle-rio-tijuana-n914845",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T14:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "609c1ce8368815f6"
+ },
+ {
+  "titulo": "«Roban» triunfo de la Baja 1000 a equipo Mexicano",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1M0UTdpRnRKX2ZOSl9SampTNW5GNGxaM0g1RENzb3E5REZZNHpOVm9QMk5kcjl4UFFTWlAtOXpKU1RXaU1EOVFSeFo4REdkN1hDLVJaSU8zRTJDM0Flb2NaSktpU2Z2eTAtMkhRYXlnc244WXRKLWZCNjlwQzV0VUlpc2IyUWhSQTRaalRB?oc=5",
+  "medio": "En Contraste News",
+  "publicada": "2026-11-17T14:17:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "«Roban» triunfo de la Baja 1000 a equipo Mexicano En Contraste News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ba1631b265863346"
+ },
+ {
+  "titulo": "Explosión en taller de hojalatería en Tecámac deja tres muertos",
+  "liga": "https://elcongresista.mx/estado-de-mexico/explosion-taller-hojalateria-tecamac",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:16:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Una explosión en un taller de hojalatería en Tecámac, Estado de México, dejó tres hombres fallecidos mientras realizaban labores de soldadura.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fcece1e0bdd84802"
+ },
+ {
+  "titulo": "EE.UU. pierde estatus de país libre de sarampión tras 23 años.",
+  "liga": "https://elcongresista.mx/salud/eua-sarampion-perdida-estatus",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:15:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Estados Unidos pierde su estatus de país libre de sarampión tras 23 años debido a baja vacunación infantil y aumento de casos.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "be7c763ee0acb0f1"
+ },
+ {
+  "titulo": "Obtiene FGR vinculación a proceso contra tres imputados por la probable comisión de tráfico ilícito de personas",
+  "liga": "https://www.uniradioinforma.com/policiaca/obtiene-fgr-vinculacion-proceso-tres-imputados-probable-comision-trafico-ilicito-personas-n914843",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T14:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Movilidad",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d53f61de1cb86548"
+ },
+ {
+  "titulo": "Sentencian a tres años de prisión a Luis Fernando M. L. por robo",
+  "liga": "https://elcongresista.mx/politica/chihuahua/sentencia-luis-fernando-ml-robo-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:14:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Luis Fernando M. L. fue sentenciado a tres años de prisión por robo agravado en una farmacia de Chihuahua.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2ef13e2d728c54a1"
+ },
+ {
+  "titulo": "Detiene Policía Municipal a hombre tras localizarle un arma de fuego",
+  "liga": "https://www.uniradioinforma.com/policiaca/detiene-policia-municipal-hombre-tras-localizarle-arma-fuego-n914841",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T14:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2f126ecd6e4ee2a2"
+ },
+ {
+  "titulo": "Colocan Primeras Mamparas del Memorial de Personas Desaparecidas en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS3Q4TkNGTUhkVjBkSWpJc05saFA3UWJrUXNha2tlQlR5TTJWamVOU0h1RE84NElmdmktSGtjUGphMFlUV2VBOGR1Mkx4V2ZnTEdIZjlLZzYxRVRyNDBHUDZKaUxJSzdyVFBpZnppVFRDTDJjZXE1TVAwT3Y5azFrM1lRemtWYnYwd2V1cUxRU2JTWWVfMmtvc3Z3dUZndHdBNTJ6Vm9BdHRaaFRhZG5jNnRta1I2LWUwZjlEREFNVE9TSjJ5NC1fTThpSTh0SzFyeFhKMUtmbE0?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-17T14:13:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Colocan Primeras Mamparas del Memorial de Personas Desaparecidas en Mexicali N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ff073361d4eba6fe"
+ },
+ {
+  "titulo": "Sheinbaum destaca mejora en pobreza y vacunación contra sarampión",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-reduccion-pobreza-vacunacion-sarampion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:13:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Claudia Sheinbaum presenta avances en reducción de pobreza y vacunación contra sarampión en videoconferencia desde China.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "830d8d85143356f6"
+ },
+ {
+  "titulo": "Agricultores de varios estados bloquean carreteras para exigir apoyo",
+  "liga": "https://elcongresista.mx/politica/guanajuato/agricultores-bloquean-carreteras-rescate-campo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:12:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Agricultores de varios estados bloquean carreteras para exigir apoyos económicos y mejores condiciones para el campo mexicano.",
+  "temas": [
+   "Campo y pesca",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1ff56a254c072e0c"
+ },
+ {
+  "titulo": "Abren consulta pública para el desarrollo urbano de El Tezal",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/consulta-desarrollo-urbano-el-tezal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T14:10:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Se abre consulta pública del Programa de Desarrollo Urbano de El Tezal en Los Cabos, invitando a la ciudadanía a participar hasta diciembre de 2026.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fe3f5802ced6e3c3"
+ },
+ {
+  "titulo": "Estima Canaco aumento de 15 a 20% en ventas durante El Buen Fin en Durango",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1ZnOGxkaV9KR2xlYnlpMFV6U01RTDNkM0kxckFNUGk4LW9ZV3d6TlZwV0RadXA5X29kQTBaSXVJa1FIYmZJc25yVnZVbC1pZXF5ckhxTjdQWXhjNnlqMFRKYnhDaEFNMmUxRTVXaTdPOUFCVEduVUFXc2hCVEtJZm1VaS1CZTUycnVUSnpRN1ZqU3VoMGpseG9YM3RvQmd1bzNNWF83YUxOSUda?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T14:09:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Estima Canaco aumento de 15 a 20% en ventas durante El Buen Fin en Durango Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9417e217eb0ca004"
+ },
+ {
   "titulo": "Acusan negligencia médica en Tijuana, padre atribuye a galenos muerte de su esposa y lesiones a bebé recién nacido",
   "liga": "https://jornadabc.com.mx/bajacalifornia/acusan-negligencia-medica-en-tijuana-padre-atribuye-a-galenos-muerte-de-su-esposa-y-lesiones-a-bebe-recien-nacido/",
   "medio": "La Jornada Baja California",
@@ -73,6 +999,35 @@
   ],
   "local": false,
   "id": "bf7ab2e55626f1e5"
+ },
+ {
+  "titulo": "Noticias sobre parques y vida silvestre",
+  "liga": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yUDJFTFRYOWxQSXdoWHZVTXhVc2J4RlhMR0M3aWhQMndTVmk0amlrc3hEX1VSbmo5S0NrdmZNVHlsTWFyUkF1OXBYOGx6RjBHZ1A4STNjaG9TRm41WGhqTmNWZUh3aDY1MTRaeWt1WQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T13:54:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Noticias sobre parques y vida silvestre Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3c6e5e94b1a41416"
+ },
+ {
+  "titulo": "Tres décadas de ilusión: Casa de Santa prepara su tradicional espectáculo navideño",
+  "liga": "https://www.uniradioinforma.com/sociedad/tres-decadas-ilusion-casa-santa-prepara-su-tradicional-espectaculo-navideno-n914834",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T13:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Miguel Ángel Figueroa Gallegos, organizador de la Casa de Santa, informó que la decoración navideña se encenderá el 1 de diciembre.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "75ba202de2b158e5"
  },
  {
   "titulo": "Plantean fondo estatal y municipal para atender problema de baches en Sonora",
@@ -174,6 +1129,20 @@
   ],
   "local": true,
   "id": "379e657d985dbe57"
+ },
+ {
+  "titulo": "Pide Coparmex y comerciantes frenar el ambulantaje en Durango",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXZ3aXlZVHJHa3FnQ1ZqTllobFhpR0VkbkFrWmRXVFFjVzFDRVFlZ2hCUHZpeHRxNmh5TjBjeVhxV1lfMVNSbHZhcFNIZU1ncXZLNTFMd3E3MGtGNHdBR0ZSZnVWYnl1RXEyc3VnVlJoU3l3UjNyMmRISTBYb2xwOFRXdVNSdWZMYS1KczByUmdTR2k1QzVCeWlnak8?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T13:26:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Pide Coparmex y comerciantes frenar el ambulantaje en Durango Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0f9340fc29f3cd55"
  },
  {
   "titulo": "Alan Ampudia rechaza resultado de SCORE y defiende su triunfo en la Baja 1000",
@@ -332,6 +1301,20 @@
   "id": "8f9172b3105b3279"
  },
  {
+  "titulo": "Detienen a dos hombres con presunta arma de fuego en Natura",
+  "liga": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MVlVqOXJVbFZYNl9udHM0ZlhNVkpjSXg4YTBOd24zMXRxemx4c1J2TmVfR19YVGNDTGo5SE43RTZpd1oyWEJjYmZ5aXc0akVDeTVwanlxV3dXOS1xMVhKWHRNdDh1SlgyVjhCU2c5eFhzSm9qRklwZXV1OWw?oc=5",
+  "medio": "NDT Noticias de Tijuana",
+  "publicada": "2026-11-17T12:58:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Detienen a dos hombres con presunta arma de fuego en Natura NDT Noticias de Tijuana",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "82e217ccde528900"
+ },
+ {
   "titulo": "Exámenes de laboratorio identificaron hongo como causa de muerte del delfín Moana",
   "liga": "https://www.uniradioinforma.com/gobierno/examenes-laboratorio-identificaron-hongo-como-causa-muerte-delfin-moana-n914826",
   "medio": "Uniradio Informa",
@@ -358,6 +1341,20 @@
   ],
   "local": false,
   "id": "a93f84bc501f0993"
+ },
+ {
+  "titulo": "Noticias sobre agencia de seguridad nacional",
+  "liga": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fM3BSRXFSSmg4c2VMck1KQTM2UWstTDhOUlRGZEhKZGpkdTBNamU4eU5rd0lBQ2UyYWFtTmxkbEpiRTVxQXdURHpuZU5yNkF5Um9DcmlwZjF5UzNDaGo4Nld5QzktN0NHaWVQTHdXWVJVeXA4LUE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T12:53:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Noticias sobre agencia de seguridad nacional Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2bd35fad3a878029"
  },
  {
   "titulo": "Serie sobre Valentín Elizalde revela su vida y trágica muerte",
@@ -784,6 +1781,20 @@
   ],
   "local": true,
   "id": "65ad9e94165b89f4"
+ },
+ {
+  "titulo": "Noticias sobre consulta indigena",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WZklqei1pNkNndXJWVjNRWTVfUC01U3pDYTEyNDF0UGd5N1lkcVFsVFRlVGN0RlIxT0pUU2d5YXNEcUE3WV9uQVZxNmZaUkhISU02ZkZPVDM4U29HbzV0Y0ROSm1NZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T11:53:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Noticias sobre consulta indigena Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c9fc7c9917c6c4e6"
  },
  {
   "titulo": "Mantiene Gobierno de Ensenada trabajos para reactivar vialidades y atender zonas afectadas por lluvias",
@@ -1521,6 +2532,35 @@
   "id": "c5e688187627b956"
  },
  {
+  "titulo": "Crédito por 200 MDP sigue sin propuesta formal ante Cabildo",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/credito-por-200-mdp-sigue-sin-propuesta-formal-ante-cabildo-33181150",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T10:21:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "La propuesta no ha sido presentada ante los regidores, por lo que los integrantes de las diversas bancadas aún no cuentan con información oficial sobre las condiciones del eventual financiamiento",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "a82d6d9cc10be878"
+ },
+ {
+  "titulo": "En riesgo de cierre 35 guarderías en Baja California por falta de presupuesto del IMSS",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/en-riesgo-de-cierre-35-guarderias-en-baja-california-por-falta-de-presupuesto-del-imss-33181170",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-17T10:21:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "A nivel nacional, el problema alcanza a 650 estancias, más de 100 mil infantes y 22 mil empleadas.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "e03555a5427014ae"
+ },
+ {
   "titulo": "El tiempo de espera en garitas de Tijuana",
   "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzA0ejl2b1hqWENtRmhaa1J0STBCaG1mb3hSelpjRmhIUjN0NHVnQXBCSWZDOG5qQnpJYzVOZkF6YjFjYUFTVlB2NjkyaHUtV2NJUXlCN2RrcjlUUGdIcGtlbDhncncyeXhINzFUVWtMQjN5ZFNLLXFQWC12cUt4aWRlTQ?oc=5",
   "medio": "BajaNews",
@@ -1533,6 +2573,20 @@
   ],
   "local": true,
   "id": "9d0b2cfde4bc3da7"
+ },
+ {
+  "titulo": "Cae sujeto con órdenes de aprehensión por homicidio y falsificación de documentos",
+  "liga": "https://oem.com.mx/lavozdelafrontera/policiaca/cae-sujeto-con-ordenes-de-aprehension-por-homicidio-y-falsificacion-de-documentos-33181165",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T10:17:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Fue detenido en portación de un arma prohibida y al ingresar sus datos se percataron que contaba con órdenes vigentes",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "cffef6c9921cf2a0"
  },
  {
   "titulo": "Campesinos bloquean carreteras en cinco estados por demandas agrarias",
@@ -1562,6 +2616,35 @@
   ],
   "local": true,
   "id": "3b1e8a7ffd7c62b4"
+ },
+ {
+  "titulo": "Anders Dreyer es elegido como el jugador más valioso del San Diego FC",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/anders-dreyer-es-elegido-como-el-jugador-mas-valioso-del-san-diego-fc-33181130",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-17T10:15:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "El futbolista danés ganó el reconocimiento por segundo año consecutivo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e9f7e308886d55f2"
+ },
+ {
+  "titulo": "Tijuana prepara operativo ante posibles contingencias de El Niño con 219 unidades requeridas y 27 grupos de respuesta",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/tijuana-prepara-operativo-ante-posibles-contingencias-de-el-nino-con-219-unidades-requeridas-y-27-grupos-de-respuesta-33181075",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-17T10:14:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Entre los equipos considerados se encuentran unidades vactor para trabajos de desazolve, maquinaria pesada para retirar azolve de los cauces, camas bajas y pipas para atender vialidades y abastecer de agua a las zonas que lo requieran durante una contingencia.",
+  "temas": [
+   "Agua",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "9cd3663791257641"
  },
  {
   "titulo": "Capturan a presuntos responsables del homicidio de una niña en Cajeme",
@@ -1607,6 +2690,20 @@
   ],
   "local": false,
   "id": "52b0457476eb293a"
+ },
+ {
+  "titulo": "Tianguis y Bazares 2026: Conoce dónde encontrar ropa y chacharear en Mexicali",
+  "liga": "https://oem.com.mx/lavozdelafrontera/tendencias/tianguis-y-bazares-2026-conoce-donde-encontrar-ropa-y-chacharear-en-mexicali-33177217",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T10:08:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Se puede encontrar ropa de segunda mano, vintage, streetwear y emprendimientos en un ambiente familiar y dispersión",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "328a8adef7f5e7a2"
  },
  {
   "titulo": "SAT: sorteo del Buen Fin 2026 otorgará premios de hasta 250,000 pesos",
@@ -1926,6 +3023,36 @@
   "id": "42d308c670ac7d52"
  },
  {
+  "titulo": "Incendio consumió dos casas y siete vehículos en colonia Lázaro Cárdenas",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/incendio-consumio-dos-casas-y-siete-vehiculos-en-colonia-lazaro-cardenas-33180201",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T09:42:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Se presume que fue por un globo de Cantoya lo que originó el siniestro",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "5571f8ff75e75bb2"
+ },
+ {
+  "titulo": "En marzo esperan terminar primeras aulas de Universidad Rosario Castellanos en Mexicali",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/en-marzo-esperan-terminar-primeras-aulas-de-universidad-rosario-castellanos-en-mexicali-33180412",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T09:38:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "De acuerdo con la licitación para la construcción de dicha obra, el gobierno estatal asignó 86 mil metros cuadrados de terreno para concretar el Campus Mexicali",
+  "temas": [
+   "Gobierno del estado",
+   "Movilidad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "a35e3ee5b28c1b0f"
+ },
+ {
   "titulo": "Reparación de tubería afectará servicio de agua en colonias del sur de Hermosillo",
   "liga": "https://www.uniradioinforma.com/sociedad/reparacion-tuberia-afectara-servicio-agua-colonias-sur-hermosillo-n914741",
   "medio": "Uniradio Informa",
@@ -1982,6 +3109,20 @@
   ],
   "local": false,
   "id": "09c1921d7b5f09e8"
+ },
+ {
+  "titulo": "Obispo de Mexicali llama a evitar quema de pirotecnia en parroquias",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/obispo-de-mexicali-llama-a-evitar-quema-de-pirotecnia-en-parroquias-33178209",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T09:33:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "No ha habido la necesidad de mandar alguna orientación escrita a las parroquias en cuanto a la utilización de pirotecnia, ya que ha habido conciencia entre la mayoría de los sacerdotes",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "31c66a4e0790cb75"
  },
  {
   "titulo": "Segob informa que ninguna caravana ha llegado a la frontera con EU",
@@ -2041,6 +3182,21 @@
   ],
   "local": false,
   "id": "15679a977525d380"
+ },
+ {
+  "titulo": "Norma Bustamante da banderazo a rehabilitación de calle Río Paraná; el costo superará 12.6 mdp",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/norma-bustamante-da-banderazo-a-rehabilitacion-de-calle-rio-parana-el-costo-superara-12-6-mdp-33179741",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T09:27:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "La alcaldesa de Mexicali arrancó los trabajos en el fraccionamiento Virreyes, obra que beneficiará a casi 4 mil habitantes y a la comunidad del CETIS 18",
+  "temas": [
+   "Gobierno municipal",
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "d85890d9b55a8a6f"
  },
  {
   "titulo": "Desmantela Semar 3 \"narcolaboratorios\": uno en Sinaloa y dos en Michoacán",
@@ -7050,6 +8206,20 @@
   ],
   "local": true,
   "id": "d5016cfabc7c66d8"
+ },
+ {
+  "titulo": "Noticias sobre participacion politica de las mujeres",
+  "liga": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObE9Kc1YxdmRCbzBIYTBETmZrdDJIb1BPSzYzLTVKUGNDMW54dFFVWi0ycXJqNjRBZHNFUFJyX2dtY3BFWEdCa3JKc280ODBiLWcyaFNkeVAtWVVfa08xcUxjSXpkQmV6N3NHQ095emdtdUs3elJsdUl2em9RUTFWUg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-16T18:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T15:27:22-06:00",
+  "resumen": "Noticias sobre participacion politica de las mujeres Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a12dace978cf1fd6"
  },
  {
   "titulo": "Cierre preventivo del Complejo Turístico \"Valle de La Ensenada\"",
