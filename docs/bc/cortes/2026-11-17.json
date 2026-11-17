@@ -1,5 +1,568 @@
 [
  {
+  "titulo": "Ambientalista denuncia a diputada del PRI por daños a mariposas",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/denuncia-diputada-pri-danos-mariposas-monterrey",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T12:03:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Arturo Islas denuncia a Lorena de la Garza por la fumigación que afectó a mariposas monarca en Monterrey, Nuevo León.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5502dc5b9bda9814"
+ },
+ {
+  "titulo": "Detienen a hombre tras persecución que dejó heridos a policías en NL",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/detienen-hombre-policias-lesionados-guadalupe-nl",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T12:02:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "En Guadalupe, NL, un hombre fue detenido tras una persecución; dos policías resultaron heridos durante la intervención.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b18bbf371439b580"
+ },
+ {
+  "titulo": "Nuevo León prepara Macro Navidad 2026 del 29 de noviembre al 15 de enero",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/nuevo-leon-macro-navidad-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T12:01:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Nuevo León anuncia Macro Navidad 2026 del 29 de noviembre al 15 de enero, con atracciones gratuitas en la Macroplaza y el Parque del Agua.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bf1d330f6da63920"
+ },
+ {
+  "titulo": "Brad Pitt dice que le gustaría ser el villano de Robert Pattinson en el nuevo James Bond",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjBUUHA4cnRkdTlnMU9KMGtScGR5cFctQVBNQ21ySjFpYTF6bXJITkZLRXpHQ3JxLW5QYWlPZlUwVmJTZGZhSlF2NnZlT2ltcFRGMUFKd2pjMlBWWm5KbEliSW95bVJlTnNCQ3hQVFNvNUw2aG1MdDlsZGZqQlJGMkI3VlpTWEN3Ulh3MnV3MVJGM3VaWl9ETUp0dDV0OVVONzdWb3kyeHZYMlI5WVczc3Z6Q1BjTVNQZlRzYUdxeWhDeW1CdVh2cXEwYl8?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T11:59:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Brad Pitt dice que le gustaría ser el villano de Robert Pattinson en el nuevo James Bond AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5a2ef730ca13c682"
+ },
+ {
+  "titulo": "Policía de Tecate recupera vehículo robado en San Diego y detiene al conductor",
+  "liga": "https://elportavoznoticias.com.mx/policia-de-tecate-recupera-vehiculo-robado-en-san-diego-y-detiene-al-conductor/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-17T11:55:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Elementos de la Policía Municipal recuperaron un vehículo con reporte de robo activo en San Diego, California, y detuvieron al conductor durante un recorrido de vigilancia en la colonia Morelos. De acuerdo... La entrada Policía de Tecate recupera vehículo robado en San Diego y de",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "65ad9e94165b89f4"
+ },
+ {
+  "titulo": "Tijuana: clima soleado con máxima de 19°C y viento del noroeste",
+  "liga": "https://elcongresista.mx/politica/baja-california/clima-tijuana-19-grados-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:51:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Tijuana espera clima soleado con temperatura máxima de 19°C y viento del noroeste.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1bf288dbbd8530eb"
+ },
+ {
+  "titulo": "Gilberto Mora sin definir su futuro en Europa a oferta de 50 millones",
+  "liga": "https://elcongresista.mx/politica/nacional/gilberto-mora-sin-definir-futuro-europa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:49:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Gilberto Mora mantiene incierto su futuro en el fútbol europeo, a pesar de rumores de una oferta de 50 millones de dólares.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5a58c23633d945de"
+ },
+ {
+  "titulo": "Choque de tres vehículos deja lesionados y obliga a cerrar parcialmente la carretera Tecate-Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZk5RT1dRM3ZMZ0themJFaktOOVhSN3pNbUlGczBKeVZqSUdQZ2xLWE10QU0xdVZ3ODUxc3JGUGhEMEVSZzFpN1RfT2xyRmUxdGdVRVlHeFg5eUp5VGFGUUV1SE95VFBYWnBUNm5KSTFfQlVkdXNMb2N3Um16d0JQWEJjS0k0RlQ1MnhVUWxxYnMtM0UwZ1dfRmk0ZV9hRW5oVDlhUGt6UXdHVEVrN054Y25wX2QzblJTbFJOUXBGSGNoU2RlVzVaU3Exa0hJS3VUNFE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T11:49:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Choque de tres vehículos deja lesionados y obliga a cerrar parcialmente la carretera Tecate-Mexicali Baja News",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "0c7ea6badf4f90f0"
+ },
+ {
+  "titulo": "Peso mexicano se aprecia 0.26% y BMV avanza ante caída de Wall Street",
+  "liga": "https://elcongresista.mx/finanzas/peso-mexicano-aprecio-bmv",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:49:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "El peso mexicano sube 0.26% y la BMV avanza, mientras Wall Street reporta caídas significativas en sus índices principales.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "91a0c3748259db73"
+ },
+ {
+  "titulo": "Logitech permite a 7,000 empleados día libre para jugar video juegos",
+  "liga": "https://elcongresista.mx/tecnologia/logitech-dia-libre-empleados-gta6",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:48:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Logitech ofrece un día libre para que sus 7,000 empleados jueguen videojuegos, comenzando con GTA 6, en una nueva iniciativa.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "37c99954b1e9787d"
+ },
+ {
+  "titulo": "Black Friday en México será el 27 de noviembre de 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/black-friday-mexico-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:47:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "El Black Friday 2026 en México será el 27 de noviembre con descuentos de hasta el 50% en diversas tiendas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "77a4773b9dac50a3"
+ },
+ {
+  "titulo": "\"Una empresa sin certeza jurídica es una empresa sin futuro\": ANADE BC",
+  "liga": "https://www.uniradioinforma.com/sociedad/una-empresa-certeza-juridica-una-empresa-futuro-anade-bc-n914792",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T11:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "María Luisa Ayala Vargas, presidenta del organismo, destacó la importancia de la actualización profesional, la ética y la certeza jurídica para fortalecer el entorno empresarial",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "01c757943a8094b1"
+ },
+ {
+  "titulo": "¿A dónde va el agua que usamos? La CESPT lo explica con juegos y realidad interactiva",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHo1TzByS3ZtNmRITGFGQzdnV0l5blFCWkJoZFJFbnNtdzR6T0RIQjVfUTk5eHJOajlYY2pub1EwdjF4emtyWV9sV2ticThld01JQlhGMjVodHhlWV9MWW9mSlhtdmhrTHhfLUJDb1RPa0pFdUtZenZqTS1ZQy1JcE1Pa2lJclVTQzBFdERyZEJPVl82NGFWQjkxWU9aVE5zVkFDZWJPMjhfbTNzVm9yWkk4OUMzNVhnczVN?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T11:38:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "¿A dónde va el agua que usamos? La CESPT lo explica con juegos y realidad interactiva Baja News",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "53aef131952cc2dc"
+ },
+ {
+  "titulo": "Anunció Claudia Agatón trabajos permanentes para reparar vialidades prinicipales de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEdkZXFHUXFHQm9Cb3lQbEtkSVBOLTRkTDNVMXZVQlNibnVrQ3RaS0ZBbEtlV2I4NThQRUI4aGh3ZGd3LUhBaEViQmZMRndhYVhlTng5bU85Z1gwQjJGMmx6cGg3d2ZGTHlOS1hLeTYyNGdrM0Y5M1NDS2R4VTkzdWF4RlVydVFHQ24xaGp2aVFGOE1Bbk1rMU5qM0lyNG1FLUFzVi1NZWlQRk1tS2ZyWVVLaktSczJEM1F5X25IYnQ1bzMxYmJFTmVn?oc=5",
+  "medio": "En Contraste News",
+  "publicada": "2026-11-17T11:37:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Anunció Claudia Agatón trabajos permanentes para reparar vialidades prinicipales de Ensenada En Contraste News",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "11f0c9d2f16306d0"
+ },
+ {
+  "titulo": "NSA Net, red clasificada de la Agencia de Seguridad Nacional de EU, queda fuera de servicio",
+  "liga": "https://zetatijuana.com/2026/11/nsa-net-red-clasificada-de-la-agencia-de-seguridad-nacional-de-eu-queda-fuera-de-servicio/?utm_source=rss&utm_medium=rss&utm_campaign=nsa-net-red-clasificada-de-la-agencia-de-seguridad-nacional-de-eu-queda-fuera-de-servicio",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-17T11:36:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "La agencia escalonó la llegada de su personal mientras los técnicos determinaban la causa y el alcance de la interrupción.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3d6291afef8bfbfe"
+ },
+ {
+  "titulo": "Exigen destitución de Lorena de la Garza por fumigación dañina",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/destitucion-lorena-de-la-garza-fumigacion-mariposas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:35:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "La diputada Lorena de la Garza enfrenta demandas de destitución tras la fumigación que afectó mariposas monarca en Monterrey.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "831f69a051efab62"
+ },
+ {
+  "titulo": "Se vuelca y abandona carro chocolate en el Insurgentes",
+  "liga": "https://puntonorte.info/2026/11/17/se-vuelca-y-abandona-carro-chocolate-en-el-insurgentes/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-17T11:35:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Tijuana.- Una persona que conducía a exceso de velocidad un carro “chocolate” sobre el bulevar Insurgentes se volcó y dejó el vehículo abandonado, a la altura de la colonia Lomas Virreyes. Los hechos ocurrieron alrededor de las 6:00 de la mañana de este martes 17 de noviembre, cu",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "3d9e86ebfec7a9f5"
+ },
+ {
+  "titulo": "México pierde estatus de eliminación de sarampión por 20,700 casos",
+  "liga": "https://elcongresista.mx/salud/mexico-pierde-estatus-sarampion-ops",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:33:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "México pierde su estatus de eliminación de sarampión tras más de 20 mil 700 casos confirmados, según la OPS.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "165b1c9408290704"
+ },
+ {
+  "titulo": "Vinculan a proceso a Rafael Álvarez, presunto líder del CJNG",
+  "liga": "https://elcongresista.mx/justicia/vinculan-proceso-rafael-alvarez-cjng",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:32:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Rafael Álvarez, alias el R2, es vinculado a proceso por la FGR en Jalisco. Se mantiene en el hospital tras su detención.",
+  "temas": [
+   "Salud",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e68961eb3215f566"
+ },
+ {
+  "titulo": "Rescatan a dos personas de un vehículo atrapado por inundaciones en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3NEZmNkSGFVbFVaRUV1YXNvRVd1SEhEYUtJNmE4azRPUnFwTUw3cElqNE1xaXlzdl8zSGx5NlJCbEdmRzBIYlNDeU5LTGRYR21fUGZiVUVhOElkbF80c09oalR6YTlMNVZ5YVlNTFU4YTJCSTlGUG82aG5VYjZid01BT040T01YcDNaQ1FiSUY0dm1HTXc?oc=5",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:32:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Rescatan a dos personas de un vehículo atrapado por inundaciones en Ensenada El Congresista",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "864f94c34a372466"
+ },
+ {
+  "titulo": "¿Volverá a las telenovelas? Pablo Lyle busca trabajo antes de recuperar su libertad",
+  "liga": "https://www.uniradioinforma.com/fama/volvera-telenovelas-pablo-lyle-busca-trabajo-antes-recuperar-su-libertad-n914782",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T11:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Pero enfrentaría un obstáculo tras salir de prisión",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "367cf17667637501"
+ },
+ {
+  "titulo": "DEA mantiene esfuerzos por exponer vínculos entre políticos y cárteles",
+  "liga": "https://elcongresista.mx/justicia/dea-vinculos-politicos-carteles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:31:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "La DEA reafirma su compromiso por investigar los vínculos entre políticos mexicanos y cárteles del narco, riesgos para EE.UU.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "29950c84847e812e"
+ },
+ {
+  "titulo": "Christian Nodal desata burlas por su pantalón en el Festival del Globo",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2pQZFA4TVBPRl9NbG5xeDgwRGFzRXB1VzNmUWhWaFpSTmh5YW9lZEhGYlBNVFpWWXhRVTRVV054RW1DaUFFZW9XUU9oX2RyMHZaT0UxeTNoTTdmZUhVRWFqbVJSQmxMdWRmZkkzZEpxOXd1X0NzTkpqNkdmSHV3UlVTZ25rbVhzUFhuYjVNcnVhWFFXN2RfenV5dXRaYTFFYlZsWGFTSkpHaE9IUHRtb1prT28?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T11:29:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Christian Nodal desata burlas por su pantalón en el Festival del Globo AFN",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "430ff106256adeb3"
+ },
+ {
+  "titulo": "Detienen a una persona que transportaba 75 kilos de metanfetamina en una camioneta en BC; los ocultaba en un d",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeVlpVnIweTd4b28yRGR1cHB5WWJlWUVmWjRtTDc5OWliQWJuYUdxYkZoMlhBdndrdkczYlRCWm1tQmQ3VmlyWEZfUlB0aWtOLVpaRG1uVVZpYS1WQnhQcldQaXpSYVN6WDVZbEdKTWVqMjVLMGpzZW9NY1ZkVGM3SVNEVEpLZmtJZGRWMFhYM2o2MTFYeDNxakR3LThwQdIBngFBVV95cUxPUXJkUXpVdDhUV3FMUGlQbVZ4MFVIMGxTdWZ0cUVnTHNRVEg2bEVZemVrU0VzSG5yc0hmbVV5TUFIS0w1UXpSRHBPSjAwVHFwQmluc0RUSEN5TjBHZ2RMeWp4b2Jmb19vVHlYVk5jeFplOHNKOU5XR3hwOWdacFJnRnU1SWktVlBBN1QtWENfaEZRNl84Q2VxV1FBMVZyQQ?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-17T11:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Detienen a una persona que transportaba 75 kilos de metanfetamina en una camioneta en BC; los ocultaba en un d Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "606c1a7a9448cd0c"
+ },
+ {
+  "titulo": "Así sería la alineación de la Selección Mexicana para enfrentar a Jamaica",
+  "liga": "https://www.uniradioinforma.com/deportes/asi-seria-alineacion-seleccion-mexicana-enfrentar-jamaica-n914775",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T11:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Rafael Márquez enviará lo mejor que tiene para \"mostrarse más agresivo\", como lo aseguró en la conferencia previa en el estadio de Monterrey.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ac9ea9f03c32ec4f"
+ },
+ {
+  "titulo": "Informa protección civil BC sobre pronóstico de lluvias este martes por el frente frío número 7",
+  "liga": "https://www.uniradioinforma.com/sociedad/informa-proteccion-civil-bc-sobre-pronostico-lluvias-martes-frente-frio-numero-7-n914777",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T11:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Se prevén rachas de viento de hasta 70 kilómetros por hora en Mexicali, Tecate, Ensenada, San Quintín y San Felipe",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "2cf529ca7d12adec"
+ },
+ {
+  "titulo": "Campesinos bloquean 25 carreteras en cinco estados mexicanos",
+  "liga": "https://elcongresista.mx/politica/guanajuato/campesinos-bloquean-carreteras-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:19:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Campesinos bloquean 25 carreteras en cinco estados por incumplimientos de la Sader respecto a pagos de maíz y trigo.",
+  "temas": [
+   "Campo y pesca",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8eb57855fa20987f"
+ },
+ {
+  "titulo": "La necesaria reconfiguración del INE",
+  "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGQta0Q5OFVDbW1JTHV5dHNkcTBEOVQwRkR6ZjFkVlFUVXJZcmQyTFpPYXh5Q0JLWk1VdnJWZkFKRlVaYmdlOV9lejZzdE1rbHY3WnBKWm9BX0FhS01LNl85WEY4WFN6SzZlT3FmXy1qZXhvSHZQaFRhc1pMczNJM2tzeDVldw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T11:19:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "La necesaria reconfiguración del INE AFN",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "94151722a22c68ff"
+ },
+ {
+  "titulo": "Tormenta en Veracruz provoca inundaciones y caída de árboles",
+  "liga": "https://elcongresista.mx/politica/veracruz/tormenta-veracruz-inundaciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:17:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "La tormenta en Veracruz dejó inundaciones y árboles caídos, afectando puertos y municipios como Coatzacoalcos y Poza Rica.",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aaa5b121e8d6f8eb"
+ },
+ {
+  "titulo": "Vinculan a proceso a presunto homicida del regidor Gabriel Rivas Ríos",
+  "liga": "https://elcongresista.mx/justicia/vinculan-a-proceso-homicida-regidor-gabriel-rivas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:17:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Ricardo Alejandro \"N\" vinculado a proceso como presunto autor del homicidio de Gabriel Rivas Ríos en Cuernavaca.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "67949b196459b9ea"
+ },
+ {
+  "titulo": "México intenta desarticular la caravana migrante de 781 en Chiapas",
+  "liga": "https://elcongresista.mx/politica/chiapas/mexico-desarticula-caravana-migrante-chiapas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:16:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "México trabaja en frenar la caravana migrante de 781 personas que busca llegar a Estados Unidos desde Chiapas.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "043dea0cdb56ce5d"
+ },
+ {
+  "titulo": "Congreso de BC aprueba consulta a pueblos indígenas y afromexicanos sobre sus derechos",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEY1Ym1aWE4zdVFrS3JPTmNkcGpBekJabXRvMUdYLVFYcTZRNFQ2bkRTdzhZeWc1eWZSOWIzVVNPUlVvQ2t2VUhrT2p3eXZScXRuVzZ3SnN6Y2JtdmZ5a2VfR1Q1cnZ2V25zQjV6OGxyQ0xrb0xFeVkwUjZTWEd4WC1RUzZXbGxickUtMUdpWkZpYnRHeElxVEdTYmdrbWtUbXJDbk1EZlRCbC1JVHhKVzZObmdDSHJjd3dwNW9Kdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T11:16:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Congreso de BC aprueba consulta a pueblos indígenas y afromexicanos sobre sus derechos Baja News",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "d937465cc28d44fc"
+ },
+ {
+  "titulo": "IMSS abre convocatoria para 2,500 médicos especialistas en noviembre",
+  "liga": "https://elcongresista.mx/salud/imss-convocatoria-medicos-especialistas-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T11:15:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "El IMSS abrirá una convocatoria en noviembre para reclutar 2,500 médicos especialistas para mejorar la atención en hospitales.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "a8f9ef84585f1afb"
+ },
+ {
+  "titulo": "Hombre se estrella contra un árbol en el Rosas Magallón: su carro quedó destruido y él casi pierde la vida",
+  "liga": "https://puntonorte.info/2026/11/17/hombre-se-estrella-contra-un-arbol-en-el-rosas-magallon-su-carro-quedo-destruido-y-el-casi-pierde-la-vida/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-17T11:15:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Tijuana.- Un hombre de 44 años de edad quedó gravemente herido y fue traslado a recibir atención médica de urgencia a un hospital, al chocar contra un árbol del camellón central del libramiento Salvador Rosas Magallón. Los hechos ocurrieron alrededor de las 8:00 de la mañana de e",
+  "temas": [
+   "Accidentes",
+   "Salud"
+  ],
+  "local": true,
+  "id": "0198431e2c9cdd53"
+ },
+ {
+  "titulo": "Atienden ruptura de bordo en Arroyo Chico de San Carlos tras lluvias en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPakhxX1YyV2lhN2tCTko5RFNlai1JMkhjLU9SLWp5VjcyLXltMU1GVWlxc2lEWDBLbnBSQVRldkJWdWt4THcyMkphd2FQZTIzMEJhR0JEd2FoM3FYSU03QjBmT01xZEtvYzBQbkN0UUJ1MkRKVS1FMy1tRXBmQk51dEpnVHRPa0FURDdGeWsxV043ZVhPVUVWR09QcmFXeVVqREdUbC01TkVscERHTGJsUE9RUl9hY2lMVlRfdGJIclgtNHg0S2x5NFU4R3g?oc=5",
+  "medio": "El Mexicano",
+  "publicada": "2026-11-17T11:14:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Atienden ruptura de bordo en Arroyo Chico de San Carlos tras lluvias en Ensenada El Mexicano",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "e620f6d87aeb2639"
+ },
+ {
+  "titulo": "Reconoce FIMPES los resultados de CETYS en integridad académica a nivel nacional",
+  "liga": "https://www.uniradioinforma.com/sociedad/reconoce-fimpes-resultados-cetys-integridad-academica-nivel-nacional-n914768",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T11:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "En el marco de la XCI Asamblea General Ordinaria de la Federación, la institución también formalizó un convenio de colaboración con IAUP para impulsar la internacionalización.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "25ab6ef33702819b"
+ },
+ {
+  "titulo": "Promueve Prooncavi la detección oportuna del cáncer de pulmón",
+  "liga": "https://www.uniradioinforma.com/salud/promueve-prooncavi-deteccion-oportuna-cancer-pulmon-n914766",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T11:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Durante este mes de noviembre proporcionará de manera gratis vales de tomografía de baja dosis para detección oportuna",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "7cbfc6ed28082637"
+ },
+ {
+  "titulo": "Prueba de emergencia en Estados Unidos: este martes interrumpirán servicios de comunicación",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVWtPNWhYa3lrZ1VSYlR0dUlRRkdLTmFyYnY4M0VQTmVLcElWRlU3M3NZWFRsUkhDdHBzYktUSjVwcFNmaW1pa1hLY3BZdWhoSmFsb296bEFiMDAwU3hYZjJjSWFYdW5iQzFkcW5LSWF0T2R3bnA2Q2QzaWlfUEh2c1RrR3k2N2dTQ3NSbEVXVDljZVFXSXZBRHhYTUJjTkFWcVh4cnJHZWFYcU4xUThCYl9oWGZyTzJBazJYczJIckQ0RjJMZWxhTG5n?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T11:04:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Prueba de emergencia en Estados Unidos: este martes interrumpirán servicios de comunicación Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "aa41d8ddcb955d91"
+ },
+ {
+  "titulo": "Trabajadores del IMSS, sindicatos del Metro, maestros y petroleros instalan plantón en Segob",
+  "liga": "https://www.uniradioinforma.com/sociedad/trabajadores-imss-sindicatos-metro-maestros-petroleros-instalan-planton-segob-n914764",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T11:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Demandan solución a sus peticiones.",
+  "temas": [
+   "Gobierno municipal",
+   "Salud",
+   "Movilidad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "257c175a3e05585f"
+ },
+ {
   "titulo": "DEA mantiene su compromiso de exponer nexos entre políticos mexicanos y cárteles del narco",
   "liga": "https://zetatijuana.com/2026/11/dea-mantiene-su-compromiso-de-exponer-nexos-entre-politicos-mexicanos-y-carteles-del-narco/?utm_source=rss&utm_medium=rss&utm_campaign=dea-mantiene-su-compromiso-de-exponer-nexos-entre-politicos-mexicanos-y-carteles-del-narco",
   "medio": "Zeta Tijuana",
@@ -12,6 +575,20 @@
   ],
   "local": true,
   "id": "e900b548e3b871e0"
+ },
+ {
+  "titulo": "IMSS reporta avances de la estrategia \"12 acciones en 120 días\"; 5 ya muestran resultados",
+  "liga": "https://www.uniradioinforma.com/gobierno/imss-reporta-avances-estrategia-12-acciones-120-dias-5-ya-muestran-resultados-n914761",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T10:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Destaca la conclusión al 100% del incremento salarial, la basificación de 4 mil 119 trabajadores y la puesta en operación de 64 equipos médicos de alta tecnología",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "944225f1ece4a98d"
  },
  {
   "titulo": "Ofrecerán taller gratuito de defensa personal para mujeres en Tijuana",
@@ -84,6 +661,65 @@
   "id": "0a057eda04ba31ea"
  },
  {
+  "titulo": "En América Latina, ciudadanos eligen a China y líderes a EE. UU.",
+  "liga": "https://elcongresista.mx/latinoamerica/america-latina-preferencias-china-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:31:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Encuesta revela que ciudadanos latinoamericanos prefieren a China, mientras sus líderes buscan acercamientos con EE. UU.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "57a7a0864d19a576"
+ },
+ {
+  "titulo": "Ciudadanos de Los Mochis buscan familiares de Faustino Miranda Urías",
+  "liga": "https://elcongresista.mx/politica/sinaloa/familiares-faustino-miranda-urias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:31:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Ciudadanos de Los Mochis buscan familiares de Faustino Miranda Urías fallecido en Mexicali para evitar su inhumación en fosa común.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "7a3646391224cb13"
+ },
+ {
+  "titulo": "Morena enfrenta divisiones internas en aspiraciones por gubernaturas",
+  "liga": "https://elcongresista.mx/politica/michoacan/morena-divisiones-internas-gubernaturas-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:30:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Morena enfrenta tensiones internas en Chihuahua, Michoacán y Nuevo León previas a las elecciones de gobernadores en 2024.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "981602f71cbb6306"
+ },
+ {
+  "titulo": "Bloquean cuentas a Juan Carlos Cuervo por operaciones ilegales",
+  "liga": "https://elcongresista.mx/justicia/bloquean-cuentas-juan-carlos-cuervo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:29:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "La UIF bloquea cuentas a Juan Carlos Cuervo por su vinculación a operaciones ilegales en el INE, afectando a más de 25 personas.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c724c72113570028"
+ },
+ {
   "titulo": "Ante amago de bloqueos, Segob reconoce demandas pendientes con productores",
   "liga": "https://www.uniradioinforma.com/gobierno/ante-amago-bloqueos-segob-reconoce-demandas-pendientes-productores-n914752",
   "medio": "Uniradio Informa",
@@ -96,6 +732,20 @@
   ],
   "local": true,
   "id": "bfa98384100300a9"
+ },
+ {
+  "titulo": "Brote de sarampión en México suma 50 muertes; autoridades ven cierre",
+  "liga": "https://elcongresista.mx/salud/brote-sarampion-muertes-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:28:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Hasta noviembre de 2026, el brote de sarampión en México suma 50 muertes, con autoridades optimistas sobre su cierre.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "2431101c50f3a5a7"
  },
  {
   "titulo": "Sheinbaum aborda con Xi Jinping proyectos de hospitales inteligentes, trenes y electromovilidad",
@@ -112,6 +762,21 @@
   "id": "08fb2d813e00dbed"
  },
  {
+  "titulo": "Aumenta derecho ferroviario a 3% en 2027; CPKC pagará 81 M CAD",
+  "liga": "https://elcongresista.mx/politica/nacional/aumento-derecho-ferroviario-cpkc-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:22:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "CPKC enfrentará un incremento del 140% en derechos ferroviarios, afectando su inversión y la cadena logística.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c5e688187627b956"
+ },
+ {
   "titulo": "El tiempo de espera en garitas de Tijuana",
   "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzA0ejl2b1hqWENtRmhaa1J0STBCaG1mb3hSelpjRmhIUjN0NHVnQXBCSWZDOG5qQnpJYzVOZkF6YjFjYUFTVlB2NjkyaHUtV2NJUXlCN2RrcjlUUGdIcGtlbDhncncyeXhINzFUVWtMQjN5ZFNLLXFQWC12cUt4aWRlTQ?oc=5",
   "medio": "BajaNews",
@@ -124,6 +789,21 @@
   ],
   "local": true,
   "id": "9d0b2cfde4bc3da7"
+ },
+ {
+  "titulo": "Campesinos bloquean carreteras en cinco estados por demandas agrarias",
+  "liga": "https://elcongresista.mx/politica/nacional/campesinos-bloqueos-cinco-estados-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:16:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Campesinos bloquean carreteras en cinco estados este 17 de noviembre exigiendo atención a sus demandas agrarias.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fd21522dca1823de"
  },
  {
   "titulo": "Detienen en Tijuana a Implicado en Ataque Armado que Dejó Cuatro Muertos en Tecate, BC",
@@ -152,6 +832,51 @@
   ],
   "local": true,
   "id": "9b4c60fad1ca9720"
+ },
+ {
+  "titulo": "Fuga de agua afecta servicio a vecinos de Tula por obras",
+  "liga": "https://elcongresista.mx/politica/hidalgo/fuga-agua-tula-hidalgos-constantes-problemas-abastecimiento",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:13:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Fuga de agua en Tula afecta a vecinos y comerciantes desde el viernes, generando desabasto y reclamos a autoridades.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8964f3cf462218da"
+ },
+ {
+  "titulo": "Rescatan a 11 turistas en Mazatlán tras quedar a la deriva",
+  "liga": "https://elcongresista.mx/politica/sinaloa/rescate-turistas-mazatlan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:08:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Rescatan a 11 turistas en Mazatlán tras ser arrastrados por el oleaje. No se reportan heridos graves.",
+  "temas": [
+   "Clima",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "52b0457476eb293a"
+ },
+ {
+  "titulo": "SAT: sorteo del Buen Fin 2026 otorgará premios de hasta 250,000 pesos",
+  "liga": "https://elcongresista.mx/sorteos/sat-sorteo-buen-fin-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T10:06:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "El SAT celebrará el sorteo del Buen Fin 2026 el 4 de diciembre, ofreciendo premios de hasta 250,000 pesos.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "570b43d46b73eb3d"
  },
  {
   "titulo": "Rescatan salvavidas a dos personas atrapadas en su vehículo",
@@ -279,6 +1004,20 @@
   ],
   "local": false,
   "id": "de826858e18aa0ac"
+ },
+ {
+  "titulo": "Salvavidas rescatan a dos personas de un vehículo en zona inundada",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjl1dEVaMm5TVko0NEZ6R0prbG9YNEJyZlVlUFVRLWs3dTdCYjNLSWpET3lHVzlsQl9fNHJaQkljWE45aWZhZ0NQbWJiUVFBZnJySFNrc2Nra085YU9meXBUMkFRbDZsQzJjLU43TUFvaGdwbUFlWnVSN1pHa2NmQkZTWHNfSVBkUWhOX3lQQTIyWDRyRGJjdFIwRUJMZE9vTFVzUHgtS181OG5HZkww?oc=5",
+  "medio": "Cadena Noticias",
+  "publicada": "2026-11-17T09:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Salvavidas rescatan a dos personas de un vehículo en zona inundada Cadena Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ffa5557c6acfb588"
  },
  {
   "titulo": "IMSS ha basificado a 4 mil 119 trabajadores en las tres primeras semanas de su plan de 12 acciones",
@@ -1252,6 +1991,34 @@
   "id": "36721b025771897b"
  },
  {
+  "titulo": "El ensenadense Alan Ampudia rechaza decisión de SCORE International; pide reconsideración",
+  "liga": "https://oem.com.mx/lavozdelafrontera/deportes/el-ensenadense-alan-ampudia-rechaza-decision-de-score-international-pide-reconsideracion-33177356",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T06:54:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "El piloto ensenadense y su equipo Team Papas desconocieron la modificación del resultado de la Baja 1000 2026, que otorgó la victoria a Bryce Menzies tras una penalización por exceso de velocidad",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d9b653e8991b9b49"
+ },
+ {
+  "titulo": "Conoce a Estrellita, la niña de los huesos de cristal",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/estrellita-la-nina-de-los-huesos-de-cristal-33177304",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T06:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Esta pequeña de 13 años, ha vivido entre clínicas y hospitales; hoy requiere del apoyo para la realización de unos estudios en Tijuana",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "0da8f9d301ded701"
+ },
+ {
   "titulo": "Sheinbaum reitera apoyo a Armenta en su visita número 17 a Puebla",
   "liga": "https://elcongresista.mx/politica/puebla/sheinbaum-respaldo-armenta-puebla",
   "medio": "El Congresista",
@@ -1529,6 +2296,20 @@
   ],
   "local": false,
   "id": "bf2e0100c6ef34f2"
+ },
+ {
+  "titulo": "Recientemente, El Heraldo Austral dio a conocer la preocupación de vecinos y organizaciones agrupadas en la Mesa Territorial de Ensenada con respecto al estado actual de la playa local, advirtiendo –entre otras cosas– una acumulación de matorrales en",
+  "liga": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15VXlsMzZKNnhVN0FJWURtQnYxWVNRazFvTHBxQmtLUlRTZ0U3RDJIVUZ3Y1Y1N3RpR2VyQlowdWQ1RmhRcXFnWENyUHlrZ2hKaWc?oc=5",
+  "medio": "Instagram",
+  "publicada": "2026-11-17T05:31:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Recientemente, El Heraldo Austral dio a conocer la preocupación de vecinos y organizaciones agrupadas en la Mesa Territorial de Ensenada con respecto al estado actual de la playa local, advirtiendo –entre otras cosas– una acumulación de matorrales en Instagram",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3f9261075b737565"
  },
  {
   "titulo": "Corrupción en el INE expone la fragilidad electoral en México",
@@ -4391,6 +5172,20 @@
   ],
   "local": true,
   "id": "ca51b16d45b4b6f1"
+ },
+ {
+  "titulo": "Infonavit ofrece seguro de daños para proteger viviendas adquiridas con crédito hipotecario",
+  "liga": "https://oem.com.mx/lavozdelafrontera/finanzas/infonavit-ofrece-seguro-de-danos-para-proteger-viviendas-adquiridas-con-credito-hipotecario-30919842",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-16T21:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T12:04:36-06:00",
+  "resumen": "Este seguro representa un importante respaldo para los derechohabientes frente a imprevistos que puedan comprometer su patrimonio familiar",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9bf19cd963ee2edc"
  },
  {
   "titulo": "Refuerzan prevención vial en Saltillo con filtros informativos",
