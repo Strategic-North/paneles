@@ -1,5 +1,531 @@
 [
  {
+  "titulo": "Avanza caravana migrante 140 kilómetros por Chiapas",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXdrTDB0d0pmRjJmQTZPMVQ4TnFOVnRubGNocFMzaVBPS25mNl9OaER2a1Z0VGxpZ0RCUExKeXlPZXhyYk0xanhITzJ5UDU3RDZvcGo2LURHaGN1UFk5c2ZrcVBiTEpQUnQ0T2hiMU5MaXJfNlFvcEVCbTNEN1VSaWtZM0pqM2JpV3MyNllNQ3hYdFh0cTZvUllidGhIS3c?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T18:16:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Avanza caravana migrante 140 kilómetros por Chiapas El Horizonte",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "85b50fb4385bfd51"
+ },
+ {
+  "titulo": "Alemania golea 5-0 a Países Bajos y avanza a Cuartos de Final de la Nations League",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/16/alemania-golea-5-0-a-paises-bajos-y-avanza-a-cuartos-de-final-de-la-nations-league-295671.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T18:14:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "44aebb3b0d1dd99f"
+ },
+ {
+  "titulo": "Zacatecano Diego García gana el 21K Nuevo León 2026",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzF3Y083dWw2NUtyVWIwbE9RQlY2dUI1OFhvQVhRRDhOQ0RWRU5UbkZVOEdjdWxKTXY3d1ItaUJPZlFodDN0ZjhfeHJwb3dJVU9PVTdBWnBzdDBpeWVFMWFMZTMwb1YwaWc3YW8xX1BnN2E0OC1SX0JzYUFidDZFNHdKQm1QcWRZR0xDT05RYzgwR0pWNHZEQjJ4MlVYSmtENmRhVFN0ZS0?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-16T18:14:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Zacatecano Diego García gana el 21K Nuevo León 2026 El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d79c9b2a1bfddee6"
+ },
+ {
+  "titulo": "Identifican a 'Lord Pistolas', sujeto que amenazó a repartidor en CDMX",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/16/identifican-a-lord-pistolas-sujeto-que-amenazo-a-repartidor-en-cdmx-295669.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T18:13:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c6b7f7a1c3c2d429"
+ },
+ {
+  "titulo": "‘Es el indicado para defender la democracia de Europa’: Lula apoya a Pedro Sánchez ante elecciones",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaGlDU0hhMWZsYnlKSEdLUEV0VU5WS05CZ3Z5LUtua3U0MU9OZmJVWGlxTGhSbDRNZ2NMdlBCMXlJZTFtbGxxUTJkaWxfdmlqRUxpZExUUklpemtvQzVSZTQxWUNFOHM2N3hMQXJjQVFJNFRrTHk2MEx4SzhUamxVYzl1MnpoLTA5UzRkT0hhQWowRGVQWFdlcmlSdXpCVmJ4YkF5aG9VTkNlN3hZUWVMa1VEZTg3OS1mNDU3X1BxSDlVUGtlTlZjaEQ2UW9wZFJKRjRDbkVnQnplckEySnc?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-16T18:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "‘Es el indicado para defender la democracia de Europa’: Lula apoya a Pedro Sánchez ante elecciones El Financiero",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "2433a028106a19ea"
+ },
+ {
+  "titulo": "Afirma PT pacto con Morena, ahora en NL, para otra encuesta",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVVMYjN6MFgwNEdHVW1UbmxZUzdXWm5OclFGMHlKemh0cm5pc2tDV2lQZEpmSDFjWGNqVm5jZmR0bGlldDFDamhURnVBaXlxT1ZmcHN0VkZ1aklUYXR2VUhfMUlzemtPSDdjS2lsV2ROSXJINEY3TDRaWTBEVjZ4UXFYQWwzVll4S1NheHJoZzlZa3J1dUxwMVZNaw?oc=5",
+  "medio": "Reforma",
+  "publicada": "2026-11-16T18:09:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Afirma PT pacto con Morena, ahora en NL, para otra encuesta Reforma",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "08da46e09f7a072d"
+ },
+ {
+  "titulo": "Terremoto sacude Indonesia sin alerta de tsunami",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2MxYUQ0S2RKQWJoY0M4dVBoQmt6ZjlEdklkTlJxNWd3YWRZelQ2QnB6a0RiOWs2cTF6cWY3Q3FoN2E4cmJtdDh0cVoxMUNjdldaRXd3dnFJazRlTGEyMmxrNUlSeFZWUXNrT2g4OWdENXAwRHVISVNlNVlONXVQMjlHZmFzbHFsWGU5SUNINzhOM2tL?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T18:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Terremoto sacude Indonesia sin alerta de tsunami INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b961b9e4c3cd77ff"
+ },
+ {
+  "titulo": "Aspirante del PT asegura que habrá nueva medición frente a Clara Luz Flores en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcGhPXzhkeGdWVFlBUTg4LTZiRzg4Sm9wQW1FV0lRX2UxOU9iRjU0Q2V2RUYzMkI3a3RCZTRUbk9GeU5qNjdJZ1p4UlR0RnpYa2licmxldTdaMklZd25vcHAtcm9zSTZwU0xvOXJ0OTdIZ3A1eUxOazZXQ3g4ekhhWnVWcy00V3lveldYX0pSWGJkMXVKaXotTUhsb3V4ZXZncWN4MXJKa2dxWW1QUWphWTBaR24tUm5OTjRCWFJfQVh0aklMM1lKU3IyTnZOSlVjdWdtTngzZG9kQi1BM0hhWHM2dDZEcC1Tc0JOcQ?oc=5",
+  "medio": "Proceso",
+  "publicada": "2026-11-16T18:01:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Aspirante del PT asegura que habrá nueva medición frente a Clara Luz Flores en Nuevo León Proceso",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "40bdff3dac9cf353"
+ },
+ {
+  "titulo": "Matlachines y familias acuden a la Basílica de Guadalupe",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUERzMlBCY3BQRnUxYUdNakpIWVROemJZRzRIUVJ4QWRRLTVXWGt6WXBHN1N3aDk1dHVmVVNQTTdvbWNuNnZ4Z3RlZDdzSkhFamNDeTBEZTNZSEkwNDhEZXlGaEdWSDl5a0ttV051RHM3VjRxNlFxOU1VQ18zRk83cy1BS05Zei1HMzZhazAtUm9zaGREMVhuZ2dn?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T18:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Matlachines y familias acuden a la Basílica de Guadalupe INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ce26b86185411951"
+ },
+ {
+  "titulo": "Claudia Sheinbaum en la APEC 2026: ¿Qué sabemos de la cumbre de CEO’s en la que participará?",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWF96ck51b3R0VDF2MUtvMWRERlBfMVlZQkx2dFdseTFJb3U0OC1HRk9oQkR1YUdxMjBQTFRtNWVlLXNxNkxybjd0dXpfUHg4N3A2a3RCN3BXcDJPRGpSSE9FZTFxajd0b1ZZNzZUZ3NFVW5UcElTN3h6WHlvS2o2QXRNOHVWSVFjSVJUcUdCb3dQNzRwcV9IbmNTbU1kWkw3TEdmYWtPMHZuY25KaHdqNE85M2tGWXJ3MHhRNENfdzRud0ZKYjBsWXZMX3UxNGNFRkhpQg?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-16T18:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Claudia Sheinbaum en la APEC 2026: ¿Qué sabemos de la cumbre de CEO’s en la que participará? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0455960b47c7c75a"
+ },
+ {
+  "titulo": "Paro de Agricultores mañana martes 17 de noviembre: ¿A qué hora empiezan los bloqueos de carreteras y qué rutas evitar?",
+  "liga": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOV3V0dzdyeWVuQVdVa3A4VDRQdnhlWWhuazFlQk54TXJ4b0FTQ2xwcHVzb3BaTU5MYWNReF9Qbk1NQk9hb0xuaUE4YVpaa2dTMTNTR0g0ZVVwWGxPc1d3dkl3NFU0VUEwYTlyanVpalZSSmhaMk5YUTJFd0xkbnpNN2NmTEtGNjVsSnRPdXYxcERsSGtZQlE2elQySnNzMmdvMGdlRTRuZEdVcWVVZWRvVk1qZjRKQ2d0UzdjM2tvZk8tenB6bzJBZkhjTXNvQjRFalZFUkR5emZWVTNvVV9ZWW0ycTFHZzhCSDhmR00zWHJQd2Y1WDZUeHhjU2twamhpamNmRQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-16T17:58:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Paro de Agricultores mañana martes 17 de noviembre: ¿A qué hora empiezan los bloqueos de carreteras y qué rutas evitar? Reporte Indigo",
+  "temas": [
+   "Campo y pesca",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "816f80dffa2df6fa"
+ },
+ {
+  "titulo": "Localizan a mujer sin vida en un terreno baldío de Apodaca",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1VfQUJhUHgxZGxmWWs4VmVfOEFyZzFzS3RkbTQxTEdYOVFTLTFmeFhidV9rZ0dBWHNmWG1vVHg4SXZCR1RkMGhuTU9qRFFuOV9CazNZSzFKWk5PMU1UMzdaOFJFZm9yUlh4MTRheThTZUVaVFhpWFdhTE9HaXJGZDZUUEpQV1I1ZDlfRGRwT0FIdzJpVzM5eW5SOEc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T17:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Localizan a mujer sin vida en un terreno baldío de Apodaca INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9bc83ba8bf8a161d"
+ },
+ {
+  "titulo": "Aprovechan asueto para compras del Buen Fin en el Centro",
+  "liga": "https://www.elnorte.com/aprovechan-asueto-para-compras-del-buen-fin-en-el-centro/ar3315739",
+  "medio": "El Norte",
+  "publicada": "2026-11-16T17:57:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Miles de personas aprovechan el asueto para volver a llenar las tiendas del Centro de Monterrey ante los descuentos del Buen Fin.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ec1e344ff2d7e304"
+ },
+ {
+  "titulo": "Procesan a 20 detenidos en operativo contra 'R2'",
+  "liga": "https://www.elnorte.com/procesan-a-20-detenidos-en-operativo-contra-r2/ar3315751",
+  "medio": "El Norte",
+  "publicada": "2026-11-16T17:54:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Un juez vincula a proceso a 20 detenidos del operativo en Jalisco en donde se capturó también a Rafael Álvarez, \"R2\", ligado al CJNG.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8d50e6313a996a9f"
+ },
+ {
+  "titulo": "Monterrey vuelve a los entrenamientos y recupera jugadores para enfrentar a Pumas",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1F2Tm1aNFJMMWx6NDJnVUxmSk9EVXloWC13cVZMemRTTm9iM19POHVNTC1kYno5MURYSm4yc3dhN04teFhvZDA3RkV6U1h0RHM1VkRaUV95bm5xak03eG90X1g1V2VCTXNGMUdsSkF4d2g4NW5nZW9jSjdQZml4elNTdUg1a1o0UDZRZ0Y2cFlEb1pzT19SdWFUdF9vUdIBngFBVV95cUxNMERVbWtqbDRsbzdmeDRTc0JKZzFkN2dkbkI4OWRzeDRTTUNBMzJQc0NtU0xwLU1WTy1QSWluc3RjM2FJeU5SbmlrNkNDZFdldG54OC1jZGJZSEJHT2cyd2lnSk1NcXJQUU5xMUtaQ0pibWdGQnZuNVpBOWZ4NjJFSnJSLVN3SmxCbVVHbnRJMTJEVTBIdGt0dGdwaFRUQQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T17:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Monterrey vuelve a los entrenamientos y recupera jugadores para enfrentar a Pumas Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a994f95b0398fafa"
+ },
+ {
+  "titulo": "Registra Coahuila la menor percepción de inseguridad empresarial",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2tYdVM0NUdQVm5ZQ19GVHZEY0xFbU91YmM5SVZsWGpfNVlzcHpGcmNMZnRlQWFFbGFpSU00c2Q1THh5VG1ONG1zOWV0WWhKaWE3U3V4bjhTYzByTkNIQkV3V3Vnd3RVNmlYald4b2dsVkk1VW1EdUtPNzRBeHdhamtURVI1Q3Y4RktGT3l6azdPNWJma2ZGQW1kNW92cEs4cVBz?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T17:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Registra Coahuila la menor percepción de inseguridad empresarial INFO7",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "597198c7df7c790a"
+ },
+ {
+  "titulo": "Policía Atropella a Dos Mujeres en Escobedo, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDV2WFdMR1YtZ0dRclE0WndrS1BTWjhTMjd2c3N3V2kxZkpOM3JIX0lzVVpZdUhPazR4MHZwSlNrdU1aaWFheHRqNk1QVVM2bndBS044b2hZalY2QVl2aG5ZVjlfV2NfdU9NSC1Fa29aOXo4bVpYWnc2RDIwck9RNF9sbjlzZHBNWXc4Q2hNZ2VWd0tZUXRLcTQ5Y2N0cTZOY0ZJaUtoM3NwV0otU250VE9XR3Q?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-16T17:53:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Policía Atropella a Dos Mujeres en Escobedo, Nuevo León N+",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "f392f06a5e5d4fad"
+ },
+ {
+  "titulo": "Investigan a dos empleados por intentar abrir caja fuerte",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmxScXhNZTgza0RoQ2NfN0o0WTFZbFJOenYzaHJVX0doOUNHRmZ3M1BrUTZIdnZVa0VqZWtkRUNlaF9DV1NRdzIydFpRWlNtOHVYcHlNVWlOSEFoQTFNaU84b2JwWFUtRlJNd1ZRMVIwOW8ybXZyUjFJQ1hrVUdwbGtwYy0xaE5ITUNJdUdGeDRqUFMxSmp5RG0tQmdMeDE4dGxvRTVmbk1EOWs3ckQ5VFd2QjBhUQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-16T17:47:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Investigan a dos empleados por intentar abrir caja fuerte MVS Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e6a92b0497f36abd"
+ },
+ {
+  "titulo": "Hombre intenta huir de policías de Guadalupe y los atropella; termina detenido",
+  "liga": "https://abcnoticias.mx/seguridad/2026/11/16/hombre-intenta-huir-de-policias-de-guadalupe-y-los-atropella-termina-detenido-295667.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T17:46:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "9a30b564b9aefbf9"
+ },
+ {
+  "titulo": "Policía atropella a dos abuelitas en Nuevo León, una fallece",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVJhVlZVWHNGNVBGa2N4bTE2bnU2VFp4eS1zcUhTN1cyY01udFhmTWlwb1NmSGRNMUpyWFhCQV9tWHgxQTZhTENkM0RpU2hieHN0eWc3ZzRXQVppZWpnODV0b1lDbktic3BER3NKMFhWY2VnbDF1UDhIQ1VNaTdtNXlkckZYT0hrdkM1c09jcHJqZ9IBlwFBVV95cUxOWG90Y0pJeE5YUndUT0NyWXpqMnFCTG94NzdTRnJJRVRKQ24yaWtRS0llOHpreEFLT3lDTTlzYzFqMjdKbWc0THcyUXYyR1BST0tTQWZPZWF3bkhfMVJIbktsd0NNWF83ZWg2WUxEZ2UyWnlGNVhRQW80eEt4NHd4ZUxYWUtHNnlrS29uZkJLN1JvWThGejJZ?oc=5",
+  "medio": "Excélsior",
+  "publicada": "2026-11-16T17:43:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Policía atropella a dos abuelitas en Nuevo León, una fallece Excélsior",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "0a512c368505f54a"
+ },
+ {
+  "titulo": "Hallan cuerpo de mujer en terreno baldío de Apodaca; investigan si es María Dolores Elizondo",
+  "liga": "https://www.posta.com.mx/nuevo-leon/hallan-cuerpo-de-mujer-en-terreno-baldio-de-apodaca-investigan-si-es-maria-dolores-elizondo/vl2279658",
+  "medio": "Posta",
+  "publicada": "2026-11-16T17:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d7e3fc174bde1056"
+ },
+ {
+  "titulo": "Deja 16 heridos riña en balneario El Tephé en Hidalgo",
+  "liga": "https://www.elnorte.com/deja-16-heridos-rina-en-balneario-el-tephe-en-hidalgo/ar3315738",
+  "medio": "El Norte",
+  "publicada": "2026-11-16T17:40:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Riña entre turistas y trabajadores del balneario El Tephé, en Hidalgo, deja 16 lesionados, entre ellos una mujer embarazada.",
+  "temas": [
+   "Accidentes",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "bab8e440d195edee"
+ },
+ {
+  "titulo": "Localizan a mujer sin vida en terreno baldío de Apodaca, NL",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQem9LaUFIaEFMaE5neXBxSEVFeGlsTGc3cnZfRnVWMnVMWElUMmtEaHN6a3U1LVQxa2pHZEpZVXN5VkF6N3EzeDIzNkxnU2kwZ3dIVU03ZTMzbmVTcWRFZThJQlQ4NTkyR0staWtXUUpmWWtGYVNOZGc1UnBpWEcxSEZZbG5Xb3VBNWNaRGQ2VGY1TWJIbEgw0gGXAUFVX3lxTE96QUhFSjZIdHYxREpxUHVWUUluUXdqM0tlYUVJLVJhT013OF8tcENKVE1KN1l6dlVyMVNjbm1qVUhLU1ExQ0xhNWtiUDVScmQxYlpmZ3hUcUJ2eFpodms4NXdwOTNvdlBKelVlMHo3QTFQTXVNUEtLZlVtNVFDUUFFMENMX3RUZ2M0OTFOTWNOLXNkSENFd0U?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T17:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Localizan a mujer sin vida en terreno baldío de Apodaca, NL Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "56c5d23423e1c5e2"
+ },
+ {
+  "titulo": "Juez vincula a sujeto por feminicidio y violencia familiar en Apodaca, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGpnVzlRbkZNbjRSNkZ5RklrMUR0bS1uSDFVZThUbDZFSG1lN0p3VkJ0ellZYUJNT1NoYnZjU1FEclFHakhFU0JvSEJLVXhjVkdvRDYxSUhjU0l3d25rLVNjZHkxcm1TMTJNSmt4NnIwd0w4cmR4bklSaFlYQU42dlZLeXVONzd6dHZRd2dzQ3JhTzlGMDZyYktidi1xenJkZmRVSlBucVVNWExuYTM2eQ?oc=5",
+  "medio": "voxpopulinoticias.com.mx",
+  "publicada": "2026-11-16T17:38:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Juez vincula a sujeto por feminicidio y violencia familiar en Apodaca, Nuevo León voxpopulinoticias.com.mx",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "04ec86c5d15e23a2"
+ },
+ {
+  "titulo": "Ruby Gámez llevará a escena la desaparición forzada con “La búsqueda”",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVU1XMGJKekYyWngzV3BvNmJMSHljbTIwamxrNHhYVmFVYXZNRmRpU1ZnMVJFbzFHM0RLN2VKV28ySWJVN0VXUnVKakpqQnl1WTdNeHZVTTE2VmhjYU82N01sWi1OUW5fYUdzbEdJbUJiMWFGWGVDTThJbFVjS19LRHBJaWVBUklPWVdyMno2LU1WYmxCemZOa0gzOGNack3SAZ8BQVVfeXFMTWk0dWNUaVQzTEs2aU5mcjJKWDZ6Q29VMHpDdEs4LUlwLVJzNG1iTGhjSTFST0NUU1FuZ2JfSnoxNkhMbGczcDFCYmd2X3BUT0h2ZHZDbHFlYW92TVFnRlkxenA5b2FRYWhEVkoxVkppVG1xZll5bmM0bE5ZNmo5ZWdJRVhBZWdGamh5YnFJYnVOeVNCY0pCbkVTZ3BEMXhJ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T17:38:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Ruby Gámez llevará a escena la desaparición forzada con “La búsqueda” Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "5be7612d64c4d2d8"
+ },
+ {
+  "titulo": "Un gimnasio, privilegios y un traslado: el caso de Santiago Peña",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0lNRjFQQ3dNUU9GV2kwbVFXdW1QSVRKUkx3S1VhSkl1dmtxTVVwT3Z3RjNxZDA2UmJyQThqMGVGeEtBTmE5SzQxUk0wQzVFR09aUFVtRGhtdXFkSnN6RXFrOWwtSHVNcEdDa2RNRmVkMDh4UXJuNzJDSzZ1MDF4TVlMQU1GQkFpQmVCdEZ6YVlEUHNCc2wwdDBiOEpOUHpSMXhBVNIBpAFBVV95cUxPZzlFdzdvdElpNU5zalVYbDEtMW8xWS1ZRGRmZ0VvaGFKU29EN2dqN3ozVVhBdTAwaUJYZkwxVk1ieHc4LVlGSG5JLXJNZ1g2RzhQc19HZmM3OE91Rk54enpLM2FSeUdmZnE1UzMzUXdnUDFhdWpPTHZTSFkydFlMOFVEcjV3MTZaZ1dndWVVLTJwLWpCci1WbDRmSGNMZGtwcEVxeA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T17:36:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Un gimnasio, privilegios y un traslado: el caso de Santiago Peña Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "53632b1bde580942"
+ },
+ {
+  "titulo": "Perdió a su hija, su casa y su vida en Gaza: la historia de Mohammed",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2hWNmJlOTJ4b1F0dWNMYVNVOVVnUjhkY1VqaURXczV0Q25CdlpabmNjMXBsRzhwc3Nyc0pvXzBPNUpnMTZiWVBSdmk3aXVJTGdBTjZhc29aanBTdmZCSFl4Yk1mTUJUYzdHMV93MmFpSGR5aGFvUTlfS0ppOEdKOHFpVDJFVjlBd1Z1LUlyMDVHcDkzNUHSAZYBQVVfeXFMUHlkUDYtb1YwcGRyWWdNOVRNbmtBbk03TkF3UkNqWVZibzBnUjdPWnQ3Q2loVXhFWjNici1lR3VPaDZZSU5PZk9OcGhtT3BmWmk3N0dUWXVyMTJXenpuLXlYaE84ZlhpVlU1dW9nNFdNczI5bUJLNlFKSTFzT083WDR1SFF3LS1VRWpKdlVacGw0QTM5eE1R?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T17:34:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Perdió a su hija, su casa y su vida en Gaza: la historia de Mohammed Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2c5f65ca642b5eb1"
+ },
+ {
+  "titulo": "Deja desfile 27.5 toneladas de basura en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakhhdGk5ZHNxXy0xOXZqcUptRWVQYkJRdHZsejJoX0g5T015blBrRjFzZWszQmFNek00c1pYWnF6cFZqWVhobGtpQnlyMDhGdXladFZjdlluQVhVUU9GZ3laZ09RaGJVYllHcVUtWFhXMC10UW5PTV9ob0kxU25nRGdqYnpjSHk5YkZjaWhzbUxycDRWdWhOZE1QUWhOTG9mVzBkLXY4b3VrXzQ?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-16T17:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Deja desfile 27.5 toneladas de basura en Monterrey MVS Noticias",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "23436c5e487774de"
+ },
+ {
+  "titulo": "CFE invierte 385 mdp en subestaciones eléctricas para reforzar suministro en cuatro estados",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzZUVkRQZnplcDVTWFRqMG02cm8xZWh6dlgwcmdUakF3MTdsRWl5VE5KT0cxNW1qRjllQ2xtNTkxRmNUY1hfRHJUazhhOWdaVDlzYWNTemgzbk9wNkZzYnY3MGRtNHNJSVIyUjhqV3dJNVJCM2NmM2MwSmsxSlNuZVlLY2ZfWlNuNy14UG1Xak5QSmpnUnMtdnkxUzkxUdIBngFBVV95cUxOTzNNN0VWMUVWX0R5M0ZoZmpmTUJiaWR4Y0xvRDd5VWxtTWdxMjlCVEZnUHUxaktJaEVVRHV2WHpIUlAtUV9POElUWllKdUJDT3U5NlF2bTZidTZJTjV6aDJMSndST01WaUZvREkyTE5UMFdVOVp5dkhLbEZra1Zjc2ZNRHRvdHBwalRId0gySGJUZDBjdmRxNzlOakZoQQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T17:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "CFE invierte 385 mdp en subestaciones eléctricas para reforzar suministro en cuatro estados Milenio",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "2df05bbd480c7a0f"
+ },
+ {
+  "titulo": "Vacante en Embajada de México en Hungría: buscan asistente en Budapest",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/16/vacante-en-embajada-de-mexico-en-hungria-buscan-asistente-en-budapest-295668.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T17:31:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "08eb947b4a7c6857"
+ },
+ {
+  "titulo": "Torreón invertirá 200 millones de pesos en seguridad durante 2027",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjlPM2RVVC05QTNURU1CX3Y0N0FFb2Z2OGZWUG9tVlRDZ1FRUnZGQnZRSFRPZUdnT0tGei1ublF4bGE1MFkwQTJrVmxGWGVZd2psSXVRdWl3dXk1MDB6SjRvME9yUzBsWGd5Tmx1N3ZheV9TaTAyRWNfZlJUcU9adXNRb3ViMzBZaW9MbUR4NTRCSFRRN0ZldzItQUZFcW5IbzdaR24wZHp2dU43NV9pVnZqTQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T17:31:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Torreón invertirá 200 millones de pesos en seguridad durante 2027 El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "44d209110340614e"
+ },
+ {
+  "titulo": "PT anuncia encuesta entre Jesús Elizondo y Clara Luz Flores rumbo a 2027",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3FzSTFDVFRPMDVyNlRNRExmTW1rM0dXVWdSYl91NUF2SmVtYWZ1U2NYY1JmMEllNHBwWDN1UzZhaXkyV3BvVjFhMUk3cTZqelZ5aUFmRGRic3IxTXJjNk9tMEp1dll1UENlckVmaHhCalo1MGtWandfSVFnRFZ3WHRWTUlWd3RlWTl3MVd0ZTdDMGVtRk16UkhGb1dYaTNGR1HSAaIBQVVfeXFMTXcxYzh5TzNWWGhXVXppNDdMd0tIX25kSVlIcHF4dmRsTnI4MVROVUFRR3RJQ0RWdEx4VWhNeE9FNUhPcU5VTTJQMFJqU2FXZ1FzSGMxMmROSEo3VlVKOVMzSkR4Mjhib1RMbFRwUDRsQzhFVGFRVDFRaFo4SDRMNE5KTlc0SnRxV3htUXllSFN2M1U1b2J4aUVkMlNXdUItR0VR?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-16T17:31:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "PT anuncia encuesta entre Jesús Elizondo y Clara Luz Flores rumbo a 2027 Telediario",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "71ea471e872e3f40"
+ },
+ {
+  "titulo": "Frente frío número 6 provocará descenso moderado de temperatura",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVmN2OWFfX2NPUVdIVEZnRUhvaEYxRHE3QlVZcXl2QWtOZWJSU3pQRWtEczIzSmh4Q3g1Tm9wcGNQQ19hRTRGd3pvMEhwX3A2Zllua2N5WHc0MnpjaGN1OVQ4NWlfdVhNSEhXZDJtQ1d5YlhXZGNOMkRzeVdlRFFfV1IyUlQyeTdONUVGdmNkeUhoci1sWFFUaWNER094S1JwUkE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-16T17:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Frente frío número 6 provocará descenso moderado de temperatura INFO7",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "e4ae1b382c980799"
+ },
+ {
+  "titulo": "PT hará encuesta entre Jesús Elizondo y Clara Luz Flores; perfilan seguir alianza",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1NGcTFDUTc5WkdEY016b3hvVlFRckhrdE9EYWZ1ZWhDcW9NaVNMTzdVZkZPdDRMWVRIbDM3QjYyeVRwSEN0U1dheFByS0pMdk80RlR4VVNoX0drNlE5a2RJSTd5WFUzN3dteHVKRW9iZkRuTjYyQnRwTmNoMDlzb1RTQ196VzRGdnZkWWdQeS1WMEpOZks00gGXAUFVX3lxTE5iWlpvM3hENmk5dldqR0FMNlpPT2loYkM2QUdnQWxIcWtTdlRtcHBpUmROOFhQSFk2djRDOUhlREdORWQ3aTJQX1d1dzVuNHgxV3Bfd3UzX1FZZWpMcllqd0ZKcE9Ub1hYeE9mQnJLQXk4Q3FnZGVLNVdWVXN1MWtpWGRHQlNWc1pBMXl3bVBZcW9sWXlROGM?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T17:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "PT hará encuesta entre Jesús Elizondo y Clara Luz Flores; perfilan seguir alianza Milenio",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "f982be8a47fafa1a"
+ },
+ {
+  "titulo": "Rescatan a niño extraviado en plaza comercial durante jornada de Buen Fin en Monterrey",
+  "liga": "https://abcnoticias.mx/local/2026/11/16/rescatan-a-nino-extraviado-en-plaza-comercial-durante-jornada-de-buen-fin-en-monterrey-295665.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-16T17:24:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "24314fff9135517f"
+ },
+ {
+  "titulo": "Empresas analizan inteligencia artificial industrial en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUc1cDFzRXZhZFVoN1k2RzFnQmk5QTVCcEtmZ19EODBWd1FFdFZ0NUhzRlgtMWd6TmdVRE96aXJuam9Mb3pzeGkxSVhRQl95a0owT0ptQ1htZWpkQklfbzEtVUpwRXRzbUVYWmJWR1lLZ0V5Zld1VlRmeVM3dDhTOTZIS1VGa2RITUZBdDg1SF9WU3RQYWwwSWdpRWhNWW5XeXgyT3hYcTVKVzlCUE1uUHMzWQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T17:21:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Empresas analizan inteligencia artificial industrial en Monterrey El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "26ef19070d22b428"
+ },
+ {
+  "titulo": "Christus Muguerza se incorpora a Puntos Seguros de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHpsWHQzMG1HcDB6SXZ4alJ1QmRwMnpMcXljS3I1NEo3YjVRem9CSlNCQ01FNmpic2l1TWZ4VThtX3BtSEJ1aWhzOGV4WWhqbHp4OFBLamNITWJGcVVqbFl2NWpJUHBqQ0xENndrdDFaU0J1SUFZTnFrU3MwZS15OHNxTnpRMm1EeklnNVpiU245dVAzekpLUmttSEFtd1U1cGIxaVlKcHl0VXZB?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-16T17:21:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Christus Muguerza se incorpora a Puntos Seguros de Monterrey El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2246c854f9913775"
+ },
+ {
   "titulo": "Familias desafían frente frío visitando balneario en La Huasteca",
   "liga": "https://abcnoticias.mx/local/2026/11/16/familias-desafian-frente-frio-visitando-balneario-en-la-huasteca-295666.html",
   "medio": "ABC Noticias",
@@ -26,6 +552,20 @@
   ],
   "local": true,
   "id": "6aceac8bfc1375dc"
+ },
+ {
+  "titulo": "FGR destruye más de 2.5 toneladas de narcóticos y más de dos millones de cigarrillos",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWlVSWI4UU43Ri1URldFZEtzS3EwTnYzLWZqUGhWZmtWYlJqVUt4VTlGU1hFdFdzaFN3bGpUNzlkejBwY3Z3Y3NmZXlZTFpBNTMyclY0ZkgyNXVlUzdOSnBLVW9VaTBudzVsMkhfeVhReXpuTk5kQ0htSm05dUF0cFJXbjZxR0xXS2pFamwxOXJwNkFweFJwelI0ek9hekYxeW9GWnljSHVhUDNDSWRleVBnMXFPVXVIMHZaQWp4aTNRR0tqR1g0MU9MNDJSNXpsMlZhYXRIcTI?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-16T17:19:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "FGR destruye más de 2.5 toneladas de narcóticos y más de dos millones de cigarrillos Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ebb050f351c95844"
  },
  {
   "titulo": "Frente Frío 7 entra HOY a México: ¿Qué estados sufrirán con bajas temperaturas?",
@@ -96,6 +636,20 @@
   ],
   "local": true,
   "id": "e5e9319b2f84b7b2"
+ },
+ {
+  "titulo": "United Airlines reporta interrupción generalizada de sus sistemas en EU; trabaja para restablecer servicio",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRlJSYkhJVFBuNnFOamNheVlrYlVoZjZERDRxbWM3RS1GTG1FMzJTR1BhOGdxQWdNdFAyMEVhbHV2SW5UQkxMLVdTQlBOT1FxcWRkNFJfVDF3MFdtaTFHb1o1MVA1aTBVNlJsdmx1N2RCNU55eVZBR2lMeVVQckF5b3FXbnpYTVNpV2wzUUIzTnRHQkh6RGpWbFlOZ210SWk10gGgAUFVX3lxTE9lTUVpQ3VyUlQzNE9hb0JyelBXd3hQU09hdEcxRFBRd2JJcURYR2Ytc2Z0UlBfNG1XYjlEdjVtOHg2TzYyejJvQVJWTm02WW0zTWxuSDBEVUQ2SWhpWTYtVDJudzdseWw5SjJyX2VPTF91TEp4Yy1wdG9UbGlGV05FS0pRNVBpdGdGMUNoZXNqRUdWMkRyWFZPSFpZOVJLNW0?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T17:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "United Airlines reporta interrupción generalizada de sus sistemas en EU; trabaja para restablecer servicio Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "037d3073a8f94f17"
  },
  {
   "titulo": "Refuerzan seguridad en comercios de Monclova por Buen Fin",
@@ -182,6 +736,35 @@
   "id": "b13f23f9055f15b2"
  },
  {
+  "titulo": "Anuncia PT nueva encuesta entre aspirantes de la 4T en Nuevo León, desconoce a Clara Luz",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNHI2czdQMWlOQWhJMUNNWkVmMml2RnZfZmxLcjlKTDlnYWFwLU9WY253dmJWdUtFX1hyUlEzQ0lzR1BiOUFLOUpISEp2UHc3MzQ3MEdBVkN3aU0yNEw4OHYtQTNmNWRlcWhJZ1g5cG91UFZ2UG1TU0p0SXpjd0JGN1VsLWl2NlJqcHhVNmQwbE42WmlOa3RZYlJwZDBOZlpvYkNiRm5XSkFIaXFSRWhKQ2dzMWVGa1JHdml0LWRIbkF5R1JDb1c2bHBFMWV5enR0WVE?oc=5",
+  "medio": "Central Municipal",
+  "publicada": "2026-11-16T17:01:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Anuncia PT nueva encuesta entre aspirantes de la 4T en Nuevo León, desconoce a Clara Luz Central Municipal",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "beeee96e3b455bef"
+ },
+ {
+  "titulo": "Farmacias del Ahorro busca crecer en el norte con Benavides, que enfrenta menores márgenes",
+  "liga": "https://www.arenapublica.com/negocios/farmacias-del-ahorro-busca-crecer-en-el-norte-con-benavides-que-enfrenta-menores-margenes",
+  "medio": "Arena Pública",
+  "publicada": "2026-11-16T17:00:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Farmacias del Ahorro busca crecer en el norte con Benavides, que enfrenta menores márgenes AP-IA Lun, 16/11/2026 - 17:00",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "bd5a086b9b6b26a0"
+ },
+ {
   "titulo": "¿Qué es SMART, el sistema con inteligencia artificial que utiliza la aviación de EU?",
   "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3VfSGRuLTlCRzBWTzJsSlBrY3JKaXZ2a0JkREJteFVmbUpIZ2ZuajhmcXY1RnJPcUU1dTBHZlVDUkVuVmxxbi1nMERNd056cFhrcjRTUHNXOFZMdElwZ2VSSEw4OEF0ZnBuN24xNDdnWmxFdGdOSmpZOXNNTGJHSmRIZFY5b0tMWENORHRTMHh4Z9IBkgFBVV95cUxPTDZZOFQ5eTBieWt5NVdwT1FUUy03b0NST1gwY1RtYWxQcDRmLWtBWWtURi1MZlRuMEZ1MjdwZDJZY0gtbkpOcjhCdjRzaGFWSzVFX2hOX3Rib1pOLTNlS0tkY212WG9veW15dkQ3OGwtWlA0NmtYLTVtczBDT3I3SEZheWdUb19uU2ZlOW1peWNEZw?oc=5",
   "medio": "Telediario",
@@ -222,6 +805,20 @@
   ],
   "local": false,
   "id": "cfb4124084e35006"
+ },
+ {
+  "titulo": "¿Cuándo es la Caravana Navideña 2026? Esto se sabe del desfile en CDMX y las ciudades confirmadas",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHBRbWMyc1EyY0dSOUVtTTZ2UTl4RklHQnpTV0ZWVlo5VzZYWDRQSUpHQ3NEZTFMZTlBelVDQVFmYzZHdjVDLWlsYUluX2pYU0NfR2tqMWdndndzN0J1bE8zX3NYdW12N2FPYTY4YTJxc204THdMS0lraWdJaUtnX19COFlSNGdQc183N0lsZWl0VC1KS3J3cWxBYktTUEdTV2hicEltU1VkS3VjY04zdkVEcXpCLWRoN3VPbHZ0QmxMcDNlZDZQcFR3?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-16T16:56:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "¿Cuándo es la Caravana Navideña 2026? Esto se sabe del desfile en CDMX y las ciudades confirmadas Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cc0479079a3b584a"
  },
  {
   "titulo": "Inhabilita por un año a exfuncionario por boda en el MUNAL",
@@ -448,6 +1045,20 @@
   "id": "8ab4257f1aab12fb"
  },
  {
+  "titulo": "United resuelve fallas en despegues; problema ocurrió a 3 días de suspensión de todos los vuelos en EU",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2EzbFRFT1V6MlR4bEMweGVjLXFKSHQ2TWRDQ2tyalBjaEVGbzdvTkY2QldOeDN4dV8xZGltcWNGZGxKWDFmVFlQcGg0RGRBMVI3WTdWMndHc3FiNEhObVVDVTYzajVrWnpvNHc2ODZRcnNFejFlSXVMTksyTGRLRTlXZXZsZzgxQTB4UWhCNE1vUjZPU3hXNFpSemVhM1N4eGFRWm1HR19ra3BCZUVyY3hvdXB3Rno1clJVN2hicmU?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-16T16:34:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "United resuelve fallas en despegues; problema ocurrió a 3 días de suspensión de todos los vuelos en EU El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "850b5c7584d12041"
+ },
+ {
   "titulo": "¿Por qué criticaron a Belinda tras ser invitada de Karol G?",
   "liga": "https://abcnoticias.mx/show/2026/11/16/por-que-criticaron-a-belinda-tras-ser-invitada-de-karol-g-295657.html",
   "medio": "ABC Noticias",
@@ -490,6 +1101,20 @@
   "id": "16e0e842a187a48a"
  },
  {
+  "titulo": "Ejército destruye 38 plantíos de droga en cuatro estados; así fue el operativo",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVXhXOTd1QTlNSnNEQXhySm1XVkJtX1lQeWRjRHBYOGFfaVBDRmRvWlZCVWo2OUNJeWltSng1dHk5emJKREEtMGg3U21FSGFlTjl3eXAtSHlzOUFWajIwdGNSRmZaem9BYjRiSkVVWE9KSFlNX2l0WlctX3BZUG5EU05SYzQyZGUzdnY2QnVJbWJ5enZpOG92Q1kxNmpubnVpMkxYbmhZZjQzcVJiRFY3NnFjSjZxNGJXVWtEUEhaOFptdzBjVVhJNHJuV2xuSF9T?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-16T16:28:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Ejército destruye 38 plantíos de droga en cuatro estados; así fue el operativo Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "961e848673a11d09"
+ },
+ {
   "titulo": "Alcaraz y Medvedev arrancan con victoria: Resultados del Día 2 de las ATP Finals 2026",
   "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGxObTZmcmJrYW9WYVlaam5sWERjZDhqSmJwaFdNZUJUVTJiZ0hLVE0xeVFnZUtUS2xwMGZDY2Vxbk5WM2MyVUJIcW1uTWpiZUJsNlUxNkp6LTFMX2VnM29GZE5keFlrN0gyRTRCODV4OHd3Tl96SVA3d0RsbGRrTmo5Q1DSAYQBQVVfeXFMTThmUTN0YXlpRW5memxBZzNMUS11LXNIUnIyV3RLNXY3a0E2RTBIcU9PU1g4QnVZXzMwME0tQ2o0MVNGM3lCYXpGZnR5WVlaUXVoODBtSnZWd3NNZUIzcHZCWHk5SEc4RjYzeFhMQWVyZGQtcTlqdENKZngwTjMyRGFTV3hx?oc=5",
   "medio": "Telediario",
@@ -502,6 +1127,20 @@
   ],
   "local": false,
   "id": "19c00c723960171e"
+ },
+ {
+  "titulo": "Augura Ricardo Monreal que la elección del 2027 será más cerrada, pero también con más tensión y polarización",
+  "liga": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQelFRSVQ1LXB3aDdxeWgxUXNJNkdxS3R5Q0ZVMW9INVlycTdnRnBaTk1oVGxxc2hmREF6bnFTcWlTRjIyU2lGUV9QSjlOTkpZTEZmOGoyM1Y5Ymk0VXpIRE1LU1lFV1FxZ3RnR0NtV2tNOU9scWt3ZEFFRTJiTEJTdlFLRHEwUldRd2MwM1pJR0RJRDZ6OWlNbW9FTnZiSXlIZ2RMWGkxWEhGam5VWDc0SzdfeEZlQ2NXR1ZENGwtWVJRaWdRTHFZX2JucnZaM1dZQ3h5UVRqakE5ZlNrc1g0OW95UGlkc0ZDcjBMR283SFk1X1lTSWZna1V3?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-16T16:26:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Augura Ricardo Monreal que la elección del 2027 será más cerrada, pero también con más tensión y polarización Reporte Indigo",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "3c2003c7d7c6d823"
  },
  {
   "titulo": "Rosario Robles ‘reprocha’ desbloqueo de cuentas a Rubén Rocha: ‘Yo no puedo abrir una tarjeta de débito’",
@@ -545,6 +1184,20 @@
   ],
   "local": true,
   "id": "74fcca475173d248"
+ },
+ {
+  "titulo": "NVIDIA pierde 27% de su valor en vísperas de su reporte trimestral",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS04wVHd6VDl2dzNzaEZDQ1pKQ0JmR3ZJVi15S3RfMm9fUm5FZF9KaHl6V0x1ckdQdjlGMk9JLXpFb2duSXhQX3JrYmdMOUExWWNPWGJiSmYyUVVLbEJ4cUhyX2JZRk5RVGJNSncwbXRzR2hnTWJtNWMtaDhySW5HQlBDUWlPdTNobFYwZzNpeElhSG5ZemN5SlpJQko1ZWUzazh2MVRvZDExNm9VZDZvc0M0VWdYTmxtemhUbzBB?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-16T16:21:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "NVIDIA pierde 27% de su valor en vísperas de su reporte trimestral Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4f32c72f3c421c5a"
  },
  {
   "titulo": "Mexicanos buscan hacer historia entre los nominados al Grammy 2027",
@@ -3138,6 +3791,20 @@
   "id": "c046077982c38a00"
  },
  {
+  "titulo": "¿Cuándo es el Quinto Informe de Gobierno de Samuel García? Esta es la fecha y hora del evento",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDBreWM1Qk1KQVliaUpLTzZEX3ZBcVhwc1RxNnJKTVhpYlFIOFFfN0VtbmtLejVuRGNfQ3lIaG40LWVISmdCRndEaWdFRG9jSlFoeUw5ak9aNXNtTE9NQ05xUUxXOWE0M1NzRl9CRktKZy0xMXpTRkxrdmE4Zl9oSWlWTFVjM3MxV254dEFzcjluRjE3ZldCa0VTbkZaRkN00gGgAUFVX3lxTE5QY3VQM3FYRl83TWppMVl0VTZJMHctbkJEUk01ZDAxRUd3X2xac0ZobFFZOFh6Z1JyVEpaSEcyUUtfS3hYOTVZYk9BUUFjSlVqNHQ4bGYzd3Ryb0ZqS1YtRjZPaTdUME1tbi11OGxIVm1vX09oSnlrbU5tYzBqdTluek1kQV9NV1ZTZ3ladnFVVzJVX0ZNRG9JaThBU1JqczM?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-16T13:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "¿Cuándo es el Quinto Informe de Gobierno de Samuel García? Esta es la fecha y hora del evento Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9d6ddd9afac3d03c"
+ },
+ {
   "titulo": "Giovani dos Santos reaparece en redes sociales a 5 años de su retiro; ¿a qué se dedica actualmente?",
   "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdk1sckl6UlZKXzFWdjI0dW1FQ29OcDE5WTN4cDltekFWZ0ZXWU1lNXhVZG5qQjNjSFl3aldsWU5mRnRhakpTbXhLYjJMVko5dWxFS2NBdkszTjVxcTdUTFZTbFZXYkEzc3pkalFVZ1p0M3BnaTV3Q19xZk9nSGZhSWpHNnJPb1p3MnVXUnBwTFN4NlRyYlYtWXg0ZFp0bHBUcWVlb1c3RdIBpwFBVV95cUxNOV9BZVBJSDZpSXBjQXN5azRDTERQWW1IcTB6bXc4X3ZaeV9TR0RYSzROS3RxY2tnZ2luTEMwNmJSR3ZOdU8xSE1KalMySlpiQ0V6M1RBeVpYZ0xZSjZEMkFYdWpDSnp0NnFlT2M1V280Q3FZTXpDS3YtMlJvcjB5bUJjMUJLZThycGN6LTJYTERHTTlpY1hkYTdqS2V0WmZRRTdqM2Zxcw?oc=5",
   "medio": "Telediario",
@@ -3587,6 +4254,20 @@
   "id": "b3e65d628a4e2796"
  },
  {
+  "titulo": "¿Félix Gallardo inspiró ‘Jefe de Jefes’? Esto cuentan los corridos",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUtKc1FxUVRqQTBXbXdIdWFqUDhZS3NCd2hFbm5TTUMyUGNYN0d4SjVILUZ1UFlzd1dpc1ZEcEVCby1iWk1NbW5OWGllSFNNOWtwTHA0NWR2YVdaTVJWcHVTUUZYZ0JpWjc4MnJ4RmxRa0pGMm82eDU3Tkp6eGQ2YzJyUjB1RUpWX3l0VWxfbnpnM2FlOHlTd9IBmAFBVV95cUxPNXZ1Rl9fSlg1ZmdSSEV4bVdoQUxRNU5qbWZ1TVZGcW9XYmxJTWpvNXNfeTFnSE10UVE1QWttckFxaXNuT1lHbjRJRC1rMFVOTmtYNERHWE9QX1RYdlhIVWp1a1lhcTVKLUZLYkFHYnMtRXVuTzJCUHl1T2NwRU5tT2tuRDh3aWFsYjZOdnl6MGlvbVpMSFJXOQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T12:34:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "¿Félix Gallardo inspiró ‘Jefe de Jefes’? Esto cuentan los corridos Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "35a49812d1058a0b"
+ },
+ {
   "titulo": "México vs Jamaica en Monterrey: ¿cuánto cuestan los últimos boletos para el partido?",
   "liga": "https://www.posta.com.mx/nuevo-leon/mexico-vs-jamaica-en-monterrey-cuanto-cuestan-los-ultimos-boletos-para-el-partido/vl2279586",
   "medio": "Posta",
@@ -3994,6 +4675,20 @@
   ],
   "local": true,
   "id": "ce5269480076aedb"
+ },
+ {
+  "titulo": "¡Efecto Buen Fin y FIG! Abarrotan en León Zona Piel y Outlets turistas de todo el país",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEdWYmgzODFhUkxEcHdQZjFwV2V0MlRucUpkTnJfelhtMHVucmo2VnY2aXE0ZEM2UnhTTFBQYnlwNjd6em03aGpPczRfejQxWldDdURRLWtUNnBRLUxPS1FqRlYwMmg0MTJxLVc2NUdrTUN4X0ZUMmFyX0FlaGpfYWpQc1gyOVNiNFV0b0c0Zk5ieThZbF9fSWwyQ2RzTmpq0gGgAUFVX3lxTFBLZ2lDekpLazR1OWRTVEVIM3ZPVFZPaWloRkFtMEpkUDRqQW9oVmFrZW9TVXVwSGk1bV9BTWlrZV9lejVyd2Q2VXBWc3F6T2VpVzhYMEl5SGM2S094TmQ2NWtYaWszSWVIOGViazFtZElXTlp3U1VJTkFtSDFuN3RLbm90UllJb21WQ3RBal94dHUwTkZtZThYajBLRGt2ZzA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T12:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "¡Efecto Buen Fin y FIG! Abarrotan en León Zona Piel y Outlets turistas de todo el país Milenio",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "365b5ab3b7979e0a"
  },
  {
   "titulo": "Tragedia en Nuevo León: Ataque armado contra una familia deja a un padre y a sus dos hijos sin vida",
@@ -4418,6 +5113,20 @@
   ],
   "local": false,
   "id": "a63c4f1f7d7728d0"
+ },
+ {
+  "titulo": "Semifinales de Liga MX Femenil 2026 definidas; así se jugarán los partidos",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2NpOVNNUWNkWkp5UGFqNXZMbWNIaFdOVkU4MnE2ZV9pbk5sNjRzY2dmc2FhRDhuclFnZ0lPdWxwYmtmUmdtTW5RX1RwQUxoT0ZjUnltX1VwOVN6ZGdUSTZVSHBWdVhaUTlDRl9sRC1RLU1JWTZIdFFnS05ZS1JQSldMaDhlWmxZN3poNGN1bVZHaVlvZVJGelNVdWZQWFNqQzVPMzdrZHVHbnVFQlBsOFZtcDE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T11:34:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Semifinales de Liga MX Femenil 2026 definidas; así se jugarán los partidos Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "ef689058ab69fad8"
  },
  {
   "titulo": "¿Más aranceles para México? Donald Trump lanza ultimátum a Sheinbaum por caravanas de migrantes",
@@ -6203,6 +6912,20 @@
   ],
   "local": true,
   "id": "6223e80f56c47670"
+ },
+ {
+  "titulo": "Una persona muere tras flamazo y derrumbe por acumulación de gas en Miguel Hidalgo; desalojan a familias",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZm5FUFdmVENPREh5VV9aRTNPWDdWUVBHVWhhWkxIbjdZUm9NRWVqMkFBdHhXVHVZczluZXJESkw1UDcxb3Z2NnN4M2doTFhxcUdxTElrOFpPc25JaDNDWi0xbm1hYzJsdkpueUZwbVNzMnY4WmRLYWMzSUxNbDBXNmladTV1ZUs2NkEySDRwNkJ0dnR00gGUAUFVX3lxTE5VZlJ6SFg2MVN2REQ5eWNLUXBDT2cxS1E0R091Y1RtS3BtbWstbGJYWmdPOTdsUVdZTUxyRG11ek9xNEszcnJiUjY0cTZvQXhtNXhNeVdyWnBrbzg4aVVvWnFKeEhhMDZTbUluYjQ0bnpwMEJVMERoWF8xQ0E5TWZpWTB2bURHc05OcWI2QzF4T1ZpQkE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T09:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "Una persona muere tras flamazo y derrumbe por acumulación de gas en Miguel Hidalgo; desalojan a familias Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "457f1536e78ec6d5"
  },
  {
   "titulo": "Policía",
@@ -8039,6 +8762,20 @@
   ],
   "local": true,
   "id": "cf5338c500b8e453"
+ },
+ {
+  "titulo": "La Grilla",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUF82UlBCYTdFWDByUkVWdU5ObGk1c0FoLTlCU3ZsQlZkQU1qTk1lT2ZWekVUNGZQbzZWZFQxbnhrY1lGdVo2UUU5eC1RemVVSGtsUVFnUW9tSzF4bkRoZW9NckdPZ2lKT2hQdFV4dUVRV2oyVHFHcUplMDZWNjlHc3hibU1VZWctUUN4X0FJclg1SWxP0gGUAUFVX3lxTFBhbUIzZTFqVE81SUpCa1o3eWNlY1JPaWpmZDRySVE0QjlQaElSdUZvX3RKaVQ2R3B4TDdRYjZaN1dTWVpjRXk3T3dRN0xEejl1c2pwQjZCa2p3Y0V0ekNnaDlSREtkYXNMMS1qLURQTENpMHJYNjluXzF5TW9qSm5XSUd4Wm5QQ2JDNXVWSzBhOFJWajg?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-16T05:01:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-16T18:19:31-06:00",
+  "resumen": "La Grilla Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d430936040a806db"
  },
  {
   "titulo": "Buscan a Angel Eliud Dominguez Nava, joven desaparecido en la colonia Los Cristales en Guadalupe",
