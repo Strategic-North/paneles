@@ -1,5 +1,341 @@
 [
  {
+  "titulo": "Fidel Gómez exige reconocimiento a su padre como víctima en Naucalpan",
+  "liga": "https://elcongresista.mx/justicia/fidel-gomez-reconocimiento-padre-victima-naucalpan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:37:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Fidel Gómez exige reconocimiento a su padre como víctima, tras décadas de impunidad en Naucalpan, afectando su búsqueda de justicia.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "62c05498df0eec38"
+ },
+ {
+  "titulo": "Toluca ofrece descuentos de 50% en agua potable hasta diciembre",
+  "liga": "https://elcongresista.mx/politica/edomex/toluco-descuentos-agua-potable",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:36:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Toluca lanza descuentos de hasta el 50% en el pago de agua potable hasta diciembre de 2026 para apoyar a las familias.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "033af5d58618f317"
+ },
+ {
+  "titulo": "Funk na Praça 2026 reunirá a MC Lon y MC Menor MR en São Paulo",
+  "liga": "https://elcongresista.mx/cultura/funk-na-praca-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:34:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Funk na Praça 2026 celebrará cinco años de cultura funk en São Paulo con gratis entradas y actuaciones destacadas el 22 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c7c47e52283ecc10"
+ },
+ {
+  "titulo": "Músicos heridos en Mazatlán piden apoyo para gastos médicos",
+  "liga": "https://elcongresista.mx/politica/sinaloa/musicos-heridos-mazatlan-apoyo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:32:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Músicos de la banda HR heridos en Mazatlán piden ayuda económica para cubrir sus gastos médicos tras un ataque armado.",
+  "temas": [
+   "Seguridad",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "344a039511245421"
+ },
+ {
+  "titulo": "Crecimiento personal y emocional disponible el 17 de noviembre en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/horoscopo-17-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:23:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Este 17 de noviembre, el horóscopo sugiere importantes oportunidades para el desarrollo personal y emocional en diversas áreas.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9e03afecba7a6726"
+ },
+ {
+  "titulo": "Prevén temperaturas de -5 a 5 grados en gran parte de México",
+  "liga": "https://elcongresista.mx/politica/nacional/temperaturas-bajas-mexico-17-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:22:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Se prevén temperaturas extremas y heladas en varias regiones de México, advierte el SMN este 17 de noviembre.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8fa85eec3c8692ea"
+ },
+ {
+  "titulo": "Sheinbaum y Carney revisan avances del Plan de Acción México-Canadá, en cumbre de APEC en China",
+  "liga": "https://zetatijuana.com/2026/11/sheinbaum-y-carney-revisan-avances-del-plan-de-accion-mexico-canada-en-cumbre-de-apec-en-china/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-y-carney-revisan-avances-del-plan-de-accion-mexico-canada-en-cumbre-de-apec-en-china",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-17T07:22:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "El Plan de Acción México-Canadá opera como mecanismo complementario para dar certidumbre jurídica a las empresas de ambos países.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "2df4cd18a4522c12"
+ },
+ {
+  "titulo": "Sheinbaum y Xi Jinping dialogan sobre cooperación entre México y China",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-xi-jinping-dialogo-apec",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:17:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Claudia Sheinbaum y Xi Jinping dialogan en APEC para fortalecer la cooperación entre México y China, reafirmando los lazos bilaterales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2a3fbda603e5989d"
+ },
+ {
+  "titulo": "Rosa Icela Rodríguez lidera mañanera por ausencia de Claudia Sheinbaum",
+  "liga": "https://elcongresista.mx/politica/nacional/rosa-icela-rodiguez-mananera-17-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:16:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Rosa Icela Rodríguez conduce la mañanera del 17 de noviembre en ausencia de Claudia Sheinbaum, enfocándose en el estado de la salud y la seguridad.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e1bf7f4adc428fe6"
+ },
+ {
+  "titulo": "Escultor Miguel Peraza presenta '50 luces' para Carlos Slim",
+  "liga": "https://elcongresista.mx/cultura/escultor-miguel-peraza-escultura-50-luces-carlos-slim",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:15:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Miguel Peraza presenta '50 luces' como homenaje a Carlos Slim el 18 de noviembre en CDMX.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "962f7c2153f29197"
+ },
+ {
+  "titulo": "Sheinbaum afirma ante Xi Jinping que México y China viven una nueva era en su relación",
+  "liga": "https://zetatijuana.com/2026/11/sheinbaum-afirma-ante-xi-jinping-que-mexico-y-china-viven-una-nueva-era-en-su-relacion/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-afirma-ante-xi-jinping-que-mexico-y-china-viven-una-nueva-era-en-su-relacion",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-17T07:14:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "La presidenta pidió a Xi Jinping un panda para el Zoológico de Chapultepec y avanzar en turismo.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "e1bbdacefc95a16f"
+ },
+ {
+  "titulo": "Bechet Allen comparte rara foto familiar durante viaje a Madrid",
+  "liga": "https://elcongresista.mx/cultura/bechet-allen-foto-familiar-madrid",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:13:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Bechet Allen, hija de Woody Allen, sorprende al publicar una foto familiar durante su viaje a Madrid, generando gran expectativa.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b4c876e3685a3bdb"
+ },
+ {
+  "titulo": "Sinaloa: temperaturas de hasta 35 °C y amaneceres fríos este martes",
+  "liga": "https://elcongresista.mx/politica/sinaloa/sinaloa-temperaturas-maximas-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:13:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Sinaloa reportará temperaturas de hasta 35 °C y amaneceres fríos este 17 de noviembre.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e4abe0d7d04ab976"
+ },
+ {
+  "titulo": "Capturan a cinco hombres por homicidio de menor en Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/captura-homicidio-menor-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:11:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Detienen a cinco hombres implicados en el homicidio de una menor en Sonora, en el contexto de un aumento de violencia en Cajeme.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "99b770354d82bfcb"
+ },
+ {
+  "titulo": "Celebran el Día Nacional de la Escultora con énfasis en la paridad",
+  "liga": "https://elcongresista.mx/cultura/dia-nacional-de-la-escultora-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:08:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Adriana Oplanich celebra el Día Nacional de la Escultora, promoviendo la paridad de género y la integración de nuevas tecnologías en la enseñanza.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "619790d21cc040a8"
+ },
+ {
+  "titulo": "Registro Civil de Oaxaca vulnera derechos de personas trans, acusan",
+  "liga": "https://elcongresista.mx/politica/oaxaca/registro-civil-oaxaca-vulnera-derechos-personas-trans",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T07:04:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Abogada denuncia que el Registro Civil de Oaxaca vulnera derechos de personas trans y no binarias, poniendo en riesgo su salud.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "36721b025771897b"
+ },
+ {
+  "titulo": "Sheinbaum reitera apoyo a Armenta en su visita número 17 a Puebla",
+  "liga": "https://elcongresista.mx/politica/puebla/sheinbaum-respaldo-armenta-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T06:47:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Sheinbaum reafirmó su apoyo a Armenta durante su visita a Puebla, resaltando la importancia de mejorar educación y salud.",
+  "temas": [
+   "Salud",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ed1dd5fa84cad6b9"
+ },
+ {
+  "titulo": "Jalisco evalúa vehículos eléctricos Olinia para transporte comunitario",
+  "liga": "https://elcongresista.mx/politica/jalisco/jalisco-vehiculos-electricos-olimia-transporte-comunitario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T06:46:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Jalisco estudia incluir vehículos eléctricos Olinia en su transporte comunitario, buscando mejorar la seguridad y reducir la contaminación.",
+  "temas": [
+   "Movilidad",
+   "Medio ambiente",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d34b89096627e7e4"
+ },
+ {
+  "titulo": "El entretenimiento digital transforma hábitos de ocio en México",
+  "liga": "https://elcongresista.mx/politica/nacional/entretenimiento-digital-habitos-ocio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T06:42:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "La transformación digital en México cambia los hábitos de ocio, ofreciendo múltiples opciones de entretenimiento a los usuarios.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "397dbefb1716bffa"
+ },
+ {
+  "titulo": "Rescatan salvavidas a seis personas atrapadas en zona inundada",
+  "liga": "https://www.enlineabc.com.mx/ensenada/2026/11/17/rescatan-salvavidas-a-seis-personas-atrapadas-en-zona-inundada/",
+  "medio": "En Línea BC",
+  "publicada": "2026-11-17T06:39:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "ENSENADA, B.C.- El Gobierno de Ensenada a través de la Dirección de Bomberos, informa que, elementos de la División de Rescate Acuático atendieron el reporte de seis personas que quedaron atrapadas en su vehículo al intentar cruzar una zona inundada en el cruce de Reforma y Aguil",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "7dfa9866774b8875"
+ },
+ {
+  "titulo": "Encuentro en Berisso sobre soberanía nacional con Jorge Taiana",
+  "liga": "https://elcongresista.mx/politica/nacional/encuentro-soberania-berisso-taiana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T06:38:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Jorge Taiana y Fabián Cagliardi discuten en Berisso la soberanía argentina y los desafíos internacionales en un encuentro relevante.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "515d92415679438b"
+ },
+ {
+  "titulo": "Pronostican lluvias para este martes",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3RuMnNoZXFxZ0tiSE5BRkwxZjlxTDhPWkRPaktNeWpCSlRmTFRvc20zanJOaGdRWmFFSW1LNldzUUFXR21TYm41RkE4SThaQVF3emI4Rng5N24wY1BPaEZ0dUF5TmwzRVAzTU41ZFpKUnpIU0dvMXMzeWdhRm1lcFEybGVmeE5jT2NSTzJibnBET0R3NHJj?oc=5",
+  "medio": "En Linea BC",
+  "publicada": "2026-11-17T06:36:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Pronostican lluvias para este martes En Linea BC",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "c65cce3711733905"
+ },
+ {
+  "titulo": "Ciberespías infiltraron empresas en LatAm mediante facturas falsas",
+  "liga": "https://elcongresista.mx/politica/nacional/ciberespionaje-america-latina-facturas-falsas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T06:31:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Kaspersky alerta sobre ciberespías que usan correos de facturas para infiltrarse en empresas de América Latina, incluyendo México.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d06a49a98c01acbf"
+ },
+ {
   "titulo": "Robos a comercios disminuyen 95% en el Buen Fin 2026 respecto a 2021",
   "liga": "https://elcongresista.mx/politica/baja-california/dspm-reduce-robos-comercios-buen-fin-2026",
   "medio": "El Congresista",
@@ -3757,6 +4093,21 @@
   ],
   "local": false,
   "id": "c6da30e768931a96"
+ },
+ {
+  "titulo": "Detienen en San Diego a presunto capo guatemalteco vinculado al tráfico internacional de cocaína",
+  "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcXpGZEVRTlRVdENyZkxOc3cxYUtMNXV6b29UVkI0b2xVVXJPZWpzT25xWVE2ZmdnSzQxQWlKRXpxdUdNV3BoTHA2ejVMUXYwd0JfSUNDOGx3Vk9tblNIYjJfUmp4aHhlN1BpdTFKSXNsM0JHejdLM0VXTURoNElZY3VmVzlITW0tbi1tOGdVRy1XSlBLcld1R0xxSFQ1OTNTUWYyeUJUVlRZMkRTLUt4SVhOazBNaVdWNDVQVUc4VVJnQmhKZ2RYaWFKMndCZjRuT0J0NjdmeEgtWDNYYkFHV1FHTQ?oc=5",
+  "medio": "En Linea BC",
+  "publicada": "2026-11-16T19:12:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T07:49:33-06:00",
+  "resumen": "Detienen en San Diego a presunto capo guatemalteco vinculado al tráfico internacional de cocaína En Linea BC",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "162ffd7608121098"
  },
  {
   "titulo": "El promedio diario de homicidios en Zona Oriente del Edoméx baja 16%",
