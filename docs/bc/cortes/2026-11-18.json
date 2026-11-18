@@ -1,5 +1,584 @@
 [
  {
+  "titulo": "La Plata organiza operativo especial para su 144° aniversario",
+  "liga": "https://elcongresista.mx/politica/nacional/la-plata-operativo-aniversario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:34:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La Plata contará con un operativo especial para garantizar seguridad y comodidad durante su 144° aniversario.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0063479c27dcdf11"
+ },
+ {
+  "titulo": "Fiscalía de Morelos busca a segundo implicado en asesinato de regidor",
+  "liga": "https://elcongresista.mx/justicia/fiscalia-morelos-busca-segundo-implicado-regidor",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:32:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La Fiscalía de Morelos busca a segundo implicado en el asesinato del regidor Gabriel Rivas Ríos, intensificando las investigaciones.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "b07221fb6feb3741"
+ },
+ {
+  "titulo": "Empresario del INE viaja a EE. UU. tras escándalo de corrupción.",
+  "liga": "https://elcongresista.mx/justicia/alfredo-hernandez-casillas-escandalo-corrupcion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:31:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Alfredo Hernández Casillas, ligado a un escándalo de corrupción en el INE, busca opciones legales en Estados Unidos tras dejar México.",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a44a499fad15b46c"
+ },
+ {
+  "titulo": "Luis Carlos Ugalde critica a Vicente Fox por sus declaraciones de 2006",
+  "liga": "https://elcongresista.mx/justicia/ugalde-critica-fox-eleccion-2006",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:30:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Luis Carlos Ugalde critica a Vicente Fox por su intervención en la elección de 2006, calificando sus declaraciones de irresponsables.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c182cce38f3e5d0e"
+ },
+ {
+  "titulo": "Exhorta Congreso a regularizar la administración territorial del poblado Santa Anita",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNERQWHRjRTFEWVVNc1REaGVhUndXYW5FMXBfUzV5Y2RPZkxCZmlzVWtZeXZMOWRYT3RYZUM0bEJGVXZOcEJUVmdxdFNQdy1KcE9aSzhPcVotV2l5UkpTR3ZXNl96R3dhS29ZS1JwQ2IySTVhZG80VWlnUHQwbWNqYmV0Z1I4ZkNYbjRqZGRzbUlXaVdPc0c0ZFJPY3A5Tjg3VjUtSlRpUlZJaFBYNlZ2dE04WFpTMGE1Wm9Z?oc=5",
+  "medio": "Diario Tijuana",
+  "publicada": "2026-11-18T14:28:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Exhorta Congreso a regularizar la administración territorial del poblado Santa Anita Diario Tijuana",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "5ddd13a3dfc9785a"
+ },
+ {
+  "titulo": "Atienden conato de incendio en Edificio Adamant",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmZwV3dqTGR3Mi12aTZCVklRSEZzSGotWmhKTUhYck9DLXZqaEJ6NjBRVmN5Ny1XMk9BbWRIdEVjWVZnbk1pbGVFcGxhNjEtQlAxZndmVkRpVkNmZVdWcVlqbGRrMHJHLWFtSEw5c200TFhERTgtUzFPaW9Dcm53ZnlwQ3YzMzU0LS1iSm01VHMxd0hNYzJDVVJSdTR3YVE?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-18T14:25:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Atienden conato de incendio en Edificio Adamant AFN",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "a186ea431a36fe25"
+ },
+ {
+  "titulo": "Araceli Geraldo plantea retomar modelo contra el acoso escolar en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTFqWmV1bGc3UmpiSWQzbzdXN2lzc2EycVE4QUtUa21YLTVMYlg5NldRb2pCamxRMGNGNExFWFdfZDIyYlNCMWNWSWgzdGowY3lNWTdEYlV3bWVEblJQbXV1T0ROMGdCd0FpRzFRcVZFSzZGeF9ZeW80TkplVVNWYTRaQTNhbDhrRDhjY1l4MDFFdTdVYzJVVnA2NVk5LWFqVTRWb1IzV1IxdTUwb3c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T14:20:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Araceli Geraldo plantea retomar modelo contra el acoso escolar en Tijuana Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2d423b90c160794f"
+ },
+ {
+  "titulo": "Madres buscadoras acusan abandono institucional durante la brigada nacional de búsqueda en B.C",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjltWG1KcUllTHZQU3RfdTRnTEFhODhLbXVDTi1UcjVJdTJUV3lFc1pzRm02Wmt6U1gxWmdjcGpHYS1Ddml5ZHdkbHl0LW9va3czQ3J4WnRnZmtpaWNQbGk4a1VfWFI1b2dyNlltWktjOEVESXR4MHVIUEpiZXg0UWp5bGx1eF9FU0MtWHlVZFZQUWY4WkFyNXhQalFqOEtycm1KNXV0cDQxQU9CVDBxLUxvTENEemp5ajB3Q1c0NWJKTlBJNTlyTEx3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T14:16:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Madres buscadoras acusan abandono institucional durante la brigada nacional de búsqueda en B.C Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "aec364f5e69dac49"
+ },
+ {
+  "titulo": "Buscan a Lorena Valente Diéguez de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIejd5aHBlOUJwalFVanlTLVp0alJZVFJQN2dZX3NQOWI3Z2dIbDV6Wjcxb1lzTm1FbDlIRC1TRGVLNDRzQ3lJenpuUVVKdTNTUkpzdDYyNkZWM1k?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-18T14:12:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Buscan a Lorena Valente Diéguez de Ensenada Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "900cd64179943789"
+ },
+ {
+  "titulo": "Issabela Camil pone en duda la versión de Jaime sobre la herencia familiar",
+  "liga": "https://www.uniradioinforma.com/fama/issabela-camil-pone-duda-version-jaime-sobre-herencia-familiar-n915045",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T14:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Jaime aseguró que, su padre, don Jaime Camil, no les legó una fortuna millonaria, como podría pensarse.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "747d203819e59fb4"
+ },
+ {
+  "titulo": "Christian Nodal se opone ante el IMPI a que su padre registre su nombre en productos impresos",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWGxRa0xONDExZmVOeGwxSHQwckUtZjZlSG84akZCZnZXOEJnSWotQW5Tcl9LNFJSREwwNXZ6dUsteVdlVlQwbTBaZm5Jcy14aW00TTJ1eHpYcDZPVGRJQ0ZldmdPMEM3R3NmbFlJY3NpQ0RrXy1jdUFsaUotQzg5RW1MUW1uLVMtdlJEemdVNHc1VmNoVXA1eWFqdlVtTGg5OHBZQUx0QUFtMnNldktaUWZvQkR4Z0l3b0pZU3k1Nzg4NnJENUxWenVGR1N3cDhH?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T14:07:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Christian Nodal se opone ante el IMPI a que su padre registre su nombre en productos impresos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "391980cfa86737d9"
+ },
+ {
+  "titulo": "Comapa Reynosa confirma descuento del 50% a adultos mayores en agua",
+  "liga": "https://elcongresista.mx/tamaulipas/comapa-reynosa-descuento-50-adultos-mayores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:06:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La Comapa de Reynosa ofrece un descuento del 50% en el recibo de agua para adultos mayores, sujeto a ciertos requisitos.",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "7b37eecaad80aeb1"
+ },
+ {
+  "titulo": "Raúl Bolaños Cacho descarta urgencia en nombrar presidenta del INE",
+  "liga": "https://elcongresista.mx/politica/nacional/raul-bolanos-cacho-rechaza-urgencia-nombramiento-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:04:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Raúl Bolaños Cacho rechaza urgencia en el nombramiento de la nueva presidenta del INE, abogando por el consenso entre partidos.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b7575a05273f7716"
+ },
+ {
+  "titulo": "Senado aprueba el 18 de diciembre como Día Nacional de Migrantes",
+  "liga": "https://elcongresista.mx/justicia/senado-dia-nacional-personas-migrantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:03:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "El Senado aprueba el 18 de diciembre como Día Nacional de Personas Migrantes, recordando la tragedia de 40 migrantes en Ciudad Juárez.",
+  "temas": [
+   "Migración",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1d85efceffc97749"
+ },
+ {
+  "titulo": "UNAM lanza curso en línea gratuito para prevenir la violencia",
+  "liga": "https://elcongresista.mx/educacion/unam-curso-prevencion-violencia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:02:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La UNAM presenta un curso gratuito en línea para prevenir la violencia y fomentar habilidades de diálogo y empatía.",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": false,
+  "id": "cf14e25f33608d95"
+ },
+ {
+  "titulo": "Expresidentes del INE piden consenso para la nueva presidencia",
+  "liga": "https://elcongresista.mx/justicia/expresidentes-ine-consenso-renovacion-presidencia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T14:01:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Expresidentes del INE piden un acuerdo en el Congreso para la renovación de la presidencia y recuperar la credibilidad de la institución.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "038db6536e3f5312"
+ },
+ {
+  "titulo": "Brigada de Búsqueda Localiza Nueve Cuerpos y Encuentra a Cinco Personas con Vida en BC",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYXBFVktHYUJNUy1UZEFCR3BhWVJqeGNmdXhLX1h5NWZiWmZUQThVVVRNWEZKWk4xZEpCQnQyalAwa1NuZG0ydDFjQ0xjVW5wMDAwS0hhcVJtZGdkWXdDYWZMbmEzdXhwM3pQRTNyLUd3NmV0VkMySkR2cmJUQW5wZmdhdFNIOVc2a2JUUUFGY3R2eW9GUnpIYU5uVEhTVldheWVVZWg0WXJORFJTUlg3Ty0zZzVOWjJ0Sko1X2FLQVJCZmQyRUFibHdMVW9pdnNPSmpRN3F0Uno0Z3JxeG5nNEdFUVJsdw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-18T13:59:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Brigada de Búsqueda Localiza Nueve Cuerpos y Encuentra a Cinco Personas con Vida en BC N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4d9b7c718e2b31df"
+ },
+ {
+  "titulo": "Detiene SSPCM a hombre por presuntas amenazas de muerte con un machete contra un ciudadano",
+  "liga": "https://www.uniradioinforma.com/policiaca/detiene-sspcm-hombre-presuntas-amenazas-muerte-machete-ciudadano-n915042",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T13:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "efe705d07df81289"
+ },
+ {
+  "titulo": "Senado e IMSS analizan posible reforma a Modalidad 40",
+  "liga": "https://www.uniradioinforma.com/sociedad/senado-e-imss-analizan-posible-reforma-modalidad-40-n915040",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T13:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Zoé Robledo se reunió con la Junta de Coordinación Política para analizar la viabilidad de una posible reforma al marco legal.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "bcd8d8f07f47b01f"
+ },
+ {
+  "titulo": "Asesinan a Cándido Guerrero, precandidato de Morena en Xochistlahuaca",
+  "liga": "https://elcongresista.mx/politica/guerrero/asesinato-candido-guerrero-xochistlahuaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:49:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Cándido Guerrero, aspirante a la alcaldía de Xochistlahuaca por Morena, es asesinado en Guerrero en medio de precampañas.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "20ef3831171911c8"
+ },
+ {
+  "titulo": "SFA Michoacán pide realizar trámites vehiculares en sitios oficiales",
+  "liga": "https://elcongresista.mx/politica/michoacan/sfa-michoacan-tramites-oficiales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:48:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La SFA de Michoacán advierte a la población sobre gestores que ofrecen trámites vehiculares a precios irregulares.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "51f612cac74ada43"
+ },
+ {
+  "titulo": "Imcufide y Club Osos Valladolid anuncian visorias en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/imcufide-osos-valladolid-visorias-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:47:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Imcufide y Club Osos Valladolid convocan a visorias futbolísticas en Morelia el 26 y 27 de noviembre para jóvenes talentos.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8238e363e927ed10"
+ },
+ {
+  "titulo": "CETYS impulsa alianzas para el desarrollo de la vivienda en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZndaMWc0a3pla3FkWkxoX095TjFac2F5eHRpdnE3alo5REo4RERiN1RvOXJaM0NZU1dDUHA1dU9LekxQdzF1SF9HWTV2cGc0c1lZdmp4N04wN3BMUlNJNkNzSldlSlBrX3JxLXFvWURubVE0aDE1MTFPdGlQOUZON2xFcTQ4c19fai1Dd3Q0MHp5dDFRX0xZcmM0Nk16ZjAxQXp3?oc=5",
+  "medio": "CETYS Universidad",
+  "publicada": "2026-11-18T13:47:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "CETYS impulsa alianzas para el desarrollo de la vivienda en Ensenada CETYS Universidad",
+  "temas": [
+   "Política y partidos",
+   "Educación"
+  ],
+  "local": true,
+  "id": "fa74b2a92119ca29"
+ },
+ {
+  "titulo": "Danza contemporánea: dos muestras gratuitas en el Teatro Matamoros",
+  "liga": "https://elcongresista.mx/politica/michoacan/muestras-gratuitas-danza-contemporanea-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:46:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "En Morelia se presentarán dos muestras gratuitas de danza contemporánea el 20 y 21 de noviembre en el Teatro Mariano Matamoros.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cb337fac830702c0"
+ },
+ {
+  "titulo": "Nalleli Pedraza propone reformas para asegurar identidad infantil en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/nalleli-pedraza-reforma-identidad-ninos-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:45:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Nalleli Pedraza propone reformas en Michoacán para garantizar que niñas y niños conozcan su identidad biológica y accedan a sus derechos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f2d96e4f5133abfb"
+ },
+ {
+  "titulo": "“Skip and Loafer” confirma su segunda temporada para abril de 2027 con nuevo tráiler y personajes inéditos",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQajh0R0dzMHFmQXBHOUFmMUU4X2JaR1dTVUIwbUY4eEVvYS0xdkNBT2hhWGtEMUVfZzk0WTV3Vi1ZbjM4UzdKT25OOEhjVUlnVVdzSEM2WktDSTU3eGtVMUVUQTY5NkJMamNjY1MyeFlFckQ4cGdvaWVlODQtb0tVeHIwS2psdGRhbVlIc1ZCbzM5NHB0dFNaSTR2TTQ3UzBwM0FVdWhDQnpxZWhIMFpmWDNXNkVkblRrSE5WSXJoVGJBYVNkNFQ2djVYYUdyMTF1Y0NpRFd4NWplTlZaS1Qw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T13:45:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "“Skip and Loafer” confirma su segunda temporada para abril de 2027 con nuevo tráiler y personajes inéditos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d216cf72c3d0fb09"
+ },
+ {
+  "titulo": "Recapturan a \"El Checo\", presunto responsable de hechos violentos en Tecate",
+  "liga": "https://www.uniradioinforma.com/policiaca/recapturan-el-checo-presunto-responsable-hechos-violentos-tecate-n915037",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T13:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Capturado en el municipio de Ensenada tras persecución.",
+  "temas": [
+   "Gobierno municipal",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "24fb532d849262b2"
+ },
+ {
+  "titulo": "Colectivos encuentran restos óseos en fosa clandestina en Valle de las Palmas",
+  "liga": "https://puntonorte.info/2026/11/18/colectivos-encuentran-restos-oseos-en-fosa-clandestina-en-valle-de-las-palmas/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-18T13:43:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Tijuana.- En una jornada llevada a cabo por integrantes de distintos colectivos de búsqueda, se localizaron restos óseos enterrados en una zona árida, cerca de la colonia Valle de las Palmas. Los restos fueron hallados la tarde de ayer, martes 17 de noviembre, durante una búsqued",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4b456789f6834c24"
+ },
+ {
+  "titulo": "Pensión para adultos mayores, decisiva en la reducción de la pobreza en México: Cepal",
+  "liga": "https://jornadabc.com.mx/general/mexico/pension-para-adultos-mayores-decisiva-en-la-reduccion-de-la-pobreza-en-mexico-cepal/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-18T13:43:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La desigualdad en nuestro país se redujo en 1.2 por ciento; ese rubro bajó 0.7 por ciento en América Latina La entrada Pensión para adultos mayores, decisiva en la reducción de la pobreza en México: Cepal se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "62eea8e4233dc592"
+ },
+ {
+  "titulo": "Embajada de EU en México publica mensaje de Trump contra las caravanas de migrantes",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWpGeWdSa3IxUG9yWGh2bzBEMUliRUE1THVjcUVvaS1TTW1vWFR4SnY1eE12RW85UkllS2xOVllEbUI3V052bjQxNl9PQURnUllGdlJ1bkI1OS1ZaWt6TGpQT0RuSHFaakpxYVpwSm1SZnJJN3RNTjlQQnVGempHd0hkbjFFTDdsM2R2bHNrWWFoWXEwaTAtV0gwc3NYdzFlSjR2R2UzcWp2NFFoeFpFR3lteGhQYWtKM1VtRlFBb3pObFNnN3ptR0dlUjNPbHc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-18T13:42:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Embajada de EU en México publica mensaje de Trump contra las caravanas de migrantes AFN",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "d1b39747caed7fc1"
+ },
+ {
+  "titulo": "Realiza CESPM prueba hidrostática en nueva infraestructura hidráulica de la colonia Ladrillera",
+  "liga": "https://www.uniradioinforma.com/sociedad/realiza-cespm-prueba-hidrostatica-nueva-infraestructura-hidraulica-colonia-ladrillera-n915033",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T13:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "88b8badef866273d"
+ },
+ {
+  "titulo": "Proponen Regular el Contenido Publicitario de Creadores de Contenido en BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOHBDa1BmMEtDSkVwZ2x3a0xkalh0WnJRdVVUcEQ1ZXJ3cmJOSEVYd1paOUMtdl9PbFFGamxfa3J5RjhmUGdoZ2ZaRDRMc1ZtcjBtZzRweHdVRlZxVVpZSURNZlVsT0tmS0RGaV9aak1iT3BSY2FBM3J4NVNUTUVpUzRJVWc3eEt1THB2V1BGUnBzbW5lZzhiVXJhQk9PbTJVSFdYb0lDTVJ3N1QwMXNRX0VXMk5aX0QyazE2cUl3dENlQQ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-18T13:38:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Proponen Regular el Contenido Publicitario de Creadores de Contenido en BC N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4045af9b80a33afb"
+ },
+ {
+  "titulo": "Prevén ingreso de frente frío a Sonora para el fin de semana",
+  "liga": "https://www.uniradioinforma.com/sociedad/preven-ingreso-frente-frio-sonora-fin-semana-n915035",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T13:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Entre la noche del viernes y la madrugada del sábado.",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "9aa9c824b25197ff"
+ },
+ {
+  "titulo": "Últimas semanas para aprovechar condonación de adeudos de agua para personas en situación vulnerable",
+  "liga": "https://www.uniradioinforma.com/sociedad/ultimas-semanas-aprovechar-condonacion-adeudos-agua-personas-situacion-vulnerable-n915031",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T13:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Se busca beneficiar a grupos prioritarios y fortalecer la economía familiar.",
+  "temas": [
+   "Agua",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "4d0f900177080fb1"
+ },
+ {
+  "titulo": "Detienen a cuatro por narcomenudeo en Querétaro",
+  "liga": "https://elcongresista.mx/politica/queretaro/detienen-cuatro-narcomenudeo-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:35:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La Fiscalía de Querétaro detuvo a cuatro personas por narcomenudeo en operativos realizados en diversos municipios.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "af511f833c1199a5"
+ },
+ {
+  "titulo": "Resultados Tris Medio Día hoy 18 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-medio-dia-sorteo-36958",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:35:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "El sorteo Tris Medio Día número 36958 se celebró este 18 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cb82644a86cdbcb7"
+ },
+ {
+  "titulo": "EMPRESARIO MODERNO-Jerge",
+  "liga": "https://jornadabc.com.mx/cartones/empresario-moderno-jerge/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-18T13:34:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La entrada EMPRESARIO MODERNO-Jerge se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "1cb475d4613b31bc"
+ },
+ {
+  "titulo": "Cambios fiscales provocarán ISR provisional hasta 2.5 veces más alto",
+  "liga": "https://elcongresista.mx/finanzas/cambios-pagos-provisionales-isr-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:34:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Las empresas enfrentarán incrementos en pagos provisionales de ISR debido a cambios fiscales que comenzarán en enero de 2027.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "d4486d1883c2c219"
+ },
+ {
+  "titulo": "Dos policías estatales heridos en enfrentamiento armado en Temixco",
+  "liga": "https://elcongresista.mx/seguridad/dos-policias-heridos-en-frenteamiento-temixco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:33:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Dos policías heridos en enfrentamiento armado en Temixco, uno de ellos en estado grave. La violencia contra agentes aumentó en Morelos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "90ec6c396a7fb868"
+ },
+ {
+  "titulo": "Morelos inicia programa de restauración de cuencas con 700 mdp",
+  "liga": "https://elcongresista.mx/morelos/morelos-programa-restauracion-cuencas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:32:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La gobernadora de Morelos inicia un programa de restauración de cuencas con 700 mdp, enfocándose en la tecnificación y conservación del agua.",
+  "temas": [
+   "Gobierno del estado",
+   "Agua"
+  ],
+  "local": false,
+  "id": "d157eba6ea0d2565"
+ },
+ {
   "titulo": "Cándido Guerrero, aspirante morenista a la alcaldía de Xochistlahuaca, es asesinado a balazos",
   "liga": "https://zetatijuana.com/2026/11/candido-guerrero-aspirante-morenista-a-la-alcaldia-de-xochistlahuaca-es-asesinado-a-balazos/?utm_source=rss&utm_medium=rss&utm_campaign=candido-guerrero-aspirante-morenista-a-la-alcaldia-de-xochistlahuaca-es-asesinado-a-balazos",
   "medio": "Zeta Tijuana",
@@ -15,6 +594,49 @@
   "id": "9a183d8297c8d0f2"
  },
  {
+  "titulo": "Amenaza de muerte a profesora en Universidad de Santa Catarina",
+  "liga": "https://elcongresista.mx/justicia/amenaza-profesora-universidad-santa-catarina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:31:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Una profesora en Nuevo León recibió una amenaza de muerte, lo que resultó en suspensión de clases y operativo policial en la Universidad de Santa Catarina.",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": false,
+  "id": "0d08401ef6cfab5d"
+ },
+ {
+  "titulo": "DOS PROYECTOS-El Fisgón",
+  "liga": "https://jornadabc.com.mx/cartones/dos-proyectos-el-fisgon/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-18T13:30:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La entrada DOS PROYECTOS-El Fisgón se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5cb06e41d29b07c8"
+ },
+ {
+  "titulo": "Morelos recibió 899.1 millones de dólares en remesas hasta septiembre",
+  "liga": "https://elcongresista.mx/morelos/morelos-remesas-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:29:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Morelos recibe 899.1 millones de dólares en remesas hasta septiembre de 2026, un apoyo vital para su economía familiar.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "fc8dacf606e103b5"
+ },
+ {
   "titulo": "Inicia entrega de tarjetas para la beca Gertrudis Bocanegra",
   "liga": "https://www.uniradioinforma.com/gobierno/inicia-entrega-tarjetas-beca-gertrudis-bocanegra-n915029",
   "medio": "Uniradio Informa",
@@ -27,6 +649,20 @@
   ],
   "local": true,
   "id": "d27633852dfc5a18"
+ },
+ {
+  "titulo": "Tarjetas de crédito: consejos para evitar intereses en los pagos",
+  "liga": "https://elcongresista.mx/finanzas/tarjetas-credito-evitar-intereses",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T13:27:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Aprende a pagar tu tarjeta de crédito y evita generar intereses con estos consejos prácticos y fechas clave.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "5ef078e9492c676d"
  },
  {
   "titulo": "GTA VI llega este jueves: precio, plataformas y todo lo que debes saber sobre su lanzamiento",
@@ -1031,6 +1667,20 @@
   ],
   "local": true,
   "id": "ac665e4f46ba2fe0"
+ },
+ {
+  "titulo": "Claudia Agatón expresa respaldo a Julieta Ramírez rumbo a la reorganización de Morena en BC",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd1NPLWV1T3dUVUpNdWI5UW9zYks3LTJ4YzhhcUVzZGlNY3hYVFpxS0FLRjV4YUlWWkxON005MDRrb0xyaG5VUkdiNjRJRjhpeXpFcnVlczlMampXTUl3Vlp5OVAwRnc4a3Rac000YnZ5N3NQOEo0U0JWNy1TQWhuRTBaMVkzS1FNN09VWGNmM3hYaHIxd1M4bEhVWkQ1WGdXU1lZX0hhQXlId0V6dWZQTHBtXy03aDlGUzZYRDduUkZuLUJrQzZrRDc2dGhPaDJId3NUclh1NHVyblptM2tOSGVrazXSAdIBQVVfeXFMTW5wcHRUc2xmRVlyeXctRkdxYmVWcU9oTC1SQjZtZ01MbTg5b29MLU5qS05TVVNZREhuWHZYd29ySUp4bkZIbnVlaWVxcDRjQjhBb1ZJZHF3VkdJQ1V3akxQNHhRS3dfTGQzN3VyeXRPY3hxVUhhVGw1ajg4V3pRZlQxYzVMNWVrTUllTmtwSzJ4UDRvT3VGVHh6eHNjUHFqWjBNaDBoTFdYREc4ajVnTkQ4ZFFLQUxLandkUDlYbGVUaU1QOThpRlZ5RlRfYUYybVpn?oc=5",
+  "medio": "La Política Online",
+  "publicada": "2026-11-18T11:45:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Claudia Agatón expresa respaldo a Julieta Ramírez rumbo a la reorganización de Morena en BC La Política Online",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c1a8de275bd4c130"
  },
  {
   "titulo": "Personas mayores enfrentan soledad y desinformación en Cuba",
@@ -2389,6 +3039,21 @@
   "id": "027c9d6f91a64c8b"
  },
  {
+  "titulo": "CEDHBC señala deuda histórica de autoridades en atención a la salud mental",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/cedhbc-senala-deuda-historica-de-autoridades-en-atencion-a-la-salud-mental-33196615",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-18T09:10:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "La falta de infraestructura especializada en Tijuana es una deuda que se arrastra desde hace muchos años, planteó el presidente de la CEDHBC.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "4d9f21c238b3cad0"
+ },
+ {
   "titulo": "Dólar se cotiza en 18.45 pesos; peso mexicano muestra resistencia",
   "liga": "https://elcongresista.mx/finanzas/cotizacion-dolar-mexico-noviembre-2026",
   "medio": "El Congresista",
@@ -2401,6 +3066,20 @@
   ],
   "local": false,
   "id": "e610371e73257165"
+ },
+ {
+  "titulo": "Han retirado miles de letreros irregulares en postería de Mexicali: Servicios Públicos",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/han-retirado-miles-de-letreros-irregulares-en-posteria-de-mexicali-servicios-publicos-33196412",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-18T09:06:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Su función es retirar la publicidad no autorizada, sin embargo, no están facultados para imponer algún tipo de multa a quienes la colocan, por lo cual, la única consecuencia es el retiro del cartel",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "93c1778def82805e"
  },
  {
   "titulo": "Contratan mil 800 trabajadores para construir tren de pasajeros en Coahuila",
@@ -2462,6 +3141,20 @@
   "id": "0cbbe5171c2a1da2"
  },
  {
+  "titulo": "Proyecta Hacienda 100 mil mdp de presupuesto 2027",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/proyecta-hacienda-100-mil-mdp-de-presupuesto-2027-33196386",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-18T09:00:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "El secretario de Hacienda de Baja California puntualizó que no se adquirirá alguna nueva deuda en lo que resta de la administración estatal",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "d26c2d444eb0cfaa"
+ },
+ {
   "titulo": "Capturan a sobrino de Félix Gallardo con rifle de asalto y vehículo robado en Mexicali",
   "liga": "https://jornadabc.com.mx/principales/capturan-a-sobrino-de-felix-gallardo-con-rifle-de-asalto-y-vehiculo-robado-en-mexicali/",
   "medio": "La Jornada Baja California",
@@ -2474,6 +3167,20 @@
   ],
   "local": true,
   "id": "1078beea0610167d"
+ },
+ {
+  "titulo": "IP busca aumento salarial diferenciado para la frontera norte en 2027",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/ip-busca-aumento-salarial-diferenciado-para-la-frontera-norte-en-2027-33196174",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-18T08:56:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "El nuevo salario mínimo deberá oficializarse antes del 31 de diciembre para entrar en vigor el 1 de enero de 2027",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "cc78021d0c9485fb"
  },
  {
   "titulo": "Remueven en el INE a cuatro amigos más de Taddei y de su acólito Montaño",
@@ -2592,6 +3299,20 @@
   "id": "9cedb220e732dc67"
  },
  {
+  "titulo": "Diócesis de Mexicali realizará su primer Congreso Eucarístico",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/diocesis-de-mexicali-realizara-su-primer-congreso-eucaristico-33195064",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-18T08:46:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Esperan un aforo máximo de mil personas y acceso gratuito con previo registro, como parte de las actividades por los 60 años de la diócesis",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "917331f977dd9d54"
+ },
+ {
   "titulo": "La Noche de las Heladerías llega este miércoles a Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmVQSUtLTVdsR1N6aFRpbHVtZnpXOWRzUkc4QnZ1ZFNicWRMSnJDaHZ2dk1sNWxmZkFKbnItYll1Z3JCaG5KWjJXTm5HenM4OHVVcE9tcDNBTG9jOGRiRDJIZWlKZ21YbEU5NXQxMEl0UThpR25DUm92SnpicFBKQ2hjSHR0NkhGc1FDWF9TYkduU3VfRUt2OFNpV0MyQTE2NHpV?oc=5",
   "medio": "www.fuertebarragan.com",
@@ -2621,6 +3342,36 @@
   "id": "2b177bf2c7544d84"
  },
  {
+  "titulo": "Mantendrá IID aportación de 197 millones de metros cúbicos al Lago Mead en 2026",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/mantendra-iid-aportacion-de-197-millones-de-metros-cubicos-al-lago-mead-en-2026-33195283",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-18T08:44:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Con esta aportación, el nivel del Lago Mead subirá 2.5 pies, en estos momentos en que su caída se encuentra en niveles históricos",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "d6d9fdd7ca89876b"
+ },
+ {
+  "titulo": "Piden diputadas que se analice posibilidad de expropiar terrenos para mejorar vialidades",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/piden-diputadas-que-se-analice-posibilidad-de-expropiar-terrenos-para-mejorar-vialidades-33195438",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-18T08:42:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "El titular de la Sidurt reconoció la necesidad de que el Ayuntamiento tendría que comprar o expropiar ciertos terrenos para mejorar la carretera Santa Isabel y ciertos acceso al bulevar Palmar de Santa Anita",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "c95406da4f7ff867"
+ },
+ {
   "titulo": "Javier Milei critica la justicia social en su discurso económico",
   "liga": "https://elcongresista.mx/opinion/milei-critica-justicia-social-modelo-economico",
   "medio": "El Congresista",
@@ -2648,6 +3399,20 @@
   ],
   "local": false,
   "id": "c8613d8066034a2a"
+ },
+ {
+  "titulo": "Avanza propuesta para autorizar venta de alcohol en cines VIP de Mexicali",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/avanza-propuesta-para-autorizar-venta-de-alcohol-en-cines-vip-de-mexicali-33195941",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-18T08:39:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "Analizan limitar el alcohol por asiento, medida aplicaría en el único cine que ofrece salas VIP en Mexicali ubicado en Plaza San Pedro",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fb384e571a0a93a6"
  },
  {
   "titulo": "Agente de Policía Nacional apuñalado en Medina del Campo tras forcejeo",
@@ -2705,6 +3470,20 @@
   ],
   "local": false,
   "id": "7aaefdc5c14a7334"
+ },
+ {
+  "titulo": "Patrulla de la FESC chocó contra dos vehículos sobre Río Nuevo",
+  "liga": "https://oem.com.mx/lavozdelafrontera/policiaca/patrulla-de-la-fesc-choco-contra-dos-vehiculos-sobre-rio-nuevo-33195928",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-18T08:31:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T14:34:36-06:00",
+  "resumen": "No se reportaron personas lesionadas, solo daños materiales a los vehículos",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d82fb7663fdc5172"
  },
  {
   "titulo": "Guachochi: belleza natural y cultura en un Pueblo Mágico de Chihuahua",
