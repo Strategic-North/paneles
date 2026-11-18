@@ -1,5 +1,396 @@
 [
  {
+  "titulo": "Pronóstico de lluvias intensas y vientos de hasta 90 km/h en 4 estados",
+  "liga": "https://elcongresista.mx/politica/veracruz/pronostico-lluvias-vientos-norte-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:51:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "El SMN pronostica lluvias muy fuertes y vientos de hasta 90 km/h para cuatro estados del país este 18 de noviembre.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "383e3633fdfe57eb"
+ },
+ {
+  "titulo": "La Comer y Fresko ofrecen frutas y verduras en el Miércoles de Plaza",
+  "liga": "https://elcongresista.mx/politica/nacional/ofertas-la-comer-fresko-18-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:50:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La Comer y Fresko presentan ofertas en frutas y verduras este 18 de noviembre, ayudando a las familias a enfrentar la inflación.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "414753704b75892a"
+ },
+ {
+  "titulo": "Trump y Sheinbaum se reúnen en Shenzhen para discutir el TMEC",
+  "liga": "https://elcongresista.mx/vehicular/trump-sheinbaum-tmec-shenzhen",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Donald Trump se reúne con Claudia Sheinbaum en Shenzhen para negociar sobre el futuro del TMEC y reducir aranceles.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bdbd009c66e6a51b"
+ },
+ {
+  "titulo": "Anthropic lanza OPV por 64 mil millones y golpea mercado de bitcoin",
+  "liga": "https://elcongresista.mx/finanzas/anthropic-salida-bolsa-64-mil-millones-bitcoin",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:36:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La salida a bolsa de Anthropic por 64 mil millones afecta el mercado de bitcoin y provoca tensiones en carteras de inversión.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "26aedacde1b9ea10"
+ },
+ {
+  "titulo": "Cierres de carreteras en México por fallas mecánicas y mantenimiento",
+  "liga": "https://elcongresista.mx/vehicular/cierres-carreteras-mexico-noviembre-17",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:31:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Cierres parciales y reducciones de carriles afectan a tres autopistas en México por fallas mecánicas y mantenimiento este 17 de noviembre.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "5b4dc45d08798ce6"
+ },
+ {
+  "titulo": "Morelia: pronostican temperaturas de hasta 25 grados y lluvias.",
+  "liga": "https://elcongresista.mx/politica/michoacan/clima-morelia-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:21:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "El clima en Morelia se caracterizará por temperaturas de hasta 25 grados y posibilidades de lluvias durante la noche.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dac88ca68a2d938e"
+ },
+ {
+  "titulo": "Alexander Zverev gana dos Grand Slams y se convierte en número uno",
+  "liga": "https://elcongresista.mx/politica/nacional/alexander-zverev-dos-grand-slams-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:20:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Alexander Zverev triunfó en 2026 con dos Grand Slams y alcanzó el número uno, aunque enfrenta nuevos retos legales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e27863446fe74323"
+ },
+ {
+  "titulo": "Mercedes-Benz subasta C 111-II con motor Wankel M 950 por 25 millones de euros",
+  "liga": "https://elcongresista.mx/vehicular/mercedes-benz-subasta-c-111-II-wankel",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:19:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Mercedes-Benz subasta un exclusivo prototipo C 111-II de 1970 con motor rotativo Wankel por más de 25 millones de euros.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "143b857b857d8b32"
+ },
+ {
+  "titulo": "Gran Premio Dardo Rocha: 304 millones en premios para 13 caballos",
+  "liga": "https://elcongresista.mx/sorteos/gran-premio-dardo-rocha-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:19:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La Plata celebra el Gran Premio Dardo Rocha con 304 millones de pesos en premios y actividades culturales. Entrada libre.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "c04dec4b9ac37063"
+ },
+ {
+  "titulo": "La Iglesia celebra a San Odón de Cluny este 18 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/san-odon-cluny-santoral-18-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:18:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La Iglesia celebra hoy a San Odón de Cluny, figura clave en la renovación monástica, conocido como patrono de músicos y de la lluvia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5bd56d6e7bd8e73c"
+ },
+ {
+  "titulo": "Claudia Sheinbaum viaja 21 horas en clase económica a cumbre de APEC",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-viaje-21-horas-apec",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:11:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum viajó 21 horas en clase económica para asistir a la cumbre de APEC en Shenzhen, generando gran interés.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d7a9d07d1196885e"
+ },
+ {
+  "titulo": "México debe invertir 8,177 millones de dólares en su red eléctrica",
+  "liga": "https://elcongresista.mx/politica/nacional/mexico-inversion-red-electrica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:10:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "México deberá invertir 8,177 millones de dólares en su red eléctrica para un suministro confiable y eficiente.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c7828200f885ece9"
+ },
+ {
+  "titulo": "Sheinbaum y Trump dialogan en China sobre aranceles y migración",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-trump-reunion-china-aranceles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:04:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Claudia Sheinbaum y Donald Trump se reúnen en Shenzhen para discutir comercio y migración, en medio de tensiones arancelarias.",
+  "temas": [
+   "Migración",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c38d5a6782ae2b04"
+ },
+ {
+  "titulo": "129 años de Renato Leduc, figura clave de la Revolución Mexicana",
+  "liga": "https://elcongresista.mx/cultura/renato-leduc-129-aniversario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:04:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Renato Leduc, a 129 años de su nacimiento, sigue siendo un referente en el periodismo y la literatura mexicana.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "44f18fd040218bb2"
+ },
+ {
+  "titulo": "Diputados exigen derogar contrarreforma de UMSNH en San Lázaro",
+  "liga": "https://elcongresista.mx/politica/michoacan/derogar-contrarreforma-umsnh",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T07:03:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Diputados del PT, PAN y MC piden derogar contrarreforma de UMSNH que pospuso elecciones hasta 2031, generando controversia.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "7f5c186afe59fe25"
+ },
+ {
+  "titulo": "Luis Rubiales regresa tras inhabilitación y amenaza a Louzán",
+  "liga": "https://elcongresista.mx/politica/nacional/rubiales-regreso-presidencia-rfef",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:50:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Luis Rubiales regresa a la contienda por la presidencia de la RFEF tras cumplir su inhabilitación de tres años y buscar desafiar a Louzán.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1730e045b220d637"
+ },
+ {
+  "titulo": "Intendentes de Río Negro piden reparación urgente de la Ruta 23",
+  "liga": "https://elcongresista.mx/vehicular/intendentes-rio-negro-reparacion-ruta-23",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:49:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Intendentes de Río Negro reclaman al Gobierno federal la reparación urgente de la Ruta 23, esencial para la conectividad de la región.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a2840d3ab4353f37"
+ },
+ {
+  "titulo": "Máximo Kirchner critica políticas de Javier Milei y llama a la unidad",
+  "liga": "https://elcongresista.mx/politica/nacional/maximo-kirchner-critica-milei-telen",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:47:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Máximo Kirchner critica el modelo económico de Javier Milei y llama a construir un frente amplio en 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2367c5d87b5ce0a3"
+ },
+ {
+  "titulo": "La Plata inaugura el Centro Cultural Leonardo Favio con homenaje artístico",
+  "liga": "https://elcongresista.mx/cultura/la-plata-inauguracion-centro-cultural-leonardo-favio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:47:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La Plata inaugura el Centro Cultural Leonardo Favio, un nuevo espacio para fomentar la cultura y la participación comunitaria.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9072da827bbce9e6"
+ },
+ {
+  "titulo": "Trump y Putin se encuentran en APEC tras saludo de Xi Jinping",
+  "liga": "https://elcongresista.mx/politica/nacional/trump-putin-apec-shenzhen",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:45:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "En la cumbre APEC Shenzhen, Trump y Putin se saludan ante Xi Jinping, marcando un reencuentro en el escenario internacional.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "00805d748a5b6c29"
+ },
+ {
+  "titulo": "Siguen pendientes reformas de paternidad para el sector privado: Coparmex Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/siguen-pendientes-reformas-paternidad-sector-privado-coparmex-tijuana-n914717",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T06:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La dirigente empresarial propuso que el Estado o el IMSS cubran el costo de la licencia de paternidad, aunque aclaró que aún no es una postura institucional de Coparmex.",
+  "temas": [
+   "Política y partidos",
+   "Salud",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "c4fdfe0a81c48f76"
+ },
+ {
+  "titulo": "Sheinbaum y Trump sostienen en China una reunión bilateral, en medio de amagos arancelarios",
+  "liga": "https://zetatijuana.com/2026/11/sheinbaum-y-trump-sostienen-en-china-una-reunion-bilateral-en-medio-de-amagos-arancelarios/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-y-trump-sostienen-en-china-una-reunion-bilateral-en-medio-de-amagos-arancelarios",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-18T06:36:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La reunión se realizó después del encuentro de Sheinbaum Pardo con Xi Jinping, sin información oficial de ambos gobiernos",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "83b23176b05756a8"
+ },
+ {
+  "titulo": "León: 2,6 millones de luces led iluminarán la ciudad esta Navidad",
+  "liga": "https://elcongresista.mx/politica/guanajuato/leonnavidad-iluminacion-led-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:36:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "León se prepara para la Navidad con 2,6 millones de luces led que iluminarán la ciudad a partir del 26 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3ad441ecce1ee198"
+ },
+ {
+  "titulo": "La Plata debate presupuesto de $578.738 millones para 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/la-plata-presupuesto-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:35:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "La Plata debatirá un presupuesto de $578.738 millones para 2027, enfocado en obras públicas y ajustes fiscales.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c6da55e4aef73c25"
+ },
+ {
+  "titulo": "Argentina golea 7-0 a Costa Rica y cierra el año con nueva generación",
+  "liga": "https://elcongresista.mx/politica/nacional/argentina-goleada-costa-rica-nueva-generacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:34:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Argentina goleó 7-0 a Costa Rica, cerrando el año y mostrando una nueva generación sin Messi y con figuras prometedoras.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "236968e51b2bf409"
+ },
+ {
+  "titulo": "Vecinos de La Plata y Ensenada denuncian apagones y débitos excesivos",
+  "liga": "https://elcongresista.mx/politica/nacional/vecinos-laplata-ensenada-apagones-edelap",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:34:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Vecinos de La Plata y Ensenada padecen apagones y faltas de atención de Edelap, con 555 usuarios afectados por cobros inusuales.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ccf294b4e89463eb"
+ },
+ {
+  "titulo": "Vecinos de La Plata y Ensenada reclaman a Edelap por apagones y cobros indebidos que afectaron a 555 usuarios.",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUNId1FFTWV6Vm1wa0hoMnQ2SDBteFdnb1Q3XzZGMGRkcUpBRnVFSlVMeDNxaW1UMFBGQjJoZ3BDb3UyRzEwbXE2eUQtVHFtZ0dRQkZYdzBXYlpmcGZWUlA1YlpweFBCLXZ3bEJYU2FYRkFuOWVBWDY0aDhGWHAyOXRSLXJDUHFJSURn?oc=5",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T06:34:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T07:52:07-06:00",
+  "resumen": "Vecinos de La Plata y Ensenada reclaman a Edelap por apagones y cobros indebidos que afectaron a 555 usuarios. El Congresista",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "10e3813043ef741c"
+ },
+ {
   "titulo": "Agricultores bloquean carreteras en 5 entidades por pagos adeudados",
   "liga": "https://elcongresista.mx/politica/michoacan/agricultores-bloquean-carreteras-pagos-pendientes",
   "medio": "El Congresista",
