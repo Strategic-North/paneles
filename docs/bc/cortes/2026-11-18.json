@@ -1,5 +1,75 @@
 [
  {
+  "titulo": "Disparan contra una pareja en Granjas Familiares del Matamoros",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVBrSVhLcC1lUlpVOWRJZE1tZG4waEJ2TzI4YzRFcVBmejJSTW44TFk0cEhGcWFwcDV6N1FCamhqOWJBRTg5VzlyTGprejhyRnBmc2RjaDdaU0VoUGc2b2RaejhWZHZvaXdOMmRVbzNWalZtSFRNOFBkTjc3ellyMVBKSzdVQjQ5X3hOTktnaTd4ZG00aFpudHhESnVIV2RNTW8xZnV3?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-18T00:57:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T01:23:54-06:00",
+  "resumen": "Disparan contra una pareja en Granjas Familiares del Matamoros AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8030bcd9780f2710"
+ },
+ {
+  "titulo": "Disparan contra una pareja frente a su hija de siete años en la Zona Este de Tijuana",
+  "liga": "https://puntonorte.info/2026/11/17/disparan-contra-una-pareja-frente-a-su-hija-de-siete-anos-en-la-zona-este-de-tijuana/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-18T00:52:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T01:23:54-06:00",
+  "resumen": "Tijuana.- Una mujer resultó herida en la cabeza y su esposo en una mano, en un ataque armado perpetrado por cuatro hombres frente a su hija de siete años de edad, cuando circulaban a bordo de un vehículo en la colonia Granjas Familiares del Matamoros, en la Zona Este de la ciudad",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c3fb21077a83a38f"
+ },
+ {
+  "titulo": "Motociclista abatido tras balacear a policías sin identificar",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NalJaSWZBLWRPclI4S3ZlS0x2aVl3bmRERmlUMEVPLXNLV2hEX0FXLVVfNjBrVUJudHptNFJZX2lQeXZEa3Q0WmI0UGxWcTFneVppcm5MblB3TkFKYm9MTFFsdF8tRVRyZ0htWi1R?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-18T00:42:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T01:23:54-06:00",
+  "resumen": "Motociclista abatido tras balacear a policías sin identificar Ensenada.Net",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9446e64ba7344174"
+ },
+ {
+  "titulo": "Detienen en Tecate a “El Friker”, quien contaba con tres órdenes de aprehensión por homicidio",
+  "liga": "https://elportavoznoticias.com.mx/detienen-en-tecate-a-el-friker-quien-contaba-con-tres-ordenes-de-aprehension-por-homicidio/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-18T00:42:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T01:23:54-06:00",
+  "resumen": "Durante un operativo de las Fuerzas de Coordinación Institucional, autoridades detuvieron a Juan Adrián “N”, de 29 años, conocido como “El Friker”, quien contaba con tres órdenes de aprehensión activas por el... La entrada Detienen en Tecate a “El Friker”, quien contaba con tres ",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9f87d8a8008ba575"
+ },
+ {
+  "titulo": "Municipal detiene a dos hombres con arma y carro robado en el Gato Bronco",
+  "liga": "https://puntonorte.info/2026/11/17/municipal-detiene-a-dos-hombres-con-arma-y-carro-robado-en-el-gato-bronco/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-18T00:19:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T01:23:54-06:00",
+  "resumen": "Tijuana.- Dos hombres que llevaban un arma de fuego a bordo de una camioneta con reporte de robo, fueron detenidos por policías municipales en el bulevar “Gato Bronco”, a la altura de la colonia Murúa. Los hechos ocurrieron la madrugada de este martes 17 de noviembre, en el bulev",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "77c08062de3a2322"
+ },
+ {
   "titulo": "Atacan a familia con balas en Tijuana; una persona herida",
   "liga": "https://elcongresista.mx/seguridad/ataque-familia-tijuana-granjas-familiares",
   "medio": "El Congresista",
@@ -416,6 +486,20 @@
   ],
   "local": true,
   "id": "d4e860b1ad008766"
+ },
+ {
+  "titulo": "FGE detiene a Jonathan “N”, por homicidio del periodista Eduardo Flores, en Acapulco",
+  "liga": "https://zetatijuana.com/2026/11/fge-detiene-a-jonathan-n-por-homicidio-del-periodista-eduardo-flores-en-acapulco/?utm_source=rss&utm_medium=rss&utm_campaign=fge-detiene-a-jonathan-n-por-homicidio-del-periodista-eduardo-flores-en-acapulco",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-17T22:53:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T01:23:54-06:00",
+  "resumen": "Los comunicadores de Guerrero preparan una tercera protesta y exigen que no se descarte la línea del crimen de odio.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "042bc6ef23f3ce23"
  },
  {
   "titulo": "Inician pavimentación de la calle Jaras en Rincón Tecate tras más de 25 años de solicitudes",
@@ -1867,6 +1951,20 @@
   ],
   "local": true,
   "id": "b52c8a89cec51fcf"
+ },
+ {
+  "titulo": "Águilas a la cima del standing",
+  "liga": "https://oem.com.mx/lavozdelafrontera/deportes/aguilas-a-la-cima-del-standing-33188802",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T20:18:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T01:23:54-06:00",
+  "resumen": "El cuadro emplumado se coloca en el primer lugar de la primera vuelta tras el triunfo ante Hermosillo por 2-13",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "71bb18b51efce295"
  },
  {
   "titulo": "Morelos mejora posición en alfabetización, del lugar 31 al cuarto",
