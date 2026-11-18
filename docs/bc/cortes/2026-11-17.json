@@ -1,5 +1,552 @@
 [
  {
+  "titulo": "Analizan propuesta para venta de alcohol en cines y teatros de Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXgzb29iNGFaeG1yRDBDbUFsUHk4SG03RWUxLUNXRllCLWE4UE54RTJfbWMtcGVaZTB6SnZFUmFXbW1JejloWE1ueDdYcHY4UlNkOWxqenhkaXNQVVlPZ19hV09BQlJ5djRDWkk0TGxLZVRXbnI4d05lQU1fZmxGNnZPQ0JSSWxjNnJSWkYtclhWZHdhVjQ4YVpwMmN0QlNVdl9IY3EwVklfMThIT0gxRDNpN18wM0NGTTNYZlJsZw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T18:22:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Analizan propuesta para venta de alcohol en cines y teatros de Mexicali AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ea7a695929b34043"
+ },
+ {
+  "titulo": "No hay casos de \"diarrea explosiva\" en la región, afirma el secretario de Salud en BC",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTERvZThRRzRUdXUtNzNwMTNLWmhpMUZWZWMwVTcxdWhWQlV3Y0ZHTmtJMkR6eFl2bTJRUktaRzBkdFpTZnNhOXRMaHNZUjNLbG51ZU1Nc21DdGNkdnVIdkV0TUc2Z1JlaUVCOEpiZ0dQc283dXJSbnYwUUhlVnRYZ04tNXVJTy1xZlQzclJyM0l5d2x3YnlHNXljWHlYNTdKbmZRMHM4cUZ2c1hRMDRpN3VBTkFiR3ZEdlNfNEVPTTRrVlZYNlZNeWNJYTFsdw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T18:20:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "No hay casos de \"diarrea explosiva\" en la región, afirma el secretario de Salud en BC AFN",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": false,
+  "id": "15f394bbd6095dd0"
+ },
+ {
+  "titulo": "Recomiendan evitar las aguas costeras de San Diego durante las lluvias y hasta 72 horas después",
+  "liga": "https://www.uniradioinforma.com/gobierno/recomiendan-evitar-aguas-costeras-san-diego-durante-lluvias-72-horas-despues-n914915",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T18:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Las precipitaciones pueden arrastrar bacterias y aguas residuales al océano y las bahías, lo que representa un riesgo para la salud de quienes nadan, surfean o bucean.",
+  "temas": [
+   "Salud",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "c454c7a5d36479a4"
+ },
+ {
+  "titulo": "Frente frío 7 provocará lluvias y descenso de temperaturas en Sonora",
+  "liga": "https://www.uniradioinforma.com/gobierno/frente-frio-7-provocara-lluvias-descenso-temperaturas-sonora-n914913",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T18:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Se esperan amaneceres fríos, principalmente en los municipios de la región montañosa de Sonora.",
+  "temas": [
+   "Clima",
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "3b0777148dc63fb8"
+ },
+ {
+  "titulo": "Baja California tiene 57 laboratorios STEAM en sus escuelas con kits de robóticas e impresoras 3D",
+  "liga": "https://puntonorte.info/2026/11/17/baja-california-tiene-57-laboratorios-steam-en-sus-escuelas-con-kits-de-roboticas-e-impresoras-3d/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-17T18:09:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Mexicali.- Baja California cuenta con 57 laboratorios STEAM equipados con kits de robótica, impresoras 3D, computadoras y pantallas interactivas, en los que estudiantes de educación básica y media superior desarrollan habilidades relacionadas con la ciencia, la tecnología y la in",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "3077d919271cb6b0"
+ },
+ {
+  "titulo": "Trasvase de El Cuchillo a Marte R. Gómez opera al 90% de capacidad",
+  "liga": "https://elcongresista.mx/tamaulipas/trasvase-el-cuchillo-marte-r-gomez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T18:05:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "El trasvase de El Cuchillo hacia la presa Marte R. Gómez sigue, a pesar de que esta última alcanza el 90% de su capacidad.",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "a52a34ecd9e95a18"
+ },
+ {
+  "titulo": "Aprueba Legislatura de Tierra del Fuego Ley de Financiamiento Educativo",
+  "liga": "https://elcongresista.mx/educacion/ley-financiamiento-educativo-tierra-del-fuego",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T18:04:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "La Legislatura de Tierra del Fuego aprobó la Ley de Financiamiento Educativo con el voto decisivo de Victoria Vuoto tras una votación empatada.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "a2ac260857fb2f4d"
+ },
+ {
+  "titulo": "Toro que dejó 11 heridos en feria de Xmatkuil se asustó, afirma IPFY",
+  "liga": "https://elcongresista.mx/politica/yucatan/toro-heridos-feria-xmatkuil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T18:02:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Un toro en la feria de Xmatkuil hirió a once personas al asustarse por la multitud, según el director del IPFY.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4a16f4771f96a645"
+ },
+ {
+  "titulo": "Incautan basura espacial de SpaceX en Playa Bagdad, Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/basura-espacial-spacex-playa-bagdad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T18:01:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Basura espacial de SpaceX en Playa Bagdad provoca muertes de delfines y tortugas. PROFEPA investiga la llegada de desechos.",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "28cc1ecfe68f4f65"
+ },
+ {
+  "titulo": "Gobernador de Yucatán presenta 18,176 viviendas en Ciudad Renacimiento",
+  "liga": "https://elcongresista.mx/politica/yucatan/proyecto-habitacional-ciudad-renacimiento",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T18:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Joaquín Díaz Mena presenta \"Ciudad Renacimiento\" en Yucatán, con 18 mil 176 viviendas en un esfuerzo por ordenar el crecimiento de Mérida.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "54e6ff7714206b50"
+ },
+ {
+  "titulo": "Regresará Ricardo Arjona a Tijuana con nueva gira",
+  "liga": "https://www.uniradioinforma.com/sociedad/regresara-ricardo-arjona-tijuana-nueva-gira-n914909",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T17:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "El cantautor guatemalteco ofrecerá un espectáculo de gran formato en el Estadio Caliente, con un recorrido por sus éxitos y canciones de su más reciente producción.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "7f47d91890c996ab"
+ },
+ {
+  "titulo": "Julieta Ramírez estrecha alianzas con diputados de Morena en BC",
+  "liga": "https://www.uniradioinforma.com/sociedad/julieta-ramirez-estrecha-alianzas-diputados-morena-bc-n914907",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T17:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "La coordinadora estatal continúa articulando esfuerzos con los distintos liderazgos del movimiento para fortalecer la organización y el trabajo político en la entidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "36e4bb5f251da85f"
+ },
+ {
+  "titulo": "Caravanas de la salud estarán en la colonia Todos Santos",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uLU9tNXdZcWR5dzZfdDdNenNxejJ4NlhJOVBnSHVObm5jdUJVVy1URE9OREtPMDB6ODRoRkQ3a2o0WmktZmtEWkJxdzNIdFNWQU8xcXpxMGtKTVU?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-17T17:55:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Caravanas de la salud estarán en la colonia Todos Santos Ensenada.Net",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "ce88ddeb7b1f1e1a"
+ },
+ {
+  "titulo": "Paolita Suárez acepta reto frente a las cámaras y desata polémica en La Mansión VIP",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORDdaaGpyYktOUDR2aDdXdUNCSER4LVQ0enpUR0E2YU5hdzRPbGNzdzFaZXhUbnFSQ1dON2F6Z0xTemFNaWgyNWxIM3J1UWZYb3Uxb01pbGFKU0NNZGJtaFE3RmFXeFNnNnhTWHJkSFJOV0lnMVV4SXk2U1dJM3JSRFJ5VVVJdjFHZVI2RXZHRDlwd0tTaXh2SlRjTGJkVHdIblIzRmRzVGRHR2MxVWRsa3EyM1A3UmVDYUl1OUJOSTIwWlk?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T17:53:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Paolita Suárez acepta reto frente a las cámaras y desata polémica en La Mansión VIP Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "915c859523da0fd9"
+ },
+ {
+  "titulo": "Buscan a Madre e hijo de San Quintín desde el mes de julio",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aenFfekpVekFXRE14QlJaVTR0RmNyWl94ZlFBRmNHNFE1LWl2dVFuOHVpNHlRV1dXV0lfTHNDNVd1RENpZVdIRlF6VHFmWnhJRzJhZU5kaDQ2ZEZtRTFiT09IelN1bXRRWWlNMkxn?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-17T17:51:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Buscan a Madre e hijo de San Quintín desde el mes de julio Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "07f1c912653c4a03"
+ },
+ {
+  "titulo": "FGE detiene a presunto integrante de célula criminal dedicada al secuestro de migrantes en Tijuana",
+  "liga": "https://elportavoznoticias.com.mx/fge-detiene-a-presunto-integrante-de-celula-criminal-dedicada-al-secuestro-de-migrantes-en-tijuana/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-17T17:49:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "La Fiscalía General del Estado (FGE) cumplimentó una orden de aprehensión contra Héctor “N”, señalado por su probable responsabilidad en el delito de secuestro agravado, como resultado de una investigación relacionada con... La entrada FGE detiene a presunto integrante de célula ",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": true,
+  "id": "5094fc9f845d8562"
+ },
+ {
+  "titulo": "Detienen a 4 personas por daños a la Presidencia Municipal de Camargo",
+  "liga": "https://elcongresista.mx/tamaulipas/detienen-a-4-personas-danos-presidencia-municipal-camargo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:49:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Cuatro personas fueron detenidas en Tamaulipas por daños en la Presidencia Municipal de Camargo durante una manifestación.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "03b71bbdf014c77e"
+ },
+ {
+  "titulo": "Sindicado denuncia amenazas al periodista Alejandro López en Oaxaca",
+  "liga": "https://elcongresista.mx/politica/oaxaca/amenazas-alexandro-lopez-oaxaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:47:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "El Sindicato Nacional de Medios denuncia amenazas contra el periodista Alejandro López en Oaxaca tras su cobertura informativa local.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "552023ba96cfeb99"
+ },
+ {
+  "titulo": "Buscan, otra vez, ampliar el subsidio a la tarifa eléctrica para Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0psVm0wSFdud0RTeE1wcHFPaUtVeklmVW9hUWNsNk5CaEsxVlFkT2FDTWlack45cEFXTXZsdF9PUXFzbS1oeEhrakhKV1BmeGt6YmpVRE1qZzFRZDgtWjIzeXdhRE1ISEVVcUtWV3U2OGUzcDkzSGQ3c2hCcE1UeEdXX2JzVE9OTXB5N01ybTJpVDdia1B6Ui15bjdhTDlwdE9rNTM1SGFXdGJKbnI1MDRybk9xMXh1UFNyQS11aw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T17:47:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Buscan, otra vez, ampliar el subsidio a la tarifa eléctrica para Mexicali AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "15b49bfa2944d5d6"
+ },
+ {
+  "titulo": "Nuevo León aprueba presupuesto de 177 mil 939 mdp para 2027",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/nuevo-leon-presupuesto-177939-mdp-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:47:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Nuevo León presenta un presupuesto de 177 mil 939 millones de pesos para 2027, priorizando infraestructura, salud y educación.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c92167c3be211010"
+ },
+ {
+  "titulo": "Alerta en Estados Unidos por ataque informático contra 178 organizaciones",
+  "liga": "https://www.uniradioinforma.com/ciencia-tecnologia/alerta-estados-unidos-ataque-informatico-178-organizaciones-n914905",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T17:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "El Ataque cibernético expuso información financiera de usuarios de grandes plataformas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a4ac7091c5e5a45c"
+ },
+ {
+  "titulo": "Rescatadas nueve personas tras emergencia en el Golfo de México",
+  "liga": "https://elcongresista.mx/politica/yucatan/rescate-nueve-personas-golfo-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:46:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Nueve personas fueron rescatadas con vida tras una emergencia en el Golfo de México; su embarcación sufrió una avería.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a732206e186c18bf"
+ },
+ {
+  "titulo": "Tres adolescentes son juzgados por dar vape a niña de 2 años en Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/tres-adolescentes-juicio-vape-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:45:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "En Sonora, tres jóvenes están siendo juzgadas por dar un vape a una niña de 2 años en una funeraria.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "05c4f833b052d3ec"
+ },
+ {
+  "titulo": "Gobierno de Burgueño desaira reunión sobre problemática del malecón de Playas de Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/gobierno-de-burgueno-desaira-reunion-sobre-problematica-del-malecon-de-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-burgueno-desaira-reunion-sobre-problematica-del-malecon-de-playas-de-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-17T17:45:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Sidurt buscará recursos para seguir rehabilitando baches y alumbrado en el Corredor 2000. Se compromete a reparar socavones y a crear retornos provisionales en la zona",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "74e6a0056a0519de"
+ },
+ {
+  "titulo": "Aumentan en 145% las medidas de protección a mujeres en BC: FGE",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/aumentan-en-145-las-medidas-de-proteccion-a-mujeres-en-bc-fge/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-17T17:43:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "La fiscal dio a conocer que se cumplimentaron 3 mil 687 órdenes de aprehensión y se judicializó a 27 mil 126 personas La entrada Aumentan en 145% las medidas de protección a mujeres en BC: FGE se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "dd04934c5d394e4a"
+ },
+ {
+  "titulo": "Plasmarán murales de la obra \"Tu México en Tijuana\" en el Mercado Hidalgo",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEZGUXA2cS1EWGI4a29BNlFMcTlFUnhyd0dOUXJoUFRTdzZzZHY4akZOcTRLenFoaV8xMDREMm9MME9jWk9EN0xTdFNScENaSzdmeV9VNEdJX3lRbkRicUFDMlFwelViV1lSYVFzVU9KTmhfSk1pVkdmYjF6UnJPU2trNXRKNGVKZVpFRUl3R3ZfQlVRQ0FTdk9FS3hXVGV5ZmdLY0YyWkNuMnhhVGlqVWhLb191b01GaTQ1TVVwTQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T17:42:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Plasmarán murales de la obra \"Tu México en Tijuana\" en el Mercado Hidalgo AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3706ca7dd21146b7"
+ },
+ {
+  "titulo": "Ensenada: atacaron tres escuelas públicas, robaron materiales e intentaron provocar incendios",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXJSMW1ZUUdpV2NWazZYWUpCZUgzcFRfenJ5MUs1bEx5Ym1leUkzbGJ3cEcyNmpwMzFONmZNYndQT2JtUGpTZ0VpMGVPSTUycnZkbmdwWVJNb2Y0OVB0S1JEbURkY2x2LWVxWlhJNko4NzgxV1dEb3VoZWlESTBLbjVaTTFpcmo0dXJTLWdYT3JHZDYyeV9qc29XcE9RNElOYXFXTFZJSnB5azV5aHhMNnVZVmNVQ2JZTXk0SUdB?oc=5",
+  "medio": "Diario El Norte - San Nicolás",
+  "publicada": "2026-11-17T17:41:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Ensenada: atacaron tres escuelas públicas, robaron materiales e intentaron provocar incendios Diario El Norte - San Nicolás",
+  "temas": [
+   "Educación",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "8a0b26d49229207c"
+ },
+ {
+  "titulo": "No hay prisa para crear la comisión que investigue la elección del 2006: Monreal",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2FDdTgwODh4bk55bzFoZU83bzE3OGk1aF8zVDFwR1NFY0duYmE0NUtJbTdoMnVQQkQ0NDRscnRsTzRqR1hLcGRSZDNGNDhXSHdCUGU2aWxSOUFMaXRDNTNUbi1IcVZSMy1fcllBSDY2TWJyTUxUajFJMVNDbzlqUlFEM0xudFVMb2pSVVhQalpPWW1tUW1LenBUM3Vfa3lqTDVwSTVFZGxDLWhjVTc5QzFLMUpwMmk1dzVPSHZB?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T17:39:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "No hay prisa para crear la comisión que investigue la elección del 2006: Monreal AFN",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "d63002e992c21b56"
+ },
+ {
+  "titulo": "Resultados Tris Extra hoy 17 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-extra-sorteo-36955",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "El sorteo Tris Extra número 36955 se celebró este 17 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7e467ab733febf52"
+ },
+ {
+  "titulo": "Resultados Tris De las Tres hoy 17 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-tres-sorteo-36954",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:35:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "El sorteo Tris De las Tres número 36954 se celebró este 17 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "40995234abf72e67"
+ },
+ {
+  "titulo": "Tres mujeres relatan sus vivencias sobre el cáncer de cuello uterino",
+  "liga": "https://elcongresista.mx/salud/cancer-cuello-uterino-tres-mujeres-colombianas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:34:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Tres mujeres colombianas comparten sus experiencias con el cáncer de cuello uterino para fomentar la prevención y la detección temprana.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "c90bbdf1fcac59df"
+ },
+ {
+  "titulo": "Investigan a tres adolescentes por dar vapeador a una niña y difundir video",
+  "liga": "https://www.uniradioinforma.com/policiaca/investigan-tres-adolescentes-dar-vapeador-una-nina-difundir-video-n914902",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T17:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Son investigadas por la presunta comisión de los delitos de maltrato infantil y violación a la privacidad, informó Gustavo Salas Chávez.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8b4ff0109ed00cec"
+ },
+ {
+  "titulo": "Cientos despiden a regidora y líder del PRI asesinados en Texhuacan",
+  "liga": "https://elcongresista.mx/politica/veracruz/cientos-despiden-regidora-lider-pri-texhuacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:32:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Cientos de personas rinden homenaje a Juana Tzanahua y Gervasio Hernández, asesinados en Texhuacan, Veracruz.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "b15521e0c3786c52"
+ },
+ {
+  "titulo": "Xolos tendrá entrenamiento público este jueves en el Estadio Caliente",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmdCWnMtZ2p2OGJCX3c4N0JUOVE4d1hTWW1WeVUwNHBIYVQ4QjNBMVNvQ1E1R2JjeVIxNXFGVDdyOGdPZTZaR2hlR2JXUWFIdGhUNTNUQzdpcDZCSC1nck1fZEZvMUJRVGJsV2Zsc1FYend6ZzU0ZGVZaFN2TjBKcGJjN2gzaTlQMlFVUGlNZkNMb24ta2lHZ1VWNWMxeHpfWFVHSzZUYw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-17T17:32:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Xolos tendrá entrenamiento público este jueves en el Estadio Caliente Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "a1823fa9181add1b"
+ },
+ {
+  "titulo": "73% del mundo apoya prohibir redes sociales a menores",
+  "liga": "https://elcongresista.mx/educacion/73-porciento-prohibe-redes-sociales-menores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:32:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "La mayoría del mundo apoya prohibir redes sociales a menores, mientras una parte acepta la IA en la educación, según Ipsos.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "1b8f7c554d29a84d"
+ },
+ {
+  "titulo": "Margarita Sánchez dice que Verónica Ruffo no tiene experiencia ni conoce BC, pero que se uniría a su campaña si el PAN la hace candidata",
+  "liga": "https://puntonorte.info/2026/11/17/margarita-sanchez-dice-que-veronica-ruffo-no-tiene-experiencia-ni-conoce-bc-pero-que-se-uniria-a-su-campana-si-el-pan-la-hace-candidata/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-17T17:31:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Tijuana.- La aspirante a la candidatura del Partido Acción Nacional (PAN) a la gubernatura de Baja California, Margarita Flores de Sánchez, consideró que la hija del ex gobernador de Baja California, Verónica Ruffo, una de sus contrincantes en el proceso interno, no conoce las pr",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "9d6d2b45c7512c1a"
+ },
+ {
+  "titulo": "Nvidia reporta ingresos de 115,849 MDD tras controversia reciente",
+  "liga": "https://elcongresista.mx/tecnologia/nvidia-ingresos-115849-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:31:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Nvidia reporta ingresos de 115,849 millones de dólares a pesar de la controversia por su CEO, y mantiene planes de crecimiento.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b0719f767149aa6a"
+ },
+ {
+  "titulo": "Gobierno ofrece créditos de hasta 20 millones para pymes en México",
+  "liga": "https://elcongresista.mx/finanzas/creditos-gobierno-pymes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T17:31:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "El Gobierno federal ofrece créditos de hasta 20 millones de pesos para pymes en México, impulsando su crecimiento y desarrollo.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "2407e09b3bfc62ac"
+ },
+ {
   "titulo": "Localizan sano y salvo a joven extraviado en la sierra de La Rumorosa tras más de 12 horas de búsqueda",
   "liga": "https://elportavoznoticias.com.mx/localizan-sano-y-salvo-a-joven-extraviado-en-la-sierra-de-la-rumorosa-tras-mas-de-12-horas-de-busqueda/",
   "medio": "El Portavoz",
@@ -3054,6 +3601,21 @@
   "id": "768163a203c75b1f"
  },
  {
+  "titulo": "Invertirán 68 millones de pesos en pavimentación para el Valle de Mexicali",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/invertiran-68-millones-de-pesos-en-pavimentacion-para-el-valle-de-mexicali-33184010",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T13:01:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Los trabajos se realizarán en varias colonias, así como en algunas carreteras que se encuentran en mal estado y que serán reconstruidas",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "e5832c29214b6a89"
+ },
+ {
   "titulo": "Denuncian Irregularidades en Custodia de Cuerpo en SEMEFO de Ensenada, BC",
   "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdllTWHN5a0p5Y1M1T2I5aDhidDNOYVlUY3NtVUw2RFl0V1NyQUhSUFBRMi13ZzE2RnVtdTBlYlA4X0ZHd3pEd0FPenM2ZlQ3RjNMdnRXT0FfblZoMEN1WEZXZ1dtdVV2bzhPZ0wtV0xXVDVQLU1WT1dHMUp2SVdFbWUzSnNvZ3h3Q2lXa0NneFoxS1I0QlBRb0FPbGFzSVJZWlR5d1RQTy1RTXFFVXphRzl1RGZmRXV2b1ROVjFPTQ?oc=5",
   "medio": "N+ Baja California",
@@ -3150,6 +3712,20 @@
   ],
   "local": true,
   "id": "027c1e749e168e5f"
+ },
+ {
+  "titulo": "Anuncian calendario de peregrinaciones y misas para las festividades guadalupanas 2026",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/anuncian-calendario-de-peregrinaciones-y-misas-para-las-festividades-guadalupanas-2026-33181416",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-17T12:57:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "El sábado 12 de diciembre, la Catedral permanecerá abierta durante toda la noche, la programación contempla una misa y el rezo del Rosario cada dos horas, desde las 2:00 hasta las 20:00 horas",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "37b54b2263b53ab4"
  },
  {
   "titulo": "Noticias sobre zonas de deslizamiento",
@@ -3334,6 +3910,20 @@
   ],
   "local": true,
   "id": "baf928ecc820a968"
+ },
+ {
+  "titulo": "¿Perdiste o te robaron la tarjeta del Bienestar? Así puedes retirar dinero y reponerla",
+  "liga": "https://oem.com.mx/elsoldetijuana/finanzas/te-robaron-o-extraviaste-tu-tarjeta-de-bienestar-asi-puedes-reponer-tu-tarjeta-33182257",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-17T12:36:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Mientras llega el nuevo plástico, los beneficiarios pueden retirar efectivo en ventanillas del Banco del Bienestar",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9e0e7b5ebe9b12ea"
  },
  {
   "titulo": "Tijuana refuerza preparativos ante posibles efectos del fenómeno de El Niño",
@@ -9752,6 +10342,20 @@
   ],
   "local": false,
   "id": "1c039583011fd0ec"
+ },
+ {
+  "titulo": "Noticias sobre denis villeneuve",
+  "liga": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51M0s1TlRpSGZzZzc5TnlCWTBNbk9VcnR5NzFWZU9tZFlob3hMbHM0RzFsQ1FzUTlnZDJqOUcwdEVNUUQwYmE5V2JWR2E1WDZEWjlsZnozNHBJVEVmRlROTWkwa0w?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-16T19:53:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T18:26:17-06:00",
+  "resumen": "Noticias sobre denis villeneuve Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8a3d82f740b79097"
  },
  {
   "titulo": "Noticias sobre retrasos aereos",
