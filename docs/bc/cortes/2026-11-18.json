@@ -1,5 +1,309 @@
 [
  {
+  "titulo": "Detienen a implicado en el homicidio del hijo del alcalde de Tecamachalco",
+  "liga": "https://elcongresista.mx/politica/puebla/detenido-implicado-homicidio-hijo-alcalde-tecamachalco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:50:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "La FGE de Puebla detiene a un implicado en el homicidio de Mateo Hernández, hijo del alcalde de Tecamachalco, mientras las investigaciones avanzan.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f52257487bcde2c0"
+ },
+ {
+  "titulo": "Destruyen laboratorio de drogas sintéticas en Tiquicheo con 12 mil litros de químicos",
+  "liga": "https://elcongresista.mx/politica/michoacan/destruyen-laboratorio-drogas-sinteticas-tiquicheo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:48:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Destruyen laboratorio de drogas sintéticas en Tiquicheo, asegurando más de 12 mil litros de precursores químicos en un operativo conjunto.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d964259712786332"
+ },
+ {
+  "titulo": "Concurso de Dibujo Infantil en Morelia cierra el 30 de noviembre",
+  "liga": "https://elcongresista.mx/politica/michoacan/concurso-dibujo-infantil-morelia-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:47:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Niños de Morelia pueden participar en concurso de dibujo con premios hasta 3 mil pesos hasta el 30 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5d3b11239c4cf405"
+ },
+ {
+  "titulo": "Instituto de Estudios Superiores en Seguridad forma a 180 policías",
+  "liga": "https://elcongresista.mx/politica/michoacan/instituto-estudios-superiores-seguridad-180-policias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:46:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "El Instituto Estatal de Estudios Superiores en Seguridad cierra la formación de 180 nuevos policías que fortalecerán la Guardia Civil en Michoacán.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4040418cc411486e"
+ },
+ {
+  "titulo": "Media Luna realiza concierto benéfico tras robo de instrumentos en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/media-luna-concierto-morelia-instrumentos-robados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:45:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Media Luna realizará un concierto en Morelia el 19 de noviembre para recaudar fondos y recuperar instrumentos robados en agosto.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "59344395fe45b98c"
+ },
+ {
+  "titulo": "Interceptan a 81 migrantes en cuatro embarcaciones que ingresaron de forma ilegal a EEUU",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM0VrdUh6SVZPSVVlbWV6WWNOOGNOeWFnaF9aeDJ3Rm91WE1obzY5TG8xVG5odXF6RmlfNjRqNFdZSUF4ckJWaGZPaHdJOGNsWU9LU3IycUttRU1fMTNEcFN4SW11VklGUkRrN1RYaHk5M0ZtTjFNcUs0NzVJZnBRdnNmSmZ6d0pnXzV2ai0yS3ZQbXhFWVNyZjJ0WWdPZ2JXdTJqa19meWhQcmxBOUlCRFZmSWluRUZqV05vSXlLODMzVXNPLVo2ZU5rZUtNWmR4Q1JnbDV3?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T19:41:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Interceptan a 81 migrantes en cuatro embarcaciones que ingresaron de forma ilegal a EEUU AFN",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "5282daab5081aebb"
+ },
+ {
+  "titulo": "Inician Rehabilitación de Edificio de Cruz Roja Lázaro Cárdenas en Mexicali, BC",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcktJM2VzSGYwRzRjbWZwdV9ZMFVIWEUyODl5em1PNktrcUNBTnBLbWZkNEY3MHJHMmtvRUxqenUyU1FqQzFtZTl5QlVJYVE1M0hMdDN4SFpkRUVCSjFIZU4tSXRkVE5BRktMeVluOEtzNmgyM2ZiTHp6Uy1zc2FWSUV4RkQ2WnB5RUpVeWM4bHBNNVRlcmR0eWdqZTFVUTZWYnQzZkVGX3lLQVYzMldrb3ZIZDRhTjF1ZVNKU1Z2RkpJVjkzN1FB?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-17T19:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Inician Rehabilitación de Edificio de Cruz Roja Lázaro Cárdenas en Mexicali, BC N+",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "b39e10db6eba1a3f"
+ },
+ {
+  "titulo": "Ensenada Bay Village afectaría al sector turístico de la ciudad, advierten comerciantes",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2hnOG5mbkV0bk5TMjZ0ZGlvMUlzX1FKZk9LV3NPRXY5V29BQWVBVWZISGtTM2dqaFhlRzlmcWhUWldwRUx3eWNVZzkwbnZJaHpQV3FmVHp3WVpITkZxVUxBTEdLM2xQUEdER1AyM05EUWI2SElaN3hnOERvVGp2aVdJYTRUTXk5ZHpKbkdjdHlpT1otczZKZEVEVGNjb0dwR0RpUGZJT25hRmxJbTNwSXg2b3FFQldJbEhFeXIyOW1Qd0lOcXFXVzZmMVp1UU5w?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-17T19:38:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Ensenada Bay Village afectaría al sector turístico de la ciudad, advierten comerciantes El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a76ef9e36411f68a"
+ },
+ {
+  "titulo": "Suma Sonora 183 casos de dengue en una semana; Hermosillo concentra 975",
+  "liga": "https://www.uniradioinforma.com/salud/suma-sonora-183-casos-dengue-una-semana-hermosillo-concentra-975-n914932",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T19:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Van 2 mil 670 contagios acumulados en 2026.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "b2646ba66de152c2"
+ },
+ {
+  "titulo": "Arranca brigada médica de José Alberto Granados Fávila en Matamoros",
+  "liga": "https://elcongresista.mx/tamaulipas/brigada-medica-jose-alberto-granados-matamoros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:35:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "El alcalde de Matamoros, José Alberto Granados Fávila, inicia brigada médica gratuita en colaboración con Pemex, mejorando la salud pública local.",
+  "temas": [
+   "Gobierno municipal",
+   "Salud"
+  ],
+  "local": false,
+  "id": "be130d293d5592e8"
+ },
+ {
+  "titulo": "Resultados Tris De las Siete hoy 17 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-siete-sorteo-36956",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:35:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "El sorteo Tris De las Siete número 36956 se celebró este 17 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3f5219e2eafa174b"
+ },
+ {
+  "titulo": "Sara recolecta 2,153 toneladas de basura al día en Iztapalapa, CDMX",
+  "liga": "https://elcongresista.mx/politica/cdmx/sara-recolectora-iztapalapa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:33:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Sara, mujer recolectora de Iztapalapa, trabaja arduamente para sostener a su familia ganando 500 pesos diarios en medio de la desigualdad laboral.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9de8446c274940ee"
+ },
+ {
+  "titulo": "Aseguran meta, fentanilo y carro blindado para evasiones ligado Cártel de Sinaloa",
+  "liga": "https://zetatijuana.com/2026/11/aseguran-meta-fentanilo-y-carro-blindado-para-evasiones-ligado-cartel-de-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=aseguran-meta-fentanilo-y-carro-blindado-para-evasiones-ligado-cartel-de-sinaloa",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-17T19:33:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Durante un cateo en el fraccionamiento Vista de Palmillas III, en Tijuana, autoridades federales aseguraron más de una tonelada de metanfetamina, fentanilo y una camioneta blindada con mecanismos para facilitar evasiones, entre ellos un lanzador de aceite, ponchallantas y disposi",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4b0f996de8bd4042"
+ },
+ {
+  "titulo": "INE designa cinco nuevos encargados de despacho en áreas ejecutivas",
+  "liga": "https://elcongresista.mx/politica/nacional/ine-nuevos-encargados-despacho",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:32:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "El INE ha nombrado cinco nuevos encargados de despacho para optimizar su estructura ejecutiva de cara a los próximos procesos electorales en México.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e9bbca01734412a2"
+ },
+ {
+  "titulo": "OPS retira a México el estatus de país libre de sarampión por transmisión sostenida del virus",
+  "liga": "https://zetatijuana.com/2026/11/ops-retira-a-mexico-el-estatus-de-pais-libre-de-sarampion-por-transmision-sostenida-del-virus/?utm_source=rss&utm_medium=rss&utm_campaign=ops-retira-a-mexico-el-estatus-de-pais-libre-de-sarampion-por-transmision-sostenida-del-virus",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-17T19:32:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "La Secretaría de Salud reportó 14 casos activos: 12 en Chiapas y dos en Quintana Roo.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "eefc28341825e023"
+ },
+ {
+  "titulo": "Jufed apoya observaciones del Comité de Derechos de la ONU sobre reformas judiciales",
+  "liga": "https://elcongresista.mx/justicia/jufed-observaciones-comite-onu-reformas-judiciales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:31:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "La Jufed respalda observaciones del Comité de Derechos Económicos sobre reformas judiciales en México que afectan la independencia de la justicia.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "3409bde8c5032b4d"
+ },
+ {
+  "titulo": "Embajada de EU critica a China por fentanilo tras reunión en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/embajada-eu-china-fentanilo-sheinbaum",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:30:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "La embajada de Estados Unidos señala a China como responsable del fentanilo tras la reunión entre Sheinbaum y Xi Jinping.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b3e52443f16d62e9"
+ },
+ {
+  "titulo": "Inauguran el Congreso \"Startups IA Tijuana 2026\"",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmZ3TExzQ0pHMVR3djBhQ1UzbFp2QUdEU1hmUXlQZFdjSVdId0c4Sk5LMm9zMk1PRlVDMVpLRDhBZFdDV19iR0dxV2doWDgwS0lQQ0J4eElrWkU2b1F2a19ieW5nTWlXd29PRndpRTZCaW1QclFZZDlZTVVOSDB3NThqbXhmUVhibWFJWnVCdjVMQW1XTlhsbHhTek9UZw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-17T19:29:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Inauguran el Congreso \"Startups IA Tijuana 2026\" AFN",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "991b21102cf14444"
+ },
+ {
+  "titulo": "Mario Delgado destaca el papel de docentes en escuelas de Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/mario-delgado-escuelas-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:23:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Mario Delgado destaca el esfuerzo de docentes en escuelas integrales de Michoacán durante su visita a una escuela, buscando fortalecer el modelo educativo.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9ef805851f9a7a37"
+ },
+ {
+  "titulo": "Abre Vahi Taa'am, tercer casino de la Tribu Pascua Yaqui en Tucson",
+  "liga": "https://www.uniradioinforma.com/negocios/abre-vahi-taaam-tercer-casino-tribu-pascua-yaqui-tucson-n914930",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-17T19:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "El complejo, operado por Casino Del Sol, tiene una superficie de 153 mil 480 pies cuadrados.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "c22cb795160d6e30"
+ },
+ {
+  "titulo": "Ricardo Moreno entrega arcotecho en canchas de Sauces IV",
+  "liga": "https://elcongresista.mx/estado-de-mexico/ricardo-moreno-entrega-arcotecho-sauces-iv",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:22:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Ricardo Moreno presenta un nuevo arcotecho en Sauces IV, beneficiando a más de 27 mil habitantes en Toluca, mejorando espacios públicos.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "499afb3aee7fa547"
+ },
+ {
   "titulo": "Secretaría de Marina y Fuerza Estatal detienen a persona con presunta metanfetamina en Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWozVnRtYmR3NmFOeEJ2TzNCZ0NJVkJZMHVqT0JnYnItZ3JDWVFiaGxNZ2Vna3V6Yk9KdWlaVGVNa3I2WGYzNXY2YzFKcWlGSG0zeWtaT0p2WkZHQmxrQjhJUDdwWlRJWlJZb0VZLU1HRFYwRVNSbzFQZWpzMGU5NnBFMnJmeDNTLUU0NzM2SQ?oc=5",
   "medio": "www.sinaloahoy.com.mx",
@@ -29,6 +333,22 @@
   "id": "35e07648a26240cc"
  },
  {
+  "titulo": "Prevén mínimas de 0 a 5 grados y lluvias en Coahuila",
+  "liga": "https://elcongresista.mx/politica/coahuila/prevencion-minimas-lluvias-coahuila",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:20:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Se prevén temperaturas de 0 a 5 grados y lluvias aisladas en Coahuila durante los próximos días, según el SMN.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ec0fdb0eb2bc421f"
+ },
+ {
   "titulo": "Instituto Electoral nunca respondió a la UABC sobre propuesta para el PREP: rector",
   "liga": "https://puntonorte.info/2026/11/17/instituto-electoral-nunca-respondio-a-la-uabc-sobre-propuesta-para-el-prep-rector/",
   "medio": "Punto Norte",
@@ -42,6 +362,20 @@
   ],
   "local": true,
   "id": "2d1975d7628cf4ee"
+ },
+ {
+  "titulo": "Banco Mundial estima reducción de pobreza en 17.3 millones de mexicanos",
+  "liga": "https://elcongresista.mx/politica/nacional/banco-mundial-reduccion-pobreza-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-17T19:18:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "El Banco Mundial estima que 17.3 millones de mexicanos superarán la pobreza entre 2018 y 2026, marcando un avance notable.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1554cf6a3fb82279"
  },
  {
   "titulo": "Valentín Elizalde iba a Tijuana antes de su muerte en 2006",
@@ -173,6 +507,20 @@
   ],
   "local": true,
   "id": "9b9cec9d4be24a7b"
+ },
+ {
+  "titulo": "Gobierno de Burgueño desaira reunión sobre problemática del malecón de Playas de Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/gobierno-de-burgueno-desaira-reunion-sobre-problematica-del-malecon-de-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-de-burgueno-desaira-reunion-sobre-problematica-del-malecon-de-playas-de-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-17T19:01:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Sidurt buscará recursos para seguir rehabilitando baches y alumbrado en el Corredor 2000. Se compromete a reparar socavones y a crear retornos provisionales en la zona",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "74e6a0056a0519de"
  },
  {
   "titulo": "Tribunal ordena a García Harfuch supervisar la búsqueda de Carlos Emilio en Mazatlán",
@@ -420,6 +768,21 @@
   ],
   "local": true,
   "id": "d55540159183e580"
+ },
+ {
+  "titulo": "Atiende Gobierno de Ensenada afectaciones por lluvias; se ubicaron 13 viviendas afectadas en la zona de San Carlos",
+  "liga": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KYmFuaWQzMFc0bDJ6MG1zZm81dWdoRk51ekpnQklfMVIzLTB1NHEtSERkd2lHQnJ2cjFzNmFUQWVsU1FkLVRPQi1PeGc?oc=5",
+  "medio": "XXV Ayuntamiento de Ensenada",
+  "publicada": "2026-11-17T18:35:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-17T19:54:51-06:00",
+  "resumen": "Atiende Gobierno de Ensenada afectaciones por lluvias; se ubicaron 13 viviendas afectadas en la zona de San Carlos XXV Ayuntamiento de Ensenada",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "f9fe1d55be78518a"
  },
  {
   "titulo": "Líderes Pro México impulsa a jóvenes a prepararse para los retos de la vida adulta",
