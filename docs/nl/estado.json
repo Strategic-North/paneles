@@ -1,12 +1,12 @@
 {
  "panel": "Nuevo León",
- "actualizado": "2026-11-19T10:01-06:00",
+ "actualizado": "2026-11-19T11:09-06:00",
  "corte": "2026-11-19",
  "ventana": [
   "2026-11-18T18:30-06:00",
   "2026-11-19T18:30-06:00"
  ],
- "total": 394,
+ "total": 453,
  "fuentes": [
   {
    "fuente": "El Norte",
@@ -21,7 +21,7 @@
   {
    "fuente": "ABC Noticias",
    "ok": true,
-   "notas": 145
+   "notas": 147
   },
   {
    "fuente": "Posta",
@@ -31,7 +31,7 @@
   {
    "fuente": "N+ Monterrey",
    "ok": true,
-   "notas": 22
+   "notas": 19
   },
   {
    "fuente": "Hora Cero",
@@ -55,13 +55,13 @@
   },
   {
    "fuente": "Google News: \"Nuevo León\"",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:milenio.com Monterrey",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:info7.mx",
@@ -80,8 +80,8 @@
   },
   {
    "fuente": "Google News: site:elfinanciero.com.mx Monterrey",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:reporteindigo.com Monterrey",
