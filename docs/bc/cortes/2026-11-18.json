@@ -1,5 +1,588 @@
 [
  {
+  "titulo": "Miller Lite presenta BBQ Masters en MTY con dos jornadas de sabor.",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/miller-lite-bbq-masters-monterrey",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:26:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Miller Lite presenta BBQ Masters en Monterrey el 22 de noviembre, una experiencia gastronómica con pitmasters de Austin y música en vivo.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bf2e22a87482f766"
+ },
+ {
+  "titulo": "Anuncian regreso de Ricardo Arjona a Tijuana con nueva gira",
+  "liga": "https://zetatijuana.com/2026/11/anuncian-regreso-de-ricardo-arjona-a-tijuana-con-nueva-gira/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-regreso-de-ricardo-arjona-a-tijuana-con-nueva-gira",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-18T18:22:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "El cantautor guatemalteco ofrecerá en esta frontera un espectáculo de gran formato, con un recorrido por sus éxitos y canciones de su más reciente producción.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "211d395485efeba9"
+ },
+ {
+  "titulo": "Pesticidas y cambio climático ponen en riesgo a la mariposa monarca",
+  "liga": "https://elcongresista.mx/politica/michoacan/pesticidas-cambio-climatico-mariposa-monarca-secma",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:20:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "La Secma alerta sobre las amenazas que sufren las mariposas monarcas por pesticidas y cambio climático en su migración hacia México.",
+  "temas": [
+   "Clima",
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "77a4344a2ff87c2f"
+ },
+ {
+  "titulo": "Hay detenidos por el ataque a guardias en rancho de Tecate; no fue agresión directa, dice la fiscal",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMHoyTFZ5WWlKV0FjaTJoU0M0endUY3hUR3dLXzNBdzdGR19fWE0wR19kR1NWUzVIdDlPOVU5QmtFOTQxNlRXTWUyZS1tTHFFMkU2Zm9LWC1NRXQtVmlRRTVWdUNFQ3ZFbHJKX1dBaWxTQXBEaUpkSXVycXJRTC1NeVhlRFd3UWpkSjlMQXlET1EzVXdtTDVaSjhmNzNHSXRvMklfOC1LQ0ZGM2VIMU1hOVRzRFdwNl9JRUxjOWFCRXdjMWRkNmdkZmFaTnEwTnhUMEVqYnNRejFiODdsak9fQlB3?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-18T18:19:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Hay detenidos por el ataque a guardias en rancho de Tecate; no fue agresión directa, dice la fiscal AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "42e97f757aa132c2"
+ },
+ {
+  "titulo": "Entregan 10 certificados de conservación para 10 mil ha en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/certificados-conservacion-patzcuaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:19:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Entregan 10 certificados de conservación en Michoacán, protegiendo más de 10 mil hectáreas de bosques en la cuenca del lago Pátzcuaro.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e7e28ee0f84e7f23"
+ },
+ {
+  "titulo": "Congreso de Michoacán exhorta al Senado por vacantes en el Teemich",
+  "liga": "https://elcongresista.mx/politica/michoacan/congreso-michoacan-senado-vacantes-teemich",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:18:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "El Congreso de Michoacán exhortó al Senado a llenar dos vacantes en el Teemich ante el riesgo de no contar con quórum en las próximas elecciones.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "966567ba7b9aec46"
+ },
+ {
+  "titulo": "Dan 10 días a familias para acreditar propiedad de terrenos en la playa municipal de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYUI0b2VBc3U2RTJNaDRnUmQ0Ulk0TDVJVl9JdnZGalV1QWJ1RlFaY0N3MXBUVmpHRzhIQWc1a2Ftd28zYmgyVE95RnNTRVA4OW9aZmIyZm0wMFo1MGZUUnlCN2pnN3QwSjJhcTdlcWp3cHRQUTF6WWRsam83R1RubDhwdEduM2ZYN1Y0ZnZTZlhFbnZTNE5aM0xPREtZZUxSVngya1JiVWZiTkdSaGpBTlRZRHhuZDJMbDFGbWV4Zm9fazVB?oc=5",
+  "medio": "Semanario ZETA",
+  "publicada": "2026-11-18T18:17:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Dan 10 días a familias para acreditar propiedad de terrenos en la playa municipal de Ensenada Semanario ZETA",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cf3a0014d72b3a74"
+ },
+ {
+  "titulo": "PVEM en Tabasco descarta alianza con Morena y niega respaldo a candidatura de “Andy” López Beltrán",
+  "liga": "https://zetatijuana.com/2026/11/pvem-en-tabasco-descarta-alianza-con-morena-y-niega-respaldo-a-candidatura-de-andy-lopez-beltran/?utm_source=rss&utm_medium=rss&utm_campaign=pvem-en-tabasco-descarta-alianza-con-morena-y-niega-respaldo-a-candidatura-de-andy-lopez-beltran",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-18T18:12:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "El PVEM competirá por separado en los seis distritos federales de Tabasco, sin acuerdos con Morena ni con el PT.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "cedf96b6193c996e"
+ },
+ {
+  "titulo": "Denuncian buscadoras de BC abandono del Estado en brigada nacional de búsqueda",
+  "liga": "https://jornadabc.com.mx/principales/denuncian-buscadoras-de-bc-abandono-del-estado-en-brigada-nacional-de-busqueda/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-18T18:10:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "“Nadie, absolutamente nadie de la Policía Estatal, Policía Municipal, Fiscalía ni Guardia Nacional quiso subir a acompañarnos”, reclamó La entrada Denuncian buscadoras de BC abandono del Estado en brigada nacional de búsqueda se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "323bbcccaad08c21"
+ },
+ {
+  "titulo": "Avioneta se desploma y se incendia en Apodaca, Nuevo León; hay heridos",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/avioneta-apodaca-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:09:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Una avioneta se desplomó en Apodaca, Nuevo León, dejando heridos. Ocurrió cerca del Aeropuerto Internacional del Norte.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "57fd25d1ecfb3b0f"
+ },
+ {
+  "titulo": "63 fallecimientos por fiebre manchada en Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/63-fallecimientos-fiebre-manchada-sonora-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:08:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "La Secretaría de Salud de Sonora reporta 63 muertes por fiebre manchada en 2026, aumentando la letalidad al 41.7%.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "59d4de6454015c41"
+ },
+ {
+  "titulo": "Se mantendrán cerradas playas en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10bU1FWTZtMFZUZzMxUl9TWmU0c1NDaUliZUpxc3BLQURBbl90WXo0Zi0tR0NiNXY2YWxVSUExclRJejhGeDc3aUFXVEl5bmtOQmd4eVpac19BSlU?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-18T18:07:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Se mantendrán cerradas playas en Ensenada Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d812371aeb3092a0"
+ },
+ {
+  "titulo": "Detienen en Ensenada a “El Checo”, presunto jefe del CJNG",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWhaNGVUUnNDZU9zUUY0cG5yekJTNUo0dWJRbjM1ZUI3RlNHN3ExNUE4MlRnZ2ZxUlNUSXZZMnFDZjJ6TnJwdU5TTDZCX2JBeG1JVzBfV184Mm1tV2E5RG9hbWhHRDYyb0JPcWFOaEtESG5TTkF4TkxydmdBMjRGMk5tQW1UWEhOX3Z1VS1ZMjlDZnJ4RGl1ZHJRTm1INXYwdlBSWnc2RnptNjZ5ZVBYXw?oc=5",
+  "medio": "Identidad Correntina",
+  "publicada": "2026-11-18T18:06:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Detienen en Ensenada a “El Checo”, presunto jefe del CJNG Identidad Correntina",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2b86ce9ff5d30b86"
+ },
+ {
+  "titulo": "Subsidios de agua de CESPT llegan a más de 12 mil personas en Tijuana y Rosarito",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmZwTHhmX2xJSWczWWRrSnhXZXFWcXdtd0ZmRDNLanFEVGVqc2lkYW16a3E0ZUdVWmplWnZRVG44N3pxY1QzdVhjcWM2cnpoNGN4aEFzQVgyUEIyaFBOekZiQWlIMERfX0ZRN1lZaDA3TGdINzlxNC1KekZVN3BPX0NrYVp6UlB3blhZYm1CMVJXNVdYQzJDaUFZZXFVcHNNWExsWkhhQ195TzdVUVFoZE1hU1EtTVE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T18:05:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Subsidios de agua de CESPT llegan a más de 12 mil personas en Tijuana y Rosarito Baja News",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "22811d3aa556bff3"
+ },
+ {
+  "titulo": "Se incendia el piso 11 de la torre Adamant Hipódromo porque vecino hizo una carne asada",
+  "liga": "https://puntonorte.info/2026/11/18/se-incendia-el-piso-11-de-la-torre-adamant-hipodromo-porque-vecino-hizo-una-carne-asada/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-18T18:03:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Tijuana.- Residentes de la torre de condominios Adamant, ubicada sobre el bulevar Agua Caliente frente a Plaza Galerías, fueron desalojados debido a un incendio. Según la información preliminar, el incidente pudo haber sido generado por una carne asada que estaba haciendo uno de ",
+  "temas": [
+   "Agua",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "19ac1307bdaeb5ab"
+ },
+ {
+  "titulo": "Michoacán propone incluir protección de la mariposa monarca en T-MEC",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-proteccion-mariposa-monarca-t-mec",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:03:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Michoacán propone incluir la protección de la mariposa monarca en el T-MEC, buscando resguardar su migración y hábitats.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "448566c95821e49a"
+ },
+ {
+  "titulo": "La agenda binacional fortalecerá la relación entre TJ y San Diego",
+  "liga": "https://elcongresista.mx/politica/baja-california/agenda-binacional-tijuana-san-diego",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:02:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Tijuana y San Diego buscan fortalecer su relación a través de una agenda binacional centrada en movilidad, educación y medio ambiente.",
+  "temas": [
+   "Movilidad",
+   "Medio ambiente",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "117a202d7c2baed3"
+ },
+ {
+  "titulo": "PAN demanda publicación de convocatoria para presidencia del INE",
+  "liga": "https://elcongresista.mx/justicia/pan-demanda-convocatoria-presidencia-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T18:01:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "El PAN presenta una demanda para acelerar la publicación de la convocatoria para la presidencia del INE tras la renuncia de Guadalupe Taddei.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c68cfc15c77f7387"
+ },
+ {
+  "titulo": "Líderes comunitarios en TJ destacan la gestión de Jesús García Castro",
+  "liga": "https://elcongresista.mx/politica/baja-california/jesus-garcia-castro-reconocido-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:49:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Líderes comunitarios destacan la labor de Jesús García Castro en Tijuana, con más de 30 años de trayectoria y cercanía a la ciudadanía.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "78f71ece394e5ce1"
+ },
+ {
+  "titulo": "Jueza Martha Magaña solicita audiencia pública ante Tribunal de Disciplina Judicial",
+  "liga": "https://elcongresista.mx/justicia/jueza-martha-magana-audiencia-publica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:47:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "La jueza en retiro Martha Eugenia Magaña pide una audiencia pública para defenderse en el Tribunal de Disciplina Judicial por sus decisiones sobre la reforma judicial.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0e3d8b798599cc83"
+ },
+ {
+  "titulo": "PT realizará encuestas en Michoacán, Nuevo León y Zacatecas",
+  "liga": "https://elcongresista.mx/politica/michoacan/pt-encuestas-michoacan-nuevo-leon-zacatecas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:47:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "El Partido del Trabajo realizará encuestas en Michoacán, Nuevo León y Zacatecas para definir candidatos a la gobernatura en 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "79e76433726cce88"
+ },
+ {
+  "titulo": "Ariadna Montiel defiende a su hija ante acusaciones de nepotismo",
+  "liga": "https://elcongresista.mx/justicia/ariadna-montiel-defensa-nepotismo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:46:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Ariadna Montiel responde a acusaciones de nepotismo, defendiendo la privacidad de su hija y exigiendo responsabilidad periodística.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "5c2a1580192ad1eb"
+ },
+ {
+  "titulo": "Recapturan a 'El Checo', presunto líder del CJNG en Tecate; lo vinculan con ola de asesinatos y desapariciones",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWER2ekQ3S3Q4VzBSejJhc3BZNWRVZkhRNC1LanFPMU1vRDdhT05iOW10ekFPTzhxZTdMX281eC1CWWxDQ1VoTGxlS012VkJNRmJuRnphZnl0VEJLLXEtdHp6Sm9NaVJFTTI4S09wZE80MU1TNTFPcE04YV82dHRubU5NTWJvNWxXSkRB0gGLAUFVX3lxTFBMX1JldlZIV0RIOHN5NVQ4UEFwWldicDJpTzJtc0IyRmNmNGpyRlNUYVU1dGFuWE5nVjR6XzRreFRrMEJNcXJhd0UxMEtxajZpLUxNQUZGMFZsOTE4d0NkcENfTG55ckJKbENzUUgtWlhVVE1KSXpKd1VmSFBiTW9rN2Y4aHAycnBnQzQ?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-18T17:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Recapturan a 'El Checo', presunto líder del CJNG en Tecate; lo vinculan con ola de asesinatos y desapariciones Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a32811ef6cf5e837"
+ },
+ {
+  "titulo": "México recauda 143,715 millones por aranceles a importaciones",
+  "liga": "https://elcongresista.mx/politica/nacional/mexico-aranceles-recaudacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:45:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "México recaudó 143,715 millones por aranceles a importaciones en 2026, 24% menos de lo esperado.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c368f9c2d19ed23b"
+ },
+ {
+  "titulo": "La agenda binacional marca el rumbo",
+  "liga": "https://zetatijuana.com/2026/11/la-agenda-binacional-marca-el-rumbo/?utm_source=rss&utm_medium=rss&utm_campaign=la-agenda-binacional-marca-el-rumbo",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-18T17:45:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Con la conciencia bicultural que tenemos los fronterizos, dediqué parte de mis esfuerzos a reforzar la relación bilateral entre Tijuana y San Diego, lo que fue reconocido por el gobierno de esa ciudad norteamericana al entregarme las llaves de la ciudad, justamente en el marco de",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f7aa91b8ce34608c"
+ },
+ {
+  "titulo": "Confirma Baja California su liderazgo en desarrollo con nuevos parques industriales y más oportunidades de inversión y empleo",
+  "liga": "https://www.uniradioinforma.com/gobierno/confirma-baja-california-su-liderazgo-desarrollo-nuevos-parques-industriales-mas-oportunidades-inversion-empleo-n915107",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T17:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "En el marco del Plan México del Gobierno Federal, Baja California cuenta con la mayor concentración de espacios industriales y de exportación con 17% del total nacional",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "18844495caf24f23"
+ },
+ {
+  "titulo": "Reaprehenden en Ensenada a “El Checo”, presunto líder del CJNG en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGlUbmtQVUZ0bFYtcXRfM3BReFROcmpUeUpCbFo5a0tsRE94ME9xSTROT0tQZ2xXYms1VWVIdGJVRlphdHg5RnRnOGVEYm50VllqY2FBWkN2ZmlwaXlVcEdJS0VieEZUQU5NOHBTV1lnbWNVRDFtenRxR3VBX29aamZscGo4bl9fbGpkQjhLdkhJcGI2ZWM4aThtZk43N3pkYnc1d2dGLUhDX1I2OGFr?oc=5",
+  "medio": "gamavision.com",
+  "publicada": "2026-11-18T17:43:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Reaprehenden en Ensenada a “El Checo”, presunto líder del CJNG en Baja California gamavision.com",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a42d212b8cbc34bd"
+ },
+ {
+  "titulo": "Promueven salud masculina en Hermosillo con jornadas médicas gratuitas",
+  "liga": "https://www.uniradioinforma.com/gobierno/promueven-salud-masculina-hermosillo-jornadas-medicas-gratuitas-n915105",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T17:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Habrá jornadas gratuitas de salud en colonias y comunidades rurales durante Movember.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "04f365e018045a48"
+ },
+ {
+  "titulo": "Actividad vehicular causa más del 60% de la contaminación en Saltillo",
+  "liga": "https://elcongresista.mx/politica/coahuila/actividad-vehicular-contaminacion-saltillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:38:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "La actividad vehicular en Saltillo genera más del 60% de la contaminación del aire, según el IMPLAN, que busca mitigar el problema.",
+  "temas": [
+   "Medio ambiente",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "12c9cf9237a7781f"
+ },
+ {
+  "titulo": "Torreón: 850 vacantes en la última Feria del Empleo del 2026",
+  "liga": "https://elcongresista.mx/politica/coahuila/ferias-empleo-torreon-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Torreón tendrá una Feria del Empleo el 20 de noviembre con 850 vacantes disponibles para la población.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c62a4270f2f312ec"
+ },
+ {
+  "titulo": "Ciudadano Ofrece Auxilio Vial Gratis en el 'Toro Móvil' en Mexicali, BC",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQXRZa0JNUHo5SWpBb09XMmpKeVFSbXVfUzhqOEt3Rk1Ubi1aRGI2dkI2dllqV20zb1FrdnJpWU1DM2c1Sl90bjM1NlZ2ZzBMZlVHdzluYjJOUE5oVTZHU0JXallwUk5zTkJQQjI4ZzFqd3VUQzFqVFRvd01QMUFfeGdhNmtFaUdheVRhV2Uxa00wa295WXduMGo5Q1ozcnEyblN2ZjdLVlROSy0tbFpWdE9EOWROMmdnUlE?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-18T17:37:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Ciudadano Ofrece Auxilio Vial Gratis en el 'Toro Móvil' en Mexicali, BC N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cd63e315c79ab26b"
+ },
+ {
+  "titulo": "Jesús García Castro propone presupuesto participativo en Tijuana",
+  "liga": "https://elcongresista.mx/politica/baja-california/jesus-garcia-castro-presupuesto-participativo-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:36:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Jesús García Castro propone un presupuesto participativo para que los ciudadanos decidan sobre el gasto público en Tijuana.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "78f4da96449d9296"
+ },
+ {
+  "titulo": "Revisan medidas de seguridad en hospitales de San Luis Potosí",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/revisan-seguridad-hospitales-san-luis-potosi",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:35:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "La CEPC revisa la seguridad en hospitales de San Luis Potosí para mejorar la atención en emergencias y proteger a pacientes y personal.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "25027ea01520a1bd"
+ },
+ {
+  "titulo": "Resultados Tris Extra hoy 18 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-extra-sorteo-36960",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:35:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "El sorteo Tris Extra número 36960 se celebró este 18 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2a452bbfcb883f02"
+ },
+ {
+  "titulo": "Avanza construcción de alberca olímpica en Soledad con 22 mdp",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/avance-alberca-olimpica-soledad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:33:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "La construcción de la alberca olímpica en Soledad avanza con una inversión de 22 millones de pesos, se espera concluir en 2027.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5c9f14a670f47966"
+ },
+ {
+  "titulo": "Mariafernanda Trujillo suma experiencia internacional tras campamento de ráquetbol en Argentina",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXlZWjhCRGtmQzY0NWgxZXN4ZXhPV05UVXcybHRscGI1T1ZFX2RZMUhsUVhucFozaENTdWRKd2FtcDJtcWJhS2xTWF9XcVNJXy1kNG8yemVBZG5HNFJSMjFzLWdyTjJNV0FFVzFzNllYLVZkS0lxS3RLME9wWmkzbDJLMEVzQjFMY0JIRGg3akFTSTd3MkNsbXdNcHo5eDREVU9keVVORVZfeW9sOGlfR1pvN3Z4YWF2RDV2N3RJZTBHcF81Zkg5c21R?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T17:31:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Mariafernanda Trujillo suma experiencia internacional tras campamento de ráquetbol en Argentina Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "206768cfd6bc51fa"
+ },
+ {
+  "titulo": "Diócesis y municipio se coordinan contra la pirotecnia en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa2EtcWFqTUxCYmhYNWt6aTRjUDlyb3lVZHZlQU1fSFlnTmx1STh5bk40cE9iamNKcVB0MVRIWFQ5ODhlSDJ2cmVMSW11b01QYl9xVWVfSmxjSHpUbEFuS1NOdGkwVW5RMXpHNURseTI1TWJ4OXhfQmE0TDFvTTNHZ05PLWRMdFVjQ0xsWU9QVS1zT3l1cWdSdTJmbW9idDhJTGRJOWttRmtjTGQzMThwc3pmSk8yRVNu?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-18T17:31:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Diócesis y municipio se coordinan contra la pirotecnia en Mexicali AFN",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "312290c677d02a34"
+ },
+ {
+  "titulo": "Feria del Molcajete en Morelia atrajo a 16 mil 500 visitantes",
+  "liga": "https://elcongresista.mx/politica/michoacan/feria-molcajete-morelia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-18T17:31:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "La Feria del Molcajete en Morelia tuvo 16 mil 500 visitantes y generó un millón 155 mil pesos, promoviendo la artesanía local.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4c10b8a12035a6ce"
+ },
+ {
+  "titulo": "Cosmólogo mexicano Carlos Frenk es nombrado caballero por el rey Carlos III",
+  "liga": "https://www.uniradioinforma.com/viral/cosmologo-mexicano-carlos-frenk-nombrado-caballero-rey-carlos-iii-n915095",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T17:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "El profesor es uno de los creadores de la materia oscura fría para la formación de la estructura del universo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7e6552ab28412a4e"
+ },
+ {
+  "titulo": "VIDEO.- Cártel inmobiliario, detrás del asesinato de agente ministerial y militar en Tecate: Fiscalía de Baja California",
+  "liga": "https://www.uniradioinforma.com/gobierno/video-cartel-inmobiliario-detras-asesinato-agente-ministerial-militar-tecate-fiscalia-baja-california-n915097",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T17:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "La fiscal María Elena Andrade Ramírez reveló que el predio de 200 hectáreas donde privaron de la libertad a las víctimas está en disputa por despojo.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a3bd1d0ca152e208"
+ },
+ {
   "titulo": "Piden investigar atropellamiento que causó la muerte de un menor en TJ",
   "liga": "https://elcongresista.mx/politica/baja-california/investigar-atropellamiento-tijuana",
   "medio": "El Congresista",
@@ -58,6 +641,20 @@
   "id": "105d8160247d0ae7"
  },
  {
+  "titulo": "El Trompo abre ciclo de conferencias sobre inteligencia artificial para fomentar la construcción del aprendizaje",
+  "liga": "https://www.uniradioinforma.com/sociedad/el-trompo-abre-ciclo-conferencias-sobre-inteligencia-artificial-fomentar-construccion-aprendizaje-n915092",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T17:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "IA potencializa habilidades naturales, no sustituye al proceso formativo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "466addba57caf850"
+ },
+ {
   "titulo": "DeBartolo: de 13 millones en 1977 a un imperio de 10,500 millones",
   "liga": "https://elcongresista.mx/politica/nacional/debartolo-49ers-legado-fortuna",
   "medio": "El Congresista",
@@ -86,6 +683,20 @@
   "id": "01789da8bdd239ef"
  },
  {
+  "titulo": "¡354 colaboradores, un solo objetivo! Albaroja Team conquista el primer Torneo de Boliche Caliente 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ1ZZWmNOaGcyM1dtM2dXOVdtOVJNcVdvbmVqNEF5cVFTSnczTkZ0aDBDRzU3NVZaVzVUdXhVWFA2SEplVzgxa3hBYmQ0dVlrTlY0bTJ4MDBZeXBHMFFGa2g5Ynp2ZGFOdTY3SENuTHpNZDIxRW96dGdJSzVZUW5sQ1k5VENVUXEzN0loRVpBdkRXYnZEbVRSUWhCNmtRRjdKTnVld1Y0TlZmcEE2THl5dzVkRHFxY2JVTzJra1hZZlYzSlUzVXZJQ1o1Ylh2Q2E0?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T17:13:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "¡354 colaboradores, un solo objetivo! Albaroja Team conquista el primer Torneo de Boliche Caliente 2026 Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "028703559b4db98d"
+ },
+ {
   "titulo": "Catedral de Mexicali anuncia festejos por el Día de la Virgen de Guadalupe",
   "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMzhQaHQ3dnRvcU11STN3eV8xeFhQdlNZOE0zZlo0UkZJZWhoNHpqSDk1UzhUQmpJOTd5TGZjbkVLd09wYS1aY3FNY1EybmduNUlRT2hna1VBWU8xeWpPT1ZpUjZMdnNiSnBGeml0RDdzT0pNSzNxcDdkZ2ROaWc5T28wbFB6SjhlUUxjWTVrSFFxbXRZYVZLakp2S1FlTFExdUJBemJRR2twSVlCZlIwa2hIMTFfRmFkYU5WSlRMR2gyQmM?oc=5",
   "medio": "AFN",
@@ -98,6 +709,34 @@
   ],
   "local": true,
   "id": "b22fa29e9adf9511"
+ },
+ {
+  "titulo": "Rescatan a cinco personas en Loma de Bácum; investigan presuntos vínculos con narcomenudeo",
+  "liga": "https://www.uniradioinforma.com/policiaca/rescatan-cinco-personas-loma-bacum-investigan-presuntos-vinculos-narcomenudeo-n915090",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T17:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Detuvieron a un presunto integrante de uno de los grupos involucrados, quien los mantenía retenidos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "481e94cb066540d2"
+ },
+ {
+  "titulo": "Caliente reúne a 354 colaboradores en torneo de boliche",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/caliente-reune-a-354-colaboradores-en-torneo-de-boliche/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-18T17:08:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Afirmó que ofrecer opciones de entretenimiento al personal “sin duda incide en un mejor desempeño laboral” La entrada Caliente reúne a 354 colaboradores en torneo de boliche se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f72f8d02d4b99d61"
  },
  {
   "titulo": "Justifica alcaldesa de Mexicali solicitud de crédito por 200 mdp",
@@ -141,6 +780,21 @@
   ],
   "local": false,
   "id": "6050b726d4af2633"
+ },
+ {
+  "titulo": "Protección Civil prevé lluvias, fuertes vientos y oleaje elevado en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTRYaHA4cDVTeWJoMnlpT1pGNjhrVGlrRGtMbzNNcGVNUmZ0LXVPS3d4Z2JUT0M0M0ZnSGg0dVUzaDBaUWdieV9jZ2NXeEttMzBLdHRsa29tQXRiQXFRRjNFWFJLR0E5UjlQczdob2RqUjZUcTlxbzM4eHIwMjF3M05aWnYtYlREMWNiVlI4bGNkd3NwR0toYlFqeEN1VWFmZmdxZkRLUjRKWXQ4THpVUUItdHBFX0VGb3hZ0gHAAUFVX3lxTFA3UzN0TDFuNXhEYXFDVGhLMEpfMzNKTHNXZTdzRl9od2swOXYwS2xramxnc1JielNTdXJ6OUhWTG9MU2N5bGhOa3g5TDVUaFhialkxaktodW1uWnQyOTJLTnJYNFRVSm13UkZPcldhOU1LVUZWUXNKVkttWGhXVUZ2OE5TRzNOVF9RR2R0LVZLRUU1U2hId1R6ZG12LVdlNFlmUVlaal9aajFiUHpEeEJmNWNta2lyaVMtckJNZWFkVA?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-18T17:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Protección Civil prevé lluvias, fuertes vientos y oleaje elevado en Ensenada Uniradio Informa",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "df731cd9a10edccd"
  },
  {
   "titulo": "Totalplay deja sin internet a cientos en Tijuana, lleva casi una semana con “falla masiva” y sin restaurar el servicio",
@@ -1476,6 +2130,20 @@
   "id": "1ca4783ad789547a"
  },
  {
+  "titulo": "Reporta Durango 46 mil 703 empleos vinculados a inversiones; habilitan plataforma para consultar proyectos",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOThNUENNSzZIOGE0ZkpJcU1wQmFJS0laRkZVeUIzem9XN3FzVGFobEJXMTZ2MlVtT2xJckR5RXo5ams4cVZDQTg0cDd3S1BjaGFYQVRab1c1Vk14T2NJakZQTVJWU0RHSnljWm5BZFVZdGllRHczU3BtUG1ZdkVxREplTXNGRjN5V3RCSFhSeE1mS0doR0pYeFZHZWQxRjc3RzdkMTFGSVNDeWgzQXVDbFlBcExvUFA1bWZSRVlMejd4WWIxTlQzNnpuTV9RN3pQVVhCcjl2Yw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T15:07:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Reporta Durango 46 mil 703 empleos vinculados a inversiones; habilitan plataforma para consultar proyectos Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "4d7aca53a0479f31"
+ },
+ {
   "titulo": "Rehabilitan drenaje de 580 metros en el centro de Chetumal",
   "liga": "https://elcongresista.mx/politica/quintana-roo/rehabilitacion-drenaje-chetumal",
   "medio": "El Congresista",
@@ -2560,6 +3228,20 @@
   "id": "1f7b255f916e55b1"
  },
  {
+  "titulo": "Serpientes de Tijuana arrancará semifinales de CIBAPAC en Guasave",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/serpientes-de-tijuana-arrancara-semifinales-de-cibapac-en-guasave-33201211",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-18T13:14:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Los fronterizos viajaron a Sinaloa para la ronda de semifinales nacionales como campeones de la región 1",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "74398dadeaa53845"
+ },
+ {
   "titulo": "La policía filipina pide imputar a Thomas Markle, padre de Meghan, por material de abuso sexual infantil",
   "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWmpWcmlkcVo5c01VcnFfa28ySUg3X05LUW90amlwbmctdFRtS3UzclJTOGZPcTZmMnZFRmxYeDlERERMM3FMQ2h2NUtpYTRLR0h0SEY2YWRzS2xvU1oyVDdIai1UdWJBTFVvd2UxTERJU3dUeHBZbDFiV2Nqa3NFbEg3MUNyeTBHQkRDdUFxVDZVTjVsOW9fY2laMy1FNmpJSXVRN0dMT0FkX0xEbEFZZXRYWU1zRi1CSWVqVG0tZVR0SXJOZVpuZ29SWnBGdDJlUG00UEJ3TnAzUQ?oc=5",
   "medio": "BajaNews",
@@ -2976,6 +3658,20 @@
   ],
   "local": true,
   "id": "d04f3ada7988447f"
+ },
+ {
+  "titulo": "Dos vehículos chocan sobre el Libramiento Sur de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXzk5S2dpTVNuVWhlRy1seFFyc2RUZlh3NENRb05TTmNYWFk4V2tIS2pjc1NybVNZVk5SRHZ2X3RnTlBhbGUwdE1QRzJfaW0wTUJVd090TnpQdWZJX0NyQkttUFpodi1sUHNjNmFGc29iS1JlWXpnZWhxQTA5UmJxaVJldFAyc09VQzhQdmRaUzNGOUFHT19j?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T12:22:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-18T18:28:25-06:00",
+  "resumen": "Dos vehículos chocan sobre el Libramiento Sur de Tijuana Baja News",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "d45daec38b70bfad"
  },
  {
   "titulo": "Camión de volteo cae en socavón de la colonia Del Valle, CDMX",
