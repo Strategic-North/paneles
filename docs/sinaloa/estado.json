@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-19T05:29-06:00",
+ "actualizado": "2026-11-19T06:35-06:00",
  "corte": "2026-11-19",
  "ventana": [
   "2026-11-18T18:30-06:00",
   "2026-11-19T18:30-06:00"
  ],
- "total": 297,
+ "total": 315,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 2
+   "notas": 0
   },
   {
    "fuente": "Noticiero Altavoz",
@@ -125,8 +125,8 @@
   },
   {
    "fuente": "Google News: site:debate.com.mx \"Los Mochis\"",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: Sinaloa",
