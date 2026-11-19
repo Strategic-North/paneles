@@ -1,5 +1,631 @@
 [
  {
+  "titulo": "MC plantea poner tope a tasas de interés en tarjetas de crédito",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFhmT3k3UDRaWkZqc1V3NVRySlllaUNLVWNqa1hiWkdQY2ROdTlyajQtNGg4a0hwR2JmZzdpRlNTQW1yOG1vN0FGc0FTNEZlUFdoSjRGbFA1TFpxSzlSeG5uTGdfVG5GT2VzZkNkel8yTXNQNzktWUdWeEEtdlZLdURUVEVEaG9LZ2d4dWgxa0RreXhxNjdSMm83cVcyOXNDb0J4NUtVcXI?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-19T16:51:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "MC plantea poner tope a tasas de interés en tarjetas de crédito AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3df98d4cddb2f739"
+ },
+ {
+  "titulo": "Industria Genera Más de 430 Mil Empleos en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0NBUTktdlFXbnhUV1pRQllzbGRuNlkzU1Baa0tzeDFtS05leVBUNEJUenRkQ1BsRGx5UnJBVHBJancxSDd5RUdKNHAwZ2FCSmJMLW14Y0R0LWp3VzNGSFNxb21hTmpNMlYtUHpNNFRDR3prSkgzeGV5b0pZLTQzVTF4RGNYa0NOaExQRzZlVVVOS2RYeV9kQUtBWWNmdC00cEZrRG1zUWFfNlFa?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-19T16:46:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Industria Genera Más de 430 Mil Empleos en Baja California N+",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "4c15bf9c819b3fd2"
+ },
+ {
+  "titulo": "Con peluches y carteles, colectivo exige en Tijuana atención a víctimas de abuso sexual infantil",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWGdJTWNRN3JkOWNFTVZZdUdpTlVSbWl1UWlEXy04N2lsSWRpTFNEUmtZV2hPWDFoQkRmajVGUUU1RFAzSzhPVWF6ZEhTck56Y3R5Nkotd0Y4cFExYzUyNHRDR0FydEJkTkhTZVhMVnZVLXdUSUJxMWxiTW1CSFhmWDZCRkY0M2R4MHdYc2Y3bGtsQXpsRVBpLS15R2NxWmtEbUJoNzBCOGVRd0U1UnVMMDdjTnRPUGNiSExZVXZTYS1zX29DUFdTLVpQNA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T16:45:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Con peluches y carteles, colectivo exige en Tijuana atención a víctimas de abuso sexual infantil Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0ac547309cc9a07f"
+ },
+ {
+  "titulo": "Se registraron 3,646 denuncias por robo a transportistas en 2026",
+  "liga": "https://elcongresista.mx/seguridad/3646-denuncias-robo-transportistas-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:40:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Se registran 3,646 denuncias por robo a transportistas en México entre enero y septiembre de 2026, un 21% menos que el año anterior.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4bcdc5ca02c7c004"
+ },
+ {
+  "titulo": "Entrega certificados de conservación para más de 10 mil hectáreas en Pátzcuaro",
+  "liga": "https://elcongresista.mx/politica/michoacan/certificados-conservacion-patzcuaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:37:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Más de 10 mil hectáreas en la cuenca del lago de Pátzcuaro recibirán protección mediante certificados de conservación entregados en Michoacán.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e43ab5b487d716ce"
+ },
+ {
+  "titulo": "Exigen transparencia sobre recursos destinados a la comunidad LGBT+ en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWV9uSGZlR1dMSThUaTIzMGFwam9BcGxWck5jaWszZkhMQUlrS3VjMUVRa09DblB4U2NxLXVLcEdLNHNndVRSREE0YmVkT1JGZU1nT0ZGUGpyaXRrSXBCclFkWnNiR0tOb2VGMF8xXzBYQ1pHcGVBNVBrUjE2VTNLLURHMlVzQ0lvSDJKdE04U0ZaOHZkSUFZQ0tCWlExQ182eE1RUkhlTjI5NGVZSms5dmQteHpvOGhlQmIyZUJ3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T16:36:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Exigen transparencia sobre recursos destinados a la comunidad LGBT+ en Baja California Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "449b4d34c40721a8"
+ },
+ {
+  "titulo": "Enfrentamiento en Badiraguato deja un herido y dos detenidos",
+  "liga": "https://elcongresista.mx/politica/sinaloa/enfrentamiento-badiraguato-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:35:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Un enfrentamiento en Badiraguato, Sinaloa, deja un herido y dos detenidos durante un patrullaje del Ejército en la zona.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "88773b5ccc172b65"
+ },
+ {
+  "titulo": "Deslaves y Socavones Amenazan Único Acceso a Colonia Durango en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbW5PUkhCVzE0WHNoLS1mend0czdYSThLZ0lpbXFrSm1hQllBM1ZkYWFpWXdzR2swU3o3ZEw3XzJJRnB3ZVkxUmx6MDBHdDZjd25XRUx3Z2w1d0U5YTQ1dXROaG1TOWNCbmFQUzFQUGlVdGhLRnpFYXZRY010bThLZENjM1F0WWlVZzJWcHcyTlkwbUdPNVZaUHNhaUp1dE42dEZaM0xmUTFuUW1acE5YaVd2bGJBUVBYM1dJenZWdw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-19T16:33:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Deslaves y Socavones Amenazan Único Acceso a Colonia Durango en Ensenada N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3b8fe347e4a045d6"
+ },
+ {
+  "titulo": "Contralor de Hidalgo respalda eliminar autorización de cabildos para contratos",
+  "liga": "https://elcongresista.mx/politica/hidalgo/contralor-hidalgo-elimina-autorizacion-cabildos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:33:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "El contralor de Hidalgo respalda eliminar la autorización de cabildos para contratos, buscando agilizar obras públicas y mejorar gestión.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "03e04baa4f831a3d"
+ },
+ {
+  "titulo": "Reconoce CCE a Jesús Sandoval, director general de Grupo Ruba, como empresario del año",
+  "liga": "https://www.uniradioinforma.com/sociedad/reconoce-cce-jesus-sandoval-director-general-grupo-ruba-como-empresario-ano-n915279",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T16:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "5d960e830d5d9853"
+ },
+ {
+  "titulo": "Diputado de Sinaloa pide agilizar ley para cámaras en policías",
+  "liga": "https://elcongresista.mx/politica/sinaloa/diputado-sinaloa-camaras-policias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:31:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Diputado de Sinaloa, Serapio Vargas, clama por acelerar ley de cámaras para policías, propiciando una mejora en la seguridad pública.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5cac23b8d497439e"
+ },
+ {
+  "titulo": "Vecinos denuncian que socavón en El Refugio se formó por fuga de la CESPT: Hay más de 30 colonias sin agua",
+  "liga": "https://puntonorte.info/2026/11/19/vecinos-denuncian-que-socavon-en-el-refugio-se-formo-por-fuga-de-la-cespt-hay-mas-de-30-colonias-sin-agua/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-19T16:31:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Tijuana.- Vecinos del fraccionamiento El Refugio denunciaron que una fuga de agua potable en la tubería de la Comisión Estatal de Servicios Públicos de Tijuana (CESPT) ocasionó un socavón. Fue alrededor de las 10:00 de la noche de ayer, miércoles 18 de noviembre, cuando los resid",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "4e22c0a28edbd00a"
+ },
+ {
+  "titulo": "Fiscalía de Tamaulipas imparte 1,575 pláticas de prevención del delito",
+  "liga": "https://elcongresista.mx/tamaulipas/fiscalia-tamaulipas-platicas-prevencion-delito",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:31:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La Fiscalía de Tamaulipas ha llevado a cabo 1,575 pláticas de prevención del delito en instituciones educativas durante 2026.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "dbae27f7311af74e"
+ },
+ {
+  "titulo": "Ramón Vázquez se reúne con familias de Playas de Tijuana para hablar sobre la transformación",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd2lieDI5andOMl8zRThVMVJxcjlfTENvaFpWa1RvY1AtTXpYTG5IR0xNNTBYVjE0MUFJbEZ3SC0wMG93ck9kczVsWXlmb1ppVllzLWU2VGR5LW1vYTZldUtCTEhWQkZYcjJJamt3MGl6aWhnMVVoc3V5LTh4eDBkYTM0WUNDbU9wNlZqRGdDaFVrYWNOOXhvNmJfckJmcVpSNTNzUVRad2JzU2d2X1NSWHRITTBDcXJsUUxoOWxGX01FZ2YxRTdZ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T16:28:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Ramón Vázquez se reúne con familias de Playas de Tijuana para hablar sobre la transformación Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b064c502ef3e66fc"
+ },
+ {
+  "titulo": "Detienen a Personas Relacionadas con Homicidio de Agente y Exmilitar en Tecate, BC",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNzlxOHNMeDF1TXlPWGhYS1E2ckhZLVZQZlZ0MHZaaVUxaUxhc21nbUM1OEQyZ0E2cTAta2hNLWJocWpUejczalp1VkZmb0dtSFlBaWx3QWdUX2RfX3hEcUhhNnozVUt5V2VSc0hFeWRydi1TaUhiaW1lSnc0YmhlenpUazRzTGtjTWZHdGJ5cXIzcnFnU0Vjc3JlT2NLWG5Ub2hoREV4cW1lZEtOUS16RXVBaUN0b3VpcC05djhmbjZtd2ZwTzR3SHRkVlI?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-19T16:25:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Detienen a Personas Relacionadas con Homicidio de Agente y Exmilitar en Tecate, BC N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "54c0d79e72b289a0"
+ },
+ {
+  "titulo": "Vecinos de la colonia Revolución instalan puentes improvisados para llegar a sus viviendas tras las lluvias",
+  "liga": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdFlOVDRKZ1p6d3NPX1NiZGhqTGstWmZFV3FucnZuNkdQbnYzYlZDbU5aTzlOYl9MSVNiWHN1bU9vZEJZVDNINkFWQkdkaENOUEowYkxtTktKWERaLUppTkpTWnk5Y1p6VnB1VVp2cHZpbGxNSklGS3d4ckZFWFV5cTBPV3kxdE5XcnVDcHZZWXpJMjhCaGRLLVpwREU5aFFUSGdRX25QNDVHZHVMcEFmcmw2TUtxTWxfUkt0UFU1LTB2a1g4QV9WMGJXa2wwaV9LQ1RqN2NNVjRzUFlHRlhZRUUyUkppNjB5VVhnLUxYUkZDUdIBjAJBVV95cUxPOUNKNDZZV25NQmVnVF9qQ055ODBNdEpEQ2lEeXNBZGItZ0JVVFhsVTZ5UGtUNmtoc3AyaExFR0RnYWZqWjNJMy14ZFdXaWNrVDEzS3NKWnAzaElLMUF6ajFLSEc3ZTlSdE05RUJfOUpmTjdFd0pYcmRkeEVuYXR1eE9KeHFaR0xXZHBYZTlFWXlqc2dtekxWR0ctMDA5Ym0wQnE2TmwwcF9BR05XWF9ReU5wQVZsc0RJcFVKam9YWkg0Rnc0MF9lZWFmYjZQQWFDVzRhbWQ1dkttRGhfTzZSS0FqcUNpbmpic1U3M3AtUkNzUGtrNWNlcFpiUE9HRUhJaDE2WkRZeWVKbWJ1?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-19T16:25:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Vecinos de la colonia Revolución instalan puentes improvisados para llegar a sus viviendas tras las lluvias El Imparcial",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "2bc64659e92b9440"
+ },
+ {
+  "titulo": "Bruno Mars anuncia la muerte de su padre y le dedica emotiva despedida",
+  "liga": "https://www.uniradioinforma.com/fama/bruno-mars-anuncia-muerte-su-padre-le-dedica-emotiva-despedida-n915277",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T16:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Bruno Mars compartió un emotivo mensaje de despedida a su padre, a quien recordó como la persona que le enseñó todo sobre la música y fue una figura fundamental en su vida.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "bdfcd2c191aeadcc"
+ },
+ {
+  "titulo": "Realiza FGE último pase de lista en honor al agente estatal de investigación Juan Enrique Rosales",
+  "liga": "https://www.uniradioinforma.com/gobierno/realiza-fge-ultimo-pase-lista-honor-agente-estatal-investigacion-juan-enrique-rosales-n915272",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T16:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Familiares y compañeros de los distintos grupos de investigación de la Fiscalía General del Estado estuvieron presentes en la ceremonia.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9b4d41e4bcf81913"
+ },
+ {
+  "titulo": "Diputado Erick Agúndez propone sanciones por nepotismo en BCS.",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/bcs-sanciones-nepotismo-simulacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:21:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "El diputado Erick Agúndez propone sanciones graves por nepotismo y simulación de actos jurídicos en Baja California Sur.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1c94186fe9a82a66"
+ },
+ {
+  "titulo": "Aseguran agentes de la SSPCM a presunto responsable de robo con violencia a comercio",
+  "liga": "https://www.uniradioinforma.com/policiaca/aseguran-agentes-sspcm-presunto-responsable-robo-violencia-comercio-n915270",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T16:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "52e67412363cb1d7"
+ },
+ {
+  "titulo": "Universidad Intercultural Indígena de Michoacán enfrenta déficit de 27 mdp",
+  "liga": "https://elcongresista.mx/politica/michoacan/uiim-deficit-27-millones-pesos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:19:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La Universidad Intercultural Indígena de Michoacán reporta un déficit de 27 mdp que afecta los salarios de sus trabajadores.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3f16ebb990934217"
+ },
+ {
+  "titulo": "Fortalece Ismael Burgueño Ruiz lazos diplomáticos y de cooperación entre Tijuana y Georgia",
+  "liga": "https://www.uniradioinforma.com/gobierno/fortalece-ismael-burgueno-ruiz-lazos-diplomaticos-cooperacion-tijuana-georgia-n915268",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T16:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Ismael Burgueño destacó el potencial de Tijuana para impulsar el desarrollo económico y generar oportunidades en beneficio de las familias.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bb21b629a4a4565f"
+ },
+ {
+  "titulo": "Atlas visita a Juárez buscando el cuarto lugar en la tabla",
+  "liga": "https://elcongresista.mx/deportes/atlas-visita-a-juarez-buscando-cuarto-lugar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:18:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Atlas cierra la fase regular del Apertura 2026 contra FC Juárez buscando mejorar su posición en la tabla.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "8366f39af959e7a8"
+ },
+ {
+  "titulo": "Conmemoran 70 años de la Escuela Primaria Revolución en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/conmemoran-70-aniversario-escuela-revolucion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La Escuela Primaria Revolución en Michoacán conmemora 70 años de historia con una celebración que resalta su impacto en la comunidad.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ccc1299969aa679d"
+ },
+ {
+  "titulo": "Clausuran fábrica de plásticos en Morelia por contaminación",
+  "liga": "https://elcongresista.mx/justicia/clausura-fabrica-plasticos-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:16:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La Proam clausura una fábrica de plásticos en Morelia por carecer de documentos ambientales necesarios tras denuncias de contaminación.",
+  "temas": [
+   "Medio ambiente",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "aba34be3d8fddea9"
+ },
+ {
+  "titulo": "Rescatan a hombre de 66 años tras caer 10 metros en un cerro de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGQ1TmNQaVUtS3Q3R2tvVkxQSkthbmNESEp3M1k2akE5cEZ0aDdaMDF1bXZCTXlPOFBfN2l2bWpOVlBFVFQ1YzY4OHcyT05MWkE1NFpKQ0hObzNnNlJneWRQbnIyYzRGWUhhSE5rMG52WTVMbjlsTlRpTVJVT0drUlFCZ2lKMDJySWw1dkV3MEVOak9VMlRMV25NWTR2VGx1VjBYU2lLZG9QeXhiQXN5RmZYWkxKbFhuTmlzejc1MTYzZWPSAd4BQVVfeXFMTmFoclRaR2pteDRUd25UZk9yMUNYNVBQQmp1ZjFZSmZHc3ZTQldOTHBHbHc3ZGNfWVM4M1VnRHNzc3BpdWwzSzdKZGZnb3oxTFB1SXByNkRMb0JZeE8xNlp1c0FPanRPZGU2b1RiSU4yMnRXVWpnNzlCVUlIZk1sYk5xLXJrUlM5M3VzQWM5VDdNLTFDd0JHQW9ueDE3bkoyakxYbGc4VUM5VG9McmowYjFDVUFBR0JGTDVRT042WW9uaXdnZXRUTlJqeUlQMmhveTllNWhVRXZqU3pBSldB?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-19T16:09:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Rescatan a hombre de 66 años tras caer 10 metros en un cerro de Ensenada El Imparcial",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "296b278ede5e767c"
+ },
+ {
+  "titulo": "Muere hipopótama Fiona tras tragarse un sombrero en zoológico",
+  "liga": "https://elcongresista.mx/politica/nacional/muere-hipopotama-fiona-sombrero-cincinnati",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La hipopótama Fiona del zoológico de Cincinnati falleció tras tragarse un sombrero lanzado por un visitante.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "175195d5d33fdade"
+ },
+ {
+  "titulo": "Protesta en línea suma más de 120,000 firmas contra serie de Netflix.",
+  "liga": "https://elcongresista.mx/politica/nacional/protesta-contra-serie-netflix-el-cuerpo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:05:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Más de 120,000 solicitudes piden cancelar la serie \"El cuerpo\" en Netflix por su contenido polémico.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ec65568498be2062"
+ },
+ {
+  "titulo": "SLEP Elqui entrega 219 herramientas tecnológicas a 29 escuelas",
+  "liga": "https://elcongresista.mx/educacion/slep-elqui-entrega-herramientas-tecnologicas-29-escuelas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:03:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "SLEP Elqui entrega 219 herramientas tecnológicas a 29 escuelas beneficiando a más de 10 mil estudiantes.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "ad0a4a41f067c73e"
+ },
+ {
+  "titulo": "Grupo Aramón invierte 29.8 millones de euros en modernización",
+  "liga": "https://elcongresista.mx/politica/nacional/grupo-aramon-inversion-modernizacion-estaciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:03:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Grupo Aramón destina 29.8 millones de euros a modernizar estaciones de esquí y diversificar su oferta turística esta temporada.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b24841c6ac4fbd71"
+ },
+ {
+  "titulo": "Sempra celebra nuevo diálogo comunitario en Tecate",
+  "liga": "https://elcongresista.mx/politica/baja-california/sempra-dialogo-comunitario-tecate",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T16:02:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Sempra Infraestructura llevó a cabo una nueva sesión de su Consejo Asesor Comunitario en Tecate, abordando desarrollo energético y social.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "048aacb26567eddd"
+ },
+ {
+  "titulo": "DURANGO: Pide gobernador mayor vigilancia de padres ante riesgos por pirotecnia durante diciembre",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2p6dERhVldjYjZpbE1nLVZlLWFDYWpPRDNhTG5rY2FNajlpVXh6V1ZfNEMzbFEzODBrT01kS0syU2tzdVdnQllrVUtLVURCc2xKRXRIY0ZkOUZrYXluRDJJQUEtczR1eU5FZjRKSUdadU15dUpSUkJsQjlqVHgzcURmT3ZOaWd6QWpya3U2SlB2MHZSd05DaUt6SG9SVHZOaV9mSVRtTXZHckFiV1oyeHhGeEptM3p0YU9wLV9kbXExY0ZlTU5qZ2xNYw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T15:57:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "DURANGO: Pide gobernador mayor vigilancia de padres ante riesgos por pirotecnia durante diciembre Baja News",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "bb00f9a330728aea"
+ },
+ {
+  "titulo": "Alertan por llegada de lluvias la tarde de este jueves",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVk4cGhFRlNaVmhwcnlROWFPanhlZmVyUk5BMFVpTnB2Zk5XTXFYR3hzb19tTmR4cGQ2azdaTFZhdVZlWGtXNFotUU9tWGtUcUE2eE0zSHhPY2NsajVGV011SDdUUE92RUdTc1JDVzdOM0d0REFMWGR0LVNINks0Qm9jdV9SV1U2OFAxZHMtQTJtLVdvS1FUeU5aSnR0dWFkdmRHUXhYQmY?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-19T15:55:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Alertan por llegada de lluvias la tarde de este jueves AFN",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "ae802d0b5a4bad90"
+ },
+ {
+  "titulo": "Fuga de agua provocó un socavón en El Refugio; ya lo atiende la CESPT",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWC1NSm5GY3Nuem5yVjFFY3p2RkhYSktPcm41aW5OOFZOZFdDaTk3YWVkN01NWXkwOFZuSzRTcjVwajh3TUttWGJvNHc4U0RyZVVsak0zRGREUG1DWi1RdlJ6Y0FaVVRKY0stOXNxSFZLdFlVRWVPaUkyc1Vrc2xmZG9uWnM4Z0J4ekJDb2FsQjhWTXFSdXJtbDdLSkVnNC1UY25iZC1UTXFTVENicWF3cXV0X095ZmJDX1ow?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-19T15:55:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Fuga de agua provocó un socavón en El Refugio; ya lo atiende la CESPT AFN",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "7cb5df7ed686d0c8"
+ },
+ {
+  "titulo": "Destacan aprobación de Ley General de Bienestar Animal en México",
+  "liga": "https://elportavoznoticias.com.mx/destacan-aprobacion-de-ley-general-de-bienestar-animal-en-mexico/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-19T15:55:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La Secretaría de Medio Ambiente y Desarrollo Sustentable de Baja California destacó la aprobación de la Ley General en Materia de Bienestar, Cuidado y Protección de los Animales por parte de la... La entrada Destacan aprobación de Ley General de Bienestar Animal en México se publ",
+  "temas": [
+   "Gobierno del estado",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "6f0f76743978fcea"
+ },
+ {
+  "titulo": "Poste Colgando Pone en Riesgo a Conductores y Peatones en Bulevar Agua Caliente, Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU2p2cUg0RjQ5bzdJY1hJZU5aTS16YlVfUl9GNXdvRGdPSERYc0M5aUFtMW9XT1ViVWtYU0loSWpVVzJZNGp4Ry0tR0hiZEZtT3pMVjNBcHFHaHRKb1JQd3htNXh5SXpTZzlMQjF1dmVsTjg4aUpnLXBJTHdVdHhtTG9ObS1KX19BakpNOThtdklSQXZ3S3FQdUVhTXQyNTE0d3J6Zm9JMFgyUlhkRnhLSGFjUVoyREJvZVN2N3NEcVlaWERYaWpxYnlKeVNIUnNYd1BZ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-19T15:54:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Poste Colgando Pone en Riesgo a Conductores y Peatones en Bulevar Agua Caliente, Tijuana N+",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "f5db72fe00727920"
+ },
+ {
+  "titulo": "Dimash Kudaibergen conmueve a fan con recuerdo de su padrino",
+  "liga": "https://elcongresista.mx/politica/nacional/dimash-kudaibergen-recuerdo-padrino",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:54:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La música de Dimash Kudaibergen evoca memorias entrañables en un hombre que recuerda a su difunto padrino a cinco años de su muerte.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "77c909dbb8f9c5b1"
+ },
+ {
+  "titulo": "Hijo de Roberto Palazuelos es amenazado con una pistola en la cabeza durante asalto en CDMX",
+  "liga": "https://www.uniradioinforma.com/fama/hijo-roberto-palazuelos-amenazado-una-pistola-cabeza-durante-asalto-cdmx-n915266",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T15:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "69dde5c499b9a151"
+ },
+ {
+  "titulo": "Ensenada deja de recibir agua del Flujo Inverso por fuga en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczVGRkdHYVMtc1d4X3oyV0VUa1BBcUFQWTR3dE1lWkk0R3JUQzFGMU8tdUJxSlNSWUE0T1ZpdGZVSlk0Q2lsc2RKTmREU2REVGozbzZycTJYa2daYWRxTEcwMWVVdGFPVDFzUmhnQVVnRW9Ua0J3ZHM3dVZlU3ZkNU5CdlJvdWNjcEJSTFRINkJDVk5may1XcnVzNDZ0QmFkU3NhcGdn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T15:53:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Ensenada deja de recibir agua del Flujo Inverso por fuga en Tijuana Baja News",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "53e655180483dd88"
+ },
+ {
+  "titulo": "Teleférico de Uruapan registró 133 mil pasajeros durante el Buen Fin",
+  "liga": "https://elcongresista.mx/politica/michoacan/ureapan-teleferico-buen-fin-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:52:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "En el Buen Fin 2026, más de 133 mil personas usaron el teleférico de Uruapan gracias a un servicio gratuito.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5b1a8ce0efc43475"
+ },
+ {
+  "titulo": "Rockstar Games crea más de 200 vehículos para GTA VI sin marca oficial",
+  "liga": "https://elcongresista.mx/vehicular/rockstar-gta-vi-vehiculos-ficticios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:51:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Rockstar Games crea más de 200 vehículos ficticios para GTA VI, priorizando la libertad creativa sobre licencias de marcas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f4c4d632ba412982"
+ },
+ {
+  "titulo": "Despiden en Mexicali al agente de la AEI asesinado en Tecate",
+  "liga": "https://jornadabc.com.mx/principales/despiden-en-mexicali-al-agente-de-la-aei-asesinado-en-tecate/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-19T15:51:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "El predio, de unas 200 hectáreas, tenía cinco guardias de seguridad, quienes también fueron amenazados y privados de la libertad La entrada Despiden en Mexicali al agente de la AEI asesinado en Tecate se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5e74bf0a46de7da1"
+ },
+ {
+  "titulo": "La eliminación de la tarjeta SIM ahorrará 37 millones en Apple",
+  "liga": "https://elcongresista.mx/tecnologia/apple-eliminacion-tarjeta-sim-ahorro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:51:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La eliminación de la tarjeta SIM en smartphones permitirá a Apple ahorrar 37 millones de dólares en producción y mejorar la eficiencia.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7c4dbf6e0fe484fc"
+ },
+ {
+  "titulo": "BMW X7 2027 presenta tecnología avanzada y lujo en 5.18 metros.",
+  "liga": "https://elcongresista.mx/vehicular/bmw-x7-2027-lujo-tecnologia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:50:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "El BMW X7 2027 combina lujo, tecnología avanzada y un amplio espacio interior en un diseño elegante.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "bd8f1fe8c8619859"
+ },
+ {
   "titulo": "Cierran carril de telepeaje en Puente 1 de Piedras Negras por fallas",
   "liga": "https://elcongresista.mx/politica/coahuila/cierre-telepeaje-puente-1-piedras-negras",
   "medio": "El Congresista",
@@ -55,6 +681,20 @@
   ],
   "local": true,
   "id": "f1925424ae549b80"
+ },
+ {
+  "titulo": "Sergio Serrano Ramos, el Checo, fue capturado nuevamente en Ensenada tras intento de huida.",
+  "liga": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTmVudzlMdWw1YTZsdU1HZE02bmVBSXB3Sm5OVDNSZWZKeFBoTUN5Tl9BTjl0UlpHRmxMXzNTTDVVZ3JIM3JHeWx0QWlGWnpYcTBWSlNwYkM3WVMtZW04MXZ1VzNPMWJqb3ZiM1FGOFFaaFJJSElMVmVBQVJ0UldZTQ?oc=5",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:41:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Sergio Serrano Ramos, el Checo, fue capturado nuevamente en Ensenada tras intento de huida. El Congresista",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3ec55df502982fcd"
  },
  {
   "titulo": "Detienen a ex alcalde de Tetipac, Guerrero, por extorsión",
@@ -188,6 +828,21 @@
   ],
   "local": true,
   "id": "ae29db6c957e315f"
+ },
+ {
+  "titulo": "DURANGO: Cuestiona diputado gasto en deuda frente a necesidades de infraestructura",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkluV0dEdTcwbGNid0RIVGF4SW9vcnhYY3dPdC12UGRMXzA5bTRLS0xLYkFER3FmMkVjTFZkc0h4VUNlRW5wOWVkYm9wZHh6YlFRdEp2RGpVQUlXVmdYd1hFdGc1eEVnZVVXQkVuemZyQTd0SF9GdmpUZ1AyQlRvMkk1OEdrLW9vSzVpYTJnRjNHQmd0YmpNSlNHRGhFLVdkMDMzR3E0TUpET1Z6SmY3SEtfeUVBMkE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T15:29:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "DURANGO: Cuestiona diputado gasto en deuda frente a necesidades de infraestructura Baja News",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "f4b86277a9141bc1"
  },
  {
   "titulo": "Energisa no resuelve problemas de suministro en 91% de los casos en MS",
@@ -1395,6 +2050,20 @@
   "id": "c418bb332d8af983"
  },
  {
+  "titulo": "Hallan restos humanos en Valle de la Trinidad",
+  "liga": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUUVKVEdYTktTOUxBcXZmb2VoUXZwLXpORmtDX2sweXI1NU9LdWE5MU9fNWNjRVVPTWJHVWtrTmRLUzd5RTVVd0I5NTA0SjNVV2duRExOZVRKSVFmRGxNUnZIc3lmTnVhWGE0TmxnZWVTUWwzcFBnSQ?oc=5",
+  "medio": "Síntesis Tv",
+  "publicada": "2026-11-19T13:24:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Hallan restos humanos en Valle de la Trinidad Síntesis Tv",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5cfd20ce1d9dd088"
+ },
+ {
   "titulo": "Rescatan a adulto mayor que cayó de un cerro en Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHRKeUdnRTFXcE1pam0zZW5vazhRaGJ3TFhtN1R6V3dRZERYaHFuSGgtOHdrN2RkNEhueDRieFRvNXVGNHdGVnhPUnlROUpLZ3llbDRuSmdqQ1NtNmMxRDN0X3YzTExMN0ZiOUZQQXJGb1EtbldmZjhpY1FFMGNBcmZMbS1wRGxIbnlVUmlGWXNQU3pqeWJWcVhpd081UEJrN0pSbE92VFpUZDg?oc=5",
   "medio": "AFN",
@@ -2257,6 +2926,21 @@
   "id": "0cbe1ecf5ca2b34b"
  },
  {
+  "titulo": "Apoyan dirigencias del Partido Verde a Jorge Ramos ante señalamientos de sometimiento psicológico",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/apoyan-dirigencias-del-partido-verde-a-jorge-ramos-ante-senalamientos-de-sometimiento-psicologico-33218061",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-19T11:36:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Piden que Morena resarza el agravio en contra del ex alcalde de Tijuana y piden responsabilidad y respeto a quienes conforman la cuarta transformación",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "93ae8a3877670afd"
+ },
+ {
   "titulo": "El interrex del INE",
   "liga": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OZTZTVmRCMEJsQ1JxaFZiaVd5YlhqZ0pIWHJPTk0wQ0EwUHlXYTBQQUU0V2hzLTBhNFlldVRFQ0VpV1kwaFJMUEdta0xvY3dkSjJBNFdOYkNEXzJWVVhxdXdtZHFVeFFUSzJwMG1GWQ?oc=5",
   "medio": "AFN",
@@ -2590,6 +3274,21 @@
   "id": "3498016ee67d392f"
  },
  {
+  "titulo": "Diócesis de Mexicali iniciará un Año Jubilar por la resistencia cristera",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/diocesis-de-mexicali-iniciara-un-ano-jubilar-por-la-resistencia-cristera-33217047",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-19T11:02:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "La conmemoración tendrá una duración de 12 meses y el programa incluirá actividades religiosas, exposiciones documentales y un congreso sobre la guerra cristera",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "c828d1a332a2ebf3"
+ },
+ {
   "titulo": "Bienestar compartido, verdadera medida del desarrollo: Sheinbaum; hoy concluye su participación en la APEC",
   "liga": "https://jornadabc.com.mx/02_secundarias/bienestar-compartido-verdadera-medida-del-desarrollo-sheinbaum-hoy-concluye-su-participacion-en-la-apec/",
   "medio": "La Jornada Baja California",
@@ -2630,6 +3329,34 @@
   ],
   "local": false,
   "id": "65049dd1fd4f47c7"
+ },
+ {
+  "titulo": "Jóvenes del Conalep ganan concurso tecnológico con aparato para el Alzheimer",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/jovenes-del-conalep-ganan-concurso-tecnologico-con-aparato-para-el-alzheimer-33217475",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-19T10:58:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Se trata de una radio al cual, por medio de la inteligencia artificial, podrá hacer recordatorios a los pacientes, y será un alivio para las personas cuidadoras",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "44516d43c0f20510"
+ },
+ {
+  "titulo": "El Sol de Tijuana recibe Jornada Médica del IMSS",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/el-sol-de-tijuana-recibe-jornada-medica-del-imss-33217168",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-19T10:51:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Trabajadoras de la institución acudieron a las instalaciones de la editora para ofrecer distintos tipos de servicios.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "90d1cd776068db0a"
  },
  {
   "titulo": "Juanma Rodríguez Berjano: albañil enseña a jóvenes a través de redes sociales.",
@@ -5476,6 +6203,20 @@
   "id": "cb666961e726135d"
  },
  {
+  "titulo": "Noticias sobre luis marquez",
+  "liga": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iMmdOX1RaTlhta1NhRU91a1lyQzFEXy14bUtlZWxGVW5MQ19sak4yU05KaWZZamJZQ0w3cjJ0Q3FzZlRxZXpCVG01bDNpa0JaTktXRHVDeTk0RUZfTERr?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T03:09:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Noticias sobre luis marquez Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dfd30db6993d96c5"
+ },
+ {
   "titulo": "Realizan selección de 20 artistas de Tijuana para programa binacional",
   "liga": "https://elcongresista.mx/cultura/seleccion-artistas-tijuana-los-artistas-cuentan",
   "medio": "El Congresista",
@@ -7289,6 +8030,20 @@
   ],
   "local": false,
   "id": "cde2fc5a96aeed38"
+ },
+ {
+  "titulo": "Noticias sobre dragado",
+  "liga": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92aFotVTJ5dWdtaWZOYUo4SmJPd1YyOUlwYlNCR25EYjRLSFNJSmxITXhpQkhBdzg4NC1pX01wMkV0dGNoOHhSbkZ6YTBtN1NNbnhWYWRCM00?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-18T22:09:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T16:52:36-06:00",
+  "resumen": "Noticias sobre dragado Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a9aff6b62b2a3c3d"
  },
  {
   "titulo": "Joven Busca Apoyo para su Cirugía Contra Cáncer de Tiroides en Tijuana, BC",
