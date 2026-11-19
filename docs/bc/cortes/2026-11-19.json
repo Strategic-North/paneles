@@ -1,5 +1,557 @@
 [
  {
+  "titulo": "Cierran carril de telepeaje en Puente 1 de Piedras Negras por fallas",
+  "liga": "https://elcongresista.mx/politica/coahuila/cierre-telepeaje-puente-1-piedras-negras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:43:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "El carril de telepeaje del Puente Internacional 1 en Piedras Negras permanece cerrado por fallas, causando esperas de hasta cuatro horas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3d1a722707e7655b"
+ },
+ {
+  "titulo": "Cerrarán vialidades en Tijuana por el desfile del 20 de Noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYm9KLXplSGczRTlyam44TXRKaktDZDVRUmVhdDFtMk1xakdHUHJrdGtBNkpUdG5nT0gwYWJtQXhsSFFiZWhiVFFuQmE0Z1dsNWNnOEFITkVlYVA5UFkwZXNFQTM1Wk9VSDc0UkU5ZkI1eVlMOWlHRmE5UTFmRmhBeEUtT1dsRWp5d1hfbUtrajJVZlZyU3p1cF96d2d0aVBzOGRBSGs4QjNod3ozSnZOUU9Qa2N1SEU?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-19T15:42:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Cerrarán vialidades en Tijuana por el desfile del 20 de Noviembre AFN",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "a2a994e7f0062201"
+ },
+ {
+  "titulo": "Aumentan 16% las quejas por presuntas violaciones a derechos humanos en Durango: CEDH",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjZBSm1Kd21aMmhLbkdacjRtRlZWLTR5UmRFdmpaTnV6aXNmcm51NVUwcXIyaEhpV1V3VFhsaXZVYnVBcUdFczBSek5jOXpQZy1KN2ZMWk1nWnluUDRQTVJhNFUwMk1SbENUYUFqRTVYUTlrWkV2OWpBWXBsclFUa2FFSG9jUDNsUWxUYU5TVzhUc180YjY4cHZZbUFwMmtoVUlCQ3pnak1kaDlkbThYSFNMQVRtbzVJV2c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T15:41:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Aumentan 16% las quejas por presuntas violaciones a derechos humanos en Durango: CEDH Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c3c6b74c807301fc"
+ },
+ {
+  "titulo": "Capturan a Sergio Serrano Ramos, 'El Checo', en Ensenada",
+  "liga": "https://elcongresista.mx/politica/baja-california/captura-el-checo-ensenada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:41:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Sergio Serrano Ramos, 'El Checo', fue detenido en Ensenada tras un intento de evasión. Además, busca un nuevo amparo por su detención.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "f1925424ae549b80"
+ },
+ {
+  "titulo": "Detienen a ex alcalde de Tetipac, Guerrero, por extorsión",
+  "liga": "https://elcongresista.mx/politica/guerrero/detencion-ex-alcalde-tetipac-extorsion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:40:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Detienen a Vicente \"N\", ex alcalde de Tetipac, Guerrero, por extorsionar a empresa refresquera; se vincula con La Familia Michoacana.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a2ac8fa64d1dc515"
+ },
+ {
+  "titulo": "Invitan al desfile por el aniversario de la Revolución Mexicana en Tecate",
+  "liga": "https://elportavoznoticias.com.mx/invitan-al-desfile-por-el-aniversario-de-la-revolucion-mexicana-en-tecate/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-19T15:40:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "El Gobierno de Tecate invitó a las familias del municipio a asistir al Desfile Conmemorativo del Inicio de la Revolución Mexicana 2026, programado para este viernes 20 de noviembre a partir de... La entrada Invitan al desfile por el aniversario de la Revolución Mexicana en Tecate",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "694bb5142c3beff6"
+ },
+ {
+  "titulo": "Casi 30 millones de mexicanos viven en viviendas con rezago habitacional",
+  "liga": "https://elcongresista.mx/politica/nacional/casi-30-millones-rezago-habitacional",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:39:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Casi 30 millones de mexicanos viven en condiciones de rezago habitacional, según Conavi y Sedatu, exigen cambio en la formación arquitectónica.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8d2dae89bfc03515"
+ },
+ {
+  "titulo": "Monreal critica denuncia del PAN sobre presidencia del INE",
+  "liga": "https://elcongresista.mx/justicia/monreal-critica-denuncia-pan-tepjf",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:37:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Ricardo Monreal critica la denuncia del PAN ante el TEPJF para acelerar la elección de la presidenta del INE, considerándola un acto de protagonismo fugaz.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "94580eefe2713a53"
+ },
+ {
+  "titulo": "ENSENADA: Suspenden clases en Valle de la Trinidad, tras hechos violentos",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQelhWcTRHYmVPT1ZUUU5xMVRaVGZpMFkzYzdfZndPalZLUmJYRWJjbHlWUndLbkhOcndJXzAxeXN0YWttazkycFkyUU1LYzBHaDVBWFlzSjA3dUZuSkNpenQyMVktQWplSlQ0alBod0JrSnJvLWs4OXdpSXg4aUF1Zmx0bV95VmhNekJFa3o4S2hTMXNJcFB5Y3ZQNjFhckUzcHBoNGZjcTRtWlU?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T15:36:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "ENSENADA: Suspenden clases en Valle de la Trinidad, tras hechos violentos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "735888f3729405af"
+ },
+ {
+  "titulo": "Ópera de Tijuana presenta: Concierto de Navidad \"Locuras sacras\" de José Medina",
+  "liga": "https://www.uniradioinforma.com/sociedad/opera-tijuana-presenta-concierto-navidad-locuras-sacras-jose-medina-n915260",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T15:36:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5b7587b5c795549b"
+ },
+ {
+  "titulo": "México y Cuba reactivan encuentro interparlamentario tras tres años",
+  "liga": "https://elcongresista.mx/politica/nacional/mexico-cuba-reactivan-reuniones-interparlamentarias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:35:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "México y Cuba reactivan reuniones interparlamentarias tras tres años, enfocándose en salud y economía.",
+  "temas": [
+   "Salud",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c9b1408eeacfd39f"
+ },
+ {
+  "titulo": "Buscan crear conciencia sobre el abuso infantil",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjhXX0UtRTFIUkUxcGhnZ0FJYzBnaU5VZExqdWgxWjZCemtmcndOdkJpVDN6dFNsRHR5eURjd195WEdBTXZVOTJ2SG83VUgzcjBhZG1iVHVEa3BXVjBsdHpwaDVyZW9CRVFDRFZ4azBELWtjQnUyZEdZZVVwdzY1bFRHbGhTTklDamRmZFRia0w5SzVGcXJoT3c4ZFY5cUU?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-19T15:32:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Buscan crear conciencia sobre el abuso infantil AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "37f9eea271d26ce7"
+ },
+ {
+  "titulo": "Disneyland After Dark incluirá una celebración de la cultura latina",
+  "liga": "https://zetatijuana.com/2026/11/disneyland-after-dark-incluira-una-celebracion-de-la-cultura-latina/?utm_source=rss&utm_medium=rss&utm_campaign=disneyland-after-dark-incluira-una-celebracion-de-la-cultura-latina",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-19T15:30:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Además del regreso de Star Wars Nite, Pride Nite y Sweethears' Nite, en 2027 se incluirá Disneylandia Nite que festejará la herencia hispana. Los boletos limitados para estos eventos especiales estarán a la venta en diciembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ae29db6c957e315f"
+ },
+ {
+  "titulo": "Energisa no resuelve problemas de suministro en 91% de los casos en MS",
+  "liga": "https://elcongresista.mx/politica/nacional/energisa-ms-91-quejas-sin-solucion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:28:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "En Mato Grosso do Sul, el 91% de las quejas a Energisa por fallas eléctricas aún no tienen respuesta, afectando a la población.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "60ff23fc1e873194"
+ },
+ {
+  "titulo": "Llegará Desfile Navideño Gratuito a Playas de Tijuana: Fecha, Horario y Ruta",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDRwSUZ0T01Tem1vSlU0c0RDbkpYbzZUWkd2eTdvcVhaX2JQdGNFVzZicHV1dHI4aWpmTEkxOWNkRERiSng1MUhxMEhiOHlTcFl5VW82OFFCYWlIeFZuUG9rU2JkanRPckF4OG9HRndmZ0lsdkJLVXctUGI5ck1hRWM3SE1wVDJZampmNkZVMzdRMXRkQkpJcFRfSnJaSjZCU1lWTmxFdnI0M05kN3lFSDZ1SENFSEhId1hXeFVwbHBaZw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-19T15:28:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Llegará Desfile Navideño Gratuito a Playas de Tijuana: Fecha, Horario y Ruta N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "11e6aa3588b9635c"
+ },
+ {
+  "titulo": "Pumas, Monterrey y León luchan por el pase a liguilla del Apertura",
+  "liga": "https://elcongresista.mx/politica/nacional/pumas-lucha-por-clasificar-liguilla-apertura",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:23:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Pumas, Monterrey y León lucharán por un lugar en la liguilla del Apertura 2026 durante la última jornada del torneo.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b0f44bd96002fb29"
+ },
+ {
+  "titulo": "Pau Gasol y Vanessa Bryant buscan comprar las Sparks por 700 MDD",
+  "liga": "https://elcongresista.mx/politica/nacional/pau-gasol-vanessa-bryant-comprar-sparks-700-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:22:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Pau Gasol y Vanessa Bryant buscan adquirir las Sparks de WNBA por 700 millones de dólares, marcando un récord para la liga.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "03baf46f0a4e5a9e"
+ },
+ {
+  "titulo": "Congreso toma protesta a Lyzeth Salcedo como magistrada del Poder Judicial",
+  "liga": "https://www.uniradioinforma.com/sociedad/congreso-toma-protesta-lyzeth-salcedo-como-magistrada-poder-judicial-n915258",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T15:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Ocupa la vacante que dejó Adriel Córdova Pimentel tras su renuncia; cuestionan su militancia en Morena.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "00b55b350a68fa59"
+ },
+ {
+  "titulo": "Detienen a ex alcalde de Tetipac, Guerrero, por presunta extorsión a refresquera",
+  "liga": "https://zetatijuana.com/2026/11/detienen-a-ex-alcalde-de-tetipac-guerrero-por-presunta-extorsion-a-refresquera/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-ex-alcalde-de-tetipac-guerrero-por-presunta-extorsion-a-refresquera",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-19T15:17:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "La detención se atribuye a hechos del 27 de junio de 2026 contra repartidores de una empresa refresquera.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "79950d38f744377b"
+ },
+ {
+  "titulo": "Trabajadores de salud en Michoacán se manifiestan el lunes por 200 plazas vacantes",
+  "liga": "https://elcongresista.mx/politica/michoacan/trabajadores-salud-michoacan-manifestacion-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:17:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Trabajadores del sector salud en Michoacán se manifestarán el lunes para exigir la ocupación de más de 200 plazas vacantes.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "06d0774fc2f367db"
+ },
+ {
+  "titulo": "La Cuarta Transformación mejora la infraestructura en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/cuarta-transformacion-infraestructura-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:16:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "La Cuarta Transformación mejora la infraestructura en Morelia, beneficiando a comunidades con mejores vialidades y accesos a servicios.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f3bfb7c6eb56b8fd"
+ },
+ {
+  "titulo": "Comercios de Morelia superan expectativas del Buen Fin con 120 mdp",
+  "liga": "https://elcongresista.mx/politica/michoacan/comercios-morelia-buen-fin-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "La derrama económica del Buen Fin 2026 en Morelia alcanzó los 120 millones de pesos, un aumento del 25% respecto al año anterior.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b062d506bcbdc61c"
+ },
+ {
+  "titulo": "El Checo, líder del CJNG en Tecate promueve amparo tras nueva captura",
+  "liga": "https://zetatijuana.com/2026/11/el-checo-lider-del-cjng-en-tecate-promueve-amparo-tras-nueva-captura/?utm_source=rss&utm_medium=rss&utm_campaign=el-checo-lider-del-cjng-en-tecate-promueve-amparo-tras-nueva-captura",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-19T15:15:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Sergio Serrano Ramos presentó demanda de derechos fundamentales contra su detención e incomunicación tras ser reaprehendido. El presunto criminal había quedado en libertad en agosto tras ganar un amparo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b215bf0333696acf"
+ },
+ {
+  "titulo": "Capturan a \"El Pagador\", líder de célula criminal ligada a \"Los Mayos\"",
+  "liga": "https://www.uniradioinforma.com/sociedad/capturan-el-pagador-lider-celula-criminal-ligada-los-mayos-n915254",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T15:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Es identificado como líder de una célula criminal autollamada \"Fuerzas Especiales Avendaño\"",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4fc367eeb0b9d8f5"
+ },
+ {
+  "titulo": "Alertan por violencia contra las mujeres en Durango: reportan más de 4 mil denuncias por violencia familiar",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGdJZFdEd0RCUmI4TC1iVnBnYUZ4SHJqaWlPRmtFbW9XSVR6Tkp6NXpEUFdkZUtGSFkyN0E3aDlDbXVzdTVhb0RwNHMyMnV6dVlzNVM4RExEQW5jY0VvZ2o0N2cwMjlGcnkwLTNTbFBUOFZ5MDZJeU9ab3hqQmFESGVweVJjMDRyY3hpamgyU2pCZ1pyeFU1TW4wV3J2TS03eGtFODF3aXhDXy1tT0xMNW1LY29QQW9rWmFUaGltZ1FMbjNpM0lhcld0TWhyRFVxbEl0d3VEa2g?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T15:12:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Alertan por violencia contra las mujeres en Durango: reportan más de 4 mil denuncias por violencia familiar Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ad7214b818490ae8"
+ },
+ {
+  "titulo": "Estatales de UABC se disputarán en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5SN0hTZW5QMWM0N1ZyMzlUbEhIeVluMTduLV9XYlY2ei00QTRibWU3LXlOLTFwZE5vQUNxQTdmNXpRSmVjckhJeEMzWGpBQWIyVUdCUmY4R2hZLVhoT20zOHczVkxWNFZsanEwNkZoaDI0S01CcXk4N0M5bEpJakZ3b01LbTIzd1U4RkZoU1VnSnJsUWhiQ21LN3A4dkE?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-19T15:11:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Estatales de UABC se disputarán en Mexicali El Sol de México",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "a23ed7f50e5060d5"
+ },
+ {
+  "titulo": "Ofrece Secretaría de Salud servicios gratuitos para la prevención y el cuidado de la salud masculina",
+  "liga": "https://www.uniradioinforma.com/salud/ofrece-secretaria-salud-servicios-gratuitos-prevencion-cuidado-salud-masculina-n915251",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T15:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Se invita a todos los hombres a acercarse a su unidad de salud o a las Caravanas de Salud para conocer y acceder a los servicios.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "92c640e218c88c78"
+ },
+ {
+  "titulo": "IETAM desecha quejas por participación de menores en política",
+  "liga": "https://elcongresista.mx/tamaulipas/ietat-desecha-quejas-participacion-menores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:09:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "El IETAM declara inexistentes quejas electorales por falta de pruebas sobre la participación de menores en política.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "8083b9dd601f88fd"
+ },
+ {
+  "titulo": "IMSS Tamaulipas: aplican 156 mil vacunas en campaña invernal",
+  "liga": "https://elcongresista.mx/tamaulipas/imss-tamaulipas-vacunacion-invernal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:08:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "IMSS Tamaulipas aplica 156 mil dosis en campaña de vacunación para proteger a la población de enfermedades respiratorias.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "e9235c612a8fe0a6"
+ },
+ {
+  "titulo": "Prevén chubascos, viento y posibles bancos de niebla en Ensenada",
+  "liga": "https://www.uniradioinforma.com/sociedad/preven-chubascos-viento-posibles-bancos-niebla-ensenada-n915249",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T15:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Protección Civil recomienda extremar precauciones ante posibles encharcamientos, reducción de visibilidad y rachas de viento.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "5f352ebdffa80b17"
+ },
+ {
+  "titulo": "Síndica Guadalupe Rodríguez exige devolución de auto para su oficina",
+  "liga": "https://elcongresista.mx/politica/hidalgo/sindicatura-tula-devolucion-nissan-verso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:07:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "La síndica Guadalupe Rodríguez de Tula exige la devolución de un Nissan Versa para sus actividades legales y denuncia mal uso de otros vehículos.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6465e9736257cdac"
+ },
+ {
+  "titulo": "LAP celebrará su octava edición con al menos 20 combates en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3BBWVpaa0tpUmJWbmZoSFZTb1Y3bjYwR3VoS1Z3RUV6MFRkVGVlTnNWLTFER3pTM2RVbldOSnZ0WkUxQXp0cUJCckVSN2VOeWdTbVA4d2U4RDJ2NU9ZU2NTV1RmanVZemhsbnBIbHdmQjYyUWpMTFE1YUEyWjhkOUFZUVlqdFB4THNXLUpydHpiVGNIY2VudWlQcktsMUJfU0pwSQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T15:07:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "LAP celebrará su octava edición con al menos 20 combates en Tijuana Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2879a13b508a9133"
+ },
+ {
+  "titulo": "Atotonilco de Tula: festival del pulque espera 40 mil visitantes",
+  "liga": "https://elcongresista.mx/politica/hidalgo/festival-pulque-atotonilco-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:07:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Atotonilco de Tula celebra su Festival del Pulque Ocampo los 21 y 22 de noviembre, con gastronomía y talleres. Se esperan 40 mil visitantes.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b529f1a7e5f79084"
+ },
+ {
+  "titulo": "Suma SSPCM esfuerzos con otras instituciones para fortalecer la prevención y seguridad en escuelas de Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/suma-sspcm-esfuerzos-otras-instituciones-fortalecer-prevencion-seguridad-escuelas-tijuana-n915247",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T15:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "ab1da564c17c411d"
+ },
+ {
+  "titulo": "Dan 60 años de prisión a exalcalde de Iguala por ataque armado a Los Avispones en 2014",
+  "liga": "https://www.uniradioinforma.com/sociedad/dan-60-anos-prision-exalcalde-iguala-ataque-armado-avispones-2014-n915245",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T15:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "José Luis Abarca y otras 25 personas obtuvieron sentencia condenatoria por los mismos hechos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "61da94125064999b"
+ },
+ {
+  "titulo": "Migrantes en Mexicali: el 2026 trae más llegada del centro del país",
+  "liga": "https://elcongresista.mx/politica/baja-california/migrantes-mexicali-albergue-cobina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T15:01:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "La mayoría de los migrantes que llegan a Mexicali provienen del centro de México, según el albergue Cobina.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "de206b19691ef4a3"
+ },
+ {
+  "titulo": "Pide regidor a la FGE resolver sobre denuncia en su contra; presentó queja ante la CEDHBC",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2Y1cmsteF9yUlBuZGxtbW9YR21WNkZsZGlSR2ZXenBCZVBlVXJES3BhZEpuNnB6LUNSa01lZ2g0OG5VTTRzbWlvNjNkUnZJd25vSVpZaHZrUjlydUdsbVBJd0FyS2x0MmZLMEk0TzB6TXZSNFBoakpFenZyWUNUYlU0TTN5M3Q3cGwweGs0STFmejVqbEFZNGtYZlN0dkdZS0pCN25xUmt0bHNQRWtIbW1CZjN2WndBVFhnSC1hTFF3M2lLT0NNOUE1WFlIdkhlVkM0cXFB?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-19T15:00:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Pide regidor a la FGE resolver sobre denuncia en su contra; presentó queja ante la CEDHBC AFN",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "e942d3e1839951cd"
+ },
+ {
+  "titulo": "Denuncian afectaciones a cinco casos de violencia sexual infantil durante transición judicial en Durango",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWZfUGFHdUxQMXVPVGszNFZOalU0anduTUs2U1k2WXYyODlQOVRpZUxZUjI3b2EzTGtINXBoNWF1UmhkUEFid0o4QnpMTi1uam15Y0R0dkk4VmJHUHlveTJXTXF3ZXFWc3NySWwtRkZTZnZLNVpnZzViemVsZjBRbkZZWFMtZDNCVlBDTnd2MzBITFJZZTE3V29jT2ZzS0dHeThZWUtLWlUtMkcxNXRzcERueldKQ0N0LV9jdmdSeUhWcVJEaUtGVXpNMjAydHNsM1NHejF3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T14:57:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Denuncian afectaciones a cinco casos de violencia sexual infantil durante transición judicial en Durango Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "3db04e2d11d04f47"
+ },
+ {
   "titulo": "AlphaFold 2 predice más de 260 millones de estructuras de proteínas",
   "liga": "https://elcongresista.mx/ciencia/alpfafold-260-millones",
   "medio": "El Congresista",
@@ -114,6 +666,20 @@
   ],
   "local": true,
   "id": "ed8d2aefbe791b13"
+ },
+ {
+  "titulo": "DURANGO: Aseguran 170 ponchallantas, armas y dos vehículos durante operativo",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjEya2x6R3JhWVU2emtFaTRUWGhSOC1tV2ViZ3Z5VkZ0Ul91b2NhMXJPbUFnV0ItSU9NMEVyMmVLelUta2xwM3l2NkdyTmdFTktIS1BTTDVtVGNRazdBRC1OeFlYYmhiS1pnX0xYT0RFV0hHMDVaMjRNc3FvbS0tbmd3VVFkWFgzTDM5S3d4QzRuWlhYNmpBeFA3X0VGQm9iOFRMZlhjZGNaNnZ6elE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T14:43:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "DURANGO: Aseguran 170 ponchallantas, armas y dos vehículos durante operativo Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f0583fe876ed6c08"
  },
  {
   "titulo": "EU sanciona a los Comancheros y la ‘Ndrangheta, por dar soporte logístico a cárteles mexicanos",
@@ -260,6 +826,22 @@
   ],
   "local": true,
   "id": "c7dce1a6b5d80df0"
+ },
+ {
+  "titulo": "4ª Cumbre de Concanaco arranca en Tijuana; llaman a convertir el T-MEC y el comercio internacional en oportunidades para los negocios familiares",
+  "liga": "https://www.uniradioinforma.com/sociedad/4-cumbre-concanaco-arranca-tijuana-llaman-convertir-t-mec-comercio-internacional-oportunidades-negocios-familiares-n915240",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T14:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Octavio de la Torre de Stéffano encabezó el arranque junto al senador Emmanuel Reyes Carmona, el alcalde Ismael Burgueño Ruiz y la síndica procuradora Teresita de Jesús Balderas Beltrán",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ec91f9d3cf2c0f43"
  },
  {
   "titulo": "La unidad canina de libertad condicional del condado de San Diego lidera una campaña de donación para perros de refugio",
@@ -1041,6 +1623,20 @@
   "id": "dca13129194205a8"
  },
  {
+  "titulo": "Gobierno de Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKdUlHakNFTUJqNFZOSEhYQ2duLXJsaHp0clUzNFlETl8wc1d2RFhobnRpZUU2S08wV3h3azE5X01sTFVEeXg3X1dKdmZuMVA2M2hRUklMZ0xyYk5PeGREUV9XOTE?oc=5",
+  "medio": "Gobierno de Baja California",
+  "publicada": "2026-11-19T12:55:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Gobierno de Baja California Gobierno de Baja California",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c52f1735982dd00c"
+ },
+ {
   "titulo": "SNTE anuncia puente para maestros por Día Internacional del Hombre",
   "liga": "https://puntonorte.info/2026/11/19/snte-anuncia-puente-para-maestros-por-dia-internacional-del-hombre/",
   "medio": "Punto Norte",
@@ -1414,6 +2010,20 @@
   ],
   "local": true,
   "id": "26f87135722ad29d"
+ },
+ {
+  "titulo": "Las mariscadoras de Vilanova reclaman soluciones a los vertidos en la ensenada de O Esteiro",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ3VDZUp0SkZIZ0kzMkpTRmVjZEhqQTNVOFNjMjFrdTlVUkdDODd2YlByM2VHVHR6bXUyQ2NFRXZJdjNvUTFTejROWHZDcmpRczN4ODdSa2NodDR2OGlvUUIwdmEyV0tWSlBNOTRRSHBLYnpVQjBzMHBpbTU2MUhtTnZLaVBhMmIzX2Rmdi1PazYwajNXU25CdHhKSnljQ2RTeG1vTGczUjRHN2NTVFBfQlFWdEdHWHRZYllNM1pFOFZ2UTdYUjBjUk9LQmloVFhvVTdFM9IB2gFBVV95cUxORFltVklQaGRJeDlmajlNUjM1STVNVFBEMi1NZlpPYk1aRjZPVTh2R2ZPMkpHb2ZyWTBCWHMycnhuZjBkVndYTWlZcl9hbUl3SkpDeW04SXBUWld4bU0zd3FqUGRfZEhlcjVSbFlzN1RlaHUzQXMzTGZCVGpEbWN2dVNlWmpFNktuaWxtUUdydkxLQk9ENDVyMXZ4SHBEUlpvdWp6cG9SQ0QwbWEwR0o0eVNKUW9rOV94bTdJcDRXUGhZS0ZmX3ZobUhDN20zUXQ0RVRvVEI4MDJjdw?oc=5",
+  "medio": "Faro de Vigo",
+  "publicada": "2026-11-19T11:59:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Las mariscadoras de Vilanova reclaman soluciones a los vertidos en la ensenada de O Esteiro Faro de Vigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d020faf5a19ccf5a"
  },
  {
   "titulo": "Detienen y vinculan a proceso al tercer ferroviario señalado por el descarrilamiento del Tren Interoceánico",
@@ -2138,6 +2748,20 @@
   "id": "196cd1422e8bac71"
  },
  {
+  "titulo": "México prevé avances próximos en aranceles con EU y mantiene un “plan B” comercial: Concanaco",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/mexico-preve-avances-proximos-en-aranceles-con-eu-y-mantiene-un-plan-b-comercial-concanaco-33217146",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-19T10:44:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "De la Torre señaló que las decisiones sobre el T-MEC dependen de Trump, pero que el factor económico influye en el comportamiento electoral y la geopolítica.",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "7affc0a58ddef315"
+ },
+ {
   "titulo": "Detienen en Ensenada a Sergio Serrano ‘El Checo’, líder del Cártel Jalisco Nueva Generación en Tecate",
   "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXF2QXZ6TUlMNWY5VWRxZHJ0U25ia0Exd2JiRjdNZXBTV0J0c0JRalNoUE01X0NzSlZwc3FJT0paZlJlenVFejlxSkVxSlRlOVF3QnltVjRINDRleFU4empYR2JfSjg0WGJjSjhyNmJGSV81YS1VNTR1M3BLVTE4VE93TGJIeTg?oc=5",
   "medio": "El Canal de las Noticias",
@@ -2454,6 +3078,20 @@
   "id": "1bdf34cd6ad7da20"
  },
  {
+  "titulo": "Desfile por el aniversario de la Revolución Mexicana provocará cierres viales en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/desfile-por-el-aniversario-de-la-revolucion-mexicana-provocara-cierres-viales-en-tijuana-33216685",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-19T10:07:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "El recorrido comenzará a las 9:00 horas y reunirá a más de 100 contingentes.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "449e4a033aad4e99"
+ },
+ {
   "titulo": "Celebra la Iglesia el centenario del fusilamiento del Padre Pro",
   "liga": "https://elcongresista.mx/justicia/fusilamiento-padre-pro-centenario",
   "medio": "El Congresista",
@@ -2466,6 +3104,34 @@
   ],
   "local": false,
   "id": "318c94a50b2c3e83"
+ },
+ {
+  "titulo": "Inauguran paneles ‘México ante una nueva etapa del comercio global’, en el marco de la 4ta. Cumbre Empresarial de CONCANACO SERVYTUR",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/inauguran-paneles-mexico-ante-una-nueva-etapa-del-comercio-global-en-el-marco-de-la-4ta-cumbre-empresarial-de-concan-33216628",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-19T10:05:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "La 4ta. Cumbre Empresarial, que reúne a autoridades de gobierno y representantes del sector empresarial, contempla actividades del 19 al 21 de noviembre.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ad2f5ea184dcfe7c"
+ },
+ {
+  "titulo": "Día del Inodoro: Conoce la importancia que tiene en la vida",
+  "liga": "https://oem.com.mx/lavozdelafrontera/tendencias/dia-del-inodoro-conoce-la-importancia-que-tiene-en-la-vida-18413879",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-19T10:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Se designó el día 19 de noviembre como el Día Internacional del Inodoro por la Asamblea General de las Naciones Unidas",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "93a93a528b2d1db4"
  },
  {
   "titulo": "Tesorería recauda $947 millones en primer mes de facilidades del CAE",
@@ -2495,6 +3161,20 @@
   ],
   "local": false,
   "id": "da9b1cc634f6869d"
+ },
+ {
+  "titulo": "Ensenada: Se sortearon viviendas de la Provincia",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlVSNDBJN2lhQWlIY0p2X2VtMWNVZXBBNUY2UFZNVVdjRVFrUHdYNUpDZ05LNU45S2pjTnQ5LVN0eVNMX2ZVUTlLLXBWVUc5U0VKdEx4SnZBYUlKSHBGekp3bVlZeDlVYkJXWU5BelZSX0VzWWx3SGcyaHZDVEV0TFVUQXZ0aF82M0l5RERwdmhjd1Z3WkN6eVBUTVBvSmFPR1BzemdLQdIBpwFBVV95cUxQRlVSNDBJN2lhQWlIY0p2X2VtMWNVZXBBNUY2UFZNVVdjRVFrUHdYNUpDZ05LNU45S2pjTnQ5LVN0eVNMX2ZVUTlLLXBWVUc5U0VKdEx4SnZBYUlKSHBGekp3bVlZeDlVYkJXWU5BelZSX0VzWWx3SGcyaHZDVEV0TFVUQXZ0aF82M0l5RERwdmhjd1Z3WkN6eVBUTVBvSmFPR1BzemdLQQ?oc=5",
+  "medio": "Buenos Aires al día",
+  "publicada": "2026-11-19T10:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Ensenada: Se sortearon viviendas de la Provincia Buenos Aires al día",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ec8f888c7f2e5e3b"
  },
  {
   "titulo": "Aprobada nueva Ley de Bienestar Animal en México con 470 votos a favor",
@@ -2554,6 +3234,20 @@
   ],
   "local": true,
   "id": "040f027e001d8ff5"
+ },
+ {
+  "titulo": "Colef plantea recorrer el inicio del ciclo escolar por retrasos en becas",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/colef-plantea-recorrer-el-inicio-del-ciclo-escolar-por-retrasos-en-becas-33215147",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-19T09:57:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "En total el Colef invirtió 1 millón y medio de pesos en el pago de becas de maestría y posgrado, indicó Espinoza Valle.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "81a29cec62f8c5f1"
  },
  {
   "titulo": "Entrada del Frente Frío 7 en Baja California Traerá Lluvias, Olas Altas y Clima Gélido",
@@ -4475,6 +5169,20 @@
   "id": "29288bdf0c63c34a"
  },
  {
+  "titulo": "Noticias sobre lidom",
+  "liga": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WaC1yWEl6WXdSaXFVaV9ZdDk5V2E2VVpZaGdCbnhpMkF5eFQwcjktWmRzRnNIT21IUGhueEctdW96dEN2UWxMTjAtcDFTMG10Zjhud3Z3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T04:06:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Noticias sobre lidom Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "810cd52cdce9ec52"
+ },
+ {
   "titulo": "Hoy No Circula jueves 19 de noviembre: placas 1 y 2, engomado verde",
   "liga": "https://elcongresista.mx/vehicular/hoy-no-circula-jueves-19-noviembre-2026",
   "medio": "El Congresista",
@@ -4515,6 +5223,20 @@
   ],
   "local": false,
   "id": "6766eb993db5b038"
+ },
+ {
+  "titulo": "Denuncian un dragado en Ensenada por el riesgo de liberar contaminantes al mar",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTZGME5YcFV4X3ZIRlNUcGtzbTZLdy05QldITGtYNEpjZ1pCa0o0REtfdDltanVqWmNYb0ZkbVdNRXVDRDBSaFUyVzRPQjFVWWI0Z1d5SGRsSkdjRlFmSU4zaTRES05iSjdMRHRydG5VeTFET1RqU0lKSGxkd3VaM3dIUEtqYkFJa2dzZFBlVHNKMW11M2pzNVFFVk1LdE1kd0N2M09Xa3liU3dEb2R0TmNDT05STzZyLWJJetIBwgFBVV95cUxQbmV6M2t1THBieHJRU25sWUhZekowUnhIdnhVUWl2MDhoMXM1dk9GQ0RudF8wcDlIMVdZVVpySjliVnRSVWdPcklMbTh1MmVTcjcxUFY3M2ZpcndYMWZ1SUdTTERtRlFNbHBzVnBlTGJIcXFCSEZNLWYwNVV4YnpZam9fNktTc2JzMjQxTVBpMXh6NEswbERRV1hrbk5iOGJhR0RnM3BBRmo4Z3VCVjBjWkVyTmhBa3dtTU5tVUxDVkd2dw?oc=5",
+  "medio": "Economía Sustentable",
+  "publicada": "2026-11-19T03:52:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T15:53:42-06:00",
+  "resumen": "Denuncian un dragado en Ensenada por el riesgo de liberar contaminantes al mar Economía Sustentable",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "108a214a23fadabf"
  },
  {
   "titulo": "Sheinbaum resalta inversión australiana en hidrocarburos con Albanese",
