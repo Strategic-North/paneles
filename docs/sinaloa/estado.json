@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-18T19:53-06:00",
+ "actualizado": "2026-11-18T20:54-06:00",
  "corte": "2026-11-19",
  "ventana": [
   "2026-11-18T18:30-06:00",
   "2026-11-19T18:30-06:00"
  ],
- "total": 77,
+ "total": 136,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 451
+   "notas": 462
   },
   {
    "fuente": "Los Noticieristas",
