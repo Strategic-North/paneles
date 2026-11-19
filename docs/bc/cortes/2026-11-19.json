@@ -1,5 +1,283 @@
 [
  {
+  "titulo": "UAT firma contrato colectivo con 97% de apoyo de trabajadores.",
+  "liga": "https://elcongresista.mx/tamaulipas/uat-firma-contrato-97",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:35:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "La UAT firma un contrato colectivo con mejoras salariales, respaldado por el 97% de sus docentes, buscando estabilidad laboral.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "0871688f0d973410"
+ },
+ {
+  "titulo": "GTA VI genera $1.5 mil millones en preventas antes de su lanzamiento",
+  "liga": "https://elcongresista.mx/tecnologia/gta-vi-preventas-1-5-mil-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:34:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "GTA VI de Rockstar Games superó los $1.5 mil millones en preventas, creando gran expectativa entre los fans.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "75b0e385c664d86d"
+ },
+ {
+  "titulo": "Aumenta la preocupación por la enseñanza de escritura en Chile",
+  "liga": "https://elcongresista.mx/politica/nacional/preocupacion-ensenanza-escritura-chile",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:33:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "La falta de atención a la enseñanza de la escritura en Chile plantea preocupaciones en el sistema educativo, a pesar de las iniciativas gubernamentales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "625e48f3787833f7"
+ },
+ {
+  "titulo": "Suno lanza Visuals y genera videoclips con lip-sync automático",
+  "liga": "https://elcongresista.mx/tecnologia/suno-visuels-videoclips-automaticos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:32:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Suno lanza Visuals, una herramienta que crea videoclips automáticos con lip-sync para cada canción generada.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "584f088bfe6074e1"
+ },
+ {
+  "titulo": "Se registran 6 candidatos a Rectoría de la UMSNH para elección",
+  "liga": "https://elcongresista.mx/politica/michoacan/seis-candidatos-rectoria-umsnh",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:30:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Seis aspirantes registran sus candidaturas a la Rectoría de la Universidad Michoacana de San Nicolás de Hidalgo, con elecciones el 25 de noviembre.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Educación"
+  ],
+  "local": false,
+  "id": "dea4d9149a904c46"
+ },
+ {
+  "titulo": "Zapopan: anuncian 759 mdp para infraestructura vial y pública",
+  "liga": "https://elcongresista.mx/vehicular/zapopan-inversion-759-mdp-obras-viales-espacios-publicos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:20:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Anuncian inversión de 759 mdp en obras viales y espacios públicos en Zapopan, mejorando la movilidad en la región.",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "fae3b06839e1e058"
+ },
+ {
+  "titulo": "Gobierno de México invertirá 2,600 millones en sargazo para 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/gobierno-mexico-sargazo-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:19:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "El Gobierno de México impulsará la recolección de sargazo con una inversión de 2,600 millones para 2027 y más infraestructura.",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5a280775c2947ca0"
+ },
+ {
+  "titulo": "California prohíbe a Waymo usar autopistas tras problemas de seguridad",
+  "liga": "https://elcongresista.mx/vehicular/waymo-california-veta-autopistas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:17:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Waymo pierde acceso a autopistas en California tras incidentes de seguridad que amenazaron la conducción autónoma, según el DMV.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "40158937d8a0adfc"
+ },
+ {
+  "titulo": "Morena prohíbe a candidatos \"oportunistas\" con nuevas reglas",
+  "liga": "https://elcongresista.mx/politica/puebla/morena-puebla-nuevas-condiciones-candidatos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:07:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Morena lanza nuevas condiciones para candidatos a diputaciones en Puebla, exigiendo residencia efectiva y prohibiendo perfiles inadecuados.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fe48be24f261d1c4"
+ },
+ {
+  "titulo": "Yorushika: Plagiarism se proyectará en Cinépolis el 27 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/yorushika-plagiarism-cinepols-mexico-latinoamerica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Yorushika: Plagiarism se exhibirá el 27 de noviembre en Cinépolis; boletos a la venta desde el 18 de noviembre en México y Latinoamérica.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "afe78b64160ca9b1"
+ },
+ {
+  "titulo": "Orquesta de Cámara de Bellas Artes ofrecerá concierto de Reich y Glass",
+  "liga": "https://elcongresista.mx/cultura/orquesta-camara-bellas-artes-concierto-reich-glass",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:03:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "La Orquesta de Cámara de Bellas Artes presenta un homenaje a Steve Reich y Philip Glass el 19 de noviembre en CDMX.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "45b31c29202be441"
+ },
+ {
+  "titulo": "Aprueba México ley que protege a los animales de la agresión",
+  "liga": "https://elcongresista.mx/politica/nacional/ley-bienestar-animales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:02:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "La nueva ley en México establece la prohibición de la agresión a los toros en eventos públicos, promoviendo el bienestar animal.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7d79d785d64e3369"
+ },
+ {
+  "titulo": "Exconsejeros electorales piden nombramiento urgente en el INE",
+  "liga": "https://elcongresista.mx/justicia/exconsejeros-ine-nombramiento-urgente",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T07:00:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Exconsejeros del INE llaman al Congreso a elegir nueva presidenta urgentemente ante crisis de credibilidad.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e107adc78e5d25ab"
+ },
+ {
+  "titulo": "Profeco concilia 98.8% de quejas y recupera 1.57 mdp en El Buen Fin",
+  "liga": "https://elcongresista.mx/politica/nacional/profeco-buen-fin-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T06:49:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "La Profeco conciliò el 98.8% de quejas en El Buen Fin 2026 y recuperó más de 1.57 millones de pesos para consumidores.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f8672fca5d4f7eb1"
+ },
+ {
+  "titulo": "Delegado del Gobierno en Cantabria ratifica agresión de edil del PP",
+  "liga": "https://elcongresista.mx/justicia/delegado-cantabria-agresion-edil-pp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T06:48:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Pedro Casares denuncia agresión por el edil del PP, David Setién, en una feria ganadera en Cantabria y ratifica su declaración ante la jueza.",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones",
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "4c9ce06e2ed18ca6"
+ },
+ {
+  "titulo": "Semark abre nuevo almacén en Ponferrada por 4,5 millones de euros",
+  "liga": "https://elcongresista.mx/politica/nacional/semark-abre-almacen-ponferrada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T06:47:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Semark inaugura un nuevo almacén en Ponferrada, con una inversión de 4,5 millones de euros y la creación de 28 empleos.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a4c33608b1df0c30"
+ },
+ {
+  "titulo": "Xi, Putin y Trump acuerdan reforma de la ONU y suministro energético",
+  "liga": "https://elcongresista.mx/politica/nacional/xi-putin-trump-reforma-onu-suministro-energetico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T06:47:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Xi Jinping, Vladimir Putin y Donald Trump acuerdan reformar la ONU y aumentar suministro energético en reunión histórica en China.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d71230cbfe649270"
+ },
+ {
+  "titulo": "Rosa Icela Rodríguez encabeza conferencia matutina en Palacio Nacional",
+  "liga": "https://elcongresista.mx/politica/nacional/rosa-icela-rodriguez-conferencia-palacio-nacional",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T06:45:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Rosa Icela Rodríguez encabeza la conferencia matutina en lugar de Claudia Sheinbaum, presente en APEC 2026. Posibles anuncios sobre el INE.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4333afc21c97db90"
+ },
+ {
+  "titulo": "El Concejo Deliberante de Quilmes otorga menciones a 15 destacados",
+  "liga": "https://elcongresista.mx/politica/nacional/quilmes-menciones-honorificas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T06:37:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "El Concejo Deliberante de Quilmes reconoce a 15 vecinos e instituciones en una ceremonia especial por su aporte a la comunidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3f5c62055d09c292"
+ },
+ {
   "titulo": "Estafadores suplantan identidad de abogado mediante TikTok y Telegram",
   "liga": "https://elcongresista.mx/justicia/suplantacion-abogado-tiktok",
   "medio": "El Congresista",
@@ -204,6 +482,20 @@
   ],
   "local": false,
   "id": "502e1c07fc8a7acf"
+ },
+ {
+  "titulo": "\"Ya no quieren ser maestros\": docentes renuncian por gritos y presiones de padres, alertan escuelas particulares de Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/ya-quieren-ser-maestros-docentes-renuncian-gritos-presiones-padres-alertan-escuelas-particulares-tijuana-n914858",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T06:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Maestros, al límite: el desgaste por conflictos con padres empuja renuncias, advierten colegios de Tijuana.",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "8052f02224c7dad4"
  },
  {
   "titulo": "Jalisco y la SSP: acuerdos para combatir el narcotráfico",
@@ -1664,6 +1956,20 @@
   ],
   "local": false,
   "id": "50e3716818731886"
+ },
+ {
+  "titulo": "Detienen a hombre armado con un cuchillo",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXNjLXNnVTRRdEUtNVJWdUVtM3FTMG82T2lCWl9QRWxVY21aQTdLLTZGY3FVbTloVjl6Z2tYTlJFd2dUcjg5S2k3T2VLbjVlZjhNREF3RDlhN0paNzRiWXJEQTktdkppY19KMndUWVFHNGQ0ZUpET2drWEZhYzBvRDhsTFhUSjdtc0ZYMjJ0eEFrYVNqM3c?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-19T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T07:55:23-06:00",
+  "resumen": "Detienen a hombre armado con un cuchillo El Vigía",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "aedab248aa7de86d"
  },
  {
   "titulo": "Confirma BC su liderazgo en desarrollo con nuevos parques industriales y más oportunidades de inversión",
