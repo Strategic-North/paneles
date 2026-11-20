@@ -1,5 +1,384 @@
 [
  {
+  "titulo": "Morelia: se descarta robo en joyería tras alerta de empleados",
+  "liga": "https://elcongresista.mx/politica/michoacan/morelia-no-hubo-robo-joyeria-centro-historico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:36:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Policía de Morelia descarta robo en joyería, tras alerta de empleados sobre individuos sospechosos en el Centro Histórico.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "91f990a712b50393"
+ },
+ {
+  "titulo": "Europa enfrenta un declive de PIB que rondará el 13.8% para 2025",
+  "liga": "https://elcongresista.mx/politica/nacional/europa-declive-pib-2025",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:35:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Según Putin, Europa verá caer su PIB al 13.8% para 2025, en comparación con el crecimiento de China al 19%.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9acc514d201dc391"
+ },
+ {
+  "titulo": "Localizan colectivos de búsqueda cinco cuerpos en Tecate",
+  "liga": "https://zetatijuana.com/2026/11/localizan-colectivos-de-busqueda-cinco-cuerpos-en-tecate/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-colectivos-de-busqueda-cinco-cuerpos-en-tecate",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-19T23:34:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "El colectivo de búsqueda de personas desaparecidas en el municipio de Tecate localizó, poco después del mediodía de este jueves, un área plagada de restos humanos y osamentas, además de dos cuerpos que habrían sido abandonados recientemente.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "df00df883bbf0d2a"
+ },
+ {
+  "titulo": "Jubilados de la Cámara de Diputados desbloquean San Lázaro tras diálogo",
+  "liga": "https://elcongresista.mx/politica/nacional/jubilados-liberan-san-lazaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:31:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Jubilados de la Cámara de Diputados reabren San Lázaro tras diálogo por apoyo económico de 12 mil pesos mensuales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "50e97601a15b161e"
+ },
+ {
+  "titulo": "Ramos Arizpe destina 4.2 millones a 370 productores rurales",
+  "liga": "https://elcongresista.mx/politica/coahuila/ramos-arizpe-inversion-productores-rurales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:20:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "El municipio de Ramos Arizpe destina 4.2 millones de pesos para apoyar a más de 370 productores rurales y fortalecer su actividad económica.",
+  "temas": [
+   "Gobierno municipal",
+   "Campo y pesca",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "814ba026bfe1d94b"
+ },
+ {
+  "titulo": "21 buscan candidatura del PAN a alcaldía de Mexicali",
+  "liga": "https://zetatijuana.com/2026/11/21-buscan-candidatura-del-pan-a-alcaldia-de-mexicali/?utm_source=rss&utm_medium=rss&utm_campaign=21-buscan-candidatura-del-pan-a-alcaldia-de-mexicali",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-19T23:20:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "DIPUTADOS, EXINTEGRANTES DEL PODER LEGISLATIVO, EMPRESARIOS, UN EXCOORDINADOR DE CAMPAÑA DE JAIME BONILLA, ENTRE LOS ASPIRANTES",
+  "temas": [
+   "Política y partidos",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "7b3a0daa0c41fbff"
+ },
+ {
+  "titulo": "Detienen a ocho integrantes de Los Mayos en Ensenada; aseguran armas",
+  "liga": "https://elcongresista.mx/politica/baja-california/detienen-ocho-integrantes-mayos-ensenada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:19:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Ocho presuntos integrantes de Los Mayos fueron detenidos en Ensenada durante un operativo que también aseguró armas y equipo táctico.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ca01be4df36074e5"
+ },
+ {
+  "titulo": "Embajada de EU: 300 toneladas de precursores químicos de China",
+  "liga": "https://elcongresista.mx/politica/nacional/embajada-eeuu-300-toneladas-quimicos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:17:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "La Embajada de EE. UU. denunció el decomiso de 300 toneladas de precursores químicos de China, vinculados al Cártel de Sinaloa.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7717f1a455b6f99e"
+ },
+ {
+  "titulo": "Nombran a Rigoberto Mares precandidato del PAN en La Paz, BC Sur",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/rigoberto-mares-precandidato-pan-la-paz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:17:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Rigoberto Mares es designado precandidato del PAN en La Paz, Baja California Sur, de cara a las elecciones de 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "d73f719b8a30363d"
+ },
+ {
+  "titulo": "Vinculan a proceso a \"La Pocha\" y \"El Nazi\" por armas del Ejército",
+  "liga": "https://elcongresista.mx/tamaulipas/vinculan-proceso-pocha-nazi-cartel-noreste",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:16:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "\"La Pocha\" y \"El Nazi\" son vinculados a proceso por posesión de armas del Ejército; enfrentarán prisión preventiva en el Cefereso.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6966f97bce9a8e2b"
+ },
+ {
+  "titulo": "Javier Díaz impulsa la unión entre Saltillo y Austin en festejos por 450 años",
+  "liga": "https://elcongresista.mx/politica/coahuila/javier-diaz-saltillo-austin-450-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:06:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Javier Díaz y Kirk Watson acuerdan colaboraciones para festejar los 450 años de Saltillo, reforzando la seguridad y desarrollo de ambas ciudades.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "85ce6109390624d8"
+ },
+ {
+  "titulo": "Entregan Tercer Informe de Gobierno de Manolo Jiménez en Coahuila",
+  "liga": "https://elcongresista.mx/politica/coahuila/entrega-tercer-informe-gobierno-manolo-jimenez-coahuila",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:05:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "El Gobierno de Coahuila presenta el Tercer Informe de Manolo Jiménez, destacando seguridad y avances económicos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4c5cdff4cd1bd3db"
+ },
+ {
+  "titulo": "Museo de la Revolución Mexicana en Saltillo abre sus puertas gratis",
+  "liga": "https://elcongresista.mx/politica/coahuila/museo-revolucion-mexicana-saltillo-entrada-gratuita",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:04:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "El Museo de la Revolución Mexicana en Saltillo ofrece entrada gratuita y resalta el legado del movimiento revolucionario.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "305e03bdad8a91cf"
+ },
+ {
+  "titulo": "Departamento de Justicia pide desestimar demanda electoral en Alaska",
+  "liga": "https://elcongresista.mx/justicia/departamento-de-justicia-desestima-demanda-alaska",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:04:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "El Departamento de Justicia solicita desestimar la demanda sobre elecciones al Senado de Alaska tras la victoria de Mary Peltola.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "11bcb549cc4ed300"
+ },
+ {
+  "titulo": "Responde Verónica Ruffo a señalamiento de inexperiencia en el gobierno",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVlfN0ExUHBLT0JKamVGX2NHN1loY2lxM2x2VjJGYXhLS2tDWThDbHdqbWpWRFFOMDl3eTU1V0lRX2plQlFsRFhMRkpTdXl0UEt4SFlBMnU2UUJrWHU4dVdlcXlTeDJ1UXAxaVNTUUw0Y1FqUC0yODBqTHNVYnFKRF9BeVBzWWExS3ZXWWZZcTQ2QWtRN2NDM216MEtYT1d5TWtDQ3gyZ3FlNnh4OUNvdVJ5aFYyNkJuSnhuZEJR?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-19T23:03:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Responde Verónica Ruffo a señalamiento de inexperiencia en el gobierno AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7a5faae01bd5a6ce"
+ },
+ {
+  "titulo": "Atlántico: 3,114 estudiantes concluyen formación en habilidades digitales",
+  "liga": "https://elcongresista.mx/educacion/estudiantes-atlantico-habilidades-digitales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T23:02:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Más de 3,000 estudiantes del Atlántico finalizan con éxito su formación en habilidades digitales y programación.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "a2299730d76e40ec"
+ },
+ {
+  "titulo": "Formalizan donación de terreno para Universidad Rosario Castellanos en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXFjUmw5OFlPWnVMTEFlcnpILS1DVEVTR3ItT041SGxpRVJFUV9wUERjVHhZaUpMVVpPclNILTJRN3pFbTNPVWtaWDZ5enFDSHZBbjc1eHVzYmxhTFJIQkRIamptS1ZCYWx4VzUwN0hNU1oyUmpYTGs4bUFRSS1SdUJUTTFZdTJWdmgwdkpMdjVJNm9fRmNCVWlUTHBzOGpLRWJKN2sydkZGNU1Cb1J2THV6dzE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T23:01:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Formalizan donación de terreno para Universidad Rosario Castellanos en Tijuana Baja News",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "2f24d9ff83b3221e"
+ },
+ {
+  "titulo": "Formalizan donación de predio para la Universidad Rosario Castellanos en Tijuana",
+  "liga": "https://jornadabc.com.mx/principales/formalizan-donacion-de-predio-para-la-universidad-rosario-castellanos-en-tijuana/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-19T22:58:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "El plantel de Tijuana tiene 2 mil 850 estudiantes en modalidades presencial y virtual, y sus carreras no cobran colegiatura La entrada Formalizan donación de predio para la Universidad Rosario Castellanos en Tijuana se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "fe524b148016b9c3"
+ },
+ {
+  "titulo": "Iván Tona celebra 100 partidos con Xolos y advierte previo al duelo ante Atlante: “Mañana es ganar o ganar”",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU0NhZ1RHMlBUa0pnUnROQWlVeC1LNTlEdmxMTmo2Vnp1cTRNSnhJYWtTNzI3MzBPTHBrMXg5VGt0OVVmc1ZpTWpMZlZQaFpvXzRpb0NyNXRoTlJmdTRqVl94ZElWUXA2WGNtVUlUUFV1dTE5bUd4Z3pnOGI1aVBMVy02V0RVVTg0OVl3VjRpZk5Od2lmeUtiUWc1Q3RtYXY1bFE5Y18xVnp1Z1lPMlNYVnJmNUxtLWZYLVdxcDliUVh3RjZ5a2lqOExRZHUwejJQRzJqWm1R?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T22:53:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Iván Tona celebra 100 partidos con Xolos y advierte previo al duelo ante Atlante: “Mañana es ganar o ganar” Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "a8e4241b8cd2cf3f"
+ },
+ {
+  "titulo": "Desfile cívico-deportivo cerrará calles en Cuernavaca desde las 6:00.",
+  "liga": "https://elcongresista.mx/morelos/desfile-revolucion-cuercanava-cierre-calles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T22:53:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Este viernes, Cuernavaca cerrará calles por el desfile del 116 aniversario de la Revolución Mexicana. Las autoridades piden planificación.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9d240646298150b2"
+ },
+ {
+  "titulo": "Segob localiza 18 mil 508 personas en estrategia de búsqueda",
+  "liga": "https://elcongresista.mx/justicia/segob-localizacion-18-mil-personas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T22:50:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "La Segob localiza a 18 mil 508 personas como parte de su estrategia nacional de búsqueda y combate al reclutamiento.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "cfca00ec0522bdd6"
+ },
+ {
+  "titulo": "Detienen a ocho presuntos integrantes de Los Mayos en Valle de la Trinidad; aseguran armas y equipo táctico",
+  "liga": "https://zetatijuana.com/2026/11/detienen-a-ocho-presuntos-integrantes-de-los-mayos-en-valle-de-la-trinidad-aseguran-armas-y-equipo-tactico/?utm_source=rss&utm_medium=rss&utm_campaign=detienen-a-ocho-presuntos-integrantes-de-los-mayos-en-valle-de-la-trinidad-aseguran-armas-y-equipo-tactico",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-19T22:48:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Ocho presuntos integrantes de Los Mayos fueron detenidos en Valle de la Trinidad, donde autoridades aseguraron fusiles AR-15, cargadores, chalecos y equipo táctico, además de un vehículo con predenuncia de robo. Los detenidos son investigados por posibles vínculos criminales.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "47bc87c99ff3d225"
+ },
+ {
+  "titulo": "Se presentan seis aspirantes a rectoría de la UMSNH en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/presentacion-aspirantes-rectoria-umsnh",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T22:48:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Se presentan seis aspirantes a rectoría de la UMSNH en Michoacán. El proceso electoral avanza con auscultación y elección en diciembre.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "adfc0d916b882bfc"
+ },
+ {
+  "titulo": "California registra el otoño oceánico más cálido en 77 años",
+  "liga": "https://elcongresista.mx/ciencia/california-temperaturas-oceanicas-otoño-77-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T22:47:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "La expedición de CalCOFI reporta el otoño oceánico más cálido en California en 77 años, con un aumento significativo de temperatura.",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "26f4a63b415dc988"
+ },
+ {
+  "titulo": "Cotija prepara fiestas patronales y festival navideño con 50 mil visitantes",
+  "liga": "https://elcongresista.mx/politica/michoacan/cotija-fiestas-patronales-festival-navideno",
+  "medio": "El Congresista",
+  "publicada": "2026-11-19T22:47:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Cotija se prepara para recibir hasta 50 mil visitantes en sus fiestas patronales y festival navideño en diciembre.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1bf8fbb155e42b8a"
+ },
+ {
+  "titulo": "Formalizan gobiernos de México y Baja California donación de predio para la Universidad Rosario Castellanos en Tijuana",
+  "liga": "https://www.uniradioinforma.com/gobierno/formalizan-gobiernos-mexico-baja-california-donacion-predio-universidad-rosario-castellanos-tijuana-n915330",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-19T22:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "La gobernadora Marina del Pilar y la rectora de la UNRC también supervisaron la construcción del campus Mexicali, que representa una inversión de 85.78 millones de pesos en su primera etapa.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Educación"
+  ],
+  "local": true,
+  "id": "e743a2dc642ddf4f"
+ },
+ {
   "titulo": "Saltillo anuncia inversión de 2,100 mdp en seguridad en Austin, TX.",
   "liga": "https://elcongresista.mx/politica/coahuila/saltillo-inversion-seguridad-austin",
   "medio": "El Congresista",
@@ -1387,6 +1766,20 @@
   ],
   "local": false,
   "id": "8f33d408e2b7d158"
+ },
+ {
+  "titulo": "Noticias sobre billete conmemorativo",
+  "liga": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZZlIyZVNXQXhkYUNGS1FfRkUyQzNXSUEzbDVvVkRmUEtHeWd2UXJiQ0tFeWxtZmlVdXBHdlFzSndSZWtzaFA4M25XakNhSE1ESHNBU2luNEFFNDNuVGpPUlNyMHgwMy1iV1hr?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T19:35:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-19T23:40:58-06:00",
+  "resumen": "Noticias sobre billete conmemorativo Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cfd338c25b388a0f"
  },
  {
   "titulo": "Dólar cierra en $19.1182 pesos en México el 19 de noviembre",
