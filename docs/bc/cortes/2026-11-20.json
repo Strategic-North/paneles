@@ -1,5 +1,357 @@
 [
  {
+  "titulo": "Comienzan ofertas para adquirir Controladora Axtel y Axtel",
+  "liga": "https://elcongresista.mx/negocios/ofertas-controladora-axtel-axtel",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Las ofertas para comprar Controladora Axtel y Axtel han comenzado, con importante participación de accionistas en el proceso.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "5623faa9b858fd89"
+ },
+ {
+  "titulo": "AS Mónaco descarta fichar a Erik Lira de Cruz Azul",
+  "liga": "https://elcongresista.mx/politica/nacional/as-monaco-descarta-fichar-erik-lira",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:21:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "El AS Mónaco confirma que no hay negociación para fichar a Erik Lira de Cruz Azul, quien sigue sin realizar su sueño europeo.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "107bb2ccfdc5deb4"
+ },
+ {
+  "titulo": "Aurora alcanza 500,000 millas con camiones autónomos y pierde 234 M.",
+  "liga": "https://elcongresista.mx/tecnologia/aurora-camiones-sin-conductor-perdidas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:20:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Aurora supera 500,000 millas con camiones sin conductor pero reporta pérdidas de 234 millones de dólares en el tercer trimestre de 2026.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ff6284d5aabe7ac4"
+ },
+ {
+  "titulo": "Tesla circula en sentido contrario en la carretera Mérida-Progreso",
+  "liga": "https://elcongresista.mx/politica/yucatan/tesla-sentido-contrario-merida-progreso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:18:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Un Tesla fue grabado circulando en sentido contrario en la carretera Mérida-Progreso, generando preocupación por la seguridad vial en la zona.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5c3d8e5f8fc7fe91"
+ },
+ {
+  "titulo": "Mazda3 2027 ajusta precios y elimina transmisión manual en su gama.",
+  "liga": "https://elcongresista.mx/vehicular/mazda3-2027-ajuste-precios-transmision-manual",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:17:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Mazda3 2027 elimina la transmisión manual y ajusta precios en su gama, ofreciendo nuevas opciones de seguridad y asistencia.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "f59ac9f2ee2add54"
+ },
+ {
+  "titulo": "Embajadas de China y EU intercambian críticas por fentanilo",
+  "liga": "https://elcongresista.mx/politica/nacional/embajadas-china-eu-criticas-fentanilo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:15:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Las embajadas de China y Estados Unidos en México intercambian acusaciones sobre el fentanilo y las inversiones en el contexto del APEC 2026.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "100a1f42e05497ed"
+ },
+ {
+  "titulo": "Sheinbaum regresa a México tras reuniones bilaterales con Xi Jinping y Trump en cumbre APEC",
+  "liga": "https://jornadabc.com.mx/principales/sheinbaum-regresa-a-mexico-tras-reuniones-bilaterales-con-xi-jinping-y-trump-en-cumbre-apec/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-20T09:14:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Luego de visitar China, la Presidenta retomará agenda en desfile militar para conmemorar la Revolución La entrada Sheinbaum regresa a México tras reuniones bilaterales con Xi Jinping y Trump en cumbre APEC se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3705be534b6137a6"
+ },
+ {
+  "titulo": "Chalecos rosas del INE serán «desincorporados» por seguridad: Blanca Cruz",
+  "liga": "https://jornadabc.com.mx/principales/chalecos-rosas-del-ine-seran-desincorporados-por-seguridad-blanca-cruz/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-20T09:07:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "El Instituto Nacional Electoral desincorporará los chalecos rosas almacenados en sus bodegas, debido a que contienen el logotipo oficial y no pueden regalarse ni desecharse libremente, informó su presidenta provisional, Blanca Cruz La entrada Chalecos rosas del INE serán «desinco",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "a6c62f9f6f0725c5"
+ },
+ {
+  "titulo": "Almería: tecnología IndaloBlanc reduce hasta 84% Trips parvispinus",
+  "liga": "https://elcongresista.mx/tecnologia/almeria-indaloblanc-reduce-thrips-parvispinus",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:06:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "En Almería, la tecnología IndaloBlanc logra una reducción del 84% en el Thrips parvispinus en cultivos de pimiento.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2c3146ad9e76412f"
+ },
+ {
+  "titulo": "Aportan 500 millones pesos a educación en Segundo Informe de Gobierno",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/segundo-informe-gobierno-roberto-pantoja-castro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:05:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "El alcalde de Comondú presenta su informe con una histórica inversión de 500 millones en educación y apoyo a la comunidad.",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "58737b0b31aa0cf7"
+ },
+ {
+  "titulo": "Duelo de pitcheo termina con triunfo naranja en once entradas",
+  "liga": "https://www.uniradioinforma.com/deportes/duelo-pitcheo-termina-triunfo-naranja-once-entradas-n915332",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-20T09:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "La Escuadra Naranja venció en once capítulos 3-1 a Mexicali en el tercero de la serie.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "c55c4111a9595b3b"
+ },
+ {
+  "titulo": "Detienen a \"El Pagador\", líder de celula criminal en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/detienen-el-pagador-lider-celula-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:02:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Detienen a \"El Pagador\", líder de \"Fuerzas Especiales Avendaño\" en Sinaloa. Fue trasladado a CDMX junto a otros cinco criminales.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f61111c3f1811d40"
+ },
+ {
+  "titulo": "Presentan libro sobre danzas y fiestas en Uruapan, Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/presentacion-libro-danzas-fiestas-uruapan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:01:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Se presenta hoy en Uruapan el libro que recopila las danzas y fiestas más importantes de Michoacán, una valiosa herramienta cultural.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e25a1cd088f808b0"
+ },
+ {
+  "titulo": "DIF Morelia evalúa resguardo de adultos mayores de tres municipios",
+  "liga": "https://elcongresista.mx/politica/michoacan/dif-morelia-resguardo-adultos-mayores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T09:01:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "DIF Morelia atiende solicitudes de resguardo de adultos mayores de municipios cercanos en tres ocasiones durante 2026.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "af4bf4ddbaef85f4"
+ },
+ {
+  "titulo": "Julio Castillo promete transparencia total si gana el sindicato de taxistas de Cancún",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/julio-castillo-auditoria-sindicato-taxistas-cancun",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:56:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Julio Castillo promete auditar el sindicato de taxistas de Cancún si gana las elecciones, alejándose de compromisos políticos.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5cc2b560768643ea"
+ },
+ {
+  "titulo": "Periodista colombiana denuncia detención de 16 días por ICE en EE.UU.",
+  "liga": "https://elcongresista.mx/justicia/estefany-rodriguez-denuncia-detencion-ice",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:54:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "La periodista colombiana Estefany Rodríguez denuncia su detención de 16 días por ICE en EE.UU., tras amenazas en su país.",
+  "temas": [
+   "Migración",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7bd2f0f837489300"
+ },
+ {
+  "titulo": "Cada partido postulará a 54 candidatos a diputados de grupos vulnerables: INE",
+  "liga": "https://jornadabc.com.mx/02_secundarias/cada-partido-postulara-a-54-candidatos-a-diputados-de-grupos-vulnerables-ine/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-20T08:53:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Fijan mismos criterios de 2024 para incluir a indígenas, afros, migrantes y personas LGBT+ y con discapacidad La entrada Cada partido postulará a 54 candidatos a diputados de grupos vulnerables: INE se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Migración",
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "8c916adcb8ebdb49"
+ },
+ {
+  "titulo": "Hoy No Circula en CDMX el 20 de noviembre para autos con engomado azul",
+  "liga": "https://elcongresista.mx/vehicular/hoy-no-circula-20-noviembre-cdmx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:49:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Hoy No Circula en CDMX el 20 de noviembre afecta a autos con engomado azul; no hay Doble Hoy No Circula por contingencia.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "63d49dda475abb7b"
+ },
+ {
+  "titulo": "Morelia: padres de familia de la primaria Frida Kahlo exigen maestros",
+  "liga": "https://elcongresista.mx/politica/michoacan/padres-falta-maestros-primaria-frida-kahlo-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:46:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Padres de la primaria Frida Kahlo en Morelia exigen solución a la falta de maestros que afecta a sus hijos desde hace meses.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fa9f872448218a63"
+ },
+ {
+  "titulo": "Regidor Gilberto Morelos impulsa jornada comunitaria en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/gilberto-morelos-jornada-comunitaria-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:45:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Gilberto Morelos realiza jornada comunitaria en Villas del Pedregal para mejorar espacios públicos con la colaboración de vecinos y comerciantes.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8b36525d8c25f272"
+ },
+ {
+  "titulo": "Puebla inicia el Torneo de la Amistad 2026 con más de 10 mil atletas",
+  "liga": "https://elcongresista.mx/politica/puebla/puebla-torneo-de-la-amistad-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:43:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Puebla da inicio al Torneo de la Amistad 2026 con más de 10 mil atletas y 14 disciplinas deportivas hasta el 24 de noviembre.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aeb2eeb1539659ef"
+ },
+ {
+  "titulo": "Temblor de magnitud 4.4 se registra en Los Ángeles, California",
+  "liga": "https://elcongresista.mx/politica/nacional/temblor-los-angeles-4-4-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:39:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Un sismo de magnitud 4.4 sacudió Los Ángeles sin reportes de daños hasta el momento, causando sorpresa en ciudadanos.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "332a64e4bd6738f9"
+ },
+ {
+  "titulo": "Exdirector de la SEP marchará de Ciudad Juárez a CDMX por justicia laboral",
+  "liga": "https://elcongresista.mx/politica/chihuahua/marx-arriaga-marchara-ciudad-juarez-cdmx-justicia-laboral",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:33:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Marx Arriaga marcha de Ciudad Juárez a CDMX para exigir justicia laboral tras su despido de la SEP sin respuesta a sus reclamos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8af5842952e75c31"
+ },
+ {
+  "titulo": "Detienen a Lili Campos, exalcaldesa de Playa del Carmen, en CDMX",
+  "liga": "https://elcongresista.mx/justicia/detienen-lili-campos-cdmx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-20T08:31:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "La exalcaldesa de Playa del Carmen, Lili Campos, fue detenida en CDMX; la FGR investiga el motivo de su arresto.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "383983d030bfcc06"
+ },
+ {
   "titulo": "Nunca una guerra nuclear, coinciden las superpotencias",
   "liga": "https://jornadabc.com.mx/principales/nunca-una-guerra-nuclear-coinciden-las-superpotencias/",
   "medio": "La Jornada Baja California",
@@ -128,6 +480,20 @@
   ],
   "local": false,
   "id": "e0ee670eb2556ed7"
+ },
+ {
+  "titulo": "Baja California, el estado con menos pobreza infantil del país... Pero los niños siguen siendo los más pobres de la entidad",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-estado-menos-pobreza-infantil-pais-pero-ninos-siguen-siendo-mas-pobres-entidad-n915007",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-20T08:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T09:32:09-06:00",
+  "resumen": "Con 14.3 %, Baja California registra el menor porcentaje de niñas, niños y adolescentes en pobreza de México, muy lejos del 38.7 % nacional.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ea09cc84c42dc7cd"
  },
  {
   "titulo": "Toluca lanza unidad móvil para realizar 75 esterilizaciones diarias",
