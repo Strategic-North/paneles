@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-19T19:16-06:00",
+ "actualizado": "2026-11-19T20:16-06:00",
  "corte": "2026-11-20",
  "ventana": [
   "2026-11-19T18:30-06:00",
   "2026-11-20T18:30-06:00"
  ],
- "total": 23,
+ "total": 57,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 49
+   "notas": 47
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
@@ -126,7 +126,7 @@
   {
    "fuente": "Google News: Ensenada (detenido OR detienen) funcionario",
    "ok": true,
-   "notas": 1
+   "notas": 0
   }
  ]
 }
