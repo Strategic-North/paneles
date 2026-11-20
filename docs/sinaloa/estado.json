@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-20T06:02-06:00",
+ "actualizado": "2026-11-20T07:13-06:00",
  "corte": "2026-11-20",
  "ventana": [
   "2026-11-19T18:30-06:00",
   "2026-11-20T18:30-06:00"
  ],
- "total": 357,
+ "total": 376,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 4
+   "notas": 0
   },
   {
    "fuente": "Noticiero Altavoz",
@@ -115,8 +115,8 @@
   },
   {
    "fuente": "Google News: site:debate.com.mx Culiacán",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: site:debate.com.mx Mazatlán",
