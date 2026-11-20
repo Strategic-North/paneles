@@ -1,12 +1,12 @@
 {
  "panel": "Nuevo León",
- "actualizado": "2026-11-19T20:16-06:00",
+ "actualizado": "2026-11-19T21:25-06:00",
  "corte": "2026-11-20",
  "ventana": [
   "2026-11-19T18:30-06:00",
   "2026-11-20T18:30-06:00"
  ],
- "total": 59,
+ "total": 82,
  "fuentes": [
   {
    "fuente": "El Norte",
@@ -55,8 +55,8 @@
   },
   {
    "fuente": "Google News: \"Nuevo León\"",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "fuente": "Google News: site:milenio.com Monterrey",
