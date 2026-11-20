@@ -1,5 +1,597 @@
 [
  {
+  "titulo": "Cristiano Ronaldo llega a 986 goles en su carrera futbolística",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGV4cnhHdFBsVmE3RWZSZzNFNTZ4a08wMlpnNFkxcGIteE5EeFVnUE1MSUE0aDloMnJFSlNRNEJBcndENk9DVXpCa2lfb2RXdnhoVmZiWG9DSlVIWWhYSkphSTlQUURTZ3YzU3RGX1ludURLZGp2cVBoNmdaRkhCLUVEUWdRR1gtZU10MVBzQmhtbENjSXFPY2R0Q0RpN2taYnVJOXEwUXZRbzhXQ3c?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-20T14:49:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Cristiano Ronaldo llega a 986 goles en su carrera futbolística El Horizonte",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "3f63cdb13e3257c4"
+ },
+ {
+  "titulo": "Celular: Lo apuñalan para robárselo en Monterrey (VIDEO)",
+  "liga": "https://horacero.com.mx/nuevo-leon/robo-celular-monterrey",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-20T14:45:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Celular, solo por eso, un hombre fue detenido por la Policía de Monterrey luego de apuñalar a otro en el Centro de la ciudad para despojarlo de su teléfono. The post Celular: Lo apuñalan para robárselo en Monterrey (VIDEO) appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "39bff6715fedc44c"
+ },
+ {
+  "titulo": "Asesinan a dos agentes de la FGR en Nopaltepec, Edomex",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1lwNzVVa0c0WXhLQ0FOU29JWThxSmM4clJpVE1NdXowbUdMUzNfcGNaUTIxOFhoQkhtMlMxTXJ0Z0tSTldtSU41ck5oM25VMXZhQ0l2bmhhRFJzdGpvaGJfRUZvQkgyTzRVU1pYVEszdjBMczM4eTVXM2s2anotUkhZWUdUejhNamtlN2Q2dFJRMl8zSTJ0bTZaWi1Cek9KY0E?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-20T14:44:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Asesinan a dos agentes de la FGR en Nopaltepec, Edomex El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a919bc3d7fde4e38"
+ },
+ {
+  "titulo": "Sin becas ni apoyos en Veracruz, entrenador de halterofilia y 3 atletas migran a Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEJMS1kwRmJBSHA1Q0JUVkNfb0hoWGpQQTVZcEQ4TjlQLUczWG5KXzJwRUluYk9fbzNoQS1FODJfYlhFSlVBQXpHeDQ1Ym9RZkE3cGFjWTZUYVdHcm5XYzZkajlYTC05N09lNk1sdldmd1ZuUDZ2SVdIcHUtUFh4dnRHUU9MZWN1bGx4OUxBUjh3ZkZreUFwQ2kzMFVtcTZOd3laRGpkZDJweXVfdXp3VzEwQ01JT296RnZTU1ln?oc=5",
+  "medio": "E-Veracruz",
+  "publicada": "2026-11-20T14:43:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Sin becas ni apoyos en Veracruz, entrenador de halterofilia y 3 atletas migran a Nuevo León E-Veracruz",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "da1acdbfd067ed1c"
+ },
+ {
+  "titulo": "Donald Trump ve cerca un acuerdo comercial con México",
+  "liga": "https://abcnoticias.mx/global/2026/11/20/donald-trump-ve-cerca-un-acuerdo-comercial-con-mexico-296087.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-20T14:40:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2065c6c4df54fcd7"
+ },
+ {
+  "titulo": "Pumas no pierde la esperanza de clasificar a liguilla, asegura Chino Huerta",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDVLZFhhckpSRE1oalhPWXJGNU9zOGdjdUZ0U0FMcXhfTXFZRXNvM0lTMnFqY2ozS25FdXZsZmpiT1NjQ3V5Z3dWbFJYalV1WUdmMVNoeDc0cFZNOEl4emhqalI3M0pvZ2MwUEtsZlNtcFJORi1NbHRnOFNNOFdKZDZNdGxGOUF2eXlZYWdjTjcwNm81Mk5YSzNIQ0IxU2YycnVSeNIBpAFBVV95cUxNU1BpdDBjeEVNellSUjlBU3NzSUN5R1JXZ2hsQ2ktTFpaQnMwMkJGOVFPb3FTNjdNdmdCaVJZOGRoVG95VHN4WldFS3JFbGUtVW12cTRSbThNelBiaG14TWtwc1BlU3JvWW91STRNR0RFMjZrRk53RkNfUUNadUg2MVZwMDl2Ukp5U2VnNTN4SVRjUXRwUEtLQ3lnQlZTME1jMXBiOA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-20T14:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Pumas no pierde la esperanza de clasificar a liguilla, asegura Chino Huerta Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "297e794a55112a75"
+ },
+ {
+  "titulo": "Perla Villarreal acusa que Gobierno busca frenar indagatorias contra Samuel García",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56blVUdTk2a2otTWRKbUhMYkhleFRVdWVwZjZyYVVDNjc5SWl5TDhfbWFJekZyemNMeTNoQ3ljNjNGOUVLdnk1RWYwMVRUN04yOWx2ZDlOeF83Z1poVnNFcUpGMGdITGlMUVdFYQ?oc=5",
+  "medio": "Hora Cero Web",
+  "publicada": "2026-11-20T14:37:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Perla Villarreal acusa que Gobierno busca frenar indagatorias contra Samuel García Hora Cero Web",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "582fb1a5fcf22efe"
+ },
+ {
+  "titulo": "IMSS cambia procedimientos de autopsia tras muerte de Sofía en el 23 de Monterrey",
+  "liga": "https://horacero.com.mx/nuevo-leon/imss-cambia-procedimientos",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-20T14:30:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "IMSS anunció cambios a nivel nacional en sus formatos de autorización de autopsias para dar certeza a los familiares, Tras las protestas por el caso de Sofía en Monterrey. The post IMSS cambia procedimientos de autopsia tras muerte de Sofía en el 23 de Monterrey appeared first on",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "735d3d04feb5a1bc"
+ },
+ {
+  "titulo": "Recauda GTA VI 3,800 mdd en día de su lanzamiento",
+  "liga": "https://www.elnorte.com/recauda-gta-vi-3-800-mdd-en-dia-de-su-lanzamiento/ar3318498",
+  "medio": "El Norte",
+  "publicada": "2026-11-20T14:29:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "El videojuego \"Grand Theft Auto VI\" recaudó 3 mil 790 mdd en ventas sólo en el día de su lanzamiento, según informó Rockstar Games.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6ee2f3c7126e9f47"
+ },
+ {
+  "titulo": "Mujer denuncia presunto despojo de terrenos destinados a Tesla en Nuevo León",
+  "liga": "https://abcnoticias.mx/local/2026/11/20/mujer-denuncia-presunto-despojo-de-terrenos-destinados-a-tesla-en-nuevo-leon-296086.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-20T14:28:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4d10fc28233b764a"
+ },
+ {
+  "titulo": "Detienen a informante de grupo criminal en San Nicolás, NL; pasaba información de la policía municipal",
+  "liga": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTFQzWExZRV90aExrWVpucmZtU01XbDl5S1pCRzVIYWZxdkF6SzVQYzBBMk9CUVp2b0VONGJxNGhQRGpFaURlUU5PUHpMOVpDWkxYOHNwdm1PQkFMa1RZLVNicW14YzJQa3M2OVlXZXVpY3BGRVUxRF91YWw3VVZJUmF1cWNtbXV5ZlQ3UzlTTnc1ZmtRVjREQ0Qwai1uM0FaR2w2MWQxY0FlRnB4SGpNZDV5Sjhic1BrOVZITmhmb2hTZnhHendVbVlxRzNSR3FRUWxmSHdPLXdTVTlBaFFhcWNMWWd1U0xob1d5UnBWaVo?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-20T14:25:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Detienen a informante de grupo criminal en San Nicolás, NL; pasaba información de la policía municipal Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "843a6d5932398b6f"
+ },
+ {
+  "titulo": "Detienen a dos mujeres con marihuana tras pelea en San Pedro Garza García",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXVEalFzd1daZDZGbUhpbjhLTUZESXdyTjRnS09hRFp0UGJoR2laeTg3UlV6cVd5SGh3TjllZVpfamlIUzB6ZFdsa3p6Y29WaUo3TXdJMS1RQTJLaTItTVVTUEhJMU1XS2x5YUd0dGFxS25FUnJ4Z080ZWxYdDE5SS1zZXIyZkxBYkIwRFhYMnlNWThzV1RuTUZLNHFCMEVMRm0tbtIBpAFBVV95cUxOSlQyT0ozRUR3NVFKOWRqaHNTZG0yd3lNUlFhdlhVUFhrc2MtbW9VSFNqcUY5UDdHMDdPLXlQTEM5Z00zak9xSnlQNnNHVWUyYlJWckNWS0MwV3BrVUJXa0JnZ2V6QWw0ZXVobVJMSGtEOHYwcGZBMHpzZzdoQ3RPc3ZCNXhEdGliN2FaX0dXRkJwLXRIZldQVTJBajJnakdYTHp3NQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-20T14:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Detienen a dos mujeres con marihuana tras pelea en San Pedro Garza García Telediario",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "64c403bb85fa3f87"
+ },
+ {
+  "titulo": "Se acerca la fecha. Mega Baile & Carreras con Los Herederos de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3Y0S0lfWkZ5RjY5TXFTRHZEbXF5WmhtTWpEMnhwa3hpcVBLdDlmR2Z3TmZlaXdSbTVGcTZvQlZvSXMwYXdBMmlCeEdpUU5DMzJzeGhCZXZMVXY1NmgzU3NEM0NwLV85TFRfeUhaUWR4MVlKQUU5ZjJub0JXZk12R2h4VXItazBsbkNkVnRHR0JsYUNReFl5YWdhc21ENjFfbTdJMGlBZ1g1NEpTLUZtcEliQQ?oc=5",
+  "medio": "El Heraldo de Saltillo",
+  "publicada": "2026-11-20T14:24:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Se acerca la fecha. Mega Baile & Carreras con Los Herederos de Nuevo León El Heraldo de Saltillo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "886c70838175e9ce"
+ },
+ {
+  "titulo": "Samuel García: Tiene NL seguridad pública de primer mundo",
+  "liga": "https://horacero.com.mx/nuevo-leon/samuel-garcia-seguridad-nl",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-20T14:22:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Samuel García aseguró que Fuerza Civil permite a Nuevo León tener seguridad de primer mundo, al inaugurar las nuevas instalaciones de la UMECA en Guadalupe. The post Samuel García: Tiene NL seguridad pública de primer mundo appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "046f2857eda754f0"
+ },
+ {
+  "titulo": "¿Quién juega hoy en la Liga MX 2026? horarios y canales en vivo de los partidos, viernes 20 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWUlxZEpDYmJiVFpzNG5fOUVidnp6cVZhSTVvenhDYlhUVFlvNFdhNmFnN3lERFZwVEkxWEdzUUduTmJvcTdpcW9iVzFpeHBFZWRySUJIOGFkSVN0QjVPLU00NURkZWtZMUhqSVBiMVZRZFVhTWNtYXlVNm83SGxMaUdyd3M1a3BXcUt4NXk4X01qRE5GOGd6T19ScHpGM2FaQ3V6OXBvc3hXcS1uMnVsTW1hYzhjbU15ZlhzREpkdFJ4b3hR?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-20T14:20:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "¿Quién juega hoy en la Liga MX 2026? horarios y canales en vivo de los partidos, viernes 20 de noviembre Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "1113f2a4a64fe58d"
+ },
+ {
+  "titulo": "CONMEBOL respalda a Infantino para seguir al frente de FIFA",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWhHRjFUMWw2Uy1RT1ZwNHhzb0kzN2MzcGdBQmM5cnc0Vmc3TDk3Z0ppbGVEMjliSENWbkNoZWVRdFhQM2JqRFVWRDVtV2FuLTFBMkZ0d3ZKNDhpZ3FIa3ZnR0VUSHF1X2dZX05wTUtiMlJIRF9UcXNqS25qbFIyMmdhOEEtOWtmSGJLR2ltRkJCNHRnMldKQWhuNm9kZlBQc3lrdFBLRW9jQQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-20T14:18:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "CONMEBOL respalda a Infantino para seguir al frente de FIFA El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f573c4e1bf4f05f3"
+ },
+ {
+  "titulo": "Pasajeros captaron el momento en que cayó avioneta en Nuevo León 🎦",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWFVYldwWW91ZDJMQmpCSzNXcW9HRDF1amdrbG9uSHdqRU9fUzcxYTJkWHFsYlM1eTVRWEVEUFgyY1lRaU9UZ19BdW5OZGZTNzdMOENhT1NVTVB0TGR4NnYxTDQyTTBsQXZDS1VhdkZheEZFZnRPRHR0cFFlLS1lcXQ2V0Y2Y3NEelRlODk3SQ?oc=5",
+  "medio": "Puente Libre",
+  "publicada": "2026-11-20T14:17:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Pasajeros captaron el momento en que cayó avioneta en Nuevo León 🎦 Puente Libre",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1117fd1ed9fa9e65"
+ },
+ {
+  "titulo": "José Alberto Granados apoya la educación con entrega de Becas Transformación Avanza",
+  "liga": "https://horacero.com.mx/tamaulipas/jose-alberto-granados-becas",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-20T14:12:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "José Alberto Granados Fávila acompañó la entrega de Becas Transformación Avanza para 780 estudiantes y destacó las obras de infraestructura escolar en Matamoros. The post José Alberto Granados apoya la educación con entrega de Becas Transformación Avanza appeared first on Hora Ce",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "6b28f8feb2af8481"
+ },
+ {
+  "titulo": "Detienen en CDMX a Hombre por Robo de Mil 420 iPhones en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2pPcktVZmY4c28wTm11THNDeWw4NVdxNlQtSzFuZ2hBclgzWEVVYnZVOTFiSktOX0gzSWhBWDNPU19mdWpNbVFjZjRxZGZQX3YxcTB1NWotR3Qtc1NLUmc0Vks3VFZDWXhwcTlJQk0wWTNZejRzeXdDNFJPY1VrMWdKd094dExIdUxUQjVrNEJKNXRaVzVqYlpObmdrQnlvZVllSHM1YV9ka3V5djVsRkphcw?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-20T14:09:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Detienen en CDMX a Hombre por Robo de Mil 420 iPhones en Nuevo León N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2991f6e2197e21da"
+ },
+ {
+  "titulo": "Detectan 196 planteles en sectores de riesgo en Coahuila",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa25BZEdkM3hMR0czUV9kdWstRjhZSnFWLU9INHBmeWJwYXN1Yk5XblE4VmNCR2tFbk1PWVJjYzE5YXdEV3Q3a2I3MlNYODMweFJNNUJ5V3h1ekthdGdxQXZFSms1ZkprWXcwVW5janNjbkJEUXNGbTdCUks3NlJjcGJPY0EwYlU3QWVvWFBnWTNLajQtMWp3Snp1MFlKWDVMZWNWU1Nn?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-20T14:08:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Detectan 196 planteles en sectores de riesgo en Coahuila El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2bea91f90f8a6071"
+ },
+ {
+  "titulo": "José Alberto Granados pone en marcha “Matamoros se ve mejor, sin contaminación visual”",
+  "liga": "https://horacero.com.mx/tamaulipas/jose-alberto-granados-matamoros-2",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-20T14:07:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "José Alberto Granados Fávila arrancó la segunda etapa de la campaña para retirar anuncios irregulares y mejorar la imagen urbana en Matamoros. The post José Alberto Granados pone en marcha “Matamoros se ve mejor, sin contaminación visual” appeared first on Hora Cero Web .",
+  "temas": [
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "7036a63c8a306c94"
+ },
+ {
+  "titulo": "Definirá Morena el miércoles sobre convocatoria para INE",
+  "liga": "https://www.elnorte.com/definira-morena-el-miercoles-sobre-convocatoria-para-ine/ar3318486",
+  "medio": "El Norte",
+  "publicada": "2026-11-20T14:05:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Monreal dice que Morena decidirá el miércoles si emite convocatoria para presidenta del INE antes de que TEPJF resuelva el recurso de AN.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "88c1afa1140faf8d"
+ },
+ {
+  "titulo": "Inauguran la Feria de Afores 2026 en Monterrey; ofrecen consultas y más de 40 trámites gratuitos",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2p5UlcwX010cDRlcFdMdjl6RWkyOXZuUnl6SXBQV2ZIbWs4QTlqZ04xNDNHS05lMHlmM1NaTUxzN2NxcVFPRktPcDdSNFJXMjZBakMtWjQ2amlBTHExWExpaGxRS2NFaGFrSnNPQlM1dWNnVFhLb3d1R0V6LXY5bU92UTVRY2hIaHVCa3E2eDI2cHJjakhoLWNR?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-20T14:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Inauguran la Feria de Afores 2026 en Monterrey; ofrecen consultas y más de 40 trámites gratuitos Milenio",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "0b5bc086956e4917"
+ },
+ {
+  "titulo": "FGR asegura 40 toneladas de ropa en Monterrey",
+  "liga": "https://horacero.com.mx/nuevo-leon/fgr-asegura-ropa-monterrey",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-20T14:00:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "FGR, elementos de la Policía Federal Ministerial aseguraron 40 toneladas de ropa ilegal durante un cateo en una bodega de la colonia Moderna, en Monterrey. The post FGR asegura 40 toneladas de ropa en Monterrey appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ca0ec23a7c1f43f7"
+ },
+ {
+  "titulo": "Milpa' Mí: estudiantes del IPN crean sopa instantánea de maíz, trigo y frijol y ganan concurso en el Tec de Mo",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZG43UWlaWDd6dHRSNm5TSlBLU25xRkxGZlcwaFkzMXhQblNQU1o1UC1pbmM2T0RMaFd5ZElpTFhMVTRMaWVQVHgxMFVVTC1hSkRRektqLUlURC05eEJjOWtTdnRpMWlUZWkyeExUSTkwSlJnR0ZsX2xYel9ZWHJ4TnRtVGRPckJMalJMWThaWkg2UFFZWjhOYk9HVXgtUUFIcE1faWRXVFp6MFlSYmlvWS04UdIBswFBVV95cUxOdHVWR2tPOFZiSFd1UzBjeWRyeWREYWlKeC1ieXBIRDd0Rk45TVFUVnhOODU4T0hYR1FVbnRGalFDYlhNelRhMmZtX3ZxdElWSmZaOFFrNDF3dE9Cbjl5b3Fnem1lU243WGVOZGs5dndYQUFuVlFFZm5idk5oTjhQWnlZZEZZZFo3OFNBQnhMWjdKbm90QWdPN3d3aU9rbElqX2o2T0dhaTlxYWhkLTF1MEFsWQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-20T13:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Milpa' Mí: estudiantes del IPN crean sopa instantánea de maíz, trigo y frijol y ganan concurso en el Tec de Mo Milenio",
+  "temas": [
+   "Campo y pesca",
+   "Educación"
+  ],
+  "local": false,
+  "id": "6c882ee7f466b159"
+ },
+ {
+  "titulo": "Coahuila identifica 196 escuelas en zonas inseguras",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFhIdlk2MkdpRUdrT0hQOGJWQlR1QTRSSkVIR1FqdHg2bHM5NThnLVM1UkczLTgzcmstN0ozYWlkbnlPcU9IV0RldWl1bW5OMDBXd0IwbG9qem95MFR6emxHWlZ3d19wdDJ0Q2dDMjlBV2IyQVExRE4wUzhHdWdGd1Vhay1GOTZZUy0wODJVMkFXdw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-20T13:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Coahuila identifica 196 escuelas en zonas inseguras INFO7",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "a388fa27a4c6ca5f"
+ },
+ {
+  "titulo": "Choca Transporte de Personal; No Hay Lesionados en Apodaca",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2xvbE1ISFd6Y3dxMTVkMDVjVEh3NWFQcHNkOHRvdzlkMlh5NTVodkc0b1JUazEydHZ2NWo1X2VTay0xNEsxSTBOd3duOEVfMXp2MGFmazRiaVVFVG1haFNjVU9abWRwUjdmRnMyMC02TTNiX0hLeE9ocWJYbU5QSTlFXzNld1NzeGZtbjdLTVR0aHNzTnNaQlphMDUzSEhOMHdDNnZnQzRhaFFWb3g3SmUxMjU?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-20T13:56:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Choca Transporte de Personal; No Hay Lesionados en Apodaca N+",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "ec8ef6c79d69d732"
+ },
+ {
+  "titulo": "Muere niña de cinco años por posible rickettsiosis en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNXZpQjhmc0lkRjRhZU9LUE5NUTB0c0l5NUU0ODVTbDl3Wm9WWDIzanFpUFl6N2ZWMW9jcExUY0k0MnRpSnE2ekZ1YndLcFdCbkxQWVJzS1RmOGFEWjhWcEtvRXAxTE5OSTNpRjRDTjc1Tmw3dUpnWEZCSmhwMm9Fa0steXN2NEFQWGdIcVZaUllXNXNHU280UlU3YWM0R25TcXhWR1AxRVFRejBsLVMxa29pWWtFcC1Pd081M3BZcFAzRXlUbHpsNm93dlVhUXEtUjhKUDI5TFhzOGpQb3fSAfIBQVVfeXFMTWtfcVIxYk9HSzk1X0I2RmZDakl5MmlSb2R2b0xBcjFaWXhseW9jSThrNmNfREVEVXNMYkJ6dE1iV3B3OF85aTFJaWdmTUdVR0dTOHVxU1QxSGVkc1BBc0tCZzBNQnlBZEd2SnBhaTdEMnhzbU81Z3pFdUpLY2dPckNrTndJQVVseFVRZVhDRW82Mm1JWk8tMDJzZFZ0MjVPWlVjUXlCbkJIWjhZTnFWQTN3RXJmeUhQOTJBNVVMLVdGbkk0OFZzYVNHcWFWSU5tZDROelNuWTFpRG11V2hkbDJuSWIwdy1KdU4tdVAwVUhJTFE?oc=5",
+  "medio": "El Universal",
+  "publicada": "2026-11-20T13:56:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Muere niña de cinco años por posible rickettsiosis en Nuevo León El Universal",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3fa7aa439ee4f20f"
+ },
+ {
+  "titulo": "Rómulo Zwarg: “Hablar menos y trabajar más”",
+  "liga": "https://horacero.com.mx/deportes/romulo-zwarg-tigres",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-20T13:54:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Rómulo Zwarg, mediocampista brasileño, hace autocrítica tras la eliminación de Tigres en el Apertura 2026 y asegura que está listo para volver ante América. The post Rómulo Zwarg: “Hablar menos y trabajar más” appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "443ba518e5c6cd7d"
+ },
+ {
+  "titulo": "Patrulla choca contra camioneta en avenida Morones Prieto",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzF3Szc3amctdmhpZlRLajR1SlNGUGJJS0k2NlhTeXB4Nl9OVG1jYjdSRWNCVFZGZllNVlY4aHdzcUZuc0dmYzdDaGZKelJQQ0tqUjBDV09kTGplYUktNFdoSWdZNDZCY1BrdmRZNmZPTEMtc3RfdjM4S2l0bGhaMDJzeFBQZUF4cFlnWFd2ZHE5WW13czVlSnQ2bw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-20T13:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Patrulla choca contra camioneta en avenida Morones Prieto INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "2c99653daa5b7eb1"
+ },
+ {
+  "titulo": "Rescatan a Trabajador de 63 Años en Monterrey que Cae Sobre Varillas",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcElaeklnT0RudHExNkhXMzdnU0dRT2x5aVRPUHphNUZ4VV9BSS1XUnhleTlSMFJSV1p5ODBoMUJpd25QX21DZV9zQ0VOYkJjNGdCSnRuNmxDcDNoaF85WlEtWEhnZVhGUnRUcnFzQmk5VWdXdFRRRDZJVDVTTmtWeHVubDh5TmIxbWMwLXNHc1V6R2d0TDg4eUpnZmk4bHZfU0xyTmFTZW1uX1pQNTYtTmdtX1gwQTYwUmdTdnl4Tmt1TWs?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-20T13:53:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Rescatan a Trabajador de 63 Años en Monterrey que Cae Sobre Varillas N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fe0a84475a6ad0fd"
+ },
+ {
+  "titulo": "Fiscalía CDMX responde a Vadhir Derbez; asegura que no presentó pruebas por extorsión",
+  "liga": "https://abcnoticias.mx/show/2026/11/20/fiscalia-cdmx-responde-a-vadhir-derbez-asegura-que-no-presento-pruebas-por-extorsion-296081.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-20T13:51:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e075f8b83b1b4e83"
+ },
+ {
+  "titulo": "DIF Nuevo León beneficia a 20 mil menores de edad con programas preventivos",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZko4bS1ZQ2RwTGFCTm4xaVpsNWpfX3F1VktSR1dMV2hZQk5mQTRFVld4REVQcFEyQkNmdWhkdVBha2FSZ2lKczBId2taZk5OSmNOMlVMMlZWTWVhbG1uQlVjLU5Cb2RobnJ6M3JUWU9NcjB3MFVmcUFsQlhNSnB2XzRuQTlGU3ZnVDU3am1PYkNuM3dMRDh4bE0wOC1jT0ExRHhxWm1xREVDcWh2bW1fMGNybi10UFVEcGJBU0o0N0hOUVNhOTVkWUcwRlpDRTQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-20T13:51:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "DIF Nuevo León beneficia a 20 mil menores de edad con programas preventivos Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "18b7181cc663315e"
+ },
+ {
+  "titulo": "Augura Samuel García que NL estará blindado en seguridad hasta por 20 años",
+  "liga": "https://abcnoticias.mx/local/2026/11/20/augura-samuel-garcia-que-nl-estara-blindado-en-seguridad-hasta-por-20-anos-296083.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-20T13:50:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "28268239a0b3dcf5"
+ },
+ {
+  "titulo": "‘No hay carpeta de investigación abierta contra Guadalupe Taddei’: Jesús Zambrano critica al Gobierno",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVmdnODdZRmxIb2k4Rm1ITGF2T3ZEN2haakJxOThkbGJuM0IzeUJRQkNFbkhiZm9xR2ZZMGZGbkRZbFd0ZTNmalhmN21TVWZlMFRTZllXQkdFaGJpYU9oU0VPODlHaEhsR0ZXbW9EeGU3eWxvQTBJUU5WWkRlaXNVNXZndlI4YjFWb0l4SXFFX3pldnBxQmUxcjNnQXRpU1pXZ3hNQ180Sk5MVFdXVE1yalN4SkhLYXNqLV9zX1doeFRxWHY4ZjlaXzl4ai1TNi1ZSkNpRjlUMzltbUJ6QTdKS3pCanJxQQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-20T13:49:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "‘No hay carpeta de investigación abierta contra Guadalupe Taddei’: Jesús Zambrano critica al Gobierno El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "05570c14aeb50aa3"
+ },
+ {
+  "titulo": "Pierde El Cuchillo en 10 días casi cuatro presas La Boca",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWtHQVJaX0ZiM0RyLTdJaUl0ZUpsQ09JVHQtMFEwMjE0UVg2LV9QY3o5M0NrRUF6bi1pSk8xMkpXT1M4NlR3enV0ZElacFloTVQzcXFFYURGV2NfWXJpTTJPcWxjQnlSTlhsdlBiU0M4ejRoZ1pJQ1hsZmFUZ2JYTGFRZDl1MUJfUzdjbWJKY0ZwdHV2WUI0TmtKdzk3X1BxZ0sxekxrcw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-20T13:48:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Pierde El Cuchillo en 10 días casi cuatro presas La Boca El Horizonte",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "095c8cd4c5a3fd0f"
+ },
+ {
+  "titulo": "Patrulla de Policía de Monterrey choca en Morones Prieto",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODJvVzQ5R2w3VjB6T3loc2FYdTEyOE1MTHVhelB4WUQ5MWFEeWtHSmZGY3RUQzlVbm03QWRTbjN1V1l6YU5nTklsaVViRjZONjV5a0hyOEtmTGpGZGNnWi00VzRMY3hNdmw2NDRLU0E0aUl0RTU1eEhqbmw1NWFGNGdvcnBzeFhwUGZCZ084MnZXNVNEbnBtOHZUOA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-20T13:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Patrulla de Policía de Monterrey choca en Morones Prieto INFO7",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "81ce1b5bbc5052e4"
+ },
+ {
+  "titulo": "Asegura FGR 40 toneladas de ropa en bodega de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODdqdHdvMG1tMHJFQU16U3ZqMUlUcVBKQzMwMUowSE9IUlNFZTdPcGpaV0MyYjZsWURPRUVtWFNLMi15d3dzSXJCb0g5WldYUm1kcl9rdXZWbE95cUNaUl9EMnlZOHg1UWV2enZveThmeTFhdlk4dVV3ZGFqSXdoTGFlbnFTNkVSZi03NEtaejZHbUhfRkRnYg?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-20T13:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Asegura FGR 40 toneladas de ropa en bodega de Monterrey INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "de7672bb570eb175"
+ },
+ {
+  "titulo": "Capturan a 'Pancho', presunto líder criminal en Quintana Roo",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmN0a25hLXowYnNUMkNFRHBoNEM5R01WNUNGaWlRY3oyb09GZXhnaTBvUWNJOHJVUDE3d2c3Z0EzU3NrSnBTM0Q1U2tqaTV4anMxVHg0aldlWTY2QVRkaWRPLWhrRnJFc3pSZXRpRWZPN2xlZ01menZlanhyd01mRzlHcWZsZDNtMXkzQlh0OWh2bE5oLWRveERkSW5pOTVlVXlsOWt0dw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-20T13:43:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Capturan a 'Pancho', presunto líder criminal en Quintana Roo El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0428b75e79ddcb9c"
+ },
+ {
+  "titulo": "Séptima Zona Militar entrega 43 ascensos a generales y oficiales en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHRiSXc4QUFSZVQ0bVZIVGFVQk5mX0xXaFBBU25kWHV2M1ljanZTV0xfbHh3aXRzOElfaVNmNkFaLWhFeDBtQWl2WVJHazRpZzF6VldrZ2pFclZ3Mkc0eU9wRGUwSTNCZ1pzZkI1S0RiTG5za2VrZ0ZLNEJMYnNTM0tkUkRuRXRzM19tbVhSRFRyNGRqWlVoUUgtZ9IBmwFBVV95cUxQRlBZbG0ySlJoZDFjbU1PMzhHclNZMXlKZXZkck1IZTh2d25uc3JPMndpSFREc042Um1sNUxVZVVjMVoyemxOaTRIc2o1M3Jna1hJOW5VUDNXWkJRRlJjX0IxOWFLVVJCLWtxOEFxa29PRVR1MXpIYXNhREJHamVYRjV6NTZNOU0wOTVlYmdfOVVYSEdZaEd4Szg3OA?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-20T13:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Séptima Zona Militar entrega 43 ascensos a generales y oficiales en Nuevo León Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d7b19b9fbdb04d92"
+ },
+ {
+  "titulo": "Fracaso en Apertura 2026 deja a Tigres sin directiva",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/20/fracaso-en-apertura-2026-deja-a-tigres-sin-directiva-296082.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-20T13:42:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d248992315ab7805"
+ },
+ {
+  "titulo": "Caen siete durante cateos de operativo Sinergia en Querétaro",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTV9Zc25WNzRCaHJRREVfd1ZPWGJ0VDRmTGx6N0J2TEF6MHlNdFc1ZGJUbDJrYlJFUG9oOU9YcVlsSXliU0ZuRVduNHRzSG1MbW56RUwyME1ySEJuY05oZnlWS0JaX2R1RWVXX1Awa0JZb0FNa0E5YWdvVWlQdTVlaVNJclZ1QkJDa3ZjS1ZkUlY1ZVllaFdvTEpYV05qT2JIQmc0UFgxZzh5UHc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-20T13:38:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Caen siete durante cateos de operativo Sinergia en Querétaro El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dd2fd98c07fc63cf"
+ },
+ {
   "titulo": "Desfile cívico-militar celebra 116 años de la Revolución Mexicana",
   "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXhWeTRaUVJNQ1NKR1p3c2dYa0FjQmR4a0NlUWhqenhOc2RoSS13Snpjb3RpRUI0ZjE0R0RfcDg2eGxHTE9QQzFWemVDOVdXMEZFbXpIdmtQdW9BV1dYd3c5eEprMXBXbmtRRmRpSGVadUdZX3VnNTBYcHFxcm9XWW1OY3Q3TW80T0dzaG1Gb2FMR0tVWklRVnFoX1JJcmFsWlB2SQ?oc=5",
   "medio": "Info7",
@@ -40,6 +632,20 @@
   ],
   "local": false,
   "id": "4cadd27cfa7b4239"
+ },
+ {
+  "titulo": "Una mujer en Nuevo León denunció el despojo ilegal de unos predios de su familia. Se los vendieron a Tesla",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzJrbnlqV3hDZTdMX1ZfY1p3WDdJXzhOcHFfLW5Nb1VhTzZEOVZ0WHI0ODFWNDRsaTNnMWJaSjVDVlBoWFg1X0ZSeGwxZi1RMjQ3amRDN1hMczdLazZ4ejc0eEtpeF90VjhkVG85ZGkyMHo2cXBrNGtoRXp6X3MyV0pUQTV2Y2VNRHc1VVhZRkRFRHZYMXJpdFVYaWZnMDBHTVRCZDNoa2poam5HMVlUdmFOQWhTTDFwcVotcGxYbnRjdHI4d1dtaEF5V2dpeGfSAdQBQVVfeXFMTlFLNFVBQTRrSWdvYm5tRkZTSWlNNGFWeXNUOE80NFpxMlo0d1FCNlhLWWFoSGxUTFFkTEczeHRNb05ZcS1yS2lHOVo4RnVzN1RfN1lMTHR3TDRKR210WXhyalRiUUFoejhSSTd1UDR5THNIell1U3JTUHQyNE1jaHhiVlJSU0diTWY3NFNtanpveHVmNHZmeFlmQmo4bFUwdmoxMmVLS244NzVmOW5PYm80dm85RnM4ZmFscF82bldnZkVyNm45RWx5eU9Rd0lSeXFnNnQ?oc=5",
+  "medio": "Xataka México",
+  "publicada": "2026-11-20T13:30:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Una mujer en Nuevo León denunció el despojo ilegal de unos predios de su familia. Se los vendieron a Tesla Xataka México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6f6ea52f9d2e7666"
  },
  {
   "titulo": "Luztopía 2026: ¿qué día es más barato visitar el festival navideño en Fundidora?",
@@ -324,6 +930,20 @@
   "id": "1631dfe15ab542f2"
  },
  {
+  "titulo": "Alcaraz vence con todo y lesión a Cobolli en Finales ATP",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXdwdXpkLVR4UTgtVG1YaElUX0swMWFqWnRuMXZsUzRpUDc3UXU1UTV1aWdZUDlTdE1LRWFhcUJ0MXc0SFUwblpydGFCZDBWUnJWQmpEMnRoT0lJMkQxNHdlUmE0SkVzb1RjbmowUXVZU2hZamxTX29Yd3VscGRNVDVDakNRZVZ1VHhUWUdqaTBHSTJROHZHQUlLTE9MeHhNMkxwMm13?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-20T13:07:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Alcaraz vence con todo y lesión a Cobolli en Finales ATP El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "033881cf594e656b"
+ },
+ {
   "titulo": "Contabilizan 156 detenidos durante operativos en Nuevo León",
   "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVtRXo2bGFxQmYxRXlHYmNyeUZJUkFYbnZqX0FoZHBJWEFpYlg3R0VOaW52Tl9vT3luVWNEN2dmRndpaG9YYmpiOW8tNFBXeWJDUmVyTkE3Vk5MR252Vzc3d2VxOGpWZllHM2EwT2pvTjc1bnZ5cDVUWmNTMnhXWnNtWXp3S1pMZ3BSeXBDd080RGxla2RmX3I5MmhBdw?oc=5",
   "medio": "Info7",
@@ -420,6 +1040,20 @@
   ],
   "local": true,
   "id": "f7d769439963b122"
+ },
+ {
+  "titulo": "¿Qué sabemos de Xu Jin, la ‘guardaespaldas más bella’ que cuidó a Sheinbaum durante su visita a China?",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmJreWprSHJLeWFockpuelVPbXAtd0xTNGdpenpiT29nZjBiRWhhVWpBUkZLSUliTWNDZ1p3LVJ5c05aRjIxdFRiUzI0elJfZUxwYjVsa1lCblh0TUNvMHItaVRGMThSREFBaVhESWl3a1lvVUZQNy1DbjFOT1hYT2cweHFvdk5MRFltOFh4ekZlUlpDMzhITTdDNm5qTGxjbjVPeG8xenNKVWt1MEhQTmVMdDR1Ynh2OXRTN04tRGVpWFZ1cjdRMHYyckNTY0RJRlIwdllTUWVQbUhWZjBmQVdsQUc?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-20T12:55:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "¿Qué sabemos de Xu Jin, la ‘guardaespaldas más bella’ que cuidó a Sheinbaum durante su visita a China? El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f15b5d8ef1416fca"
  },
  {
   "titulo": "Nuevo León reporta 156 detenidos durante operativos de seguridad",
@@ -532,6 +1166,20 @@
   ],
   "local": true,
   "id": "d669ef67409a5b3f"
+ },
+ {
+  "titulo": "Niña de cinco años muere por picadura de garrapata en García",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVks5RzR5bDZySWtEdG42Nk5hMmZZMThoSHFPTjR1V0V0TlVhTFl1UVUzc042Ykg4SFdQTFQzZFdxWmJ1Mk9EbDA0MGlZZHNtWUdtaEpvYkJodTRXN2N1Q0tqeWJIUEdGSTI1QUtvUHpfa1RNdEwyNy1BZTVsZjg4WVhfSHpKT0hKd0hUd1NBX00wbEVFU0NCUE1ydFJ3NlU?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-20T12:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Niña de cinco años muere por picadura de garrapata en García INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "78402e50b61e3ab8"
  },
  {
   "titulo": "Poste de luminaria a punto de caer alerta a vecinos de Guadalupe",
@@ -830,6 +1478,20 @@
   "id": "6e8e01b09e9985b6"
  },
  {
+  "titulo": "Trabajador Cae y se Incrusta Varillas Metálicas Cerca de los Glúteos en Monterrey",
+  "liga": "https://www.nmas.com.mx/nuevo-leon/seguridad/accidentes/trabajador-cae-y-se-incrusta-varillas-metalicas-en-monterrey-nuevo-leon/",
+  "medio": "N+ Monterrey",
+  "publicada": "2026-11-20T12:03:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8629f155051850a3"
+ },
+ {
   "titulo": "El tiki-taka de Rafa",
   "liga": "https://horacero.com.mx/columnas-hc-deportes/el-tiki-taka-de-rafa",
   "medio": "Hora Cero",
@@ -1109,6 +1771,20 @@
   ],
   "local": false,
   "id": "c190a9f3ad7546e2"
+ },
+ {
+  "titulo": "Desde el Zócalo, Claudia Sheinbaum defiende democracia rumbo a elecciones de 2027",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/20/cuando-a-la-politica-la-mueve-el-odio-todo-se-pierde-sheinbaum-lanza-advertencia-a-la-oposicion-296068.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-20T11:27:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "604b801bc4a70055"
  },
  {
   "titulo": "Carlos Valenzuela ya se despidió del plantel de Tigres antes del último partido de la temporada",
@@ -1986,6 +2662,20 @@
   "id": "15c69fad7cbb2ec3"
  },
  {
+  "titulo": "Marx Arriaga anuncia ‘éxodo’ de Cd. Juárez a CDMX: Exige liquidación a la SEP por despido injustificado",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTWhWMEo2Q0hBQ184ZjB1ZE1NLXNFdGdPODFEY0tjU3hlVkNyb1RRSlRfNXB5bWV6TUo3LW5GQm9ZMlktSW5HUFNkYzdNR3A0NTVZODZYeWVNOHRVLVZWR0h4QUxlMFRJMFhQOW56MU5yZGg5QUpZSzBFYXlPVkRNbFlvV21GUE5YRWE0MEpEVkVpdnVDc0hSQlk0WkZtcXNXLXhIOVNZLXFkTmxYdjBwNGdBbGQyMk5VdnR1QUZrcDcydjc3cDJHdndlUzBiN0ZwZjdoS0VlVnZCbEs4bmdqMThXWjgyZw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-20T10:06:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Marx Arriaga anuncia ‘éxodo’ de Cd. Juárez a CDMX: Exige liquidación a la SEP por despido injustificado El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d23df6436280824e"
+ },
+ {
   "titulo": "Localizan 29 camionetas de lujo con reporte de robo en Durango",
   "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0drTlZpSFMtSzZ1Q3NLVjJjMHhzNE1UMjVvS252T1oyYXBuVFBDNnE1aC1PdkgwWUxidFo5X1RIelRKTHBYTGFEZUF0MkxKeVZjVlhsMW8tS2o5Q052LTk5WXE2a1V5WGFsRURiRkVCLWZVc1p5VlFIS1VHci1mSUZkUGhwOFJTNnJERWFZTm1VWWg2emRNckVPRTdrRzhDNWpHOThDeFJrbDRHTlE?oc=5",
   "medio": "El Horizonte",
@@ -2802,6 +3492,20 @@
   "id": "e5d14ee33ce2431e"
  },
  {
+  "titulo": "Detienen a Roxana \"N\", exalcaldesa de Playa del Carmen, Quintana Roo por uso indebido de recursos",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVG5LSlJ2V0FkYXRyeV82SDhYa3NudzJpeW5xZVdEdkQ4OGIyYVZPaTR0YTE5QWEwTzVEMTFGUGYtaVU1NGRPSzdJTlpKQ1Q5YlhkY2lkS0lWN0IyNV8yYmJPY0RhWEN0U3dGRlUzS0lNbWM5c1llQk1mUlJKTFk5RDdQLVdmc01WTEd5M2pzcHplOVZMRlMxRnIzMjl0cExlS3JBRHVmVm5MUFVBVFJpbXhvQWlhbGlnUTZqR1UxNDNDQTBLVWtDTGxsV3hHazFtOWc?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-20T08:30:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Detienen a Roxana \"N\", exalcaldesa de Playa del Carmen, Quintana Roo por uso indebido de recursos Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "95ef11717733d10e"
+ },
+ {
   "titulo": "GTA VI abre las puertas a ciberdelincuentes",
   "liga": "https://horacero.com.mx/tecnologia/gta-vi-ciberdelincuentes",
   "medio": "Hora Cero",
@@ -3277,6 +3981,20 @@
   ],
   "local": false,
   "id": "779627cd3c356661"
+ },
+ {
+  "titulo": "Sindicato de casinos de Nuevo León evalúa frenar alza de impuesto del 10%",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTcyUkdrR2ZGNi00S0JVdGdyNVRWc2tUcEFXS1BWUWh4akVLUFZTSnVnbUdhWWJyZW1NZ200Nk43eGhyVHlwLUxaZW1DOFJ3am4wMi0yUWJWMFdfbmRqRWtkMklIVlJUeU9UcnJERHRkazZMWjJIcEU0VlpYYWNkMk80TQ?oc=5",
+  "medio": "Focus Gaming News",
+  "publicada": "2026-11-20T07:32:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "Sindicato de casinos de Nuevo León evalúa frenar alza de impuesto del 10% Focus Gaming News",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "971c08cccf4b0d46"
  },
  {
   "titulo": "Gran desfile en Puebla por los 116 años de la Revolución Mexicana",
@@ -4801,6 +5519,20 @@
   ],
   "local": false,
   "id": "d0f11cacfe2bd23b"
+ },
+ {
+  "titulo": "La paciencia estratégica: cuando el espionaje se disfraza de intimidad",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVnJFdjJwN0l3bkIyTG44bzNHQnc4MF9ONjZvcTh5TlJTdE5ubUFHTW5jeEZ4a2dZMHlOQ3ZIbjJDc1hvMGJXREd0SHNJOUdVaGVYOFhmbk9ZM3hXUnhLWnlLVTFfVzdpaU9Wd05RZnRsQ0tTdVhMSWtTeTllcU9CQy1pTXhpcGdsa0lLQW1PdUlEZHZkamk2VzhzUGVkMEhKaFlNUGFHTFNsWjBES2FSQ2hyOElZaW54TUdweDJaTjNtMmF3RWxj0gHHAUFVX3lxTFBFZl9vSW9vSDc4aDl5am1JZ1VKWkNEcVNBUndkTndEQjdwVFJhS194R01fSkV1cnJJV3VOS1c0V0YwWHVXb0xVbDhmcWdWSGQyY2p1MjBoRkhnMVdRdlgtNk9FTzZjbmtrYzFPNUJvWXJBUEZIVm9CZy1qOGl5TWxOMU5oUVNoVGJ2WUNySWVKXzk3dFRFSWlWanVXdEVOMGh4bTJVYld3N1FQcmRZT3VkdWZUd0h1Y2ZBSkZ3MGhXcFpDWGlJTHc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-20T02:06:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "La paciencia estratégica: cuando el espionaje se disfraza de intimidad Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bbfa0a1b1cb164d5"
  },
  {
   "titulo": "Develan placa por el 30 aniversario de la Universidad CNCI",
@@ -7116,6 +7848,20 @@
   ],
   "local": false,
   "id": "03b55e168c5327c3"
+ },
+ {
+  "titulo": "'La Mañanera del Pueblo', jueves 19 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEhXMmpOMXNKNEhGNGRTUDRaS1BZU1E3V1MxMk1sczZyS2xkeURhaTJmNkd2TVZBTTYtQUE2R2w5M29CaG90MEQ5TWtGbW53cmh0RGZHZVJMSERRa201S3dfbmFDU25FOFFjVUpfeHlfSXJpOFJ5X3h1ZkcyTjFvUGs5cDVISUnSAYcBQVVfeXFMUFFJVDA3R2tTWk1PNlpkSWJWZ3JXS2E2cnAxc0tpNHpyOUZiLWVlSS1Eak9jNGpNMFd3d0N5cnAxNFczZm4zS2FzdkhaOWpaNGpTZkJlTklCZGE4cVQ1U1NleVdQRjBnREtHMHpRSkxrU0RFRUdnN3RqUUUzSFV6RDNlR3JxbmJB?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-19T19:00:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T14:54:03-06:00",
+  "resumen": "'La Mañanera del Pueblo', jueves 19 de noviembre de 2026 Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d7bb31aa8ced44f4"
  },
  {
   "titulo": "Carmen Lilia, aliada de la educación y de los estudiantes de los CBTIS",
