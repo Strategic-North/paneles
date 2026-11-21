@@ -1,5 +1,259 @@
 [
  {
+  "titulo": "La Tele",
+  "liga": "https://horacero.com.mx/columnas/la-tele",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-21T11:43:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Fue la primera –y entonces la única- pantalla “adictiva”: La tele. Merendábamos frente a la tele, cenábamos viendo la tele, hacíamos la tarea frente a la tele. Yo nací a principios de la década de los 60’s y en mi casa, como en muchas otras, había un solo televisor blanco y negro",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f57695510390c736"
+ },
+ {
+  "titulo": "Alcaraz vence a Shelton y avanza a la final de ATP Finals",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGJzdlRnZndBaDBjQmZWeDV4OTVxbEM5Rkd0SVhYeTJWUWxGZk1lbVBGQkh3dDlES25ETGJXZzM4V1ZrOUV3YUE1aHk4UFY5OU16UElkQVFTN2lmMXN0dWZWT19QaHZEQU9ZdlEyZjNwcC1leE1VakNhQkxjemxqcWprSFZ4UDVUVkFWSDByaWQtb3Z5ZDVCV0dJRWNvVFFRV3JYNkt2VQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-21T11:42:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Alcaraz vence a Shelton y avanza a la final de ATP Finals El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7a3e44fb2085730d"
+ },
+ {
+  "titulo": "Los paseos diplomáticos en McAllen",
+  "liga": "https://horacero.com.mx/columnas/los-paseos-diplomaticos-en-mcallen",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-21T11:39:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "El fiscal especializado en Combate a la Corrupción de Tamaulipas, Andrés Norberto García Repper Favila, rechazó de tajo haber viajado recientemente a los Estados Unidos ante una incómoda pregunta lanzada al vuelo por el periodista Alán Morales, quien lo cuestionó directamente sob",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "473d1c874e607f48"
+ },
+ {
+  "titulo": "Cuatro Heridos por Choque contra Columna del Metro en Apodaca, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQazhsU182SmRvMy1yNEo2cGtFYk14LW0wQ09odXBleXZESXd4NTRISDUwMEhXWUd1ZDFPemltN1NFcXNXQVVpWUR4OUMtVzFqM1ZoU1V0WTNHUy1taEZwU2NDM0lVVE1xcW1CczRKZmMyV1FtaGhxNlp3OGRYM1ZaN2RpbHlqNGliUVItN1ZIcVZjbWFrQXNINGtwcHVTc0oxaTExckJjVnpxOVluRU5DZUJlUzY1U09VT1o0dlo1SVRLTHRMdDFUSQ?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-21T11:39:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Cuatro Heridos por Choque contra Columna del Metro en Apodaca, Nuevo León N+",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "aeb7362fb36a9f4d"
+ },
+ {
+  "titulo": "Tribunales suspenden cambios a Modalidad 40 del IMSS en 2 estados",
+  "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzJlN2g5bXdiUkJvekRweGJyRlotTUlNQVdMZWYxcS1HbFRYQ3dfSFE2eUNZTzAyVkc2RDFBZWZEOU44aGUwVl9rNUZJdTBpQV9XNk9ndE1Rb1lqMUR3MGlNOUJfY2pQenE2VzRxbGtfbVN6cnFtb1I5RDZySzVCUmFMdVg?oc=5",
+  "medio": "Acento 21",
+  "publicada": "2026-11-21T11:39:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Tribunales suspenden cambios a Modalidad 40 del IMSS en 2 estados Acento 21",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "88ecb63e307041b4"
+ },
+ {
+  "titulo": "Hallan camioneta baleada y blindada tras violencia en Guasave",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE9TUVN3a2dta2F4TllEV2cwWHVIX1RCczR0MkpQYjBZTjg5MHlLUnJGQWZNUzFZUWZmbVg3aFBKNjF5WUdoZXRsQnRlOXo1MGhWOEh4bDQyTHdEd252STF1RHpPbWtFcHJTNUpUa0phZ0RqaEFEZjFNTEtBR19vb1luTHg4WkY2b1NGcUdsZXg2X21Zd0N1LUJ3VXF4b2hDSllMU21XbFlIdDNF?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-21T11:36:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Hallan camioneta baleada y blindada tras violencia en Guasave El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "74481762aeaa42c3"
+ },
+ {
+  "titulo": "Tigres vs América: horario, dónde ver en vivo el partido y alineaciones",
+  "liga": "https://www.posta.com.mx/nuevo-leon/tigres-vs-america-horario-donde-ver-en-vivo-el-partido-y-alineaciones/vl2281660",
+  "medio": "Posta",
+  "publicada": "2026-11-21T11:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "a0447c0651cd7696"
+ },
+ {
+  "titulo": "Ganar o rezar",
+  "liga": "https://horacero.com.mx/columnas-hc-deportes/ganar-o-rezar",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-21T11:32:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Para Rayados no hay más que de dos “sopas”, ganan y aseguran Liguilla; empatan o pierden, gracias por participar. En sus tachones está su destino. The post Ganar o rezar appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "c75c5b8f3c9953d4"
+ },
+ {
+  "titulo": "¿Quiénes son Germán ‘N’ y José ‘N’, detenidos junto a ‘El Chapo Isidro’ en Sinaloa?",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/21/quienes-son-german-n-y-jose-n-detenidos-junto-a-el-chapo-isidro-en-sinaloa-296160.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-21T11:30:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "08bc891efd96233b"
+ },
+ {
+  "titulo": "Acusan irregularidades | Santa Catarina suspende obras del proyecto federal Tren del Norte",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVQ1UkhpSy05ODNjTlBOXzJ3WTk0Vk9qLThhLXNrX0pEem9JUlJobkRGY2tURENuRWtuSmlXcHFyczFYVm9rWUZNcVhKNnpwZ2FQQ1ZvbkxRXy1pX3BXdFlpazA3a1pZeHo3b0wzNU5XcGZLd3p3ZmpDSXNHeExEYVplVkZ4S1FTUDVCR2RWV3pTTG9uamhoNGk2SkgyU3pGVWUwYkhXME9MUkZ1ZWJQNVE4ZTRWZ1VCSnBZaW9BejczSEN2NVVfbzR2bzR5TjljMzZyVWtzdGhRMlZzVmdNSTJ3?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-21T11:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Acusan irregularidades | Santa Catarina suspende obras del proyecto federal Tren del Norte Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f8d8c244581a3875"
+ },
+ {
+  "titulo": "Esposado y con la cabeza baja fue la detención de “El Chapo Isidro”",
+  "liga": "https://horacero.com.mx/nacional/detencion-el-chapo-isidro",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-21T11:24:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Capturan en Sinaloa a Fausto Isidro Meza Flores, \"El Chapo Isidro\", líder del Cártel de Guasave. Conoce los detalles del operativo de seguridad. The post Esposado y con la cabeza baja fue la detención de “El Chapo Isidro” appeared first on Hora Cero Web .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d31d6e06f8b22bb1"
+ },
+ {
+  "titulo": "Manchester City pierde racha de 14 años de triunfos ante Fulham",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVBWYWctdWVnYnppMWpQSzNaaWJVX0ZaOWt3WHZOTzRBb1c4MzRrdHR1RldqWkgwWXZuZHBUVGtlSlBWclplNks2VDJESE9BT0hSVDFKMExWdzc1d19YRy00NjBQQzlwVUF2T2xqY0ZRN2pwZHN5a0NvQi1JcHlBdjZwWF9qeHV2dEdFel9IT3dpMkY2ZFllcUd3aUN1Smx3N3hLa05lTEV5amxsQUtN?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-21T11:16:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Manchester City pierde racha de 14 años de triunfos ante Fulham El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dcef8d0c7085ea78"
+ },
+ {
+  "titulo": "¿Qué pasó con los órganos de Sofía Calderón? IMSS responde y anuncia nuevas medidas",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZVh2WDdUVldPbktQSENhRk41ZjdJd1J5ZHZjRFJvX1RDUGxXR09tRmRhS2NhZUFtUkZyb1ExX1h3Y3lEQ0UxNEtSVFNVUzNYMFNadm03YjMySnVTUGY5bWpVdkduNUFjNHNwVjlHYlhTZ1ctaFdFeWcxUnZERU5BLTZJUWhPMUxGRG5NQzlMME11b3MyN2daVmJjVWdyUnVkZ195VnZoMlh2UnFVcmFmR0xuS3V0UXVhTE1sRi1YNEZkNHdJaE0zZ0ZHSTUyZU9tbUE?oc=5",
+  "medio": "Récord",
+  "publicada": "2026-11-21T11:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "¿Qué pasó con los órganos de Sofía Calderón? IMSS responde y anuncia nuevas medidas Récord",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "bae43c5bef2cce4b"
+ },
+ {
+  "titulo": "Dormita y choca contra poste en Monterrey; derriba cables de alta tensión",
+  "liga": "https://abcnoticias.mx/seguridad/2026/11/21/dormita-y-choca-contra-poste-en-monterrey-derriba-cables-de-alta-tension-296158.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-21T10:57:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e450c41db9c5c809"
+ },
+ {
+  "titulo": "Detienen a joven con 88 dosis de droga en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlduM3dkSl94OVp6NDJWd0ZtdFQ5Rm5ZMVJic3k3OHJPbmhIZThfQ25FSThoTUV5ZlI5U21LVC14T1Y5ZGRfWWJlRzZLbGtRclZNMkI5QllEWDNycTlwWkxaNW1TM2FwQzZGUTc5Yms3eXBNTGw3U3pjWWw5TGJmOXk5OHhwMzR0ZGhvaXp6TERrb2M?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-21T10:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Detienen a joven con 88 dosis de droga en Monterrey INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6dff297d086366f0"
+ },
+ {
+  "titulo": "Conductor choca contra postes de protección en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmZzUVU2d3MzQUlqU3FHS1lVbkdwYndGNlFHVlJIZnJNZDUxOEJxSWo0RTNVUkNnRWdNWGE0ZDBKNnVRS3VJNWF5WXRGYXRHWjFEcW1HUXI0OGJoaDFZelVBMGx3cTVMeURlNHB2ZUtZdlg3X0NSdk9KSWp3bDUxVm1WN1ZIb2xsM1lJdFdDQWJJOWpaWTNqQWhR?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-21T10:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Conductor choca contra postes de protección en Monterrey INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "3df82dfe1c61977d"
+ },
+ {
+  "titulo": "Díaz Ordaz: Conmemoran 116 Aniversario de la Revolución Mexicana",
+  "liga": "https://horacero.com.mx/tamaulipas/diaz-ordaz-revolucion-mexicana",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-21T10:53:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Díaz Ordaz, en este municipio instituciones educativas, autoridades y familias participaron en el desfile del 116 aniversario de la Revolución Mexicana encabezado por la alcaldesa Nataly García Díaz. The post Díaz Ordaz: Conmemoran 116 Aniversario de la Revolución Mexicana appear",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "06d025b806aed89e"
+ },
+ {
+  "titulo": "Diputados exigen transparencia en recursos para puente del bulevar Aeropuerto en León",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRkpqOTFZUmU5bVJ2RGdHSDFOV0Jla0Fvc2h0WmVhUHhzRnBBOEJtZXgtMnFSaldTU2locXdveXlYb3ZZa2YtSXdTcWJ6cDY3LVZtMEc1NlB0eXlGX19odGJsQmZ5ek5WLU5PdXljd2tWUzBjdVJzYnM0WVNCTXBkNVd5bWxYalRHLTFmZWxocFlNSWctRE1QbHhuQmVNcDJlTkVEZdIBpAFBVV95cUxOb3lDZ01DM3JXWC1UQWV4NmZ5aG1QTThkdXdFUHhnOFVlZkJjUGJoaWNtVDM4UDhFcjc5Z1M2OG9URVZJTnA4c210aDNEak5HRzdiYUZ0UDBSQkhHV0Rfd0t5SmJaTXJScVFzQ2ZlS0hnZGUzUmt0YkVlTmRhZEM3eVY0bWgzWUZSSVhZSzFGeE9tSkQ0R2tFdWg0WEQ4X0hKVlFVTw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-21T10:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Diputados exigen transparencia en recursos para puente del bulevar Aeropuerto en León Telediario",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0155e9a02a669be5"
+ },
+ {
   "titulo": "Auto choca contra postes metálicos en el centro de Monterrey; no hay lesionados",
   "liga": "https://www.posta.com.mx/nuevo-leon/auto-choca-contra-postes-metalicos-en-el-centro-de-monterrey-no-hay-lesionados/vl2281651",
   "medio": "Posta",
@@ -26,6 +280,20 @@
   ],
   "local": false,
   "id": "7a9984e30e44998c"
+ },
+ {
+  "titulo": "Chapo Isidro traficaba fentanilo y era amenaza para EU.- DEA",
+  "liga": "https://www.elnorte.com/chapo-isidro-traficaba-fentanilo-y-era-amenaza-para-eu-dea/ar3318939",
+  "medio": "El Norte",
+  "publicada": "2026-11-21T10:39:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "DEA asegura que organización de 'El Chapo Isidro' era una amenaza significativa para EU, pues traficaba drogas mortales como el fentanilo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ead62c009fe2b40b"
  },
  {
   "titulo": "Vadhir Derbez niega ser un agresor sexual",
@@ -68,6 +336,20 @@
   ],
   "local": false,
   "id": "efc462be70462689"
+ },
+ {
+  "titulo": "¿Cómo fue el ataque aéreo militar contra 'El Chapo Isidro'?",
+  "liga": "https://www.elnorte.com/como-fue-el-ataque-aereo-militar-contra-el-chapo-isidro/ar3318936",
+  "medio": "El Norte",
+  "publicada": "2026-11-21T10:29:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Ráfagas rojas cruzaron la noche en Guasave: así fue el despliegue aéreo y el armamento usado para cercar a 'El Chapo Isidro'.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "985fc8d8c7cfcb74"
  },
  {
   "titulo": "Funcionaria de Trump celebra captura de ‘El Chapo Isidro’",
@@ -228,6 +510,20 @@
   "id": "f9bdcad78a4a0667"
  },
  {
+  "titulo": "Joven pierde el control y estrella su auto contra una barda en Lerdo",
+  "liga": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14RTBxaHRibEsxVXRaYzQtOW1RbkRjQjdrZ1Fmb3FYdEdPZUd2WWV3RnlfRy1nWFAwZkYwOEZRb0RJYmpaMDJpMGhPd0Myci1HaVNHaTEtLTU1WmQySnZTbHVWdXNuakpmMmdXVkNjaXpWYmVRN00xOWdNMHZEZ9IBfkFVX3lxTFA5VXJNa2hjRUpwRHJ6TmxWcUJyRGRDVWJfVlFpMU40SlZEcEJFMVhPbUxmNUFVby01NVgwMXNVUmhLRnBKWGhWOXJXY3VqaUFFaWFGQlU3T0VFSHVIek8yNUhXUDl3czA4MmMtc1piU2E1ZjhKQkxQT0x5Mkh4dw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-21T09:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Joven pierde el control y estrella su auto contra una barda en Lerdo MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0decf65a4ed0a20e"
+ },
+ {
   "titulo": "Difunden video de la captura de 'El Chapo Isidro' en Sinaloa: así fue el operativo",
   "liga": "https://abcnoticias.mx/nacional/2026/11/21/difunden-video-de-la-captura-de-el-chapo-isidro-en-sinaloa-asi-fue-el-operativo-296155.html",
   "medio": "ABC Noticias",
@@ -283,6 +579,20 @@
   ],
   "local": false,
   "id": "1e1b0f1d43753950"
+ },
+ {
+  "titulo": "Arrestan a Hombre en CDMX por Robar Mil 420 iPhones en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTBUaXE3SzM1UF9KUERNVHUzenZ1TTN2RW1qUHg1dkRpT0ZkV1lJeGhxLWlKbGNqUWtmeUVEazFlWDBNa0FMVXJSRVNlSmdyMXl4Y1ZMdHl4TkdsSTVwZTVhdWw3VWVDZ1J4b2FhRW1KUlI4WktIMUszVzZza25jcFVmMThIdXlWa3daSHlsa0RyakF1b1N3TTR3ZkhkcktYZi0zRXlndFRueDZUdWhscw?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-21T09:38:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Arrestan a Hombre en CDMX por Robar Mil 420 iPhones en Nuevo León N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e5678ea729c7168b"
  },
  {
   "titulo": "Presunta dormitada provoca choque de camioneta contra árbol en Escobedo, NL",
@@ -439,6 +749,21 @@
   ],
   "local": true,
   "id": "49cca756e7189c7d"
+ },
+ {
+  "titulo": "Final regia 2026: Auténticos Tigres UANL se enfrentan a Borregos Salvajes ITESM en busca del bicampeonato",
+  "liga": "https://www.posta.com.mx/nuevo-leon/final-regia-2026-autenticos-tigres-uanl-se-enfrentan-a-borregos-salvajes-itesm-en-busca-del-bicampeonato/vl2281622",
+  "medio": "Posta",
+  "publicada": "2026-11-21T09:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "",
+  "temas": [
+   "Educación",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "9a545631edcd23db"
  },
  {
   "titulo": "Enfrentamiento en Veracruz deja un muerto y dos detenidos",
@@ -1086,6 +1411,20 @@
   ],
   "local": true,
   "id": "d383cc2998ced40a"
+ },
+ {
+  "titulo": "Cuánto cuesta el dólar HOY sábado 21 de noviembre 2026 | Tipo de cambio en México",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSld3TGsxLXppTzFqTW54UW1ZV1Z0TEp6RXZBNG5mUjJCQnV6RVM5cldVenZGVVJFdjFVUU43Smh1MTlRcmc0LWpBR19kNHVteW9valZUVmN3dWg2VTN4SnBfeUJzVkZHNWFITEdVLUg4TkE0X2J3T21GTTE2YmRIQ01kUnhWd0ZjNjlhemlLOFFxNUtmdlZrNFR30gGaAUFVX3lxTFB6MnptZGZVTFcxcDQyWmZuZEJzMnVUM2FwWWFHUlJGRl9PdHNRd3VCbzNfSkNZb1EzTzlmZHZHb2ZPWVgwak55ckYyOUMyeEROZy14b01RX2p2NGhwc1dwWkhUSGRia0xzbGFTT01Ca2o5RDJlWkNaSlJ2dGkzTlZQSTlmalk4NjVCNlpfUjR2ZzdrWnpPTnBPZEE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-21T07:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Cuánto cuesta el dólar HOY sábado 21 de noviembre 2026 | Tipo de cambio en México Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "93b3bac300250330"
  },
  {
   "titulo": "Pasan madrugada resguardados por tiroteos en Guasave",
@@ -4093,6 +4432,20 @@
   "id": "63a776b8f43fe9bf"
  },
  {
+  "titulo": "Aseguran casi 18 mil peluches apócrifos en la Aduana de Lázaro Cárdenas, Michoacán",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlRFZGQyeExPdDZGVjFPVlhIMUc5Rkk1LVNUNllwakZCcXhGV3hWMzNNdHRCcTFpZTRfUnZYTnJ4LU1wd1pJd0lnNDR2MTlUOWFYSFZ5ek8zTHNZZG1SdlpXZldjNkdHM1g0ZnBYV0EzN0RIak9BMno1WjgweUNsUlpRdmNrWGstNGE0TEotZUdSOTdDT3pqTTVkdklSRlU5ZC1JZ1hKNFZ2NElyaTJwZjRYeDRQbEZPOWFkR0xPaFpVYnVibWJ6dVliUmlka1d5bFF3VA?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-20T19:56:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Aseguran casi 18 mil peluches apócrifos en la Aduana de Lázaro Cárdenas, Michoacán Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e5f036517783e858"
+ },
+ {
   "titulo": "Registra el peso su peor semana desde agosto de 2024",
   "liga": "https://abcnoticias.mx/negocios/2026/11/20/registra-el-peso-su-peor-semana-desde-agosto-de-2024-296131.html",
   "medio": "ABC Noticias",
@@ -4515,6 +4868,20 @@
   ],
   "local": false,
   "id": "4ef1cc5329418fde"
+ },
+ {
+  "titulo": "Ejército, Fuerza Aérea y Guardia Nacional refrendan su compromiso de “Servir y Caminar Junto a México”",
+  "liga": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYkxTQUt0bUJDeEYwRXcwVGZkVjBiUzVhUjZYcHVkenhnaHJlN21IME5UX0NtOC1CV3FRM3RKN0FES1hiYTFIN05NWXljNVVabGZJTHBZV19wcG9HSEpwdGt4VjlnVTdTaldOQzNpMEwzcGFpRnFLN3ZINWxVaGJQS1ZLTVdNLTIzUEN3VlpaaWZLWDdvcU1Fc1VvbTJVb3RiZGxhSHhxQWpKajJlNW9YbjZDMWJkamUzQXU4aExCd1d5Q0RDaWpJSkwxdndOZ0tsajBSSFhrUTNqUUNub2wteWZoTGoxcWltUXpfV0ZB?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-20T18:49:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T11:44:48-06:00",
+  "resumen": "Ejército, Fuerza Aérea y Guardia Nacional refrendan su compromiso de “Servir y Caminar Junto a México” Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4b1b4fc23a4cbdfa"
  },
  {
   "titulo": "Trasvase de agua de Nuevo León a Camargo: la presa Marte R. Gómez alcanza el 95% de su capacidad",
