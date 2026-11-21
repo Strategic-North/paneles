@@ -1,5 +1,415 @@
 [
  {
+  "titulo": "PAN de Baja California aprueba explorar alianzas electorales rumbo a 2027",
+  "liga": "https://elportavoznoticias.com.mx/pan-de-baja-california-aprueba-explorar-alianzas-electorales-rumbo-a-2027/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-21T16:43:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "El Consejo Estatal avaló iniciar acercamientos con otras fuerzas políticas; Lizbeth Mata Lozano aclara que todavía no existe una coalición definida. Tecate, B.C., 21 de noviembre de 2026. El Partido Acción Nacional... La entrada PAN de Baja California aprueba explorar alianzas el",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "5609ae42b7742b25"
+ },
+ {
+  "titulo": "2.5 millones de salvadoreños residen en el exterior, la mayoría en EE. UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/salvadorenos-en-exterior-27-porciento",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:36:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Un informe estima en 2.5 millones a salvadoreños en el exterior, la mayoría concentrados en Estados Unidos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fdbad1ccd69d3ab9"
+ },
+ {
+  "titulo": "Pablo Alabarces se despide de la docencia tras 42 años de enseñanza",
+  "liga": "https://elcongresista.mx/politica/nacional/pablo-alabarces-despide-docencia-42-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:35:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Pablo Alabarces se despide de la docencia tras 42 años de carrera, dejando un mensaje sobre la educación y el futuro académico.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f8fb9963050e6f21"
+ },
+ {
+  "titulo": "Lunes 23 de noviembre es día inhábil en el gobierno de BC",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/lunes-23-de-noviembre-es-dia-inhabil-en-el-gobierno-de-bc/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-21T16:34:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "“Las dependencias estatales y entidades paraestatales encargadas de temas fundamentales como: salud, seguridad pública y protección civil, tendrán personal disponible para atender cualquier emergencia La entrada Lunes 23 de noviembre es día inhábil en el gobierno de BC se publicó",
+  "temas": [
+   "Salud",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "29a4770e11dfbb78"
+ },
+ {
+  "titulo": "Gallardo supervisa construcción de autopista San Luis Potosí–Matehuala",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/gallardo-supervisa-avances-autopista-slp-matehuala",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:33:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Ricardo Gallardo supervisa los avances de la nueva autopista San Luis Potosí–Matehuala, que cuenta con una inversión de 22 mil millones de pesos.",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0e79cd4f2099f10e"
+ },
+ {
+  "titulo": "Abierto de Palermo: La Natividad-La Dolfina venció a La Ensenada y está invicto en 22 funciones",
+  "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbEdWYXhpNWpoMkJmX2pnVTlwTVhiVmVRVHBsMFNtd2xJcEp3eUI5V0gzYmQ3blRoc0FlbmlUQkFUNVRHUE5EZUN5VzJpZjlWRXQ2eUc5VjJtT0hLVzZTWnRqcFhqSFlPalVWMWhHckVkNlBaa0FtNTY5dFNnX3RVRWRYek5DUkdPV2RqS2dDQjdtQ2RRRDNPMHBCdHFnV3JTem9qTTFENXU4QWphSG4xTndxX1IxczFfbS15cHNseWVFeWdGcXpsY2xOWWtQT0pFZjVJUjlXS1VrVXZ6UVJMY0VLcw?oc=5",
+  "medio": "La Nación",
+  "publicada": "2026-11-21T16:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Abierto de Palermo: La Natividad-La Dolfina venció a La Ensenada y está invicto en 22 funciones La Nación",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ae1e44ab7a7dbb0b"
+ },
+ {
+  "titulo": "Inicia Proceso Electoral Local 2026-2027 en Zacatecas",
+  "liga": "https://elcongresista.mx/politica/zacatecas/inicia-proceso-electoral-local-zacatecas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:32:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Inicia en Zacatecas el Proceso Electoral Local 2026-2027 con elecciones para la gubernatura y 30 diputaciones.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b51dccd1a118d56f"
+ },
+ {
+  "titulo": "Farmacias Similares abre consultorio y cafetería en Holbox",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/farmacias-similares-holbox-consultorio-cafeteria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:30:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Farmacias Similares inaugura un consultorio veterinario y una cafetería en Holbox, atendiendo a 600 mascotas en la isla.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "172ceeed6e191189"
+ },
+ {
+  "titulo": "Tere Jiménez da inicio a obra turística de 22 millones en San José",
+  "liga": "https://elcongresista.mx/politica/aguascalientes/tere-jimenez-andador-turistico-san-jose",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:25:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Tere Jiménez inicia la construcción de un andador turístico en San José de Gracia con una inversión de 22 millones de pesos para impulsar la economía local.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "81474f08c4d00f00"
+ },
+ {
+  "titulo": "Refuerzan limpieza de pluviales en Tecate ante pronóstico de lluvias",
+  "liga": "https://elportavoznoticias.com.mx/refuerzan-limpieza-de-pluviales-en-tecate-ante-pronostico-de-lluvias/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-21T16:22:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "El Gobierno de Tecate reforzó los trabajos de limpieza de alcantarillas y pluviales en distintos puntos de la ciudad, como parte de las acciones preventivas ante las lluvias pronosticadas para la región.... La entrada Refuerzan limpieza de pluviales en Tecate ante pronóstico de l",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "fa3390d85e7c354d"
+ },
+ {
+  "titulo": "ACCIONES AFIRMATIVAS",
+  "liga": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GbnczVS03RjVHQ1dmNlVlektwaXh6ZXF0TWhhR0dpOW4zTmx6eVJpLUFMVFRfc3NudDhkdmk3d3JGX3htVFQtOFpzS1JPeG5oejJQSmk5X2I3UnQ2OHV2NExNcjNFdzh4U3lDamttcy0?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-21T16:16:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "ACCIONES AFIRMATIVAS AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "36df48947f0e281a"
+ },
+ {
+  "titulo": "Reporte sobre detonaciones deriva en aseguramiento de arma y detención de un hombre en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFZ6ZGNwMkJlYVduYm13Q25rZTdid0E4UVlPdTQ3TGIweGw2bHloMUY3djJpSmJKVTdSRUFnYVEweXlldVR4Nmdlcjl4dE1iMGpnNTVyYlJscW5ZbmlPREZqSS1tZm9zbkVINS1Xd3d4UDdFd3lLV3EtN0NsTWYtTXVTTHM5a2NEb3ptMTJKc25MYUFGWmpYSnZoWWdfS3FyRVJIb3A4MFJpQ0JmQmQ2UTNNcEtuRS1VcjVOX2pyZF9oUlBORENV0gHMAUFVX3lxTFBfZ0tqb1FybVEyZ21HN2lycm9TSk1nQUg0MFhFRkFNRENyUnczeDRUMy14cTRTMHNHMXdoTXUyVGpyQUpqTXZ1enVHNVdtRl8tTzFqQmVhZUZZUzVuSi1kQjJHZjhyZzBZdDEyLVJ4V241Y2t3VnJEdFZKbi1kWkN1TTZkSjBBMVE4MVR5eVpKTm1oeEZkWkxEbm05MEpTb0pnOHFJR2Z1Y2RhQ25WRGNwUlZFSG5pWWF5bGRHYXlFX1ZTaTcxMTRjN1AyZA?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-21T16:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Reporte sobre detonaciones deriva en aseguramiento de arma y detención de un hombre en Ensenada Uniradio Informa",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "048b0585c574069f"
+ },
+ {
+  "titulo": "Gobierno de Ensenada ordena medidas correctivas a fraccionadores para reparar daños y prevenir riesgos",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTDd5ejBfOXFKYUFaNy1oN1dNc0xjRkJ4UDZwRHlYckFoclN1RF9iYWFySFppRGhSSlRoUTdmYkpibUxDRUQ5MDAxdzlNVTZmMWJHdUVmRDlfTzlyenV3R2tmUV8xMEIyWGFVZXZYT0pua1BCd2lNcV9aRUF6QWVtWVpOOHdCaEhIdlNFQ2t4NV9XLWUxNldaeU41NWVlYkxEN0V6a2VIdTdfR3dTMjEzSVlwLVJScGJUX05QOVBUdXJDRXJCQ2w1SWNnVnRiSGRYdUxQbEl30gHbAUFVX3lxTFBTYi1ZUTdMT2dnR3FiT09yQlE4dy12QXB3MjM3SlUtTHJ6XzNRLTVleXhQQWM3OW5SU0FpREJZT0VZcnhGaF9xQVFWRUNpMUNVQnB5bWVDMDFoeUNGOS1INnN4UEpOTjVMRkpIX2swVkZDdkRvSXRRM1V2WUJ5REtSelZ2Q1JEOWhUTTNxUktGWHdVckN1S0M4SlgzaDVydzB3WlZmOUVoSUVobTh4bVlJeTdWVEdwaFJnTVZiZTlLaEc0cHFkLWtLbURTalNPU1lBVGY4RGMtbW8xOA?oc=5",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-21T16:13:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Gobierno de Ensenada ordena medidas correctivas a fraccionadores para reparar daños y prevenir riesgos Uniradio Informa",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "693f78a5de887454"
+ },
+ {
+  "titulo": "Posiciona CITME-CAV a BC como referente de turismo de salud en Latinoamérica",
+  "liga": "https://www.uniradioinforma.com/sociedad/posiciona-citme-cav-bc-como-referente-turismo-salud-latinoamerica-n915597",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-21T16:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "La participación del estado en un encuentro internacional en Colombia abrió nuevas oportunidades de colaboración.",
+  "temas": [
+   "Salud",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "0245100434d1f14e"
+ },
+ {
+  "titulo": "Arrestan oficiales de la SSPCM a un hombre señalado por intento de robo con violencia de vehículo y lesiones a una mujer",
+  "liga": "https://www.uniradioinforma.com/policiaca/arrestan-oficiales-sspcm-hombre-senalado-intento-robo-violencia-vehiculo-lesiones-una-mujer-n915595",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-21T16:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "af3a72b0b3498679"
+ },
+ {
+  "titulo": "Festival Calpulli reúne a 6 mil normalistas en Guadalajara",
+  "liga": "https://elcongresista.mx/educacion/festival-calpulli-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:08:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "El Festival Nacional del Normalismo Calpulli reunió a más de 6 mil normalistas en Guadalajara, enfatizando su papel en la educación y cultura.",
+  "temas": [
+   "Educación",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "3dbeb4ae8056214f"
+ },
+ {
+  "titulo": "Banco Central de Paraguay interviene tras corrida financiera",
+  "liga": "https://elcongresista.mx/politica/nacional/banco-central-paraguay-interviene-corrida-financiera",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:07:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "El Banco Central de Paraguay actuó rápidamente ante una corrida bancaria, devolviendo depósitos para evitar un contagio financiero.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "634d8fe289b49401"
+ },
+ {
+  "titulo": "Damon Albarn, vocalista de Gorillaz, elogia a Claudia Sheinbaum durante concierto en México",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVy1PQVg3X0w5clFPeVZlYTRBY1lRZDlWRVA1aFFMT2lFa2VJQnVraGE2YjBGSklHN1hwTmxuOHRSWFNfR0VCNkF1X21TS2NGNXBKZDd3VFJwNmY3QUI2d3A1a3RDLXpBLTh0STdiY2VpU1dFWVE5Mnl1WnJLMHdaU2tYMUI3Zy12ZDFET1V2Q2hrb2JTbkZQaHZtUGk1cnBicHBmLTNudXRlY3ViUUF2bUJ4aW1ET0hEZ29Ga096MllQTnNXZkd5Y0trVQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-21T16:07:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Damon Albarn, vocalista de Gorillaz, elogia a Claudia Sheinbaum durante concierto en México Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "948175bb444fe256"
+ },
+ {
+  "titulo": "Mac DeMarco llena observatorio en Tijuana con 2,500 asistentes",
+  "liga": "https://elcongresista.mx/politica/baja-california/mac-demarco-concierto-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T16:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Mac DeMarco realiza su primer concierto en Tijuana, atrayendo a 2,500 fans en una noche memorable.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "22c6e07cd8cdaf36"
+ },
+ {
+  "titulo": "Negocios locales extrañaron la Baja 1000 en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0pJeHRqYzR3WHl3TjFreXN2cE9mbUZoZzdBZ3JTSmx4VmstNF85SmVXV256Sm0wdG9CVDhyeGdoc1RGakRFT1ZOb3VvVE1RaWttNFZvaWhOTHNkaC1kZnJ1dlctSjg4eW03STBZdUh1UTJSVVpvRlc2Wm1FcUliUVFWYmw4NUg4NEpSU3hYc2Fpb1haSTdwM3FCemF5Snk3dnpXSVhxTmZIN3M?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-21T16:00:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Negocios locales extrañaron la Baja 1000 en Ensenada El Sol de México",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9afe1261875cad6f"
+ },
+ {
+  "titulo": "Federico Döring insiste en que se aplique todo el peso de la ley a Taddei Zavala",
+  "liga": "https://www.uniradioinforma.com/sociedad/federico-dring-insiste-aplique-todo-peso-ley-taddei-zavala-n915585",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-21T15:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "El diputado federal panista comparó la situación del organismo electoral con el primer capítulo de una novela.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "c135d0a7359c2d1f"
+ },
+ {
+  "titulo": "Capturan a “El Chapo Isidro” en Sinaloa; desata ola de violencia",
+  "liga": "https://elcongresista.mx/politica/sinaloa/captura-chapo-isidro-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T15:54:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "La detención de “El Chapo Isidro” en Sinaloa desencadena caos y enfrentamientos en diversas localidades del estado.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5db50adb33040086"
+ },
+ {
+  "titulo": "Municipios de Aysén capacitan comunidades en prevención de incendios",
+  "liga": "https://elcongresista.mx/politica/nacional/municipios-aysen-capacitan-prevencion-incendios-forestales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T15:52:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Municipios de Aysén fortalecen capacidades locales para prevenir incendios forestales y proteger ecosistemas a través de capacitación.",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a96708607ce754d8"
+ },
+ {
+  "titulo": "Ginóbili: los hijos de Manu brillan en Texas con 82 puntos",
+  "liga": "https://elcongresista.mx/politica/nacional/ginobili-hijos-talento-texas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T15:51:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Los hijos de Manu Ginóbili, Dante y Nico, brillan en su equipo escolar en Texas realizando 82 puntos y levantando expectativas sobre su futuro.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3e6036177ed47a8e"
+ },
+ {
+  "titulo": "Ya puedes llenar en línea el formato migratorio FEM antes de viajar al extranjero y ahorrarte tiempo",
+  "liga": "https://jornadabc.com.mx/principales/ya-puedes-llenar-en-linea-el-formato-migratorio-fem-antes-de-viajar-al-extranjero-y-ahorrarte-tiempo/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-21T15:49:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "El formato digital es parte del programa de simplificación y digitalización de trámites del Gobierno de México y lleva un año disponible La entrada Ya puedes llenar en línea el formato migratorio FEM antes de viajar al extranjero y ahorrarte tiempo se publicó primero en La Jornad",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b7ad215866e313d4"
+ },
+ {
+  "titulo": "México abre primera oficina de cooperación en La Habana",
+  "liga": "https://elcongresista.mx/politica/nacional/oficina-cooperacion-mexico-habana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T15:49:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "México inaugura oficina de cooperación en La Habana para reforzar la asistencia y abordar desafíos comunes en la isla.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5e9605f7aea480f2"
+ },
+ {
+  "titulo": "Alimentación para el Bienestar establece precio de frijol en Durango",
+  "liga": "https://elcongresista.mx/politica/durango/durango-alimentacion-bienestar-frijol",
+  "medio": "El Congresista",
+  "publicada": "2026-11-21T15:48:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Alimentación para el Bienestar confirma pago de 24 pesos por kilo de frijol en Durango, beneficiando a pequeños productores.",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c46e427d991a1413"
+ },
+ {
+  "titulo": "Nadador británico recorre 15 kilómetros en Ormuz para alertar sobre daños ambientales de la guerra",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMExONEtuYy05YnpVd21RQUpybmdEc1lfVFVtWElJbTR4VGZ6WjBXTER3emZ6M3pJLWZhNWJUVE55Z1NtOFpHX040WXhjcnpra0hIc3g2QVcxZm05S21pUzZKckVNTWtkQy1PM1pQbWRObkxOd05FV3B2SDlGb3RjYXI5MmxXcnVkNHBJSG5yOEEyeUhtMlVVTlRBQTMxUFF6bzZabEZFRkV4MGU5QzRYby1LVElwVVFkSVhPdlF3eFBQLXhzNXFjV1pqV3A3UzdieTFlMw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-21T15:43:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Nadador británico recorre 15 kilómetros en Ormuz para alertar sobre daños ambientales de la guerra Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bca66e889091d0bd"
+ },
+ {
   "titulo": "Secretaria de Cultura de BC acusa “terrorismo sindical”",
   "liga": "https://zetatijuana.com/2026/11/secretaria-de-cultura-de-bc-acusa-terrorismo-sindical/?utm_source=rss&utm_medium=rss&utm_campaign=secretaria-de-cultura-de-bc-acusa-terrorismo-sindical",
   "medio": "Zeta Tijuana",
@@ -1908,6 +2318,20 @@
   ],
   "local": false,
   "id": "f6b5e4c765883f16"
+ },
+ {
+  "titulo": "El Birrias, el borrego que conquistó las redes a puro cabezazo",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/el-birrias-el-borrego-que-conquisto-las-redes-a-puro-cabezazo-33251030",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-21T11:10:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "“Todo comenzó porque vi a un borrego saltar de un lado a otro y tratar de subir árboles. Dije: ‘Quiero a ese borrego’”: Leylan Barajas",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "18dff8ff4d8b40e5"
  },
  {
   "titulo": "DEA y zar antidrogas de EU califican de victoria captura de “El Chapo Isidro” en Sinaloa",
@@ -4565,6 +4989,20 @@
   "id": "63a02293eb4f6b0d"
  },
  {
+  "titulo": "Noticias sobre construccion de vivienda",
+  "liga": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XSy0zLXlaOXhXS2RkU3JJMkl4cWFYYTdfYTViTVJ4M0ZleHhCTWg2ZHVHdXNBUUFReTZ6Z2ZJcElrZ2tBZ3lhSVNwZEV2OHpvZTNWbGNtSHV0OEZ0NGQ5MHlfVER0bUVNR0JSdV9lZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-20T23:15:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Noticias sobre construccion de vivienda Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2027fb99a14bfa92"
+ },
+ {
   "titulo": "Capturan a sujetos involucrados en ataque contra agentes estatales en Ensenada",
   "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjF1WGNwcjVOd2ljYW5TSEZHQU1HbHpzTUIwaklZVGhDd0JFTXdwOUZzSk9SQXF0X0FGSGlLbXZwdzFFeG4tQ05ma19jclZzN09rVnQzdUZWNnBZX01UdHpaRS1UR1QxWUZ1dEFtTVdEa2JqdFJlMFlpa09OM29KRG5fYzhMc1RST2xUeFRpVnJRbjExTlNRNEJNa0RobDlZa2pUckZsUjNhempMa1JvOGRYWWNlbUZYTW9taWJDbjY4MHFmWmN3cUdn?oc=5",
   "medio": "El Mexicano",
@@ -4577,6 +5015,20 @@
   ],
   "local": true,
   "id": "28d78c326b8a4ff1"
+ },
+ {
+  "titulo": "Xolos vence al Atlante con gol de penal de Gilberto Mora",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3Z5UVk5dU9qcnpmblZnQm9pckJvVEk2bF82OEtrZGt3ckpXZ2hKUXROelZnQzNJWm5leHB3d3BQb2lJTXpKdXl6bDUxeWFnUk5wZnl5RGFYQjFmYWNDT0pfeVk2a19KdlVGLVF0M19yVW1EejFOZmVYVk1rQVZyN0NKcVQ4QWlhNnk4M1lBTERicFV6d0E?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-20T23:13:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Xolos vence al Atlante con gol de penal de Gilberto Mora Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "d1b78842c82fd803"
  },
  {
   "titulo": "Marina del Pilar encabeza desfile por el 116 aniversario de la Revolución Mexicana",
@@ -5220,6 +5672,20 @@
   "id": "56dbe50e9c37ea8f"
  },
  {
+  "titulo": "Astros evita la coronación de Soles y fuerza el sexto juego de la final",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEplRWFhRkZsQTZQRlZmbDN6bXgzUnpvLXdIN2hta3VUOGdvR1NkWEhoWFVnRUxKTDZWR3ZiYUZKb2UxREFkMFlfeE8tZF90UDhSV1oyQWJYMXZGblRvalNDUUFMeDFqTTRtS2hiOWxGLWhoeWptZk5uV0I2UEtxbWNlS053Q2NhTWtZR2dWYk9wR2d1djhUc3g2MjlBbV9WYm5tU2xxRlpfQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-20T21:24:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Astros evita la coronación de Soles y fuerza el sexto juego de la final Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5c8a036a8d33a8f1"
+ },
+ {
   "titulo": "Recordamos a José Antonio García Apac a 20 años de su desaparición",
   "liga": "https://elcongresista.mx/justicia/recuerdo-garcia-apac-20-aniversario",
   "medio": "El Congresista",
@@ -5746,6 +6212,34 @@
   ],
   "local": false,
   "id": "ade633759ea9df9b"
+ },
+ {
+  "titulo": "Noticias sobre leyes de california",
+  "liga": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WanU4d2hfanlrdHlXQnhSelF1d0c5cVM0d0hQenhhci1TYXNGenZMU3ZmMldBR0drTHp2MXpqUlVzTmxHWnVXalF5ZlM5N0ZadDdjMHpKbnkyUmlFQkhpUFZNb3k4djZs?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-20T20:10:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Noticias sobre leyes de california Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c1fdf073bb18e8d2"
+ },
+ {
+  "titulo": "California endurece las reglas para bicicletas eléctricas: conoce las edades permitidas, dónde circular y las multas",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX29LNVhJWXM0c3ZEOWZxUDc5SkR5RDZWUzQ4Q2dYVjZIS0t1di1Zd1p5THBrRWVXUGszTmpwUndzZUI3UTlmUHV6YU1DUFYtcGR1Y2ZQT0tTZzNwOUo0UGt5bnVFZzRqUW8zaFJWVHNHeEJ1NXdVU1FKcnhNZlpVNFZhdW03RVA1a0ZUQlpud19yTEpTT0hTTnByVmZDTC1KZzd6bjdGRnI5M0ttckxpdUtUNzY5TzFUM1lFck5MMFNwWEU1RWk0V3VfeEVDeU9KUy1xelhZQ1B0eHJKTk5pZDhNcTE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-20T20:10:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "California endurece las reglas para bicicletas eléctricas: conoce las edades permitidas, dónde circular y las multas Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "17d34c8a7c3e6fa4"
  },
  {
   "titulo": "Noticias sobre lomas de valle dorado",
@@ -6357,6 +6851,20 @@
   ],
   "local": true,
   "id": "a410594ec1d1ab68"
+ },
+ {
+  "titulo": "Noticias sobre compania ferro",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00ZS1FUVd1X0M3NFdoVUtzbGJhMEliXzVFdTZKcjZaSDlremd2RzN0TV9QVnlFU1BpLUhZMVFKcWVxbmJqNDZWblp4LXZSVlpzd0VJUkdvd0xhc1JRb04zZzJ3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-20T19:01:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T16:44:06-06:00",
+  "resumen": "Noticias sobre compania ferro Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "25d1ed74db53db85"
  },
  {
   "titulo": "Periodistas de Acapulco exigen transparencia en caso de Eduardo Flores",
