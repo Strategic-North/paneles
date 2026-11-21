@@ -3535,6 +3535,20 @@
   "id": "94bd26175690f397"
  },
  {
+  "titulo": "Noticias sobre aeronave incendiada",
+  "liga": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NaVhrVG40NzZFa09SZ2gyZTRWSVhKTUxxdUlHdm1Jak4wUWRza3RrNVE4YUU5QjNWSk5ENndveUwwd0lHWFpadC1iLUlsS1d0YUZpeUlVV3dMdXg4Wk9DS1JBdFNxNWMw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-19T13:38:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T19:10:04-06:00",
+  "resumen": "Noticias sobre aeronave incendiada Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3a3399be118ca4fc"
+ },
+ {
   "titulo": "Magisterio anuncia días no laborables para masculinos por el día del hombre",
   "liga": "https://oem.com.mx/lavozdelafrontera/local/magisterio-anuncia-dias-no-laborables-para-masculinos-por-el-dia-del-hombre-33219975",
   "medio": "La Voz de la Frontera",
@@ -11807,6 +11821,22 @@
   ],
   "local": true,
   "id": "2cadfdfda8416476"
+ },
+ {
+  "titulo": "Protección Civil prevé lluvias, fuertes vientos y oleaje elevado en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBENklPZnV5Z3luX0FQVGljS2NydlVYeHpGNXdEMmJsS05GaWdFblNoMjFEaUYwQW0wRGd2dkpvaE13bURYdU5RM1lEUHA?oc=5",
+  "medio": "XXV Ayuntamiento de Ensenada",
+  "publicada": "2026-11-18T19:45:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-20T19:10:04-06:00",
+  "resumen": "Protección Civil prevé lluvias, fuertes vientos y oleaje elevado en Ensenada XXV Ayuntamiento de Ensenada",
+  "temas": [
+   "Clima",
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "df731cd9a10edccd"
  },
  {
   "titulo": "Condado de San Diego destinará 4.5 millones de dólares para impulsar el arte y la cultura",
