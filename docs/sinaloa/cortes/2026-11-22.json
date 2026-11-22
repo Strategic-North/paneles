@@ -1,5 +1,530 @@
 [
  {
+  "titulo": "Preparan tiendas semanas de descuentos por el Black Friday",
+  "liga": "https://sinaloa.quadratin.com.mx/preparan-tiendas-semanas-de-descuentos-por-el-black-friday/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-22T15:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Ya pueden encontrar promociones en distintas cadenas comerciales que han extendido sus campañas durante varias semanas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d46191bfe29c135c"
+ },
+ {
+  "titulo": "Vaniloquio 2026 reúne a más de 10 mil personas en San Pedro Cholula",
+  "liga": "https://lado.mx/noticia/22374635/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-22T15:42:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "San Pedro Cholula vivió una noche de música, tradición y espectáculo con la celebración del Vaniloquio 2026, evento que reunió a más de 10 mil personas en la Plaza de la Concordia para presenciar el tradicional concierto de campanas, un espectáculo de fuegos artificiales y la pre",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "34cc36f2720b1ac2"
+ },
+ {
+  "titulo": "Reportan 20 muertos y 10 militares heridos tras operativo contra El Chapo Isidro en Guasave",
+  "liga": "https://lado.mx/noticia/22374625/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-22T15:40:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Incrementan a 20 la cifra de hombres presuntamente armados que murieron en operativo para capturar a El Chapo Isidro en Guasave",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f31dc8639f76c577"
+ },
+ {
+  "titulo": "Denuncian derrame de aguas negras desde hace un mes en Canteras 3; vecinos acusan falta de atención de Japama",
+  "liga": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQclV3NFVrcWRzcFZpa0kyMzRPR25ibGRWVDBsMjAydzlpd1hnaGNHMjc0MkhfeFlXb2FUSllOR0twNHNSQVk4VVkwYlhtRDFJMjNpSFdIVXpoMkZ1cDV6dVRnUnVnVDNoekltWmxaN29qVTM1M0xXbVhiVDkyaW9qQWxVUWdoUV9RclE1d1BVbms1WThlbWZWaFRHSkx0VnktWUdKMVBSczBMcm96bTFaMms1clNCZ3RJYjY5Rkk2TEctY29MdlpvRk1UdDdSUlltdXRrNi1IbFQ0MlhPeURFVl94ZVRiMVRGUUhWU1MtdjFEM1k1Nlo3NExMcDdVa0JW?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:40:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Denuncian derrame de aguas negras desde hace un mes en Canteras 3; vecinos acusan falta de atención de Japama Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "aa9e577040370ead"
+ },
+ {
+  "titulo": "SSC Guasave desmiente supuesto nuevo enfrentamiento y pide no compartir información falsa",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDN6d2lscy04UnRQazVDTDdGcjJPU2RpeFFrU05oLTQyQW42WS04dkZkbjQ4OFlkSE5fU3FUeWRYLV8yOEtxdFFTODhHOU9Fa1RZLV83MXpTRzBPQkE4clhuVFdSeFdmN19kSTFSMHhpcE96OERGV1RrRngyM3l2clhSdk1lbWtYR3ZmWG0xUUViZHlGVUxhNE1jX0t4ZldPUkR3MFBqeEttVXNBX25hUXc0SUZtZG1VRXhObzFCeDBJQl9Bc3UtaXZSdmZud29CblNNekZOUnBxLXJKNVlYd1ZOZFM?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:40:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "SSC Guasave desmiente supuesto nuevo enfrentamiento y pide no compartir información falsa Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c19dbf4e4e0efedd"
+ },
+ {
+  "titulo": "Desaparece camarón de granjas acuícolas; investigan posible enfermedad en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdzFsMUI2SkdRMWxNYTJkakozUFZNQ1czelljLWljWGNuRDJUbVI0RzFrYWlfS09pSEJfV3h0Rl90aHAxZnJ3cldjYTV3X3RwdnVRa252WlZFckJWbzVBdTVJWW1mcjF2a1dUYXJQMGMtZl8yaW15U2dRNjlhX3pQWDh5RTZhSXFRVnF4QjFXUndXa2cyYVRaclpFYk5DTXZnOTV2aFBXbW5Ra1lldnNHZ1JiMEgtTFdzcFdjWWJQdWtESHIxWDNJcUk2VDMzaGNIcHF1dlBPZlNyT28?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:38:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Desaparece camarón de granjas acuícolas; investigan posible enfermedad en Sinaloa Debate",
+  "temas": [
+   "Seguridad",
+   "Salud",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "b85441f62381b605"
+ },
+ {
+  "titulo": "Festejan músicos con misa de acción de gracias el Día de Santa Cecilia en Mazatlán",
+  "liga": "https://lineadirectaportal.com/sinaloa/festejan-musicos-con-misa-de-accion-de-gracias-el-dia-de-santa-cecilia-en-mazatlan-2026-11-22__1743481",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-22T15:34:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "El párroco Irvin Jiménez, comentó que es una tradición que los músicos locales acuden a la parroquia de Cristo Rey para festejar a su santa patrona, pero lamentó que en los últimos años se ha perdido un poco esta tradición",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "af45fa56bb4154db"
+ },
+ {
+  "titulo": "Suman 20 muertos y 10 militares heridos tras operativo contra “El Chapo Isidro” en Guasave, Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDZoMDRUNXcwaVlGVEVxWHBPRTZRZnpxSVNZSVE3ZW95aDNNLXpORWhGM2syb0FqYkVyb0dLVEZyOG9rMTVxcWVEbWhRVHFpd0QwLXVCOG1UOGxvbk8zcjdIcldTNUxfVVQwWVdxWjBxTXhOSXhjR1JtME9Fcm8zZzF1V1E0MjVIU2c1eHFoVXV3YXhGNFZldzc0WXhaS3A3QUNJT19scjdTWHludDQ5dUplOURWQ05XbkVmOG02SUhtY1NaaTc4?oc=5",
+  "medio": "Crónica de Xalapa",
+  "publicada": "2026-11-22T15:30:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Suman 20 muertos y 10 militares heridos tras operativo contra “El Chapo Isidro” en Guasave, Sinaloa Crónica de Xalapa",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d04058d719ff50a5"
+ },
+ {
+  "titulo": "Verbena Rotaria, 31 años de tradición y a favor de las causas sociales en Mazatlán",
+  "liga": "https://punto.mx/2026/11/22/verbena-rotaria-31-anos-de-tradicion-y-a-favor-de-las-causas-sociales-en-mazatlan/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-22T15:30:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "La Verbena Rotaria tiene 31 años de tradición en Mazatlán y lo recaudado es en beneficio de organizaciones sociales La entrada Verbena Rotaria, 31 años de tradición y a favor de las causas sociales en Mazatlán se publicó primero en Punto MX .",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "2a3f4bfb7f5d8a11"
+ },
+ {
+  "titulo": "Muere Héctor “Súper Ratón” Zamudio, exestrella de Cañeros de Los Mochis en LMP",
+  "liga": "https://lineadirectaportal.com/deportes/muere-hector-super-raton-zamudio-exestrella-de-caneros-de-los-mochis-en-lmp-2026-11-22__1743518",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-22T15:29:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "El jardinero veracruzano militó 4 temporadas con la Fuerza Verde en la Liga Mexicana del Pacífico",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "1517607ca318b35a"
+ },
+ {
+  "titulo": "Discusión entre dos internas deja a una mujer lesionada en el penal de El Castillo, Mazatlán",
+  "liga": "https://lado.mx/noticia/22374544/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-22T15:26:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "La Secretaría de Seguridad Pública de Sinaloa informó que la mujer recibió atención del personal médico del centro penitenciario; aseguró que ambas internas se encuentran bien y que se adoptaron medidas preventivas.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "eadefd1fe93d9e4b"
+ },
+ {
+  "titulo": "Estados Unidos voló drones durante detención de \\\"Chapo Isidro\\\" en Guasave, Sinaloa: The New York Times",
+  "liga": "https://lado.mx/noticia/22374504/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-22T15:25:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Estados Unidos voló drones y realizó investigación para localizar al narcotraficante en Guasave; fuerzas especiales mexicanas ejecutaron el operativo de captura",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "67d2238f4681bbbc"
+ },
+ {
+  "titulo": "Taquerías, cafeterías, sushi y restaurantes campestres marcan las tendencias gastronómicas en Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTlZFWFFVb21jemZnRlBPNGhpZUw0MFExalg3c0NxWnp3X1hKQ1p1OXBPR3lTQlRpdWV1alBXS3lTSWJnY1d1em9kXy0zV2RGWmZNaU9vbThSeDFRVUY3cDczNEhmUnNfU1MxYlhycmc3bkFWQ19LYVNiRWZYbmY5RTl2X1hCeVBjd1ZMWlhxZGR4YlFtUXVWR3NObnhxanN3dzhfYVNzSVp2YjBmOWVyRDg2Y3d0bXJSdHRCdDQ1VC02OUVSS1NhOWVadVB2MFpIWjd2dl9jT0VnVC1VSmpKMVF4aWYyT3lqZFE0UHhMT2JIWGx3YVR0LQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:24:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Taquerías, cafeterías, sushi y restaurantes campestres marcan las tendencias gastronómicas en Los Mochis Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "dd5ec53d3b9d1c6b"
+ },
+ {
+  "titulo": "La captura de Fausto Isidro Meza Flores, alias ‘El Chapo’ Isidro, en Guasave, Sinaloa, fue resultado de semanas de seguimiento e inteligencia coordinada entre autoridades de México y Estados Unidos, de acuerdo con una investigación de The New York Ti",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWXg1emEzeDFsSVFmVHRRV2d3dF9XNUJzdDdUY0M0blJNcHE5cXpQc1dvak90QzJhYXlocFBoNm8zRlJsbEQ2LWE0Rm0tY1JLRVhpZEREaXlkM1FHUVYyZHhDdXZKZXVJYUJxZV85OUR5dXhQUl9XNEFUWnJLOGJoYU1wbWNDWi1IY0tjYm9DdE1KYlpXX3BNakZsVWpVWVVkZDZlWFZwVnMzOXpMOUFaWEFtcDdEVHBTS1BIZlhwUFpNVlBvbG96SGFNeldCVG5qMWtRaUVodlBqd3M?oc=5",
+  "medio": "Facebook",
+  "publicada": "2026-11-22T15:22:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "La captura de Fausto Isidro Meza Flores, alias ‘El Chapo’ Isidro, en Guasave, Sinaloa, fue resultado de semanas de seguimiento e inteligencia coordinada entre autoridades de México y Estados Unidos, de acuerdo con una investigación de The New York Ti Facebook",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b083c4445c2931e3"
+ },
+ {
+  "titulo": "Reclasificación de delitos puede dar una falsa percepción de reducción de homicidios, advierte CANACINTRA",
+  "liga": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTmdRak1RYzBrSnk2RHNxNGtQZW04ajVGaXlRWFFKeWlnWHN4VVNjSE5FU29kOU9TUXBxbkM1aTB5b2RyR3BWQ1dENmNSNTBHMGk3c1NOdVUzTnl1WWlYbWRHemlNTEJoZHBTRE9mUXJiZkJHTGhQOEUtTlJHamhPQ3YwNEZ1blFuZEZ0ek5KYWdMSkc1bFZKZUpPYlNLY2ZyMTFqQ3M2amU5UGZpNTNkdzRCdkMwbEIxVkVoODVxMm1RRWhXOGRabmlEbzl0alhtYzQ4M3BjYlVaX3lNYlpYbGswdW9Pdi13cjM5N1VtM0swZlB6a3g4QjZ3?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:21:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Reclasificación de delitos puede dar una falsa percepción de reducción de homicidios, advierte CANACINTRA Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e0e0af5713b7b9c1"
+ },
+ {
+  "titulo": "Balean a hombre en Prados del Sol, Mazatlán: corre herido y pide auxilio en vivienda ajena",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYTB0N3gtRVNmRlpEUWhJMWFwLUpPQkVQN0dQZ0xaeEFNSlhOLVZSWEFFRE1QbG5JRHpTYzQzeGZsTVZBQXNVaGMzZ09CUzY4WWNySGtGQzV4RWI4ZGlzOXh6RDhPYXZ1N2JUTnFydk43NWRoSDRORHRNX2FEbjZwdkdMMXRNRkY5a0lzeEpLOHhYWDBkNEdUM0tJQ2QtQ1hVVU1LMnJkM1AyRUZ2bm9GYlN2NGh4VlFSWmttN3dzQnZxQkdta3hwSVhLSDY5YTRDMm9jY2l2VXZIb1ZEbVFBUEgzTGNDQQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:20:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Balean a hombre en Prados del Sol, Mazatlán: corre herido y pide auxilio en vivienda ajena Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5e46765dd018b95e"
+ },
+ {
+  "titulo": "Paloma Sánchez se declara lista para competir por la gubernatura de Sinaloa en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMEFkX1BXQjRyZTNkZ1BDYXVON2tyQ0dDR29lZURlMjJvYi1CdWNlcld2Mi1TbWdFdUQ2MDZjU0stSDJyNnIxODZUTVFnNFkwWE4zZWFRZjNkUXl0UmM3M3RVRnZReldDdW9PbHV1MjMxQmpGb1M3QVY4SjZKTDlYcTluWUpvTkQ1ZFVGUDJmcy1JZU9WVnE3dnpVd1pMamwyTnduRTJVTVJwU254RkxOY2tDb19Jd1NGb2V1TUtya0pmNF9Fd09uSVdrbUY?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-22T15:18:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Paloma Sánchez se declara lista para competir por la gubernatura de Sinaloa en 2027 El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fae1a64ce016ad46"
+ },
+ {
+  "titulo": "¿Qué son Los Lobos y Los Murciélagos? Así operan las fuerzas especiales que participaron en el operativo contra el Chapo Isidro en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTVFzZ29mbEIzUzZ5bHdQXzZ3cnZJN25WNXB5OG1VNTNLbXk4T2tfUW02UjBRbU9sbGxPOFc5MzVpVGc3WVVFVkVMX0JHZ3F2ZWV3WkNOQm5tcVctbVgzUW9EZk9VOF9CQlBtVjBiMFVIWElNUi1pZTN0MVdOVzFXYzItUThJdVFLcHlEcHNWZVF5cDR4LXFfLVBmejNQT1VOclN0TDJyUFM4NXA2ZkotQ2puVV96NzRxRkg0T0ZIRmdTX2ZVTm5aU2dra01EWWVlaGx5T1hUclZOR1ltOHJGdnJfc0s4cXdtbEZVNmNvRS1qbm4zLXd5U0d6VW0wb000NFNZejRQeWVxOXZzX2xCLdIBqwJBVV95cUxPbFpFU0I3SHVvU1JXU1NvSXk2a1lia1JpdXFLcHY0SWxoWHFmazJUd281V3V2ZkFjMXV6UVU4MjgtUWhvUFpJZnNjS3hJMXFBQ0Vyd3RwWlhFMGVtVVpfU3JFaDNtSWd1OHhiNGUtUEdJRjNXX3llZ3J0VmRfeENPak15T3BqSl80cnA3aHdwYzhBUVZfeWxzdVJMWnA5ZmtDNXp1RDQtc2NUTklCeE92VElXeFpjS2pJbE1pRzRUdWpraGxaaURIYTRWZDFxdE01VlllSFBldThfcXRUcnZ4ZTdLTXpfdUtUS2EzRE42WlhLUXY3NXdGbFdYUHNIbVdLbFdKcjZpRjRCQVBSdGFETEF4dWdHVF9hMkdpbDdUdktvR1dyb0pvQ0ZUcw?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-22T15:15:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "¿Qué son Los Lobos y Los Murciélagos? Así operan las fuerzas especiales que participaron en el operativo contra el Chapo Isidro en Sinaloa El Imparcial",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a01ca9c64ed52af6"
+ },
+ {
+  "titulo": "San Blas despide a Josué, niño de seis años víctima de ataque armado",
+  "liga": "https://lado.mx/noticia/22374473/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-22T15:10:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "La tarde del sábado, familiares y habitantes de San Blas despidieron a Josué, el niño de seis años que perdió la vida tras un ataque armado cuando regresaba de Mazatlán. El pequeño era hijo de un integrante del Cuerpo de Bomberos del Estado de Nayarit, adscrito a la base operativ",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "99e1272a57a54eb4"
+ },
+ {
+  "titulo": "EUA identifica familia de \\\"Chapo Isidro\\\" como parte del narco",
+  "liga": "https://lado.mx/noticia/22374439/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-22T15:08:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "EUA sanciona a familia de And quot;Chapo Isidro And quot; por narcotráfico en México y su vinculación con la violencia en Sinaloa.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bc072e90d1a2acde"
+ },
+ {
+  "titulo": "Madres de familia prevén gastar hasta 700 pesos por alumno en festivales navideños escolares",
+  "liga": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOXBhaVViU3ItUHdIMHUtMjVOS0syV2JFbTlIT3ZMNDRIR3pWamFPSG1DLVpDYXcxM09kblpVbmpwT1ByU3oySDRCX1JyOVVmMDJHeEpINVRORzRqeVIwSDlpMENjMW9kQ2VkVDVIY21scFRsZ1BTYzBuem1hakNNeXpUcE1HT2VtemVqdFgwX3RIM3hCTXZpYmdPdDhZWkVKejkydFVxQWRhMWZWQWJSbHhEVk5rT3oyOW1qSzdzem5FdlFnd0VUanhxdFpRbEJlWENQV3dIeExQYU1jX1hrYnlXclA3MjFZb2c?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:08:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Madres de familia prevén gastar hasta 700 pesos por alumno en festivales navideños escolares Debate",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "5feb8e9220ef74dd"
+ },
+ {
+  "titulo": "Enamora Rocío Banquells a Acapulco con noche inolvidable en La Nao 2026",
+  "liga": "https://sinaloa.quadratin.com.mx/enamora-rocio-banquells-a-acapulco-con-noche-inolvidable-en-la-nao-2026/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-22T15:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Rocío Banquells clausuró la décimo novena edición del Festival Internacional La Nao Acapulco.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "adde24ef8d337786"
+ },
+ {
+  "titulo": "CONSECUENCIAS DE LA CAPTURA DEL “OTRO CHAPO”",
+  "liga": "https://lado.mx/noticia/22374406/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-22T15:03:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "La detención de Fausto Isidro Meza Flores, alias “El Chapo Isidro”, líder del Cártel de Guasave, beneficia indirectamente a la facción de Los Chapitos. Desde hace aproximadamente un año el Cártel de Guasave es aliado de la Mayiza en la guerra civil que se vive al interior del Cár",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e279210e49f31716"
+ },
+ {
+  "titulo": "Choque entre sedán y camioneta deja daños por más de $30 mil en Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOam4wMmxJcmZNcE1ESUNVR2VTNjBVX3BBMDNhUjJ5TGZud3lKME43ZzZBLVYwVWRuQWNaT0JlaUFVUnRMMkxibU02YlpncVVlOHJLZkdaLVdLTWVWdWc0NjZNalZLSzhiYkhOTWtrTlFMc0Z0YzRDOTVOSGVtU2d5OGNBS3FRdktPV29jcHNGR09aMXhicTRIbVBqRk5OSWx2Rm01TWtnaE41OGNaTlBzQkJTZnZyQmtXNktNRWlnX2s0eEdxYVNiX2tQUTNPRVU3UlE?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:01:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Choque entre sedán y camioneta deja daños por más de $30 mil en Los Mochis Debate",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "acb2a782b0744d6e"
+ },
+ {
+  "titulo": "Vuelve el transporte urbano a Guasave, pero con menos camiones y servicio hasta las 4 de la tarde",
+  "liga": "https://vivalanoticia.mx/vuelve-el-transporte-urbano-a-guasave-pero-con-menos-camiones-y-servicio-hasta-las-4-de-la-tarde/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-22T15:00:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Guasave, Sin.- El servicio de transporte urbano de Guasave se reactivó este domingo a partir de las 7:00 de la mañana, luego de permanecer suspendido durante el sábado debido a los hechos de violencia registrados la noche del viernes, tras el operativo en el que fue detenido Faus",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "728c97467cd4cdf7"
+ },
+ {
+  "titulo": "Tres militares veracruzanos muertos en Guasave serán trasladados a Veracruz",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekZBRnBuV3BJS0pLTEtWQlhxcHNTWDl0OGhNWnFveG5mcE5TZldWcWpCR2t2bXg4REg3ajlxeWl5UW5BbWJZY3BNTU1CbkJ2bUFpclV2VVVvU2RYTVJwczJUZFhDSGo5VlpZWnBYb3lHX2pTRV9TTExvRnlQYkdCUzVVekkyUE1WYXFtbmRkT1lxNjlsLVlKaXVtajh2Q1g3enBFcWFYbkZTbmJHcHRPUXBabXVfQW4yaFNoS1dCVmdKeWFGM1E?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-22T15:00:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Tres militares veracruzanos muertos en Guasave serán trasladados a Veracruz El Sol de México",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "15f7f77eba2e185d"
+ },
+ {
+  "titulo": "Goku aterriza en Los Mochis para el cierre de Animeichon 2026",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWJGbUpxcGk3d2M2SnI5YzNtbENxVFkzWU9obHZEN21lY2c4RUJUak9rR0FZbkdHcXdBZGpFeUpmNFpPTVFtMzVRRXFlMmtTVHJWd3ZPZUF1WDZSb3A1WVdkN0NiRXBUX1BycVJpZWVnc25hRjdjb1lLSkNOSVB4aGYzYWpISVpiTm9Vd3JIRHlrdEoyUHRyNFEtSFVRQy1BaGRKeEpEYTVOQ19KQjNxYXRua19ULWhYTmJ3YVdlZTZsQQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T15:00:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Goku aterriza en Los Mochis para el cierre de Animeichon 2026 Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f510af1d5d59260b"
+ },
+ {
+  "titulo": "Músicos de Culiacán celebran su día en la Parroquia de Santa Cecilia con peticiones de paz y trabajo",
+  "liga": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN2dtQlhtR3RZdFR1VG0tUEFwMGVrbS1PNkdlY0ZSWkUwbmRQQlM3eUxWeTE0NlFxeEFfS0t0ZWdVajlrRGU2cXRGR1pnRXBYRldIRk1EUlFrdUlVTkNIREFacUJQMFRvNnZGT056aUVTdW5CUlE1QlNlWDF1X0tJQ2lwbnZtb0FUel9sNS10YW1qTHVzeUczLV83ZnlQUDRjM254TWNhaEFsU3cwX2VqVXFYdnlXWE9DY0IzekhkTTJXQnFNNURLSlJsaXNaNkxYNnc4aUlJQm1QSUV5WEthYnA4c1M5NTRUeWtlYVhhUlVPVmtw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T14:59:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Músicos de Culiacán celebran su día en la Parroquia de Santa Cecilia con peticiones de paz y trabajo Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1d16d036a988dc95"
+ },
+ {
+  "titulo": "¡El deporte se une! Ligas, equipos y jugadores profesionales, se solidarizan con Guasave",
+  "liga": "https://lineadirectaportal.com/deportes/el-deporte-se-une-ligas-equipos-y-jugadores-profesionales-se-solidarizan-con-guasave-2026-11-22__1743493",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-22T14:58:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Tras los hechos violentos que se presentaron el pasado viernes 20 de noviembre en la zona norte de Sinaloa, la Liga Mexicana del Pacífico, Cibacopa y Cibapac se unieron como muestra de apoyo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "731182ae667a459c"
+ },
+ {
+  "titulo": "Sin vida y con un golpe en la cabeza es localizado el cuerpo de un hombre en el Campo 35, El Fuerte",
+  "liga": "https://lineadirectaportal.com/policiaca/sin-vida-y-con-un-golpe-en-la-cabeza-es-localizado-el-cuerpo-de-un-hombre-en-el-campo-35-el-fuerte-2026-11-22__1743495",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-22T14:58:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "El occiso se encontraba tendido sobre un camino cercano a las vías del tren ubicadas en la localidad fortense",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "91aa8b9079893c53"
+ },
+ {
+  "titulo": "Tras violencia en Guasave, Mario Zamora pide apoyos a afectados y más recursos para seguridad",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb0hMOFR1VEtWNUgwTUZiMUNTalpWdklJMW0tdlpmblFlLVRpUm1FLVJVQW5raUs2SnRHVDlVZEtCUU96Ym55cmpic25WdW1WOF95Rk5HdUhGQ1pjX2FUWXRybG1hSlVEMm9lUTZTNjhCVXJxMTNpZmV6dFlBSldLczAxQlF5Z09ZYy1vbmkwcGxYUl9RYl9qRFZPV1pjQzZaNURLdDI0YUlucVp1MjJINU9WVllpMVhiczBZZm5Wb2hMUmUwLU1uaDh4ZWwwbDlFWTVJam16Y1Q?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-22T14:58:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Tras violencia en Guasave, Mario Zamora pide apoyos a afectados y más recursos para seguridad El Sol de México",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0512740e616b32b4"
+ },
+ {
+  "titulo": "Así fue el Jeringatón en Mazatlán",
+  "liga": "https://www.tusbuenasnoticias.com/noticias/sinaloa/2026/11/22/67331-asi-fue-el-jeringaton-en-mazatlan",
+  "medio": "Tus Buenas Noticias",
+  "publicada": "2026-11-22T14:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Grupo Beta reúne jeringas para apoyar a familias de personas con diabetes tipo 1 en su primer Jeringatón en Mazatlán",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "8dab95c5fa418111"
+ },
+ {
+  "titulo": "Persecución termina en dos accidentes y un detenido en Las Canteras en Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMmhNcVJUbU1BWFdLOEdTWXVRQXNSMXFGXzBTRGRhQ1BPbzMwWHZkU2JaeXU5T09CdzhhcEF5NmZFa3pNUXNmODNBcVBTWXB2MTVLMjdPMnBod29EYXVEcm5LbjdyeG1GVXYwaXdYTnU0RWxzLU8wOTVrQmJkNmV5dzluM09VVWlZbXg0Sk5PcktmcllVVGFVUkYwWXUzc2VMR0tRVnNGZTQ3NC1UNzluamVMNm5fLWtJemNVa0VPZXhUVzBiQVNCb2x1bW5JempRbVNIem1YdHBWNnFB?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-22T14:55:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Persecución termina en dos accidentes y un detenido en Las Canteras en Los Mochis Debate",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "771853a9a3942f23"
+ },
+ {
+  "titulo": "Corren y apoyan: participan mil personas en la Carrera de la Salud 2026",
+  "liga": "https://punto.mx/2026/11/22/corren-y-apoyan-participan-mil-personas-en-la-carrera-de-la-salud-2026/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-22T14:53:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "La Secretaría de Salud de Sinaloa realiza la XXVI Carrera de la Salud 2026 Corre y Apoya, para fomentar la activación y contribuir a causas solidarias La entrada Corren y apoyan: participan mil personas en la Carrera de la Salud 2026 se publicó primero en Punto MX .",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "2509c4cd82e1c1fe"
+ },
+ {
+  "titulo": "Reportan noche de balaceras y explosiones en El Rosario, Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDhiVmpkd1E3TnVMUkgtVVZBZzJnc0ZFUWxfNGxFdlo1bVFBTVI5SGtjNEhKR3JwNXRycVlZNjlfWk1Tck5yVXpoR0JxdlVXalBsdVowNWhublBvR0RKbXZlT2RTU0JEYzhjMVdOUGFRcEVLWTUxTlp4bWhXajY3eTRFWjlybW00Wk4xaUZqdFBDQzZWZ0JmUzhuRU5sdlk?oc=5",
+  "medio": "Baja News",
+  "publicada": "2026-11-22T14:52:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Reportan noche de balaceras y explosiones en El Rosario, Sinaloa Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a55f177a233b72f9"
+ },
+ {
+  "titulo": "La Justicia de Italia le concendió la libertad condicional al “capitán cobarde” del Costa Concordia tras nueve años en prisión",
+  "liga": "https://lado.mx/noticia/22374357/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-22T14:50:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "La Justicia italiana le concedió al ex comandante, de 66 años, la libertad condicional y deberá completar la pena bajo supervisión y mediante servicios comunitarios",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "07b01c394fc0790d"
+ },
+ {
+  "titulo": "Localiza FGE 2 ejemplares de ganado en cateo por abigeato, en Morelia",
+  "liga": "https://sinaloa.quadratin.com.mx/localiza-fge-2-ejemplares-de-ganado-en-cateo-por-abigeato-en-morelia/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-22T14:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Las acciones se realizaron con el acompañamiento de personal del Instituto de Protección Animal de Morelia.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "577013c0fbcffc52"
+ },
+ {
   "titulo": "“Delitos de alto impacto van a la baja en Culiacán”: Asegura secretario de Seguridad",
   "liga": "https://lineadirectaportal.com/sinaloa/delitos-de-alto-impacto-van-a-la-baja-en-culiacan-asegura-secretario-de-seguridad-2026-11-22__1743488",
   "medio": "Línea Directa",
@@ -243,6 +768,20 @@
   "id": "e9dcf5698f37532d"
  },
  {
+  "titulo": "Héctor Herrera es detenido en Texas por presuntamente conducir bajo los efectos del alcohol",
+  "liga": "https://www.sinaloahoy.com.mx/portal/hector-herrera-detencion-texas-dynamo/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-22T14:27:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Héctor Herrera es detenido en Texas por presuntamente conducir bajo los efectos del alcohol El capitán de Houston Dynamo fue detenido en Texas por presuntamente conducir bajo los efectos del alcohol. Su participación en playoffs está en duda. Sinaloahoy - Noticias de Sinaloa y el",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "7b60627fcf950b7a"
+ },
+ {
   "titulo": "De una batalla de la guerra del narcotráfico",
   "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnZzTXp2RkxRSndSV2RqZnpKWGRIZi1OUHNNcGlVV1RxUkpaMGJUMllPekVlZ2RSYlp4WDZhckhoOC1iMTNnVzVKTWNoM3hOT3UyM1k1RklabElJM2xCMkl2RHdlWHlqWllTNGhNQkduQTByQ2Y1eGZPdzdQVGJYa3dpYll0UGRrMzdXb0xfUlFxWmJ6RHZvZjE4eEgwUQ?oc=5",
   "medio": "El Debate",
@@ -414,6 +953,20 @@
   "id": "23d29cc52176ec09"
  },
  {
+  "titulo": "Identifican a Andrés N, joven reportado como desaparecido, tras hallazgo en La Campiña, Culiacán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/andres-identificado-hallazgo-campina-culiacan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-22T14:14:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Identifican a Andrés N, joven reportado como desaparecido, tras hallazgo en La Campiña, Culiacán Andrés, de 23 años, fue identificado mediante pruebas genéticas tras un hallazgo en La Campiña. La Fiscalía investiga el homicidio. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloa",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "de398b2cec91588c"
+ },
+ {
   "titulo": "Atacan a balazos a pareja en Progreso; un hombre perdió la vida",
   "liga": "https://sinaloa.quadratin.com.mx/atacan-a-balazos-a-pareja-en-progreso-un-hombre-perdio-la-vida/",
   "medio": "Quadratín Sinaloa",
@@ -454,6 +1007,20 @@
   ],
   "local": true,
   "id": "370339d6af6cc8f9"
+ },
+ {
+  "titulo": "Intentan robar carga de tren de Ferromex en Ahuacatlán, Nayarit; maquinista resulta ileso",
+  "liga": "https://www.sinaloahoy.com.mx/portal/tren-ferromex-intento-robo-ahuacatlan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-22T14:11:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Intentan robar carga de tren de Ferromex en Ahuacatlán, Nayarit; maquinista resulta ileso Sujetos armados habrían intentado robar la carga de una locomotora cerca de Tetitlán, en Ahuacatlán. El maquinista resultó ileso y la unidad presentó daños materiales. Sinaloahoy - Noticias ",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c95d1cc142dc1126"
  },
  {
   "titulo": "Adrián Barba: quién es la voz de “Ángeles fuimos” que llega a Animeichon 2026",
@@ -581,6 +1148,20 @@
   ],
   "local": true,
   "id": "db54ecaf9b82edd3"
+ },
+ {
+  "titulo": "Identifican a Jesús Baudelio como segunda víctima del desplome de avioneta en Sanalona, Culiacán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/identifican-victima-avioneta-sanalona-culiacan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-22T14:00:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Identifican a Jesús Baudelio como segunda víctima del desplome de avioneta en Sanalona, Culiacán Jesús Baudelio, de 28 años, fue identificado como la segunda víctima del desplome en Sanalona. Presuntamente pilotaba la aeronave; Rafael Humberto, de 32 años, también falleció. Sinal",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f2b21887ea643713"
  },
  {
   "titulo": "Accidente ferroviario en Elota: hombre fallece tras impacto del tren en Bellavista",
@@ -1378,6 +1959,20 @@
   ],
   "local": true,
   "id": "2fe5a184619722ad"
+ },
+ {
+  "titulo": "Identifican resto abandonado dentro de cubeta en Culiacán; era de joven desaparecido",
+  "liga": "https://www.noroeste.com.mx/seguridad/identifican-resto-abandonado-dentro-de-cubeta-en-culiacan-era-de-joven-desaparecido-JD27539527",
+  "medio": "Noroeste",
+  "publicada": "2026-11-22T12:50:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Como Andrés “N”, un joven de 23 años de edad, fue identificada la persona cuya cabeza fue depositada dentro de una cubeta y abandonada afuera de un supermercado en La Campiña, en Culiacán. El fallecido contaba con ficha de búsqueda de la Comisión Estatal de Búsqueda de Personas, ",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "300827032a91fed3"
  },
  {
   "titulo": "Productores de Sinaloa buscan contratar coberturas de precio para maíz en diciembre",
@@ -3649,6 +4244,20 @@
   "id": "08f32f97b3dfd691"
  },
  {
+  "titulo": "Lesionan a hombre en ataque a balazos en Prados del Sol",
+  "liga": "https://oem.com.mx/elsoldemazatlan/policiaca/lesionan-a-hombre-en-ataque-a-balazos-en-prados-del-sol-33264578",
+  "medio": "El Sol de Mazatlán",
+  "publicada": "2026-11-22T09:53:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Cuerpos de socorro atienden el reporte, fuerzas de seguridad protegen al sector",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "83ab40d3df761d23"
+ },
+ {
   "titulo": "#DOMINGA | Las noches en que los pueblos de Sinaloa tuvieron su ‘Cinema Paradiso’ 🎞️",
   "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUkw0c2JOeTBHelJQYWJKTGY2cEhTaUZBQ0JPVFFtNmNTT0RxR2szdWZJY3A5cUxlcktPdlg3SV9VVGQxM1FZd0FCVHBSUkFoUnhERHpVMk1yU2l4OGhTYkItdWxGRXV2UE03QTE4cWZYc1pmTjBRcmRwZVpTWWpDaDZ6NHFRVkhwMU9JcUpWOF8ySFlmcmsza1ZtdnNlaVM2NDd5OF9Cd0Z1ek5TUWFYV1g3cjVnWGIzY1lPa05hRE5nbFpyY0tFcGJCR0VuUGZJbklCWXpQYmdhYW1ld25OcXNGVQ?oc=5",
   "medio": "Facebook",
@@ -3733,6 +4342,20 @@
   ],
   "local": true,
   "id": "7497c0a475fd03ce"
+ },
+ {
+  "titulo": "Era un vuelo de prueba: Dos muertos tras desplome de avioneta en Culiacán, Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmFRWGw1LUtZQmg3MkY1SEhyYU5sNk1pZGdhRTVXOTdTbkRMby1IWkpISjZ4akdfVUJYT092a3FneUZ2LUU1X1FnRk1oYkNORzVQUEh3cjk2RVFIUUE5OGNVdUNQYW9GX0toSl9DRnI2aG9uSERQUUwzVWdVaE5iOUJMRG9SNTg2VDJhamQ0SFo4Ql9zcVhxRXI5SFh5UHFfRDhwMGJtSk1LaEVMc2NFdGxxRTVoTGNKRllyWG5R?oc=5",
+  "medio": "TV Azteca",
+  "publicada": "2026-11-22T09:47:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "Era un vuelo de prueba: Dos muertos tras desplome de avioneta en Culiacán, Sinaloa TV Azteca",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e7ab0c528647dfb3"
  },
  {
   "titulo": "Detienen a dos hombres con 90 cartuchos y cargadores para armas de fuego en Lomas de Mazatlán",
@@ -4005,6 +4628,20 @@
   ],
   "local": true,
   "id": "d4de27449b65ab68"
+ },
+ {
+  "titulo": "“Vivir en paz no debería ser un sueño, es un derecho”: Alejandro Speitzer alza la voz contra la violencia en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVpCM0U4VWZxWXE0ekwzdGdFQWN1RkQzMHB2ZzdXQmE1bi1KcUdhVHhjdWhHV09IWUM4WkdXd2NEc19ITEtzWEpXbDRtWHNPWGM0bzdLSUlvaW1CY3hGUzFENzFOS0t3emlyWk1fWnp6ekdHekZLQlY5dC1kU3pwNnRlVEtnaGRWVFlKZk5HSjVrdDlrRXlOa0JxZXN4QmkzT0tVWGVkcEswQzN0OGVRa0ROc193RWxDUlpTbFVvMFFsU0h6cjFqNV9PNkZxazBxaFBOTlp0S19hb3VxN2h3?oc=5",
+  "medio": "José Cárdenas",
+  "publicada": "2026-11-22T09:28:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T15:45:05-06:00",
+  "resumen": "“Vivir en paz no debería ser un sueño, es un derecho”: Alejandro Speitzer alza la voz contra la violencia en Sinaloa José Cárdenas",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ddcb138ebee33de3"
  },
  {
   "titulo": "FBI destaca captura del ‘Chapo Isidro’ en Guasave; era uno de sus 10 más buscados",
