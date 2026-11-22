@@ -1,5 +1,111 @@
 [
  {
+  "titulo": "INE reporta irregularidades en consulta infantil por 7.4 mdp",
+  "liga": "https://elcongresista.mx/justicia/ine-irregularidades-consulta-infantil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T03:48:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "El INE enfrenta problemas de fiscalización en la Consulta Infantil y Juvenil, con 7.4 millones de pesos sin aclarar.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "90254eec4b4d077c"
+ },
+ {
+  "titulo": "Talleres Gráficos otorga contratos a Cajas Graf con sobreprecios altos",
+  "liga": "https://elcongresista.mx/justicia/talleres-graficos-cajas-graf-sobreprecios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T03:46:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "Talleres Gráficos de México continúa otorgando contratos a Cajas Graf a pesar de las alertas de sobreprecios significativos desde 2018.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "904ff1be2e39381d"
+ },
+ {
+  "titulo": "Gobernador de Washington critica a ICE por arrestos \"fuera de control",
+  "liga": "https://elcongresista.mx/politica/nacional/gobernador-washington-critica-ice-aeropuerto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T03:35:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "Gobernador de Washington critica a ICE por arrestos en aeropuerto, generando un debate sobre su conducta en comunidades.",
+  "temas": [
+   "Migración",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fbe746724e459146"
+ },
+ {
+  "titulo": "Chapo Isidro, líder del crimen organizado en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/chapo-isidro-lider-criminal-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T03:01:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "Chapo Isidro se afianza en el narcotráfico y controla potentes rutas en el noroeste de México, desafiando a competidores.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "632cbf9a20c8dc7f"
+ },
+ {
+  "titulo": "Rocío Nahle supervisa moderno centro del Servicio Ulúa en Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/rocio-nahle-centro-servicio-ulua-veracruz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:55:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "Rocío Nahle supervisa centro de operación del Servicio Ulúa en Veracruz, mejorando el transporte público con inversión local.",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "417da3eaed090eaa"
+ },
+ {
+  "titulo": "Félix Bolaños participa en actos de campaña en Eivissa y Formentera",
+  "liga": "https://elcongresista.mx/politica/nacional/felix-bolanos-campana-eivissa-formentera",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:54:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "Este domingo, el ministro Félix Bolaños participará en actos de campaña del PSIB en Eivissa y Formentera en la recta final antes de las elecciones.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ad2fb7f864d154ca"
+ },
+ {
+  "titulo": "Hombre de 58 años muere por infarto en Hermosillo, Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/hombre-muere-infarto-hermosillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:54:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "Un hombre de 58 años falleció en Hermosillo por un infarto en su casa, a pesar de los esfuerzos de los servicios de emergencia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "04f27d5d4d8bf376"
+ },
+ {
   "titulo": "Ley de movilidad en México contrasta con reglamentos locales en Mérida",
   "liga": "https://elcongresista.mx/politica/yucatan/limites-velocidad-periferico-merida",
   "medio": "El Congresista",
@@ -87,6 +193,20 @@
   ],
   "local": false,
   "id": "b3dc76cbf2014d33"
+ },
+ {
+  "titulo": "Instituto de Psiquiatría de Baja California fortalece la prevención de adicciones y la promoción de la salud mental con pláticas informativas",
+  "liga": "https://www.uniradioinforma.com/sociedad/instituto-psiquiatria-baja-california-fortalece-prevencion-adicciones-promocion-salud-mental-platicas-informativas-n915012",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-22T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "Se han realizaron 60 mil 685 pláticas preventivas para el consumo de sustancias en la población.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "db1948b01ec6a966"
  },
  {
   "titulo": "Detienen en Sinaloa a Fausto Isidro Meza-Flores, ‘El Chapo Isidro’",
@@ -1117,6 +1237,20 @@
   ],
   "local": false,
   "id": "6b3477bbf69c55f1"
+ },
+ {
+  "titulo": "Noticias sobre futbol de tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Wd01FZDR4UGx0cWRRUms0NEpkMXcxbG1fZDVyVGd5OVI2NngzSi10M3VwQzJZYnFzQ214WGZBZUt2RFJ3NnhvMXh3ZFZzUlVRZDhnYU1EaVE1eUVTY25fSjNSTXJyQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-21T19:56:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T03:50:14-06:00",
+  "resumen": "Noticias sobre futbol de tijuana Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "0db3f480f644323d"
  },
  {
   "titulo": "Promueven prevención y atención médica para hombres durante el Mes Azul en Baja California",
