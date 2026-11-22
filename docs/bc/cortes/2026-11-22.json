@@ -1,5 +1,109 @@
 [
  {
+  "titulo": "Ley de movilidad en México contrasta con reglamentos locales en Mérida",
+  "liga": "https://elcongresista.mx/politica/yucatan/limites-velocidad-periferico-merida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:48:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T02:53:24-06:00",
+  "resumen": "La ley de movilidad en México establece límites de velocidad, pero su aplicación es inconsistente en Yucatán, lo que incrementa el riesgo de accidentes.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "327ec956ed0258ca"
+ },
+ {
+  "titulo": "Helicóptero Black Hawk realiza sobrevuelos en Valle de Bravo, Edomex.",
+  "liga": "https://elcongresista.mx/seguridad/helicoptero-black-hawk-sobrevuela-valle-de-bravo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:40:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T02:53:24-06:00",
+  "resumen": "Un helicóptero Black Hawk sobrevuela Valle de Bravo, Edomex, generando inquietud entre habitantes y turistas por posibles actos violentos.",
+  "temas": [
+   "Economía y empleo",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c18bedb635b15332"
+ },
+ {
+  "titulo": "Museo de Arte Ritual en Culturas Originarias se inaugurará en 2026",
+  "liga": "https://elcongresista.mx/politica/oaxaca/museo-arte-ritual-oaxaca-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:30:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T02:53:24-06:00",
+  "resumen": "En noviembre de 2026 abrirá en Oaxaca el Museo de Arte Ritual en Culturas Originarias, con una vasta colección de René Bustamante.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "696e6ef57266a951"
+ },
+ {
+  "titulo": "Sheinbaum busca estrechar lazos comerciales con China durante su visita oficial",
+  "liga": "https://elcongresista.mx/politica/coahuila/sheinbaum-china-lazos-comerciales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:23:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T02:53:24-06:00",
+  "resumen": "Claudia Sheinbaum busca fortalecer los lazos comerciales entre México y China durante su visita oficial al país asiático.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a489d3c257b2af9f"
+ },
+ {
+  "titulo": "Análisis del estatus social en AL: raza y clase según Weber",
+  "liga": "https://elcongresista.mx/sociedad/analisis-estatus-social-america-latina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:20:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T02:53:24-06:00",
+  "resumen": "El análisis de Marianne Weber sobre el estatus social en América Latina destaca la persistencia del componente racial en la desigualdad.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2ca24c7cd7c8b7d9"
+ },
+ {
+  "titulo": "El Florido celebró a más de 5 mil asistentes en el primer FloriFest",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/flori-fest-la-paz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T02:01:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T02:53:24-06:00",
+  "resumen": "El Florido reunió a más de 5 mil asistentes en La Paz para celebrar el primer FloriFest con música y diversión.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b3dc76cbf2014d33"
+ },
+ {
+  "titulo": "Detienen en Sinaloa a Fausto Isidro Meza-Flores, ‘El Chapo Isidro’",
+  "liga": "https://elcongresista.mx/politica/sinaloa/detienen-el-chapo-isidro-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T01:50:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T02:53:24-06:00",
+  "resumen": "Capturan a ‘El Chapo Isidro’, uno de los fugitivos más buscados, en Sinaloa; EE.UU. emite alerta de seguridad.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a8f297c5013e1e94"
+ },
+ {
   "titulo": "Reportan balaceras en El Rosario, Sinaloa; autoridades no informan",
   "liga": "https://elcongresista.mx/politica/sinaloa/balaceras-el-rosario-sinaloa",
   "medio": "El Congresista",
@@ -767,6 +871,20 @@
   ],
   "local": true,
   "id": "32ca75a2d136686e"
+ },
+ {
+  "titulo": "La Espiga / 51 años del Centro de Espectáculos Calafia",
+  "liga": "https://oem.com.mx/lavozdelafrontera/analisis/la-espiga-51-anos-del-centro-de-espectaculos-calafia-33254178",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-21T21:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T02:53:24-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f18a1480a486f961"
  },
  {
   "titulo": "Polo: La Natividad La Dolfina no detiene su marcha y ahora venció a La Ensenada",
