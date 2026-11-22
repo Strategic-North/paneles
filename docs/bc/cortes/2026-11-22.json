@@ -1,5 +1,424 @@
 [
  {
+  "titulo": "PAN exige convocatoria inmediata para renovar presidencia del INE",
+  "liga": "https://elcongresista.mx/justicia/pan-renovacion-presidencia-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:45:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Jorge Romero, del PAN, exige una convocatoria inmediata para renovar la presidencia del INE, a días de la salida de Guadalupe Taddei.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "6000eace03673d52"
+ },
+ {
+  "titulo": "Regalo digno para 100 niños en Granjas de Provenza",
+  "liga": "https://elcongresista.mx/politica/nacional/regalo-digno-100-ninos-granjas-provenza",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:38:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Nelson Pájaro impulsa una campaña para regalar esperanza a 100 niños de Granjas de Provenza en esta Navidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5928568f92ec733f"
+ },
+ {
+  "titulo": "Pinos navideños son ofrecidos en Reynosa desde 700 hasta 2,749 pesos",
+  "liga": "https://elcongresista.mx/tamaulipas/pinos-navidenos-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:37:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Los pinos navideños en Reynosa ya están disponibles, con precios que van de 700 a 2,749 pesos en diferentes puntos de venta.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "6dda263ebcea7b62"
+ },
+ {
+  "titulo": "Vinculan a proceso a \"El Loco\" por tentativa de homicidio en Tijuana",
+  "liga": "https://www.uniradioinforma.com/policiaca/vinculan-proceso-el-loco-tentativa-homicidio-tijuana-n915648",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-22T12:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "El imputado presuntamente disparó en repetidas ocasiones contra un hombre en la calle Senador Monzón, causándole una lesión en el tórax; la víctima logró escapar y sobrevivió al ataque.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "da11a54edfa59897"
+ },
+ {
+  "titulo": "Inversión de 390 mdp en infraestructura para Villa de Pozos, SLP",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/inversion-390-millones-villa-de-pozos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:34:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Ricardo Gallardo anunció 390 millones de pesos para infraestructura en Villa de Pozos y obras viales en Tierra Blanca y Escalerillas.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fc33c88bf9006c95"
+ },
+ {
+  "titulo": "Carreteras de Manabí presentan daños por deslizamientos y hundimientos",
+  "liga": "https://elcongresista.mx/politica/nacional/carreteras-danadas-manabi-deslizamientos-hundimientos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:34:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Manabí enfrenta daños en sus carreteras por deslizamientos y hundimientos. El MIT emite recomendaciones para los conductores.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "745a5c88f1ed75bb"
+ },
+ {
+  "titulo": "Ayuntamientos de Michoacán suman 22 municipios al programa de vivienda",
+  "liga": "https://elcongresista.mx/politica/michoacan/ayuntamientos-michoacan-vivienda",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:32:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Tres ayuntamientos de Michoacán se suman al programa de vivienda que beneficiará a más de 23 mil personas sin acceso a patrimonio.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d6ae291f58d783c7"
+ },
+ {
+  "titulo": "Detienen a hombre por presuntamente agredir a un policía durante intervención en Tijuana",
+  "liga": "https://www.uniradioinforma.com/policiaca/detienen-hombre-presuntamente-agredir-policia-durante-intervencion-tijuana-n915646",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-22T12:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Un hombre presuntamente lanzó una botella de licor contra un oficial y lo agredió físicamente cuando intentaba intervenirlo por consumir alcohol en la vía pública.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ae3bb5ff9145478c"
+ },
+ {
+  "titulo": "Es positiva la prohibición de dispositivos electrónicos en escuelas: CANIETI",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNck9iRUkwbTRwa3JyNmNTY09XUWktbEVnRkc4RTJXYnNib3lMSS12RmlkMmFNRnZkbm5uVlBEdVRReHdnX1VkaXlnT0t5UHE1MmV0bm8tUU1GZUVNblhac3lsTlV2c2RLQW1RSDlLMmlUTUk3TlhKYmg5cGpVam1sUkRjcmZ6UHZlSV9uY016Tjh0NnZGUDZPNmtXY0daYlg2ZWdmdUJwdzdKTm83NkpjMXFEWmtVSVowbFFMWjhaODZTSVV0?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-22T12:30:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Es positiva la prohibición de dispositivos electrónicos en escuelas: CANIETI AFN",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "5729b3d199f8b381"
+ },
+ {
+  "titulo": "Vinícius de Moraes, el poeta brasileño que marcó la música popular",
+  "liga": "https://elcongresista.mx/cultura/vinicius-de-moraes-legado-musical",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:24:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Vinícius de Moraes, poeta y músico brasileño, dejó un legado cultural inmenso en la música y poesía de Brasil.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "418237b4254f69b6"
+ },
+ {
+  "titulo": "Manuel Bustos presidió la comisión histórica del P. Ángel Ayala",
+  "liga": "https://elcongresista.mx/cultura/manuel-bustos-p-angel-ayala-acdp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:23:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Manuel Bustos aborda el legado del P. Ángel Ayala en la ACdP durante una conferencia el 10 de diciembre en Toledo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9ddcb98e3ef5b786"
+ },
+ {
+  "titulo": "Lula defiende ajuste fiscal que afectará 56,000 millones de reales",
+  "liga": "https://elcongresista.mx/politica/nacional/lula-ajuste-fiscal-brasil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:22:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Lula defiende su ajuste fiscal en Brasil ante críticas del mercado, buscando 56,000 millones de reales hasta 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8d5941533fb099c0"
+ },
+ {
+  "titulo": "Más de 20 contingentes participan en desfile por la Revolución en Tula",
+  "liga": "https://elcongresista.mx/politica/hidalgo/desfile-revolucion-tula",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:19:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Más de 20 contingentes se unieron al desfile por el 116 aniversario de la Revolución Mexicana en Tula, destacando la participación de instituciones educativas y autoridad",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3ca999e596585cd8"
+ },
+ {
+  "titulo": "DIF Morelia atiende a tres niños en albergue temporal",
+  "liga": "https://elcongresista.mx/politica/michoacan/dif-morelia-atencion-niños-albergue-temporal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:16:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "En Morelia, el DIF ha atendido a tres niños en un albergue temporal destinado a menores y familias migrantes mientras se define su situación.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "20f4ac7bbe3ac072"
+ },
+ {
+  "titulo": "Muere motociclista tras chocar contra camellón en la Vía Rápida Poniente",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2dRWVVkMXFrRE41TWYxQUl3WDE1dkRNX3Fmb2NsR1BXUVhVZG11NF9sSXBlVUlRODJ3N2hiLUkwVmIzTXJjMHBMNDlXaVBHUzFwUXY1QVVaX19KQTBYOGtuVmtpeWJiaUY3YWNSUUZIR0lXSEhZZmd4WndkM3pWYWpVSjliUXcxTGJpdFlaS09RRmdyQUVVanh5dlhKZktrbm5iU2tHVFNTQWdq?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T12:13:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Muere motociclista tras chocar contra camellón en la Vía Rápida Poniente Baja News",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "55606d1a2090ed5d"
+ },
+ {
+  "titulo": "Más de 441 mil ciudadanos solicitan destitución de Lorena de la Garza.",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/destitucion-lorena-de-la-garza-fumigacion-mariposas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:06:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Más de 441 mil firmas piden la destitución de Lorena de la Garza tras la fumigación de un refugio de mariposas monarca en Nuevo León.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bb23c7a0df9c2ada"
+ },
+ {
+  "titulo": "Murió motociclista tras impactar contra el camellón en la Vía Rápida",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEFZd3FqVWVTek1rd1Y3VFB6SFJRNm1MU2JVV0ZVYU45U2hPOG9QMUtyaVlBTVp2ajNHNDZ4VkJGVi1iM0JyV1lsSWlZSDh6T25McTZFekRpRDBJX1d3YWYzSzlxYzRwVHJEeEoxTnVubWVvZmxkVURBWHFaZzVVLXVtMEpmSzN4WHJkV1dVelNmRzAxZTNZWDktalYtZE9NOU8ycmRrQ1ZKclFCNGc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-22T12:06:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Murió motociclista tras impactar contra el camellón en la Vía Rápida AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "610cc08f792331e5"
+ },
+ {
+  "titulo": "Gabriela González deslumbra en Miss Universo con diseño panameño.",
+  "liga": "https://elcongresista.mx/politica/nacional/gabriela-gonzalez-miss-universo-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:05:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Gabriela González impresionó en Miss Universo 2026 con su diseño \"Diosa Panamá\", destacando la biodiversidad de su país.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "02065c9560910efa"
+ },
+ {
+  "titulo": "Atlético Morelia: celebración sin incidentes tras victoria en final",
+  "liga": "https://elcongresista.mx/politica/michoacan/atlantico-morelia-celebracion-sin-incidentess",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:02:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Atlético Morelia celebró su victoria 4-1 sin incidentes en el Centro Histórico, con fuerte despliegue de seguridad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7c9124f526356c2a"
+ },
+ {
+  "titulo": "Protección Civil Morelia: busca remodelar oficinas y nueva estación de bomberos",
+  "liga": "https://elcongresista.mx/politica/michoacan/proteccion-civil-morelia-remodelacion-nueva-estacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:02:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Protección Civil de Morelia busca remodelar oficinas y construir nueva estación de bomberos en Punhuato para atender emergencias.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2a87d50d5de96afa"
+ },
+ {
+  "titulo": "Az Alkmaar vence 5-1 al Sparta Rotterdam gracias a Mateo Chávez",
+  "liga": "https://elcongresista.mx/politica/michoacan/az-alkmaar-goleada-sparta-rotterdam",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T12:01:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "El AZ Alkmaar vence 5-1 al Sparta Rotterdam, destacando Mateo Chávez con un gol y dos asistencias.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f6c70a643a3f3c15"
+ },
+ {
+  "titulo": "Identifican a posibles sucesores del Cártel de los Beltrán Leyva tras captura de \"El Chapo Isidro\"",
+  "liga": "https://www.uniradioinforma.com/sociedad/identifican-posibles-sucesores-cartel-beltran-leyva-tras-captura-el-chapo-isidro-n915632",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-22T11:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Desde 2023, estos personajes, junto con otros operadores de esa organización criminal están en la mira de Estados Unidos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "434095245f596302"
+ },
+ {
+  "titulo": "Inician murales en los accesos del Mercado Hidalgo para convertirlo en galería de arte",
+  "liga": "https://elportavoznoticias.com.mx/inician-murales-en-los-accesos-del-mercado-hidalgo-para-convertirlo-en-galeria-de-arte/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-22T11:57:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Los trabajos para transformar los accesos del Mercado Hidalgo mediante murales inspirados en las tradiciones mexicanas y la identidad fronteriza comenzaron el jueves 19 de noviembre, como parte del proyecto “Tu México... La entrada Inician murales en los accesos del Mercado Hidal",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "0c873d54596e3a49"
+ },
+ {
+  "titulo": "BMW termina sobre muro de concreto tras salirse del bulevar 2000 en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjFjWW9SWndLTHh4dFl1M0w4WFl5eE5qUTlPSERCbkgtanpQWnc3aVRlVmswMlNCYnk5bDU1dFR1TEgweXhZeElUaFU1aDlSdko5V0doXzUxRFNicVpPMi1rakkwN1oxUVp5ZzlNUEF2dkVSd3JQUTBvSkJLQmJIV2QtMzJNRzVvYzljVnFRalpXdHZFTF9zVWFzdDAtYnVNZldhN2R4eVVabDQtR19FSg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T11:52:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "BMW termina sobre muro de concreto tras salirse del bulevar 2000 en Tijuana Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "37d2a316a8079067"
+ },
+ {
+  "titulo": "Gullit Peña enfrenta acusaciones por llegar ebrio y tocar a compañera",
+  "liga": "https://elcongresista.mx/justicia/gullit-pena-acusaciones-reunion-morena",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T11:51:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "El exfutbolista Gullit Peña enfrenta acusaciones de conducta inapropiada durante una reunión de Morena en León.",
+  "temas": [
+   "Política y partidos",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4b3367baba4ed88b"
+ },
+ {
+  "titulo": "Tribunal revoca medida de paridad de género en municipios de Chihuahua",
+  "liga": "https://elcongresista.mx/politica/chihuahua/tribunal-revoca-medida-paridad-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T11:50:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "El Tribunal Electoral de Chihuahua revoca medida que promovía la paridad de género en cinco municipios, generando debate sobre representación política.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "461ed01d13c3efa2"
+ },
+ {
+  "titulo": "PRD reestructura su estrategia y plantea alianzas con Morena para 2027",
+  "liga": "https://elcongresista.mx/politica/michoacan/prd-alianzas-morena-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T11:49:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "El PRD replantea su estrategia y abre la puerta a posibles alianzas con Morena de cara a las elecciones de 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "89ac135ad637614d"
+ },
+ {
+  "titulo": "Taxista muere tras infarto en Santa Marta; ambulancia nunca llegó",
+  "liga": "https://elcongresista.mx/salud/taxista-muere-infarto-santa-marta-ambulancia-no-llego",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T11:48:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Un taxista falleció tras un infarto en Santa Marta, y la ambulancia no llegó a tiempo. Este incidente resalta problemas en la atención de emergencias.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "bb04d1c675847c03"
+ },
+ {
+  "titulo": "Aumentan 36.2% repatriaciones de guanajuatenses desde EE. UU.",
+  "liga": "https://elcongresista.mx/politica/guanajuato/repatriaciones-guanajuato-aumento-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T11:47:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Guanajuato registró más de 12 mil repatriaciones entre enero y septiembre de 2026, un aumento de 36.2% respecto al año anterior.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c33afc67da7a2248"
+ },
+ {
   "titulo": "TIJUANA: Muere mujer y joven queda grave tras chocar contra camión en la Vía Rápida Poniente",
   "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnZ2NXk1eU1ocktOSEtKN2RZemRyQVo3UU5VUm5jb2l0SThqWjhWRjhzRVkyYk5WTXNmTHVGX0xXckF0c0tQeFJEZ0lBaFVyUU9LUHBWU1BURHRwWWk1RTctSVlrN3pveXV4bkExeVhSTWdJVTJTbXQ0RnhaMGNqRFVBbDlRbGdjb082ZHJaLVZzMGl4QkhFSlBZYUVMM2FhWkZHQlZUQjVaRDFSX29ja19jMFduZGZZZzZ6cC1lZHNCbUdsVnc?oc=5",
   "medio": "BajaNews",
@@ -12,6 +431,20 @@
   ],
   "local": true,
   "id": "5e71abb4d1dd123a"
+ },
+ {
+  "titulo": "Menescal, Caymmi y Ascher presentan show de Bossa Nova en Brasilia",
+  "liga": "https://elcongresista.mx/cultura/menescal-caymmi-ascher-show-bossa-nova-brasilia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T11:38:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Disfruta de una noche de Bossa Nova en Brasilia con Menescal, Caymmi y Ascher este 22 de noviembre en el Ulysses Centro de Convenções.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "91b1415dea3e6e5c"
  },
  {
   "titulo": "Marc Márquez conquista su décimo título mundial superando adversidades",
@@ -852,6 +1285,20 @@
   ],
   "local": false,
   "id": "79ef68fb5ed8da2e"
+ },
+ {
+  "titulo": "Mejores candidatos están dentro del PAN: diputada Alejandrina Corral",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/mejores-candidatos-estan-dentro-del-pan-diputada-alejandrina-corral-33262045",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-22T07:43:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T12:50:14-06:00",
+  "resumen": "Manifestó su apoyo a Diego Echevarría",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1e226230d7451836"
  },
  {
   "titulo": "Edomex: Centros de Distribución de Bienestar brindan apoyos sociales",
