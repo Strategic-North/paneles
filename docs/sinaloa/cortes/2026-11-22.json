@@ -1,5 +1,91 @@
 [
  {
+  "titulo": "Irrumpen armados en playa y matan a un hombre en Mazatlán",
+  "liga": "https://sinaloa.quadratin.com.mx/irrumpen-armados-en-playa-y-matan-a-un-hombre-en-mazatlan/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-21T19:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T19:17:16-06:00",
+  "resumen": "Al parecer se encargaba de la renta de sillas y mesas en la zona",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8108260b2b92e05a"
+ },
+ {
+  "titulo": "\\\"El Culiacanazo se quedó corto\\\" tras captura de \\\"El Chapo Isidro\\\": violencia se extendió por Sinaloa",
+  "liga": "https://lado.mx/noticia/22370148/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-21T19:09:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T19:17:16-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "552f752b9a16412d"
+ },
+ {
+  "titulo": "EU advierte posible expansión de violencia en Sinaloa tras captura de ?El Chapo Isidro?",
+  "liga": "https://lado.mx/noticia/22370139/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-21T19:09:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T19:17:16-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "7864ab4248036378"
+ },
+ {
+  "titulo": "EE.UU. levanta alerta de seguridad en Sinaloa, tras detención de El Chapo Isidro",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG9tNjc1ZXBXWGowQzl6Q1VpdkMzdnNaMVMtVEtFbWJVbXl4bHZIM1RWU3ByZFBVV3RJUnd2NTMxZXRMdC00dEx1N05fSlE5QVJUaDFsYzBIdGtMVzFvUEdmQ1YzRUlxYm5rbTZhTHh3MG5KdGZfaFMwb2RpeTdya1ltUnV2SktJOTdUQUxVeFZnLW5yeFRZV1FKYnV3aUxSeWdUUjdxT3lGb2U1VlAtRzlTR0wyWjdZQzZQUW16eG1aWnVydmt3?oc=5",
+  "medio": "Diario de Yucatán",
+  "publicada": "2026-11-21T19:09:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T19:17:16-06:00",
+  "resumen": "EE.UU. levanta alerta de seguridad en Sinaloa, tras detención de El Chapo Isidro Diario de Yucatán",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "44711226191d87d5"
+ },
+ {
+  "titulo": "Liberan al 100% las vialidades de Guasave tras hechos de violencia",
+  "liga": "https://riodoce.mx/2026/11/21/liberan-al-100-las-vialidades-de-guasave-tras-hechos-de-violencia/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-21T19:08:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T19:17:16-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "a2bba6288fb54194"
+ },
+ {
+  "titulo": "Gobierno Federal debe priorizar precio de garantía del trigo, los productores deben tener certeza",
+  "liga": "https://noticieroaltavoz.com/gobierno-federal-debe-priorizar-precio-de-garantia-del-trigo-los-productores-deben-tener-certeza/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-21T19:07:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T19:17:16-06:00",
+  "resumen": "Los Mochis, Sin.- Tal como ha ocurrido en los últimos años, el trigo debe tener un precio de garantía y si el mercado no lo da, que el Gobierno Federal otorgue un complemento a los productores como se ha hecho comentó Luis Xavier Zazueta Ibarra. El presidente de la Asociación de ",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "6344937a4b5a3e54"
+ },
+ {
   "titulo": "Ordenan sacar delfines de delfinario de Cancún por fallas de cuidado",
   "liga": "https://sinaloa.quadratin.com.mx/ordenan-sacar-delfines-de-delfinario-de-cancun-por-fallas-de-cuidado/",
   "medio": "Quadratín Sinaloa",
@@ -28,6 +114,20 @@
   ],
   "local": true,
   "id": "37c689b2f7cc79ed"
+ },
+ {
+  "titulo": "Ejército mantiene bajo resguardo una vivienda en Campesina El Barrio en Culiacán",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVkVYVXFtQTQwdEdXOWo5eHRLZklFMS10YzNHYXpsS0pucWlKY2lsTXRMd3RjNFljVDI0bXZla2FsQk5rMjFHdndQT1hXNnpiWmlMeEFoTVZ2UHlqc3Y1eDQwQkZ2bkF3TTlqV2JZQzJQQkxtOWJkYUNta05sNUNUVU9SNXRZSk96cGF5YlF6V2tHMm5jczA1cURtSVczY2hFLTlBRnc5X2p3QUVoUzhPM2hGYVozdDFjemJ4aU9iLVBadV83RWc3YWRQQ2M2QlhON2JVdndaRV9HUHM?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-21T19:04:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-21T19:17:16-06:00",
+  "resumen": "Ejército mantiene bajo resguardo una vivienda en Campesina El Barrio en Culiacán Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "72f520e5660e0b3a"
  },
  {
   "titulo": "Alerta EU por violencia en cuatro zonas de Sinaloa",
