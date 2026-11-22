@@ -1,5 +1,197 @@
 [
  {
+  "titulo": "Tepic, Nayarit: 86% de probabilidad de lluvia y máximas de 27.3 °C",
+  "liga": "https://elcongresista.mx/politica/nayarit/tepic-nayarit-lluvias-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:38:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Tepic, Nayarit, enfrenta un 86% de probabilidad de lluvias y máximas de 27.3 °C este domingo.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2bf257fd133789a8"
+ },
+ {
+  "titulo": "Sismo de magnitud 4.0 se registra en San Felipe, Baja California",
+  "liga": "https://elcongresista.mx/politica/baja-california/sismo-baja-california-22-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:37:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Un sismo de magnitud 4.0 se registró en San Felipe, Baja California, sin reportes de daños ni evacuaciones.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "e2993fee836052cd"
+ },
+ {
+  "titulo": "Congreso de Tamaulipas resalta liderazgo en transparencia de NLaredo",
+  "liga": "https://elcongresista.mx/tamaulipas/congreso-tamaulipas-liderazgo-nuevo-laredo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:37:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Nuevo Laredo se destaca en fiscalización y transparencia, según el Congreso de Tamaulipas, que critica a otros municipios.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "be2486e2ae046cdf"
+ },
+ {
+  "titulo": "Diputados de Bolivia aprobaron solo 115 de 1,092 proyectos en 2023",
+  "liga": "https://elcongresista.mx/politica/nacional/bolivia-diputados-aprobaron-115-proyectos-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:36:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "La Asamblea Legislativa de Bolivia solo aprobó el 10.5% de proyectos en 2023, reflejando la inexperiencia de sus nuevos miembros.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1f6e126d00d153e7"
+ },
+ {
+  "titulo": "Alerta en Sinaloa tras enfrentamientos que dejaron 11 muertos",
+  "liga": "https://elcongresista.mx/politica/sinaloa/alerta-sinaloa-frente-violencia-captura-chapo-isidro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:35:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Estados Unidos emite alerta de seguridad en Sinaloa tras 11 muertes por enfrentamientos relacionados con la captura de “El Chapo Isidro”.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f4487084cf2994f5"
+ },
+ {
+  "titulo": "Movimiento Ciudadano propondrá multas por conducir con niños en brazos",
+  "liga": "https://elcongresista.mx/tamaulipas/movimiento-ciudadano-multa-ninos-brazos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:21:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Movimiento Ciudadano busca multar conducción con niños en brazos y destinar multas a casas hogar del DIF en Tamaulipas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0ba7c0483cde5260"
+ },
+ {
+  "titulo": "Máxima de Holanda visita exposición de Mafalda en Buenos Aires",
+  "liga": "https://elcongresista.mx/cultura/maxima-holanda-exposicion-mafalda-buenos-aires",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:20:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Máxima de Holanda visita la exposición 'Mafalda Inmersiva' en Buenos Aires, destacando su calidad y pagó su entrada de 55,000 pesos argentinos.",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "35c8299387c42b73"
+ },
+ {
+  "titulo": "CFE: déficit de 50 mil millones impacta industria en Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/cfe-deficit-50-mil-millones-tamaulipas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:19:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "La CFE enfrenta un déficit de 50 mil millones que afecta la industria en Tamaulipas, generando apagones y crisis productiva.",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "38283a35f2fd5804"
+ },
+ {
+  "titulo": "PSG: su estrella sufre rotura de ligamento cruzado",
+  "liga": "https://elcongresista.mx/politica/nacional/psg-estrella-rotura-ligamento",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T06:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "El PSG informa que uno de sus jugadores clave ha sufrido una rotura de ligamento cruzado, afectando su temporada.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8fdd5c14e88c1372"
+ },
+ {
+  "titulo": "Ricardo Gallardo busca postularse para 2027, pese a restricciones",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/ricardo-gallardo-aspiracion-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:50:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Ricardo Gallardo mira a las elecciones de 2027 a pesar de las restricciones, mientras sus rivales también se posicionan.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "22a4a1d4a5607718"
+ },
+ {
+  "titulo": "La Universidad Michoacana enfrenta amenazas a su autonomía",
+  "liga": "https://elcongresista.mx/politica/michoacan/universidad-michoacana-amenazas-autonomia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:47:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "La Universidad Michoacana enfrenta amenazas a su autonomía debido a presiones políticas del gobierno estatal que socavan su derecho a decidir.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "32741c1f3336b8f8"
+ },
+ {
+  "titulo": "Metallica dona $100,000 para niños víctimas de violencia doméstica",
+  "liga": "https://elcongresista.mx/justicia/metallica-dona-100000-ninos-violencia-domestica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:46:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Metallica dona $100,000 a SafeNest en Nevada para apoyar a niños afectados por violencia doméstica en el condado de Clark.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b293d2d3530ed44c"
+ },
+ {
+  "titulo": "Activistas demandan derecho a la eutanasia en México",
+  "liga": "https://elcongresista.mx/justicia/derecho-eutanasia-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:45:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T06:55:23-06:00",
+  "resumen": "Activistas en México exigen el derecho a la eutanasia para pacientes terminales, buscando despenalizar esta práctica.",
+  "temas": [
+   "Salud",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "79e1bd21c3af915e"
+ },
+ {
   "titulo": "Gran éxito en el Primer Festival del Vino en Parras de la Fuente",
   "liga": "https://elcongresista.mx/politica/coahuila/festival-del-vino-parras-de-la-fuente",
   "medio": "El Congresista",
