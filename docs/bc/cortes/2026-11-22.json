@@ -1,5 +1,150 @@
 [
  {
+  "titulo": "Gran éxito en el Primer Festival del Vino en Parras de la Fuente",
+  "liga": "https://elcongresista.mx/politica/coahuila/festival-del-vino-parras-de-la-fuente",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:24:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "Parras de la Fuente celebró con gran éxito el Primer Festival del Vino, donde participaron 17 bodegas vitivinícolas y varios locales de comida.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "273c9dd0d6726259"
+ },
+ {
+  "titulo": "Alertan sobre riesgos en elecciones 2027 por irregularidades al INE",
+  "liga": "https://elcongresista.mx/justicia/riesgos-elecciones-2027-iirccc",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:23:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "Mauricio Merino Huerta advierte sobre los riesgos en las elecciones de 2027 por actos anticipados y la situación del INE.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "af8f630eaf89daf2"
+ },
+ {
+  "titulo": "México: más de 1,600 mujeres asesinadas en 2026",
+  "liga": "https://elcongresista.mx/justicia/mexico-asesinatos-mujeres-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:23:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "En 2026, México reportó más de 1,600 mujeres asesinadas, con cifras alarmantes en Sinaloa y Morelos a pesar de las alertas de género.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0a4d62aefa7e9d92"
+ },
+ {
+  "titulo": "Premio Nacional Virginia Henderson a enfermero jujeño por labor social",
+  "liga": "https://elcongresista.mx/salud/premio-virginia-henderson-franco-argota",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:20:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "Franco Argota recibe el Premio Virginia Henderson por su labor solidaria en la capacitación comunitaria en Jujuy.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "5c69901ef018c757"
+ },
+ {
+  "titulo": "Monterrey rompe récord Guinness con trompo de pavo al pastor",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/monterrey-record-guinness-trompo-pavo-al-pastor",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:07:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "Monterrey establece un nuevo récord Guinness con el trompo de pavo al pastor más grande y una fila de 13,440 tacos en Fundidora.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ea7f896e65abcb20"
+ },
+ {
+  "titulo": "Hidalgo: descienden a 6 casos activos de gusano barrenador",
+  "liga": "https://elcongresista.mx/politica/hidalgo/hidalgo-seis-casos-gusano-barrenador",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:03:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "Hidalgo reporta solo seis casos activos de gusano barrenador, la cifra más baja en meses, según autoridades de salud animal.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c23d0bfd684ad023"
+ },
+ {
+  "titulo": "México produce destacados músicos y compositores internacionales",
+  "liga": "https://elcongresista.mx/cultura/mexico-nueva-generacion-musicos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T05:02:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "México produce músicos destacados que brillan en el ámbito internacional, destacando su rica herencia cultural y formación académica.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "67e8c893f01294fd"
+ },
+ {
+  "titulo": "Aprueba ICE fondos de 31.075 millones de dólares hasta 2029",
+  "liga": "https://elcongresista.mx/politica/nacional/ice-fondos-millonarios-2029",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T04:53:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "El ICE recibió un financiamiento de 31.075 millones hasta 2029 para deportaciones y control migratorio, tras la aprobación de una nueva ley.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "855fa67610f22a91"
+ },
+ {
+  "titulo": "Senador Gerardo Fernández Noroña denuncia agresión en Oaxaca",
+  "liga": "https://elcongresista.mx/politica/oaxaca/gerardo-fernandez-norona-agresion-oaxaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T04:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "El senador Gerardo Fernández Noroña denuncia agresiones físicas en Oaxaca durante actividades políticas, señalando a un presunto agresor.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "678534319c335db9"
+ },
+ {
+  "titulo": "Realizarán campaña preventiva de diabetes y cáncer en Alto Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRU03aE1pU19iYWJvQWF1WmZWUjZ2VmR1UnZVT2EybGctcWZtQllhdkFPX2NvUmNfSzQ3d2lVLUxtTkZNLVZyRHJxRU5DUXExOW1fdXBGVXhjdWNOM1luS19QRGF0ZjRFVUh3N1RPeGFrTE1NY2Nwd1RzVURiRXpIcTZ2SHRkdlptSzNvWFpMQTZ6blM2MTRhOGhR?oc=5",
+  "medio": "La Prensa Regional",
+  "publicada": "2026-11-22T04:50:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T05:46:29-06:00",
+  "resumen": "Realizarán campaña preventiva de diabetes y cáncer en Alto Ensenada La Prensa Regional",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "c19f9e4c8996772f"
+ },
+ {
   "titulo": "PRD busca alianza con Morena para elecciones locales de 2027",
   "liga": "https://elcongresista.mx/politica/michoacan/prd-alianza-morena-elecciones-2027",
   "medio": "El Congresista",
