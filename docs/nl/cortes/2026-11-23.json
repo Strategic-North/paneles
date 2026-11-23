@@ -1,5 +1,863 @@
 [
  {
+  "titulo": "Supera presa Marte R. Gómez 95% de llenado gracias a trasvase de El Cuchillo",
+  "liga": "https://abcnoticias.mx/tamaulipas/2026/11/23/supera-presa-marte-r-gomez-95-de-llenado-gracias-a-trasvase-de-el-cuchillo-296337.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T11:01:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "5d76c2ff32c71510"
+ },
+ {
+  "titulo": "¿A qué hora hará más frío en Monterrey? Estas serán las horas MÁS heladas de la semana",
+  "liga": "https://abcnoticias.mx/local/2026/11/23/a-que-hora-hara-mas-frio-en-monterrey-estas-seran-las-horas-mas-heladas-de-la-semana-296332.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:59:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "9468fe18c368a2b2"
+ },
+ {
+  "titulo": "Por falta de quórum, queda pendiente licencia de Rocío Montalvo",
+  "liga": "https://abcnoticias.mx/local/2026/11/23/por-falta-de-quorum-queda-pendiente-licencia-de-rocio-montalvo-296335.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:54:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "76c6c511d5c41fa8"
+ },
+ {
+  "titulo": "Humberto Padgett se despide con un último mensaje en video",
+  "liga": "https://horacero.com.mx/espectaculos/humberto-padgett-despedida",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-23T10:52:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "A través de un emotivo video dirigido a su esposa y seguidores, el periodista Humberto Padgett comunicó el avance de su enfermedad y dejó sus últimas palabras de agradecimiento. The post Humberto Padgett se despide con un último mensaje en video appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d6797d4d67d909ef"
+ },
+ {
+  "titulo": "Gómez Palacio fortalece su patrimonio municipal; registra crecimiento de 16.4% en diez meses",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOE1DT3lYS2hnSmNabFVRNlhNNDJKSXpqc1J4NlFFNVBtQUl4M1hpSHFmTGtlUEQ4SVp6RTA3enRmdDVxc1ljT1IwRW1HRk5rcC1RWEhsSG1jYnllRktiZ1hKMFlFX01OZ0ZVMWRQYUp1bmlrRnV3a2ZMMmVjZHVaUHM2R29PRUoydEHSAYoBQVVfeXFMT1hkeUt6MzBzbFpwSWpCdWQ4X3V6bk5sTm5kM3kyTGlyV2lpbmVfdjdWd0tDTW5vNUgwVllSbkxqUzhrekI2TFpvczZreFhEWkJsaTlIa2dxU2s3RFlocXc4eGpUT3BELVhxc3FPRF9mUjFUeExwa2xGdDNrVVJ1aTQxRTNqRXRQZE5B?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T10:51:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Gómez Palacio fortalece su patrimonio municipal; registra crecimiento de 16.4% en diez meses Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6da72abb752fca49"
+ },
+ {
+  "titulo": "Tyson Fury revela que le diagnosticaron esquizofrenia en 2015 tras vencer a Wladimir Klitschko",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/23/tyson-fury-revela-que-le-diagnosticaron-esquizofrenia-en-2015-tras-vencer-a-wladimir-klitschko-296336.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:51:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d977ef0f75cfec84"
+ },
+ {
+  "titulo": "¡Nuevo León tendrá otro Mundial! Samuel García anuncia sede para el Femenil 2031",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVhZSjAtejE0T0NOYlg5WlpTZ2lxWWNDc0RYVkJjRXpNRXRGX1ZramEwR3BHMC1FTGdsRWZ0Nm1pUm5saVdNQ0p5cl8zZWpuOGhoVUtybkdhYUpNZXh0bm5Xd2x0R1RYMVBiMEl3enRWT0gxem9jcEZHSEduaXI0cjVNZ1RtNjFzZ2Vhejd1U1JyTnVNTEZGeUVwcnl1bUxTVDVaT3Z3bEhkdUV6cERsamtqVW8wWlhfSkRyajBibGtqd9IBxwFBVV95cUxNMkwwV3pscC1zY04zU0sybTE5cUU3TXBHUXZMVjVDdVlReUEyZHNlaHNsSGhRTVlmcm1JTW5TZ1p0U0hxck90YWZBeUtnREtSdnpvZVMxUFltS2NoQ20tWmFfTURQV25vVXhOWFFoUnZFQTJKSTNja3kzSmQ4ZnZjcXNRb2ZacUF4Z3dWQnQ3d2lQN1ZCazdhSWJDYkVUM1J2S1l2ZTdOQnpGMFQ1WGdqODlMd2VFM1cwQ1lBYnhxQkhWMnBoeGcw?oc=5",
+  "medio": "PostaMx",
+  "publicada": "2026-11-23T10:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "¡Nuevo León tendrá otro Mundial! Samuel García anuncia sede para el Femenil 2031 PostaMx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b19b640a1a215df8"
+ },
+ {
+  "titulo": "México será del Mundial Femenil 2031",
+  "liga": "https://horacero.com.mx/deportes/mundial-femenil-2031-mexico",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-23T10:50:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "La FIFA confirmó que México será anfitrión de la Copa del Mundo Femenil 2031 junto a Estados Unidos, Costa Rica y Jamaica con 48 selecciones. The post México será del Mundial Femenil 2031 appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fe6a1a48c1eb5546"
+ },
+ {
+  "titulo": "Detienen a expolicía de San Pedro por secuestro y desaparición forzada de dos hombres",
+  "liga": "https://horacero.com.mx/nuevo-leon/detienen-a-expolicia-de-san-pedro",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-23T10:48:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Agentes ministeriales detuvieron en Santa Catarina a Jorge \"N\", exelemento de la Policía de San Pedro Garza García, por los delitos de desaparición forzada y secuestro agravado. The post Detienen a expolicía de San Pedro por secuestro y desaparición forzada de dos hombres appeare",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f9beb61e02814199"
+ },
+ {
+  "titulo": "Netflix transmitirá en exclusiva el Mundial Femenil 2031 en Estados Unidos y Canadá",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/23/netflix-transmitira-en-exclusiva-el-mundial-femenil-2031-en-estados-unidos-y-canada-296334.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:47:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5e2ab2ab322a67b1"
+ },
+ {
+  "titulo": "‘El Chapo Isidro’ desplazó a ‘El Guano’ a Chihuahua: Así fue su ascenso como líder criminal",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXFXTl9HdlU0anBNR1JMNHFWbkhDWmRyV3ZrTUpELUlWVV9MV2Z2T1FlbDZzcDFhcG56WWJiV181dDJlUkVUMHc5a3hEWDZWNGNmLVNyeFNqNmdXY0pWYVlpOTVVSzN2dHQ3czRVMkl0eFQtRUktbXNFM2RfS2dvQWoxTUk4VEVyZ1RTZy1WeUdYRk5BZTdXSnY1WE5URXpjeENBTzhIeUd5Rmp6YUhSb19za181Vk5sbWF3a3VFZ1V5dnItSlRVYTdQcU1aQlBPQnVrSl9n?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-23T10:44:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "‘El Chapo Isidro’ desplazó a ‘El Guano’ a Chihuahua: Así fue su ascenso como líder criminal El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9b34b1feabafd7be"
+ },
+ {
+  "titulo": "Jordan Wright: ¿quién es el hombre del extraño movimiento de ojos?",
+  "liga": "https://abcnoticias.mx/tendencia/2026/11/23/jordan-wright-quien-es-el-hombre-del-extrano-movimiento-de-ojos-296328.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:44:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5766a3055b1d878b"
+ },
+ {
+  "titulo": "José Mourinho sobre el calendario del Real Madrid: 'Si queremos pasta, tenemos que trabajar mucho'",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/23/jose-mourinho-sobre-el-calendario-del-real-madrid-si-queremos-pasta-tenemos-que-trabajar-mucho-296333.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:43:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "595a999550c310c9"
+ },
+ {
+  "titulo": "Sheinbaum en la APEC: el peligroso equilibrio de México entre China y Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTXZCUFJVazZqaUJsaGlDU2ZtOVZuNmlPU0plYUZpeElNVmx3UnNBZjdmeHctX3BtazNQUTROODFhbFh1YU9QanMtT0E5WEkxSTk4MUZvVE5YdnZNZ01IaV9IX3BqTWJQbFFIN2NfbVlTYXRTbnRQbjdzSFBhUDVOQ2pXMi1yRjdsZHBCNGxtd0FuVmNSOVI4bDg5SU5oSXFsdTk4RE94eWJXaFd1NDkw0gGvAUFVX3lxTE41ZXlkX2dtdVFkOEVFWmZGRlREdlU2cFFTa2hxaklrcGVWNXVEck11N1g5aTRuUFJ2WXh5WkVrZE5MXzBKQWtyR1dsd2dfeS1pOVZtRTc3S0s3dHozYW1CRkFva2VLY3NLcG14QU5VY092OUtDWjE0MVBTVGc3bEZmaHk2NFhFWEp0LUtxZENSLV92TWhremh0M25mWmVzSDJMd09nS1VBc0tGUUI2SGc?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T10:41:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Sheinbaum en la APEC: el peligroso equilibrio de México entre China y Estados Unidos Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4cfe13d54378dbbd"
+ },
+ {
+  "titulo": "Anuncian cortes de agua en Santa Catarina HOY 23 de noviembre; estas son las colonias afectadas",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEdKakFoM01uWDRSTEZvbE81dklkS19vSTVlODM4UjZZTy0wSHE3UGIwbjFDVjZKVURIRXBIbUNwcWZVY0MwYkRsQXZyUFV6enM4ZHpFS0lmVklWaHdCTHJKQXh5YVZhak1KQW9xdlVuNEZXRVY3WE1XM2tRQnVtQjhLN0ZwLVZWMy1sWWdJdGRQRnliR3BwWWVBTFd2U090Z2fSAaIBQVVfeXFMTzdVQ1Nub2FvcFN3cjIwbjhyU3ZfdDlPTmxLMXYySkFUU2pUNlpuaWtQUFVBb3o0bzVVSXBJcWg1NHhNR25yT3ZxSF9iMUpCZUdDbHNfSUJSU0hjVmVtNlh2am41UUhmdEp6UHhyZWxNRFVma3Z0clZFRGszZHRFT3l1SUg2N3FadmhtaGh3R1Jua0NueFBBSFoyN2d2dlZPWklR?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T10:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Anuncian cortes de agua en Santa Catarina HOY 23 de noviembre; estas son las colonias afectadas Telediario",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "f1cdf6bfb4481977"
+ },
+ {
+  "titulo": "Jensen Huang regresa como CEO de Nvidia tras escándalos de infidelidad y espionaje; acciones suben un 33%",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2d5RmR1UEhHZXVqdkZid0Fld05qUGs0LVRHOGtIYUpqcWxnV0swT2FhSFlOMmdDOE5CLUtHV0lveVYyc3FKbHV5aXk2WWZRYUVnbG1xUDg3YWdya2JmQzdKa3E1RHJ2RU9BYTRmYTAycC1rMkg1WGFrTUNEemlKejNwME9ZVnBFMGo2QXNwNXNUT2vSAZMBQVVfeXFMUHVZaENXNUVTZTRJRVJPbFU2bTU0OG5Ud05TeWV1Y3VYbGxSLUZGQllYOVdRd2hWX2J4cFRmM2FZMVdXUENEMDBlWGlrVmVlUDU4SjBLUXR2RWxUZk5VSHZjLXRIeUlqaXJ3aXFhZE1xSVo0UTdxNDVDWmRCd25QYTVzVWJYNC1OdlpScC05ZXU1NTFz?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T10:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Jensen Huang regresa como CEO de Nvidia tras escándalos de infidelidad y espionaje; acciones suben un 33% Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7d26dcb194af5b4d"
+ },
+ {
+  "titulo": "Crimen organizado no se abordó en la reunión: Claudia Sheinbaum desmiente a Trump sobre diálogo en China",
+  "liga": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZk41TTlDOWdqS2k3VW5wVjN1VVZBQm1YYVJIZk9LTEZFQzV2OEUtbGZQS0xRRWgzS3NJeGZFTVk5SWJoTWxHM0xuSkVrU1RGZnUwUG1PZlN5bDE5a25KZUdWVUJBZmJoMGcyektpN3F2RlYwR3ZWOTRvR2xsVHZHTUJkdF9lakFrYmJ6cEdLZGhXdjBUeHVhOHU1LXB0Qkt2dS02SE0xbk8wWlpfZXhTUTQwRjVoTUJTRktZVUFTZlNaNV9LZDV3ejRrOHVnZ2V1WnFkRjhhRmhXaTBSYTFQWThFRE5maUstVEVrV3M3bG1STVk?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T10:35:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Crimen organizado no se abordó en la reunión: Claudia Sheinbaum desmiente a Trump sobre diálogo en China Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "c12ecb629d6a306f"
+ },
+ {
+  "titulo": "Sobrevive a accidente aereo y vuelve a Rio Bravo para dar gracias a Dios",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXlKaERDVXh0OXFBZTlsdm5rdnl2dHhiQllkWHlaOXdBWHpheG1XcTFuLWFmX2h3MGRPVVdGamdHbnpoQTVjT0hJajFNcG8zMGpOUU5TY1FfWG8wZGVJWDA2TXl4Rm9pc2EtbEY2QVd0ZU5RYUhNQnMyd05yZDZWSm1EN01XeXhpYk1zaFc5UzVwVU5GSjhYdlRaRmxoM3d6dDZoaXZhYUZTRWZQd3BoWTFhTmNkZ3REVFVKLQ?oc=5",
+  "medio": "HOY Tamaulipas",
+  "publicada": "2026-11-23T10:34:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Sobrevive a accidente aereo y vuelve a Rio Bravo para dar gracias a Dios HOY Tamaulipas",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "42fcc1caadfd1d5a"
+ },
+ {
+  "titulo": "Real Madrid vs. PSV: horario en México y posibles alineaciones del partido de Champions League",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/23/real-madrid-vs-psv-horario-en-mexico-y-posibles-alineaciones-del-partido-de-champions-league-296330.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:34:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f692bf8378abd7ab"
+ },
+ {
+  "titulo": "Pierde Nuevo León mayor número de patrones en los últimos 10 años",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVNKZkh3cjZXMDdqRlVEUVRveU5feFZ3akt0YTVtYl9OT2RFc284VmhPbE93cGxTNlFuVTRETk5XSGRvWFJLR3JqZWVXNzgyQlQtZThnZGYyLVdPT0FzWVhQU2g4OXhaZ0VGM1JHZTVuMkpMUHBZX2JvOWZLelVjblVlVmhIRWNZYmNCOEd4VlJEMzJqZGJuVVBnQ2lNVXBqbVM1cWE2RHdLemZTM09hU2tZdlRmdW51?oc=5",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:33:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Pierde Nuevo León mayor número de patrones en los últimos 10 años ABC Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6a0c44aa60cb3695"
+ },
+ {
+  "titulo": "Black Friday en Amazon: ¿Cuáles son las mejores ofertas y hasta cuándo están vigentes?",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMnNUMkxQYnpHbVVaZFF6Ujd1eHEtSFE0TTZzdFJScndpemthZkNVQXhwS25yb19rQ2JQNjUzc28xRWxzbDR0ODFydnJSek9CQ0d6dVByNFJRc2pqZkJpRGEyODZfSmFnY0JfOW5SdENYX1UzOEJBTmZWWk1GT2lheW1xMXVEdEwyOWhFblBaTXlZUHBoV0FMNnl2dXVWMnBwM0RsSllvd2d0SXo2S0lFN3dVc3NRMUlCSUNiYU5WQU8waFNvZGc5QnVUZFhHS1liNU1vZw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T10:32:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Black Friday en Amazon: ¿Cuáles son las mejores ofertas y hasta cuándo están vigentes? Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "078181a21813e478"
+ },
+ {
+  "titulo": "Joven conductora muere tras volcar su vehículo en la carretera Torreón–San Pedro",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1doaHZUWjU4M0g3Mkhkbm9WM2tDbDNGUTJVUnBCYTVnbnpNOHF2R1RCeG1TX0FwNU82Z3VseEQ3M0RsYlZtSWtVQTBaMU1QeXNwbndGeXljcmFsR1ppVDBhcUl5WE9HZ3RLOXF5dy1WUVFSc2VqRFUwTE1hQ2ZPYXpSdFFXbnVGWk5GVzQ0aGlLbTBhR0UyWWVn0gGaAUFVX3lxTFBYYjhjV1JTVk9PYXhhVFhOMExsTXIxS20tak5GckdDNGp4MzBtdzN6RDMtSnpMZmYtaHN0SDhLSm5VRzFQd0tvNG5KLWVnV0tHRUctcVJKYkhNOHRkZWNNVDB1V2doU0FncG9DNFZhbEFFcFluRWpfSXFIeFVjNjBaWlA0d2N0VFNGMmUzSFBMcU1YRzUtaHB3V3c?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T10:32:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Joven conductora muere tras volcar su vehículo en la carretera Torreón–San Pedro Telediario",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "e04e2f8e6cefdf41"
+ },
+ {
+  "titulo": "Zoológico de León investiga muerte de mono araña; detectan falla cardiaca",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFFySDAtZnVEV1NRUDF4UHFwcDVDTDZ3Q2lnSTZ4OTdvNEx3LXZQanNEU1VEQkpnQUlIajhzZm1Zb1p2RE5kQUFvdTlPbm9wRi1QazFxaTFwNl83WDJxa00zb1pMcVd1TVpGTUpvQ2FNU1oyMThOZnhfU2YwSGNVcFJJMlRYc0FidmdPeDRn0gGOAUFVX3lxTE02by15N0lTMHg5UTNaanJicFgyNzY4dFlVTDZBRENzZHRQTElGNDVJQUtWVElfcDlJZE5RdnVaRE80U1M1alF0UFRJNDFqdGpUbnNwRWQwcWkzWjlPYUV3LW5yTzJKcEpZWGctTUlFeFpQRnVNWmdtZUdoTTl4MUxrYl9IM1owRHVxSHROZkE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T10:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Zoológico de León investiga muerte de mono araña; detectan falla cardiaca Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1bfbf462971f2560"
+ },
+ {
+  "titulo": "Santa Catarina sin agua | Anuncian cortes del servicio por falla de energía eléctrica",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZndtYTRXN2FGNnUzNWdHQzQzZ1lUZXhkcGNjQ0tfZnkwaVZMX21ZdHFFT1FvSkZoZEtDRXhIRF9SN3pDR1NqQmNGYWphNnBlM0lJZmJ6dXlsb0RrX2JUamdSX3E0V2I5UmQ5WW9feUY5QkJHZlhVSWQ3RVRPdmtUX3hUTWZaajNPSmUwejNraUJZUmVlSzM5LTZkaUR3V2VHbW43WGNHQWNreWdURG9fLW0ySWRwMTY5T0Z5WTg2RjJ6UHdPUVlyWmVCYUZIM01wcE14WDAwZG9xQlU?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T10:31:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Santa Catarina sin agua | Anuncian cortes del servicio por falla de energía eléctrica Reporte Indigo",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "b777befb2991921e"
+ },
+ {
+  "titulo": "Ofertas de Black Friday: qué categorías conviene comprar primero",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/23/ofertas-de-black-friday-que-categorias-conviene-comprar-primero-296329.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:30:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e1d556a551733883"
+ },
+ {
+  "titulo": "Allende, San Pedro y Santiago suman cinco años con accidentes viales al alza",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDF0YldiRWZSZVE3WnYwdlVzcjZQQnlaNHFHZVZOMWVYa0F3cXlmaGsxZnZRTHY4T2FvNlQzWkhqeDRUSWF4aEFMZFB1RjU3YUpWbkVaQnFzcklqVUx6dkV6emJBVVhGSzRveVZ2Y21GZ2Q5OXozWnBIUm8wVTNCWFZmcjJib0pNSUZqY3N6SmkzdUFkLUFiNzYwZHR3RHPSAZ8BQVVfeXFMUDlxVGJfRUpzNlNxTUN6dE56NXR2SlNlOUowbV9PY3k2b3RDcldkQjYxa2hKTFR0ejV3Z3lGM0xkckJrTkpyV3hWenRBNnlMckVERjh6clR0YUd3N3lzR2JnTkQzbnZRRGYyeE5QNm5nX2RTbUtRN1RaTXBiTFQ4eERJcUNzblFwdVdzMTh0XzNVZ21aNU5ISHFQT2MwZGxV?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T10:25:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Allende, San Pedro y Santiago suman cinco años con accidentes viales al alza Telediario",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "70cc2940e28d8d33"
+ },
+ {
+  "titulo": "Peso opera ‘tablas’ en día de retorno de Jensen Huang a Nvidia",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSl9iQWVERUw5X0hBTTZLaXRnSEVpVFlBSm5zMW0xd01LcFI3WnR1cXNSTDFzeDkxb19WN1BpckpHVkp2cVFZeTB0cnlOUFdNeFdHcUhZWERobm1sampXYTJYRzJRTzlwVmFQamVqUnFBQ19qVWJHNm1uUWttaEJmSHFQQy01Tnlvbks1eFRYR1VyMnV0ZGxJX3QwWlZzSTA3MzIwNndZSHpWR1luUWZTMllVZw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-23T10:24:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Peso opera ‘tablas’ en día de retorno de Jensen Huang a Nvidia El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "92254c9761e7555e"
+ },
+ {
+  "titulo": "Incumple Nuevo León obra de aguas tratadas para agricultores de Tamaulipas",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVhYOVl2U3pia3NjNk9yQjVKdTBBN0U2dzBaSGM0U194MmlCSlRWMUpWRzIwTzhOU1AwUmo3TEhfNmx2VFVDQTJ5eExPZ1RaY0lSM0NaRVlkR2I4bVllUk5nNnpxYl9qVGhWNWllNVRpWmhLRVhxQWotU0FiSEhpRG5ucVpXci1SR1ZLYlVWXzdUZTdXbl8wcGFFUkcxN2J3aXc?oc=5",
+  "medio": "Daisy Herrera",
+  "publicada": "2026-11-23T10:23:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Incumple Nuevo León obra de aguas tratadas para agricultores de Tamaulipas Daisy Herrera",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "f102bd09986db51b"
+ },
+ {
+  "titulo": "Mejoran iluminación en Laguna del Carpintero tras 12 años",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3lZczZuWkVXT1hHRU5LYnRKaEtLdEpkSHZvdkdQMWJFa3RCVjZFT3J4UjJ4d0pJMEdrd1ZKSHpCckhoU1BnZGpZUXQ0QlRXVWlPWVF0RlRhLUdULUp5MmJNT0dRLWRWd2s3QU9KYWhmS1dpbG5mRENHNFdoa1R6dFU0WWxnYlBucm1IN2VDMXk1YTlONWNhUVp4ZTdjUQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T10:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Mejoran iluminación en Laguna del Carpintero tras 12 años INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5707547ee367ddca"
+ },
+ {
+  "titulo": "Pese a despliegue de fuerza, niegan 'guerra' contra narco",
+  "liga": "https://www.elnorte.com/pese-a-despliegue-de-fuerza-niegan-guerra-contra-narco/ar3319791",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T10:21:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Pese al despliegue de 6 helicópteros, 8 aeronaves y 361 militares en captura del Chapo Isidro, Sedena descarta una \"guerra\" contra el narco.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d3d06a75fbb89675"
+ },
+ {
+  "titulo": "Tamaulipas cierra 2026 con avances en sector educativo",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnZXSDRpT2g1ajVmYWFiZTJscDc4UzJVSzNwaEJMdWowM2pFOVVwLWtNTzBmVDhLQnRIdWtoQlVIdjFrdzd0a01rM19MTGFoYUJkZ1FEal9qczhRUVI1eXZMbVRDVHRGbE8wbkItcnRlckNoRnlDS0YwUzJCMS1OYzd6MWE4TS1QRmJkam1fa0xhYkZCMEhGYg?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T10:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Tamaulipas cierra 2026 con avances en sector educativo INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "763a85065b7dcf11"
+ },
+ {
+  "titulo": "En Jalisco, Desmantelan “Congeladora” de autos robados; Policía Metropolitana asesta golpe a la delincuencia",
+  "liga": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPX0plcXI3bXdfRVJONHpYZERWV3gwT2JZMjM5dXNTN1p4R2N6eE1vbFlhSGR0YmxoZnRpYmFVLUx1NFhnMjhsa253dUg0WWlYemhfRzBNMFVfZUNVenVhSEZNdUpHMHcwdDVqaEdKeG94LUhmSTZlb2E5bVpmUTRrdklheFNDeERybEFDenItN3gwRjl0WXBaOWJIa3hoV3ROTm93TnhSa282a3FYX0hPbEF2a2x6bHBtd3gybk96ekRraDdFOTRuWFBzb2FUQ3EyWVJhM25aeXpDYUZFTnVVS2x5eXNrbVJwSXNDYlRBY0hXeDQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T10:18:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "En Jalisco, Desmantelan “Congeladora” de autos robados; Policía Metropolitana asesta golpe a la delincuencia Reporte Indigo",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "470e640427b3c1fe"
+ },
+ {
+  "titulo": "Exigen cambios directivos en primaria en Tampico",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1dPVlJmaVlYYXN3eUI5UjRpaGhvdExaOVlrZG1VMmFnWHRydUVDcWJWcEFDdmtqbS1GZTZmUjRSRjRaTG9WRDVwZktEVUFkb2gxWTFiUjBZN2dqT1NmcnJqMC1MM1FzbmYxU01uU3Z4aDZpUTVHaUNxNjJCMWphRHRSQndMUkRndWhEbnluZUQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T10:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Exigen cambios directivos en primaria en Tampico INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ea13eb5d72ca6fd0"
+ },
+ {
+  "titulo": "Soles de Mexicali vence 77-76 a Astros de Jalisco y conquista su quinto título de la LNBP",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/23/soles-de-mexicali-vence-77-76-a-astros-de-jalisco-y-conquista-su-quinto-titulo-de-la-lnbp-296325.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:16:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "302f97b37ed5aa7f"
+ },
+ {
+  "titulo": "Tamaulipas habilitará más de 45 espacios seguros para mujeres",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmZpdkZ3T1YtU0VuQXNyX1lpQjk0NE1GSlFDZ3V0Wk9leFNKV1lYNUNTMGxNdmtRVHNYWTFHb2tJU2d2bHljNDQyeUpRNWRzWUJ5ZDZIWlIyTGxObXI5SWF6S3RxaTRBb2Q5QjBaTm9wMVhHaEFYSndDTEpsaURUcnVpRGxuaEw2VGRxc1YyeXFiNGIyZkdmUnJ3a19XQTRobVE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T10:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Tamaulipas habilitará más de 45 espacios seguros para mujeres INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c684c1883163ede4"
+ },
+ {
+  "titulo": "EU revela archivos oficiales con misteriosos reportes sobre Pie Grande",
+  "liga": "https://abcnoticias.mx/global/2026/11/23/eu-revela-archivos-oficiales-con-misteriosos-reportes-sobre-pie-grande-296309.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:15:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4e02a4709c5c29dc"
+ },
+ {
+  "titulo": "Avengers: Doomsday: Hailee Steinfeld regresa al universo de Marvel",
+  "liga": "https://abcnoticias.mx/show/2026/11/23/avengers-doomsday-hailee-steinfeld-regresa-al-universo-de-marvel-296327.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:11:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f66972b75f2d828e"
+ },
+ {
+  "titulo": "¿Qué le pasó a Lamine Yamal? | Barcelona lanza inesperado comunicado y confirma su baja para la Champions League",
+  "liga": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWUNMcVZfLWpveHB1am1QeEczLW5DUUhfQU91OFE3Q0RPU3ZFUDZhNFRGRUZkU3hkbnRGOHNOS2g1bkYxVUhOYmhnODhQWVhYcEdKTkgzUXhkQnNkZlhxWUVmRjhGV05FUmhWdzZ3Z0ZZdmo5TTNYNklMcGZuUHRRQWdPR3duRG9QQkRTOWhYdXN4b1lvTlFadTh5QnRCRmN2OEhlbERfNk9wTkRmZjRjbTdTaG5YTTdOdi1XaWg3RGNKUGVXYUFZWGFVR0JYSlZtRmpicUVVdl9Nd29hN3l4ZWZzV3h2dklHSjlVSnBjY0p6eEJTNnNHM3pR?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T10:11:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "¿Qué le pasó a Lamine Yamal? | Barcelona lanza inesperado comunicado y confirma su baja para la Champions League Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e6c84f84dd01f051"
+ },
+ {
+  "titulo": "Mujeres Bienestar: así puedes recibir consultas médicas gratis con un registro",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/23/mujeres-bienestar-asi-puedes-recibir-consultas-medicas-gratis-con-un-registro-296315.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:09:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "13e7930cc9c35418"
+ },
+ {
+  "titulo": "Espera DIF Nuevo León recolectar hasta 5 mil juguetes con Regaleón",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0dydUwtLWt4TTlvMm9qV0E2ZFhIbUVtbEVnQ3NlZ0xMcWZGeUIzSk1JRGFIcl9Sdm1vU0Z4MzlSOUNNZC1rQjhqZ0pja2ZFbHRiLWtXenhXVFZCa01kN3JJc1BrMVRZdG1SekU4N2NrVW13NjdhWFdvSzlQcHozRi1pZUNKaXhqYWpDeHNDM3V3VEtLeXA4SWVlMjh4b2FwZWxDT3ZNMl82YzU3aVJwMVFR?oc=5",
+  "medio": "Quadratín Nuevo León",
+  "publicada": "2026-11-23T10:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Espera DIF Nuevo León recolectar hasta 5 mil juguetes con Regaleón Quadratín Nuevo León",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4f7f178f08ef9e88"
+ },
+ {
+  "titulo": "DIF Nuevo León inicia colecta de juguetes 'Regaleón 2026'",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHk1OUk3cFY0Rjd2R1RJSmxlVmJNN3hfU3pQRmVDQmw0SkFuOG04OTZ1QXJXY0xlTUlSQ2ExRUd3RVBZQlBLTnR3a09DbVd5LWpLZlFzTnJsV2xJd3luX2o5Q3VJX09xMFVGelQzb0wxbG8yWlh3SndxSFc0MS1EeS1rcUc2NmdLd0htNFhmVFNacHZBRVZMSw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T10:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "DIF Nuevo León inicia colecta de juguetes 'Regaleón 2026' INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1a5735ec43aca162"
+ },
+ {
+  "titulo": "Mantienen lluvias en Monterrey durante estos días",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYlVCSFl3TmhmUkxrekNWb2xJU2tySE56cmIzNnFtQjhPOE4tTUsxV0VOa2VfOHZKUW1KWno4RjVoNEU0a0VaUTBZN3J3ODA0Q1I1Z29raGJHaWtoLTQ1TC1WcXV4czdpUWxDd3hHYVlSUVgwRENaMDVfMzZaOHRObjVqZ0c5OG8tSFFnS3JlQWNVWU1SbFdEWWNVcnM2eGE4UFdLR29KNVd4aFk?oc=5",
+  "medio": "MVS Noticias",
+  "publicada": "2026-11-23T10:07:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Mantienen lluvias en Monterrey durante estos días MVS Noticias",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "223b5a79f6212f46"
+ },
+ {
+  "titulo": "Muere trabajadora de obras del Metro tras atropello en Apodaca, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTRKV3BWbWl0NHFLTlJUS2thd3REbEQ0WVNjeDhsSjZESW1sLUNyM05VRGM1dm1kNV9Lc21oU2l3cHhmLV9FSGtTRTgxQ1A2ZUZWai1rSkNqRlljTXJoWWNCMk14MXdsY1NvZmlDT0duTFNORDdNQ2xKYXhEVV9ocTdRQjQ0UXF4T1dFaDBHSzJSMExoY2I0SEI0cXI5cmx6aVVKTVpCT0h3VHhLU0Q5cElXbTVYVTRUMjR5aWhabm96bG11?oc=5",
+  "medio": "Meganoticias.mx",
+  "publicada": "2026-11-23T10:06:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Muere trabajadora de obras del Metro tras atropello en Apodaca, Nuevo León Meganoticias.mx",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "c2f79be50e4fc7dc"
+ },
+ {
+  "titulo": "¿McKenna Grace tiene raíces regias? Esto se sabe de la familia de la actriz de Hollywood",
+  "liga": "https://www.posta.com.mx/nuevo-leon/mckenna-grace-tiene-raices-regias-esto-se-sabe-de-la-familia-de-la-actriz-de-hollywood/vl2282133",
+  "medio": "Posta",
+  "publicada": "2026-11-23T10:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "2260883329effaa2"
+ },
+ {
+  "titulo": "Brock Purdy brilla en México y se afianza como candidato al MVP de la temporada 2026/2027 de la NFL",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbU1uSVRqeFYyeWxFUEF6d082MllsR3hyNGZJcTR2VlFoNTVCVVlGUGZ3c2o4aVlsSFNhVEh2amdlNEU3MGlzQ0VEM1A4bUNMaG16UDBTZXh3WTVvVFdMdjJUN3FVa01sR0ZjbVI5RGFTLVE0dDA0ajB1SmFRNlBScGpNVXNXRmF4cTVCdmRYeXdEMDNFSjlXd1pneE1UYUY1RnJxM1N3X081cHlnTWdSQmpWXzJMd9IBtgFBVV95cUxPc3JTUzlLbFZMT0J6a01KQVlVRXRZdGs3YWhXbzhSR1o4Y1c0TTBnZE9SejdtZzBReExKaWtYYUMySDloMUF2ZnYwd1lzaENNTmFjZUNvRnZlVjNyZ3ZMNEdSbHZjbFhmX08xVzVWZnIxbWVWU1VfRFJzRlpHeWp1OHV1Ylk5aHRKSHY5NlJFQzJLY3hueHBMNm5mWjFHeVZobkRKTmdUckpod3hNUWRwX3MzQnBfQQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T10:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Brock Purdy brilla en México y se afianza como candidato al MVP de la temporada 2026/2027 de la NFL Telediario",
+  "temas": [
+   "Política y partidos",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "dadee34fc404a753"
+ },
+ {
+  "titulo": "Vinculan a proceso a pareja que fue a motel y dejó morir dentro de auto a niña de 2 años",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/23/vinculan-a-proceso-a-pareja-que-fue-a-motel-y-dejo-morir-dentro-de-auto-a-nina-de-2-anos-296326.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T10:00:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "72ba4445a40518f4"
+ },
+ {
+  "titulo": "Detienen a joven tras robar iPhone a un peatón en avenida Garza Sada en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpGdHNKR1dRYTJHUmw1Q1VvQjl1TWlpSUY0bG1INTZFQjBBXzlFTXA2aDdKU3pBRHl1OW1qMVdCZ0g3bl9KVWxuMTBHRHVpOXJqellnXy1xVWp1T2p3QldRUW5RTW1FRzZkdWJ6YUY2Z3RSVEJRTjRHTVJHXzdDeWtRUDV3djI0Q3lXYzRYc1Zjd9IBkgFBVV95cUxNT2JnNUs1OG9yci1VZ1BJNmlCSzY2c09GT2Y0VDlzOWYtdG9TTWJhNU54WVZnMTc2Z3hzUkJrYlh1LVVTcUQ0cUQ5Z1VGbnVsaUZ2a2Q5QUtZcWdOS3g5VGtDc0pMSml0dnhXV2NwazJFeUNId2pnaWQtYWpudVYxNDk5RnV6MFE3OE01NWZ5VkpjUQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T10:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Detienen a joven tras robar iPhone a un peatón en avenida Garza Sada en Monterrey MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "895caa588ac3da89"
+ },
+ {
+  "titulo": "Tamaulipas construirá hasta seis puentes vehiculares",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbU1KSy00V28ydXp2TXI1YnRCRlREYjQtZmlvNXZFNmo5aFk4YXRfMjl6MEhSWVdwdXRibGhlOU5udjFmZkd4RlhoTzdiNnFLbGlaRlFLQXRFX3psZUlTYUo5azhEWHhFX3BkYW9TYjdYUTNDQ3BQcl9ZYmlOLVdPd2FCcWExdEhLTjNPVnhhY05CSW9sZEE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T10:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Tamaulipas construirá hasta seis puentes vehiculares INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "04966892e5e65ec0"
+ },
+ {
+  "titulo": "Nuevo León con canasta básica más cara y más barata de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlJUNjZyaGp6YkJoYno2anVjYWhqT01mODZmUzlzX2FqcExoM0ljaFhHeVdITkVzc2tKbndTRTA2VVdkb2xSUHhicVV0WXFJOTFDWnRDM1dQbDJpZmpPdDVBaWktSXB5VmViTzYwWVAwUm9CaWFia2R2aktPZGl5RzN5UzBtenc5bXdsclMwalQ5dzUxdG9zcHJ5bjJsMEZicDR1SEU4RnMyU3NFZ2ZxV3p3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T09:58:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Nuevo León con canasta básica más cara y más barata de noviembre El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "74d664decf948756"
+ },
+ {
+  "titulo": "Choque sobre avenida Ruiz Cortines deja un motociclista lesionado en Monterrey, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYkEyVG9uUXhkS2lWR2ZHbmJMM20yU1Q4RGFQRm16aDg3VldPa3BFWFZROXcyb0lyMzgxaW8yT0NDT3lacGxLNF91X2pqWXpFMllCanlERjlJbVNwS19NNFFtaWRxU1k5ZC1TUTV4RkhGcjZDNDVrT0g4TDJpeU9sT01xenp1OFp1OUFIR3hyQ0JmdUtnejA5TldTWnpqYUozT0x2Yw?oc=5",
+  "medio": "voxpopulinoticias.com.mx",
+  "publicada": "2026-11-23T09:56:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Choque sobre avenida Ruiz Cortines deja un motociclista lesionado en Monterrey, Nuevo León voxpopulinoticias.com.mx",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "d56f6a2b40181b32"
+ },
+ {
+  "titulo": "Diputado de CDMX por MH y Azcapotzalco se promueve con pantallas electrónicas y espectaculares en ÁO, Benito Juárez y Tlalpan",
+  "liga": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQeDh5WnVxalNDQUY5bkNaQktqYXNwU1Q0Sm5vQngwVm53VkVKR0RmMzJITC03R0dRMEgzeWc0S3ctNmFDaVp2eENfM0JDT0Y0NERuUk5QXzI3Uml1cXhJM1ZjQTBfZk16c1VBenRoUHVZUlEwb2JZUEY1ZHRETXQwV05uNmRQMlNTbWVhbDVBdGxPcUllWTNtZENyblQ3NHpHZWJrRU1rZ3J3d2dQR2VtWmdxZ1RvV1A2eG5tbUFBUG9FT3JwNmJYa3liOVZ0TnRTSEtaNlFpQnEzWHZma0xyV0FRMVpheVA5N2ZuTDcxaXpyOHp4cUkyeFlScUJ6T0hZWi1HeU5UYlR2aktueEFYUEFOMG9ZSmNaYnVvQ2phNEhVdGJz?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T09:53:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Diputado de CDMX por MH y Azcapotzalco se promueve con pantallas electrónicas y espectaculares en ÁO, Benito Juárez y Tlalpan Reporte Indigo",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9a636b1dec9b83b3"
+ },
+ {
+  "titulo": "Claudia Sheinbaum confirma: García Harfuch se queda en la SSPC: \"No sé de dónde salió ese rumor\"",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTmk2cnZhcTJ6ODY2STZucEVyOUhHVWJQSUdldU5BNEdzRWktYXppVGp0UXRqVTlqdFRod29Ec0xvb1JGa2NDc3dqZW5fUlNZTjNoWlpHZjFqUEJZMWkxdUtlcE5URWhlTFlRODhfV1M2NnBiMFYxNG4zMGNLZnJzc3pkblNMZDBNa0c5bzRsc09WbUxhMGMtd2lwdzR4WGVnRm95RGlVWWtFcXQ3ckhnQllzM0Q2WkZXdm4xdkZGVWNoSGc5N1MyckE3ZmVHQUdKaURBZWZ4U0taMmc0dHV6SDRTVEg?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T09:53:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Claudia Sheinbaum confirma: García Harfuch se queda en la SSPC: \"No sé de dónde salió ese rumor\" Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "99d7c0715d0a3578"
+ },
+ {
+  "titulo": "Detienen a tres por ingresar a inmueble asegurado en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVJYMEJCLTlwUjNiSTlQTXptSU9TdmtMQWY2dk11c2tUWmw2WEFHUHBzcmM2MWZiazU2cmYwbWhSX1lTUm9jS1JBclV1OEhENWl6S1RJX2NOMlpZbWYyWS1mZ1p4R3hBREtzWkNFWHFxWFd0VW4wUnlnNGI0eFpHVzNpV3Y4UkZqQlFKZmpuQXMzcVZjUkdlUXFMRzU1UEhTaHc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T09:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Detienen a tres por ingresar a inmueble asegurado en Monterrey INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d75300f9e0eca8c6"
+ },
+ {
+  "titulo": "¡Emergencia en el Citlaltépetl! Rescatan a dos alpinistas con lesiones e hipotermia",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdl9ZV0V3UzNiWXVMRWpncHA2RzhWd281RGNwMV9xOHhIaFhma2FNSUVRMlhadjQyRHBEQzBfeV8zd0lJZjFfbEluSFdRcjNiQVA4MVc1bHJKbVZyODFkZUxEZFdxcWtqbm5NQ3p6N2ZJSEJJTU95ckdmZzlyajItSHNxSmJIeDl2dS1FRXFqWEd5czN3bTI4cU1B0gGaAUFVX3lxTE50dDF0SGN0eHRzUTRnNkdHaFpJbU9TLU5jLS1LWmcwQm1qSlBMa01xVzBGUm81ZUlyMzJRMENMRGVCVmtmcmtlZWNzUk9MTEpCRFdJUG15WHptaVowdko4OFZ6cFR2c2YtUGVsTnhHdXowNGZSYldMQUQ0SHItWTdjeXZRNjJvY2JqMVdrMExMZzJPMlJjQ0dJUlE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T09:51:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "¡Emergencia en el Citlaltépetl! Rescatan a dos alpinistas con lesiones e hipotermia Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c2752fa6f34d2d13"
+ },
+ {
+  "titulo": "Penalizan con cinco puestos a Sergio Pérez para GP de Qatar",
+  "liga": "https://www.elnorte.com/penalizan-con-cinco-puestos-a-sergio-perez-para-gp-de-qatar/ar3319778",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T09:46:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Comisarios de carrera penalizan con cinco puestos al piloto mexicano Sergio Pérez para el GP de Qatar, tras su choque en Las Vegas.",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "a0c06e8902e02bc0"
+ },
+ {
+  "titulo": "Un golazo les da el liderato; Chivas vence a La Máquina",
+  "liga": "https://horacero.com.mx/deportes/chivas-vence-a-la-maquina",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-23T09:46:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Con un golazo de Efraín Álvarez al minuto 21, Guadalajara derrotó 1-0 a Cruz Azul en casa y aseguró el liderato general del torneo tras 15 años. The post Un golazo les da el liderato; Chivas vence a La Máquina appeared first on Hora Cero Web .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "6c4a28e4178197a4"
+ },
+ {
+  "titulo": "Nuevo León contempla descuentos de hasta 100% en multas del ICV y en tarifas de Agua y Drenaje",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkhBaC1KWThFdTlqcTdhODZzaEpjV3Bhcy11S3ZSenhWVjZYLTk4M0hIQUhjWWtxM2syMDk1c2Y2NjZUdklZdDlIU1RXWV8xOUxqV0JORUhLQzRSMzR3NGZnX2JHNFpLc3lFOXdha1FFR0R2ajhucnZQYmlUUEt2QndkUzBDemRsTHJWTWRfRWdXNzBWWHln0gGXAUFVX3lxTE5uOFhEZ0x3bE5BbFlEeHRZSi0tcWJtQjZhOWEtOThNQkxRZjh3VjhtLWlWTGN5em1FakhaaUV6cm15M25ER3R4empzMlZnQ21hRHk0cXFWNURJWlZ6WTEyb3h6ZGNvNGFsQlpsSWozVWlVdTE0VVd1SVR4NThqMjFWcG1DQk5sbUxJTnlERW9ZMmNNRjhHSVU?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T09:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Nuevo León contempla descuentos de hasta 100% en multas del ICV y en tarifas de Agua y Drenaje Telediario",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "11dded684ebe3a28"
+ },
+ {
+  "titulo": "Presidentes, celebridades y hasta el Papa, mandan saludos a Doña Alegría",
+  "liga": "https://horacero.com.mx/viral/dona-alegria-mansion-vip",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-23T09:45:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Presidentes, celebridades y hasta el Papa mandan saludos a Doña Alegría mediante mensajes de Super Chat en el reality show La Mansión VIP. The post Presidentes, celebridades y hasta el Papa, mandan saludos a Doña Alegría appeared first on Hora Cero Web .",
+  "temas": [
+   "Salud",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "dd13a69fbeb4f72d"
+ },
+ {
+  "titulo": "De impacto social y competencia: PrepaTec alista exitosa temporada 2027 en el FIRST",
+  "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2ltM24wSTVCcEtNRURSeFg4QjhidzQza0QyRnA1bUQ3cGZqTGpsTG5iR1NIR2xINjhRSHVaZWtLQ0F5UEg3VVNoTWk5WEZYR3A1V1pDN0ZKTXYzb0Z2RXczNDhmU01sLTYzdTVVYmJRSXZkdHBRd1lFS0tZM1YtM0Qya3puZw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T09:43:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "De impacto social y competencia: PrepaTec alista exitosa temporada 2027 en el FIRST MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fdb9daf9baf3fa4a"
+ },
+ {
+  "titulo": "¡Buen augurio para Chivas! | El histórico dominio junto a Cruz Azul y América en la Liga MX que ilusiona rumbo a la Liguilla",
+  "liga": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQW5NdEZpS0pmNWlFdE5fdlVkM2ItQ3I0cl9fUGRQMW9Uc09xZ3EzbnBaeklfeUxsa2ZRSS1oNS05cU1BV1BsY1Z4NGI4b3M2VDBocVY1cEc5UzRSUmxkTHVwd0l0T25FS29QdHE5d2l6LWtlSGRjdzQ5QnFVV1NWaEhrZ3FGcF9jbmVQci01MHhKRDNMQVVPUW9OMFZ5aHJhTG9fMTdnOHlhRmxaMVVybi1uT1VWTzg0TWtVd0lxNW1tREloWnFpR3ZNaWJXcWd5VHQ0OGZlbnM4VW85UTRxQzFXREh0cGRxNXdiaEZZT2ZJMnpvNUhqZDFCX1huVlhuMnJhRXlzbFo3TjA?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T09:38:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "¡Buen augurio para Chivas! | El histórico dominio junto a Cruz Azul y América en la Liga MX que ilusiona rumbo a la Liguilla Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "611921ae2e7fd78c"
+ },
+ {
+  "titulo": "AyD anuncia cortes de agua en colonias de Santa Catarina; ¿dónde no hay servicio hoy 23 de noviembre?",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0FISEl0ZFNqd0hvc0pfVExmbWpraS1qZDZMcG84RDljR1BnWVVIeFhlVWwwbmNLSFRyN1NtSWhrbEoySk1CTWxCTndhdnRhb0pQV3kzdWtNdE9maWRjZE1yUlpGN2d2bDh1N1BTM3JlS2lQWDlYUzZ2b3ZCeTNaVVhQaFRBdkNRY05KWTVYakdsTm85bFlhSHB6WlVWa3hFWkHSAaIBQVVfeXFMTndBSEhJdGRTandIb3NKX1RMZm1qa2ktamQ2THBvOEQ5Y0dQZ1lVSHhYZVVsMG5jS0hUcjdTbUloa2xKMkpNQk1sQk53YXZ0YW9KUFd5M3VrTXRPZmlkY2RNclJaRjdndmw4dTdQUzNyZUtpUFg5WFM2dm92QnkzWlVYUGhUQXZDUWNOSlk1WGpHbE5vOWxZYUhwelpVVmt4RVpB?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T09:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "AyD anuncia cortes de agua en colonias de Santa Catarina; ¿dónde no hay servicio hoy 23 de noviembre? MILENIO",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "0da41d40a75cdfe8"
+ },
+ {
   "titulo": "Instalarán plataforma petrolera del Campo Trión frente a costas de Tam",
   "liga": "https://abcnoticias.mx/tamaulipas/2026/11/23/instalaran-plataforma-petrolera-del-campo-trion-frente-a-costas-de-tam-296322.html",
   "medio": "ABC Noticias",
@@ -12,6 +870,21 @@
   ],
   "local": true,
   "id": "b8e84c52e43ec89f"
+ },
+ {
+  "titulo": "Afirma CSP que Trump no habló de cárteles durante reunión",
+  "liga": "https://www.elnorte.com/afirma-csp-que-trump-no-hablo-de-carteles-durante-reunion/ar3319774",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T09:36:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Durante el encuentro en China, Trump no dijo que los cárteles gobiernan México y el tema sólo fue comercio, asegura Sheinbaum.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9bdbda9b6d4f1dc2"
  },
  {
   "titulo": "Más de 350 camiones eléctricos buscarán dónde recargar en 2027; el corredor México–Querétaro es clave",
@@ -170,6 +1043,20 @@
   ],
   "local": false,
   "id": "b1957d0f84d72d51"
+ },
+ {
+  "titulo": "Educación de Tamaulipas dona más de 5 mil juguetes al DIFtón 2026",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXQyXzNrVThWUnp1MXJwRWJKTGRnTC1Vc1Z1dXpZSno3MEJjUkgyVU9SNmF2MjVRcUhJVEFaT0dENWpUMTdhR1N2bW1aVkkwXzFoNmI4UndfMm9adVV4X0F0eGpwdnE4Z1l6dm5uRFFRaHRyUFFrai1PYkZ2QndHd19mMkdqbE9RM29vQ3g0WXczckM1QUxkNmlyXzdNZnA3NHJqYXVLYlU?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T09:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Educación de Tamaulipas dona más de 5 mil juguetes al DIFtón 2026 INFO7",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "f9f475e2cb3b5d84"
  },
  {
   "titulo": "Detectan seis metales pesados en agua potable de Jalisco",
@@ -875,6 +1762,20 @@
   "id": "26ce31fd6acf55bd"
  },
  {
+  "titulo": "¿Qué es el 'método de la cebolla' y cómo aplicarlo para protegerte de los frentes fríos en México?",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWd4NjZLMS1kSDVVdERJdkd5aTc5a2w0SmU1cXVWbmRST1l3LWR1MWZkMFZhVDlyOEhMX0c4ZWhZZnpkM1pqajcyendSWGlNTHZpaUpvbTBhTFR2cE95a01ZMDR4ejFYcllMSmtsb1A5QXhDVkJ4aFFiRjV4NFJMMnNJZzZwU0xrT05SU9IBjAFBVV95cUxOZk4zVG9Ndk5WMTA1eWliVHNweGtmTGVJcnJVSTlNV2VuZDV3UkYxUGxzNTZaNlRNZFlSWEE4MlNMYkpTbWU1dzZQSUxzd09jdjAtQTBYT3dGN0NSc3c2dUloTExBQjdZcWd6ZUtCRFQ1M3laU1kwQ1pIRzVxZGFmMU1HR0JydWcydnhHUA?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T08:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "¿Qué es el 'método de la cebolla' y cómo aplicarlo para protegerte de los frentes fríos en México? Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "27b98aa06d939285"
+ },
+ {
   "titulo": "Lamenta muerte de militares en operativo de captura de “Chapo Isidro”",
   "liga": "https://horacero.com.mx/nacional/muerte-de-militares-sinaloa",
   "medio": "Hora Cero",
@@ -932,6 +1833,21 @@
   "id": "b3c14c0f7a380398"
  },
  {
+  "titulo": "Trabajadora de la L6 del Metro muere atropellada por conductor ebrio en avenida Miguel Alemán",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQktqODZsQktZYXFOcmlVamVYdl80d1JzQWYyQkZxekNpczNkVGlrM3ZJSnV0Tk9NXy1kQjJEV2JuVXQyaXFlc1hMU3V6LUVRZmRKamMyLUpBeGNrTFk4Yk1ITjJJNDBjN05iTGhsNGxtLXBnYTU1Z2NINFZ4Qml6VGFNMnQ2aWNLWmRRcVZmWnVLTjAwXzY1VXR4RGhVVHV1SHc?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T08:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Trabajadora de la L6 del Metro muere atropellada por conductor ebrio en avenida Miguel Alemán MILENIO",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "0ba0e68dec83a4f2"
+ },
+ {
   "titulo": "Muere trabajadora de la Línea 6 del Metro tras ser atropellada en avenida Miguel Alemán en Apodaca",
   "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOREVhWU8yQWJaemYtdWdKN2MyN2M3aGZQaGotWDNkNWFaS1hxZWNaak1lU1plZWVkc1hmMU5UZXo3WjJvR2dmQVRNcU9Md3VVVGRETGMxS2tTckt4eVIxRkRUQUs4N3BNdlRJMjNnSDdhbzBNeUtXNFJlSVJOZ0FzMHZIc2NQUdIBhgFBVV95cUxNODR4T2dwU0NoaTFoeWZDa0xESFhDbEpYOE1tMndKTXRtZHhkT0h1RFZHcnJ6dkpKcDB4NFM2SVZGUl9yMFFPUnpGcHgzOExSLXRwYjdlU0ZvbnlENUFQd2pkQ3huZWI5bkFiRV9BbTRacFhoaXVKTFh1aWNsNGg0dVJSbTVlQQ?oc=5",
   "medio": "Telediario",
@@ -961,6 +1877,20 @@
   "id": "ff84a1da257b0db6"
  },
  {
+  "titulo": "Regreso de Jensen Huang ‘dispara’ acciones de Nvidia en Wall Street: Ganan más de 31%",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXVZUjlfQ2dyOS1SUE9ZRUxtWHJCaUtkX2FOblBHRzFtRnBqQ0xnV1RFTFJWeTZyRmR0SUphSWluSXpQbU9jTmNzeHd5ejNwTXBoWWxjVDNqNDlrVnluX3pLdmJoakJYWWl3Y2dteVhmVE1ReDBXc1gzVVQ0SEtsVTNVR3NfMWZJSWhueWozc1hmYU1fYzM1QUp6M1RwOXF6LWYyazVzb0U?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-23T08:19:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Regreso de Jensen Huang ‘dispara’ acciones de Nvidia en Wall Street: Ganan más de 31% El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b7070ba3cd41b6d5"
+ },
+ {
   "titulo": "Muere trabajadora tras atropello en obras de la Línea 6 del Metro",
   "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGVlalJMQ2txMzJtVElLX0JyNkFDVnctbXI1M3R5Sk80aXIyTWppZ0lFQXRtVzhlTTg2QnBNdF9lX2U5dmJGc0EzektfQkZWd0FxR3NwVWdNcExmX3A0SnN1YTJGRWR1MFVwUjFVTXM0bUc1SnM2QmhRY20tcmVvaExWWW42aEdMRTF3ajBFdGRMUmh0ekxWa1REZHVDN3FWVnJlYmZR?oc=5",
   "medio": "Info7",
@@ -988,6 +1918,20 @@
   ],
   "local": false,
   "id": "511e5581aa89c2d9"
+ },
+ {
+  "titulo": "Muere mujer tras atropello en avenida Miguel Alemán",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFFBZTlmOXMxY3lLU3dBcVBzdmYxalBVVmF1NEF6VlJGTHEwdkZQS0pCLUNVWFgtanFTeTZ0OHpWTmdXYTlHcmExX1VDaWdsTlEzZjMtNUh2OGY3Y3F0WFNtaXlaS1N0bGxyNFRPajZNQWNzZmpQQ2tmVmJUU2tBQzJkYUk1bkRPQlF2OVZnZVUyUzA?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T08:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Muere mujer tras atropello en avenida Miguel Alemán INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "26a5c15b4828eeca"
  },
  {
   "titulo": "Registran sismo de magnitud 3.5 al suroeste de Ciudad de Allende, Nuevo León",
@@ -1128,6 +2072,20 @@
   ],
   "local": true,
   "id": "0847e80f74e96ab1"
+ },
+ {
+  "titulo": "Creció economía del País 3.3% en el tercer trimestre",
+  "liga": "https://www.elnorte.com/crecio-economia-del-pais-3-3-en-el-tercer-trimestre/ar3319730",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T08:12:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "El PIB de México creció 3.3% anual en el trimestre que finalizó en septiembre, por encima de la estimación preliminar del 3.2%, según Inegi.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "5cbf9352ac68734b"
  },
  {
   "titulo": "Familia de osos 'asalta' a senderistas en Chipinque y devoran su comida",
@@ -1720,6 +2678,20 @@
   ],
   "local": false,
   "id": "27ad9cfeb4d88372"
+ },
+ {
+  "titulo": "Operación ‘Centella’: Así fue el paso a paso para la detención de ‘El Chapo Isidro’ en Guasave",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmg0cnBYbjNvN3A2aThJa0VTdUUxQnVPUV9SaHRDY0ktR3RLM0NVU1gybTNKMjQ1WWNBZUVGamJlSlIycXhrOGU5eUY0WWk3Y3NEeEtVNmlvUUd4YkRMZ3k4WDcwX25oQWVlQk1IYTNGUGpHaFctWXJZQlJlbWpqVlJ1bzFTX3lMWjFMRXRpSlViQ2E5bFkyTkt0Nlp6SWZhWnkzOGs4QURMd1JxY1p0WTlfZk91NHBJTUJ6cG53?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-23T07:16:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Operación ‘Centella’: Así fue el paso a paso para la detención de ‘El Chapo Isidro’ en Guasave El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f0604a3839767b5c"
  },
  {
   "titulo": "Celebra Medio Ambiente 34 años de operación del SIMA en Nuevo León",
@@ -3523,6 +4495,20 @@
   "id": "6eca88cfbc44cdfa"
  },
  {
+  "titulo": "'NL quiere seguir con lo nuevo': gobernador Samuel García",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWFQV0U2OERqejIxQlRkOE1yWUxEYndNb0t2aUM0WHhpamFkMW80RENWdnMtUGNwZnN1aVNSU2JtdUJfYTlxYlF6RkkwVmRKTFBiZGVDeEVKYTVHLVROZ2c4Z0thRHMzVHNMajB0c0lXZ0dnT1FheTR5bmgwMmQ2VUZ2eUdPamp4Q2RpMF8xQlJoemJNRFFITFAwaFVIMzQydkw4OQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T00:21:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "'NL quiere seguir con lo nuevo': gobernador Samuel García El Horizonte",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "95e824d2c998d43d"
+ },
+ {
   "titulo": "Continúan operativos tras caída de 'El Chapo Isidro'; caen 8",
   "liga": "https://www.elnorte.com/continuan-operativos-tras-caida-de-el-chapo-isidro-caen-8/ar3319687",
   "medio": "El Norte",
@@ -4267,6 +5253,20 @@
   "id": "9d5c446a5e6f4e5f"
  },
  {
+  "titulo": "Su vida por la Patria: 57 militares han muerto en operativos contra capos del narco durante la ‘4T’",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVmFKcVdiVkowcTgzRFp5c0hvYlVBSmFKbkk1TGdhNEZRZFBzNzJyZHYxMjFQTVdOTUw2RTNZeFhJOGxHQXVIZ3U0c24wMV8zcTRMbzZkakdfU3ZUS0NMaDc4VmV4M3J0M1hBTzhrS3V0am1nemU5Y0lJcmRGYVBDWUx4ZHhBcE5YSlNKSWZVTk94bE1sN1lMZEtCMUdxSy1HNngwMkZ5cDFXWjFrc09VSjlkSUlubE1nSEJvWEFMSFJGbElIMTRmX0liSXhtTEFSNGhWeGFJUlpscDJtejhMTVVNNGFOblU?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-22T21:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "Su vida por la Patria: 57 militares han muerto en operativos contra capos del narco durante la ‘4T’ El Financiero",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "5642de1192d301e0"
+ },
+ {
   "titulo": "Mueren cinco personas en accidente vial en Colombia",
   "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVNCbk9ybTMxMWJodDBZbUN4aDJYNzJxZjBzUExHRUJVOXRTZG1ZclVGNkl4N3FoZU9nRjI1Y1huUXhmY21yX0xwakNuN0ZGRDVxMjhYazVCZzJWbEgxNG5lWTJiU3hxc1hYMklHVVBTZ0xGcWZUWGtKS2sybUlyNzlLZFBueGcyY0tlUURDWFBBZXF2RjV2eTJ3?oc=5",
   "medio": "Info7",
@@ -4980,6 +5980,20 @@
   ],
   "local": false,
   "id": "d16d52900249524d"
+ },
+ {
+  "titulo": "¡Paren todo! Hailee Steinfeld confirma su regreso para Avengers: Doomsday como Kate Bishop",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQk5lWExYZ1hELU91Z19td1hsS0Z1S1k2V05KaFAtX1FkR0FhOERLb0Z4WF9NYzdMMjFkUWhwNFJtcmVtcGFXVXcyQmdKclhUNnlHZmxVUktLeFhzZlJwUFkyeXJiNzlCREdqc3dKYWZ5WC1wVnIzTldTakc3T3VvMUttQmFxX245WXIzQ2Q2b0UxWTEwZFdWWUdfWkhmbHfSAZ8BQVVfeXFMTjM4Z0Zqbll5WWpBZjZaT0JkRUI2VkxCaUk1SVJYWGd6bkxrTnNBdVBpQjlVNGpaUjhkRUVoU0h5SzRONVRDZlNhd1BDenFpSkJYS0pZUE1TN3RkaXpJZWUzeTFEVGI1OUE0NDZzaTQyN1lodGppenQzOE10U2JOUFRBYjZudl8zWEpLbkF5YWFrRHU4c2IyaC14elJsck84?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-22T20:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T11:05:39-06:00",
+  "resumen": "¡Paren todo! Hailee Steinfeld confirma su regreso para Avengers: Doomsday como Kate Bishop Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "466aa4dbf972b53b"
  },
  {
   "titulo": "Acosta Naranjo critica al gobierno federal por señalamientos sobre la crisis del INE",
