@@ -1,5 +1,637 @@
 [
  {
+  "titulo": "El petróleo caro también se compra",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFVxY3VaUjN0RHZ6WE9aXzd4VDh3bWxGMFBJLWZxVV81dEtYdnlqVkNBWk9PN0pDbUxUY3lvWW1MOUFxUUhMeU9TemF2N3dNUXJfSVo5MkUxRkwxcDhuS2R4UHlmUDBHYXotR0RJNHF2bU16dXZ2WElkUmZjUzc0Ql9NUkJLUXBhYXBNN25DS3JjZmVwb25MRG1jMVZGOFZQQTVwcmZR?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-23T05:20:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "El petróleo caro también se compra El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e915afae158fcfcb"
+ },
+ {
+  "titulo": "Pobre Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0eXZpWDZfLTZqNWJldVpJSzVXb01ZaUdBVEc5WlZEOEgzUWJ0bGRhTjA2Vl8yRnVvVFJLMWs0SUwtc0pnZUVpX3Iwb3BtU1IyN3M5Q0d6RU9HSFJ1S1VuMDhQdzBQOFJtTHhNTA?oc=5",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:06:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Pobre Nuevo León El Norte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "67d7b656c7184038"
+ },
+ {
+  "titulo": "Fuerza Civil y vigilancia vial fortalecen la seguridad en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92UVJ2aUNBTlZSUUUxLVF0LThKTzRVOFdkNk1EY0J5bFJNZ1BidXplZkJGVWM5WnF3ZHJBR2x5aEtVWjF6XzV2TFVQVV9PU3ZVU2hyTXpkX1JhUXpGYlhqMER5Si1fZE5FYkM3dlBvZlZtWWlXOUJucHBDTklyalU?oc=5",
+  "medio": "Consulta Monterrey",
+  "publicada": "2026-11-23T05:06:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Fuerza Civil y vigilancia vial fortalecen la seguridad en Nuevo León Consulta Monterrey",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e0dbc2ac1d692258"
+ },
+ {
+  "titulo": "Reynosa se queda a oscuras",
+  "liga": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSDIySnNoN0NiUl9nX1h5WkRlQldfclFpbl9oLUM0Q1FDaG5fWGZLNjFWc0w0MUVFS01scDdzZ0lXSVRncXlrLWdGakR3S2d4UG95UnUwY2hWYVFwWFZRd01Gb0xta3BVN0tfWHNtUW5JY1lXdDVxZ3JmYW0?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:05:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Reynosa se queda a oscuras El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0dc739086ef91398"
+ },
+ {
+  "titulo": "El oro y la plata pierden brillo: el efecto dominó sobre Larrea y Baillères",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUtsb0paOUpfMEFYOE9jdy1RM19PSzVMeDhIdllFWURpVXdYRGVFY3dVX1pncl9JcXhyazBTRzhDYXZFeW85cmloME9lS0JCc05jd0dGZ3g2Z2pQeDJGQzdmVi1kY3gxdGtEVktLcE1EaWExLVdJY3kwYzhvN1pXWV9GR09vQVptWEQwdWc4cFB1MjFEbGJYdVZGaWtyVUJQTkJTU3N1b0xlbnNCQzhadzlja1Q3Y1dNUzRYMg?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:05:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "El oro y la plata pierden brillo: el efecto dominó sobre Larrea y Baillères El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f2723928759888ae"
+ },
+ {
+  "titulo": "¿Fue hackeada la refinería de Cadereyta, NL?",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcFp1VkF2enI1NVJhTVdJT3lwQUI5WWRrUEJXQXo4UWFocWZkTVRrTEFlUkl0VVdPNXdJTGx0aGZsekV1X19jY2Jvd3AxXzdubS1DS3M2NU43dElMZmJBcVNUS1JYMXhDQW1YOFpaOU1PSHFfS0U2dGhRZmtlNEVPYXlxVkN6bVd3YzFLTTZ2Y1A?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:05:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "¿Fue hackeada la refinería de Cadereyta, NL? El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d1881a34aeb732a5"
+ },
+ {
+  "titulo": "Que la Virgen nos proteja… porque los ataques no dan tregua",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ3J2T1lkTEFDeWhiS1RIcUZSd0dDY3AtUGdMYXI5aFcybFN5cVZJSkh6SnQxX014Q01OQmlidGFSTXdrczRKc2JsbXU3RHNuNEVNZElmc2ZYYzRvT0tuQXh4UzAySWxUcFlzNDUtN0kyWU13Q1dfdUNMU2hrTVVabUNFZWtXd3NtZUhYbkc0cVdueUt3TTgzLXhuLTJnTk9QLU9IYVFpWkhxaEJEYWVXMVlRNC1ob3B2NDN3QVdJMEhDU2c?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-23T05:04:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Que la Virgen nos proteja… porque los ataques no dan tregua El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2aa08cd0b0a3785d"
+ },
+ {
+  "titulo": "La fumigación de las monarcas: ¿destitución o cárcel?",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVZXTzhiSE5XRUVnNnBoSlE2SHR3QTZrdUFacHpfdkkybmtPQjFpZzFDa2U3UHJEeW5mcVozOTd0eDE5QWNZTHI0aWtUZTRxQzNUQk5zcTg5V3BBRnBIcXRFZnJCWmxmTGl3UWdNTk5YQXJiVUxLR21jd01nNEVDOVN2TnZSUGN1NWk4TjFfeXBXcFZ0ZWlLTEtLQ2E4SEFocDZMd29Ua2dpVjV6blhTZG5qbWFQNTdrM2l2ME1FWXFBaDTSAcMBQVVfeXFMT01aaHpyX29fSEpyRnB5SzdlUHczLXRlN2xTWXJqYzR2V3lCcU9iTjRqczZ3ZzFEN0R4QXhWTlNiSV9DZkFKSFpuTFhtR1lBYmYxaW85Q3hfbi1Oa1J6TmxKN1J2N3dTRXFjUjlRMEFMZ0xsRDVNODNsVFl4SEhyMzgxb0VvUmtZaDF6VVRPM3FWV1h4TDNOMmxDN3RhVHZqRGFrTE8xenN4R1RDR2RfNzJSN1p1eGR4dEx6dVctT1VnR3FB?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T05:04:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "La fumigación de las monarcas: ¿destitución o cárcel? MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a9d958825921ff40"
+ },
+ {
+  "titulo": "Destinan a obras en NL 16,606 mdp las Afores",
+  "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXQ0UXhDSDN2V0p2bnNGSk1fZmo1aFB0VDJWYmppdkV5VG55SWZjTzFtelpFV1dYVnRSOWRTWmRLcFlpYTJHdlZpOHZENi0zdE1fdGtHczdQa2k2M0RsbloxWDFhczY1bXI2Tjc3UHRrZElJNUVqaVlQM212YzZ6ZzVVVE8?oc=5",
+  "medio": "Reforma",
+  "publicada": "2026-11-23T05:03:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Destinan a obras en NL 16,606 mdp las Afores Reforma",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "21e8c4b8e1050226"
+ },
+ {
+  "titulo": "Lideran alimentos y bebidas aumentos de precios en NL",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDN2ZmF4MFJvZUpycXlqZGN0TXJpc25qVnVtR2U5bnpKQmRwbFpJZEdRaHNEaDU5TUlpTjcxSWRhQzQtZ09IRnZSRWJybE9aLU5zX0hNb3gzOVVlY2RLanRocjlSNjk3TGIwTGR3bkE0WFRaQlNuZ2Zna1RjTFljY0RFUmVLb0pURHNaVmJkQVY3Uy00aE5QOFN0SGxodnNDTXc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:03:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Lideran alimentos y bebidas aumentos de precios en NL El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "c641b89a12ac6393"
+ },
+ {
+  "titulo": "Drones y llamadas revelaron los pasos de El Chapo Isidro",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhtSldTRDAtVDJGcU03M2J6REVZSVh6VUowRzNibWxnMy1jcklhUklkU1FGMEJKQVNQaGZadS1QOXdHYU9mU2J5R1lTYS16aUZjeU5RX3A3RnFxRzNPdlRXRXlLd3YwOWFaUVRWREpKVnVkY2FtWWdiTTQ0MmRPcDRTR3M5Zm9scmZBTm9fNHc0RUE0bm8tYXhwUjBtejFXVjctTkxn?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:02:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Drones y llamadas revelaron los pasos de El Chapo Isidro El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "da7e22976689b753"
+ },
+ {
+  "titulo": "Dobleces: La señora ministra",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkpTdENGSnRYbHZDMXFzQVZLX1hXQ05ON1BrZnp1ZmpkU0tsTGVyWEpxRndFV04yaG56UVhNVHYzdFh0a0FsU1UwdVhZQVMyYWcxVTN5b2Rxa0hlZm9fNWJXUXVHRG9tZlBSOHZzYUhXS0l5b1RQYmNCQnFzUHB4OUdmTGdPMThKNXBjYw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T05:02:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Dobleces: La señora ministra Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ca738735ac4e8703"
+ },
+ {
+  "titulo": "Inicia la Navidad Norteña en Escobedo con música, shows infantiles y rifas hoy 23 de noviembre",
+  "liga": "https://www.posta.com.mx/nuevo-leon/inicia-la-navidad-nortena-en-escobedo-con-musica-shows-infantiles-y-rifas-hoy-23-de-noviembre/vl2282043",
+  "medio": "Posta",
+  "publicada": "2026-11-23T05:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "24b5ad4386550970"
+ },
+ {
+  "titulo": "¿Qué se celebra el 23 de noviembre? Origen del Día de la Armada de México y otras efemérides",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXA1WDhvd0NIX2ktRG5WYm8xczRWNXlPeTAtX3MtQS1vcHc5LVVsU2QyVVZ4anc0Z2o2VzY4NzdTTkozUTU0UDhpazFwc0FpSFo2TjQ2UExPVkZCQnFpY2dHcXJrV1ZRZzF2aUtMVGRaUkxkSVExLWxfcDhETlBtNXZRcWdqOEtfdjhhUHJhcEs1MXR1dUpCM0lFa3A3OHFiV3FfMHBuUWZLT3Ruak5qbVdjVm14dUxjU2w5bl9Bb3ZsU3hKeXhsSVpBT2Y1QVMtUXJj?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T05:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "¿Qué se celebra el 23 de noviembre? Origen del Día de la Armada de México y otras efemérides Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0741fd4f18ce84bb"
+ },
+ {
+  "titulo": "6 números de la suerte para hoy lunes 23 noviembre según la numerología, signos zodiacales y lotería nacional",
+  "liga": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmtIRkx2N3BFcEUxeGZySy13RDlTS3B2anp4OVN5bTl5dUZfajVvdnp6ZmV4TGpULVNPcWt4eXYwVGUzdTF2OUJkNGEwRTJqZ21Ja0NucGVfSVZCOTBLeXZSWGFVV2FJSjBEZ2VDSjdNd2FqZElra0Q4SkFueklmWDhOUGNpcmdXdE5nbHFNWUZJMUhhX2F1aFBEekNta1I5RkRSdENZb3B1M1k2TTI4U1lWZl80dU5WV3dqNDVpZExlNmtTQjZPSmZpVWlnUEc2WllUbEdIWl9kbWY4OW5VUkRMaHlPbU12YnJtaVRrX1pXM0ZzSGJjUkpyQQ?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T05:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "6 números de la suerte para hoy lunes 23 noviembre según la numerología, signos zodiacales y lotería nacional Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e55a0c937aaedbdd"
+ },
+ {
+  "titulo": "Plantean Comisión para vigilar elecciones",
+  "liga": "https://www.elnorte.com/plantean-comision-para-vigilar-elecciones/ar3319682",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:01:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Anylú Bendición plantea posibilidad de crear comisión especial que vigile el voto al advertir que hay intención del Gobernador de incidir.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "800b67855d17d438"
+ },
+ {
+  "titulo": "Recibe la Basílica ofrendas ¡con tarjeta!",
+  "liga": "https://www.elnorte.com/recibe-la-basilica-ofrendas-con-tarjeta/ar3319604",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:01:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "La Basílica de Guadalupe instala dos módulos electrónicos en los que los fieles creyentes pueden realizar sus aportaciones con tarjeta.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "543f982b3e8debc6"
+ },
+ {
+  "titulo": "Aplican 'mexicanada' a iluminación del ADN",
+  "liga": "https://www.elnorte.com/aplican-mexicanada-a-iluminacion-del-adn/ar3319678",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:01:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Luego de que usuarios denunciaron el cierre de operaciones nocturnas el ADN restablece parcialmente el sistema de iluminación de sus pistas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e05bb5d7b7485825"
+ },
+ {
+  "titulo": "Cinco años de una ‘naranja mecánica’",
+  "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUZXQ0RpX0k5WHBmeGNaZXNRTS15OUR5Wml5UV9pQXJHV19fcFpNNGR6a3d4VFMtZ2RXSVc2M2lIclVmM3MzSkY2el85cjQwX1Z0QUV4MG1GLS16QVcteHViVWMyVEhJX3FrYy14aE5jM3VONzJvS255NUNrcDA4ZEZ2RFNOemc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Cinco años de una ‘naranja mecánica’ El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "885bf2278be42f07"
+ },
+ {
+  "titulo": "Aumenta 82% déficit en Metro",
+  "liga": "https://www.elnorte.com/aumenta-82-deficit-en-metro/ar3319608",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:00:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "La caída en la afluencia de pasajeros y reducción en aportaciones estatales elevan 82 por ciento el déficit operativo de Metrorrey.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "476c2a14112e85cd"
+ },
+ {
+  "titulo": "Cuando el cuidado recae (sólo) en ellas",
+  "liga": "https://www.elnorte.com/cuando-el-cuidado-recae-solo-en-ellas/ar3319677",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:00:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Un sketch de 'Saturday Night Live' evidencia la desigualdad en el cuidado de padres mayores.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5625c7c2028071fb"
+ },
+ {
+  "titulo": "Se instalan puesteros, pero sin autorización.- Monterrey",
+  "liga": "https://www.elnorte.com/se-instalan-puesteros-pero-sin-autorizacion-monterrey/ar3319619",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:00:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "El Municipio de Monterrey implementa un operativo contra puesteros que ocupan la vía pública sin autorización municipal en el Primer Cuadro.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "9a8379a894b0613b"
+ },
+ {
+  "titulo": "Duplica NL deuda a corto plazo",
+  "liga": "https://www.elnorte.com/duplica-nl-deuda-a-corto-plazo/ar3319662",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:00:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Al tercer trimestre, NL registra un saldo de 3,369 mdp en cuentas por pagar a proveedores y contratistas en corto plazo, 93% más que 2025.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "662133f63db63505"
+ },
+ {
+  "titulo": "Perfila el INE pluris a modo de Morena",
+  "liga": "https://www.elnorte.com/perfila-el-ine-pluris-a-modo-de-morena/ar3319623",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:00:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "El INE perfila mantener la medición de sobrerrepresentación por partido y no por coalición, fórmula que favorece a Morena en Diputados.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "000cd31aafffb887"
+ },
+ {
+  "titulo": "Da EU ubicación de 'Chapo Isidro' para su captura",
+  "liga": "https://www.elnorte.com/da-eu-ubicacion-de-chapo-isidro-para-su-captura/ar3319607",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:00:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "El Ejército vigilaba desde 2022, con apoyo de EU, los movimientos de Fausto Isidro Meza, \"El Chapo Isidro\", capturado el 20 de noviembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ac63c6177cab39d5"
+ },
+ {
+  "titulo": "Cae gasolina a menos de $15... en sur de Texas",
+  "liga": "https://www.elnorte.com/cae-gasolina-a-menos-de-15-en-sur-de-texas/ar3319664",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T05:00:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Pese a la inestabilidad en Medio Oriente y políticas de Trump, el litro de gasolina regular cae a menos de $15 en sur de Texas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "eab95f5fa9574cd3"
+ },
+ {
+  "titulo": "Perfila Samuel García legado de su administración",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUi16VWhJdThua2VuenZlRkN0aHh5Rm42WVNfaWwyVG1oclV3dGhVS2M1Y2p1QlhhbWUxczFWTGdFbE90X3d5azhBbGNKM19oT2hmeW9MdjJ2dThGU25LYTRnU2RfNmlyb2V4R1N5UTF5dzJibDhwVTl3ckRzVnVNSkRfU1cxZ1o2ei1kTmF3ZzBQSFhDUDUtVURwTS1aZw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Perfila Samuel García legado de su administración El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "994fa0f36e1e6506"
+ },
+ {
+  "titulo": "Presume San Nicolás agenda verde, pero reprueba en reforestación",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmk1ajZZdENWRzMtdFY2eVVZeFZ6dy1femlKVGY0YzJEN0h2TmUxOWJUR1lkd3I0S2xvRG1USFdiWlNnbFo0N3BYbU10RTJUWjUtSFhtWXdyZTNKUTRFT3lhcHc5UkZtdzF4bHcxSjh0cVdXX0tUeHJlUHBRekk1ZWt6TWZQbDJIVG9ZTGJQdXdqT3lhalhjbkhYRXBHb0RSLWJ3TEphd0hpLW1mMlhlaQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Presume San Nicolás agenda verde, pero reprueba en reforestación El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7ce49df2b5f52c08"
+ },
+ {
+  "titulo": "Le apuestan a NL: crece 20% oferta de naves industriales",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjNPZXV2Q2VzZjl0TTBFdUIyaERBeGhXOGZLX253WmJiUDNGQl9kT2RzR2RrN3YtVHFWTkdpVTN1eURtLTgzNm03OEhrSlRtOENDVXp2ZThVM3RLX2E2LUVBZmM0dDRjSm1FOFoyXzVEQTRIcEpXbGl5Rnd2d1JBcjhONlRkM2NWWGFvRVFYc0R2ZkNxZ1M0NUVYaWQ4SFNfNDdJ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Le apuestan a NL: crece 20% oferta de naves industriales El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "19f2b7dd5b53da2b"
+ },
+ {
+  "titulo": "Pide nieta del exgobernador frenar obra de lujo en San Pedro",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHV3ZmlrOTVLcndvNVR0YTg0Z2JabDdVLXlsTzgxLXQ2NjQtekFuS1JoZzdSWUg5RkxnNjM5VUJnbldYdjh6UHVCV0xoY0VtZ3g1elE1cjUyYlpTNVJWNTNQb2p2bUhua3RQUGhVVF9mSVQxYkg5TUVNU0dpVW9BTThKYW1oaG1lNnZYY2o1MHN6dldnZUVsakE0aHE0am5MeW1uZmY2dW10d21q?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Pide nieta del exgobernador frenar obra de lujo en San Pedro El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "79249e7e9d889c3d"
+ },
+ {
+  "titulo": "Lleva Netflix a la pantalla el partido de futbol en plena guerra",
+  "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDNaaG9vSWgwTjZFcDhhbDVxUnJ4a3VuXzdpbVZFcHZWTWJFb2VrY2pzMVR4T0FhMWNRSXVRTlZ1UXlqTkp1VEw1Y3NFZlpzWFZjektFb3lMOUJQRXg0YlFod0NBWHZmQzE1cElMdVFORnNhWkZXLXRJc2t4Z0VYRlhDdjZiUGg4N0U3ZjJoczRoYzFud1kyRUpkcnFXUkU3MEtOdHZLVGxDVlluT1E?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Lleva Netflix a la pantalla el partido de futbol en plena guerra El Horizonte",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "2a605fd0b77950df"
+ },
+ {
+  "titulo": "Despiden en Roma a Paolo Bulgari, referente del lujo mundial",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTNaeV9QZm1wTkZuaG1abzl0UUxscmlFM3hFR082R19NeE5NM3ZwdFNSeHM2aVZhOWs0UEFBbURtWmRIbmc3VGlGdlNYZm9vNk9IejV5S3dWTkRTOTZZdEZiWlhyU3Vlckd2Q3dlLVgwNUR5UXZaU3pNRjlFSThkRmJuWVFvMkZjUlVNWGwteXhmWmw0NkFjYXdMNHVPa0gxd01yenhKWQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Despiden en Roma a Paolo Bulgari, referente del lujo mundial El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2b3ff0e0885e000f"
+ },
+ {
+  "titulo": "Final de ONEFA entre Auténticos y Borregos Monterrey ¡un Clásico!",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWdOR3lmSkNEZVVCcnJHUGhfSDNoTjYzVmhHWF9JTzJwYnZxTy0yQm5CQm1TS3hKS3RFUHc3dGtWQ3BBcllyaVVJLW1LNHA2TVYtU0J0UE5EOTB0bzhXVDVsT2JvTkJjRC1kbF9Ia0h6ODF5R3ZQWlhBVko4NU14MTVBSlViV214ZXpFcDNLbHdwaERoSERKMDMwTnhLMDR2ci1zTV9qQk5ERG1CNnB3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Final de ONEFA entre Auténticos y Borregos Monterrey ¡un Clásico! El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bb97c893495e7222"
+ },
+ {
+  "titulo": "Inicia jubileo por los 100 años de la Cristiada",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU25DWDh1aWptZElLVU53QmxJQ0ZocVVIaGlNZEQtZFI1ZzlvNi1yRjRtTi1vMkdqODJ3U0tLcTdvODBOb3hmb2VubGIzMkdEUE9sMUcyQnFVTUY0VVBXR1NiR1FVNHlwdDhudl9CV3Q1bTc0Zlk5aGNmOER1ZGE5VXN6TWlweTZGYTRRbWVqNHF5S1FCY2xDYnpxQ0VYcXM?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Inicia jubileo por los 100 años de la Cristiada El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d05dec5237ac8059"
+ },
+ {
+  "titulo": "Acusan sobreprecios en la gestión de Córdova",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZzhvZVM0ejluc2dmYUx3T2dfSVdZRXNZaHl3YTVyQ0JUazVpblJOSmRjSW81SGJjVHVPcDZ3V3BfcVdZYy1LMjZyWXBVc081YWMwNW8xTnNvNkYyeFJWLUJmZ2lxVHg3a2FFVUY5QlFkY2d1eXAySEl3UFhGMmxyZEtOa0ZqWGxqdE10T3BFcnMxaUpKbnc?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T05:00:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Acusan sobreprecios en la gestión de Córdova El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c9c5b56149bb3508"
+ },
+ {
+  "titulo": "Foco rojo",
+  "liga": "https://abcnoticias.mx/opinion/2026/11/23/foco-rojo-296295.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T05:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "81178a261710c4a2"
+ },
+ {
+  "titulo": "Hakeem Jeffries, el líder demócrata con planes contra la corrupción en Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1NTeFkyTU9GTXBmV1N6cHlUTHJXNDdzZnI5VExrek91bVVlZ3JZMzc4UGRfNGo0OFI0WnN3Q0lkWF9tUTlBTFZLS3B3WEFjOWttOVlzQjM0bWh2SVdpenlmNE5tUk5XVUxyZ0xjWDBwQ3k3QlVQb1lUWEhiUTZzYzY5d0M3am8wNm1OcTFuWDJiZk9Mb3NQRTJvd0xsRVFKR01CSjNwUW5rRml1WWN5MGE2cElueVFoZV9BUjBXSThpbVYxUzR5UHFXb25TV1M0cHFnQ2VJQm5xTFYyYzIxTA?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T05:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Hakeem Jeffries, el líder demócrata con planes contra la corrupción en Estados Unidos Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "621b320eda2195e6"
+ },
+ {
+  "titulo": "REDES DE PODER MTY: De advertencias y críticas",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYy0tMHhlZlBwekloZ2Nqc3V3WlVId3NFdUJvakpBbVB5OW5ORm1RSjFhZlB4NUFDdGh2a3hnNmdBc0oxcGVYQjNQbXU5ZXNSSG1veFVaWGZnWWp2Z1l5OEVHd0k2aXVfX3RTam5ySWtrelNLVFU3TFBUQ1pnSFhGeXU4YmFLMzJOSVA4dGlGLUFlcFRWRWl3TW9iREE3MnZpRWRaSg?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T04:50:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "REDES DE PODER MTY: De advertencias y críticas Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5457c1a22aa31a59"
+ },
+ {
+  "titulo": "La sobrevaluación no ha desaparecido",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3QxcWttOE5xS0Nrb0hCU3EzSkJWR3RVNnFLS05JWlBoTWl0RlE4Nmc2VXBxbjR6UDhhTDhEWXpNMUxXajF5WUU2NTI3X3JFelQzY1lXYlQ0QjZTVmVRbmFQQjNTZGZvY3dQOUNaQXBTa3pvaDNoVV9Oa3FSQWdQWVZsS1RKT3lfeEFWZXczQkpCUkNGUjJjMVF6WmVwX2dqT0VTVWFUZ0g?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-23T04:44:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "La sobrevaluación no ha desaparecido El Financiero",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b1962f4f88bd4511"
+ },
+ {
+  "titulo": "¿Mariana o Félix?",
+  "liga": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiVW5pZzEyVlhnSXhqS2RWV21LeUtPWTdLWXQ0M2Y0UllfaDBQMlVjMUUxTG45SXkwVjNqZGo3REI3Z2dNa0JVanZrMDluTXhXUkNybjdIMGhuWE5oSE83X0ZZcGhZRExJSzRwbERtaTU0NHhEbTVtS05KaWPSAXxBVV95cUxQX19VZVJGWFdGZ0lnZlNhblZjS1ZCbGdWZVk2anpHRjVzakFpYjJwMFBrUlp0eC15X0VVR2R4a0NXVUhDNS1saVFVdjc5Zkw2M1h4RWRkZERfZG1ycnAxdjh0WWdLaXJVb0RjNEFZMGo4ZXZqV0pCdnRoOFJ4?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T04:42:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "¿Mariana o Félix? Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ee5cd3eb64e66a74"
+ },
+ {
+  "titulo": "Trascendió Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHhlNHBWdXpOallyYjZWUEpmay05SkdOd3Zzb182dkNzM05vUjZ4UGN1VnY2NHNZd1JWU3ZrQUJpeElQQ2FvUDBtb2c3Z3dzOWgyeTE1aFRwS1ZMX3BRVHNyUkRRNTBwSlN0SkUyZWs5OTZBQUlDMFphSlNkbFIxUm9RQWR5UldkQTUxMFI3OFl0YVpn0gGUAUFVX3lxTE00SWpjT2NQbmkwSE1vel8zY0NtOWF6MkhoUlBGTVFtd2wxaXlwY0VqSmR1ZHJiTVI3bFpCUnMwbTYwVmJOZFNSbkR3UW1NT1dpQUhQcml0NnZiOEJvbUd1dlRkOHNBaHVNSzduU1dFampmMzlVUEpzMlJMa21qbWtIRklBNGowMzhTNGhJZDNDR1RZNnY?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T04:31:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Trascendió Monterrey Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d83b7bf995476fe7"
+ },
+ {
+  "titulo": "Viva Aerobus y Volaris todavía no cuentan con aval de la CNA para su fusión y ya se comportan como los dueños del cielo",
+  "liga": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORmxGTTlYTEtQMzNpc0xYMng2TWV0OWJFOUtJZFIxNWpHYzdkY0tHXzZRaXJnSlhxMWJmUXV2cmd3TVZWZ09QX3ZQMWpwVUtsdUZORFB1YnhHT3Y1a1pPMTNQZjBTdWloMHI0SlNNQ0RvSHlBNWR2VGhNYWZLM2RCQVZNcEFLRnVGUVVqYV9Eb3UtYWtSeTI0UGlmVGpuSGlxTVhPcGphWGlVeXBCbDZuRDlwcU9JaFpjblQ5cHFuZmRNTV9DXzZsZG53d1YtRm04WEJ3eWRDYlIwSGJZdUhSbTVGeXFJdnFHZmUtM0VGcnB4NTZxN1lPLWkzLXloTEJVRVUyU0dR?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T04:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Viva Aerobus y Volaris todavía no cuentan con aval de la CNA para su fusión y ya se comportan como los dueños del cielo Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "03ecd52052fa0ac6"
+ },
+ {
+  "titulo": "Precio de la gasolina en Nuevo León este 22 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHFib093dDIzV2l4UlFLcVVfRVhwTmIwY0FJc0UzaEZPdDVkZnNjTzNPNnFJN1BNcHQ3ZkhBdk44b3IxS25IM2x0aWc3NEtwMG1IV0F5NUd2a1ZNWGZsb1RzeXdvaWJBSE9ybVAwTW5ZVmR0WW1hZE5kRkFuNnV5amNpZFVOaFhjSndwWEcwVnZITG1XX2J6MWlDQnpjb0RM0gG7AUFVX3lxTE5ULTczbFBET0o0UndRbTdWYlBLWnowcHV4SEQtTGltYU11RmFZeVh3aUNtdWdacml3Z1AzLTdZQmFMQkQyY0tmZ2lrVmVfbTFpM2lDWVg0bThuMnBaY1JWWDBBSW1DM2trTjQ3cjc3MWZhTUlwdG1JZVRmLTkxcXRWLTREdmdKRW9xQkZhemZVZkN0RFRfWjloUVA2V0Z5aDdiWFhDdWJPLWxfLWZiNUZzZXVoTm1hZUsxZjg?oc=5",
+  "medio": "Infobae",
+  "publicada": "2026-11-23T04:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Precio de la gasolina en Nuevo León este 22 de noviembre Infobae",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "7ad1ad08280b0c1d"
+ },
+ {
+  "titulo": "Horóscopo de HOY 23 de noviembre: Combinaciones matemáticas para ganar loterías, triunfar en el amor y más",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObldaVWJfMktnTTl1YWl3M2lfUy1ZbzlMb1NncVQwSGVoVXhTQXFRWklEWHdvcEkzM2d1RmZ6bmpDX0tnSkVZUlZ1X0F4b1dBalJYaHVGOVpScE4yNzFOSXdVZWN5b1BKVzJDb242TDlCTGtaekFENElrdWh6eFZ6eFRWMENhZDUtYzVPTWE1cDEtTjRYN1QyZ0pycUV6QVc2T0N1VGNfSnNQdXlUYXo0?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T04:15:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Horóscopo de HOY 23 de noviembre: Combinaciones matemáticas para ganar loterías, triunfar en el amor y más Reporte Indigo",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "5e7b6e98b02101c8"
+ },
+ {
+  "titulo": "REDES DE PODER",
+  "liga": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CSFM0RlktZHRuQzRuLTcwXzNSSkNmRkJyM3lORWk4bHozSlhMTVNwUms2UGtxOTJJT2NoZ1MyeFZYM2U0OVBfcldyT0x3QTJvcG5SRDRFYkVLSVkzbG5xX3MyY2xTT1BBYTRGUzBwQzlOVlBVZ1RVc25law?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T04:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "REDES DE PODER Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c3f23f49c896f71c"
+ },
+ {
   "titulo": "Brigadas ELLAS llegan a Juárez por el 25N: consulta fechas, colonias y servicios gratuitos este mes",
   "liga": "https://www.posta.com.mx/nuevo-leon/brigadas-ellas-llegan-a-juarez-por-el-25n-consulta-fechas-colonias-y-servicios-gratuitos-este-mes/vl2282035",
   "medio": "Posta",
@@ -12,6 +644,20 @@
   ],
   "local": true,
   "id": "a496551a0bbc96b5"
+ },
+ {
+  "titulo": "La violencia en Donceles",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0c5cmswU1ZlZWJFbkJtQVBra0JsRGxFNnRrQXlxaXduOWhNcVhWWlZkaFlEeWxUcUFpQTd1QkRGa1RRMTlYcVJKdFdsSTZ5RVJIYThTc3JlcjQzMGZacElqSkhDTHdHTmhsd2I2akEtQWZ4QVQzR0RLN09RLVBDSTdWMXk0SEhhUGhZNDhvVTdyMkN4ZTZpVHZPcw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-23T04:12:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "La violencia en Donceles El Financiero",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "be405e1bf5f0c773"
  },
  {
   "titulo": "¿Tu intestino está pidiendo ayuda? Aprende a escucharlo",
@@ -787,6 +1433,20 @@
   "id": "0a3871e93f3112c0"
  },
  {
+  "titulo": "La Bebeshita es la eliminada del juego en La Granja VIP 2",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUNrVEZ6VFA3a0hlRXRnTGFHMi1Oa3hwRU5NY3I0M2I4a092bHVJeVpJakRqQ1Q2RV9sai13M0N2YktJR2RNV1Naa0szeGk3eDhSdnVwSVJ0RjJ2NG9CdEt0SHZPSVdXdU1xaTZNQkprQWFIczFuSFlSRUFfdWpyTktnbVBjX1BITnJCNzlLenpvb2x0QXdzem9jWm4xLXpGZzllSA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-22T23:23:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "La Bebeshita es la eliminada del juego en La Granja VIP 2 El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e5cbb8ab622e31a0"
+ },
+ {
   "titulo": "Tigres inicia sus vacaciones tras finalizar actividad en el Apertura 2026",
   "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOEVNYmlJTDYxbXpkeGY3SG9GQTh0eHdIWDM3Zi1FaDM1ZVo5NEtyc1NDZnlRTWJGNFl6NkFwR1BIVldfaDgteU9CTTdSYUVTTU9qa1J0cVFKYkVGaGJCbU9QTTJ5X2gxNXlCdWE1aW5QQUZzTGd1OGh4NHBfR0lmMlZrMC1xMTJmZnRKQk5TVk5YNnQ1VzNaQmluTVBIWHdBeXE0d0tfMmbSAagBQVVfeXFMTm1iZEVPdktzUUNqSU9odXhKMGEtZ0NtY1VRMmU0UWNnWGNKUTlzS0tRUHItbGVEa2s2YnhaX0ktbDkwaVhKdUxLaUstdFlIaGVSamlZMExBaFhoUVFyckJyMW1admNIMHFyM0RjN3lxcEk5MFVuc0w5bFg3RnBMWlRUZXpVUjItVkRYbFRYYzNYbGdIZUV3ME5HUEd4S1BEUzZoOXV3STZM?oc=5",
   "medio": "Milenio Monterrey",
@@ -925,6 +1585,20 @@
   ],
   "local": false,
   "id": "b0b890a01130912c"
+ },
+ {
+  "titulo": "Proponen consolidar una megarregión industrial entre Coahuila, NL y Tamaulipas",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzhibzl2amtoZS00Ny1RVkRxSm91OE05SDB2U2hscXN4aENCUXZLOEF1b3B5aHB0bUVZcGt0bzZUczktRTJFNWRfdmYwZmV0aEJhQVZKaEhXbmxJR2tvcFpEZFAzZ3k4dHlYeEdYRmhlUlVuZTVWMnZvQ3cwRmdqTUJpSUtfZzVjRGV3SWhpcFR0bm5zdGc3Q0JHSTBmNWlXUktCR3VyWXlWQUVLMjNEbXQ4YnVzXzNybDBNbA?oc=5",
+  "medio": "El Heraldo de Saltillo",
+  "publicada": "2026-11-22T23:00:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Proponen consolidar una megarregión industrial entre Coahuila, NL y Tamaulipas El Heraldo de Saltillo",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "c092153fb44653e4"
  },
  {
   "titulo": "Rayados regresa a Monterrey y ya conoce a su rival en Cuartos de Final de la Liga MX",
@@ -2327,6 +3001,20 @@
   ],
   "local": false,
   "id": "474d757494d52970"
+ },
+ {
+  "titulo": "Reconoce Trump captura de ‘El Chapo Isidro’ en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanY1X1VscEFBVUt2Mm1OYnhBTW8tTlJFcGYxMTA4X2NpVXNTU3pwc3dSR0M1aXFZRXg1RzNSUWRSQUJBVk1qazQwMm5nX1VCazZqZ3dLdE9MdnRXY3ZERHA4cE96Q0k5bjhQOVY5eEsxbUVteC1rR2syNnF1S0ZZTHUxaUxyNndPcUhIUV9lTEtiRVE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-22T19:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T05:29:02-06:00",
+  "resumen": "Reconoce Trump captura de ‘El Chapo Isidro’ en Sinaloa INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bd068dd351561ce1"
  },
  {
   "titulo": "Portan guiños a México, figuras de Vikings y 49ers",
