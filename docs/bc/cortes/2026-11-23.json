@@ -1,5 +1,381 @@
 [
  {
+  "titulo": "Comerciantes de Tijuana esperan incremento en ventas por Thanksgiving",
+  "liga": "https://elcongresista.mx/politica/baja-california/comerciantes-tijuana-incremento-ventas-thanksgiving",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T20:32:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Comerciantes de Tijuana esperan que Thanksgiving incremente el turismo y las ventas locales durante el fin de semana.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "c7b75f0b8c3b0372"
+ },
+ {
+  "titulo": "Desaparece Emilio Toledo, director de Protección Civil en Cintalapa",
+  "liga": "https://elcongresista.mx/politica/chiapas/desaparece-emilio-toledo-cintalapa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T20:31:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "La comunidad de Cintalapa, Chiapas, marcha exigiendo la aparición con vida de Emilio Toledo, director de Protección Civil, desaparecido desde el sábado.",
+  "temas": [
+   "Seguridad",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "852449a7056a9527"
+ },
+ {
+  "titulo": "Tamaulipas refuerza vigilancia carretera ante aumento de visitantes",
+  "liga": "https://elcongresista.mx/tamaulipas/vigilancia-tamaulipas-vacaciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T20:30:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Tamaulipas refuerza la vigilancia en sus carreteras por las vacaciones, anticipando más de 18 millones de visitantes en 2026.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "af19a956bf80e853"
+ },
+ {
+  "titulo": "Mujer detenida por violencia familiar y amenazas",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00cUtHcmRKM0JXTFJMWVgtR2lSOV9rb283LVRsVjY3ZWNzRzdfLXNUdVczY2loMFkzZDBkekE1ODRvdzBYU28tT3F2MUt2YXNOTk82dGg1VjZINjA?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-22T20:28:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Mujer detenida por violencia familiar y amenazas Ensenada.Net",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "19fd8f4d30a2a86f"
+ },
+ {
+  "titulo": "Comerciantes de Tijuana confían en que Thanksgiving inicie una buena temporada de ventas",
+  "liga": "https://zetatijuana.com/2026/11/comerciantes-de-tijuana-confian-en-que-thanksgiving-inicie-una-buena-temporada-de-ventas/?utm_source=rss&utm_medium=rss&utm_campaign=comerciantes-de-tijuana-confian-en-que-thanksgiving-inicie-una-buena-temporada-de-ventas",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-22T20:28:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Las expectativas favorables dependen de la percepción de seguridad, la agilidad en los cruces fronterizos y la confianza de los visitantes, señala Julián Palombo, presidente de los Comerciantes Turísticos de Tijuana",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ab03ca0cd9bd3631"
+ },
+ {
+  "titulo": "Promueven ley para la atención de personas que padecen Lupus",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2c5alFqZDZFcExPdEtGbFdrdjFOeG5tTzVwcVBkZnh4MlJ0WHE5UUxIR0RpSWRxYmZSbzYtNmZpSVJReFlIeFlBRVdnOG1WdHhIOFVuOUl2bmJGY3RLV3IydVFzbzBDWmxzTlZKR3dhRnRlaTZiN0xXS21DU0xybG5GcFBuNThESFpFRFBjeG8xbUVlNE10dGEyOV9ZSTNNUmhOaWRkUDNqakVfdGNzZw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-22T20:25:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Promueven ley para la atención de personas que padecen Lupus AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1d39af87306bd234"
+ },
+ {
+  "titulo": "Fuerza Estatal recaptura en Ensenada a “El Checo”, señalado como líder del CJNG en Tecate",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFplT0pvLUo4V3F2VEtZLTloQVBqMWhreVVVMW9paHRXWGxLTnRrOGlQVHNWWklMZFJZVnpFTXVBZ3JybGsxNnc4dTFXNEdpVjlLZzRBWGxveVRIMEhidEM5eTZIQTBpd1llcVJYYWFiRjl0MkVBWGI1ZkROellkQlFNMFFSYTJXcjJ1dFRIUkd3al93TzF6SWdzT21UMFkzdkpETkczcXZkWlNwZ2hDVDZ0ZV9Oalg4dGgzN2NtNHNfZEFlNnFmaEdEb0tkSnFWbkxINE9vbw?oc=5",
+  "medio": "La Jornada",
+  "publicada": "2026-11-22T20:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Fuerza Estatal recaptura en Ensenada a “El Checo”, señalado como líder del CJNG en Tecate La Jornada",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3632615ed4d4f572"
+ },
+ {
+  "titulo": "Investigadora de UAT presenta estudio sobre metales pesados en suelos",
+  "liga": "https://elcongresista.mx/ciencia/investigacion-metal-pesado-suelos-caneros-tamaulipas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T20:08:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Investigadora de la UAT analiza metales pesados en suelos de caña de azúcar, hallazgos clave para la salud ambiental en Tamaulipas.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "50827d475177a2f5"
+ },
+ {
+  "titulo": "DIF Coahuila y Salud realizan 112 cirugías a niños con labio hendido",
+  "liga": "https://elcongresista.mx/politica/coahuila/dif-coahuila-cirugias-ninos-labio-hendido",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T20:07:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "DIF Coahuila y la Secretaría de Salud han realizado 112 cirugías a niños con labio hendido en tres años, mejorando su calidad de vida.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aaac7260ceecf77e"
+ },
+ {
+  "titulo": "Debut triunfal de Socios, Hussong’s y Lucky 7",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVVjSDc0a3RwaERuS2g3Z3FOMTFzTkYyYTB1SElzUm00SloyVUprVEloTXowcnJHSFRjZDRsTnhEVm5LSno5bTNIbThPa2FQTWZiZlpPUjhTMGZPeTg2M05EdFZxcVV4MHdKTE1Ra2g5Q05EOFAydVVVU3J5SjZmcDJtWEJvWUtTWmU3ZFhkMTlZNUV6NjhDSnRJcmhNSXFG?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-22T20:07:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Debut triunfal de Socios, Hussong’s y Lucky 7 El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6c7a34fd3d69f6c5"
+ },
+ {
+  "titulo": "APEC 2026: China destina 20 millones a cooperación tecnológica",
+  "liga": "https://elcongresista.mx/tecnologia/apec-2026-china-20-millones-cooperacion-tecnologica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T20:02:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "En la cumbre de APEC 2026, China destina 20 millones a impulsar la cooperación en tecnología digital y flujos de datos.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "816a519c48a2d03e"
+ },
+ {
+  "titulo": "Morelia: mujeres impulsan el comercio local en mercado con trabajo arduo",
+  "liga": "https://elcongresista.mx/politica/michoacan/mujeres-comercio-local-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T20:01:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Mujeres en Morelia trabajan arduamente en el mercado local para sostener a sus familias y fortalecer la economía comunitaria.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "98028f10157e3a62"
+ },
+ {
+  "titulo": "Ensamble japonés NOMAD colabora con Rodrigo Sigal en Tokio",
+  "liga": "https://elcongresista.mx/politica/michoacan/ensamble-nomad-colaboracion-rodrigo-sigal-tokio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T20:01:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "El ensamble japonés NOMAD y el compositor Rodrigo Sigal colaborarán en un innovador proyecto en Tokio para 2027, integrando tecnología en la música.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "10d468161c21d405"
+ },
+ {
+  "titulo": "Benito Juárez registra 13 mil 207 nidos de tortugas marinas en 2026",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/benito-juarez-tortugas-marinas-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:54:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Benito Juárez registra 13 mil 207 nidos de tortugas marinas en 2026, un récord en la región.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4e8427ce6d5effe1"
+ },
+ {
+  "titulo": "CDT e IMCO presentarán estudio sobre competitividad urbana de Tijuana",
+  "liga": "https://elportavoznoticias.com.mx/cdt-e-imco-presentaran-estudio-sobre-competitividad-urbana-de-tijuana/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-22T19:52:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "El Consejo de Desarrollo Económico de Tijuana (CDT) y el Instituto Mexicano para la Competitividad (IMCO) presentarán el próximo viernes 27 de noviembre los resultados del Estudio de Competitividad Urbana de Tijuana,... La entrada CDT e IMCO presentarán estudio sobre competitivid",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "27056cb73e3d25ab"
+ },
+ {
+  "titulo": "Recapturan en Ensenada a “El Checo”, señalado como operador del CJNG en Tecate",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnlQMkJTb3lyZm5DZmtVc3hxcDR3d2stWVF0VHpzU25DRU9PSHI5MktiZHY2a3hwU0c4OEZFR3E4dXpiUzdsZEpVeTQtTGdzdHktUV9WTVoyZURNbW1wNFVkUlNvd0lEdjAtV2pzNmJoeFR3X1daZV9iSXRBcHhtZGxNZ1pkMVZ2UVdSemdxRlZHQk85c1NLR1NlWmFndndOaUY2ZTJQRQ?oc=5",
+  "medio": "24-horas",
+  "publicada": "2026-11-22T19:49:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Recapturan en Ensenada a “El Checo”, señalado como operador del CJNG en Tecate 24-horas",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3670d7a626c8afa7"
+ },
+ {
+  "titulo": "DIF San Juan del Río opera con 63 millones de pesos en 2023",
+  "liga": "https://elcongresista.mx/politica/queretaro/dif-san-juan-del-rio-63-millones-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:48:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "El DIF de San Juan del Río opera con un presupuesto de 63 millones de pesos, de los cuales 2 millones se destinan al programa Mitad Tú, Mitad Yo.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "433c01bac57ce57d"
+ },
+ {
+  "titulo": "Evelyn Sánchez plantea acciones para proteger el patrimonio de familias en Tijuana",
+  "liga": "https://elportavoznoticias.com.mx/evelyn-sanchez-plantea-acciones-para-proteger-el-patrimonio-de-familias-en-tijuana/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-22T19:45:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "La aspirante a coordinadora municipal de la Defensa de la Transformación y la Soberanía Nacional, Evelyn Sánchez Sánchez, presentó propuestas para fortalecer la protección del patrimonio familiar durante una asamblea vecinal en... La entrada Evelyn Sánchez plantea acciones para p",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1e8e925b21709f6f"
+ },
+ {
+  "titulo": "Investigador de Anthropic afirma haber demostrado la hipótesis de Riemann asistido por inteligencia artificial",
+  "liga": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSW56QWpYV1lrZUhWRmNvRG55bkIxaHZwalBKWG15U1RCVTdOY0JnQ1B5M1doSFkwMjQ3SVIyN3ZtejFJUXh4RGZBM3hWeEZTY3U0c0V0Z0JnTVpFZFB5SFVPd2NPTlU5Wmp6THVPS3J5a2g3OTdEUThFYWllek5sR3pmQmlfYmxWN1YyUFNsQ2p6U2lhTDFSREtJUW1seTJ4Qklmdk1PYmt2dHViNGZ0dTFkRVNONTlrSWtzT09Wc1ZFakxydDJnREMtdXRrWElhMl9pWDd3NTV1VnhUM3UwN0REWGpDelExUzdCVXVB?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T19:40:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Investigador de Anthropic afirma haber demostrado la hipótesis de Riemann asistido por inteligencia artificial Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "454d8f23ae9744e8"
+ },
+ {
+  "titulo": "Guanajuato genera 2.6 MDP en el Festival de Tradiciones de Xcaret",
+  "liga": "https://elcongresista.mx/politica/guanajuato/guanajuato-festival-xcaret-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:37:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Guanajuato genera 2.6 millones de pesos en el Festival de Tradiciones Vida y Muerte 2026 en Xcaret.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f7bd1b3c4df5015d"
+ },
+ {
+  "titulo": "Resultados Tris De las Siete hoy 22 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-siete-sorteo-36981",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:35:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "El sorteo Tris De las Siete número 36981 se celebró este 22 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8d2d19f85086e32f"
+ },
+ {
+  "titulo": "Solicita Fiscalía de B.C. ayuda para localizar a Rachelle Huerta",
+  "liga": "https://elcongresista.mx/politica/baja-california/busqueda-rachelle-huerta-ensenada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:33:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "B.C.: La Fiscalía busca ayuda para localizar a Rachelle Huerta, desaparecida desde el 16 de noviembre en Ensenada.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "03a80bb9e3063c5f"
+ },
+ {
+  "titulo": "Buscan a Rachelle Huerta, joven de 21 años desaparecida en Ensenada desde el 16 de noviembre",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOakUzbnpzX0hZdEtJbGRzcVpHdG1HcVBGRlhMbjJ5TEZ1X0VNWTFfNjQ2Q1YtWnJXSHNNM05PdjV0QkdaRExxNFFpT2hiMGgwaGs1QlJtSXZKaFdUaXlQakJsd1dXdldBNEZkMUJKVTZvR0JxMWJjQzQwYjF3YlFLT1Q0Q2NoTEZHVkdV?oc=5",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Buscan a Rachelle Huerta, joven de 21 años desaparecida en Ensenada desde el 16 de noviembre El Congresista",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d389b853a2493a88"
+ },
+ {
+  "titulo": "Fallece el periodista Humberto Padgett a los 51 años tras cáncer",
+  "liga": "https://elcongresista.mx/estado-de-mexico/fallece-humberto-padgett",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:31:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Humberto Padgett, periodista y escritor mexicano, fallece a los 51 años tras una lucha contra el cáncer.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "ac97059d3ecaa61a"
+ },
+ {
+  "titulo": "Pide Gobierno de Colombia a X suspender cuenta de Gustavo Petro por presunta incitación a la violencia",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPelZJZkNyRGI5bFI5N0hTd2tGZFRiZnN4dzFjcUZmeGd5UVlueG5pOFhQYlJJZ3Z2a2NWdU56aEpMMDk1b01OM05qTFJrRGsxOGxZR2ctdi1KaHRKTDhmR3R5Vl81WmNUQmlGQ3BidFBpN1pXTnR0TU9RTjA3TDBlUWpnQ1N0a2Y4N0JCNUkyajVOZDQ0c0NzZktTTVAwdkhfWjc1N1RDUDJuWjQ0ZGdaQ2lzdThUaWpiVjhZSzFaYjF2TmdFY3QyR09zUkQzZzFjYnhMOFlqYlRGdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T19:31:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Pide Gobierno de Colombia a X suspender cuenta de Gustavo Petro por presunta incitación a la violencia Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "58019601f4a2f9c5"
+ },
+ {
+  "titulo": "Sinaloa registra 121 feminicidios entre enero y octubre de 2026",
+  "liga": "https://elcongresista.mx/politica/sinaloa/sinaloa-feminicidios-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:30:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Sinaloa registra 121 feminicidios en 2026, lo que genera preocupación entre defensoras de los derechos de las mujeres.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "49ed0dcd2c6421bb"
+ },
+ {
   "titulo": "Mil personas marchan en Guadalajara exigiendo agua limpia",
   "liga": "https://elcongresista.mx/politica/jalisco/marcha-agua-guadalajara-noviembre",
   "medio": "El Congresista",
@@ -87,6 +463,20 @@
   ],
   "local": false,
   "id": "f3ade6a1eb615fcb"
+ },
+ {
+  "titulo": "Muere Humberto Padgett, periodista y escritor; luchó contra el cáncer",
+  "liga": "https://www.uniradioinforma.com/sociedad/muere-humberto-padgett-periodista-escritor-lucho-cancer-n915730",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-22T19:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Luchó durante más de un año contra el cáncer.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "8ac2d2c39373ca97"
  },
  {
   "titulo": "Buscan a Rachelle Huerta, de 21 años, en Ensenada",
@@ -335,6 +725,20 @@
   "id": "7db0761c51d61005"
  },
  {
+  "titulo": "Recapturan a ‘El Checo’, presunto líder del CJNG en Baja California; lo ligan a homicidios",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVTE4VzFGcFlFalVqdFR0bnoxNy1PQi1KNkhNWXJ2X0tCTHk0WFRDcEtjQUtmWDdmYzVQd0xrcllia2k0ZHpfVVlUM0dOWGZVcG9HWGlsX2IwWU1wdGduaE9xMVdXY3l3eGhaTENYczc1dFhGTnc3Y1NvYk1KQllkVktzd0JfSTl3dXVnZlRoTjM5WUYzWHNQa1dIVTFYRlBjYWNSa280NnEwcmMxZUtGQktBYjNWY2lkXzNKbWQ0NVlQNzVYck85OE9tdWNfa2hfdTJyeTRsakpRVXZ3bjM1SFZ4SXJ2dmvSAewBQVVfeXFMTjY5U3VkUWVNbzJ0bDdTdmd5VVlIdTJ6V2llRWNPcUFLTFBnVEZnQUlXQjJTb3Joa1VNMVpRNjF4cTd1WEpZdF9GeVJNYWRUTm55bS15ZjNzei1kMmdLcFUxQkl2TlpYOEZ2ZGZ3dEpKSVBRMUhrLXdtSGtrU3BkcGpIbW9ISWRVemlVVWtQczRGSzBSMGwyaE0zZmhlWk5lSWhlb3VEbHVOWGN0WkludzZYLXJGM00xbnNZcWNoTHIzZ2liNEZMV1RZWnJnSThFcWNET2kxOFdXY0MwNnU3QnBHZEtIbWwyVmRKRkw?oc=5",
+  "medio": "Radio Fórmula",
+  "publicada": "2026-11-22T18:46:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Recapturan a ‘El Checo’, presunto líder del CJNG en Baja California; lo ligan a homicidios Radio Fórmula",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "de9f387bbd1be281"
+ },
+ {
   "titulo": "Accidente en Coalcomán causa un muerto y 9 heridos de Aguililla",
   "liga": "https://elcongresista.mx/politica/michoacan/accidente-coalcoman-aguililla-noviembre-2026",
   "medio": "El Congresista",
@@ -406,6 +810,20 @@
   ],
   "local": false,
   "id": "210eb7805cd5cc32"
+ },
+ {
+  "titulo": "Realizan en Tijuana el paseo \"En bici a ciegas\" para promover la inclusión",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUh1T0kyNkJ2Smg0bmhJbWt5X3FFV2hvRFJZTHRkS1VXeGZiTUhPNXA0S1VjMWN6eE1BOWV6OTVvd1BqQ1oxUUdpTzNXeWN6c1h4ekFHZ0RlZHpqWGg3ZVVGMG1TYnVqU3dmV09SSGwycHNKZ0EtajFHM1A4SGptZFNBQjVCelgwTm5wa0pNSnl1S1g4VmxPeVN5ZjB5Qk8zY1ZzVGlfc1BJRWtZVVVQSDBn?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-22T18:32:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T20:36:58-06:00",
+  "resumen": "Realizan en Tijuana el paseo \"En bici a ciegas\" para promover la inclusión AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3130352dac91b706"
  },
  {
   "titulo": "IEM advierte sobre recortes que afectarán autonomía electoral en 2027",
