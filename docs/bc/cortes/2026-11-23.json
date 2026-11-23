@@ -1,5 +1,515 @@
 [
  {
+  "titulo": "Industria de la Transformación en BC: 4 años recortando empleos por costos labores y aranceles",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGs4VnNsUUw2T3JvUFVzZ0N2S0JENXl6enc1TzFTUnVnR3hudGQzQ1VsN0hDUlpIWlpwWkpVWUdfdE5QS2RXa1JVLUJGMGFuTnBiSmV0ZEdPaGdjS3ZDQTZYYk9leXNXUkwyZ0xUUnBpa1cyaTBFbzlEeDlZMzhhS0FXX3JET0Zyb3BtbnJNRWY0MjRQVmE5cTAtRjV4S1lienQzenp3TXM2ZEtIUnVROFExdWtlNU9LNWF6a0pJWUlfdUVfSHo1LUNxRUxyZVBBdHc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-23T08:26:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Industria de la Transformación en BC: 4 años recortando empleos por costos labores y aranceles AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "b89ca90c0cfe93e3"
+ },
+ {
+  "titulo": "Nvidia restituye a Huang como presidente y CEO tras voto unánime de su consejo directivo",
+  "liga": "https://zetatijuana.com/2026/11/nvidia-restituye-a-huang-como-presidente-y-ceo-tras-voto-unanime-de-su-consejo-directivo/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-restituye-a-huang-como-presidente-y-ceo-tras-voto-unanime-de-su-consejo-directivo",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-23T08:22:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Las acciones de Nvidia subieron más de 25 por ciento en operaciones previas a la apertura del mercado.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "24d1f2458ee45502"
+ },
+ {
+  "titulo": "Sheinbaum expresa condolencias por los cuatro militares muertos en el operativo contra El Chapo Isidro",
+  "liga": "https://zetatijuana.com/2026/11/sheinbaum-expresa-condolencias-por-los-cuatro-militares-muertos-en-el-operativo-contra-el-chapo-isidro/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-expresa-condolencias-por-los-cuatro-militares-muertos-en-el-operativo-contra-el-chapo-isidro",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-23T08:13:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Claudia Sheinbaum Pardo, Omar García Harfuch, Fausto Isidro Meza Flores, El Chapo Isidro, SEDENA, SSPC, Guardia Nacional, Guasave, Sinaloa, Cártel de Guasave, Cártel de Sinaloa, DEA, Terry Cole, Ejército Mexicano, seguridad",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "671a2417a8fab913"
+ },
+ {
+  "titulo": "Rolando Goldman se presenta en La Plata el 5 de diciembre",
+  "liga": "https://elcongresista.mx/cultura/rolando-goldman-concierto-la-plata",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:08:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Rolando Goldman ofrecerá un concierto en La Plata el 5 de diciembre a las 21 horas en La Salamanca.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "3c6fcabc53aa84a3"
+ },
+ {
+  "titulo": "Clima en Tamaulipas: se prevén lluvias y temperaturas de 11° a 23°",
+  "liga": "https://elcongresista.mx/tamaulipas/clima-tamaulipas-23-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:07:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Se pronostican lluvias y temperaturas en Tamaulipas de 11° a 23° hoy 23 de noviembre.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "2b331a04e221be5a"
+ },
+ {
+  "titulo": "Accidente en carretera Chihuahua-Ciudad Juárez deja tres muertos y 30 heridos",
+  "liga": "https://elcongresista.mx/politica/chihuahua/accidente-chihuahua-ciudad-juarez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:06:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Un accidente en la carretera Chihuahua-Ciudad Juárez dejó tres muertos y más de 30 heridos graves. Las autoridades investigan el suceso.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6e00b1a13913e2a5"
+ },
+ {
+  "titulo": "Arrestan a Fernando Cerimedo por atentado a Nadia Beller en Bolivia",
+  "liga": "https://elcongresista.mx/justicia/arresto-fernando-cerimedo-bolivia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:01:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Fernando Cerimedo fue arrestado por el atentado contra la activista Nadia Beller en Bolivia, en un contexto político complejo.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "203ea6c4bfbe2e1d"
+ },
+ {
+  "titulo": "IEM Michoacán registra 155 quejas electorales previas a 2027",
+  "liga": "https://elcongresista.mx/politica/michoacan/iem-michoacan-155-quejas-electorales-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:01:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "El IEM de Michoacán ha acumulado 155 quejas electorales de cara a las elecciones de 2027, incluidas denuncias de violencia política de género.",
+  "temas": [
+   "Seguridad",
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1475405c85c274af"
+ },
+ {
+  "titulo": "Rescatan a colombiana víctima de trata de personas en Puebla",
+  "liga": "https://elcongresista.mx/justicia/rescate-colombiana-trata-personas-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:52:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Rescatan a colombiana víctima de trata de personas en Puebla; la mujer fue alertada por el consulado y hay dos detenidos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ac9d722e6d58c301"
+ },
+ {
+  "titulo": "Aumenta el precio de la luz a 301 euros/MWh en horas pico",
+  "liga": "https://elcongresista.mx/politica/nacional/precio-luz-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:51:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "El precio de la luz alcanzó 301 euros/MWh este 23 de noviembre, reflejando importantes diferencias horarias en el costo de la electricidad.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e95783b021c11032"
+ },
+ {
+  "titulo": "Científicos argentinos identifican nueva variante de COVID: PJ.2.1",
+  "liga": "https://elcongresista.mx/salud/nueva-variante-covid-pj-2-1",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:51:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Científicos de la UNLP identifican la variante PJ.2.1 de COVID-19 en tres pacientes de Buenos Aires, incrementando la vigilancia sanitaria.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "346ab6a571331dff"
+ },
+ {
+  "titulo": "Lili Campos Miranda es detenida por desvíos por 62 millones de pesos",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/lili-campos-miranda-detencion-desvio-62-mdp",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:49:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "La exalcaldesa Lili Campos Miranda enfrenta cargos por un presunto desvío de 62 millones de pesos mientras el PAN se deslinda de ella.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8605a8b7ddf620c5"
+ },
+ {
+  "titulo": "Ayuntamiento de Cancún destina 26 mdp para recuperación de playas",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/cancun-26-mdp-recuperacion-playas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:49:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "El Ayuntamiento de Cancún invertirá 26 mdp en estudios para la recuperación de sus playas, con trabajos iniciando en breve.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6168de87cb27d05f"
+ },
+ {
+  "titulo": "Claudia Sheinbaum informa sobre avances del gobierno en la mañanera",
+  "liga": "https://elcongresista.mx/politica/nacional/claudia-sheinbaum-manana-23-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:47:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Claudia Sheinbaum presenta en la mañanera del 23 de noviembre avances y temas relevantes de su gobierno.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e0dba3ff4f47b324"
+ },
+ {
+  "titulo": "Detienen expansión de gasolineras en Tamaulipas por permisos",
+  "liga": "https://elcongresista.mx/tamaulipas/detienen-expansion-gasolineras-tamaulipas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:39:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "La falta de permisos para gasolineras detiene inversiones en Tamaulipas, afectando a más de 200 solicitudes desde abril de 2026.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "681b3ba592326395"
+ },
+ {
+  "titulo": "Aspirantes a dirigir la CMIC Tamaulipas incluyen a Luis F. González",
+  "liga": "https://elcongresista.mx/tamaulipas/aspirantes-cmic-tamaulipas-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:38:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Luis Fernando González y otros aspirantes buscan dirigir la CMIC Tamaulipas. Elección programada para febrero de 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "4e878d2683f9f3ad"
+ },
+ {
+  "titulo": "Salseología suspende redes tras polémico video de María Pombo en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/salseologia-cierra-redes-video-pombo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:36:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Salseología cierra sus redes tras la polémica generada por un vídeo de María Pombo hablando sobre política.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "23006ca256ea79ce"
+ },
+ {
+  "titulo": "Naranjeros de Hermosillo vence 11-3 a Mayos y asegura liderato",
+  "liga": "https://elcongresista.mx/politica/sonora/naranjeros-hermosillo-gana-mayos-navojoa-liderato",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:35:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Naranjeros de Hermosillo gana 11-3 a Mayos de Navojoa y asegura su lugar en la cima de la Liga Mexicana del Pacífico.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "370e929e9f3a17a7"
+ },
+ {
+  "titulo": "Activa Alerta Amber en CDMX: buscan a Alisson Desiré González Capetillo, de 15 años.",
+  "liga": "https://elcongresista.mx/justicia/alerta-amber-cdmx-alisson-desire-gonzalez-capetillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:34:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Activa Alerta Amber en CDMX para localizar a Alisson Desiré González Capetillo, desaparecida desde el 13 de octubre.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "357674fce654460f"
+ },
+ {
+  "titulo": "Ocho detenidos del grupo delictivo \"El Chapo Isidro\" en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/detencion-ocho-chapo-isidro-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:20:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Ocho integrantes del grupo delictivo \"El Chapo Isidro\" fueron detenidos en Sinaloa de Leyva durante un operativo del Ejército Mexicano.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "056915e7be8dbf10"
+ },
+ {
+  "titulo": "FGE de Coahuila reporta 119 quejas por violaciones a derechos humanos",
+  "liga": "https://elcongresista.mx/justicia/fge-coahuila-quejas-derechos-humanos-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:19:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "La FGE de Coahuila es la entidad con más quejas por violaciones a derechos humanos, totalizando 119 en 2026.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1090cb8587d2dfba"
+ },
+ {
+  "titulo": "Fernanda Crespi del Colegio Mac Kay participó en intercambio en México",
+  "liga": "https://elcongresista.mx/educacion/fernanda-crespi-colegio-mac-kay-intercambio-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:18:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Fernanda Crespi del Colegio Mac Kay participó en un intercambio educativo en la Universidad La Salle de Pachuca, México.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "c03ec8b6445c0f5e"
+ },
+ {
+  "titulo": "Ayuntamiento de Jaén programa autobuses especiales para Santa Catalina",
+  "liga": "https://elcongresista.mx/politica/nacional/ayuntamiento-jaen-autobuses-santa-catalina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:17:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "El Ayuntamiento de Jaén ofrecerá autobuses especiales el 25 de noviembre para la festividad de Santa Catalina.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "64bb9a2410abd5ab"
+ },
+ {
+  "titulo": "Kicillof solicita informe mensual a empresas sobre salarios en BA",
+  "liga": "https://elcongresista.mx/politica/nacional/kicillof-informe-mensual-salarios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:16:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "El gobernador Kicillof exige a empresas un informe mensual sobre salarios y jornadas laborales a partir de enero de 2027.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9fc52707beba77b6"
+ },
+ {
+  "titulo": "Cuatro heridos por incendio ocasionado por fuga de gas en Papalotla",
+  "liga": "https://elcongresista.mx/tlaxcala/incendio-fuga-gas-papalotla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:10:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Un incendio en Papalotla, Tlaxcala, dejó cuatro heridos por una fuga de gas. Las autoridades atienden la situación.",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "7bf49cc0e0b875fa"
+ },
+ {
+  "titulo": "San Luis Potosí: 35 empresas taparán baches sin costo al Ayuntamiento",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/san-luis-potosi-empresas-baches",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:09:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "En San Luis Potosí, 35 empresas repararán baches sin costo al Ayuntamiento, generando dudas sobre el presupuesto de infraestructura.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal",
+   "Servicios públicos",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c1152a18b8f74ac0"
+ },
+ {
+  "titulo": "Orquesta J.J. Botelli y jóvenes músicos presentan “Suena el terruño”",
+  "liga": "https://elcongresista.mx/cultura/orquesta-jj-botelli-suesta-el-terruño",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:07:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "La Orquesta J.J. Botelli presenta “Suena el terruño” hoy a las 20:30 en la Casa de la Cultura de Salta, con entrada libre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a82c359d80f535a2"
+ },
+ {
+  "titulo": "Cristina Kirchner desmiente frase sobre Kicillof atribuida por Clarín",
+  "liga": "https://elcongresista.mx/politica/nacional/cristina-kirchner-desmiente-frase-kicillof-clarin",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:04:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Cristina Kirchner desmiente frase atribuida por Clarín sobre Kicillof, en medio de tensiones políticas internas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "15fa884c6d187b8c"
+ },
+ {
+  "titulo": "Banco Mundial: la pobreza en México cae del 43.2% al 29.6% en 2024",
+  "liga": "https://elcongresista.mx/politica/nacional/pobreza-mexico-banco-mundial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T07:01:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "El Banco Mundial informa que la pobreza en México cae del 43.2% al 29.6% gracias al aumento de salarios y políticas sociales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "31eae423b72cd0c5"
+ },
+ {
+  "titulo": "Baja California, último lugar nacional en empleo de restaurantes y hoteles: Inegi",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-ultimo-lugar-nacional-empleo-restaurantes-hoteles-inegi-n915366",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-23T07:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Restaurantes y hoteles de Baja California tienen 14.9 % menos trabajadores que hace un año, la mayor caída del país.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "56ca1f70f904873a"
+ },
+ {
+  "titulo": "Kreplak resalta a Berisso como modelo provincial en atención primaria",
+  "liga": "https://elcongresista.mx/salud/kreplak-berisso-referencia-atencion-primaria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T06:45:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Nicolás Kreplak destacó a Berisso como modelo en atención primaria de salud durante las quintas jornadas de salud en Buenos Aires.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "3654ed65a9e0113d"
+ },
+ {
+  "titulo": "Prevé experto de Cetys inflación de hasta el 4% en diciembre por incremento al consumo",
+  "liga": "https://www.uniradioinforma.com/sociedad/preve-experto-cetys-inflacion-4-diciembre-incremento-consumo-n915145",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-23T06:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "El especialista señaló que eventos comerciales como El Buen Fin, Black Friday y Cyber Monday impulsan el consumo desde noviembre y generan presión sobre los precios.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "33598693a2e8096d"
+ },
+ {
+  "titulo": "Yaiza abrirá su portal de Belén el 27 de noviembre con 50 actividades.",
+  "liga": "https://elcongresista.mx/cultura/yaiza-inauguracion-portal-belen-27-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T06:44:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "El municipio de Yaiza inaugurará su portal de Belén el 27 de noviembre, con un programa navideño que incluye más de 50 actividades.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "be7b877c23f0c30e"
+ },
+ {
+  "titulo": "Detienen en La Plata a sospechoso de asaltar a jubilada",
+  "liga": "https://elcongresista.mx/justicia/detienen-joven-asalto-jubilada-la-plata",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T06:44:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Detienen en La Plata a un joven acusado de asaltar a una jubilada, quien fue despojada de su dinero y su vehículo.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d0f7ac781dcc99c0"
+ },
+ {
+  "titulo": "Punta Lara reunió a 600 corredores en carrera solidaria para bomberos",
+  "liga": "https://elcongresista.mx/politica/baja-california/punta-lara-carrera-solidaria-bomberos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T06:43:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Punta Lara realizó una carrera nocturna solidaria en la que participaron 600 corredores, recaudando fondos para los Bomberos Voluntarios de Ensenada.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "db346874dc9db040"
+ },
+ {
   "titulo": "Una carrera nocturna solidaria reunió a 600 atletas de la región en Punta Lara",
   "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYllJR0lSLVFGTVhYZlNLdmRSTGJhWFJVY2d1UzZuV3pwNm1QMGNWWGJsVzBkdXJ1RUFLMnZjRE9ta2VaY0tBaGplWnFiQUM5aWdZekZXU1hnUjFLNTRmaU1jbVFnejU3NFUwOElaQ1QtUU9MSUhVXzk2cmlLQlNyV01zWTRrRllRTEhBUU9DMll3TUMyVzVnS2NJeVZlcW12SE45MmpzLWVhVktQSmRHQXY0dUlIWXJVSExqZXBYMmd2WjZnTGVN?oc=5",
   "medio": "Info Blanco Sobre Negro",
@@ -1405,6 +1915,48 @@
   ],
   "local": true,
   "id": "2bc70b35fc08086e"
+ },
+ {
+  "titulo": "Aumenta violencia familiar en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzY1TXp6bkxGdlNkVjczZnV3RXViNjNoUnBNQU5ka1lCNlljTV95ejhvWXQwbVZOWE5naFlZMnFzNEVBako5SnFnTXk2Y1EtM3c4T3hZTG9WaWgxNWJVUm5aWTlSYzN2dFE1eVpLWlJ4Wk5jdlZDVFhSTHdVdV9CYnZQQl9pdkJ3eFZseklqT2VnTVE?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-23T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Aumenta violencia familiar en Ensenada El Vigía",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a2ff67a60282757e"
+ },
+ {
+  "titulo": "Destaca BC en la producción pesquera y acuícola nacional",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFYyRElwY1BmSGg2N3dtcUQ2WHdYVmxJRG9VS1F4ZTY3dmZ1TVRHWWQtSXdMVEdQUHZSNUd3cnRRMUZmMlY4VFNlRHhiYmx5bEFQTWVRelRzN1BLcUJRUEFhUE5tMVNnT3d6YlJvaU45ckhXRDNpMHpFcGNLak02aXZzUE9ta2kyS3pjQ1ZFMXZmMlR5UHlqcHcwdTUwWUNGakJQQTNQS203THliczdqSA?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-23T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Destaca BC en la producción pesquera y acuícola nacional El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7b5013ca215ac5d6"
+ },
+ {
+  "titulo": "Controla la FM economía y política en Guerrero",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeV9xRXdFTG5HTUowY3ozbEhCMTZaallzQ3YtTTk1LXc5SEtldWkzRkZnLWhYNlMwcDJRZFZVTkhlSkpfdWRUWG84djFmazNVQU4ycENLa0o4THNxdnJRUV9haXFwcnRBR0tDQUpNUTV2ZjZWZjBYQ1RfSUFiWUZWSjl0YXJSSENPZ2J0QUVISW1rYW5rN29CbngwVHJHel9hLWpoTg?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-23T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T08:28:36-06:00",
+  "resumen": "Controla la FM economía y política en Guerrero El Vigía",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "d725c07fb1df1cfb"
  },
  {
   "titulo": "Recapturan en Ensenada a ‘El Checo’, presunto líder del CJNG en Tecate",
