@@ -1,5 +1,395 @@
 [
  {
+  "titulo": "México recibió información de EU para capturar a ‘Chapo Isidro’: Defensa",
+  "liga": "https://jornadabc.com.mx/principales/mexico-recibio-informacion-de-eu-para-capturar-a-chapo-isidro-defensa/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-23T09:36:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "\"Nuestras condolencias, nuestro cariño agradecimiento, admiración a los elementos del Ejército que perdieron la vida\" La entrada México recibió información de EU para capturar a ‘Chapo Isidro’: Defensa se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "026385fb59f09885"
+ },
+ {
+  "titulo": "Gobierno de México inicia pagos de Pensión Bienestar el 23 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/pension-bienestar-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:23:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Inicia hoy el pago de la Pensión Bienestar en México, dirigido a adultos mayores y otros programas sociales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0a3fb599b5ba6c50"
+ },
+ {
+  "titulo": "Nvidia vuelve a nombrar a Jensen Huang como CEO tras su salida breve",
+  "liga": "https://elcongresista.mx/tecnologia/nvidia-jensen-huang-regreso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:22:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Nvidia reintegra a Jensen Huang como CEO tras su salida temporal, buscando estabilizar sus acciones y el entorno empresarial.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "85594cee55bfa882"
+ },
+ {
+  "titulo": "SEDENA reconoce apoyo de inteligencia de EU en la captura de Ovidio en 2023",
+  "liga": "https://zetatijuana.com/2026/11/sedena-reconoce-apoyo-de-inteligencia-de-eu-en-la-captura-de-ovidio-en-2023/?utm_source=rss&utm_medium=rss&utm_campaign=sedena-reconoce-apoyo-de-inteligencia-de-eu-en-la-captura-de-ovidio-en-2023",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-23T09:20:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "El Ejército solicitó a Estados Unidos reconocimiento con aeronaves no tripuladas una semana antes de capturar a \"El Chapo Isidro\"",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "538a6820852be044"
+ },
+ {
+  "titulo": "Antamina presenta programa educativo “Efecto Áncash” como finalista en premios ESG",
+  "liga": "https://elcongresista.mx/educacion/antamina-efecto-ancash-premios-esg",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:20:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "El programa educativo \"Efecto Áncash\" de Antamina es finalista en premios ESG, destacando avances en habilidades de estudiantes.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "2205e15dc0a0547d"
+ },
+ {
+  "titulo": "Innova Minería recibe Sello de Calidad CCM por su programa online",
+  "liga": "https://elcongresista.mx/educacion/innova-mineria-sello-calidad-ccm",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:19:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Innova Minería recibe el Sello de Calidad CCM por su programa online de formación para instructores, que se entregará el 3 de diciembre.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "32c6e7c9d95514d0"
+ },
+ {
+  "titulo": "Claudia Sheinbaum ratifica a Omar García Harfuch en la SSPC",
+  "liga": "https://elcongresista.mx/seguridad/sheinbaum-ratifica-harfuch-sspc",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:16:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Claudia Sheinbaum ratifica a Omar García Harfuch en la SSPC y niega rumores de cambios en su gabinete.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "cab83467fb12898d"
+ },
+ {
+  "titulo": "García Harfuch atribuye a la corrupción de autoridades la impunidad del crimen organizado en Sinaloa",
+  "liga": "https://zetatijuana.com/2026/11/garcia-harfuch-atribuye-a-la-corrupcion-de-autoridades-la-impunidad-del-crimen-organizado-en-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=garcia-harfuch-atribuye-a-la-corrupcion-de-autoridades-la-impunidad-del-crimen-organizado-en-sinaloa",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-23T09:12:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "La entrega de 150 vehículos y 720 cámaras en carreteras de Sinaloa iniciará a mediados de diciembre de 2026.",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "29be0dcd5931cbfe"
+ },
+ {
+  "titulo": "Fundación SimiREDi inaugura centro de rehabilitación en Iztapalapa.",
+  "liga": "https://elcongresista.mx/politica/nacional/fundacion-simiredi-centro-rehabilitacion-iztapalapa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:08:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "La Fundación SimiREDi abre un nuevo centro de rehabilitación en Iztapalapa, mejorando el acceso a servicios para personas con discapacidad.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f02a531cd9cb21b9"
+ },
+ {
+  "titulo": "General Trevilla confirma intercambio de información con EU para ubicar a Chapo Isidro en Sinaloa",
+  "liga": "https://zetatijuana.com/2026/11/general-trevilla-confirma-intercambio-de-informacion-con-eu-para-ubicar-a-chapo-isidro-en-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=general-trevilla-confirma-intercambio-de-informacion-con-eu-para-ubicar-a-chapo-isidro-en-sinaloa",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-23T09:05:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Las fuerzas federales levantaron 21 bloqueos y retiraron 50 vehículos en Sinaloa tras la captura del presunto capo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d308bdd5e07778aa"
+ },
+ {
+  "titulo": "Rescatan a dos excursionistas lesionadas en el Pico de Orizaba",
+  "liga": "https://elcongresista.mx/politica/puebla/rescate-excursionistas-pico-orizaba",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:03:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Dos mujeres son rescatadas con lesiones en el Pico de Orizaba por un operativo especializado de protección civil.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "978c60b4defea9cb"
+ },
+ {
+  "titulo": "Naranjeros barre a Mayos y conquista la cima de la primera vuelta",
+  "liga": "https://www.uniradioinforma.com/deportes/naranjeros-barre-mayos-conquista-cima-primera-vuelta-n915734",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-23T09:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "La Escuadra Naranja amarró el primer lugar de la primera vuelta al vencer a Mayos 11-3.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "c3b3c377319a9598"
+ },
+ {
+  "titulo": "Claudia Sheinbaum: cuatro militares caen en operativo contra “El Chapo Isidro”",
+  "liga": "https://elcongresista.mx/politica/sinaloa/claudia-sheinbaum-cuatro-militares-muertos-operativo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:02:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Claudia Sheinbaum lamenta la muerte de cuatro militares en Guasave durante captura de \"El Chapo Isidro\". Detalles del operativo y consecuencias.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "232bd3b35ba8dca9"
+ },
+ {
+  "titulo": "INEGI reporta caída mensual de 0.7% en actividad económica de México",
+  "liga": "https://elcongresista.mx/politica/nacional/inegi-caida-actividad-economica-septiembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:01:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "El INEGI reporta una caída mensual de 0.7% en la actividad económica de México en septiembre de 2026, especialmente en el sector secundario.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e8c1d012be0f53b5"
+ },
+ {
+  "titulo": "Enel Energía facilita el cambio de proveedor eléctrico para empresas",
+  "liga": "https://elcongresista.mx/negocios/enel-energia-cambio-suministrador",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T09:01:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Enel Energía México facilita el cambio de suministrador eléctrico, impulsando la sostenibilidad en los negocios sin alterar la infraestructura.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "645c6080e203bca1"
+ },
+ {
+  "titulo": "Frente frío 8 impacta México con lluvias intensas y frío extremo",
+  "liga": "https://elcongresista.mx/tamaulipas/frente-frio-8-lluvias-tamaulipas-veracruz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:51:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "El frente frío 8 trae lluvias intensas y frío extremo a México, afectando principalmente a Tamaulipas y Veracruz.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "089f27a95bc65cda"
+ },
+ {
+  "titulo": "Puerto Juárez: abierto a la navegación sin restricciones al 23 de noviembre",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/puerto-juarez-navegacion-abierta-23-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:50:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Puerto Juárez permanece abierto a la navegación sin restricciones el 23 de noviembre, a pesar del pronóstico de lluvias fuertes en Cancún.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "697f0a1f6779addb"
+ },
+ {
+  "titulo": "Christian Nodal anuncia su retiro indefinido de los escenarios en CDMX",
+  "liga": "https://elcongresista.mx/politica/nacional/christian-nodal-retiro-indefinido",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:49:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Christian Nodal anuncia su retiro indefinido de los escenarios mexicanos tras un concierto en Mérida, en medio de tensiones familiares y legales.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7a54b844a3f6bfac"
+ },
+ {
+  "titulo": "Gullit Peña rechaza acusaciones de tocamientos en León, Gto.",
+  "liga": "https://elcongresista.mx/justicia/gullit-pena-acusaciones-tocamientos-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:48:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Carlos Gullit Peña desmiente acusaciones de tocamientos inapropiados por parte de Gabriela Echeverría en León.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "39329df9e4aaf355"
+ },
+ {
+  "titulo": "Adulto mayor prensado tras chocar contra poste en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/adulto-mayor-prensado-choque-posto-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:46:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Un adulto mayor quedó prensado en su camioneta tras chocar contra un poste en Morelia. Fue rescatado y llevado a un hospital.",
+  "temas": [
+   "Accidentes",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "acad723bcb41707c"
+ },
+ {
+  "titulo": "Obispo de Piedras Negras llama a evaluar fracking en Coahuila",
+  "liga": "https://elcongresista.mx/politica/coahuila/obispo-piedras-negras-evalua-fracking-coahuila",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:36:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "El obispo Alfonso Gerardo Miranda Guardiola pide evaluar el impacto ambiental del fracking en Coahuila ante posibles autorizaciones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d49f0f209e318133"
+ },
+ {
+  "titulo": "INEGI reporta caída mensual de 0.7 por ciento en la actividad económica de México",
+  "liga": "https://zetatijuana.com/2026/11/inegi-reporta-caida-mensual-de-0-7-por-ciento-en-la-actividad-economica-de-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=inegi-reporta-caida-mensual-de-0-7-por-ciento-en-la-actividad-economica-de-mexico",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-23T08:34:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "La construcción y las manufacturas encabezaron la caída mensual, con retrocesos de 2.0 y 1.7 por ciento, respectivamente.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5866450383aeb676"
+ },
+ {
+  "titulo": "Nvidia confirma a Jensen Huang como presidente tras renuncia cancelada",
+  "liga": "https://elcongresista.mx/politica/nacional/nvidia-reinstalacion-huang",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:34:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Jensen Huang regresa a la presidencia de Nvidia tras renuncia, en medio de presión y una investigación interna en curso.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "08632f72e05757d4"
+ },
+ {
+  "titulo": "Tres asesinatos y cuatro heridos por balas en Culiacán y Mazatlán",
+  "liga": "https://elcongresista.mx/politica/sinaloa/tres-muertos-cuatro-heridos-culiacan-mazatlan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:32:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Culiacán y Mazatlán viven una ola de violencia con tres muertos y cuatro heridos en ataques armados en un solo día.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cf52e79071e62cab"
+ },
+ {
+  "titulo": "Obispos católicos de México promueven libertad religiosa y diálogo",
+  "liga": "https://elcongresista.mx/politica/nacional/obispos-promueven-libertad-religiosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:31:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Obispos católicos en México promueven la libertad religiosa y un compromiso social en su nueva carta pastoral.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "34b0c6d392327fb5"
+ },
+ {
+  "titulo": "Detienen a 'El Chapo Isidro' en Guasave; cuatro soldados fallecen en operativo",
+  "liga": "https://elcongresista.mx/politica/sinaloa/detencion-chapo-isidro-guasave",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T08:30:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "La detención de 'El Chapo Isidro' en Guasave dejó un saldo de cuatro soldados muertos y 16 delincuentes abatidos.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4a11e678f7b55f0a"
+ },
+ {
+  "titulo": "Presupuesto 2027 de BC sería por 100 mil mdp; se espera no omitan recesión",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFk3WThncGducUdobTd4VHBFOTdLaF93WktaYndMN3RHUXA4Y01QUmlhNDVrbm02cUVHQkhxVW1NVThNUXEtQXVRNml0eGRGUkptb0t5aUNrQU5MX0lRbG5TeUFabnB2dlYzMVVMU2FCRi1RWjZfZW15TUZWOERHLUJ3bGg4NE50NU9IYzBsaUxHeGZoZ3BFLXpRaVdCbTJMbTVVeFd2bE1GcG1ONXZqd0tkWUFyNFk?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-23T08:30:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Presupuesto 2027 de BC sería por 100 mil mdp; se espera no omitan recesión AFN",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "886f3a2e0cb49ec4"
+ },
+ {
   "titulo": "Industria de la Transformación en BC: 4 años recortando empleos por costos labores y aranceles",
   "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGs4VnNsUUw2T3JvUFVzZ0N2S0JENXl6enc1TzFTUnVnR3hudGQzQ1VsN0hDUlpIWlpwWkpVWUdfdE5QS2RXa1JVLUJGMGFuTnBiSmV0ZEdPaGdjS3ZDQTZYYk9leXNXUkwyZ0xUUnBpa1cyaTBFbzlEeDlZMzhhS0FXX3JET0Zyb3BtbnJNRWY0MjRQVmE5cTAtRjV4S1lienQzenp3TXM2ZEtIUnVROFExdWtlNU9LNWF6a0pJWUlfdUVfSHo1LUNxRUxyZVBBdHc?oc=5",
   "medio": "AFN",
@@ -2993,6 +3383,20 @@
   ],
   "local": true,
   "id": "541e5d442587b94b"
+ },
+ {
+  "titulo": "Light mag. 3.5 earthquake - North Pacific Ocean, 93 km south of Ensenada, Estado de Baja California, Mexico, on Sunday, Nov 22, 2026, at 08:54 pm (Mexico_City time)",
+  "liga": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNclFFNVpBV1A3aTU3cFRQcHNnSU15dndsbFNOT2JyakU1SzJJMnJJTFVjcHRnMFh3WnhIX1hsSThPelRLYVN3SnlmeGw4c1dXUktKVDZGM0ItSG5HTkFQanpmaWlWTjAwdVJFN2NDclpicVZxdWtrQTlwMzB3Tl84UzUyOXpkcGdOeTN1WS00SXJOZnpmWGY5RHFCTVNudjVlaUZSLUVXQmFQNHdsanlMUEZGV1loZDZLbmpQRldMenczdUxRWkVtQ0FqNFo2a0dlQ2ZYUUN3?oc=5",
+  "medio": "Volcano Discovery",
+  "publicada": "2026-11-22T21:37:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T09:41:18-06:00",
+  "resumen": "Light mag. 3.5 earthquake - North Pacific Ocean, 93 km south of Ensenada, Estado de Baja California, Mexico, on Sunday, Nov 22, 2026, at 08:54 pm (Mexico_City time) Volcano Discovery",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e841e41c18830beb"
  },
  {
   "titulo": "Burgueño se reúne con vecinos de la Sánchez Taboada y 3 de Octubre: van 43 casas con engomado rojo",
