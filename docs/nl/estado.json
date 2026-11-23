@@ -1,12 +1,12 @@
 {
  "panel": "Nuevo León",
- "actualizado": "2026-11-22T19:11-06:00",
+ "actualizado": "2026-11-22T19:24-06:00",
  "corte": "2026-11-23",
  "ventana": [
   "2026-11-22T18:30-06:00",
   "2026-11-23T18:30-06:00"
  ],
- "total": 14,
+ "total": 22,
  "fuentes": [
   {
    "fuente": "El Norte",
@@ -86,7 +86,7 @@
   {
    "fuente": "Google News: site:reporteindigo.com Monterrey",
    "ok": true,
-   "notas": 100
+   "notas": 98
   }
  ]
 }

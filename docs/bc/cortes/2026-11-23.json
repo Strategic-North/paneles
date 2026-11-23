@@ -1,5 +1,108 @@
 [
  {
+  "titulo": "Mil personas marchan en Guadalajara exigiendo agua limpia",
+  "liga": "https://elcongresista.mx/politica/jalisco/marcha-agua-guadalajara-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:23:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T19:24:32-06:00",
+  "resumen": "Mil personas marcharon en Guadalajara exigiendo agua limpia y justicia por agresiones en protestas recientes.",
+  "temas": [
+   "Seguridad",
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5fad983b316d3751"
+ },
+ {
+  "titulo": "Fallece Humberto Padgett, el cronista que narró la violencia en México desde sus víctimas",
+  "liga": "https://zetatijuana.com/2026/11/fallece-humberto-padgett-el-cronista-que-narro-la-violencia-en-mexico-desde-sus-victimas/?utm_source=rss&utm_medium=rss&utm_campaign=fallece-humberto-padgett-el-cronista-que-narro-la-violencia-en-mexico-desde-sus-victimas",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-22T19:22:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T19:24:32-06:00",
+  "resumen": "La disculpa pública de la FGJCDMX, en agosto de 2026, llegó nueve años después de la agresión contra el periodista",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "db923c63ba7ac0a8"
+ },
+ {
+  "titulo": "UBA lanza primera Diplomatura en Educación Financiera para jóvenes",
+  "liga": "https://elcongresista.mx/educacion/uba-diplomatura-educacion-financiera",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:20:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T19:24:32-06:00",
+  "resumen": "La UBA lanza una diplomatura en educación financiera que capacitará a jóvenes argentinos. Se espera impactar a 300,000 participantes en tres años.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "9c13e4e1664fe21d"
+ },
+ {
+  "titulo": "Empresarios de León sienten incertidumbre tras mensaje de Abugaber",
+  "liga": "https://elcongresista.mx/politica/guanajuato/incertidumbre-empresarial-leon-abugaber",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:18:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T19:24:32-06:00",
+  "resumen": "La convocatoria empresarial de José Antonio Abugaber generó incertidumbre entre los líderes de León, sin propuestas concretas.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e9985b47f99ddb0e"
+ },
+ {
+  "titulo": "Comisión de Rectoría instalada en UMSNH para elección de nuevo rector.",
+  "liga": "https://elcongresista.mx/politica/michoacan/comision-rectoria-umsnh-eleccion-rector",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:16:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T19:24:32-06:00",
+  "resumen": "La Comisión de Rectoría de UMSNH se instala para la elección de un nuevo rector, garantizando un proceso transparente y legal.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "92080333bf6e1017"
+ },
+ {
+  "titulo": "Senado aprueba reformas para visibilizar la violencia docente",
+  "liga": "https://elcongresista.mx/justicia/senado-reformas-violencia-docente",
+  "medio": "El Congresista",
+  "publicada": "2026-11-22T19:16:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T19:24:32-06:00",
+  "resumen": "El Senado de México aprueba reformas para reconocer la violencia docente y garantizar protección a las víctimas en las escuelas.",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": false,
+  "id": "f3ade6a1eb615fcb"
+ },
+ {
+  "titulo": "Buscan a Rachelle Huerta, de 21 años, en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUTdyVHBORjBjTUgtOFBBUEdvdkhVWEZrZzExOXRJMWtKckNJQ1lvUXdDaFVxTXhPTHU2UW9kTFphalB2RmJyaWpwd3RGVk43WmdXMkdoUUgyWEs1YXRNbW4ydGItemVwbC1WS2h5MDYwQkVWTTg5ZEZjZlVXRkx5SEdEenFqUi1GYVo4MXgyWQ?oc=5",
+  "medio": "PoderMX",
+  "publicada": "2026-11-22T19:13:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-22T19:24:32-06:00",
+  "resumen": "Buscan a Rachelle Huerta, de 21 años, en Ensenada PoderMX",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f066cb995b8658ac"
+ },
+ {
   "titulo": "Buscan a Jesús Enrique Meza Villavicencio de Bahía de los Ángeles",
   "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QeE5GclNreG1yempHZ0RKODVUNlE3NGdsVjltYVp6czNFRG01WmxNZ0Fyb1RVQ0VJMjZvUkNjMjhSRmRJY0RTdFVzWlFLUDBmSTN4ZTZZdjdic3M?oc=5",
   "medio": "Ensenada.net",
