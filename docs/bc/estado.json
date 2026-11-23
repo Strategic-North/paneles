@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-23T12:04-06:00",
+ "actualizado": "2026-11-23T13:05-06:00",
  "corte": "2026-11-23",
  "ventana": [
   "2026-11-22T18:30-06:00",
   "2026-11-23T18:30-06:00"
  ],
- "total": 402,
+ "total": 423,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -45,8 +45,8 @@
   },
   {
    "fuente": "El Congresista",
-   "ok": true,
-   "notas": 30
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "fuente": "El Portavoz",
@@ -71,7 +71,7 @@
   {
    "fuente": "Google News: Ensenada",
    "ok": true,
-   "notas": 57
+   "notas": 58
   },
   {
    "fuente": "Google News: site:elvigia.net",
@@ -81,12 +81,12 @@
   {
    "fuente": "Google News: site:bajanews.mx",
    "ok": true,
-   "notas": 86
+   "notas": 79
   },
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 44
+   "notas": 45
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
@@ -96,7 +96,7 @@
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 10
+   "notas": 12
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
@@ -116,7 +116,7 @@
   {
    "fuente": "Google News: Ensenada policías municipales detenidos",
    "ok": true,
-   "notas": 7
+   "notas": 6
   },
   {
    "fuente": "Google News: Ayuntamiento de Ensenada deslinda",
