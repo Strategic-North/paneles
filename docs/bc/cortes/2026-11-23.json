@@ -1,5 +1,526 @@
 [
  {
+  "titulo": "Caen cuatro con un arsenal en Rosarito; dos son ex policías",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaU9CcHF2S2pJR3lDRV9wOWhtMlpCQ3laSHdMNkNnb0djNExnRVZieTc5MEp6UVF3cS05UTFoa3NSWDhjU1VFUmYydXpvS0tWRTJyamJ6LVNYSE13VTgtNVl2dEltTkhWVXNDeWVqSXZQV0hYSm1tNzNZelNyZEMxTHJ2MmQ3NHYzUDJHZ3JGNTRZOWlQTzVzRlNybm1JZw?oc=5",
+  "medio": "PoderMX",
+  "publicada": "2026-11-23T18:19:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Caen cuatro con un arsenal en Rosarito; dos son ex policías PoderMX",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "65aea9aa28bf6de3"
+ },
+ {
+  "titulo": "Entra en erupción el volcán Kilauea en Hawái; lanza lava hasta 200 metros",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmR5RWhGX1ZyN01jX3FSMUtOUE5pYkVUZy1ObVg2NlVycGM0eGR4RlgzVGNpYWtzdGR0eC1tVm9tQ184eUg3ODlkX0o3dFdWeW5YZmdoQnVCdy1Hd3VnT05fR3F4MHRpSG93RVZzajctWWpTN0w4ekNKM1VLQUhubHk4WUhkekZ0STBGNl9UWE1WNjZpRVZxNmRiVzNWWlJIQzc3TFJ5QlJVMzc0MW9DTTR3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T18:18:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Entra en erupción el volcán Kilauea en Hawái; lanza lava hasta 200 metros Baja News",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "b588e343d4ec8783"
+ },
+ {
+  "titulo": "Julio Menchaca anuncia rehabilitación de 34 estaciones del Tuzobús.",
+  "liga": "https://elcongresista.mx/politica/hidalgo/rehabilitacion-tuzobus-hidalgo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:18:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Julio Menchaca, gobernador de Hidalgo, anuncia la rehabilitación de 34 estaciones del Tuzobús con una inversión de 100 millones de pesos antes de 2026.",
+  "temas": [
+   "Gobierno del estado",
+   "Servicios públicos",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "31bed43a67e2719c"
+ },
+ {
+  "titulo": "INE en pausa por demanda del PAN, señala Monreal",
+  "liga": "https://elcongresista.mx/justicia/ine-en-pausa-demanada-del-pan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:16:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Ricardo Monreal confirma que la convocatoria del INE está suspendida por una demanda del PAN al TEPJF.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "3cf732ef87f19772"
+ },
+ {
+  "titulo": "Rescatan a mujer secuestrada en Morelia tras operativo conjunto",
+  "liga": "https://elcongresista.mx/politica/michoacan/rescate-mujer-secuestro-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:15:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Rescatan a Janeth Adriana en Morelia tras operativo de la Guardia Civil y Policía; tres detenidos y la víctima se encuentra a salvo.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "84b942568cc7f674"
+ },
+ {
+  "titulo": "Inaugura Pepe Chedraui pavimentación en Ampliación Constitución Mexicana",
+  "liga": "https://elcongresista.mx/politica/puebla/conducen-obras-infrastructura-ampliacion-constitucion-mexicana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:10:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Pepe Chedraui inaugura la pavimentación en la calle Artículo 9, beneficiando a más de 48 mil habitantes en Puebla.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "43d0f37df0541f2a"
+ },
+ {
+  "titulo": "Ambientalistas oponen construcción de planta de amoniaco en Lerdo",
+  "liga": "https://elcongresista.mx/politica/durango/rechazo-planta-amoniaco-lerdo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:09:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Ambientalistas en Lerdo rechazan planta de amoniaco tras recoger 183 mil firmas, preocupados por el impacto ambiental y la escasez de agua.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1f1c31ac7e5afdae"
+ },
+ {
+  "titulo": "Auditan 414 Puntos Naranja en Tijuana para verificar su operación",
+  "liga": "https://elcongresista.mx/politica/baja-california/auditoria-puntos-naranja-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:08:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "La Secretaría de las Mujeres audita 414 Puntos Naranja en Tijuana para asegurar su correcto funcionamiento y atención a víctimas de violencia.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "037750c9ac3c3151"
+ },
+ {
+  "titulo": "Gobierno de Hidalgo llevará jornadas de trámites a 11 municipios",
+  "liga": "https://elcongresista.mx/politica/hidalgo/gobierno-de-hidalgo-jornadas-tramites-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:07:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Gobierno de Hidalgo ofrecerá jornadas de trámites gratuitos en 11 municipios del 25 al 30 de noviembre, facilitando el acceso a servicios.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c055248054034701"
+ },
+ {
+  "titulo": "DeFi Dev Corp suma 5.180 SOL a su tesorería tras 11 semanas de compras",
+  "liga": "https://elcongresista.mx/finanzas/defi-dev-corp-compra-5180-sol",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:05:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "DeFi Dev Corp amplía su tesorería con 5.180 SOL, alcanzando 2,62 millones, como parte de su estrategia de acumulación.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "8c99172909420296"
+ },
+ {
+  "titulo": "Elvira Méndez Bautista asume la presidencia del Conapred en CDMX",
+  "liga": "https://elcongresista.mx/justicia/elvira-mendez-asume-conapred",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T18:01:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Elvira Méndez Bautista asume la presidencia del Conapred tras seis meses. Promete avanzar en igualdad y prevención de la discriminación.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d6785ef6d6c93a57"
+ },
+ {
+  "titulo": "Realizan donativo a Museo Interactivo Ámbar para prevenir adicciones en jóvenes",
+  "liga": "https://zetatijuana.com/2026/11/realizan-donativo-a-museo-interactivo-ambar-para-prevenir-adicciones-en-jovenes/?utm_source=rss&utm_medium=rss&utm_campaign=realizan-donativo-a-museo-interactivo-ambar-para-prevenir-adicciones-en-jovenes",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-23T17:59:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Fundación Coppel donó 500 mil pesos al Museo Interactivo Ámbar buscando que el recinto pueda promover sus actividades y fondear las visitas de jóvenes al espacio para alejarlos de las adicciones",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "edca9d067c0200ca"
+ },
+ {
+  "titulo": "Presenta UABC historias ilustradas para mostrar temas relevantes a las infancias",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/presenta-uabc-historias-ilustradas-para-mostrar-temas-relevantes-a-las-infancias/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-23T17:56:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "\"Paso de tortuga\" aborda el tema migración, y \"El niño travieso\" rescata el mito de la creación del pueblo cucapá; las publicaciones trascienden la función académica de la máxima casa de estudios: rector La entrada Presenta UABC historias ilustradas para mostrar temas relevantes ",
+  "temas": [
+   "Migración",
+   "Educación"
+  ],
+  "local": true,
+  "id": "b47ca38d9b985d50"
+ },
+ {
+  "titulo": "Reporta Tijuana baja en flujo migratorio en 2026 y pláticas para reubicar el albergue Flamingos",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUHZucnNlVndVV2x4Z0pVMC1OemFYWl9NNW1XNDVuc2FGWGdEc0F6c2NxQ1N2ZHdBc3pBVXFMeERBREw1UjZxMzR4aHBkdGtRcUVJVWRveF9uTTNNM29pQ1dSYlZneWFIOG1BbWVuZjhSUXB6ZlZlcjdMQUF5QUVzcjVmdVd5V1NDXzVZclR3UDVBa2h4VXRkRWhUbXVONUdfTko3ZEtWVW1sb25uNVNNcFRjOUZPVkMySVZPeXM5VllaM2w5QjY4XzMzdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T17:53:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Reporta Tijuana baja en flujo migratorio en 2026 y pláticas para reubicar el albergue Flamingos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e18fb100c34d5908"
+ },
+ {
+  "titulo": "Analizan apoyos al campo y exportación ganadera durante glosa de SADER en Baja California",
+  "liga": "https://elportavoznoticias.com.mx/analizan-apoyos-al-campo-y-exportacion-ganadera-durante-glosa-de-sader-en-baja-california/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-23T17:53:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Los apoyos económicos al campo, el financiamiento y las condiciones sanitarias para la exportación ganadera fueron algunos de los temas abordados durante la comparecencia de la Secretaría de Agricultura y Desarrollo Rural... La entrada Analizan apoyos al campo y exportación ganad",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "1341e8dafff61a17"
+ },
+ {
+  "titulo": "Han dado de baja a 10 policías estatales y hay 36 municipales detenidos por delitos graves",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUpoczNJS2h3cnliLWRsaDFuT3RwNWVTTER1X1lfTUtzOEFWeE1VT3VsTDdfLW1LTEFwRnpEa25paDdaZGhBS2NNdlVZeDJLZGx5SUFNbll5dS03OTN1dEVnZk9XTnBRWmo1THlGRVdPb2RRWlZsVGtyUEMzU051QmFzbWZWb1hnSHFiRjNSWTRteEF5S3dXR1hIZjNNcjJmaGFkdjJZTnpod1FHZGxzQWpTLTZXRVBjZWsycDJNWFJDaXZq?oc=5",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-23T17:53:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Han dado de baja a 10 policías estatales y hay 36 municipales detenidos por delitos graves Punto Norte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "955d4389c65f175d"
+ },
+ {
+  "titulo": "BUAP conmemora 70 años de autonomía universitaria en Puebla",
+  "liga": "https://elcongresista.mx/educacion/buap-70-anos-autonomia-universitaria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:51:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "La BUAP celebra 70 años de autonomía universitaria, un legado que garantiza la libertad académico y los derechos de estudiantes.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "d77b99622bcf082a"
+ },
+ {
+  "titulo": "Dólar supera 6 reales en Brasil por desconfianza hacia Lula",
+  "liga": "https://elcongresista.mx/finanzas/dolar-supera-seis-reales-brasil-lula",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:51:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "El dólar supera los 6 reales en Brasil por dudas sobre las políticas fiscales del gobierno de Lula.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "bb2faff11475fd02"
+ },
+ {
+  "titulo": "\"El Chapo Isidro\" será juzgado en México, confirma FGR",
+  "liga": "https://www.uniradioinforma.com/gobierno/el-chapo-isidro-sera-juzgado-mexico-confirma-fgr-n915887",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-23T17:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "El gobierno mexicano determinó que será Juzgado por las autoridades nacionales.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4a658506fb47f175"
+ },
+ {
+  "titulo": "Suspenden a policías municipales tras robar y golpear a ciudadano",
+  "liga": "https://zetatijuana.com/2026/11/suspenden-a-policias-municipales-tras-robar-y-golpear-a-ciudadano/?utm_source=rss&utm_medium=rss&utm_campaign=suspenden-a-policias-municipales-tras-robar-y-golpear-a-ciudadano",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-23T17:49:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Dos elementos fueron suspendidos provisionalmente luego de que fueran denunciados por golpear y robarle 300 dólares a un ciudadano el pasado 19 de septiembre,.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bf2d3febbfd2e2a1"
+ },
+ {
+  "titulo": "El jefe de IA de Meta advierte sobre el control social de la tech.",
+  "liga": "https://elcongresista.mx/tecnologia/advertencia-jefe-ia-meta-control-social",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:48:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "El jefe de IA de Meta advierte sobre el control social que puede acarrear la inteligencia artificial, llamando a la regulación en su desarrollo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "05a39525630f875f"
+ },
+ {
+  "titulo": "Nvidia se dispara 31.48% y contagia el optimismo en Wall Street",
+  "liga": "https://elcongresista.mx/finanzas/nvidia-dispara-31-48-regreso-jensen-huang",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:47:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Nvidia se incrementa 31.48% tras regreso de Jensen Huang, impulsando la confianza en el sector tecnológico en Wall Street.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "ab1d5785c9972bac"
+ },
+ {
+  "titulo": "Brindarán colegios y asociaciones asesoría técnica al IMPLAN",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVZDQ3U4YmVqcDAtNi1FaEpfN1MxZ0puTFFfdFc4R0E4YTZOVTFiNHFsRkNZWEZnLWZJa2drUXptWlBQajVaWmhPNEZPUVFEaXJfcHA2ZUt1b0NQMWNBcWI5YkE4SDMxc3dVT2dxZDZaVXg5TlhRUkdvUnBTNWNLRENOa1FNRk1ETEdSWXU2X1VYa29rdkMzZVgtelVYYkVCNUNlR1VYa3p6MnUzUDNtdQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-23T17:47:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Brindarán colegios y asociaciones asesoría técnica al IMPLAN AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f3637d1b27b07e5a"
+ },
+ {
+  "titulo": "Meta anticipa que la IA desplazará buscadores en compras online",
+  "liga": "https://elcongresista.mx/tecnologia/meta-ia-buscadores-compras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:45:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Meta anticipa cambios en las compras en línea para 2027, con la inteligencia artificial desplazando a los buscadores.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7b97f78897137f6e"
+ },
+ {
+  "titulo": "Promover la 4T es la labor más importante del ayuntamiento de Mexicali: Norma Bustamante",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVlndU5sMERCa0FpZ0JNVDN2MHJwYi1rVGhsNUZiazFzVHdsMWg2eEZvWnZHcExGdVFCa1Nsc1piTlRob1ZxeHh2VlZyWkR3VGlKVzJIeXhBU3dIWXppelIwd0pCN1NTX3VscFgzdjVDMUZFTk54dDFyR1FmOVdWUi1sYUM0Z1lqR1ZPbjFRTzVhS2k5SmJsQ2JhblVGYmNUQ3VLeTBOWElQWlVLQVZDR3lsZElVZ0c5NlNjaHhmVUtIVjlLYk42dlJKR1ZCT3M4SEZYVg?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-23T17:42:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Promover la 4T es la labor más importante del ayuntamiento de Mexicali: Norma Bustamante AFN",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "d28a1508c0cb58d4"
+ },
+ {
+  "titulo": "Cumplimenta IEEBC sentencia emitida por el TJEBC",
+  "liga": "https://www.uniradioinforma.com/gobierno/cumplimenta-ieebc-sentencia-emitida-tjebc-n915884",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-23T17:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "En sesión extraordinaria, da respuesta a consulta presentada por una ciudadana.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c79ffdb58f4b354b"
+ },
+ {
+  "titulo": "Congreso de Tamaulipas revisa 43 Leyes de Ingresos Municipales",
+  "liga": "https://elcongresista.mx/tamaulipas/congreso-tamaulipas-revision-leyes-ingresos-municipales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:39:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "El Congreso de Tamaulipas revisa 43 leyes de ingresos municipales y llama a seis ayuntamientos a justificar sus ajustes propuestos.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "f87045e39255bcdd"
+ },
+ {
+  "titulo": "Encuentran restos óseos humanos en Reynosa; colectivo exige identificación",
+  "liga": "https://elcongresista.mx/tamaulipas/hallazgo-osamenta-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:38:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Hallan osamenta humana en Reynosa; el Colectivo Amor por los Desaparecidos pide identificación urgente.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "cd100ec4020b6995"
+ },
+ {
+  "titulo": "Sheinbaum contempla regresar a Baja California en diciembre; visitaría hospitales y San Quintín",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWEzNE1jUWZhSDZqSk00cDFtSmZLOGJHT2hOcjAxUXJlZjVwZ3VXVXR0WVNEclBRQXVLZmtjbXFlbHZJdmFaVDRCNElkWHh3Q1FXZ3JyTVBud1c3emJYUGhMVVpOVTBQWXpFTjNvREN2Zi1WdjJXX3dKUHlvYm5uWExGNjJ6VFB4dTdCUldCLXVBby1BYVBFT1N1T185TFFfMEM3bUg4Yy1JYXpkQzZkYW03UzVTQnl1Yk1EWlF6RDMwZXBtdWxvaTZ3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T17:37:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Sheinbaum contempla regresar a Baja California en diciembre; visitaría hospitales y San Quintín Baja News",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "6d613d2739ba9dd2"
+ },
+ {
+  "titulo": "Gaza: jóvenes fotoperiodistas capacitan sobre conflicto actual",
+  "liga": "https://elcongresista.mx/politica/nacional/gaza-juventud-fotoperiodistas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:36:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "En Gaza, 20 jóvenes se capacitan como fotoperiodistas para narrar la realidad del conflicto palestino-israelí.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "86abcf0847f8ad71"
+ },
+ {
+  "titulo": "Graduación de 555 irapuatenses del programa 'Yo Puedo' en Guanajuato",
+  "liga": "https://elcongresista.mx/educacion/graduacion-irapuato-yo-puedo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:36:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Irapuato celebra la graduación de 555 participantes del programa ‘Yo Puedo, Guanajuato Puede’, enfocado en el desarrollo comunitario.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "972ff7da646b2239"
+ },
+ {
+  "titulo": "No hubo reacción de violencia en BC por la detención de El Chapo Isidro: Carrillo Rodríguez",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ25Vb2ktbEVwekVQQ3REeUVSVi1NU0pQNXNNcG9VWjlMNVVmc3dfcy11SDZmUHRaM1B4VXVBTW1yQVhYNnk1RUpSQXVYeVpMeG9JYm0ydGE5Qmg4R2dNcE43RWpxcHpxVUZUVkpCcTBtNk1rNFhReHdoeFhOdUdEaEdKaVNZUkdVOVFIc0RidXlZcEI0NVk0LVB0dHc2U3M3a0xHRmRkM2R2aTlxdjFDRC16dXMwYjBxQU9jX1JsT0FET1h5VGhzb1plUFNtOE85eXo4Y3dCYWM?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-23T17:35:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "No hubo reacción de violencia en BC por la detención de El Chapo Isidro: Carrillo Rodríguez AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "83319f6a4e52d1d7"
+ },
+ {
+  "titulo": "Resultados Tris Extra hoy 23 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-extra-sorteo-36985",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:35:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "El sorteo Tris Extra número 36985 se celebró este 23 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3786a275b75bc98a"
+ },
+ {
+  "titulo": "Chivas y Atlas recibirán la Vuelta de Cuartos en la Liguilla",
+  "liga": "https://elcongresista.mx/deportes/chivas-atlas-vuelta-cuartos-liguilla-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:34:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Chivas y Atlas recibirán la Vuelta de Cuartos de Final en la Liguilla del Apertura 2026, asegurando una histórica presencia en casa.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "0fd98acfbd0afeba"
+ },
+ {
+  "titulo": "Nalleli Pedraza se reúne con sector salud en Lázaro Cárdenas",
+  "liga": "https://elcongresista.mx/politica/michoacan/nalleli-pedraza-sector-salud-lazaro-cardenas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:33:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "La diputada Nalleli Pedraza se reunió con el sector salud en Lázaro Cárdenas para dialogar sobre las inquietudes y retos en la atención a la población.",
+  "temas": [
+   "Política y partidos",
+   "Salud"
+  ],
+  "local": false,
+  "id": "24e850e55a121da8"
+ },
+ {
+  "titulo": "Rescatan a mujer secuestrada en Morelia; tres detenidos",
+  "liga": "https://elcongresista.mx/politica/michoacan/rescatan-mujer-secuestro-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-23T17:31:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Agentes de la Guardia Civil rescatan a mujer secuestrada en Morelia y detienen a tres individuos involucrados.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b137489b805fd838"
+ },
+ {
   "titulo": "Migrantes llegan a Tijuana con la intención de quedarse en la ciudad: Ortiz Villacorta",
   "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQUJGMWFUd1RWVTUweDJLZG11Q09uRkNxTXdhU1lydWRVUWg0dXd4STlHUzQ3THlvMVh4VzF3UTlJV2NDaHBfejBNOHlGV2h5emN4NEVBMFFnaktITEVlV1FZMnc0TzQ2Q2NRSWNEcVMwaC1INjBydzFZZ1FUYmpuOS1qOTBRSEtXRzBEenpxT05MVDZwN1lKTGtORXB4UTk5bW04N3dKYlVMR1Exelp1eFJ0U0tpSlZyT0treEdJTF9RSDZCalhIZXktZUxUcjBnanc?oc=5",
   "medio": "AFN",
@@ -42,6 +563,20 @@
   "id": "1100f59e4a57ad84"
  },
  {
+  "titulo": "Tráiler final de Avengers: Doomsday revela regreso de Capitán América y X-Men",
+  "liga": "https://jornadabc.com.mx/principales/trailer-final-de-avengers-doomsday-revela-regreso-de-capitan-america-y-x-men/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-23T17:26:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Dirigida por Joe y Anthony Russo, la película reunirá a los Vengadores, los Nuevos Vengadores, los Cuatro Fantásticos y los X-Men La entrada Tráiler final de Avengers: Doomsday revela regreso de Capitán América y X-Men se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "af8b133512d1e4fd"
+ },
+ {
   "titulo": "Godoy confirma juicio de “El Chapo Isidro” en México, sin extradición",
   "liga": "https://elcongresista.mx/justicia/godoy-chapo-isidro-juicio-mexico",
   "medio": "El Congresista",
@@ -69,6 +604,20 @@
   ],
   "local": true,
   "id": "aa366e02ba69b627"
+ },
+ {
+  "titulo": "Acumula “El Checo” nuevos cargos; lo investigan por hechos violentos en Tecate",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLUJ4RElwREZxbUVSa3dpTkdZUV9zWE1vYUVMT04zTzlrM2tJcGxIdmk5Z0R6VkNjcHpWb3NNQW5MdG1md2FFc2NFTExhTGdxOGdoQW1vaDdvZFQ1VUlkUS12ZGZzcURFdGJaUEtWSVNFRW44TzRIQ0plUGpFdFZ0TlJhYnA5NGpkdW81MDVXc3NmcnhJdTZuSU50NlNrMklqMzE4SW56RU1ZTEl3NHpfTg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T17:22:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Acumula “El Checo” nuevos cargos; lo investigan por hechos violentos en Tecate Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "fdfbffbbf61557f7"
  },
  {
   "titulo": "Aplazan Nuevamente Audiencia por el Asesinato de Sunshine Rodríguez en Mexicali",
@@ -157,6 +706,20 @@
   ],
   "local": true,
   "id": "fc8454814bf7513a"
+ },
+ {
+  "titulo": "El árbol embrujado",
+  "liga": "https://www.uniradioinforma.com/columnas/el-arbol-embrujado-n915882",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-23T17:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "En algunos lugares del norte del país el aguacate se conoció apenas a mediados del siglo XX.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "eac88c0db34ec8ff"
  },
  {
   "titulo": "Motociclista queda grave tras chocar contra camioneta en Reynosa",
@@ -3258,6 +3821,20 @@
   "id": "a1a8d295cf36ff21"
  },
  {
+  "titulo": "Pertenecían al Cártel de Sinaloa los cuatro detenidos en Playas de Rosarito",
+  "liga": "https://oem.com.mx/lavozdelafrontera/policiaca/pertenecian-al-cartel-de-sinaloa-los-cuatro-detenidos-en-playas-de-rosarito-33280201",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-23T12:51:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Dos de los asegurados eran ex policías municipales, uno inactivo desde el año pasado y el segundo fue suspendido en el 2012",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "43f364cd91786e2e"
+ },
+ {
   "titulo": "Confirma Jasmín Bugarín pérdida definitiva de nacionalidad estadounidense",
   "liga": "https://www.uniradioinforma.com/sociedad/confirma-jasmin-bugarin-perdida-definitiva-nacionalidad-estadounidense-n915800",
   "medio": "Uniradio Informa",
@@ -3313,6 +3890,20 @@
   ],
   "local": false,
   "id": "d845a68e70a3ee8e"
+ },
+ {
+  "titulo": "Denuncian topes peligrosos en vialidad de Villas del Rey",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/denuncian-topes-peligrosos-en-vialidad-de-villas-del-rey-33279963",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-23T12:47:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T18:26:34-06:00",
+  "resumen": "Es en la avenida Estrella donde alrededor de tres topes se ubican estratégicamente, sin embargo, no se alcanzan a diferenciar con el pavimento por no estar correctamente señalados con color amarillo",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "b2d1b72af984cfc3"
  },
  {
   "titulo": "Familia Exige Justicia por Muerte de Graciela Tras Atropellamiento en Mexicali",
