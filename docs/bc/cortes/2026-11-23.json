@@ -352,6 +352,20 @@
   "id": "4a658506fb47f175"
  },
  {
+  "titulo": "Noticias sobre el checo",
+  "liga": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UUdzWWIzb3FGYXJvRDNUMml3X1lfMHlSNGJCa255c0lqT2NaNnAtYlpCSWpzNjVWQU5KTlVZM3hjcU50SHJVc25EaGJwS2gxaVUzTURoakh4QQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T17:49:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre el checo Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3d7ade92b647beeb"
+ },
+ {
   "titulo": "Suspenden a policías municipales tras robar y golpear a ciudadano",
   "liga": "https://zetatijuana.com/2026/11/suspenden-a-policias-municipales-tras-robar-y-golpear-a-ciudadano/?utm_source=rss&utm_medium=rss&utm_campaign=suspenden-a-policias-municipales-tras-robar-y-golpear-a-ciudadano",
   "medio": "Zeta Tijuana",
@@ -978,6 +992,34 @@
   "id": "56919336b77655e9"
  },
  {
+  "titulo": "Noticias sobre caseta de playas",
+  "liga": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QSXhtcktpX0hHMXBLcWZGendMd01iRlpCRXF0Q05zRHA3cU41aVdtZEY1REpKRzZwQ20zRWpZUGJscW9ZWDdnZ0pGQ01abmlFVXdsSk93Ukt5ODl5dko2eHV4R0Y?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T16:49:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre caseta de playas Baja News",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "325793e723746d26"
+ },
+ {
+  "titulo": "Noticias sobre envejecimiento cerebral",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBybWZXVURBVm9LVzVZUkptdXZNU1o5RXlwRmhJc0Vqcmp1aGlDbkF0Wjc5cW1PZFJzemJydHVHTXNCVjR6V0FkYWN2a2Y1N2pnOEI2QUQ1cjNhUkpNdlZLLV9aeTIwV09Bd0ZVMVBB?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T16:49:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre envejecimiento cerebral Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d0dec4d67dc26bd5"
+ },
+ {
   "titulo": "Noticias sobre enfermedades neurodegenerativas",
   "liga": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxOFc0b2hiTHhwU1JEOHF6Ukw1aWs4VlR3TC1hRzFiYXIxR3Vsa1RSVktnTzJrUE5YcXZZOGhpWmo2ZlFtZjNZQzhfZTBxV0t4N2VwSWwzM0MyR00wSEJUX056d3pHZnB2aXdQVVhFX3hGY2lHbGRZYw?oc=5",
   "medio": "BajaNews",
@@ -1319,6 +1361,20 @@
   "id": "ce33f1297b462513"
  },
  {
+  "titulo": "Vinculan colectivos de búsqueda desaparición de mujeres con violencia de género",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/vinculan-colectivos-de-busqueda-desaparicion-de-mujeres-con-violencia-de-genero-33282978",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-23T16:21:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "“Es indignante cómo se lavan las manos para salir bien en una estadística”, mencionó Paula Sandoval",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d714f6ba3d885283"
+ },
+ {
   "titulo": "García Castro promueve obras de la 4T en Tijuana durante asamblea",
   "liga": "https://elcongresista.mx/politica/baja-california/garcia-castro-obras-4t-tijuana",
   "medio": "El Congresista",
@@ -1536,6 +1592,20 @@
   "id": "c4420fe539fbd02d"
  },
  {
+  "titulo": "Capacitarán a policías de Tijuana para prevenir feminicidios tras recomendación de CEDHBC",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/capacitaran-a-policias-de-tijuana-para-prevenir-feminicidios-tras-recomendacion-de-cedhbc-33282830",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-23T15:59:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "La recomendación 8/2026 deriva de la actuación de dos agentes que atendieron un reporte de violencia un día antes de que la mujer fuera localizada sin vida.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8f418a10447e0526"
+ },
+ {
   "titulo": "Desfile Navideño de Luces 2026 en Ensenada: fechas, recorrido e inscripciones",
   "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVB5TXpvRE1hcEVqZlkya29aTnJRSG5ycVNyUUI4T29wWm5MdmM2M2RXZi1OV0lvZ242Rzd6blhPSDhPOGtXek9GQW50ZkxDajdCeXl2QmZIVmJMcFlHV1lma3ZGdzBuM1Yybzh2ME5vczZ0VkdhNllrY09vejF3b1JULXlPZ3RlQk82ZHpMaEhlaUxLbEVaMVhYcE0xLVQxR2ln?oc=5",
   "medio": "verazinforma.com",
@@ -1548,6 +1618,20 @@
   ],
   "local": true,
   "id": "1d5582dbb3bbf293"
+ },
+ {
+  "titulo": "Tienen Leopoldo y Oliva más de dos años sin ver a su hijo",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/tienen-leopoldo-y-oliva-mas-de-dos-anos-sin-ver-a-su-hijo-33282470",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-23T15:54:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Sebastián, de 23 años, fue visto por última vez el 25 de julio de 2024, cuando salió de Mexicali con rumbo a San Felipe",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7619aa716c4b174c"
  },
  {
   "titulo": "Gobierno de CDMX limita licencia permanente a transportistas y motos.",
@@ -1663,6 +1747,20 @@
   ],
   "local": false,
   "id": "0ddeb1b9feb0a3c6"
+ },
+ {
+  "titulo": "Noticias sobre sinpot",
+  "liga": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCTU00WUk2b1l2dTdUbklpd29kS3NQN1h0STJSVzlrcTRFMUhReDB2a0doMk0zWm9HZVFrNm1UVVUxQ2laMEJONGtLZjkxdWJEc2p5cEFjOA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T15:49:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre sinpot Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1249f1d99aafac0e"
  },
  {
   "titulo": "Cafeticultores marchan en Chiapas para exigir precios justos",
@@ -2511,6 +2609,20 @@
   ],
   "local": false,
   "id": "85d8026f50c6cb3f"
+ },
+ {
+  "titulo": "Noticias sobre manufactura automotriz",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JUl95M1RUTUJVdzZEQnd5Z2NnT0xCdThpLTh2YzN1M1U3YlJEcUxPaldwaHBjWG9iUXk5dUJrVVVyYTN4T01fSlVwV0x6d0duandqRjAzZWNna21TVVN1ODBRYmk5ZUs1cVJoMw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T14:49:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre manufactura automotriz Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c7dc6e3d71c6acaa"
  },
  {
   "titulo": "The Crash celebra 15 años con lucha de máscara en Tijuana",
@@ -3459,6 +3571,20 @@
   "id": "39b71600ae2aba72"
  },
  {
+  "titulo": "Noticias sobre captura de narcotraficante",
+  "liga": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idVp4YnhLRDk0QXRVZW5jbXhBZkJlaVBFQ3FqVGVLLWk0M1lRZ242VnQxT2pReGx0dllIQS13M3VCMjJDUVg5YlRVWThFcE5HNVN6bC1oa0ZRWGFhQTByNUQ0cHA3ZF9JMUttQmxkTTdaZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T13:51:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre captura de narcotraficante Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "212a20b2b0ecc0c1"
+ },
+ {
   "titulo": "Alfonso Martínez llama a rescatar Michoacán entre opositores",
   "liga": "https://elcongresista.mx/politica/michoacan/alfonso-martinez-rescatar-michoacan",
   "medio": "El Congresista",
@@ -3472,6 +3598,20 @@
   ],
   "local": false,
   "id": "c0fe3a3c05cad2c0"
+ },
+ {
+  "titulo": "Noticias sobre vengadores",
+  "liga": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXZkliaXBjSlJiVnB6djBPajhlV1UwdGFCSE5XejNzY0xkZ1dXY1pBWV9oeUF1QnRqZUFncWdJUFBjVmlOTnFBMnc2Mkxtc3NXTU1OMTdwZFNLTERS?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T13:50:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre vengadores Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "906e3ed5660be929"
  },
  {
   "titulo": "Julieta Ramírez visita San Diego para fortalecer vínculos con migrantes mexicanos",
@@ -5094,6 +5234,20 @@
   "id": "59982b6ddcba5462"
  },
  {
+  "titulo": "Noticias sobre conductor muerto",
+  "liga": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zRjhRVGxUSVRjbWotSGh6Vk85R3RSeGR1SUk2Zmo4MWE3Q28yeWdFZUUxVzkwQVVBS0RZWUN0bGthTGw2MkRsRzVjTlJlRUt1M0JHX0dCR3FCS25TWThQM3ZEV2I?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T10:49:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre conductor muerto Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8e6f19a116af11bf"
+ },
+ {
   "titulo": "Michoacán inicia avistamiento de ballenas del 15 de diciembre al 20 de marzo",
   "liga": "https://elcongresista.mx/politica/michoacan/avistamiento-ballenas-michoacan",
   "medio": "El Congresista",
@@ -6122,6 +6276,20 @@
   ],
   "local": true,
   "id": "d10e6438f7f980a3"
+ },
+ {
+  "titulo": "Abogados de BC advierten retroceso en reforma al TEJA, porque gobernadora sería juez y parte",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/organizaciones-de-abogados-se-pronuncian-en-contra-de-la-reforma-del-teja-33276633",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-23T08:44:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Es el tribunal encargado de evaluar y juzgar los actos del gobierno cuando son denunciados por la gente",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "b1b87875e0861803"
  },
  {
   "titulo": "Obispo de Piedras Negras llama a evaluar fracking en Coahuila",
@@ -9202,6 +9370,20 @@
   "id": "84df0e76d41de159"
  },
  {
+  "titulo": "Noticias sobre brandon guerrero",
+  "liga": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zRXFWc2syY2h4WjFHaWxpUUtZT3FOeXVEMUNvdXhqWVBTbW1xM1d4TjF1RmRZSm52WEQzbUxTbE9IMlZMeXp1c1BjU0x2ckpvNWU2SVU1SWdEYkxOUnBFMzYwN3c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T21:58:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre brandon guerrero Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9a23551b14cba687"
+ },
+ {
   "titulo": "Se reunió Burgueño con residentes de las colonia Sánchez Taboada y 3 de Octubre",
   "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzhEb291NnpRX3pfM21EYWxEb3lLMXZQS1FsQ3FvUm10OXV1d0xyR3hpN0hKMnFYSVNDU2hUNzV6RkRTd1A3WUZNM0ZlNmV6a0JuaXNJYnQyTnpxaHluZ1ZERVVZQ3FJMjZGbU9SZ0dGdVJPMEM3TVh5anlaSm13TklETkdkYVJSLUplY0doWWJpb3didXdTN0xWdG5scG5CcHRKZ085N2dBMUdBcDIxOE9HTDh4STNPUGRVdDN3?oc=5",
   "medio": "AFN",
@@ -9562,6 +9744,20 @@
   "id": "1589c6b33457ceb2"
  },
  {
+  "titulo": "Noticias sobre el chocolatazo",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00TndBVzJCa3UwNHdfRFltTDR0X1Y4cjRRLTJ3N2JmTmxmZXFzbldxVGtOSW5hSlVSeWRtTVpONjl0VTVsYk5zN2txcDB1bjgwcU5vU3N1dkJETHBla0FUeXhn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T20:50:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre el chocolatazo Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "82d132e2fa8062d0"
+ },
+ {
   "titulo": "Marina recolecta 74 mil toneladas de sargazo en Quintana Roo",
   "liga": "https://elcongresista.mx/politica/quintana-roo/marina-recolecta-sargazo-quintana-roo",
   "medio": "El Congresista",
@@ -9725,6 +9921,20 @@
   "id": "ab03ca0cd9bd3631"
  },
  {
+  "titulo": "Noticias sobre asociaciones de migrantes",
+  "liga": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXblBYLTdrVmZWd0lBRFVVVk1qd1lBTVgtdVVmN01SNHM5M0wtek5TRG9FWGJTZlpqNGRiMWxGQXZ6NjZlUnVoODRjQklVd1dCWDdGM1ZvTlc1a2QwQ0lCYURqaTdjN0NRMFpOYklzeUU?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T20:25:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre asociaciones de migrantes Baja News",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "b0f3514c2c778d46"
+ },
+ {
   "titulo": "Promueven ley para la atención de personas que padecen Lupus",
   "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2c5alFqZDZFcExPdEtGbFdrdjFOeG5tTzVwcVBkZnh4MlJ0WHE5UUxIR0RpSWRxYmZSbzYtNmZpSVJReFlIeFlBRVdnOG1WdHhIOFVuOUl2bmJGY3RLV3IydVFzbzBDWmxzTlZKR3dhRnRlaTZiN0xXS21DU0xybG5GcFBuNThESFpFRFBjeG8xbUVlNE10dGEyOV9ZSTNNUmhOaWRkUDNqakVfdGNzZw?oc=5",
   "medio": "AFN",
@@ -9881,6 +10091,34 @@
   ],
   "local": true,
   "id": "27056cb73e3d25ab"
+ },
+ {
+  "titulo": "Noticias sobre rovaniemi",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVUNVeUxlSTRQNW0zbVJVLVVQZWFQLU41MTNuTUlzLWJYQV9hVU9sOFRBMmpkTTdGWXowSElDcnU4UEhERTlMd05NT1Y0NExzd3N3QTlxb29xS00?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T19:50:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre rovaniemi Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9a32ed45fb3f2bd8"
+ },
+ {
+  "titulo": "Noticias sobre riemann",
+  "liga": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fV1NoeGctdV9QSWFlLWxLdTI5b2RYWVBMa3p6bl90NW9JUGpaQXJkWmV6cjlYYjVTQjRxRkNvQmVOTUdic053a3VRYkF0S0k4bGM5WTA2X2c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-22T19:49:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T22:00:59-06:00",
+  "resumen": "Noticias sobre riemann Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ff0eabbba7ebdf58"
  },
  {
   "titulo": "Recapturan en Ensenada a “El Checo”, señalado como operador del CJNG en Tecate",
