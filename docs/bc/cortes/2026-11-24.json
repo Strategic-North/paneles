@@ -1,5 +1,623 @@
 [
  {
+  "titulo": "Reconocen a personas e instituciones altruistas con el Premio Estatal al Altruismo 2026",
+  "liga": "https://elportavoznoticias.com.mx/reconocen-a-personas-e-instituciones-altruistas-con-el-premio-estatal-al-altruismo-2026/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-24T12:27:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "El Patronato Red Social realizó la XXVIII edición del Premio Estatal al Altruismo 2026, una ceremonia que reconoce a personas e instituciones cuya labor solidaria ha contribuido a mejorar las condiciones de... La entrada Reconocen a personas e instituciones altruistas con el Prem",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5ea62511610f6e73"
+ },
+ {
+  "titulo": "Maratón Puebla: colección de cinco medallas con diseño único",
+  "liga": "https://elcongresista.mx/politica/puebla/maraton-puebla-medallas-coleccionables",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T12:23:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "El Maratón Puebla presentará cinco medallas coleccionables del 2026 al 2030, inspiradas en distintos íconos poblanos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "911b5a64a7be4acd"
+ },
+ {
+  "titulo": "Sheinbaum anuncia aumento del PIB de 3.3% en tercer trimestre 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-pib-crece-3-3-tercer-trimestre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T12:22:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Claudia Sheinbaum anuncia un crecimiento del PIB de 3.3% en el tercer trimestre de 2026, reflejando la solidez de la economía mexicana.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "53f0ef9b6fda6ed0"
+ },
+ {
+  "titulo": "Rescatan y liberan a mono aullador \"Cocobongo\" en Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/rescatan-liberan-mono-aullador-cocobongo-veracruz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T12:21:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Cocobongo, un mono aullador rescatado en Veracruz, ha sido liberado con éxito tras recibir atención médica.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bcc2835cba059e36"
+ },
+ {
+  "titulo": "Tecate Pa’l Norte 2027 revela su cartel con Travis Scott, Post Malone y Charli XCX",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM1cxTWlJRFBsTEFHeER6LWVMQUtnamFHVUxJcllWQ2J1c2lURlRQdnVHWHE3OXk3S1FybGpvT29ZTGdmMzRTamN2MDZqR0dycENoQ0NJaFppQkdVX2M5RlhpaVE0Z0h6QjBZakhnRm5neXpKQWNMTTBGb1NvN085MTJoZzZ4WmtuU0lWZDEzXzdhSG10ZG5WMXdybDBJUDYyZ1EwSWpqdmZUOE43MlpLaXUtb2JwamRLNW0xVkcwTQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T12:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Tecate Pa’l Norte 2027 revela su cartel con Travis Scott, Post Malone y Charli XCX Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1113e0c00a160208"
+ },
+ {
+  "titulo": "Detienen a El Chapo Isidro con cargos de tráfico y lavado de dinero",
+  "liga": "https://elcongresista.mx/politica/sinaloa/detienen-chapo-isidro-trafico-drogas-washington",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T12:20:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Fausto Isidro Meza Flores, El Chapo Isidro, es detenido y enfrenta múltiples cargos de narcotráfico en EE.UU.",
+  "temas": [
+   "Seguridad",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1e31f5d9977d5a07"
+ },
+ {
+  "titulo": "Inés Gómez Mont deja prisión migratoria tras tres semanas de arresto",
+  "liga": "https://elcongresista.mx/politica/nacional/ines-gomez-mont-liberada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T12:19:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Inés Gómez Mont es liberada tras pagar fianza en EE UU, enfrentando órdenes de aprehensión por delitos en México.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "73a86456662094ca"
+ },
+ {
+  "titulo": "Empresarios piden 6% de aumento al salario mínimo para 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/empresarios-piden-aumento-salario-minimo-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T12:08:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Empresarios en México piden al gobierno un aumento del 6% al salario mínimo para 2027, destacando la necesidad de estabilidad económica.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7dd5fd51a3365d8d"
+ },
+ {
+  "titulo": "Gilberto Zuany deberá comparecer hoy o perderá su suspensión judicial",
+  "liga": "https://elcongresista.mx/justicia/audiencia-gilberto-zuany-aprehension",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T12:07:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Gilberto Zuany enfrenta hoy una audiencia por un amparo; si no se presenta, perderá la suspensión de su aprehensión por delitos graves.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "2c6ab33e86f940a3"
+ },
+ {
+  "titulo": "México registra 12 casos de sarampión; prevé estar libre del virus",
+  "liga": "https://elcongresista.mx/politica/chiapas/mexico-sarampion-12-casos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T12:05:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "México reporta 12 casos activos de sarampión y busca recuperar su estatus libre de transmisión mediante campañas de vacunación.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "262b3264fa660fb9"
+ },
+ {
+  "titulo": "Municipal rescata a víctima de secuestro en el Motel Marbella, hay un detenido que exigía 10 mil dólares a su familia",
+  "liga": "https://puntonorte.info/2026/11/24/municipal-rescata-a-victima-de-secuestro-en-el-motel-marbella-hay-un-detenido-que-exigia-10-mil-dolares-a-su-familia/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-24T12:00:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Tijuana.- Policías municipales rescataron a un migrante que al llegar a Tijuana fue secuestrado por el hombre que lo recogió en el aeropuerto, quien con amenazas de matarlo, exigía 10 mil dólares a su familia en Estados Unidos para dejarlo libre. Ese sujeto, identificado como Lui",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": true,
+  "id": "c709acc8c96a8582"
+ },
+ {
+  "titulo": "Millesime GNP 2026 les abre las puertas a los nuevos protagonistas de la gastronomía mexicana en el Centro Banamex",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZE9iMWQ5YmFEMm5RNFJKRWhCNHc3dTZseEg0bFBpQVlmandlcUFVMk1LNlVXSTYzWWg1dHkwTkxNbHJOdFdDUXhJWVBYdmctcVh5NlFHN1ZIYzFXUnlFYjRsd2VPN3UyenVmNWJyYlFrTWg4U3BfQlZOdHNWSDZZeFB5cmoycXEzUllyUlpzeWJXLVlsSHZCNmo1UnF3VDB4ZlY3aWlheFZ6Q3VLVHg1ak1R0gGyAUFVX3lxTFBLRGR4ZlJvSWxFWHZxVmF4X0dSdFRVNU90UHBiekplalNPNFNRd2VIWnZrbHRlV2k0TVotZTkyNXZGY01MZzRNcVRyZzc1Z3A5MGJ6Z0xJZmpPVXVwVzFUcGdRV3lUTFZlVS12Y0RaWFMyNExsSmdXazFFNmJ5TWNfallheGZlZExqWnFTUHo4UklGREVEbWFvQTI1TzQ4YkxqTS1JdEJoOE1wWVhhR1hWUGc?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-24T11:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Millesime GNP 2026 les abre las puertas a los nuevos protagonistas de la gastronomía mexicana en el Centro Banamex Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7f0229ef02522963"
+ },
+ {
+  "titulo": "Estados Unidos será sede de la Copa América 2028; México debe clasificar por la Copa Oro 2027",
+  "liga": "https://www.uniradioinforma.com/deportes/estados-unidos-sera-sede-copa-america-2028-mexico-debe-clasificar-copa-oro-2027-n915972",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T11:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ca8ebe905dfa873a"
+ },
+ {
+  "titulo": "Sin alianzas, Colosio Riojas apuesta a ganar en Sonora; pide licencia al Senado",
+  "liga": "https://www.uniradioinforma.com/sociedad/sin-alianzas-colosio-riojas-apuesta-ganar-sonora-pide-licencia-senado-n915975",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T11:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Anunció que recorrerá todos los municipios para poder llegar a toda la gente posible.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "8139568ff962d16b"
+ },
+ {
+  "titulo": "Durango busca diversificar cultivos ante incertidumbre en el mercado del frijol: Esteban Villegas",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPME42cU9HaTNGX2RVaUJyLVRjMTMzVXE0UnpldmlaQlJnRDBJdDBZeGVpQl9DQ05XZ2xYSFFRR1lfYWJxaVhRLVNnZWc5NFhxTVNmanZsTV8yclJuQVl1cGpleTBGSnVBOEJOdW9yWTNHS3o2aFNuS2JqX2VsdElvUkhyWnhCelZvYmtTd0Y5T2R3Y1dMUkVYRGxDaFJXNWRCdlpFZE1ISEx4SVg0MWJOZnZVTVpkS2NzbVZXZFZQcGEtVGozcWI4NnhDdw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T11:52:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Durango busca diversificar cultivos ante incertidumbre en el mercado del frijol: Esteban Villegas Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dd9754476d396b71"
+ },
+ {
+  "titulo": "Asaltan a Mujer Adulta Mayor en El Pípila, Tijuana; Detienen a Tres Jóvenes",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOenVjTFcxY1B0ZXNmS2pOa1Y2SHU4RkY4NG9LaGlFVHYya2JvU3ZJUlRSMDlYRFc4ODh2dVpwaGZNTXVxNExEQlFoamZKU0VhdDFSNmoyUXJhSDhBVnM2ZGhHWDUyNnBSNUxOV3RydW1ZRnNkd2R1MGE3end3T3VVcjFoUGdYdnNtWVgtSjAxMU5Uck5WcHJ6cGdPenNESXlNTW1YOEtxTWJWMWMxaS1lUGl5Z1dSWnZiMDhWTEJCXzVxdw?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-24T11:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Asaltan a Mujer Adulta Mayor en El Pípila, Tijuana; Detienen a Tres Jóvenes N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b4401978261e3ae2"
+ },
+ {
+  "titulo": "Concluye rehabilitación de 12 parques en Playa del Carmen",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/rehabilitacion-parques-playa-del-carmen",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:48:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Con una inversión de 13.3 millones de pesos, Playa del Carmen concluye la rehabilitación de 12 parques recreativos este año.",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "99bc734e6d6cf7ee"
+ },
+ {
+  "titulo": "Migrantes de la caravana \"Dios con nosotros\" se quedan en Arriaga",
+  "liga": "https://elcongresista.mx/politica/chiapas/migrantes-arriaga-chiapas-varados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:47:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Migrantes de la caravana \"Dios con nosotros\" están varados en Arriaga, Chiapas, en espera de permisos para trasladarse.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "80168b3c0aeb4c86"
+ },
+ {
+  "titulo": "Ronald Johnson afirma que muertes por fentanilo disminuyen 40%",
+  "liga": "https://elcongresista.mx/seguridad/ronald-johnson-reduccion-muertes-fentanilo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:45:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Ronald Johnson reporta una reducción del 40% en las muertes por fentanilo y avances en seguridad fronteriza en México.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "83c532a142970627"
+ },
+ {
+  "titulo": "Buscará Colosio gubernatura de Sonora en 2027 por MC",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXZkaDMybVREeVVDQzA3X0ZnOTd1V1JtbkJpQXVSNmN0Qks5dmRjN0oyb3FvRjRQRDZHOHpJdVl6a2t3M2d2UkZvRHdwcGpmUC0zNVBFMmJlTW83YjFfQlZwQmpZdGVBOTNsZEdCckM3cUpyZGFXbEV0MWxWOWg4UXp0QzZIV3hhb3JRVE4ySXBSOUpQYTVQdVoxQjBHR2EzbE02QWpB?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T11:45:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Buscará Colosio gubernatura de Sonora en 2027 por MC AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c1e6ad43a6aa31f0"
+ },
+ {
+  "titulo": "Motociclista herido aguarda 60 minutos atención médica en Zaragoza",
+  "liga": "https://elcongresista.mx/politica/chihuahua/motociclista-zaragoza-espera-atencion-medica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:36:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Un motociclista en Ciudad Juárez esperó 60 minutos para recibir atención médica tras un accidente, generando preocupaciones sobre la respuesta de emergencias.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b7f83424273a2179"
+ },
+ {
+  "titulo": "México: obesidad infantil desciende al octavo lugar a nivel mundial",
+  "liga": "https://elcongresista.mx/salud/mexico-obesidad-infantil-octavo-lugar",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:34:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "México baja al octavo lugar en obesidad infantil según Claudia Sheinbaum al retirar dulces en escuelas.",
+  "temas": [
+   "Educación",
+   "Salud"
+  ],
+  "local": false,
+  "id": "b619766eb1221046"
+ },
+ {
+  "titulo": "Holiday Inn & Suites Tijuana Downtown abre sus puertas: una nueva era de hospitalidad y confort",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZjd5S3d4S0tCSlhELTNtTWoxbl8xVXhTMHFhR0V6akJSR2xZd0FWZElwSXM3djhsdHh6c0dEb281ZE05RVl6RDRRZWNsX0tna2VwUE9tdTBNcktMRzhBLVQwOWVFTE1qUDVGSUNKczN0emZJcG1iMjNVTjhkMS02N0UtdnZoNUE1ajJDdGRiZ3p5MFVkbnRGOGYzU1ByYWZMcDRZU0p0SVRBcDY3Y2xvSkVNemp1ZjJ2eHRuQzYtcUgwclozZ2c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T11:34:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Holiday Inn & Suites Tijuana Downtown abre sus puertas: una nueva era de hospitalidad y confort Baja News",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "3f509ad6f3aa637e"
+ },
+ {
+  "titulo": "Luis Donaldo Colosio pide licencia al Senado para contender en Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/colosio-sonora-licencia-senado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:34:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Luis Donaldo Colosio solicita licencia al Senado para competir por la gubernatura de Sonora, sin alianzas políticas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "afe628a8622f7498"
+ },
+ {
+  "titulo": "IMSS e ISSSTE reportan avances del plan de 12 acciones en 38.8%",
+  "liga": "https://elcongresista.mx/politica/durango/avances-imss-issste-12-acciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:33:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "IMSS e ISSSTE reportan un avance del 38.8% en su plan de 12 acciones, impulsando la atención médica y la contratación de personal.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "55af163a7e03f5ec"
+ },
+ {
+  "titulo": "Sheinbaum impulsa reforma para regular casinos digitales en México",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-reforma-casinos-digitales-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:30:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Claudia Sheinbaum propone una reforma para regular los casinos digitales en México, ante el aumento de la ludopatía entre jóvenes.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3d9eeef771133be8"
+ },
+ {
+  "titulo": "Caravanas de la Salud en Unidad Deportiva Francisco Villa",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wMEp3eWxCb01KSUhObll1bUlibFpqUDhhY0xqM1lpdE5TOE8yN1F1bHRlZlVySkVxT3o4VU5NWDk4RXZIb004UFhzeVNJSUluekIydFBVQW5wZk0?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-24T11:30:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Caravanas de la Salud en Unidad Deportiva Francisco Villa Ensenada.Net",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "ac0d033d48579ccc"
+ },
+ {
+  "titulo": "Crean ‘TJ Rush’, un Videojuego Ambientado en las Calles de Tijuana, BC",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWJJd1lhSzVNeUhTOVNNQklFWWVqX2tUSkQ0Q21QVW8wU0lmQ1I0TlFaUXlvOHEyMlZVX29kdm5ORjFOdWQ0UWVYemhQYnVWS3hMaGI4NlBnamp3Nlpkd1lidmlqYm95c19ydUVBVU43NU9RRW1FLTdjRWVWZFBxLXlWZEYzci1iNWpQTWI4a295cTBENHNGMU0zRy1KT0p6NFNNbGRsWFl4U1d1TUNNcmFvbWlwSlE?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-24T11:26:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Crean ‘TJ Rush’, un Videojuego Ambientado en las Calles de Tijuana, BC N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "22ba7733b9fbc8ad"
+ },
+ {
+  "titulo": "Denuncia el PRD capitalino a magistrados electorales por dilatar entrega de prerrogativas",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR3RncFFQX3p4OFEzM3Y5NTA4RXNZNHhRay1tbWpKXzJNejllYndVdk1qakxCWEhlLXNGWnlOOFBTcHhoZHpZbzZXSnNheExPOE5LLUprZE9rcFdIT3EyeEZWM1IxdEtyOXp6Y0FpSk02R0ppMUw2Vk05dzc1OV96RzB3M2xmSkFiQTRfbEppMTMzRlR3X2lyWEFGLUdOaFhTT2lFbHZveTBOenlRdklBSDhQUDlsOW92cnhRZ0h2NERoaXV5MUcyQkVJQQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T11:25:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Denuncia el PRD capitalino a magistrados electorales por dilatar entrega de prerrogativas AFN",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "7f6924ecf1ae7452"
+ },
+ {
+  "titulo": "FGR inicia 15 investigaciones por corrupción en el INE",
+  "liga": "https://elcongresista.mx/justicia/fgr-investigaciones-corrupcion-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:18:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "La FGR ha abierto 15 carpetas de investigación por corrupción en el INE, abordando el caso de Guadalupe Taddei y otros involucrados.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "bf182030f7359a9b"
+ },
+ {
+  "titulo": "D'Angelo Russell se une a los Shanghai Sharks tras dejar la NBA.",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalAzYVRMNVhUOVo3cnlFTkxfN0ZxOXVKTjAtRVltOXdUWTB5amFSZFV0dExEQWJrNXIyaHpQQWxvME03cm9Zekh6em9WcmYzX1VOUG9hUklLM1hITTUxbVo0MzdUVENMSlVHblFyTkZsS083Z3Y5d3JUSzVacGppMFhMWVlhWkNRMUl2aHFESFNVREx6TjdyTURvLUZZVzg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T11:17:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "D'Angelo Russell se une a los Shanghai Sharks tras dejar la NBA. Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "8dfcf2e73f10c661"
+ },
+ {
+  "titulo": "Resurgen corridos que retratan la trayectoria de \"El Chapo Isidro\"",
+  "liga": "https://www.uniradioinforma.com/fama/resurgen-corridos-retratan-trayectoria-el-chapo-isidro-n915969",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T11:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "¿Qué canciones están dedicadas a \"El Chapo Isidro\" y qué cuentan sobre su historia?",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8b5bf8756955285b"
+ },
+ {
+  "titulo": "Avanza fortalecimiento del IMSS, ISSSTE e IMSS Bienestar con los planes integrales de 12 acciones en 120 días: Sheinbaum",
+  "liga": "https://www.uniradioinforma.com/gobierno/avanza-fortalecimiento-imss-issste-e-imss-bienestar-planes-integrales-12-acciones-120-dias-sheinbaum-n915966",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T11:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Se inauguró el Centro Integral de Salud Renal y Atención Primaria del IMSS Bienestar en Toluca, Estado de México",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "670e040d79b8f27d"
+ },
+ {
+  "titulo": "Aeropuerto de Cancún programará 459 operaciones este 24 de noviembre",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/aeropuerto-cancun-459-operaciones-24-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:16:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Este 24 de noviembre, el Aeropuerto de Cancún programará 459 operaciones de vuelos nacionales e internacionales, destacando su relevancia turística.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3766f41d77e9ac1c"
+ },
+ {
+  "titulo": "Camino Real de Tierra Adentro: ruta histórico-comercial de mil 600 km",
+  "liga": "https://elcongresista.mx/politica/baja-california/camino-real-tierra-adentro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:15:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "El Camino Real de Tierra Adentro, una ruta histórica que conectó México y EEUU, es reconocido por su relevancia cultural y comercial.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bae21059f292ae91"
+ },
+ {
+  "titulo": "Bomberos atienden 48 servicios de emergencia durante las últimas 24 horas",
+  "liga": "https://www.uniradioinforma.com/policiaca/bomberos-atienden-48-servicios-emergencia-durante-ultimas-24-horas-n915963",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T11:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3b082709109f3ef4"
+ },
+ {
+  "titulo": "Fallece hombre de 62 años en Reynosa tras desvanecerse en su hogar",
+  "liga": "https://elcongresista.mx/tamaulipas/fallece-hombre-62-anos-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:14:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Un hombre de 62 años falleció en Reynosa tras desvanecerse en su domicilio; se investiga la causa del deceso.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4c7ca2e5af16e830"
+ },
+ {
+  "titulo": "Captura la FGE a sujeto presunto responsable de abuso sexual contra una menor",
+  "liga": "https://www.uniradioinforma.com/policiaca/captura-fge-sujeto-presunto-responsable-abuso-sexual-una-menor-n915961",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T11:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "La Agencia Estatal de Investigación cumplimentó una orden de aprehensión en contra de Juan Ricardo \"N\".",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "9bf7c57e47487205"
+ },
+ {
+  "titulo": "Empresarios de Querétaro buscan colaboración comercial en Países Bajos",
+  "liga": "https://elcongresista.mx/politica/queretaro/empresarios-queretaro-colaboracion-paises-bajos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:12:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Empresarios de Querétaro se reúnen con representantes de Países Bajos para buscar nuevas oportunidades comerciales e inversión.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d1ad903e973e859a"
+ },
+ {
+  "titulo": "La Herradura acoge el XLI Certamen Internacional Andrés Segovia con 21 guitarristas",
+  "liga": "https://elcongresista.mx/cultura/certamen-internacional-andres-segovia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:10:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "La Herradura inicia el XLI Certamen Internacional Andrés Segovia con 21 guitarristas y un premio de 10 mil euros. La final será el 28 de noviembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bb69467ff771f9ec"
+ },
+ {
+  "titulo": "Vadhir \"N\" lanza súplica al público: pide que no involucren ni acosen a su familia",
+  "liga": "https://www.uniradioinforma.com/fama/vadhir-n-lanza-suplica-publico-pide-involucren-ni-acosen-su-familia-n915955",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T11:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "98d2e78d032cdef3"
+ },
+ {
+  "titulo": "Papa Francisco escribió en su diario que vio al diablo tres veces: \"No olvido sus ojos amenazantes\"",
+  "liga": "https://www.uniradioinforma.com/viral/papa-francisco-escribio-su-diario-vio-diablo-tres-veces-no-olvido-sus-ojos-amenazantes-n915952",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T11:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "04daefd3dfafaf26"
+ },
+ {
+  "titulo": "Aseguran siete explosivos en operativo del Ejército en Cotija",
+  "liga": "https://elcongresista.mx/politica/michoacan/aseguran-explosivos-cotija-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T11:01:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "El Ejército Mexicano asegura siete explosivos durante un operativo en Cotija, Michoacán, en cumplimiento de la estrategia de seguridad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e153260060042bc8"
+ },
+ {
   "titulo": "Vehículo termina fuera de la carretera libre Tijuana-Rosarito",
   "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEduOHpleFhRYjBmNF90eFlzQ0lsUnV0UTFkTW1JZ2RROEdmbmZlTkFxM2hPbVV4djZFZWJYeS1RbmQxRFFEU1AwRjJDVVM1WDVvYnpSZDMzREhPcnduNEtiTnFSaG9uMkhBcGlrQzVUT29KWXZlY1h3dDRCUzFpNXdiX1lFdEJrVDZSdExyYldRYmVMNWVwU3RXajcwQQ?oc=5",
   "medio": "BajaNews",
@@ -12,6 +630,21 @@
   ],
   "local": true,
   "id": "0ab3a3f06998846f"
+ },
+ {
+  "titulo": "Capturan a “El Chapo Isidro” con apoyo de 361 elementos militares",
+  "liga": "https://elcongresista.mx/politica/sinaloa/captura-chapo-isidro-guasave",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T10:54:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "En Guasave Sinaloa, se captura a “El Chapo Isidro” en un operativo con 361 elementos militares, reforzando la lucha contra el narcotráfico.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3751fbe698c7ddb3"
  },
  {
   "titulo": "Ensenada Prepara Desfile Navideño 2026: Fecha y Hora del Recorrido de Carros Iluminados",
@@ -28,6 +661,38 @@
   "id": "62bd82f2f26747a0"
  },
  {
+  "titulo": "Kicillof presenta el Servicio de Empleo para 20 municipios bonaerenses",
+  "liga": "https://elcongresista.mx/politica/nacional/servicio-bonaerense-de-empleo-kicillof",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T10:53:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Axel Kicillof presentó el Servicio Bonaerense de Empleo, que conecta a trabajadores con empresas y ofrece capacitación gratuita.",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "da2dd60751c60624"
+ },
+ {
+  "titulo": "Sheinbaum urge revisión del presupuesto de 36 mil millones del INE",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-revision-presupuesto-INE",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T10:50:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum pide revisión del presupuesto del INE por 36 mil millones y pide investigar costos de urnas y mamparas.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "52d7baf0d01167b0"
+ },
+ {
   "titulo": "Presentan traducción que hizo Luis Villoro de ‘El principito’ hace 70 años",
   "liga": "https://jornadabc.com.mx/02_secundarias/presentan-traduccion-que-hizo-luis-villoro-de-el-principito-hace-70-anos/",
   "medio": "La Jornada Baja California",
@@ -40,6 +705,51 @@
   ],
   "local": true,
   "id": "981628b59adc3f83"
+ },
+ {
+  "titulo": "Sheinbaum aplaza hasta 2027 reformas anticorrupción por falta de consenso",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-aplaza-reformas-anticorrupcion-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T10:49:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Claudia Sheinbaum retrasa reformas anticorrupción hasta 2027 por falta de consenso entre instituciones. El congreso concluye en diciembre.",
+  "temas": [
+   "Gobierno del estado",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0dd7a645a98190c6"
+ },
+ {
+  "titulo": "Sheinbaum planea aumentar exportaciones de México a China",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-aumentar-exportaciones-a-china",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T10:48:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "La Presidenta Claudia Sheinbaum busca aumentar exportaciones a China y mejorar la balanza comercial entre ambos países.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0e5821931fa59656"
+ },
+ {
+  "titulo": "INEGI reporta inflación anual de 3.96% en la 1a quincena de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/inegi-inflacion-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T10:46:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "INEGI informa que la inflación anual en México es de 3.96% en la primera quincena de noviembre de 2026, superando previsiones.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9810bf22baf0bc74"
  },
  {
   "titulo": "Vacunación gratuita: llegan las Caravanas de Salud a Mexicali",
@@ -200,6 +910,22 @@
   ],
   "local": true,
   "id": "ec8f6bcb799e6d4f"
+ },
+ {
+  "titulo": "Dos mercadillos de segunda mano este sábado en Tolosa",
+  "liga": "https://elcongresista.mx/politica/nacional/mercadillos-segunda-mano-tolosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T10:21:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Este sábado Tolosa albergará mercadillos de segunda mano para fomentar la economía circular y la reducción de residuos.",
+  "temas": [
+   "Economía y empleo",
+   "Medio ambiente",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fd67a8929be96dea"
  },
  {
   "titulo": "Natanael Cano reaparece en Baja California tras suspender su gira: así luce el cantante",
@@ -1333,6 +2059,20 @@
   "id": "08f8dc66144df7d1"
  },
  {
+  "titulo": "Anuncia Toros de Tijuana calendario de local para el 2027",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/anuncia-toros-de-tijuana-calendario-de-local-para-el-2027-33289551",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-24T06:54:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "El equipo fronterizo tendrá 16 series en casa, enfrentando a 11 rivales",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "5f2a7930e95dcf99"
+ },
+ {
   "titulo": "Dólar fuerte y fin de semana largo: Tijuana se alista para recibir a San Diego en Thanksgiving y esperan aumento en las ventas",
   "liga": "https://www.uniradioinforma.com/sociedad/dolar-fuerte-fin-semana-largo-tijuana-alista-recibir-san-diego-thanksgiving-esperan-aumento-ventas-n915669",
   "medio": "Uniradio Informa",
@@ -1345,6 +2085,20 @@
   ],
   "local": true,
   "id": "d2700607f06976d2"
+ },
+ {
+  "titulo": "Lesionó a su hermano con un pica hielo; fue detenido",
+  "liga": "https://oem.com.mx/lavozdelafrontera/policiaca/lesiono-a-su-hermano-con-un-pica-hielo-fue-detenido-33289248",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-24T06:43:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "El hoy detenido, había amenazado a su familiar con privarlo de la vida",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f6da950f344846f2"
  },
  {
   "titulo": "La CIA y el cártel de Guadalajara: conexión y narcotráfico en los 80",
@@ -1519,6 +2273,20 @@
   ],
   "local": false,
   "id": "e8c09aeb372fad42"
+ },
+ {
+  "titulo": "Asesinan a Dayana Molina, propietaria de Houses & Beach en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTHc1Q1huczZuYVdQNDRvdERXbkNraWNwcFVTTFoxSUFza243NW9BdDRVZ0tKd1EwYkNMcG5oazgycks4Um1LLTR6RmRMMnQ5VTFoY0tR?oc=5",
+  "medio": "Zona Norte Noticias",
+  "publicada": "2026-11-24T05:44:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Asesinan a Dayana Molina, propietaria de Houses & Beach en Ensenada Zona Norte Noticias",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3032a5c0922d74bd"
  },
  {
   "titulo": "Gobernador presenta al Congreso el presupuesto 2027 de 177 mil 939 mdp",
@@ -2089,6 +2857,22 @@
   ],
   "local": true,
   "id": "8ac2e752b3cc58dc"
+ },
+ {
+  "titulo": "Accidente deja un hombre sin vida en la carretera hacia Ojos Negros",
+  "liga": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4T1hsVHFnQmpBQWhZdElxakljU0ctaEQxdXZ1S3dHWk1mSmdscTZPZjZsLXVkanMtVVVPVlRZQ3o4M1I0OGxoSjc3SHdERTVtVDFRSWVn?oc=5",
+  "medio": "Zona Norte Noticias",
+  "publicada": "2026-11-24T02:12:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T12:27:06-06:00",
+  "resumen": "Accidente deja un hombre sin vida en la carretera hacia Ojos Negros Zona Norte Noticias",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "83dd3dce30abb4fa"
  },
  {
   "titulo": "BC ha cumplido la mitad de las medidas por alerta de violencia de género: Rebecca Vega",
