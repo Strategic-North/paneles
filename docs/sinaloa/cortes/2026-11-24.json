@@ -1,5 +1,733 @@
 [
  {
+  "titulo": "Bomberos de México, EU y Chile se reúnen en congreso en Mazatlán",
+  "liga": "https://punto.mx/2026/11/24/bomberos-de-mexico-eu-y-chile-se-reunen-en-congreso-en-mazatlan/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-24T15:57:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Bomberos de México, EU y Chile asisten a congreso internacional para fortalecer sus técnicas y mejorar la respuesta ante emergencias La entrada Bomberos de México, EU y Chile se reúnen en congreso en Mazatlán se publicó primero en Punto MX .",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "8f3b8c10d62bd561"
+ },
+ {
+  "titulo": "Hoteleros de Mazatlán confían en que haya buena afluencia de turismo en la temporada invernal",
+  "liga": "https://lineadirectaportal.com/sinaloa/hoteleros-de-mazatlan-confian-en-que-haya-buena-afluencia-de-turismo-en-la-temporada-invernal-2026-11-24__1744691",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:55:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "José Ramón Manguart, presidente de la Asociación de Hoteles y Moteles Tres Islas, comentó que para este fin de año se tienen en puerta varios eventos importantes que ayudarán al arribo de turistas",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "98e6c52e01775194"
+ },
+ {
+  "titulo": "Instalan Buzón Naranja para reportar violencia en el Icat de SLP",
+  "liga": "https://sinaloa.quadratin.com.mx/instalan-buzon-naranja-para-reportar-violencia-en-el-icat-de-slp/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T15:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "El mecanismo busca ofrecer un espacio para que las usuarias puedan comunicar situaciones que enfrenten, expresar inquietudes y plantear propuestas.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a059604fdfa56427"
+ },
+ {
+  "titulo": "Pescadores de Navolato piden al gobierno retomar el subsidio a la gasolina y alza al Bienpesca federal",
+  "liga": "https://lineadirectaportal.com/sinaloa/pescadores-de-navolato-piden-al-gobierno-retomar-el-subsidio-a-la-gasolina-y-alza-al-bienpesca-federal-2026-11-24__1744693",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:53:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "La zafra de camarón no ha sido lo que esperaban los pescadores, pues hay bajos rendimientos y precios, lamentó Manuel Sánchez Gámez Sánchez.",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "97f8b88f95951043"
+ },
+ {
+  "titulo": "¡Todavía hay tiempo! Amplían hasta el 30 de noviembre descuentos del predial en Salvador Alvarado",
+  "liga": "https://lineadirectaportal.com/sinaloa/todavia-hay-tiempo-amplian-hasta-el-30-de-noviembre-descuentos-del-predial-en-salvador-alvarado-2026-11-24__1744686",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:53:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "La primera etapa del Buen Fin dejó una recaudación de un millón 584 mil pesos, 58.4 por ciento por encima de la meta establecida por el Ayuntamiento de Salvador Alvarado",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "9cc30e9c607b15e8"
+ },
+ {
+  "titulo": "Congreso de Sinaloa avala Cuentas Públicas 2025 de los tres poderes; reprueba a cinco juntas de agua",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/congreso-de-sinaloa-avala-cuentas-publicas-2025-de-los-tres-poderes-reprueba-a-cinco-juntas-de-agua-1172362/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T15:52:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "El Congreso del Estado de Sinaloa aprobó este martes las Cuentas Públicas correspondientes al ejercicio fiscal 2025, de organismos paraestatales, fideicomiso, paramunicipales y órganos constitucionales autónomos, así como a las de los tres poderes: Ejecutivo, Legislativo y Judici",
+  "temas": [
+   "Gobierno del estado",
+   "Agua"
+  ],
+  "local": true,
+  "id": "e51a4fd33236ba01"
+ },
+ {
+  "titulo": "Bajan 36 % los delitos de alto impacto en Mazatlán con respecto a octubre: Gobierno Municipal",
+  "liga": "https://lineadirectaportal.com/sinaloa/bajan-36-los-delitos-de-alto-impacto-en-mazatlan-con-respecto-a-octubre-gobierno-municipal-2026-11-24__1744685",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:52:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Remigio Cruz Domínguez, secretario de Seguridad Pública Municipal, llama a la población a tener confianza en las autoridades",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "d4950ed1e9e84dd3"
+ },
+ {
+  "titulo": "Congreso de Sinaloa: Seguridad tendrá más recursos en el Presupuesto 2027",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUG83akV1WmRCZFZlRUpxME1EYWJTd3cwMmJsbzVVUVZCdFd3QW1LWjQwU0RnWmlzVy1DdzdsY3d2aW8tenhWNmhYZXBLMjNGa3ZRMmNCV1VpQldFUkpuM3FTdFNxNnlIeXdHbkljU3U3dGp6eWsxX0pYTUhIRDZTSWRXdkFzcFJfRmNUaTlCN1J6TUwtMnhtbGJBZkdlaTJyNjk0MzhkekVIVlNhaVl2bXZ1akFQaV8xVDhYTjM5SFZlN1BUdFYwX3ZRRDlEZ2M?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:51:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Congreso de Sinaloa: Seguridad tendrá más recursos en el Presupuesto 2027 Debate",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "4d5676a9c0e4c609"
+ },
+ {
+  "titulo": "Por hechos de inseguridad del fin de semana, posponen el Guasave Grill Fest; será en enero",
+  "liga": "https://lineadirectaportal.com/sinaloa/por-hechos-de-inseguridad-del-fin-de-semana-posponen-el-guasave-grill-fest-sera-en-enero-2026-11-24__1744682",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "El festival gastronómico no se cancela, sino que cambia de fecha para el 30 de enero de 2027; organizadores buscan garantizar la seguridad de asistentes, participantes y colaboradores",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "0caa339bce55b57c"
+ },
+ {
+  "titulo": "¡Más diversión en los chats! WhatsApp incorpora nuevos stickers con audio",
+  "liga": "https://lineadirectaportal.com/tecnologia/mas-diversion-en-los-chats-whatsapp-incorpora-nuevos-stickers-con-audio-2026-11-24__1744680",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:45:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Los stickers con audio en WhatsApp ofrecen una experiencia de comunicación mucho más divertida, expresiva e interactiva para los usuarios.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "23ef5cf9c6d161cd"
+ },
+ {
+  "titulo": "Continúa incertidumbre por la falta de recursos en la UAS; Suntuas promueve el paro laboral",
+  "liga": "https://lineadirectaportal.com/sinaloa/continua-incertidumbre-por-la-falta-de-recursos-en-la-uas-suntuas-promueve-el-paro-laboral-2026-11-24__1744684",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:44:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "La suspensión de actividades de manera indefinida en la casa de estudios sería el próximo 1 de diciembre",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "3d4e8f56857170f9"
+ },
+ {
+  "titulo": "Denuncian fuga de aguas negras desde hace más de seis meses en Infonavit Playas, en Mazatlán",
+  "liga": "https://www.noroeste.com.mx/mazatlan/denuncian-fuga-de-aguas-negras-desde-hace-mas-de-seis-meses-en-infonavit-playas-en-mazatlan-MJ27590581",
+  "medio": "Noroeste",
+  "publicada": "2026-11-24T15:43:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Una fuga de aguas negras que lleva más de seis meses sin ser atendida mantiene en condiciones insalubres a vecinos de los andadores Playa Caimanero y Ceuta, en el Infonavit Playas, quienes denuncian el desbordamiento de una alcantarilla, la presencia de gusanos y fuertes olores a",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "41df72f6dfb04d85"
+ },
+ {
+  "titulo": "Omar García Harfuch encabeza acciones de seguridad en Sinaloa; entregan 104 patrullas y unidades tácticas",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFc3SVBpeFhERUp2TFJxVlB1LV9Nd3BDdmhjQXFsVGptTW80RUV3Uy1rOWlEOUFnWl9UX1hjVlEzcnQydW5CeGl5Mm5NU1FoUV9PQzFteUlqam5sakFSQTBDRXRscGJreEJ0X19mbmM0OVpOcTQtNV9Eb3ZGcGdMWWJlYmJhMEpSeWtvcW5TOUdGNVZzZ1pmRWs4RjZlaXhOemxmbEJkb3J2UmtGS0lYWklndUF6RVdJSmRHNkNTVV8wQ0tjaVZjRFEwYkpPV2s?oc=5",
+  "medio": "Libertad Oaxaca",
+  "publicada": "2026-11-24T15:42:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Omar García Harfuch encabeza acciones de seguridad en Sinaloa; entregan 104 patrullas y unidades tácticas Libertad Oaxaca",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "835b5bb9a142bb98"
+ },
+ {
+  "titulo": "Piden empresarios que Sinaloa sea blindado ante posible repunte de violencia",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/piden-empresarios-que-sinaloa-sea-blindado-ante-posible-repunte-de-violencia-1172368/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T15:40:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Kenia Moreno Díaz, presidenta de Coparmex Los Mochis, calificó como positiva la visita de Omar García Harfuch y la entrega de equipamiento a las corporaciones de seguridad, pero urgió a extender las estrategias de protección a la zona norte para evitar que la inseguridad siga afe",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "bea822b4a6f5f62d"
+ },
+ {
+  "titulo": "Autoridades suman otro golpe a “Los Mayos”: incautan en Culiacán casi 14 millones de pesos en fentanilo",
+  "liga": "https://lado.mx/noticia/22392208/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T15:40:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Las tropas federales aseguraron casi dos toneladas de narcóticos químicos en un fraccionamiento sinaloense, lo que representó un quebranto financiero cercano a 14 millones de pesos para la facción criminal de Ismael Zambada",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "623000075bcfaeb3"
+ },
+ {
+  "titulo": "Llevarán por primera vez la Guelaguetza del Mar a Huatulco",
+  "liga": "https://sinaloa.quadratin.com.mx/llevaran-por-primera-vez-la-guelaguetza-del-mar-a-huatulco/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T15:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Las actividades comenzarán a las 16:00 horas con un convite que partirá del Parque Guelaguetza.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7599299c311d133f"
+ },
+ {
+  "titulo": "Detienen en Mazatlán a siete personas, aseguran dos armas largas y recuperan cuatro unidades con reporte de robo: SSPM",
+  "liga": "https://www.noroeste.com.mx/mazatlan/detienen-en-mazatlan-a-siete-personas-aseguran-dos-armas-largas-y-recuperan-cuatro-unidades-con-reporte-de-robo-sspm-IJ27590239",
+  "medio": "Noroeste",
+  "publicada": "2026-11-24T15:35:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Durante la semana del 16 al 23 de noviembre fueron detenidas en Mazatlán siete personas, se aseguraron dos armas largas y 90 dosis de presunta droga, además se recuperaron tres vehículos y una motocicleta con reporte de robo, manifestó el Secretario de Seguridad Pública Municipal",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "edf4b40632f3555b"
+ },
+ {
+  "titulo": "Pierde su tráiler en enfrentamientos en Sinaloa y pide apoyo para recuperar su patrimonio",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGVYNWZwMThKQ1BqclVqMjRVQzVheV9xWFN6ZDJEV01rdVN1TWJ4dUtHOHVDZnVVbDVmZTBVSldUNEVEX1c5ZFJDLW5LamFXNy1ON1ZKeE9sSnNORExVOHgzeEhYVGdVTVN2TmU2MmtYVkZTeXpPaUhWZTlRY3BxRzJtRTVJVG5EQUZTcXZaWjQ4My1sMUtMQzhhS0VvRmtXMllRbG84SVdYeWZ1Vk9SdjRPNzJjM2c3S3FvWjFsOG1PSkNKX2hDdWhOY09oeEZieVFfMjZBZUh3U2xF?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-24T15:34:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Pierde su tráiler en enfrentamientos en Sinaloa y pide apoyo para recuperar su patrimonio El Sol de México",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "59682f6756cf0e0a"
+ },
+ {
+  "titulo": "Choque de tres vehículos deja daños por más de 30 mil pesos en el Centro en Los Mochis",
+  "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWd3a1VKdFp2dnYzSmZwdjB0TUNBYk1DaDBFX1pzRi1scVZsbTgwYy1ZMlM3Y1h3QmNSQXBWdlZBeC1kSk1nbHNfT1FsRFVDRVRSTW1OTjlWbm16S05CcDJ0OVFKMGNDR2ktZlJGamoxQl9vV1A2SThpMlFrdWp0QzFrWVlEQi00YVlSanBMamRqUHhVNGVPLXZTMk9taTQ0LVdmcWZVNnB3NmE1Q196X3Y4NmExa182Z2FoYjVQSk5HdVNXTld5aXkzb2F2NExJb3lOWGdjd284Z1k4WjZ1d2JZMA?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:34:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Choque de tres vehículos deja daños por más de 30 mil pesos en el Centro en Los Mochis www.debate.com.mx",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "6cb2f61a0ef9f22f"
+ },
+ {
+  "titulo": "Malecón de Guasave aún no reactiva actividad comercial a cuatro días de la captura de “Chapo Isidro”",
+  "liga": "https://lineadirectaportal.com/sinaloa/malecon-de-guasave-aun-no-reactiva-actividad-comercial-a-cuatro-dias-de-la-captura-de-chapo-isidro-2026-11-24__1744674",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:32:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Luego de los enfrentamientos en la zona se ha registrado muy baja afluencia de visitantes en la ribera del río Sinaloa, pero autoridades confían en que vuelva a la normalidad",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "24fd15c21e408e9b"
+ },
+ {
+  "titulo": "Bomberos capturan y liberan murciélagos en un domicilio de Choix",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1BUalZwN3lIOTdQT0pGSXktNHpKTFFqS0NvanB5eUdDZEJfajVVMDlUbTJtcFN6ZHZMY2FtSTNMa0lOSDFrZmRSYnNGMU44ZzZHUWh0aE9xX0w4RlAzMjJfSlM0aU1Ick9LNHVib1lnbEhvcDBtX3J0OE1VQnJBNjVrVUMtZzdJUjl3eFE5ZWdIWmNySDlpSGJSVDBvVTAxWWNsMHBFSTFOdlIzWk81TGF4LTZNRGtkYTZfS0pXWEZtbzRrWGc?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:30:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Bomberos capturan y liberan murciélagos en un domicilio de Choix www.debate.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5696e16d525dcf37"
+ },
+ {
+  "titulo": "¿Qué sembrar durante el invierno en Sinaloa? Rábanos, cilantro, lechuga y otras hortalizas que puedes cultivar en el patio de tu casa",
+  "liga": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM3NaTFZpV2dLNDJWWThaWV9jVlprWk9YWlpMSlZzVWllS0pnU2pOcmFUdzBPMXdHVG1QdS16YW83QW45ZFlRUTRvb05jVWVqSkVkYklUdDlocjZnZVhqajhGaTRfWmc1QS0yUVhXSGtFcG1BNWN3ajB4S3Fsb0szd2haNnd1NTg5dUlrcVMyakJwQmFZdnNRM1l4MGVQOWFjR0cwaW9CeW9LZV9wYmtScnM3UWlyZEtWZmVURFVTVktDeXJhR21Gckk5YlgzSW9oWTFpMmc5NlRaRW5XNzVodVFNdGp3a2dDLW00ZVJhc3lubUVKSFliRlM4STAta0NjbE9saXNaS3FRZzVZUkpZc3RTSXBRWmJqc29OYQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:30:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "¿Qué sembrar durante el invierno en Sinaloa? Rábanos, cilantro, lechuga y otras hortalizas que puedes cultivar en el patio de tu casa Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2d3b6290914fb82f"
+ },
+ {
+  "titulo": "Gabinete entrega 104 patrullas a corporaciones para fortalecer presencia policial en Culiacán",
+  "liga": "https://reflectores.mx/gabinete-entrega-104-patrullas-a-corporaciones-para-fortalecer-presencia-policial-en-culiacan/",
+  "medio": "Reflectores",
+  "publicada": "2026-11-24T15:26:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Al encabezar evento, la gobernadora Graciela Domínguez dijo que fortalecer a las instituciones, es crucial para construir paz y tranquilidad en Sinaloa The post Gabinete entrega 104 patrullas a corporaciones para fortalecer presencia policial en Culiacán appeared first on Reflect",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "e4cfb989a7bede4e"
+ },
+ {
+  "titulo": "Circulaba sin placas en un Toyota robado; termina en prisión preventiva",
+  "liga": "https://www.noroeste.com.mx/seguridad/circulaba-sin-placas-en-un-toyota-robado-termina-en-prision-preventiva-NI27589325",
+  "medio": "Noroeste",
+  "publicada": "2026-11-24T15:26:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "CULIACÁN._ Un joven de 22 años fue vinculado a proceso por su probable responsabilidad en el delito de robo de vehículo equiparado, en la modalidad de posesión de una unidad robada, luego de ser detenido en la localidad de El Higueral, en el municipio de Eldorado. La Fiscalía Gen",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "a37bd91e5ce8a63b"
+ },
+ {
+  "titulo": "Tras operativo contra \\\"El Chapo Isidro\\\", Harfuch encabeza entrega de 104 patrullas en Culiacán",
+  "liga": "https://lado.mx/noticia/22392071/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T15:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Tras capturar a “El Chapo Isidro” en Guasave, Harfuch entregó 104 patrullas en Culiacán y aseguró que las fuerzas federales no dejarán Sinaloa",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8ce8e661ed8ccaa4"
+ },
+ {
+  "titulo": "En veremos, tradicional feria de la Virgen del Rosario en Guasave por situación de seguridad",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/en-veremos-tradicional-feria-de-la-virgen-del-rosario-en-guasave-por-situacion-de-seguridad-1172341/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T15:25:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "La instalación de más de 200 puestos y juegos mecánicos se definirá hasta el jueves 26 de noviembre, un día antes de la fecha prevista para el inicio de la celebración",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "fa4cc3b94ac63e7c"
+ },
+ {
+  "titulo": "Cabildo de El Fuerte aprueba presupuesto de ingresos 2027 por 490 millones de pesos",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcF9GNnJ5Zmt5MER5elNsTm51WVV4MTVjNHlzazlLcFpkNi1NX3A5R1UtN2FpTmFpelQwcEpldGNMTVBicE14ZEdpVktac3VuRVVUM052d255TF9LZS1Kb1loX1ZWUnluelpuc05NT3BvMWNfek5XZTllX3NhZEU3RUNuSThCd20wOWswRTFNR1RkUlhkYk9GQzRYeXVROTZIMVZ5VDlRTmRqcGIzaFVwX2F3OXRVNzIzN1p4QUx1ZGpMTnkxTmhZX3hsVzJmMVYzalBYR0tFTDNyVFdFLS13?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:24:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Cabildo de El Fuerte aprueba presupuesto de ingresos 2027 por 490 millones de pesos Debate",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "bade74f0eba0f19f"
+ },
+ {
+  "titulo": "Respaldan trabajadores académicos y administrativos llamado a paro de labores convocado por el Suntuas ante el riesgo de impago salarial",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/respaldan-trabajadores-academicos-y-administrativos-llamado-a-paro-de-labores-convocado-por-el-suntuas-ante-el-riesgo-de-impago-salarial-1172339/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T15:22:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "La propuesta es parar labores el próximo 1 de diciembre en todo el estado.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6ddec84a674d3d1e"
+ },
+ {
+  "titulo": "La SSPC entrega más de 100 patrullas en Sinaloa; Harfuch dice que seguirán operativos",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEVYY1lZYnpweUs0aXBod0RpMzhGMTJfVHRzT2dhdkV2WGtxTDIzS015OEZEVTRnMlNtV2xVeWdYQV9RdTZyVkFQUUJCSGZ6WUNybEVMMl95XzlEYmlSY3oyajFkTzZNRG0zSk00R25CbGlBeGJwNDBiZDI3bFlRWDlxTlVEMzhkMjdoN1FmOEZmTUVZQ3V6ZDB0bHZRUHZ4OWtpYWdOejRyUGNSc2s4SGg2aDdKbllOYUNF?oc=5",
+  "medio": "SinEmbargo MX",
+  "publicada": "2026-11-24T15:22:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "La SSPC entrega más de 100 patrullas en Sinaloa; Harfuch dice que seguirán operativos SinEmbargo MX",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e3d327d926400e2c"
+ },
+ {
+  "titulo": "Copa Dportenis Imdem 2026 reconoce a sus campeones y mejores futbolistas",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUpkZ3dEX2U5Rmw5MTExNmNJMno3S1RtMTNrbi11R2xfY0RSem01Q3NkbXJvTExuYjVVSlFaM0NjYXhuSmZVeHJMclhDQTc0MC1LNXdxaHFoWVI0Sml1aEJzWERNWC02cW90RlJ3V3ZCdTk2cTBYZjhZd1VsTUJLSWFKMDgzcHlhVTIyNlJ4b0xLdlBMTU5XbTBqTUVLbTlpN0xvTEhNanlHdi1ZNGtaa19JZmlGaGNDMTQ1NkZwRW9JbWlpNHhKQlhFWTlmdms?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:22:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Copa Dportenis Imdem 2026 reconoce a sus campeones y mejores futbolistas Debate",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "fd2c17698477ba69"
+ },
+ {
+  "titulo": "Acribillan a un hombre en la colonia Olímpica de Acapulco",
+  "liga": "https://sinaloa.quadratin.com.mx/acribillan-a-un-hombre-en-la-colonia-olimpica-de-acapulco/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T15:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Testigos señalaron que hombres armados perseguían al individuo y al darle alcance le dispararon y le quitaron la vida en el lugar.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3df1a8a2fe09394b"
+ },
+ {
+  "titulo": "Harfuch refuerza seguridad en Sinaloa con 104 vehículos; llegarán más blindados",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbmt6bFI2eGdDRS1JckxWaDE3S3ZReFE4SjdFQVNMMTlldHpMcDJudW1Wdl9QeEl1all3X200VEJadng2T1BJUmt2Q01NQ0RCa3pMRV8zakk0WlZtQlFhSzExZDZKZUlQUUJrTXBMWVYtRmd6ZWI4NGJ4VEt3R1VGcTZJT2U0WU1yTHJNNExYamZ2MUZ1S0RreG9najRCdnlobE1IX2FpYlhYVmx2M1JDcUtzQU9wMGgySDN5Y3hTUVdhOUVPbEV1WDhKb3YtbWs?oc=5",
+  "medio": "DigitalMex Periodismo confiable",
+  "publicada": "2026-11-24T15:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Harfuch refuerza seguridad en Sinaloa con 104 vehículos; llegarán más blindados DigitalMex Periodismo confiable",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7d1f7ffc269d5c5a"
+ },
+ {
+  "titulo": "Despejan de maleza carretera que comunica a Tetaroba con Reparito",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXpyM2VWM0gyMzllOW94TDgxck1XanpZMENNek8ydVZxZDE5RDdtcXpUc09pQi1weWRlTHZsYWY2NE9qejkwd3RYZFhSb2cxdjFlTDZIemlFVHA0eWRmMjFzSDBPeXhHVGxSNmlISkNjWWVQN09obUN3NU1jZG5vTkltMm9yQmN0RUowWndKR2xYaUJhSWVaWmZSUEI5UTNHTk5NRXM0VTI0TEFFT0ItSFlKSHNuMXIwX0xEZUhiSl9zcjJUc2xV?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:21:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Despejan de maleza carretera que comunica a Tetaroba con Reparito Debate",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "d9aad27e446d35d0"
+ },
+ {
+  "titulo": "SSP anuncia reducción de delitos en Mazatlán; reporta disminución del 16% en homicidios y destaca detenciones",
+  "liga": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU0h1eXBLMlRrcmVWblVSMGlDcVR2Wnk5T09OcWlTMTZPNVBoSVN1RVZ0ODN4eUtMenVzTm1YcVJkYjB2RElGZlpJWXhVdzFFS0ktNmRocEpub2stNmFvaFpHMERmU0MxX05iTHJFcWd0OFM5dmdJcnpLdEVJT0psSnRSNWU5V09CN2laYjZjTjFWVVUySFRDX2txSmt4S19fd0w4S1lHWENxVVlzNE81ZE5RU3Q1Q1kzZ0pIWFlpbC14Z3FhMWdpWENfVVJxMGl5aDN6YXhwMzZfa3dlTDY1c2RqaWZNeFBWVlpOSEZESmN4MmppZVRIZnJFX1N4UQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:21:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "SSP anuncia reducción de delitos en Mazatlán; reporta disminución del 16% en homicidios y destaca detenciones Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e47a86e61eb44376"
+ },
+ {
+  "titulo": "Muere mujer durante un accidente de motocicleta en el ejido El Cuervo de Eldorado",
+  "liga": "https://losnoticieristas.com/policiaca/2026/11/muere-mujer-durante-un-accidente-de-motocicleta-en-el-ejido-el-cuervo-de-eldorado-1172340/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T15:19:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "La víctima quedó sin vida a un costado de la motocicleta que conducía sobre la carretera que comunica el Cuervo a Eldorado.",
+  "temas": [
+   "Seguridad",
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "2ed81ace110afc31"
+ },
+ {
+  "titulo": "Disparan contra dos hombres refugiados en una llantera de Mazatlán; militares persiguen a agresores",
+  "liga": "https://www.sinaloahoy.com.mx/portal/ataque-llantera-mazatlan-lico-velarde/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T15:18:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Disparan contra dos hombres refugiados en una llantera de Mazatlán; militares persiguen a agresores Dos hombres se refugiaron en una llantera de la Ampliación Lico Velarde mientras disparaban contra ellos. Testigos reportaron una persecución militar. Sinaloahoy - Noticias de Sina",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "75c41464e09a2622"
+ },
+ {
+  "titulo": "Perla Esmeralda muere tras un accidente de motocicleta en carretera de Eldorado",
+  "liga": "https://lineadirectaportal.com/policiaca/perla-esmeralda-muere-tras-un-accidente-de-motocicleta-en-carretera-de-eldorado-2026-11-24__1744678",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:17:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Los hechos se registraron este martes sobre la carretera que comunica al poblado El Cuervo, sindicatura de este municipio",
+  "temas": [
+   "Accidentes",
+   "Gobierno municipal",
+   "Movilidad",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0014e8663adb00b4"
+ },
+ {
+  "titulo": "Realizan limpieza y retiro de maleza en cruce de carreteras en Choix",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHVnUFd6RXN1ZE9TVEo2QUl5VEdERmktaWJ3SU5oa2REczJJU0VFR3A0UVdnVmZnTjhMX01LdUtYOWFSa2ZZUS1DZlUwaGVXQ05kTDk5T2VRTEQ2QTd0R0hQOWxwUHBKcEdBd2thUFZZWmpZTWNmSDQ1b2p5b201RDFyOEsxbC1IZHh4SlRxNk5sNWpQc2hWSjk4X3JBWU03VEZETWw0dEhreDRjUWl1UllLdGFUaTgyUUZJeGtlZ3RBNl9HbldrNXNwUQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:16:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Realizan limpieza y retiro de maleza en cruce de carreteras en Choix Debate",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "2ec000152527ac0f"
+ },
+ {
+  "titulo": "Congreso de Sinaloa nombra a Sibely Cañedo consejera de protección a periodistas",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTNiVzAzVXlzN1h2N0xoNXRLX0IybXZ3OTNLemNSRnJENlZOWlpjM0RSNUFFMFZ5MzJrYlJzc01WaU9YSi1ZX3o3NTQ3RXR2amNXYW9FeU9uX3pqTFVkZjAyRlZJOWxia0FZYmNtSWpqR3RDUTFNbjB2elNsMzJJY1dHc19JNVN4YnV2MEc1UC1GRWNZQjl4b1JRMGZLMmNuc3ZnODlscEJBTVFycm1kLTZpYTRsa3k0MFZNUU1DclRodFNRbl9jMw?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-24T15:16:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Congreso de Sinaloa nombra a Sibely Cañedo consejera de protección a periodistas El Sol de México",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "6b57c35a0a535eb1"
+ },
+ {
+  "titulo": "Recuperan 14 colonias de Mazatlán con 61 murales realizados por jóvenes",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVzJZdlRFd2IzRmc0SUJwS2pXVGVBLWZtTVhJWlNPWW9ZSVFjdnY2eWhYcnBtakdvWmstS1FDc2lMaXhBMm91WFpzUzdsSElYQlJBREZ2ZzBNR2Q1NGpLX2JZMEhCV0dzYkNXelVrX1ZpMUp6TTJmM0tKMVA4Z1NwVFBZTDBpMXJsUVAtSGtpNm1ORG91a01rMEtPTGhKR0duMVk2Y1k0N1JURUNlanJVRUNsOXZsQ0lldnJaeGloSlhiUnBsb0M0d21ySWthdw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:15:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Recuperan 14 colonias de Mazatlán con 61 murales realizados por jóvenes Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8a780209057b8dcf"
+ },
+ {
+  "titulo": "Harfuch volverá a Mazatlán con patrullas y vehículos blindados",
+  "liga": "https://punto.mx/2026/11/24/harfuch-volvera-a-mazatlan-con-patrullas-y-blindados-nuevos/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-24T15:15:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Omar García Harfuch volverá a Mazatlán para entregar patrullas y vehículos blindados, revisar estrategias y reunirse con sectores sociales La entrada Harfuch volverá a Mazatlán con patrullas y vehículos blindados se publicó primero en Punto MX .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "40d6829793706262"
+ },
+ {
+  "titulo": "García Harfuch entrega patrullas y vehículos blindados a policías de Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFFDQllYTk5ZdU1xYjh0TlgyNWpyeE5BVVRQYWhGa1VnSlJVMW5BR3dXRmdNR2VIVFRYSGpCcE01ZEFTU3hDcndWbjVJM3E5R3ZrdEZvZGFwVE9sWi1ZXzhwTjZBZGNGRHVYYlZ5M2RGSkJlbHp5bTBBaWxmQXdTUklrUFpiQTQ3ZDNabDNBQTU3MnBhTURHN1NzSWJVLVhYYjZubExqLTZIMnRGNTZHTUh2eUNZakRiRkRyWmUxNA?oc=5",
+  "medio": "Nación321",
+  "publicada": "2026-11-24T15:13:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "García Harfuch entrega patrullas y vehículos blindados a policías de Sinaloa Nación321",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "41bfc06c1bd38a22"
+ },
+ {
+  "titulo": "Operativos federales dejan detenciones, decomisos de armas y aseguramientos de droga en 6 estados",
+  "liga": "https://lineadirectaportal.com/mexico/operativos-federales-dejan-detenciones-decomisos-de-armas-y-aseguramientos-de-droga-en-6-estados-2026-11-24__1744648",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T15:11:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Entre los resultados más relevantes destacan detenciones múltiples en Nayarit, importantes decomisos de armamento en Sonora y Quintana Roo, así como el aseguramiento de drogas sintéticas en Sinaloa",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6e193556143d445d"
+ },
+ {
+  "titulo": "Continúa la credencialización de salud: preparan 24 consultorios en Ahome",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX01vTVpOeWtsc3BvWmdhTXEzc1ZnS1VBaUhHemp4anJ2Zms0QlpPeXJJVU1DQ1B4Zk02TVJPd1M0T3VlRUQyTkwyLVNTY21pMmFiR1VOSHlSbWV0NW5LWTdVcjJfdjRmcFZmOTh6X1VhQVAwQlhzV3FaSUI0bHd5UkRUUFRKYkRIZmdMMXF6TW5kcmV0c2twbUNqTnItdHJla1dPelc5MFdqVVBOeV9oWmlPZnJHclJGT3h0bmg1a25Nb2ZpYS1LZzVncVBPWU8z?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T15:10:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Continúa la credencialización de salud: preparan 24 consultorios en Ahome Debate",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "ee1f894ff6966ca6"
+ },
+ {
+  "titulo": "Diplomacia del panda: Sheinbaum busca traer nuevos ejemplares a México",
+  "liga": "https://riodoce.mx/2026/11/24/diplomacia-del-panda-sheinbaum-busca-traer-nuevos-ejemplares-a-mexico/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-24T15:10:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "06cc17fd88836a14"
+ },
+ {
+  "titulo": "Jóvenes de Mazatlán recuperan espacios públicos con 61 murales en 14 colonias",
+  "liga": "https://revistaespejo.com/2026/11/24/jovenes-de-mazatlan-recuperan-espacios-publicos-con-61-murales-en-14-colonias/",
+  "medio": "Revista Espejo",
+  "publicada": "2026-11-24T15:08:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "A través del programa “Jóvenes Pintando tu Colonia”, el IMJU ha involucrado a 77 jóvenes en actividades artísticas y jornadas de limpieza para mejorar la imagen urbana y fortalecer la identidad comunitaria.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "82d270bd9ac4c9af"
+ },
+ {
+  "titulo": "Ley de Voluntad Anticipada en Sinaloa no es eutanasia, aclara el PAN previo a su votación",
+  "liga": "https://losnoticieristas.com/politica/2026/11/ley-de-voluntad-anticipada-en-sinaloa-no-es-eutanasia-aclara-el-pan-previo-a-su-votacion-1172316/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T15:06:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "El diputado Jorge Antonio González Flores aclaró que la iniciativa no equivale a la eutanasia y detalló que contará con respaldo notarial para garantizar la libre decisión de los pacientes terminales.",
+  "temas": [
+   "Política y partidos",
+   "Salud"
+  ],
+  "local": true,
+  "id": "8dd26d1943ccf8b6"
+ },
+ {
+  "titulo": "Aprueba Congreso de Sinaloa Cuentas Públicas de los tres poderes",
+  "liga": "https://sinaloa.quadratin.com.mx/aprueba-congreso-de-sinaloa-cuentas-publicas-de-los-tres-poderes/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T15:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "También se aprobaron las de entes estatales y paramunicipales.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "b50e33ded8cba0f0"
+ },
+ {
+  "titulo": "Congreso de Sinaloa nombra por unanimidad a Sibely Cañedo como consejera de protección a periodistas",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/congreso-de-sinaloa-nombra-por-unanimidad-a-sibely-canedo-como-consejera-de-proteccion-a-periodistas-1172323/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T15:04:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "​Con 35 votos a favor, el Pleno del Congreso del Estado designó a Sibely Cañedo Cázarez como integrante del Consejo Consultivo del Instituto para la Protección de Personas Defensoras de Derechos Humanos y Periodistas de Sinaloa durante los próximos cuatro años.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "0ed54c817b5a3065"
+ },
+ {
+  "titulo": "Aeropuertos de Sinaloa superan los 3 millones de pasajeros",
+  "liga": "https://punto.mx/2026/11/24/aeropuertos-de-sinaloa-superan-los-3-millones-de-pasajeros/",
+  "medio": "Punto MX",
+  "publicada": "2026-11-24T14:59:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Los aeropuertos de Sinaloa movilizaron más de 3 millones de pasajeros de enero a octubre; nuevas rutas y modernización de instalaciones La entrada Aeropuertos de Sinaloa superan los 3 millones de pasajeros se publicó primero en Punto MX .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a37a62794994508a"
+ },
+ {
+  "titulo": "Vecinos del Centro de Mazatlán denuncian baches y encharcamientos en calles Juan Carrasco y Gutiérrez Nájera",
+  "liga": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZHFrVGQ2MmpwSmlFeTZYeTRfN29kazB6dV81Y21zVHNQOGdKdElaalpWRXc5TzNCZTctc3g0MV9zeGZqV1ZVdnZ4SFJ3TWl5R1NwSjlVSUF3azF3ZkVockVrTDdQcklSNzNZZEd3REpUcVNoNmRCRkRBSGt0N1V4NUNubGVGUE84bG9zN0lKZzdmRkZDVXctNWMycXRKbWU1SFo4cHJ5STZTbkpOQXdySnZJTEQ4WlZsNHQwY2ZwcF84N254N1g1TkM1T1NSd1pOQ3Q3VWJJTHh0d3RCMWVMZm9PUjJvbWFHQTRtVzZwVlJIX3dZaUZLWmNubnpNUjA?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T14:57:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Vecinos del Centro de Mazatlán denuncian baches y encharcamientos en calles Juan Carrasco y Gutiérrez Nájera Debate",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "d72ab5c131436ccc"
+ },
+ {
   "titulo": "Intenso operativo: fuerzas federales custodian camioneta blindada hallada tras captura de “Chapo Isidro”",
   "liga": "https://lineadirectaportal.com/sinaloa/intenso-operativo-fuerzas-federales-custodian-camioneta-blindada-hallada-tras-captura-de-chapo-isidro-2026-11-24__1744658",
   "medio": "Línea Directa",
@@ -12,6 +740,20 @@
   ],
   "local": true,
   "id": "9045a61ca096facb"
+ },
+ {
+  "titulo": "Harfuch encabeza entrega de patrullas y vehículos tácticos blindados en Sinaloa tras ola violenta",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRW5ILTV2NWx3aGdXVWg5M25Zbl9EYXYzeVlGRHNRMmNQeFpQdGl1VGViRXlqVWlobHBHTVQxZGJIY1dsM2gyNTA3QVN2ODI2dXJ0SVRCMmNOcFFqN0tMU0M2TEFRVVFTUGtiTldPY0o4OXQ1S1JJZlJLUE43ZVI4VkJhM2FUbVZsT3dKVVRDMVlaNzJFWG5zVDVpUWtxcjhRWDRtNDVoZzR2TzhEdHZTMElfQjlrbmN0TGVQWnBnQTRYc3Rocmxtb1oyVXVUVkNhaGdqS054RFJfOVJHZC05Wksxa1bSAeQBQVVfeXFMUEVuSC01djVsd2hnV1VoOTNuWW5fRGF2M3lZRkRzUTJjUHhaUHRpdVRlYkV5alVpaGxwR01UMWRiSGNXbDNoMjUwN0FTdjgyNnVydElUQjJjTnBRajdLTFNDNkxBUVVRU1BrYk5XT2NKODl0NUtSSWZSS1BON2VSOFZCYTNhVG1WbE93SlVUQzFZWjcyRVhuc1Q1aVFrcXI4UVg0bTQ1aGc0dk84RHR2UzBJX0I5a25jdExlUFpwZ0E0WHN0aHJsbW9aMlV1VFZDYWhnaktOeERSXzlSR2QtOVpLMWtW?oc=5",
+  "medio": "El Economista",
+  "publicada": "2026-11-24T14:54:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Harfuch encabeza entrega de patrullas y vehículos tácticos blindados en Sinaloa tras ola violenta El Economista",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0e72f3e2675e9b25"
  },
  {
   "titulo": "Diputados guardan minuto de silencio por soldados caídos en Guasave",
@@ -99,6 +841,20 @@
   "id": "a8a19ead232f2d5a"
  },
  {
+  "titulo": "Eleazar es detenido por homicidio ocurrido en Navolato",
+  "liga": "https://riodoce.mx/2026/11/24/eleazar-es-detenido-por-homicidio-ocurrido-en-navolato/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-24T14:51:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a14005b3fa441dba"
+ },
+ {
   "titulo": "Helicóptero de las Fuerzas Armadas realiza sobrevuelos en comunidades rurales de Ahome, Sinaloa",
   "liga": "https://losnoticieristas.com/policiaca/2026/11/helicoptero-de-las-fuerzas-armadas-realiza-sobrevuelos-en-comunidades-rurales-de-ahome-sinaloa-1172332/",
   "medio": "Los Noticieristas",
@@ -139,6 +895,20 @@
   ],
   "local": true,
   "id": "c5322a722da68e21"
+ },
+ {
+  "titulo": "Chapo Isidro podría evitar pena de muerte mediante entrega pactada a Estados Unidos, según fuentes",
+  "liga": "https://www.sinaloahoy.com.mx/portal/chapo-isidro-entrega-pactada-washington/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T14:47:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Chapo Isidro podría evitar pena de muerte mediante entrega pactada a Estados Unidos, según fuentes Fuentes estadounidenses citadas por Entorno MX plantean una posible entrega pactada de Chapo Isidro. La fiscal Ernestina Godoy dijo que, por el momento, será juzgado en México. Sina",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5fb9116da992cd0f"
  },
  {
   "titulo": "Ahome reporta solo un caso activo de gusano barrenador; Sinaloa suma 143",
@@ -196,6 +966,20 @@
   ],
   "local": true,
   "id": "fbeb08dc69f2b73d"
+ },
+ {
+  "titulo": "VIDEO | Refuerzan Seguridad de Sinaloa con Nuevo Equipo para los Policías",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkpfUkNweXJ0RndwUTF6NWVFbTBGQlZWVnJxN1djdWh6TUlXSjBSUm54MGxkMmtTVlczMmE4Q0F4TTh3a29ITGs1TzdfZzk5VXVVeTA2U1hGQWVhZWFyanlfdFdBLTM0ZU9XY0lDYzRWZGpqaUo1ZWNQRGFGZW5xVkFYTjJXeGRIR0xsLWtFNGM0cldvUEFBRXMxdU5HblRhQ2I0RE5SUHM3aW5PYk5RRjhfNG5TenBYVGNHTGNKZUVLNlUxaDlxMA?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-24T14:43:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "VIDEO | Refuerzan Seguridad de Sinaloa con Nuevo Equipo para los Policías N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a0a4aad08c19b216"
  },
  {
   "titulo": "Fiscalía de Sinaloa cumplimenta orden de aprehensión contra presunto responsable de homicidio",
@@ -296,6 +1080,20 @@
   ],
   "local": true,
   "id": "3e3e9f6ba734bb48"
+ },
+ {
+  "titulo": "Comerciantes de Culiacán piden adelantar el operativo Guadalupe-Reyes ante el pago de aguinaldos",
+  "liga": "https://www.sinaloahoy.com.mx/portal/comerciantes-culiacan-adelantar-operativo-guadalupe-reyes/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T14:37:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Comerciantes de Culiacán piden adelantar el operativo Guadalupe-Reyes ante el pago de aguinaldos La Unión de Comerciantes de Culiacán pidió adelantar el operativo previsto para el 12 de diciembre e incluir vigilancia nocturna en el centro. Sinaloahoy - Noticias de Sinaloa y el mu",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "79b47369e1992e2d"
  },
  {
   "titulo": "Crece demanda de Nochebuenas en Los Mochis; viveros preparan más plantas",
@@ -1226,6 +2024,20 @@
   "id": "a7001e60817ca48d"
  },
  {
+  "titulo": "Harfuch entrega patrullas y motos en Sinaloa; anuncia llegada de vehículos blindados",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPay1lYzdOc3l5cjJVekdDSEdNa1pidmR3SDIzaFlWMTh0X2Zud0l0LWxHS2Ytbl9zNmlSUGVlb2s0SFBQMEVtZU5ZdGNTdUYzRVg1aUtDZkRmUGNuMWhrbGJfVlJZamtfaU9MQ1NnMHpYLXpSeHJiMWVCLUJlRDdCTDY5U3JrWWFSTUlyWnN1Q0hCaEtabXkyZmdiYlhIZ1RvZWhTNGs0dnlPZjRvRjdkSXEyTlRJMjJF0gHMAUFVX3lxTE9WbWZ1cmdDempmT1F3dEdiQ09tRm9ZYWtYTTh1ZHMxbkNyNnRiWGVtQkFBaWN6YktEOGNxeThqcXVVdTFfdDVWc2htSEg1ckpPN29Sc1hoNEJha3RxbDFSYzVmeWE0Y1RLeFNOcXl1YjV2TFJYRkJSYUJ2UDk5SUFBdTdvc29RbGhhMWhoOVhUeEl1LWp0QlNqNGFOY3BHbVA3dUs1OWNVNlllMFdhYkFyNjBNb0pCdUlPV3ZOMXNLQzJ1T2lmc3ZvOUlwMA?oc=5",
+  "medio": "W Radio",
+  "publicada": "2026-11-24T13:50:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Harfuch entrega patrullas y motos en Sinaloa; anuncia llegada de vehículos blindados W Radio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4df91a83495b0a5a"
+ },
+ {
   "titulo": "Llegará Contigo Mazatlán al fraccionamiento La Campiña",
   "liga": "https://revistaespejo.com/2026/11/24/llegara-contigo-mazatlan-al-fraccionamiento-la-campina/",
   "medio": "Revista Espejo",
@@ -1368,6 +2180,20 @@
   "id": "dd50e840fa90d314"
  },
  {
+  "titulo": "Xóchitl Gálvez señala a Rocha Moya y a AMLO tras los dichos de García Harfuch sobre la impunidad en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQalM1U25OQjN3NVdMLXF1dmM1SFh2QWFoOUlUeWxxSTdLS3YzRGhvQzliM0NrQmNTNU5sUkl4QXphOEJNV2ZqS3BxdnR4akJ0UVF4RzZTMmtLSlMxaFN4Rlo3LVg1MW56TTFIYWhjZkVKZy0xS2JpQXdnNmhVSWQxMnNvQVQwNGRpaWdxdlZqMmJJUlRoYnZLWWU5NEM1Q05HTm1oUGtoVW5GNkRQM3RxWHZlOHVKZURmUWJLWmdoVnlIMmxfQTRyNHI0aWpDdjQwMWJKMHlFaGwxTGpiUk9MbFRheWPSAf8BQVVfeXFMTmtYN3dodmpyeWxBM2V1b28xUEJZeVFxZndlaTJDVDF2Q216N2N5czl3WHoxVExoeE9sWG85VTJyUW55YlgycGFWWDF2RlhyNGJoZDNGVWtVbjNhcnd0YWNkWkJ0SWVUMTNHVDRIOVhCTU1WVVpqWWlCb1l3eFVCOWJucHdreFFUSVFvcTZfSEVBbHJOaV84Vk1xeEZrMDJCQUN1c0FYMmJkX3c0QXVFNm5ZVl9CUUVqX0U2WFdfU2lIQnBabmo5ZTIzaWs0VklicWpYc2RETWttWFJ3S09rakFaOUpQSW1XM3BreW43R0pJV3lHODBqZlFJcmlrUHZj?oc=5",
+  "medio": "Infobae",
+  "publicada": "2026-11-24T13:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Xóchitl Gálvez señala a Rocha Moya y a AMLO tras los dichos de García Harfuch sobre la impunidad en Sinaloa Infobae",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ad74406d94de32c5"
+ },
+ {
   "titulo": "García Harfuch y titulares de las Fuerzas Armadas visitan Sinaloa a días de la captura de “El Chapo Isidro” con este propósito",
   "liga": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQUF3MmdSTGZLUC1iLXpIWll3SzVTX0d6UnZ2R3JGYnhjY3Zrc2ZKdmRiTXEwMHl1TUZKRjNEWU5odmlKT1ZWd0xSM2J0eEt2Rk9lQlNMZ0YyYTN5b0pXS3hIajFrUHI2akRjeGhCdmFEZi1iOHE0WTRybmw1N3RmeGtPTGZhOHVGamUwX1EwSFViRUowX2ZsRFQ1WE1nVXpIa001UG5SVm5CZzdQYVppQkhYRmJtSHBfNmk1R1pDTVRieDdYVDltZ0ZpWU1wcUE3bm94QmhjRDRkRktnem1nU3A5T0dwRC1FU2t4RWJvMnM1VkFKdnZIQVBRNV9xM1hBbkxj?oc=5",
   "medio": "LatinUS",
@@ -1408,6 +2234,20 @@
   ],
   "local": true,
   "id": "ee945642a3b157ea"
+ },
+ {
+  "titulo": "Crece interés por emprender en Sinaloa ante retos económicos",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdG5ZdUpITGM2SW9ob1hiSndDUExaTFptWXdhX0lPczZvMG9JSUJQVWt6d1lRaDF2anlTdXNnZzBKS1V1eDVfRzF5VHpaQTR3M1dmZ2JBVVRrV3dISDVPRmg3NkxsQ1NTQk11bWRkcjF0NDQxY0dpYzk5eFJUdWdzRXNIQjhabl9PVGI2TGotVQ?oc=5",
+  "medio": "Revista Bien Informado",
+  "publicada": "2026-11-24T13:40:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Crece interés por emprender en Sinaloa ante retos económicos Revista Bien Informado",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "41306448777d4a81"
  },
  {
   "titulo": "Residuos acumulados en drenaje de la Rosendo G. Castro, en Los Mochis, provocan obstrucciones en la red sanitaria",
@@ -1785,6 +2625,20 @@
   ],
   "local": true,
   "id": "20abc1c51702a0e4"
+ },
+ {
+  "titulo": "Irma Moreno exige fondo de emergencia para familias afectadas por hechos de violencia en Guasave",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTZxeUtHQ2NXdHpnczhDdzZjb0JiamRUYUhOWEFJS01JWk16c1lISGJQaWhTYjRHSUVXc1FrZnFkbFVaRHJPSFRGQUl6UENleGNJUWs1Z2lBbDVuR0F4bHptRUFyaTM4aDNmTXZrVDVPN0NiMXhOVDhIRmU3eThWbTBGLVpCeWpTNGZCVmxBVVZMRU1YSFM3WXpQNzM2QjdHSDNJc3FRMjRZNzVuaVBSSW55TkRTdk1qMEE?oc=5",
+  "medio": "ADN Informativo MX",
+  "publicada": "2026-11-24T13:26:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Irma Moreno exige fondo de emergencia para familias afectadas por hechos de violencia en Guasave ADN Informativo MX",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e527a3eb4358289f"
  },
  {
   "titulo": "Pide Paola Gárate acciones concretas durante los 16 Días de Activismo ante crisis de feminicidios",
@@ -2377,6 +3231,20 @@
   "id": "49d85f3ee5068efb"
  },
  {
+  "titulo": "¡DAN ASCENSO A TRES MANDOS MILITARES CON HISTORIAL EN SINALOA!",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmxndDd5a2xON1RBNC1MazItdXVjUVhVbkp6V3ZjMFYtVlpUR1Uzdkx6ZDdUZWl2ZFBfT2h5ZTVnR3NIeWNSSzNaMGZyRjNDSWxDdDJJc2FETk9uZkp5c2FUNVJzQXBwSG1aa3FLWFhyMnVJNUJlVVJROTJfdjZDZjdna21NeE9DMnJyNk1HZVlIYmFaZk0yUy1wNjY?oc=5",
+  "medio": "NOTIVER",
+  "publicada": "2026-11-24T13:04:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "¡DAN ASCENSO A TRES MANDOS MILITARES CON HISTORIAL EN SINALOA! NOTIVER",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ccacbc7466c0bb75"
+ },
+ {
   "titulo": "Localizan camioneta doble rodado con blindaje artesanal en huerta de San Pedro Las Arguenas",
   "liga": "https://cafenegroportal.com/localizan-camioneta-doble-rodado-con-blindaje-artesanal-en-huerta-de-san-pedro-las-arguenas/",
   "medio": "Café Negro",
@@ -2734,6 +3602,20 @@
   ],
   "local": true,
   "id": "6ba05df352ed51ac"
+ },
+ {
+  "titulo": "Incendian dos taxis durante hechos violentos en Ahome; pérdidas superan los 200 mil pesos",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQnV5bFdKWjE1clpKLWpyS2pPdWhWczBQbVlYR00zVTJNNXVIckhoVC1qV3hsbFJ6ZlZCNkYzZDNTWFhRa1pORFQ5ZW02b2xoMWpvamFvUUZST1VkbW5tbkxxaUZNNDBVdWJfQVdreFhfNmVoZk1salkxRzd6Q3JlTEh5ZExWeHBiVkd0TDEwLW90emRUbjAyVnRucVpCN0dfbGF5a3NfS25yVHBDNkF6QkFHV2xsWmhTYnA1eUQtejNfV0R5Nzhaa0lHREppM1FiUUtod1hSZFFrOEhudFhKNUlkOWpIdw?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T12:46:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Incendian dos taxis durante hechos violentos en Ahome; pérdidas superan los 200 mil pesos Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "66923fa0557ebba8"
  },
  {
   "titulo": "Inaugura Estrella Palacios el Primer Congreso Internacional de Bomberos Mazatlán 2026",
@@ -3767,6 +4649,20 @@
   "id": "68eca432efa00726"
  },
  {
+  "titulo": "¡Atención pensionados de Ahome! Actualiza tus datos y no pierdas el 80% de descuento en tu predial",
+  "liga": "https://noticieroaltavoz.com/atencion-pensionados-de-ahome-actualiza-tus-datos-y-no-pierdas-el-80-de-descuento-en-tu-predial/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T12:04:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Los Mochis, Sin.– El Ayuntamiento de Ahome solicita a las personas pensionadas actualizar sus datos en las oficinas municipales para mantener su descuento del 80% en el impuesto predial de cara al pago de 2027. El Gobierno Municipal realiza la actualización del padrón debido a aj",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "eab0a77645a13807"
+ },
+ {
   "titulo": "Vinculan a proceso a joven por conducir un Nissan robado en Culiacán",
   "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjZYbjN1OFJzVVVKdE9nOUZFYXFCZjkwbjYxU29HME83OGVKQnA1eWdhUjlIdDlLWXNwSGZ3aDlJaklTRkhjZVFPaVU4QUFkTkNpUXJhaTNFeDIwQkVGT3RLX2lZWTRnUTQ5cHJfR3pyZURhNnhUdGxEZ0pGNVhWSTJ3QzNobm1uRmRmX2x2cXhrc09XMktJQV9yXzE0UFBEUlhwLVVkTFdrdmpjdVJwZGVWVUFYYnBtdFJkSDFXUk13dUdBc0F3cVIzcw?oc=5",
   "medio": "El Debate",
@@ -3964,6 +4860,20 @@
   "id": "13996b8b66c6ab2d"
  },
  {
+  "titulo": "Operativo para capturar a “El Chapo Isidro” refleja resultados positivos de la estrategia de seguridad: Graciela Domínguez",
+  "liga": "https://noticieroaltavoz.com/operativo-para-capturar-a-el-chapo-isidro-refleja-resultados-positivos-de-la-estrategia-de-seguridad-graciela-dominguez/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T11:55:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Culiacán, Sin.- La gobernadora interina de Sinaloa, Graciela Domínguez Nava, calificó los acontecimientos del pasado 20 de noviembre en Guasave, donde fue capturado Fausto Isidro “N”, alias “El Chapo Isidro”, como una muestra de los resultados positivos de la estrategia de seguri",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "322d96dfeaed7bbe"
+ },
+ {
   "titulo": "Hijo y asistente de Serapio Vargas buscan ser diputados locales",
   "liga": "https://cafenegroportal.com/hijo-y-asistente-de-serapio-vargas-buscan-ser-diputados-locales/",
   "medio": "Café Negro",
@@ -4121,6 +5031,20 @@
   "id": "565eb69fa6ecdcbf"
  },
  {
+  "titulo": "Proyectan construcción de nuevo penal y desarrollo de C4 carretero para fortalecer la seguridad en Sinaloa",
+  "liga": "https://noticieroaltavoz.com/proyectan-construccion-de-nuevo-penal-y-desarrollo-de-c4-carretero-para-fortalecer-la-seguridad-en-sinaloa/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T11:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Culiacán, Sin.- La construcción de un nuevo centro penitenciario, el desarrollo de un C4 carretero y la capacitación especializada de policías municipales forman parte de los proyectos estratégicos que se contemplan en Sinaloa para fortalecer las instituciones de seguridad públic",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "17d8beb978ee6a98"
+ },
+ {
   "titulo": "Carambola entre tres vehículos deja dos lesionados en Los Mochis",
   "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOWRCWVozX1lUdWtsalVJMTJCcEI5aG1jQVRRZ1ZfZFpfMXVhNlpUNFRPNGhWODBvOUVhcmROWHFxYlFYUjgxZndOYWVQT3BWMGZ0U0w2M3pLSWRVQjJnNndVS1I0MVBqaFk3cVZfd3EzV2RHN05BcnRhaFpua2ZsbkpLdFo5Z1NzNFpTNDNjUktfUV8xbGU1LXB3NnhDeW52Zm9YVGpRY2FDLVpBY3c4RHJrc3JQa0E1SEhsOFVKZ0VQNGs2bHc?oc=5",
   "medio": "El Debate",
@@ -4162,6 +5086,21 @@
   ],
   "local": true,
   "id": "47eed0e51cda78a0"
+ },
+ {
+  "titulo": "Avanzan trabajos de mantenimiento en la infraestructura hidráulica de Juan José Ríos",
+  "liga": "https://noticieroaltavoz.com/avanzan-trabajos-de-mantenimiento-en-la-infraestructura-hidraulica-de-juan-jose-rios/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T11:43:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Juan José Ríos, Sin.- El H. Ayuntamiento de Juan José Ríos, que encabeza la presidenta municipal Evangelina Llanes Carreón, a través de la Dirección de Agua Potable y Alcantarillado, mantiene labores de atención, reparación y mantenimiento en distintos puntos del municipio, con e",
+  "temas": [
+   "Gobierno municipal",
+   "Agua"
+  ],
+  "local": true,
+  "id": "9f18fc7f7b671128"
  },
  {
   "titulo": "Colosio Riojas confirma interés en competir por la gubernatura de Sonora en 2027",
@@ -4305,6 +5244,20 @@
   "id": "c14d88f13ea95084"
  },
  {
+  "titulo": "Mantendremos presencia federal y operativos contra todos los grupos criminales en Sinaloa: García Harfuch",
+  "liga": "https://noticieroaltavoz.com/mantendremos-presencia-federal-y-operativos-contra-todos-los-grupos-criminales-en-sinaloa-garcia-harfuch/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T11:35:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Culiacán, Sin.- Tras la captura de Fausto Isidro “N”, alias “El Chapo Isidro”, el secretario de Seguridad y Protección Ciudadana, Omar García Harfuch, aseguró que se mantendrá la presencia de las fuerzas federales en Sinaloa y continuarán las operaciones contra todas las organiza",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "2085e9067d8f38c0"
+ },
+ {
   "titulo": "Defensa difunde video de la captura de Chapo Isidro durante operativo federal en Guasave",
   "liga": "https://www.sinaloahoy.com.mx/portal/chapo-isidro-video-captura-guasave/",
   "medio": "Sinaloahoy",
@@ -4374,6 +5327,21 @@
   ],
   "local": true,
   "id": "ec5c83505d23b9ce"
+ },
+ {
+  "titulo": "Destaca presidente de la UGRS balance favorable en materia de seguridad en la Expo Feria Ganadera Sinaloa 2026",
+  "liga": "https://noticieroaltavoz.com/destaca-presidente-de-la-ugrs-balance-favorable-en-materia-de-seguridad-en-la-expo-feria-ganadera-sinaloa-2026/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T11:28:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Culiacán, Sin.- El presidente de la Unión Ganadera Regional de Sinaloa (UGRS), José Alfredo Sáinz Aispuro, destacó el balance favorable en materia de seguridad y el ambiente de convivencia familiar que ha prevalecido durante los primeros días de la Expo Feria Ganadera Sinaloa 202",
+  "temas": [
+   "Cultura y tradiciones",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "bc463cc937bb78dc"
  },
  {
   "titulo": "La estrategia militar en Sinaloa fracasa en frenar el fentanilo y los mercados ilícitos: International Crisis Group",
@@ -4487,6 +5455,20 @@
   ],
   "local": true,
   "id": "0d2d21395ff1271a"
+ },
+ {
+  "titulo": "Entregan 104 vehículos a policías de Sinaloa; Harfuch anuncia que continuarán operativos contra todos los grupos criminales",
+  "liga": "https://noticieroaltavoz.com/entregan-104-vehiculos-a-policias-de-sinaloa-harfuch-anuncia-que-continuaran-operativos-contra-todos-los-grupos-criminales/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T11:21:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "Culiacán, Sin.- Con el objetivo de fortalecer las capacidades operativas de las corporaciones policiales y mejorar las condiciones de seguridad para la población, el Gobierno Federal realizó este martes 24 de noviembre la entrega de 104 vehículos destinados a la Policía Estatal P",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "92ad7cee0408c6e1"
  },
  {
   "titulo": "Cañeros vs Algodoneros: “Una trenza es un hit de amor por Trenzamor”; conoce aquí esta campaña",
@@ -5129,6 +6111,22 @@
   "id": "0fa5b040c2716042"
  },
  {
+  "titulo": "Barco camaronero regresa a Mazatlán con 20 toneladas tras 42 días en altamar",
+  "liga": "https://oem.com.mx/elsoldemazatlan/local/barco-camaronero-regresa-a-mazatlan-con-20-toneladas-tras-42-dias-en-altamar-33290053",
+  "medio": "El Sol de Mazatlán",
+  "publicada": "2026-11-24T10:54:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "La Secretaría de Marina asegura que esta temporada no se han registrado asaltos a embarcaciones camaroneras",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "3792ebab31e5b1c4"
+ },
+ {
   "titulo": "Fuerzas Especiales de la Marina arrestan a Manuel «N», principal productor de metanfetamina en Sinaloa",
   "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWpsSU41WUVnQm80ekc0aFJHalJEY1hyREZFYTBBdEtnU05TeG11cm45VmRDZXVHZ1FWcHJFZmd5dE9GVlJOZWJxNC1wZktELWM5THVnT1llM2E4V1BaajNHY3FHVC1sZHFOc1p5cU05cXBBZ2c3SnBTckpyMENYQlViX21PQ3FvaEgtRUdPRUo4ejFndnRKOS0tRDNNa3owNlBJSVhFMHNRbUVycS12UXk2eFJsRm5Obk11emVwYUh0RV9qeXcteWFtMkZhMzA?oc=5",
   "medio": "Unomásuno",
@@ -5455,6 +6453,20 @@
   ],
   "local": true,
   "id": "00cc2ed8f6c273a4"
+ },
+ {
+  "titulo": "PAN y Movimiento Ciudadano piden apoyos para familias afectadas por los bloqueos en Guasave",
+  "liga": "https://oem.com.mx/elsoldesinaloa/local/pan-y-movimiento-ciudadano-piden-apoyos-para-familias-afectadas-por-los-bloqueos-en-guasave-33293351",
+  "medio": "El Sol de Sinaloa",
+  "publicada": "2026-11-24T10:37:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T15:59:40-06:00",
+  "resumen": "El Partido Acción Nacional reconoció el operativo federal, pero planteó que la paz requiere recuperación económica; por su parte Movimiento Ciudadano cuestionó la opacidad y la respuesta oficial ante la crisis",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "a5c11200ff568709"
  },
  {
   "titulo": "Ausentismo escolar llega al 50% en Guasave, Sinaloa tras balacera",
