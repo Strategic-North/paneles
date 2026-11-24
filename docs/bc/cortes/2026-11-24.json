@@ -1,5 +1,124 @@
 [
  {
+  "titulo": "El coronel Luis Fernando Burgos asume comando de Policía en Sucre",
+  "liga": "https://elcongresista.mx/politica/nacional/coronel-luis-fernando-burgos-asume-mando-policia-sucre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T05:25:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T05:29:18-06:00",
+  "resumen": "El coronel Luis Fernando Burgos asume el mando de la Policía en Sucre, enfrentando retos significativos en la seguridad local.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "56fdbdedb87821af"
+ },
+ {
+  "titulo": "La Plata experimenta temperaturas de hasta 28 grados este martes.",
+  "liga": "https://elcongresista.mx/politica/nacional/la-plata-temperaturas-28-grados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T05:21:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T05:29:18-06:00",
+  "resumen": "La Plata tendrá un martes caluroso con temperaturas de hasta 28 grados y sin lluvias, según el SMN.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "edc404b2212484de"
+ },
+ {
+  "titulo": "Roma acoge el Congreso Kairos, con mil asistentes de todo el mundo",
+  "liga": "https://elcongresista.mx/politica/nacional/congreso-kairos-roma",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T05:21:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T05:29:18-06:00",
+  "resumen": "El Congreso Kairos en Roma reunirá a mil jóvenes del 26 al 29 de noviembre para reflexionar sobre su camino de fe.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8ead65583c29db55"
+ },
+ {
+  "titulo": "Estado de México aprueba presupuesto de 433 mil millones para 2027",
+  "liga": "https://elcongresista.mx/politica/edomex/presupuesto-2027-estado-de-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T05:17:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T05:29:18-06:00",
+  "resumen": "El Estado de México aprueba un presupuesto de 433 mil millones de pesos para 2027, orientado al bienestar social y la coordinación con el gobierno federal.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c4b82d42ad78b083"
+ },
+ {
+  "titulo": "Urge proteger a 1.7 millones de menores en Yucatán",
+  "liga": "https://elcongresista.mx/politica/yucatan/proteger-infancia-yucatan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T04:49:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T05:29:18-06:00",
+  "resumen": "Víctor Chan Martín urge a Yucatán a proteger a 1.7 millones de menores en riesgo y a invertir en su bienestar.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8660797f2699a9eb"
+ },
+ {
+  "titulo": "Exalcaldesa de Playa del Carmen enfrenta proceso por irregularidades",
+  "liga": "https://elcongresista.mx/justicia/exalcaldesa-playa-del-carmen-vinculada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T04:46:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T05:29:18-06:00",
+  "resumen": "La exalcaldesa de Playa del Carmen enfrenta prisión y proceso judicial por irregularidades en licitaciones públicas entre 2022 y 2024.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "bd0761a36210c699"
+ },
+ {
+  "titulo": "Santander reurbanizará Marqués de la Ensenada y reordenará el tráfico en Sotileza",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2R1VGlrVXBXUjRSWE0xQW1lQzhXWUFQSDF6a2NkLVo5dDJXWFZ5WksyNE1vcndobXl1TnF3M1RJWFRGNnF5VWlLbHdhMzh2WUNKcVZRclNFWDg5b0ItdmlUSEY1NHdGajVjXy1RQUh3aGJxY1htTFZYaFBneENqODhEU0t4NzJrYWFOcUlzU1ZXSHctalZjUXU4amFQeGJqM0E?oc=5",
+  "medio": "Portal Ayuntamiento Santander",
+  "publicada": "2026-11-24T04:42:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T05:29:18-06:00",
+  "resumen": "Santander reurbanizará Marqués de la Ensenada y reordenará el tráfico en Sotileza Portal Ayuntamiento Santander",
+  "temas": [
+   "Gobierno municipal",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "c197a7cee291ac80"
+ },
+ {
+  "titulo": "Detienen a Fausto Isidro Meza Flores, líder del Cártel de Guasave",
+  "liga": "https://elcongresista.mx/politica/sinaloa/detienen-chapo-isidro-cartel-guasave",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T04:38:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T05:29:18-06:00",
+  "resumen": "Detienen a Fausto Isidro Meza Flores, líder del Cártel de Guasave, generando una lucha por el poder en la organización criminal.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ef5148f2b3f3fc54"
+ },
+ {
   "titulo": "Detienen a hijos de Román Cepeda en investigación de corrupción",
   "liga": "https://elcongresista.mx/politica/coahuila/detencion-hijos-roman-cepeda",
   "medio": "El Congresista",
