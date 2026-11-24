@@ -1,5 +1,411 @@
 [
  {
+  "titulo": "La Bebeshita revela a Kevyn 'Bicolor' que está embarazada",
+  "liga": "https://abcnoticias.mx/show/2026/11/23/la-bebeshita-revela-a-kevyn-bicolor-que-esta-embarazada-296408.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T23:10:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f8730b2b95fc9eea"
+ },
+ {
+  "titulo": "Leonardo Aguilar anuncia compromiso con Adriana Caballero",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWMyc2dCVzBIS05nREM0RndKM0t6Nm0tZWR6ckpxTEVNUFdYZTZjYklISi1HWTR2YzljRGl2bUZ2UnFPUU9NSFlINTUyUWQ1aXNDZ1lBRS1FYnFIZHNtVF9VdUVMbWZINnVENkhqMDlnbGt6dmVNSjVSbUQ2R3dCbzZiMnRoX1ZiQkE1ZXFfazRNeE53V29uLVFObjVfV0paRGpmcQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T23:04:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Leonardo Aguilar anuncia compromiso con Adriana Caballero El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "06f572fb77dda071"
+ },
+ {
+  "titulo": "Prueban empresas ajustes por reducción de jornada laboral",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVV4RWhBMUNwS0hGbUkwWko1YkE4Q1F5eFltNlJteXJlUTJNQWx0dTgwTTFDTE5abEFPMjY2U1h3b3daOWdrSmhLMWxYX1hwdy1aNWZZdE15MkFLeXZEcVZTT1dvX0k3MlliRzlGZnBpQzRiT1M3QlJCWG04LVo1NUQyYWxvc0dWY1JJcmlZOVJRbV9GLUxxT1oxbmpWR3JjOFp0MzVkSQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T23:04:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Prueban empresas ajustes por reducción de jornada laboral El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "0edfee39ae176b8d"
+ },
+ {
+  "titulo": "Leonardo Aguilar y Adriana Caballero anuncian su compromiso",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakhKbktJQUpSMmZNZlJjeU94YXZ1a0tDS3kteDBDaHZxWlBESFdld09nMUFmVXVZYmdPSUd0UWxKR1psT0N2dUVHei0xWWtPNFdVLWxVeDFkS1hIazRIWS1rQV9QcHJueGdtLWpTT0ZKaVk4UmpnUF9JaXM4Q2xHbzZJbHhDczM3RU9vYmpfTGw5amc1R0hEcGVtM1VPU1Q4Unc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T23:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Leonardo Aguilar y Adriana Caballero anuncian su compromiso INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ac69558769757722"
+ },
+ {
+  "titulo": "Atienden en Ramos Arizpe denuncias de violencia a mujer",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVRzY3FIWjRRNzN3bWljcDdlZjJsMURKa05BUHdHNzVINXNkX2xWc01FUHFZbmZsVnZtTlBISzZoTzVrZlM2OUNtcTc2cU5vbnFvdWp4d1RXQ3JUZkhESkFwNGM1TTY0Qmd5RURocHVhNkxEMkRxcWhTbXNrUUpOQ0xfWTg3TVY0VWs4TFNjN0t4eFpvTFRrTmE0ZDlKTWg5V0tNVw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T22:59:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Atienden en Ramos Arizpe denuncias de violencia a mujer El Horizonte",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0d1ab26c94e93c8e"
+ },
+ {
+  "titulo": "Empresas ensayan modelos ante reforma de jornada y salario mínimo",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmU3S1ZUT0NPbzV2X3dYbWQ4RFd2WjhsbndQenVoN0JmWWxxVlFsOW1pbncxOGZtMFh6bUxVM0Fpb2xlb2pfY3dYeEVGcWVjUEc1SEhQSkd4V2lxR3pyaUNpMkg5SHU4eS1pTFo5ZklEUEN6REhOU0plZndGbnhNb2xxMHlTaGNhRVFhWVJSenVYSDhBUHJRSWZWaVdKZG5jQXk4UQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T22:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Empresas ensayan modelos ante reforma de jornada y salario mínimo INFO7",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "db7cc962d6f2eaea"
+ },
+ {
+  "titulo": "Kunno gana la capatacía en gala de La Granja VIP 2",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGV4YjlwbTVOVGwwMUVwalRYNWtROXF5RlhNck5vbUNZMjNhRVlKbkZ2NUt1OXpDRUE1MU5XY1BXM1BRal9VU1lwUTh5eVFfemRYdWtBVzRCZ2tMQkJqMWVkMi1BVFdTM21Na21XOVVibWNodEx6V1Z6TGozY2RYODVpOUZkcy1lREFRZDVrb3Rhb2ZYd1BreUNVQQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T22:49:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Kunno gana la capatacía en gala de La Granja VIP 2 El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4244622bcd938680"
+ },
+ {
+  "titulo": "Explota vehículo bomba en Villavicencio; reportan doce heridos",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkdkcVI4WVltWTdoSEJjU0d2ZzZzRnZOcC1CLWtFdmZJck14aEtQVEhGb1pLdDQwd0tFbnpNSVBRY3NQRTJEc1J2SFVpZnJFV1ozNEpBeGNnTTdSUjgweHRhODhvQUs4QkQtUHI0X255aFpUUkljaTF4NjJMdm8wcWd5V1VPeUZyZDRaaHluZmxzRkY4SkwzNnFOZWVIUkxXQW05RXpRTQ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T22:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Explota vehículo bomba en Villavicencio; reportan doce heridos INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "85baffc57729f82f"
+ },
+ {
+  "titulo": "¡Va por la gubernatura! Colosio deja Nuevo León y apuesta por Sonora en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWE9XaTB0NXphQ20tR0ZqWlRKend2dzRhdFBqVWRuSUt4dTFfeUNSdGF0dllVcy1oQXg0Snl4MFVfcnY4azhxZXhDRXdtMUp0bnEwSG90RUp5WHNfaVhLS1pSWnhhbFM4YldWSzRrSW9kaURnYUFpZDBLbU94ckdXNFZrbWFQR0xXYi1Vdm1XSHJQOFR0eGdOVElEZlk3WWJEWC02eg?oc=5",
+  "medio": "Tabasco HOY",
+  "publicada": "2026-11-23T22:48:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "¡Va por la gubernatura! Colosio deja Nuevo León y apuesta por Sonora en 2027 Tabasco HOY",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3ce156770f8c70c8"
+ },
+ {
+  "titulo": "Kunno asume capatacía de La Granja VIP 2 y Julio queda nominado",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQng2cktQdWR0ZlNWZWx0WFJyTmMwUVpuVWJDTDRGMjN5dGlZelN5VzRsWE0zeDFfZ214dUhJdDVFc2tLd29rX0k0S0VTRTlYS08wcW1vV0JHOGdyLVZSWTJYWGpvbW5LcG1YZGRjUGxjUHRTdkRnUGVBZHFVQ25XaUt3SFdyMm1KZkwtNlhtQjlEX0hiSlo5WlFHZ0R1THh3ZWJoQnl5Yw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T22:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Kunno asume capatacía de La Granja VIP 2 y Julio queda nominado INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a2e6f7d838ba6a3d"
+ },
+ {
+  "titulo": "Black Friday 2026 ¿Cuánto puedes cruzar de Estados Unidos a Nuevo León sin pagar impuestos?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/black-friday-2026-cuanto-puedes-cruzar-de-estados-unidos-a-nuevo-leon-sin-pagar-impuestos/vl2282289",
+  "medio": "Posta",
+  "publicada": "2026-11-23T22:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "603e638d80e438f4"
+ },
+ {
+  "titulo": "Arranca rehabilitación del bulevar Jesús Valdés Sánchez",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWNpZDVtYzh6bmltU3BEeXlqcE5NTk9mRmR0SHBhRG9ndGJ3R0xXRVRKeG01VHNQWmNjVjE1Q0l3eldkalE2T0ZlZWJ5Tk9SZHNwcmdkdnVmMzhDUk0ydk95bWtPRzd1M1lfZGVicW5ZdlhBdUs0R1ZKYW9YZDZtV0NFQl9XajJlT1JsSW1nVEpMeXZWSG9aVmpiR2JsMmltZTdVMg?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T22:37:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Arranca rehabilitación del bulevar Jesús Valdés Sánchez El Horizonte",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "399f2c8f0b4cda17"
+ },
+ {
+  "titulo": "Investigan olores en la UTALT y clausuran empresa de isotanques",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDIxTVZycW5tVk1fXzJ3allyYllFUVFiY0xCYnZkSkMxZXZvcFhIYXdHTk54OWJaVjdqaG5HTEM1aVpXcXZ2WjI4dFVkV3JQR2lWdVlqa2Fxd2hpTS1FNElGcXZUQjVwY3E4dnZQdzN3Nk9vVkVDY2R4bm1RVHJmZWdSektmX1ByaFRrTm5RWVdsbC1GVENLY3BpQ29udE11S2V6RExxLVItS3Ffb0phdWpR?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T22:37:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Investigan olores en la UTALT y clausuran empresa de isotanques El Horizonte",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "f291c7f43e5cfe74"
+ },
+ {
+  "titulo": "MILENIO. . 🔴 Luis Donaldo Colosio Riojas, senador de Nuevo León, informó este lunes que tomó su decisión de inscribirse en el proceso interno de Movimiento Ciudadano con el fin de aspirar a la gubernatura de Sonora. 📺 #MILENIO21h con Elisa Alanís",
+  "liga": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEJwWTlWZXlSUDZvbUNvaHV4QURNUE1CS1pDRFktS3ZGd0hjd3NRY0NmSFdpbjZ1SnE3azdlWk5ubS1ZQzFETFNvZXhqQ2xSdnAwTXBSajZ3VW5aaVhDVG9zMWppVjFpNERuR0FMa1c3VmhldDg0c3pSbzNQN281RVhGQmhId09DWUczMnhsY0pnN3B2M09iR0p2cEI5dkJuZUhCWmhScHh0X0IxVUNwd1Q5OHJkeks5dVlmd21GVlRCNDJxNWRDMV95eGQxSDVvQ0lBczBObnpIVG43LW5CUW1zX1RzWnlST2ZSOENvWkI?oc=5",
+  "medio": "Facebook",
+  "publicada": "2026-11-23T22:35:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "MILENIO. . 🔴 Luis Donaldo Colosio Riojas, senador de Nuevo León, informó este lunes que tomó su decisión de inscribirse en el proceso interno de Movimiento Ciudadano con el fin de aspirar a la gubernatura de Sonora. 📺 #MILENIO21h con Elisa Alanís Facebook",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "c2ecbae060c0762f"
+ },
+ {
+  "titulo": "Quiénes son Ale Gaxiola y Anahí Ríos de La Mansión VIP 2",
+  "liga": "https://abcnoticias.mx/show/2026/11/23/quienes-son-ale-gaxiola-y-anahi-rios-de-la-mansion-vip-2-296407.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T22:35:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "aa1caf9c905725bc"
+ },
+ {
+  "titulo": "Invierten 15.5 millones en bulevar Jesús Valdés Sánchez, Saltillo",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkFmd3dFazVaa1duS1N2YVNsbkp2UWRvQldwelAzd25BY2RyWXRjalU5dEtMalpVTFF3SUtnc1J4QmpHVnNPeXlKNDJ1TTAzMm5QZDRZckcwT1M4cEVKYlM3SXAwb1Y3dzVKU04ydWEwMWFjOV84dzhreGpYTHVVSUNxYmtETEgtX1dCWkpySHpFcktSekxBNEJrYWFjdjJVTlFV?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T22:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Invierten 15.5 millones en bulevar Jesús Valdés Sánchez, Saltillo INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a8ff69dd8e0a0b83"
+ },
+ {
+  "titulo": "Lleva Santa Catarina servicios veterinarios a hogares",
+  "liga": "https://www.elnorte.com/lleva-santa-catarina-servicios-veterinarios-a-hogares/ar3320272",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T22:28:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Santa Catarina informa que ha brindado atención veterinaria gratuita a más de 4 mil perros y gatos mediante el programa Vet Home.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0957b28367a29165"
+ },
+ {
+  "titulo": "Gusto o compromiso: el debate detrás de los suéteres navideños",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2JpSUx1bW9nS3V5QmdoVFNlc09pNlhRNzZvaG1lQjB5OFJ0dlhSNk9GNjF4VGNoNzdFSVdpekZTVnpDcWNXX2xsZDMxTjFJckZKMnE0VzRVUUt6RGU2ZFVmUFhydVREUndIMDJ6cXNPXzNrNW5OUzMwYlh4TWZ2cmJNTFBjckgtVlRHV1ktOEVNOE0wTGNxR2NiNDVBcVdS?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T22:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Gusto o compromiso: el debate detrás de los suéteres navideños INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "eb5d4ce3dc804d85"
+ },
+ {
+  "titulo": "🟠 El senador de Nuevo León, Luis Donaldo Colosio Riojas, informó que tomó la decisión de inscribirse en el proceso interno de Movimiento Ciudadano para buscar la gubernatura de Sonora. 📺 #Milenio22h con Alejandro Domínguez",
+  "liga": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeXZTZXo0TklkX0VCRm5tMG12NGk3Rks3alBQeTRVYXRIRnpsZ1N2dUVqa2JRTVRlM1NCSmZLVjJVSGszdlF5UmFzZWdibndrVVo2U3dlY3JUb0R2NUtfczIzdUZtRG8wZFdMVEpWU3dQdmlnZUtSZkpZVWRudHlxRDNlLUFhQUQ4UThuQnFzdWFMMjdlbEpScDQtM3NIbUJPcXp3M01KSzkwa3VGbkVldW9oU05zMV9weDBtc01aU3JVNjc4NkljSENvRC0yemhrOENnelRyRDNxUUJZTUhMd3pRM3FxRGFadEFLX0toMG0?oc=5",
+  "medio": "Facebook",
+  "publicada": "2026-11-23T22:26:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "🟠 El senador de Nuevo León, Luis Donaldo Colosio Riojas, informó que tomó la decisión de inscribirse en el proceso interno de Movimiento Ciudadano para buscar la gubernatura de Sonora. 📺 #Milenio22h con Alejandro Domínguez Facebook",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "aaabfa070cbb536d"
+ },
+ {
+  "titulo": "Empresario sobreviviente de desplome de avioneta en Apodaca agradece seguir con vida",
+  "liga": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORjgyY3BOSGkxdXJpSldGRnplRUhXNDhUSDQtMFNyQW5qTVlkZ1RZa05FakRyakROYjRXM0RmTDNVUEVNOTFaemg2WWNhTXV6NXlZclkzWlNUYXBtWktTS1dGYTYyY2RiSlFRMHJ1SXFGSmQ5TDluX3A0QkpTR0duZFJ4WTJOMzdBSGl2cGJ1TmVlOVYwdTBtMy1EcTVQbE9LVG1pWGlkUFJZVTdNUUJQRlpuRW1jVUQ4MnctenpEZmFXcXRNby1aaWtmbnAxQjgxQ2hhbnl4bHJTZkNESWRrN3JoVTZtbVdxWTN1etIBgAJBVV95cUxOZ0RseU5jX2ZoZnhYQVQ5NnpRb0VMc0phVUFvX1N0c3Q3RFJjTDg4WnpKOFpMM2dxM2Q0SGdPSGxtZ056S3EzYTZzQm84S0pBQlk1U0VkTS1DUVZpc2Z2OWRBQlNhWUQ3aUpycGh4X3VtZE9nVFVqaFBZM3ZwaENwakNsSlh2R2d6XzRYV09PQi1UdnplUmhzcEhhQ3dad05fYnR1N0ZrTFRLTmVxUWhZSHVCeTIwSFNnN0o4V2MzeVR3MDZDaDhkOG9zUkhfM3JDZDNKUi0yRTRhR0ZSSUFCSEZTc0tuM0dteVdrSzNpMWwzQjIteXowZEoyakZpNUdz?oc=5",
+  "medio": "El Universal",
+  "publicada": "2026-11-23T22:24:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Empresario sobreviviente de desplome de avioneta en Apodaca agradece seguir con vida El Universal",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "8b28c2b624ef8eed"
+ },
+ {
+  "titulo": "Golpean en penal de Saltillo a interno por maltrato animal",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGtralVkanpsNVA1RnZ1TDlRNDFmSHNJT2VoR3FJaTVaSU9XbVJ5MW9rb3NoNURsSjV4VG13Y2JBbU5lN2RsOWFsSmNYWWZFS0Q3cTdDRFoydGlDUmw2NTlNYVpORFBiX1YwQXdIakFULXdzaEFVMnBQcGxuNzR4RmFuQUhVeEtZcG9wVUtqemI0cjEwdmJxb3R4M0ZscHhYdEVTck5BSTk?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T22:23:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Golpean en penal de Saltillo a interno por maltrato animal El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1930db2156dceaa6"
+ },
+ {
+  "titulo": "Buscan a Miroslava González Esquivel, adolescente de 16 años desaparecida en Escobedo",
+  "liga": "https://www.posta.com.mx/nuevo-leon/buscan-a-miroslava-gonzalez-esquivel-adolescente-de-16-anos-desaparecida-en-escobedo/vl2282415",
+  "medio": "Posta",
+  "publicada": "2026-11-23T22:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "76f2f6016e7ce6d7"
+ },
+ {
+  "titulo": "Recomiendan negociar pago justo por predios en ruta ferroviaria",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXJ4Tzkza3ZiTGJwdVBCNEZCcGZ5UVg0MFNRR1gzVGRfcjBpY3VsWXdzXzRyc0ozb2p6MXFNU21qTVpzTXFPYTdZREMyVW9nek1WSW91dk80WGNHZjY2Zi11TWNja2tFM0FJNzZNaE9qMjhNWUx0d0RZS1JUN25CanY3N3dmSlMxSDQ3eThxeEhEekJEeUpsOGdBT2Vld0RBa2Rn?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T22:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Recomiendan negociar pago justo por predios en ruta ferroviaria INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e6217357a79875d8"
+ },
+ {
+  "titulo": "¡Ojo regios! H-E-B alerta por falsas promociones en redes sociales; pide no compartir datos personales",
+  "liga": "https://www.posta.com.mx/nuevo-leon/ojo-regios-h-e-b-alerta-por-falsas-promociones-en-redes-sociales-pide-no-compartir-datos-personales/vl2282405",
+  "medio": "Posta",
+  "publicada": "2026-11-23T22:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0155992b83aa5a74"
+ },
+ {
+  "titulo": "¿Quién es Pepo López, vocalista de Passión Vallenata?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/quien-es-pepo-lopez-vocalista-de-passion-vallenata/vl2282425",
+  "medio": "Posta",
+  "publicada": "2026-11-23T22:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e16965ce778c53a2"
+ },
+ {
+  "titulo": "PAN de Nuevo León aprueba negociar alianzas rumbo al 2027",
+  "liga": "https://abcnoticias.mx/local/2026/11/23/pan-de-nuevo-leon-aprueba-negociar-alianzas-rumbo-al-2027-296406.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-23T22:13:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1418509ad484d3c2"
+ },
+ {
+  "titulo": "Choque de tren y tractocamión deja un herido en Ramos Arizpe",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYlNSUHk1eWp0NGpERTc5cEZsOG5hRUNOUGNsVHk0VFpqZDNHNkVlS2pXanNLbHFTQkNuNG1HQkpCcmpXQTJSYXBPelNEM2stQ1dPQ3RLUXRUMWZ1OE9hV0hLdUx1NW9hXzUtQU9ILTFjQS1reVVkclZEd2V4Y0ljbFBkNDBwXzY0VUZrcnU5U2g1cmlveWVrUGQwQTc5dw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T22:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Choque de tren y tractocamión deja un herido en Ramos Arizpe INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "bd58b059a9d0f711"
+ },
+ {
+  "titulo": "Advierte legisladora detección tardía del cáncer de próstata",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOW9EQ29mSEtyQmgwLWo2QS1mZ193Ynd1b2M1MVVFS1VQbW8zRHhyR2p2dExwbkxMQlJQV0FPWGVBZ09wSkpXeEkwLVNxUlVXc1lEc1hWNFlncWU2UmxhOGtKelVoWXN2OENxVjZ5bW94Smp1TXBfbUQtQ3FabVkxYzZQaTJ2ZjJaMndyX0NxTVVWWFlwa0VlVjQ1T0l3clA0eDZfZ2RHQzhrQlU?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T22:03:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Advierte legisladora detección tardía del cáncer de próstata El Horizonte",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "cd8c035e60abcc54"
+ },
+ {
+  "titulo": "Instala San Pedro luces en el Puente Atirantado",
+  "liga": "https://www.elnorte.com/instala-san-pedro-luces-en-el-puente-atirantado/ar3320253",
+  "medio": "El Norte",
+  "publicada": "2026-11-23T22:01:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "San Pedro informa que instaló 24 postes con lumniarias en el camellón central del Puente Atirantado en busca de mejorar visibilidad.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "07e09972da62d9b3"
+ },
+ {
   "titulo": "Coahuila lidera percepción de seguridad en encuesta oficial",
   "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFpQYUk0NlN0Q1NWOXJZOWlMRGhNSkF1NDVtR252bVVkRUVUQWZOdmQ2a1daVzl0NlZRdXFsenJuT3V3Yk96c1BmTTNueVY3Mm51MmE0eWhuVDVPdS02dkx5YWJHZXZxVzQxdnVTX2FwUHREeWMtUzBVbGFqc2ZNaVktZnBXNk5GNXhRVFZ4NXNHM2ZiZk1ybnB0eXcxbnJMM1RpeVBxMzVEQQ?oc=5",
   "medio": "El Horizonte",
@@ -28,6 +434,48 @@
   "id": "26b1ca92f115fb40"
  },
  {
+  "titulo": "Investiga FGR muerte de mariposas tras fumigación de Lorena",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDJ6bm5LRC16X2dDOThZcnp4a3V2T0p3ZkRib1Q0ajJjb0Q4OTFpRjZUMWVvMkEyS1ZacTA5aVpnY3pDemlHTU5YWEtFeDNjT2lUVVJhcUdmT2h0cDRWbG1Da1JzSkNfbWtYYXpSRHpCSGFlZi03bWJ0dHRBenRaT25YT0tjdGFuWE1IRGp1VnlHWERwS1ZPWGNUaTZ2dw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T21:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Investiga FGR muerte de mariposas tras fumigación de Lorena INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4aa0ec06af3f89c8"
+ },
+ {
+  "titulo": "Investiga FGR muerte de marisposas tras fumigación de Lorena",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3pHMElGSG9heVYtZkl2cWlyRGJONGFIYnVpbDZYUkRTYTNtR1RWaWRRUTZxWnh3Z0E0VzJBM20yQWxFRnFHa0VONUJKcWtxaFRGa2lmX2REcjdacnlNN1d6U2tOY1AtMDdPNHJyOGlIZU11X1NlbWxLYXl4T1hqbUhYaUJKXy1ZXzBheEY1WGhndEU1ZW1peEtsOXZIdkE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T21:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Investiga FGR muerte de marisposas tras fumigación de Lorena INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b8a0b90c3f321bb6"
+ },
+ {
+  "titulo": "Señalan barreras culturales en la salud de los hombres",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjVzT281Qm1HZ0VRV05XeUlrdHlnc0ZnX1N0Nm9QWEd5RTRSS1dlZE9qeVVjeVZTeUs0b3B1SEJPbFBIQUpIbEZpNExHSjhfT0xyZzRsQnFFTFgtZGppU21NUHhXWDNXN0N4dUo3OTFFWDdjYWRPSnhaU3Y3dzZSU3FiMGxESmNHMlg0U19qb2pLVWJDRGc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T21:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Señalan barreras culturales en la salud de los hombres INFO7",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "61ccf7eb1ec8b820"
+ },
+ {
   "titulo": "Debutan con \"El Cascanueces\" menores de Centro Comunitarios en San Pedro",
   "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLWVEY1JXMXFCbFYzdjVudnN5MGNuRGludjlSSGpaOWp1Z3Y5R1ZzXzVvU0NqRElJcHFXbXZxdXhVdURab3BXREtaR0trWC03ZTVnTml0V0pRUVNPS1FlLU9UWVVzWldOeTk5emVJRFoyYlZkeHk5Y3N3SUdWV0F1Y1dzc19EdG1XaEl4bFRXWUFOdUFoRk5scFluXzI5SVBwOVVwbTJBUlnSAagBQVVfeXFMT0I4M2hVU2pvV1FoZndqN2pRdkFKdWJnNjVGZGJadnVVNXVBOWdtdElwM0xWU0cydm5Yc3l4amxGNTM1SnBSSWtOWGJkeko2QjZteVc0VW95SDNHUWt0SXRPYjVpYkZVOUFMaFJWRmJiOVhtQ3l4enhPSkU5NEo3aml4UUxwaEF6UHZFZFFjZWJoMzBSNC1pVDJDQXV4ejl0MndYT3czMGxY?oc=5",
   "medio": "Telediario",
@@ -54,6 +502,20 @@
   ],
   "local": false,
   "id": "2e263c673f82b368"
+ },
+ {
+  "titulo": "MARS mejora infraestructura educativa en planteles de Torreón",
+  "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOGFrZGNZXzVKa1d5Ml9NcGxrb3k4UDMxNjRDdVJEdS1ab0IwZlJTQm02Wi15Q3BuVUpLQy0yRkpZNkxoOFVaQ3dlRFBFUkV0alc4ZFFKdXB0TEllSWptenhDUGNULTVOTVZKSVRHdkN6V3hWbkcxS29rYU5zQWlycXlqMHBNQdIBhgFBVV95cUxPdUhEc0dCX2xwN2lEVDlhX2lxSzVpMzIzSDRpNHBXdkRLWmV6M3JkYjZodWx4ODBoalhvY3FXT2hfTEJTVHJGVllyandNMzVxSW1rbzJZUTNyY3VXRFZZd2p6aXRqZDRac1dLTVpQWlp6YW0wY1JEalRnRzVpcGRTZFRESzZZdw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T21:50:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "MARS mejora infraestructura educativa en planteles de Torreón Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "49d6ef550bb87f7c"
  },
  {
   "titulo": "Diputados buscan controlar la entrega de recursos a municipios en 2027",
@@ -97,6 +559,34 @@
   ],
   "local": true,
   "id": "15c47861705fe98b"
+ },
+ {
+  "titulo": "Luis Donaldo Colosio se decide: competirá por candidatura de Sonora con MC",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0VhdGpVa2hhS2JXUi1JbXZBTXBibzRwOTczaVZKY0lLWktCVTJVNnh2X2RVNExMVXVpbXhRTDMwYlJKaE16XzdTNHpnallHVkRIRXh1R1gzT0pGbTE0eFpCcExzdlJKeDBLa19UNVQzWlR4LVd0YklaWlM4b2VxRE5oelJHT0d6N0p0TXh5ZUxOSmtVN01fZU9ETzhRbmFsMGlKeA?oc=5",
+  "medio": "Eme Equis",
+  "publicada": "2026-11-23T21:39:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Luis Donaldo Colosio se decide: competirá por candidatura de Sonora con MC Eme Equis",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "16f0129a6beb4198"
+ },
+ {
+  "titulo": "Condenan a nueve por red de trata y tráfico en Nashville",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcm5vdERxMmI3VkxKMVp0R3J4cGZpZ1BBeUY1MzdfMllmSVlwa3ZITUFsU3d4Y0l5VmdqdEk4cjh2MVZHUnR5ZGRJTTZKeU8tQnFkOHI0cGVQQU9CaFlNQXlkUnBzdzVDdTFsQ3ZtQjN3NVJaRExOZjkwMFZ2aFY4alIyaEVkVmNpSjNlNXlQcUpxZ0dWMGFvWXl3Rmd4blk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T21:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Condenan a nueve por red de trata y tráfico en Nashville INFO7",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "40bfefca4a4d4d8a"
  },
  {
   "titulo": "Berenice Martínez, diputada de MC, denunciará remoción en el Congreso de NL",
@@ -182,6 +672,20 @@
   ],
   "local": true,
   "id": "a5ba4e311a1f9c55"
+ },
+ {
+  "titulo": "Llegará nueva música de Luis Miguel en diciembre",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMC1hczR4Q0FaX24xRFd0MEVqT1VZQkZWRXpnRUluZE8tZFFmQzlxWnZoeUNLc0xLNjlRcHVZWkRaZko3cmY5Z2Jvb3NSV25QUXdmZWJaVWhkdFdFN1RlMXE0UWMwZWRubVlLUDNaVzFFdjZwdVYtdVZHRG9vREhJZkcxVkExT0xqLTNodGdwam8wYUk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T21:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Llegará nueva música de Luis Miguel en diciembre INFO7",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "4e35164abed1b542"
  },
  {
   "titulo": "Noticiero completo de Pedro Gamboa del 23 de noviembre de 2026:",
@@ -284,6 +788,34 @@
   "id": "e2bff70f8fc66579"
  },
  {
+  "titulo": "Inaugura firma japonesa etapa de planta en Saltillo",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazVlX2ZPdnFRd3E1Z054LXlabktYWXE3dnlOWHdPakVhRk45SC1RN1I0V3ZmbjBaVS1waVNaMDVYVW96Tm1YTEg1SlFwaUc1Y2hlam5aMjNleWxrUEhXTnlQREs1OFJNLXUtd1dpQVhGVzYwOG5BLXZEa05ZZlpTRDRVOWZjSUF1LUd5eTU0blF6dw?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T20:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Inaugura firma japonesa etapa de planta en Saltillo INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "aa14b25618c17a1a"
+ },
+ {
+  "titulo": "Estudiante tamaulipeco destaca entre los mejores matemáticos jóvenes de México",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXhLaEdsMzgwMDh0aERMdERRZGVLQThIU1BzcjZ3TzViQUs0RWV5Tmt4bl9hTXlvMzhsV0diVnlESHJ3REZhV2ZUc0pKQXZXdGgwdlY0bjZLb01RSjRvLVNnWTlwUzA2ZEFxSkVtY0pIaG5TYmVBajFaRjJLNG9pOEc1Sjg4dG91eG5kaUkxVmdadUU2LVd0YzVR0gGaAUFVX3lxTFBteEtoR2wzODAwOHRoREx0RFFkZUtBOEhTUHNyNndPNWJBSzRFZXlOa3huX2FNeW8zOGxXR2JWeURIcndERmFXZlRzSkpBdld0aDB2VjRuNktvTVFKNG8tU2dZOXBTMDZkQXFKRW1jSkhoblNiZUFqMVpGMks0b2k4RzVKODh0b3V4bmRpSTFWZ1p1RTYtV3RjNVE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T20:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Estudiante tamaulipeco destaca entre los mejores matemáticos jóvenes de México MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e26c64fdcd854234"
+ },
+ {
   "titulo": "Anuncia Consejo Cívico la construcción de nuevo edificio",
   "liga": "https://www.elnorte.com/anuncia-consejo-civico-la-construccion-de-nuevo-edificio/ar3320223",
   "medio": "El Norte",
@@ -340,6 +872,20 @@
   "id": "107eacdd38966f3c"
  },
  {
+  "titulo": "Despliegan operativo Orden y Limpia en zona de Arteaga",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRkFtT2N1TmYxMzR4aXRFYmcxNFFoTDVyMFJLTmxqTm1lOTVGWmp5d1daS2FqMWpfT3FhZjd1V21IM0lSclNYVnFFLU5oWjZ1c2V0WFZsalc2Uk5tMnljRHRCbl9DZkZSR25aLXRBeFlYLVRLV3pqa2tSSjByRkxMeGxSOXZpaG4yNXVLRTVJdjg5UWlJMW85dWFIRElSMi1fMDNj?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T20:52:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Despliegan operativo Orden y Limpia en zona de Arteaga El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ea93d8c028cd5bc4"
+ },
+ {
   "titulo": "Despliega Coahuila actividades contra violencia a mujeres y niñas",
   "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzU5by13Z0lFRVUxRGsyMG9HRWhNaThwckc0RTJ2b3FaVUlmazVZZDg5ems3cnJicmhSQnZYdnIzZWpsX1JKc3Z6QXZLTm5mbm1reG9ua3BwVEk3SEthZXQtb2VlbDIzMzNLcnUzVURYdlFQYTR6UXVaR2JkVjFOQmZGUnc4dmdLbWlNc2YwaFExMzJkSXA2V0RvTHBpd1Q3bEp4UWdnTVRKWC1GT2ZHQTFB?oc=5",
   "medio": "El Horizonte",
@@ -382,6 +928,20 @@
   "id": "134eaafcdf3bb3ce"
  },
  {
+  "titulo": "Nissan alcanza 4 millones de vehículos ensamblados con energía limpia suministrada por la CFE",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRU1SaUdCRFdTU1U4MnZBZDFlWWROQWRiR1FCc0NFVWN6U2ZjZFpnNGQ2dWd5dGpCUWZIbFdmRFlSWjY0NjBUMjJvQXBsMWhpTGxkQ0RHQTl3M2tLeFlRdjRJVUttc2ZSOC1FS0RsQ2FIYmRsampnWUdNbm9ONzZMNl9BYWJNSWJ4cEl6ckRadHJ1YU5YaWdnYlpsQdIBmwFBVV95cUxQRU1SaUdCRFdTU1U4MnZBZDFlWWROQWRiR1FCc0NFVWN6U2ZjZFpnNGQ2dWd5dGpCUWZIbFdmRFlSWjY0NjBUMjJvQXBsMWhpTGxkQ0RHQTl3M2tLeFlRdjRJVUttc2ZSOC1FS0RsQ2FIYmRsampnWUdNbm9ONzZMNl9BYWJNSWJ4cEl6ckRadHJ1YU5YaWdnYlpsQQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T20:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Nissan alcanza 4 millones de vehículos ensamblados con energía limpia suministrada por la CFE MILENIO",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "a8ecb6da68c21a45"
+ },
+ {
   "titulo": "Colosio Riojas anuncia que buscará la candidatura a la gubernatura de Sonora (VIDEO)",
   "liga": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpT3NpdzA0RGVRLXFabnNOTmllMWVOVkpFRmQ0anNTQTZlcW9IR1U5ejJyc0xzTDlkSHkxby1RUjVXVHFVZ2hhSER4bTZGZDM0VUwwcVdzMzlhOUNwdjVMcDgyemYtUmV5UFZLRHF3V1BkQmU1VFFv?oc=5",
   "medio": "Hora Cero Web",
@@ -422,6 +982,20 @@
   ],
   "local": false,
   "id": "a9f1b6c04248f68a"
+ },
+ {
+  "titulo": "Gobierno de Michoacán inicia protocolos para exportar aguacate a China",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGVqOEM2dXNuSlM4NlhBN2JTYjk2NUZXUzkzeUppNkNnNFBob0kydFFnam52MEExWm5uRDNOME56N0xacThKbnhIdld4eFpIVTM5SXdnRDAzRVRxSzVRemJlMjFCc3dDRUZ4Y0p3TVB4bHBKd2VIVlJFZXkzREljME8xdGpJNnVRQ1FJU2s4X1RzVUlvY0k3VNIBmAFBVV95cUxNQmJvNjU3UlNrbUo3VWJXQUlBZTJlQlR6cXE1a1BnaUlnblR6SjAtLW5ReThxZk05c3RXaS1OV2YzSmp5YXM5NFV5T0duOEFTUVFtZF8wRWxfY2dkSWhGc3pYN2N3LXdzd0MtTlRybHgxZUJfa1hNSVpWaTA0Z3VqMGE3Qk1IOUxfd1gtTTYyck9RV0FsVkFpLQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T20:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Gobierno de Michoacán inicia protocolos para exportar aguacate a China Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4899a7c637861a2e"
  },
  {
   "titulo": "Se define Colosio; va por Sonora",
@@ -1146,6 +1720,20 @@
   "id": "2a025df50cddb22d"
  },
  {
+  "titulo": "Marina retira más de 74 mil toneladas de sargazo en playas del Caribe mexicano por mar y tierra",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWMyUWlETERKSWhPNmROdkwzTTNCTXNsZUxIV2xNNGZ1SElpai1GOGJsMTRpQjc2RWR6Rld0NElvLTVZeXdNNUdPWGNCNkNCS1RoN3FVdUJQeGJfTXZBSHVQVFVZcHdicWRjbjkxQzdLdFg2djhYcExkLWxrcXpWQS1vNF94N3M2TmNXeFJMOFFJMllISFFWLVRkd1FKemZFdk9IRXZFWGo5bzRROTMxdnN2a2l5cE9nSGtLOGViZHBOeXRuVFNwMDBCZWlwRzMtLTJLdXBlUnI3aDhWUmk5ODRPX0NHQWs?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T19:30:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Marina retira más de 74 mil toneladas de sargazo en playas del Caribe mexicano por mar y tierra Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7bf098efce0fa886"
+ },
+ {
   "titulo": "Bertha Alcalde desmiente viaje a Roma en primera clase",
   "liga": "https://abcnoticias.mx/cdmx/2026/11/23/bertha-alcalde-desmiente-viaje-a-roma-en-primera-clase-296395.html",
   "medio": "ABC Noticias",
@@ -1469,6 +2057,20 @@
   ],
   "local": false,
   "id": "917d872f2e68dd0b"
+ },
+ {
+  "titulo": "Así frenó Guasave el rescate de el 'Chapo Isidro': obras viales y el río Sinaloa complicaron avance armado",
+  "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUkxTVZiWGJOTkZsWnpNWk5Kak9xS01nN0g2SDlmSFlETi1fN1JpdlZLR21fMUFzZmExSWFwc014V2FSTlRfRE82cnN5cXRqNGptZ0Ryc3VvZDVscTVscUtOWjl2V0pmLWJDRng4SGtQN3lhREFDdkJFaGZWMV83NG93d0ZzYmvSAYcBQVVfeXFMTVl0TUl6RndxVXZjUE8wWlFmNWxldHpxV1d6aGdKb01XRFRQT3JSX2czNzc1UnF1R2ZBWWt3VnlmVERBVzF5T1IyWkQxRGMxUXlwbkxpMDVJTU83RlI5cGlwQ1NVRlA1cDlESVNtaEFraXhCYTFUdmRHZEE2SGFqV2Z5NlV4U0xJ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T18:53:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-23T23:10:14-06:00",
+  "resumen": "Así frenó Guasave el rescate de el 'Chapo Isidro': obras viales y el río Sinaloa complicaron avance armado Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e4c97fe4ed2e8f9d"
  },
  {
   "titulo": "CFE Calificados y Nissan Mexicana celebran 4 millones de vehículos con energía libre de CO",
