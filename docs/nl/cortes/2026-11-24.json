@@ -1,5 +1,103 @@
 [
  {
+  "titulo": "El Exencantador",
+  "liga": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBETVZuTGVlVWVFc0N0NXFMbzJWS0tOa0FqcDltWEF4LTl2cG51T3hwTXRFVVRFQk1qby11M2p1bGZtdDEzYmdFc1hsSWtkcXVlM2V3TUwtN3ZheDg3NEo5QU56MmlXeFpVc043OEhsWUVyUEpSc3NCNkdCUdIBe0FVX3lxTE9HQUQ2V08wdFVydzUxUXNfd2xOTHV0TFNXbWdBN3BpN1Q3SGdYN2pJUGFaeXRhR1ozai1TNnpOallma21sc0tQVHNnY3lROEJocERXQi1lLU1oVzN3dTFVVjV1UU51c3duQXpWa2FFdHM1bmJvU29ScUtXYw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T02:45:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "El Exencantador MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2d7f35adf3434ac8"
+ },
+ {
+  "titulo": "Horacio",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LaWptTVY1Z1p6TDQweUNNOUphRkEyMVp2WGNWbHM0SFlGV3JXWG9oWUFIa1hnOU9mYUtrdU9CRlk1SnNVX2dVekM2SFBmVDgtLW1SNFRGTzNGdDR6dWlxYlJNLUlVcFU2cnlOQ9IBbEFVX3lxTE1jMTN0OFMxa3FsZzdEYWwyOTRaSmJXbWxnU3BObllvdVlmNTFKMzFneUVkQmxPZ2pCX1Z4T1VxQjZHY1dob2FMVjlDVEVYY3lzdjB1WndzSmdXZFpUV1F3MXJia1BVbFVoYWs0dw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T02:42:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Horacio MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e256bb85071e4848"
+ },
+ {
+  "titulo": "Faltan agentes para vigilar carreteras de Tamaulipas",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlI2WU5KODVUVXlyeGZfSFgyejQ4bDFBVy03bmJzOGNMaWw2YzZZMFBQZUNVWkptZ0Fmb0VmXzM0UGswOEpyZkxDM0x6a1VJMTFoU0J0d2JFTVd0NDI1QU5OcTRJbzEwb3VxT0hxWWpnU00zSm1oczBCX05ibTBoUlVaQ0Fzb3E2dzhwTy1BRTVsLWRpZ0pCZ01QWGNYbHZHTlJV?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T02:16:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Faltan agentes para vigilar carreteras de Tamaulipas El Horizonte",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "cb45d33059780199"
+ },
+ {
+  "titulo": "Margaritas escarchadas con Tajín",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1h4X2FOQ0JnbEd0SGIwV3pFRFRQQmtvXzdMazRHUGhLSXNkdFRYTnJGZmt2QXktZm91QnFPRjh6WDBfUEVWUEFjb3hhVy1aX001NlpXS1R1QWFNNzF0U3VjbUNTOEFuRnNPQ0U5aXZNNm02YjlvcGJUcExfRFg1NVFRTlV5VVVsR1JROTM4RFFvTGxuMUJyUUZlRdIBmwFBVV95cUxQTFVfQ2hXOFhvcGRmbkZjbWpOTDlrUmJYZWg2dC14WWhKcWR5bU9NQS1udEVmMXRXMnhZZUJ4UGZRU0J6Wlp3ZVpVenFFUHpsazlaNDRfSHpRcUhXanNmZXZjRm91NVRxNHlNSFZ3eUJQTjc4el8zRkw3cFVlQ2lRQkg0VDdiTGxhTWIySG9fMjVFeXN3Q21VQzg0QQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T02:13:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Margaritas escarchadas con Tajín MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8a2847d2abab7873"
+ },
+ {
+  "titulo": "Pandas, gallinas y ajolotes",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkFmVnhPVEJMckJWVUozVlBqUjk1OWNTZUlDVEJGVlMyN0VWbVpPbFRCdDZEYjlZdk44N3NkcjhNc3NKVEl2a25YMW1YN2IzMllhcWJYdVdTbGJMclVBeVVEanhrdlZKTi1DYWZUdzQxd1kwSkhRREx0MjZCellWUU5iNFlTcTFORkJNX1B0Wm5OUdIBkgFBVV95cUxNNkFmVnhPVEJMckJWVUozVlBqUjk1OWNTZUlDVEJGVlMyN0VWbVpPbFRCdDZEYjlZdk44N3NkcjhNc3NKVEl2a25YMW1YN2IzMllhcWJYdVdTbGJMclVBeVVEanhrdlZKTi1DYWZUdzQxd1kwSkhRREx0MjZCellWUU5iNFlTcTFORkJNX1B0Wm5OUQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T02:11:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Pandas, gallinas y ajolotes MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "df62f8fff3e8e8c3"
+ },
+ {
+  "titulo": "Vigilará IEE a integrantes de CME",
+  "liga": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nNHp1Y2tTbkgydENId2Y2X010WjZiUXJjNDJOZDJqZzE4S0xrZ2ptTDFQUFU0VzQwWXprbG5jSElTNFpxV0dHSTlkZmRwV2lNaGNZc3VuRFV0SXM2REZkeEF6YkdYR1R3c0F4c3NrSUVRSmJSRDB3bw?oc=5",
+  "medio": "El Porvenir - Portada",
+  "publicada": "2026-11-24T02:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Vigilará IEE a integrantes de CME El Porvenir - Portada",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c0b69ddc83d9e3ac"
+ },
+ {
+  "titulo": "Lo mal que manejamos",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0UyaHByVTg5dlhYUEJUVXZnaUswMFd4YWRmM2FYc0prMW10b2VUVFFVcEhlU2lEUUpydDVaZDMzblMwclNTUXJRYVVNbW1sOEg0ZjV3TUlwb1pGbkFQd0N0Y1dnUUJBZ1prcmM2TlJtVlFVWTlVVTQxVi1MX2hEYVlUQnZqT09FVW9z0gGLAUFVX3lxTFA2cXZjRWs5dF9WRkk2LVdTbHdjWTZOcW5HRDYxUzR3YS1mQ0dPSVg5azlORVhqWjlad3UzQ1pHYW1pSzFFTWlzQzVlWmtiNTd4aEl5Y2pvTTZoZ3FIemhFSDBwMnB6OExJUVRybEFRa1VZY1F6MXRYaFBzNDQza2RmR0FuaHdRV1RzczQ?oc=5",
+  "medio": "MILENIO",
+  "publicada": "2026-11-24T01:55:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Lo mal que manejamos MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e0a90451ab749619"
+ },
+ {
   "titulo": "Guadalajara Policía",
   "liga": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WQlJ5b1lnOFdsNUVta3VoWVEwMjA3ZHNEeU1oYUx1cjdCWGVmcnBxWFRKY2xUSmxFSzhqbDFhTDNKcWZ5U19CdkhCX0dSWEN0YUhFTE9ROEk?oc=5",
   "medio": "Telediario",
@@ -54,6 +152,20 @@
   ],
   "local": true,
   "id": "31e746cf852bcc6c"
+ },
+ {
+  "titulo": "Trascendió",
+  "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUktyVmoyMzJOOUd0bzY0QnRQejVhTk1OUUJaZ3FRdlBjT3oyRmFEWm4zTE15SmxieW1BaXFhRDRWWW1CWmtfVjBsYzZRblNUMVdSWnlkNjFQT01FcV9mS196a1NoMTh6ZnpxaXIzZHcwOFpRcU1yZDVlbDNyWEtwUmpwcDlnUdIBhgFBVV95cUxNNGZpTzFuTllFYkFKaDd4bUFUQnIzenlONFNFWkJMRTBmQzRxX09iQ1dlVmxiTXRlUmVYYl9mby1CSmJxOUUzOXEzZzBYVEM3bVBLZlA4VktCU29oUzVFSlN5MkNWbmphNmRHMzV1XzRKZmdLREF4TnZrUVg4LXZ6WHpQZFVVQQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T01:42:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Trascendió MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ddb2a45d21b2bfb8"
  },
  {
   "titulo": "Anuncia Colosio decisión de ir por la gubernatura de Sonora",
@@ -141,6 +253,48 @@
   "id": "cd6fb75510b0555b"
  },
  {
+  "titulo": "Hernán Crespo asume el compromiso de llevar a Atlas al título: “No existe un método, tienes que adaptarte”",
+  "liga": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFpPZTg4RHZtSjdjTE5BT1ZyU0ZBN0l4YjkxaHZwX1FmeUwtRTlQNE9BQXRHSEpTdGxCdlNyNXlTVTNZejNTZ1h4X1B4ZXEwcnBHVWNKMHpfb2pXV1pqTk1SUDJlSzhLLXFja2p0bkpNenhGVUk1dUU4WVB1aDByZWhYOUx6U1A0RFBsczJMOGZIaVFzTUcxRk1R0gGaAUFVX3lxTE9GOTJmOE9xbzZtOFF6WjJrdUcyWmlzQm5xNDh1WG4tT2lDYjJ0bnhyR2Z3MjZQOFlMVm1zUkQtWUpoWC1vTkJtbkdYOXg0RDVIMjcxVUFtbHlWRzRtTU1ZOVdQMnFGNjVwNnVvcnYwTnJILVNWcTBkelZEeURqQkNmSVZKWFprRkZXMjJhLVFfZmZqN19KcHh3UkE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T01:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Hernán Crespo asume el compromiso de llevar a Atlas al título: “No existe un método, tienes que adaptarte” MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "01e569a78eac4e16"
+ },
+ {
+  "titulo": "“Italia y México se entienden muy bien”: Alessandro Modiano",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVQ1ZGtUSjkzc3VnT3lCeTlteW1yMGprVFlQdkg4cTdWb19aQVNpaGVHUW1IQURJUUc5cV9QYlJhUkY3ckNsdlNtdmxaS2EyakREdVBkblJSNTdjZGZldTJVSmZma2xyNktGZHc4cklQV0MyTEVfaXZUVlluQ2txbEZnWHhQeXB2QmFqRWJuQ0luX3YzbjlTbHFXc2hlRnpY0gGgAUFVX3lxTE5MRlZ4dEhxTXRwVFdMaldILVRITUY4WkNPOFdUamQ1ZGdkY0JRWVE2MU5KV1hPRXdNUGdPb0RnU2dHVWpwUDgzcGs0cjlZZmNqWDkxYkhJSHdNbjNXWjVTQ2d5Z2F6cVIxWER6MkI1ODlYLXhYODh4OTlmWlA3WUdvbWxEQTNBTU9lV291X05jX1Vob2E2VUxnMHRaa2x3Rmw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T01:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "“Italia y México se entienden muy bien”: Alessandro Modiano MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "daa652f51ee1601f"
+ },
+ {
+  "titulo": "Aspirantes a la Dirección General del IPN buscan atender demandas con transparencia: “Denme un año para entreg",
+  "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTFjTkNRbi1xcFpYLVBCbkwxODVQVUU0Y3hoTm1NQXJOQzhFdnd4TDMwWU1JR2hXWGxZRzFjYWgtUmR0Y3hFWmVubzJ5SGtlLWEtaWdPN0FScXV2VE1tNzlRejIxV2JaUXctZ3huT1hFVGNZMHFTNXNpa250ZkdjZUFQMGtma1E40gGIAUFVX3lxTE9lYXQ0aXJVVzdRZExhQmVzYWJJR01SOF9Pc0JFUGdvWVcybEJwNHBXeHpUNmFIZFBuV01Zd001eFRYQlpSbGI1ZEpCRXk2V3JKa0swTjJYVWFNRjgxYU9fMjUzemFLOWQ0bms5UjBXTndaeUc3ODVMM2N1M2RvcEk2eGY4cjBsclI?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T01:22:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Aspirantes a la Dirección General del IPN buscan atender demandas con transparencia: “Denme un año para entreg MILENIO",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c49bb8f11ae505a0"
+ },
+ {
   "titulo": "Decide por fin Colosio: ¡Sonora!",
   "liga": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9haS1BMm1FX2RPdFptUnZ6RzROMHFLbC15TVRERzJSTVdhanU0aGtLc0ZVZXNGMlFtbjhtZUw1WXlRMGw1WjF2bVBhaEpidjNyTU9LQ0FOUmpGenRaQWdyT3pNUHNOdnZLY1VqOHFrN2c?oc=5",
   "medio": "Reforma",
@@ -153,6 +307,48 @@
   ],
   "local": false,
   "id": "665a818e7e20ef9f"
+ },
+ {
+  "titulo": "Tres Petroleros escoltados por EUA se incendiaron en Ormuz: Irán",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1FEbWRtcW03YWU0azdOTkFNMkdNRTZKVVhMdUtZRWc2YUt5RGRlbmdzOVBhVzBjRU5uUFdtZHQxbV9LRUppWU1hd241U2NMQVg5QnBPeDBENTRfdE83RG50SXFTN0NGU2J4TEI2aHk4MXA1cU5JX0FfSXZfVk1wdUozOW5FZnZvUGY1R1FxVV9MWU1CMFFpOHRBUDVFeG1ybGRLMElMdHVfVjdVYTN5X3RKNE9Ldw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T01:05:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Tres Petroleros escoltados por EUA se incendiaron en Ormuz: Irán El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1cf0259a9e174ea7"
+ },
+ {
+  "titulo": "InVersiones",
+  "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTlYUFRJZThzTFg2X3BZSVBfTXNEeUo5dzFvdXRrRmtydTZNODM3Wlo2VXktUF9nZHBZeEFxYWgwNXY2Sm9iY2l5YkZQRl9NQkFkUVdwR3lyLWU3eU9pM1JUemZ5VDAzWHdteUY3dXJDbXo3M2NVSlZBVU5KNXA5aFlKWTFoMFgt0gGIAUFVX3lxTE1yc3V6OGVMMmJjTWowN1VWM3YzVm1uSFBwVnVrUzJtSnF3eVVoVkg5X3lUQS1yWVE1WDE5dDRPWm5ObVdYVHFTUUIxMzFKZ0lHV09mU0l3anVDRm12d0lQQkpSeWlyZ3FJMndiZ3AzYS02RzBpX3p3cy12R01CZUtZYlpmUWhwMDU?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T00:48:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "InVersiones MILENIO",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "54f95d7c4aa14c3e"
+ },
+ {
+  "titulo": "Noviembre, el mes más deportivo",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUxrMHI3cXpaZUlHSUlEOXk5a29mVlhHbEtSdjkyc0U3S2l1LVdMUFZYdXNJR3owR29tSVlPRjBtMnlpaUxieTNmaTFPUmZXUWplTlJrV2VkUTVWcXdqNFlFU1dBWW50ejFXRFQ0OEJBNDU3NGJDaU9aTkpfUW02dnZJUHI0UVdLbHZwU1F5RldEU2JXUUExVTR2cjdEQUFNUUlZWnVJVGtfSVXSAasBQVVfeXFMUG4zMjhqU05CcHNFZzFHSlNBNjFlT3FZUF8waF9JQnpuZWJvdUFVNnQxdHpXRTVSOVV5TTI4M0tmbmh0azhsVTBDQ1NwUndhbDJhbHpfTVh4LXVsWVZSY0IwTXFySDg3XzAxMDllMGVVZ1hiby1pZFZFVTJZZENPelJPdEVoVTl1M0phQnZwdjljMkVYaV9YYU1fUUttNkVUcUh3UFJ0YlZkc19R?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T00:48:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Noviembre, el mes más deportivo MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "75db2831c5dd3f32"
  },
  {
   "titulo": "Noticias de Metro CdMx en Telediario",
@@ -209,6 +405,20 @@
   ],
   "local": false,
   "id": "63fff3b0431af551"
+ },
+ {
+  "titulo": "“Es difícil ser la marca preferida de la abuela, la madre y la nieta”: Adriana Domínguez, presidenta ejecutiva",
+  "liga": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS1NnY3FjSGVEWXp4Um12MVFZSzV5dEVvOHlTZXB6MnA2bzdyeDdheEdfdTFaUmQxMms5bHB3TWZGNm5WLUZDc2oxXzhlYzh4QXVEZUZ2Z25neko3MFZWa2dQUTd5RWI1MXhQWUlZV2V4dlV6ZFFkQzR5MWJrdDBHT2pBanBLdE3SAYcBQVVfeXFMTmVSakxhVzlPRGJ0NUhYcUViUUEwTXM2c09LdWlVLXRrVzNWajNjQ3pYM3A0LXpjT0ZZUGxkLTRWVnNaYlRWc2Jta2RhbExyZ2t1b1BaelFDdGdTVUVmM1hNaVFObHo2ZWcyTkE2WVB5bngxRTI0YjNqbVNUcG9BUG5LcGFfSVdz?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T00:10:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "“Es difícil ser la marca preferida de la abuela, la madre y la nieta”: Adriana Domínguez, presidenta ejecutiva MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "69a2c547382fbb03"
  },
  {
   "titulo": "¿Cómo será el clima en Nuevo León HOY martes 24 de noviembre?",
@@ -351,6 +561,20 @@
   "id": "086ab53bfebef786"
  },
  {
+  "titulo": "Asume Lorena de la Garza presidencia de la COCRI",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3MxWWhMazl3RmlGU2R3WDk1SU9yR09OZG5HUHdEREtZSWdpOVF1czRzM3FtZ0hLTXR6blpTRXRKWkNQa1lBQ3NLLWU3NTBqUVA5aHNYOWVJMlFjd3VLR1FXdDkyalpaWGJWczRieE1mNDJEUTVhaDlucU9oVlVURGlBMjN0SjkwS3c?oc=5",
+  "medio": "Noticias Nuevo León",
+  "publicada": "2026-11-23T23:35:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Asume Lorena de la Garza presidencia de la COCRI Noticias Nuevo León",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c826a9038e6e7835"
+ },
+ {
   "titulo": "Ingresa ‘El Chapo Isidro’ al penal del Altiplano",
   "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZkIwQW0yRFpYWE4zemJpN0ZHVGM4dkJsN0EtdWZtWWRUeDRjVWhJRktiVThnVzl5c1hkSk56aEJKazNjTDEyWDVORHRXLWVUMllrUnpMV1I0bXVUNjAzbTlwbkMxRExqVHoyLVpxTm4xeTVKNkdQd3NTN2Q3R0lqVFluX1VzVnVCR08yLVk0bzFxNmx6a1JhYQ?oc=5",
   "medio": "El Horizonte",
@@ -377,6 +601,20 @@
   ],
   "local": true,
   "id": "b8917ba330fc42b8"
+ },
+ {
+  "titulo": "Gabito Ballesteros y Natanael Cano reaparecen juntos",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaVVvUEpGN2VMVzlWQllodGRCWTMwRmY5LWdmbzN4RURXM1NMcUduX2dZYUk1djlvcGQ2bDl0bjloUGcybkUtbGtmSlR3N3E1bFdlNVVfV1lNY1NsdExZLWdTMVp2a2xEZkJ1WC1NQXdtOFlsV1VtOXh2YndYdFdudW14OVlaejl1bElnR0pCRE16VzZrWGxlRXVmNDFhdw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-23T23:31:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Gabito Ballesteros y Natanael Cano reaparecen juntos El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dd8a3748a2e60a3f"
  },
  {
   "titulo": "Gabito Ballesteros y Natanael Cano comparten fotografías",
@@ -435,6 +673,20 @@
   "id": "6cec684448da4f8f"
  },
  {
+  "titulo": "Jueza dicta prisión preventiva a 'Chapo Isidro' por armas y droga",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZS1YeHZnYjVJMnBXRmZ1VTBiT2g0RUk1cThSMHY5ckFKVlcwRVZ4eWpPMkdUSVpacWtjWlFXVHJodkpuTjFJcndtYzhVb3dIY05WdExSZnFuVGpsM0haX2NzM0xGcEZjS21HNGRnZ2w3V1VvOTEyRlltZF91RDRwYm1xeDJPdnlCMWVoUVFZUHNpN0xDUk9ZMHl0RFRXRGxiTWRJV9IBpAFBVV95cUxQQk9rRW9UMGFKREkydkR6cG9VVWMtYVRsNzh2T3RaMEZOVXBQZHAzWVUxVzQtR3hJN2tXZl9lR3ZKMTMtcks1bVJ0c014b3BYQjdINWZsbzdHaEJsZXRHakVBaXZGRTdxT2tGZGRJTGlQaVRKekdBdHZLUE1vUHYxVGNPZHFtMXdkQVlTSmJXam5TZlc2MlIzelY0dWQybzR2MWpaWg?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T23:10:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Jueza dicta prisión preventiva a 'Chapo Isidro' por armas y droga MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d14042b5f3525829"
+ },
+ {
   "titulo": "La Bebeshita revela a Kevyn 'Bicolor' que está embarazada",
   "liga": "https://abcnoticias.mx/show/2026/11/23/la-bebeshita-revela-a-kevyn-bicolor-que-esta-embarazada-296408.html",
   "medio": "ABC Noticias",
@@ -461,6 +713,20 @@
   ],
   "local": true,
   "id": "186d1b064cd5095c"
+ },
+ {
+  "titulo": "EU ayuda a capturar a 8 líderes criminales en menos de 4 años",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHlvazNDX2RlZjlJZmdSZzlUenFmNzUydkk1elZNV3oxUExSbG1FUjlXNl9OeTZpNWJEeThoR3ZWQWE5UmwxbDA3bF9VUVoySkdpV2s1YWstZzYwT2toUWhRWEhyaHhwZDhXWnVSVUE1THFMcWhiMnl5TmNZMVo4ZGRDUnowLTBlekUzd2l30gGOAUFVX3lxTE56SzE1MnRwTW1LNVFTdExLODlqQlRPUkpGMlpvSXFGeGsxZmwxblN4eXpsc01vN0gyZV9IZ1NXNVpaS3Q5VmNPVTdhUHp1UC1LUDJzMkQ4eGlfYVB4WUpjdGt2T1ZEMFEtQjRNUkp2RmM4OERHaGJFRTBOeWpqa0JVSGZiZ3N5ZVc5MDRxZ1E?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T23:06:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "EU ayuda a capturar a 8 líderes criminales en menos de 4 años MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e94d27a434b53c55"
  },
  {
   "titulo": "Leonardo Aguilar anuncia compromiso con Adriana Caballero",
@@ -601,6 +867,20 @@
   ],
   "local": false,
   "id": "a2e6f7d838ba6a3d"
+ },
+ {
+  "titulo": "Destaca Chucho Nader importancia de la industria para el desarrollo económico",
+  "liga": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTdPbUd0ckw2c2twaHk5MXUyYzU2UHZXWUd3ZUFFQ0VKOGlsekZLX3hQZHF0b2huX3hvREV5b09HRUNydmZ6alloMUxTaTBfdW9IcDhLSjQ1cWhPMHl3TWlFcHNPTWFKU0ZhQ0MyT3pqNDRRbjVQZWwxdGtMZjdPaklR0gGCAUFVX3lxTE9UdGw5WjRyd3o5eVhuZGNZclFXRjBNNlZMNThUSHF4SU9XNkd5bnV3VkFLeTVPck4wSXhGVEJINmxtcGRRdG9JX2RZQ0xNS2ljRzBMd2lDQUlrSVFhbjQ1T1NnSG8tcUxMYzRWWEtMYWV5WjR3Z011TDlvRnVTYUVOa0E?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T22:39:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Destaca Chucho Nader importancia de la industria para el desarrollo económico MILENIO",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "8df323bb94f38a53"
  },
  {
   "titulo": "Black Friday 2026 ¿Cuánto puedes cruzar de Estados Unidos a Nuevo León sin pagar impuestos?",
@@ -897,6 +1177,20 @@
   "id": "51ff48b9ab008c9e"
  },
  {
+  "titulo": "Óscar Balderas detalla la detención de 'El Chapo Isidro' en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnVhdEpZWmJyNTVKZlp5dzF3amFPbng2Q1FxYW5DdUV0ZmVzZzJOZjlnbW5kQVBSLVlNX1NTUDlzNExtaEdnbGtlc0ZocU5LWmJWM3NjdHM2Z21QbXNUeWJ3bmRsVnpCVmVHSm1OV09vcUJORjJkTmVaVm9icWtKMnBNZFVHWWJhWkR2cjBvM1JCWmhNTXNMRGphVHZUM2g5ckp2NXlxa1VFQjNVNlpia0Vad0FiTWvSAbcBQVVfeXFMTnIwTVRlYUdVbG1HNmhvZFJHNC1pOVo4WGhKVjNSMVlkWGFJN3VCaUl1WlYyV013R3otaWZvSmdmZTBrbTdLbS1FVlZ4S21zaXNUS3JIcC1OeUgxaXRKaHFhYy1LUTUyUVFOUWdfMTBQOXhvbHpUakdEa09Lc0pDTE01eXgzcHlNSjRQMzlrZEFlc2wyYW0yUlJseFVQaXZzaWJaRUtTUzhDSlZoRDBGSTlHcHJnOGcw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T22:01:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Óscar Balderas detalla la detención de 'El Chapo Isidro' en Sinaloa MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b937c85fa8d8ee2b"
+ },
+ {
   "titulo": "Instala San Pedro luces en el Puente Atirantado",
   "liga": "https://www.elnorte.com/instala-san-pedro-luces-en-el-puente-atirantado/ar3320253",
   "medio": "El Norte",
@@ -1080,6 +1374,20 @@
   "id": "531ee52b54373ded"
  },
  {
+  "titulo": "Ciudades de Coahuila figuran en ranking urbano de seguridad",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkJmZzB4R0o3TW9Ta2dYVWxUTEx6d3FabmZVZGplN21ZQkFYQkNhZXNoU2ZJaGhyV2JaQkRiVldldFhOWjllSXFUd3FvTTJwM1kxNUhnc1I0UjU0ZXlVbHljNkhTN1dGbE1idHRkcGgtVUtpWEpTVERRZjlWVGowYmJjNUVnM1FpYktfY3dMeDdhSlJhWEdubUU5bkZINGdLTUE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-23T21:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Ciudades de Coahuila figuran en ranking urbano de seguridad INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1d717327aaf9d0e4"
+ },
+ {
   "titulo": "¿Dónde cenar Thanksgiving en Nuevo León? Restaurantes ofrecen menús especiales desde 800 pesos",
   "liga": "https://www.posta.com.mx/nuevo-leon/donde-cenar-thanksgiving-en-nuevo-leon-restaurantes-ofrecen-menus-especiales-desde-800-pesos/vl2282286",
   "medio": "Posta",
@@ -1137,6 +1445,20 @@
   "id": "9394f470f453ca78"
  },
  {
+  "titulo": "Guasave suspende clases presenciales tras violencia en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGUybHdRUW5US0I2S1ZlbTctWUdxR2x3OVgxaFpRcS1uY3dPUHB3RlJ1bFRrZS1OcUJfSlVrRkw4d09JUjY5S0FDU0ZVbm1CMUJodGxiX0o4R19POFozVGJ1STh4RmFLQXRNTF9aMXJOcE1MNzhtOEYtLWZBWlpxY2J6N25NaHpHWlBfOVlVN0xaUjFBMnV3cmh1TlLSAZwBQVVfeXFMTm1VWHVxRWJZU3VWcnZMdzFoeVdVRG5ZZkg0Zlhvb09zVGVJUXJEM2ZidVRRTHJINTYycmxEeVRMOWZaV2otMVU5eEVZR1hERHc3Z0ZIeVhBanM3Zy1TaG5PeEVUOXhYTWluSDhqX19Sc1hRSUJ0YV9OamJ1RlJhVU50bVVVZVV2R3k0VUpkYWhjZVlJQ21Wc1FxN3hr?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T21:32:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Guasave suspende clases presenciales tras violencia en Sinaloa MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "ad7152d5acb7ec9b"
+ },
+ {
   "titulo": "Detienen a cuatro vinculados al Cártel de Sinaloa en Rosarito",
   "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejNrZGVUMTl2bXY2cG94QnROTkpjZ0FqN1VfVkYyV2ExV0F4MHE2UERYRkJ4aXJLV044M1NldDFQaXRqZ2xYRGhGeFNxM1h3UzNVR244SUZ0WDZIX0hFbXJmc2pJTmJDOHpZT3NyM3NQZWJ3YlBhOWJrMVlHOUR1d1pGM0J0MzZ4RTdaeV8ta2JnaU1oWUFER0tzUGRDeGZKMGk3UE5fajVCN2Ux?oc=5",
   "medio": "El Horizonte",
@@ -1177,6 +1499,20 @@
   ],
   "local": false,
   "id": "b7f7b3f69c8da8b1"
+ },
+ {
+  "titulo": "Luis Donaldo Colosio Riojas buscará la gubernatura de Sonora; descarta competir por Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTdDWklmRUZlWkEySU1SdnFDNUJXd1cyWEFZTlN4NVNVcGYxNGl5a2NFS21YakJmaFN6by1DYmVocnhWb1NnOF80MDd2ck1aaVRJY2FXc1JsSktza1hjcVhDeFdHVlNkVDVlZGR6Wm1vSTMyTk5QejNCZlRWVEZyZ0lvNnNObTBaZHpnZzN30gGOAUFVX3lxTE9lZ3B1QnNFQ0pYUHgxTUtWN2JsLUpma1NNTk03UllBbVVGbUlyOFIyWVJfazdqczV5RjQzVXc1TUw1S2EwWXZSU2VrVE9yQU1EeFJ2RE1LWGdjalNyWUJ4Vl9sM0w1Y2l5RHFYSDVVWERqYldYUjBVbGRNc1J3SDJlLW05bVFENURsWGxpbVE?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-23T21:29:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Luis Donaldo Colosio Riojas buscará la gubernatura de Sonora; descarta competir por Nuevo León Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4ec70f942dab465a"
  },
  {
   "titulo": "Televisa Univisión arrasa en rating con NFL y el Pumas contra Monterrey",
@@ -1631,6 +1967,20 @@
   "id": "55a98ff2a6fd73e4"
  },
  {
+  "titulo": "El Pico del Pollo",
+  "liga": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96ZVhwdkVsRDEtQWRqa0dkMFllSnVzMGJVTm9UeDM5WXFoZFlHTGM0VURCQm54TXI3Rl83cXRMcWhyNWRYLVE0Rkl4VThwaEFqR2JucFlBNXNFWXVFNi1scFkyei1ZQnJUcnFVZDZicmYtNTljZkxOZHQ1eXRFREU?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T20:33:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "El Pico del Pollo Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d47be357c32baafd"
+ },
+ {
   "titulo": "Captan asalto a negocio en avenida Eloy Cavazos, Guadalupe",
   "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlRzNWstWU9MU2J6Sk5CanVNNGRaWHAyR1E3aUxBTVp5UG5qRHhiLXZNS21JLW1DSV8wLU5WM2VhbkcxTzc4YnNnMXNvZDlWajZxTlZ1M2VRVU5fSXNPZElzX29HQ21SNUdNVlRoLVN0MmFsQXBqd2tSdnRrWHY4YXBOQ2Z2LXZiZTQ0VElMaGJoYW16aldHVDVna1I?oc=5",
   "medio": "Info7",
@@ -2024,6 +2374,35 @@
   ],
   "local": true,
   "id": "f658e677bbe71ca5"
+ },
+ {
+  "titulo": "Incendio consume basura y tarimas en un terreno de Juárez, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUdpa1RZY3A1VmtIUE5iZk5YbTRCSnhmNUJ1UDAyZHFWRTRFZjNNVjZoS1JXZWFRN1piRm1rcVR6dE8xTHZkSXhmaFZNWGF3RWpZbmV6VDRlbTJaSmpHdDAyVFlKUWg5QWR4VzhRX3VoaDFBbEI2SWZNWFdQNENGS3cyZUJ4UzBSZGw4cUxKQ0pxREotbWZ5YUFpTVpaYVdD?oc=5",
+  "medio": "Vox Populi",
+  "publicada": "2026-11-23T19:56:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Incendio consume basura y tarimas en un terreno de Juárez, Nuevo León Vox Populi",
+  "temas": [
+   "Servicios públicos",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "e0a19172b46693b9"
+ },
+ {
+  "titulo": "José Alfredo Jiménez apostó por Juan Gabriel cuando nadie creía en él, recuerda Raquel Jiménez",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVV9KSkVLQjZlbGRIUi1iVjNMZ3hYdDlTRVQ4d3V6dnZIb3lTeW9aSmJKTnlSdmtwLXhtYTBHLS1iOHVabS12a2ZpVF8tTUlfSkxQVUJnZjVleVI5cDdhTVlwSlFwZ0gzamRpZWVxeDJ5RGZwMGlEZFo4N3gzdDFWQzhfRzVRSGFJeHNOQtIBjAFBVV95cUxNVjVqWEVLcktEY05HVnNqQkFZanAybFZhQ0hXTVFSc1pSQl9hTDM0VzdKV0RPQUhQdUpXMEFpdFNsdENOMF81UmZBYXNFellMT09Xa0ZMZzZsU0lwVHZCcTZNdE01M2xfNEt2VW9tNHhCQTRMZXo3N01iX0R5dmplREl5VHdjOVA2eTVjTg?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-23T19:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "José Alfredo Jiménez apostó por Juan Gabriel cuando nadie creía en él, recuerda Raquel Jiménez MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c409730b373c64fd"
  },
  {
   "titulo": "Afirma Samuel que Nuevo León es el gran ganador del nearshoring",
@@ -2695,6 +3074,20 @@
   "id": "6d474509fb424d6b"
  },
  {
+  "titulo": "Consulado de EU reconoce a policías de Jalisco por capturar a 22 fugitivos buscados por Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3ZGaDJDWTREUGtNVFN3S2RaSXdTSFRGUHhuLW9kREFmTDNtZDhkYnNLRHB6Y2JicFREUUdSV3lVdnhzanJwa2RPYkJ6WVczVm11a0xwa3Y0YXEtUG5sX1JTUEtHd0NSZktvMDVxRWJiV3lPN2FQek9PQ3ZrWVdnRjk1Q2tBaV9EdDJVbjNibzZEQnI5Nm5NbDF4bl9oUk8wT1hlZ19jbURqWnQ3T3N3Vjkxa3V3b2NUMUtXWGpsUkphOVR5blFhNTRSc2VBODlrZHg0T0tndlRGNXR5dW8zRlFVVVltRUpibTZQa25lcmw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-23T18:49:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Consulado de EU reconoce a policías de Jalisco por capturar a 22 fugitivos buscados por Estados Unidos Reporte Indigo",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "357d2cad09cfe4ce"
+ },
+ {
   "titulo": "Matías Almeyda se enfrenta a su 'coco' América en la liguilla",
   "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjVrSXNFMG1CYVNhUWxwSVVVVDF3VDF6MXd1NzUxVTIyWkhnOVhUeVBSNnFSQi01VTJHSTNRNHlyaTZnTlgyMFVVeWJna0FYaU84b3p1bzVUajh0d1ZKaEREcEEtUHU1dExjNHdfMWRGTWpiWFBCaGRWVnhTNC1YMms1cjBHR2JRelUzVlhCc0M0dEpDNTF0d3dVTdIBmwFBVV95cUxQeUdoWVp6S0VnSl9Hd1RmMkdtYUJZUlBOai1lUmN5d2dzMDl5bnl3Z2FGdk5CM3dWcFRaRGN4d1FKNWtlZW02N2QyV2xfYkpfd3hEN2FEal9BbmhBa1R2cFdQN1ZIOS1XVUQtSXpncVVxUFUwdGgxbFpJdTdwbDAwRDVIZkZEdjd4VWtnWHNTOEF0d1NER01manFwNA?oc=5",
   "medio": "Milenio Monterrey",
@@ -2875,6 +3268,20 @@
   ],
   "local": true,
   "id": "eb7630afb8f1ff38"
+ },
+ {
+  "titulo": "Choques con camiones urbanos dejan un lesionado en Monterrey, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFV6NEt3bzhRb0w3T3BQdjRjbzBYU1pWdUxIdHpqWkVVWWJCU1dnaXVKSl9BN1BTc2dUazlFR3BLOWY4cWRzeUp1MUFnNE5iX1ZjcFN6UVFWWUJuRjFlSlliTXh1dE84Z0lqakRnXzhzdjJxMzlVdEZqQVhuT0FnQUNhSFpiQXpvaTJnSTdrcmNRY0ZSUlp4X1I3SGhRcVdjVjdpcw?oc=5",
+  "medio": "Vox Populi",
+  "publicada": "2026-11-23T18:36:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T03:07:21-06:00",
+  "resumen": "Choques con camiones urbanos dejan un lesionado en Monterrey, Nuevo León Vox Populi",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "9b663e2bc7c1804a"
  },
  {
   "titulo": "Alerta Corea del Sur por posible incursión aérea de Norcorea",
