@@ -1,5 +1,732 @@
 [
  {
+  "titulo": "CDMX celebra la última Noche de Museos de 2026 con 10 actividades",
+  "liga": "https://elcongresista.mx/politica/nacional/noche-de-museos-cdmx-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:51:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Ciudad de México presentará la última Noche de Museos de 2026 con diversas actividades el 25 de noviembre.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1cb1d13c5094f8d0"
+ },
+ {
+  "titulo": "Fiscalía de Sonora imputa a Miguel Ángel “N” por abuso sexual agravado",
+  "liga": "https://elcongresista.mx/politica/sonora/fiscalia-sonora-imputa-abuso-sexual",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:49:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "La Fiscalía de Sonora imputa a Miguel Ángel “N” por abuso sexual agravado contra una menor en Agua Prieta.",
+  "temas": [
+   "Seguridad",
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "052534c8b152054c"
+ },
+ {
+  "titulo": "Detienen a hombre que mató a golpes a su mamá en Mexicali",
+  "liga": "https://puntonorte.info/2026/11/24/detienen-a-hombre-que-mato-a-golpes-a-su-mama-en-mexicali/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-24T14:49:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Mexicali.- Un hombre de 34 años fue detenido, la madrugada de hoy martes 24 de noviembre, al ser señalado de asesinar a golpes a su madre en un domicilio de la colonia Zacatecas, donde la mujer fue encontrada inconsciente y con lesiones en el rostro. El detenido fue identificado ",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3b835a863b75fd5a"
+ },
+ {
+  "titulo": "Localizan más restos durante búsqueda en el arroyo de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNFJTeHcybG5DNWt6ZHp0WUhzdGNWUHo5UnpEbnROUGdEd3VXLTdhQUo5TGRvdEViYjlnRGVGNnEtOGV6QnhXejZkWGtpYl9Ec3lZOQ?oc=5",
+  "medio": "Zona Norte",
+  "publicada": "2026-11-24T14:48:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Localizan más restos durante búsqueda en el arroyo de Ensenada Zona Norte Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a5fb389556b52910"
+ },
+ {
+  "titulo": "Marina atiende a pescador con síntomas de descompresión médica",
+  "liga": "https://elcongresista.mx/politica/yucatan/marina-yucatan-atencion-pescador-descompresion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:48:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "La Secretaría de Marina auxilia a un pescador con síntomas de descompresión en Yucatán tras una intervención en altamar.",
+  "temas": [
+   "Gobierno del estado",
+   "Campo y pesca",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "824b0faacc2a6f87"
+ },
+ {
+  "titulo": "Volcadura de góndola de Bachoco causa problemas viales en Mérida",
+  "liga": "https://elcongresista.mx/politica/yucatan/volcadura-gondola-bachoco-merida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:47:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Una góndola de Bachoco se volcó en la carretera Mérida-Umán, provocando complicaciones viales y esparciendo carga, sin heridos reportados.",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5190b63fd77245f9"
+ },
+ {
+  "titulo": "Morena denuncia al PAN por retrasar designación del INE",
+  "liga": "https://elcongresista.mx/justicia/morena-pan-retrasa-eleccion-presidencia-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:46:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Morena acusa al PAN de retrasar la elección de la presidencia del INE tras la salida de Guadalupe Taddei.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "653360b992734b14"
+ },
+ {
+  "titulo": "Protección Civil Inspecciona El Salitral por Incremento del Nivel del Mar en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdkpmR0IxTy1qaWl0SnpTanVvbnFFS1AyaFpteVNYWHBKZEpGc2N5Wm10Tms1MlRURHljRlREbUFGQTg5ZldlRFAyMGxGcFFFNGc4RG1SQlpBRWtwc1FXWFRkZHFTRlJhSDJ1d3N0eklHeU9KSEg5ZlhkNE52RWtrWElsVUFzMVFfUzhqUVE4VVI3RDJSc19hYXBWdERHRHVmMTg5XzdaNXlJaDJkRUJReGZfMFg2T3pEZkczaEFGQ2R2TzdWdjhmQTc2dFNMOTBw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-24T14:45:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Protección Civil Inspecciona El Salitral por Incremento del Nivel del Mar en Ensenada N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "e7615907b70f4cd7"
+ },
+ {
+  "titulo": "Proponen crear fideicomiso para retener 2,800 millones de pesos anuales de casetas en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUtLUUQyVnpsa0VHcjE0UG9vemV2MGNMYlpDQm85TWJhQ1hiU29TTGlxN2d3bXYyelk1MjJVWHlHWWhId2F1T3ZfaFBoMUN2bXhkU0J0T2NTY2ZFMHdRamY1bmVJQkpKVTd4cE5fanoyS1Y3Y0NBcnU4VjdWZzNLYmU3RmlsaTZMZHVZTDUtY0p6VWdZRHlHMGVzOGlsV1gxcm9QekdURjE3cHltTklEUU5BNnRIRXFKbFp6OEN3UHNyN292SWdreFdldDZ1RDUxbnc?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T14:44:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Proponen crear fideicomiso para retener 2,800 millones de pesos anuales de casetas en Baja California Baja News",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "182115cd72df813f"
+ },
+ {
+  "titulo": "Ensenada tendrá segundo corte de agua en menos de cinco días",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFhpNTZXeWRpWGRrN25pdWxxYXhXLWdRV3pyVEpjeVNVb1g3SWQ5T3c3ZlVXWktRT0ZZaG03YktfSXFhNDVEYnR3ckc5UGplUjl0TXpjN3EyRFVVZ1U2OFhBLTVQVnhnSU13TkoweW1nOGlHbmlUZzl0ZFRyUlVOVnV2YU1fcnIzeDdZWkpPQ3hHZlRjMm1RMHh6Qmc?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T14:38:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Ensenada tendrá segundo corte de agua en menos de cinco días Baja News",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "6bfd46595fcf6568"
+ },
+ {
+  "titulo": "Explosión en Seven Eleven de Reynosa deja empleados lesionados",
+  "liga": "https://elcongresista.mx/tamaulipas/explosion-seven-eleven-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:37:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Una explosión en Seven Eleven de Reynosa moviliza cuerpos de emergencia, lesionando a varios empleados.",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "0e4f44033922daec"
+ },
+ {
+  "titulo": "Mexicali debe 209 mdp a ISSSTECALI desde 2025, revela director",
+  "liga": "https://elcongresista.mx/politica/baja-california/mexicali-adeudo-209-mdp-issstecali",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:35:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El Ayuntamiento de Mexicali reconocido adeudo de 209 mdp a ISSSTECALI desde 2025, según su director.",
+  "temas": [
+   "Gobierno municipal",
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "45f3caf8383c6c76"
+ },
+ {
+  "titulo": "Vacunación invernal alcanza 457 mil dosis aplicadas en Sonora",
+  "liga": "https://www.uniradioinforma.com/salud/vacunacion-invernal-alcanza-457-mil-dosis-aplicadas-sonora-n916043",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T14:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El programa contempla un millón 347 mil dosis de vacunas contra COVID-19 e influenza, además de 48 mil contra el VPH, indicó.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "a8b7b1f9853d32c2"
+ },
+ {
+  "titulo": "Baja California registra 71 muertes por rickettsia en 2026",
+  "liga": "https://elcongresista.mx/politica/baja-california/baja-california-muertes-rickettsia-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:34:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Baja California reporta 71 muertes por rickettsia en 2026, lo que refleja un aumento significativo en la letalidad respecto al año anterior.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "81aa6b0deb9910bd"
+ },
+ {
+  "titulo": "Maru Campos afirma que Ariadna Montiel está muy asustada por denuncias",
+  "liga": "https://elcongresista.mx/politica/chihuahua/maru-campos-araiadna-montiel-asustada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:33:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Maru Campos asegura que Ariadna Montiel está asustada por denuncias de daño moral. Conflicto político en Chihuahua se intensifica.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "11fa45713b96b2ae"
+ },
+ {
+  "titulo": "Vuelven a inundarse viviendas en El Salitral, Ensenada; descartan evacuaciones",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDJudk9rVlRVQkxGSTd5a2sxdWRheHNydG56b2p0bk1oV0tjbHRmcWRWRWp0YjNxYmJpTFZTeG5VNFJGY1ljRW9jd1JLQVRUQTZGOXM4b3BrSGlYcklFYkpyS25ITXVSVjJIa1FrdmM4UHd1aU8zV3lrdFFOeE5QeGNLci1hNFFtdldGVi1uc2hySDZYLWJid19KejlORWstODBldlRZVzU0WmdEMzlIdWlJMXdXNVB2R2hPdmsyUlRNLV9aMG44NtIB4wFBVV95cUxQaGJTTUU2M0Z3OUluQkNrYlhvclVrOGRPUXVBeC1fSllwWWw2OV80dE1PZzZ4YXYzWWtvSGw4c1JOYjFFTGtxQ1FsUGhNUHhIV1F1d0dhWElldkU0VUVSaFVtMXVKTmlQcmp6dGtNY3NaOThoMmlUd2lJX253TzIyaGdoSVdmRlVDekZxbXdVcDJhVGhDRTVRakhGZkRFT1hiYWxNU0o2U1ozeEczUVNKazc5WDlfUDdSLVRXNVk1NGdQUTBmTWxZOEV3YVBabElTby1jV2p2UWQyNXJFcm1uWk1DNA?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-24T14:33:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Vuelven a inundarse viviendas en El Salitral, Ensenada; descartan evacuaciones El Imparcial",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "b8193139ea3718b4"
+ },
+ {
+  "titulo": "Esteban Ramírez Zepeta renuncia a la dirigencia de Morena en Veracruz",
+  "liga": "https://elcongresista.mx/politica/veracruz/esteban-ramirez-renuncia-morena-veracruz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:32:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Esteban Ramírez Zepeta renuncia a la dirigencia de Morena en Veracruz tras un escándalo por fotografías polémicas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c2dfa33afc5d9c59"
+ },
+ {
+  "titulo": "Protección Civil inspecciona escuelas y viviendas en El Salitral por aumento del nivel del mar en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdGRuY3l0S2RQdG5iWUhCZTRnczR5aEpxTkdzc0JVNlVUUk9VTzFiZmNYSzRreHZLYlZXck9GQk9XTzd1bldLYjlpX0tVQUlROGxhWTZTbEw2Y1ViNWxIOGpqVUVSY00wZ3BwNkx1ejFMUHRZLV9iNld5b3JyUGN4bmFFLWs1OS04UXRUaXpaaDdNaFgwamhCRkoyemJfOUVTWVZSaTRUR2VaSHV1ODI1WnJDZkdjR2RCT0pSRFZ5WVhnMEM2Tm9OalBTN3Y?oc=5",
+  "medio": "VerazInforma.com",
+  "publicada": "2026-11-24T14:31:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Protección Civil inspecciona escuelas y viviendas en El Salitral por aumento del nivel del mar en Ensenada VerazInforma.com",
+  "temas": [
+   "Educación",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "b72517f8add56189"
+ },
+ {
+  "titulo": "¿García Harfuch vs AMLO?, Taddei sin prisa por la justicia",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1ZiczJCSXhZNmlzWnRwYnpuamIyc3BEOGM4OEo4MmdTQTVWYWZXbnozUWx4dUd5dVhaeWJ5NFk0NWhoNmdHa3I1QTB4bkx2Vm95ZWNEcjBLd0xON1BsbDJ1bnRtTmUyUmNKS2g2MkFicjdPTFpQelJLdGpEVFRNWVhmUWFQdTgwcW15SkVPYnE5X1VvOXYtUThaR3owQmN0?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T14:30:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "¿García Harfuch vs AMLO?, Taddei sin prisa por la justicia AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "59a42a1d9c067818"
+ },
+ {
+  "titulo": "Calentamiento del mar reduce a 10% captura de erizo y obliga a cerrar planta en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTllDUzNEQ2YwWUpYQVhaSnhLT0NNWFdjekJDRG5ncURFQXAtZGpWWExaX0ZkVjJyYXpRTVpmV3Y0U2VuQnZjcFpYX2NIMFg5bWxQd283S3VXWFM4Y2Y1VDZDWHR6dXJ2VDRScU56ZFNfTmphZGhKaHJKdnRNRUVZQ3JuWnFSeHZGQ2FQaktBQmRDb0hMN2JmTUczVlgwRG1oSlEzSGhGX0VIaXNSbzljZy05NEVHeG9vT01RenAwUkJ0SmdjeXBnYnZoNlhONGl3eHBoUnhURdIB8gFBVV95cUxNR3hOTHBwQi1vbVR0RkhMLXZxbkYwN3VYc2dGLU9yR3VsVHNlaU0xcnJHRWplM2dzYkpSbmRVZElNZHNRNm5xVk5MQUVQYjBCWEt2UnZLNzc2VTJwbDNHVl9hQjdCcUZPc0NpdTFPVFMzclhwVVRuMVVyMHRxWUU4ZXlSN0dXNXR5RExfOVdiQV9wLW94dlpyVUhaVGV2UXdoWnJOai1aV1VRczEzajAtZkJwOGpaNWFmUV9IT0haU2NwcDk5QlItc3Z2UDdaWXJyTzh5VWxaR1htZUxIM1ZMRUc3bnVqM0E4NXFFVlZQSmh2UQ?oc=5",
+  "medio": "El Imparcial",
+  "publicada": "2026-11-24T14:27:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Calentamiento del mar reduce a 10% captura de erizo y obliga a cerrar planta en Ensenada El Imparcial",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e85bfe17dcd00e61"
+ },
+ {
+  "titulo": "Hay en México 39.1 millones de viviendas particulares habitadas, según el INEGI",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYnlEU2I2ZmRWX29OeE81ZlFpZWdEYTBydDEtUVU5MXpGRDU2dXpyLW9PWVExTHV3b041akJNcXNxSTF1bzJucWZUNEpOY0ZrYkE5QjdaN3NDVmFKSmgyYllyX2ZJWmV5NEJDdDJMM2gxZDRTU0hYUndWUzhDUy1UVFFBTWhKbDJ0cFY1Wld3bjQxemctVWlYYUdIVlMtODlVR0pVT1liQWZnWjllVjZLRndLYjJBYjdVbnIyMQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T14:26:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Hay en México 39.1 millones de viviendas particulares habitadas, según el INEGI AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "74b2c93ac569c68a"
+ },
+ {
+  "titulo": "Sufre industria crisis por reducción de horarios de cruce y cambios en aduanas, afirman",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaklxQ05RT05kVWszd0c1Q0F3SlFZR1BveldKem16NTNjbWtiaXJyVjg0aUFHd3ZuWFJ3bzZGYlMwX2N6eUV1VXd1d0E3OU5feTZ2RHVtVEFHOFNzdTJtNi1JckZmU3ptUlViMUxsYm1iY05TV1FWRTFOZFhmYXBmZTlnSUxXTnhFNjA0N2xodk9hUElISE5YQlVWSlVxdG5GYnlycEt5SWZWMUtEdGNhVUdqd0ZfYkNiVnFvc05ZelFnTUo0Wk1wUTZCa3FQMmphWnkw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T14:25:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Sufre industria crisis por reducción de horarios de cruce y cambios en aduanas, afirman AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "0d45b23d6e77e38f"
+ },
+ {
+  "titulo": "Un informe muestra reducciones significativas en la violencia armada en todo el condado",
+  "liga": "https://www.uniradioinforma.com/sociedad/un-informe-muestra-reducciones-significativas-violencia-armada-todo-condado-n916041",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T14:25:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "cc066f8f40f884a1"
+ },
+ {
+  "titulo": "Son localizados restos humanos durante brigada de búsqueda en Valle de las Palmas",
+  "liga": "https://www.uniradioinforma.com/policiaca/son-localizados-restos-humanos-durante-brigada-busqueda-valle-palmas-n916039",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T14:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Los restos óseos quedaron bajo resguardo de los especialistas forenses para su procesamiento e identificación",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "03963b2058276be1"
+ },
+ {
+  "titulo": "Exhorta Protección Civil a extremar precauciones en zonas costeras ante incremento temporal del nivel del mar",
+  "liga": "https://www.uniradioinforma.com/sociedad/exhorta-proteccion-civil-extremar-precauciones-zonas-costeras-incremento-temporal-nivel-mar-n916037",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T14:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Este nivel base elevado puede potenciar el alcance de las mareas altas de invierno y el oleaje de tormentas en Tijuana, Playas de Rosarito, Ensenada y San Quintín.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "7ca200288b2fd12a"
+ },
+ {
+  "titulo": "DURANGO: PRI y PAN avanzan en negociaciones para concretar alianza electoral en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzgtVHBuSG4zTnZKUUw5RVZvNThaMERSeVNVd09TNTBaQTZwWHhZdkoxQWNONUNFZjdKVEFiZHZwVFNBZ2pGUkZDanc4NWk2OGtaVEpUcjkwQVVrbEhPNlNUTDhtYjNwbHpGTzNkRmp2ak9OOUtUaHF2bkNUbU9iczdRbHlIMTN6SmhwSjlZWjl0UDdZdDBDNlkyMTlrelprOEQ3ckYyUWJYNmRETjcyRERJbWxBdDJKOVE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T14:21:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "DURANGO: PRI y PAN avanzan en negociaciones para concretar alianza electoral en 2027 Baja News",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "fa23dc94c880e398"
+ },
+ {
+  "titulo": "María Vargas busca hoy la corona de Miss Universo 2026 en Puerto Rico",
+  "liga": "https://elcongresista.mx/politica/jalisco/maria-vargas-miss-universo-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:16:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "María Vargas compite hoy en la final de Miss Universo 2026 en Puerto Rico, buscando una segunda corona consecutiva para México.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "946db98023dcaab2"
+ },
+ {
+  "titulo": "Fiscalía General de Chihuahua presenta línea anticorrupción para denuncias",
+  "liga": "https://elcongresista.mx/politica/chihuahua/fiscalia-chihuahua-linea-anticorrupcion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:15:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "La Fiscalía de Chihuahua presentó una línea anticorrupción para que ciudadanos puedan denunciar malas prácticas en los servicios públicos.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4513705ef27bc6b3"
+ },
+ {
+  "titulo": "Detienen a hombre armado a metros de un yonke por el Bulevar 2000",
+  "liga": "https://puntonorte.info/2026/11/24/detienen-a-hombre-armado-a-metros-de-un-yonke-por-el-bulevar-2000/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-24T14:12:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Tijuana.- Un sujeto armado con una pistola con silenciador fue detenido por elementos de la Policía Municipal cerca del Bulevar 2000. Los hechos ocurrieron la madrugada de este martes, 24 de noviembre, sobre la calle Imperio Azteca y Victoriano Huerta de la Colonia Valle Imperial",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "ff67ef2b48192519"
+ },
+ {
+  "titulo": "Construcción en México crece 2.9% mensual en septiembre de 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/crecimiento-construccion-septiembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:11:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El sector de construcción en México crece un 2.9% mensual en septiembre de 2026, destacando los incrementos en el empleo y horas trabajadas.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7f1fcab982415c99"
+ },
+ {
+  "titulo": "Gobierno Federal adjudica obras del tren Querétaro-Saltillo por 7,289.4 mdp",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/gobierno-federal-adjudica-obras-tren-queretaro-saltillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:09:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El Gobierno Federal adjudicó obras del tren Querétaro-Saltillo por 7,289 millones de pesos, comenzarán en diciembre de 2026.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "79a1a97c44a185c2"
+ },
+ {
+  "titulo": "Acata Evelyn Sánchez reglas contra el golpeteo interno en proceso de Morena en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNem8xYkZqTTE5YjhXRFkzU2g1NjBvVGsxeWhubzBsRzB6U0pTNEgtZ0pxWFVPQ3pVM25HNGJXRU1PWS1GdmNSdDVnYlpFemk3MmZ5Q25acVVDandodm45ZlpEcDJqYnpocldId2tndGg1M25ad0dZWV8wNmtHM3Bqa0JqZkFteWtJcmUzWlREYVE5T241U2JYUHh2VDg4ZWlPSXNMSGZZcnozbEs2VmMyU0huY0E5X254X2dlSHU2SQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T14:07:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Acata Evelyn Sánchez reglas contra el golpeteo interno en proceso de Morena en Tijuana Baja News",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "1889c52723b761e9"
+ },
+ {
+  "titulo": "Antes de salir a la Ruta del Vino",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IYnUtYW55eDloczNWN2VmM2hIZmpvMFBjeVlIZW5OdHhLbWV4LWQ3a19Za3lMbFdpcG9CbG9Md2NVSXlOVmlUMUl4UUlLUDgzQ1FGdzlpSjZYMU8xR05jVXVR?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-24T14:04:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Antes de salir a la Ruta del Vino Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1c87096ed57c871d"
+ },
+ {
+  "titulo": "Tecate realizará el Encendido Naranja por la eliminación de la violencia contra las mujeres",
+  "liga": "https://elportavoznoticias.com.mx/tecate-realizara-el-encendido-naranja-por-la-eliminacion-de-la-violencia-contra-las-mujeres/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-24T14:03:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El Gobierno de Tecate, a través del Instituto Municipal de la Mujer (IMMUJER), realizará este martes 24 de noviembre la actividad “Encendido Naranja”, en el marco de las conmemoraciones por el Día... La entrada Tecate realizará el Encendido Naranja por la eliminación de la violen",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "60b997a29da564cd"
+ },
+ {
+  "titulo": "Microsoft activa \"Código Rojo\" tras caída de servicios con 7.4 millones de reportes",
+  "liga": "https://elcongresista.mx/tecnologia/microsoft-caida-outlook-teams",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:02:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Microsoft activa \"Código Rojo\" tras caída de Outlook y Teams, generando más de 7.4 millones de reportes a nivel mundial.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "59a7929f7bfb2266"
+ },
+ {
+  "titulo": "Aseguran oficiales de la SSPCM a un conductor presuntamente responsable de un accidente de tránsito que dejó un hombre sin vida",
+  "liga": "https://www.uniradioinforma.com/policiaca/aseguran-oficiales-sspcm-conductor-presuntamente-responsable-accidente-transito-dejo-hombre-vida-n916035",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T14:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "fa6d64c053c0eb36"
+ },
+ {
+  "titulo": "Acuerdo de paz en Colombia cumple diez años con solo 36% implementado",
+  "liga": "https://elcongresista.mx/politica/nacional/acuerdo-paz-colombia-diez-anos-implementacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T14:01:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El acuerdo de paz en Colombia cumple diez años con solo un 36% de los compromisos implementados, mientras aumenta la violencia.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ff6dd011d92983cc"
+ },
+ {
+  "titulo": "Baja California presente en la cumbre ambiental de la ANAAE 2026",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-presente-cumbre-ambiental-anaae-2026-n916033",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T14:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Autoridades ambientales se reúnen en Querétaro previo a la convención de Asociación Nacional de Entidades de Agua y Saneamiento 2026",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "ac440cb4b8f493f5"
+ },
+ {
+  "titulo": "Detienen a Hombre por Presunto Feminicidio de su Madre en Mexicali, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU3piWmlIbHhfX1llc2pQSjllSmV6ZTNaYV85SjJvWkhRbUpfdVMwanRjNDU3QmdWNll2NE93YnlOQ25ubTB3WFVINk9sLU0wODF2cWFQZklVMzNZMEM4cWJMZmkxYzRXQzVpQmZHOHc3V25qS1JRLWltcXFSQ01EcVRnZUJIRG1hQ3JqTGh3SzMzQ2RqQXhabTNQM2RHU1VmYVBTMUdaSXZfdWR2LVFBNEdjRXlpaVE5RGZMQVI3ckNacUtPZzk3NGpXTzFmMl9ITGNzYjh6Rkt1bF9J?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-24T13:59:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Detienen a Hombre por Presunto Feminicidio de su Madre en Mexicali, Baja California N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5cf74706154c2612"
+ },
+ {
+  "titulo": "Descarta Salud brote de sarampión en el Estado ; asegura que no hay casos desde mayo",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzdhWHNJczNwbU9IMUZaRnUtNHlPMU1zR0dXSkQ5TC1ac2hmQmM5dU91SDcxNWZ5UUJ1d3M0NUxDOW1rNlNsLWJ2VzBuemtZM3R5TGZKTklHSEk5VkZueThmNTdBMnhVMFdqR0pTWWYyekZFOFFJT2RJTExGQlN5N3hrYWZYNGdwZktfZGpqZVRMLS1CLUZ0UkllZFhZX3J6U181ckdTYXlUOUNKRjY1bXFBVmVrT2ZodUE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T13:59:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Descarta Salud brote de sarampión en el Estado ; asegura que no hay casos desde mayo Baja News",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "86e0c7ed309c3d4a"
+ },
+ {
+  "titulo": "Las Doce: retratos que ponen rostro a la violencia contra las mujeres",
+  "liga": "https://www.uniradioinforma.com/sociedad/las-doce-retratos-ponen-rostro-violencia-mujeres-n916031",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T13:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "La exposición fotográfica se exhibe en el vestíbulo del Congreso de Sonora.",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "a25bb00c66a0827b"
+ },
+ {
+  "titulo": "Savannah James obtiene órdenes de alejamiento tras intrusiones en su hogar",
+  "liga": "https://elcongresista.mx/justicia/savannah-james-ordenes-alejamiento-intrusiones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T13:55:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Savannah James solicita órdenes de alejamiento tras intrusiones en su hogar en Los Ángeles, alertando sobre un peligro inminente.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "2df843bfac8e25f1"
+ },
+ {
+  "titulo": "Registra Baja California 71 muertes por rickettsia durante 2026",
+  "liga": "https://zetatijuana.com/2026/11/registra-baja-california-71-muertes-por-rickettsia-durante-2026/?utm_source=rss&utm_medium=rss&utm_campaign=registra-baja-california-71-muertes-por-rickettsia-durante-2026",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-24T13:54:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El secretario de Salud, Dagoberto Valdés, informó que la letalidad por rickettsia aumentó en 2026 respecto al año anterior. Hasta noviembre se contabilizan 71 defunciones y 151 casos confirmados en Baja California, lo que representa casi un 50%.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "92472e29232d4782"
+ },
+ {
+  "titulo": "Pacientes de rickettsia han aumentado en BC: van 151 este año y la mitad han muerto",
+  "liga": "https://puntonorte.info/2026/11/24/pacientes-de-rickettsia-han-aumentado-en-bc-van-151-este-ano-y-la-mitad-han-muerto/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-24T13:50:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Mexicali.- Los casos de rickettsiosis en Baja California han aumentado durante 2026, con un total de 151 personas diagnosticadas y 71 fallecimientos, informó el Secretario de Salud del Estado, Dagoberto Valdés Juárez. En atención a medios de comunicación en el Congreso del Estado",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "e94af526b4ed52eb"
+ },
+ {
+  "titulo": "Se fue de concierto, no durmió y trazó la ruta de la Carrera Animales de Poder; cinco corredores fueron descalificados",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ2UtZ2I4aEszN1RqTHk4OHlMdHVtb21XN3Q3ZWJCWnRqY2pyQ2p1MndiMm0tNTU1elFBZVNaZjVfNWk1eGpoSlBFYThhR3dQUHlIcW00aDRneTJzeEQzS3hnRFRkZDNMeWVMc2xaVnRuaG1Ja19KSTFtcEZWc2xqb1dqQXRPWm1CcjhFcnpKUnJyMGd6VWk3YjBaQkZ4NFMwTVpZWlE2Q0hjeVNVR2llQXJDSUJnTGhIM1R4RWh3cjRjQzZMdEN4azF4Q2E2dFpFVUJhS21CcGpWY2YwM01JaVJ6RGVkZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T13:50:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Se fue de concierto, no durmió y trazó la ruta de la Carrera Animales de Poder; cinco corredores fueron descalificados Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "015a852d2680a11e"
+ },
+ {
+  "titulo": "FGR explica ausencia de orden de aprehensión contra Taddei",
+  "liga": "https://elcongresista.mx/justicia/fgr-taddei-sin-orden-aprehension",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T13:47:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "La FGR señala que no hay orden de aprehensión contra Guadalupe Taddei, mientras continúa la investigación por posibles delitos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "aa33e4137a0c1eee"
+ },
+ {
+  "titulo": "IMSS: trabajadores marcharán en CDMX y Toluca por falta de informes",
+  "liga": "https://elcongresista.mx/justicia/imss-trabajadores-marchas-cdmx-toluca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T13:46:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Trabajadores del IMSS marcharán en CDMX y Toluca para exigir informes sobre el avance de su plan de rescate.",
+  "temas": [
+   "Salud",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "af90b2c5a805b4b2"
+ },
+ {
+  "titulo": "Sergio Mayer niega licencia para participar en reality de Netflix",
+  "liga": "https://elcongresista.mx/politica/nacional/sergio-mayer-niega-licencia-reality-netflix",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T13:46:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Sergio Mayer niega haber solicitado licencia para participar en el reality de Netflix \"Secreto Millonario\".",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5edcd161c42da82e"
+ },
+ {
+  "titulo": "Secretaría de las Mujeres impulsa derecho a cuidados en universidades del país",
+  "liga": "https://elcongresista.mx/educacion/secretaria-de-las-mujeres-derecho-a-cuidados-universidades",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T13:45:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "La Secretaría de las Mujeres instala mesa técnica para incorporar el derecho a los cuidados en instituciones de educación superior.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": false,
+  "id": "616b601b1153cca4"
+ },
+ {
+  "titulo": "Salud: México podría recuperar calificación de país sin sarampión",
+  "liga": "https://elcongresista.mx/salud/salud-mexico-recupera-calificacion-sarampion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T13:40:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "La Secretaría de Salud anunció la posible recuperación de la calificación de país libre de sarampión en México tras la reducción de casos activos.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": false,
+  "id": "979f8f78b2edd412"
+ },
+ {
   "titulo": "Se quema casa mientras familia dormía, pero sus vecinos lograron salvarlos",
   "liga": "https://puntonorte.info/2026/11/24/se-quema-casa-mientras-familia-dormia-pero-sus-vecinos-lograron-salvarlos/",
   "medio": "Punto Norte",
@@ -1919,6 +2646,20 @@
   "id": "da20b863aaa0f206"
  },
  {
+  "titulo": "Localizan a reo que escapó de El Hongo en Estados Unidos",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/localizan-a-reo-que-escapo-de-el-hongo-en-estados-unidos-33292564",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-24T09:34:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "La fiscal general del estado, informó que aún desconocen cómo ocurrió la detención",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2d04b6a842eb9912"
+ },
+ {
   "titulo": "Luis Enrique descarta fichajes en enero a pesar de bajas en PSG",
   "liga": "https://elcongresista.mx/politica/nacional/luis-enrique-fichajes-psg",
   "medio": "El Congresista",
@@ -1931,6 +2672,20 @@
   ],
   "local": false,
   "id": "4e0384cf6a62392c"
+ },
+ {
+  "titulo": "No habrá Seven Eleven en área verde de Malecón de Playas de Tijuana, asegura Burgueño",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/no-habra-seven-eleven-en-area-verde-de-malecon-de-playas-de-tijuana-asegura-burgueno-33292604",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-24T09:33:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Advirtió que los funcionarios de su administración que hayan incurrido en irregularidades relacionadas con el proyecto serán separados de sus cargos e investigados.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b1475211f0e3daf8"
  },
  {
   "titulo": "Grizzlies vencen a Hornets 117-111 sin Cameron Boozer por lesión",
@@ -1977,6 +2732,21 @@
   "id": "84d72f1ffe6b4531"
  },
  {
+  "titulo": "Descarta Issstecali adeudos en Mexicali más allá del pago de aportaciones para sus jubilados y pensionados",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/descarta-issstecali-adeudos-en-mexicali-mas-alla-del-pago-de-aportaciones-para-sus-jubilados-y-pensionados-33291921",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-24T09:30:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El requerimiento de 209 millones de pesos es para que el municipio continúe al corriente en sus cuotas ordinarias del déficit de la nómina de sus jubilados y pensionados de una estimación anual cercana a los 600 millones de pesos",
+  "temas": [
+   "Gobierno municipal",
+   "Salud"
+  ],
+  "local": true,
+  "id": "d8457191f240fffc"
+ },
+ {
   "titulo": "Desigualdad laboral deja sin jubilación a siete de cada 10 mujeres mexicanas",
   "liga": "https://www.uniradioinforma.com/sociedad/desigualdad-laboral-deja-jubilacion-siete-cada-10-mujeres-mexicanas-n915932",
   "medio": "Uniradio Informa",
@@ -2003,6 +2773,20 @@
   ],
   "local": true,
   "id": "387a9506b31aa403"
+ },
+ {
+  "titulo": "Rinden homenaje a agente fallecido de la Fiscalía General del Estado",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/rinden-homenaje-a-agente-fallecido-de-la-fiscalia-general-del-estado-33291728",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-24T09:22:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "El policía José Alberto Murguía Huerta, tenía 22 años de servicio en la corporación",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f021aad89f1f04d6"
  },
  {
   "titulo": "Sempra Infraestructura analiza oportunidades de desarrollo energético y social en Baja California",
@@ -2033,6 +2817,20 @@
   ],
   "local": true,
   "id": "7fc1943272d3e16a"
+ },
+ {
+  "titulo": "En etapa final, censo de habitantes en zonas de deslizamientos en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/en-etapa-final-censo-de-habitantes-en-zonas-de-deslizamientos-en-tijuana-33291831",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-24T09:07:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Tijuana registra 55 deslizamientos históricos, de los cuales 15 permanecen activos; Protección Civil mantiene vigilancia permanente, especialmente en la colonia 3 de Octubre",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "1f8a7f3b74553367"
  },
  {
   "titulo": "Inflación se dispara a 3.96% en primera quincena de noviembre",
@@ -4504,6 +5302,20 @@
   ],
   "local": false,
   "id": "1304cac6b51af6a4"
+ },
+ {
+  "titulo": "Registran 24 muertos en incendio de fábrica",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlZ2T3R3dzJqZEpROHI3VUhQQkkzOF8wb1dMWVhLTFY1YzkwNDZNcXVIS1ROcERSNmRHRG9pd252V2ozWEtnWWhlU1BpZWxwaG9oS1F0NjRYZkY5UUNZWlllM2JXWl9LaGJuazRNb28yRm1uUEpaYXc1cmtWRy1IMWpnVUF5ckt0TGVBQmhybXNKZHVUTzBKd2hacXduTTQ5?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-24T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T14:57:10-06:00",
+  "resumen": "Registran 24 muertos en incendio de fábrica El Vigía",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "a52df6db92b55e07"
  },
  {
   "titulo": "Denuncian daños a vida marina por basura de SpaceX en Matamoros",
