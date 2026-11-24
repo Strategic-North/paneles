@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-24T00:30-06:00",
+ "actualizado": "2026-11-24T01:58-06:00",
  "corte": "2026-11-24",
  "ventana": [
   "2026-11-23T18:30-06:00",
   "2026-11-24T18:30-06:00"
  ],
- "total": 300,
+ "total": 329,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 17
+   "notas": 16
   },
   {
    "fuente": "Noticiero Altavoz",
@@ -130,8 +130,8 @@
   },
   {
    "fuente": "Google News: Sinaloa",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 100
   }
  ]
 }
