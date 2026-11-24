@@ -1,5 +1,519 @@
 [
  {
+  "titulo": "Temperaturas de hasta 40 grados Celsius en Santander generan alerta",
+  "liga": "https://elcongresista.mx/politica/nacional/temperaturas-alta-santander-alerta-incendios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:21:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Alertan en Santander por temperaturas de hasta 40 grados Celsius, escasez de agua e incremento en riesgo de incendios forestales.",
+  "temas": [
+   "Clima",
+   "Agua",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "22be55dd614779d8"
+ },
+ {
+  "titulo": "Pronóstico indica temperaturas de hasta -10 grados en Chih. y Durango",
+  "liga": "https://elcongresista.mx/politica/durango/pronostico-freddo-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:20:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Se estima un descenso de temperaturas en México, alcanzando hasta -10 grados en Chihuahua y Durango del 24 al 26 de noviembre.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "544f1f5a2493de17"
+ },
+ {
+  "titulo": "Temperaturas bajan a 5° en Tamaulipas, lluvias en el sur",
+  "liga": "https://elcongresista.mx/tamaulipas/clima-tamaulipas-24-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:19:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Temperaturas en Tamaulipas bajan a 5° hoy 24 de noviembre. Se pronostican lluvias y vientos fuertes en la región.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "1d58ffeb6611f26b"
+ },
+ {
+  "titulo": "Guasave y Sinaloa retornan a clases presenciales tras mejora en seguridad",
+  "liga": "https://elcongresista.mx/politica/sinaloa/guasave-sinaloa-regresan-a-clases-presenciales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:17:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Tras mejorar las condiciones de seguridad, Guasave y Sinaloa reanudarán clases presenciales en todos los niveles educativos este martes.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5c4128dee709c3fa"
+ },
+ {
+  "titulo": "Inflación alcanza 3.96% en la quincena de El Buen Fin",
+  "liga": "https://elcongresista.mx/politica/nacional/inflacion-3-96-buen-fin",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:16:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "La inflación en México aumenta a 3.96% en noviembre, generando preocupación en consumidores durante El Buen Fin.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8ab3199d29a5c500"
+ },
+ {
+  "titulo": "Pérdidas del 3% en ventas del comercio al menudeo en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXdZVDdlUjBaNWpLQUJXYXNBYlpGS3YzcEpnckJxZHBUcnc0Vk52RE9CTkNhMEVieDVhcWJPTEs0bmhocDl4enhHVmUxcmlxZmpkcDhqMVF3SFliek1SX2xHOUd4UlZhZ29TTFlicVFJZHdPWEh2Z3UydlF5bFNJc1l1b1BJLUplVnM1T2tab0NDcC13UktSdUJhRkxERFBLUFl2dUtwU2FZcWhxTi1z?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T08:15:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Pérdidas del 3% en ventas del comercio al menudeo en Baja California AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "4f7a0d7d42a9d475"
+ },
+ {
+  "titulo": "ISSSTECALI y su acaparamiento presupuestal",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEJ3MUhPZGZuRUxQWUtEcjM4MENNTXlPdFFWRUxxSUppOVJZR1d0Q0tLYVpkNWtVSUtaOXUyUjFqNUZxR002eFBFc05sNy11LW0tQzNrWXkydjhSZGEzSW9RcFpyRDVUbFhiVE9JdGg5ZmZ0OXFhR043dm5iX3ZEQ3hZamhObURxUmRnbjhn?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T08:15:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "ISSSTECALI y su acaparamiento presupuestal AFN",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "53a921874ee8faca"
+ },
+ {
+  "titulo": "Zapopan: inauguran nuevo Centro Operativo para Guardianes Viales",
+  "liga": "https://elcongresista.mx/politica/jalisco/zapopan-centro-operativo-guardianes-viales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:07:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Zapopan inaugura Centro Operativo para Guardianes Viales con 22.3 mdp, buscando mejorar la movilidad y asistencia en el municipio.",
+  "temas": [
+   "Gobierno municipal",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a3dcfea490f6e21b"
+ },
+ {
+  "titulo": "Concentraciones en Zócalo y otras zonas ocasionan bloqueos vehiculares",
+  "liga": "https://elcongresista.mx/vehicular/movilizaciones-24-noviembre-cdmx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:06:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Movilizaciones del 24 de noviembre generan bloqueos viales en distintos puntos de la CDMX, afectando el transporte público y la vialidad.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "6d4621e1403d6003"
+ },
+ {
+  "titulo": "La pintora folclórica Grandma Moses vendió obras por más de un millón.",
+  "liga": "https://elcongresista.mx/politica/nacional/grandma-moses-obras-millon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:05:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Grandma Moses comenzó a pintar a los 78 años y vendió obras por más de un millón de dólares, convirtiéndose en ícono del arte estadounidense.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "88e8d4329993c389"
+ },
+ {
+  "titulo": "Residentes de Aruba protestan por el desarrollo turístico en la isla",
+  "liga": "https://elcongresista.mx/politica/nacional/protestas-aruba-desarrollo-turistico-2025",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:05:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Residentes de Aruba manifestaron su descontento en 2025 por el desarrollo turístico que afecta sus playas e identidad cultural.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fbc22bd83816a9ae"
+ },
+ {
+  "titulo": "Detienen en Sinaloa a Samuel Félix, productor de drogas de “Los Mayos”",
+  "liga": "https://elcongresista.mx/politica/sinaloa/detienen-samuel-felix-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T08:03:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Samuel Félix, conocido productor de drogas en Sinaloa, fue detenido en un operativo de seguridad vinculado a “Los Mayos”.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cf2f7c74cef32164"
+ },
+ {
+  "titulo": "El primer Nanosatélite hecho en México, en el CICESE de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEY3Q2g4Mk8xazA3RmVPOXJZMFpGV2ZmUHRSeGxsOWJiQVZma01IRmZMTnJYMWZGR1lyRjF3WFlSYTFiYTAzTERYNEdjdUl2enZyYWZWemNzVTdlNGU5bk9OSzc5UDFLU1ZkM2ZEZmZuSWtIVm1tb094OEt0Wl8xRElnb3ZSSW85M1Y5dktaRWY0dS0xbTU4SA?oc=5",
+  "medio": "BC Reporteros",
+  "publicada": "2026-11-24T08:02:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "El primer Nanosatélite hecho en México, en el CICESE de Ensenada BC Reporteros",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "3d9cf5f11bb13d67"
+ },
+ {
+  "titulo": "Pronóstico Sinaloa: temperaturas alcanzan 35 grados este martes",
+  "liga": "https://elcongresista.mx/politica/sinaloa/pronostico-sinaloa-temperaturas-35-grados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:50:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Sinaloa espera hoy temperaturas de hasta 35 grados Celsius, mientras persisten lluvias en otras entidades del país.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "978760d8dde48581"
+ },
+ {
+  "titulo": "Puente 2 en Piedras Negras: espera de 30 min para cruzar a Eagle Pass",
+  "liga": "https://elcongresista.mx/politica/coahuila/puentes-internacionales-piedras-negras-espera",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:49:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Reportan 30 minutos de fila en Puente 2 de Piedras Negras para cruzar a Eagle Pass este 24 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5eb2faba8878018a"
+ },
+ {
+  "titulo": "Alan Berliner destaca que el cine es más profundo que otras artes",
+  "liga": "https://elcongresista.mx/cultura/alan-berliner-cine-fidocs-30",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:48:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Alan Berliner participó en FIDOCS 30, destacando la profundidad del cine como forma artística y la importancia de aprender de los errores.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d6b272cdfe16d216"
+ },
+ {
+  "titulo": "Inundaciones en Ovalle dejan más de 150 evacuados tras crecidas del río Limarí",
+  "liga": "https://elcongresista.mx/politica/nacional/inundaciones-ovalle-evacuados-rio-limari",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:47:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Inundaciones en Ovalle han obligado a evacuar más de 150 personas. El alcalde denuncia la falta de recursos preventivos para enfrentar la emergencia.",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1c4f0e9fefd015d7"
+ },
+ {
+  "titulo": "INE rechaza cambios en criterios de sobrerrepresentación legislativa",
+  "liga": "https://elcongresista.mx/justicia/ine-criterios-soberrepresentacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:45:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "El INE determina que no habrá cambios en los criterios de asignación de plurinominales, manteniendo la sobrerrepresentación legislativa del oficialismo.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "65bad65938c74eb0"
+ },
+ {
+  "titulo": "Celebran santos del día: Andrés Dung-Lac y mártires en honor",
+  "liga": "https://elcongresista.mx/cultura/santoral-24-noviembre-andres-dung-lac",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:35:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "El 24 de noviembre se conmemoran los Santos Andrés Dung-Lac y otros mártires, figuras destacadas del cristianismo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4cc000ad923b4861"
+ },
+ {
+  "titulo": "Gobernador entrega 800 millones de pesos a 28 cuarteles de bomberos",
+  "liga": "https://elcongresista.mx/politica/nacional/gobernador-llaryora-entrega-dinero-bomberos-cordoba",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:34:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "El gobernador Martín Llaryora entrega 800 millones de pesos a 28 cuarteles de bomberos en Córdoba para mejorar su capacidad operativa.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "76b5f84ac8e1b6f7"
+ },
+ {
+  "titulo": "Habitantes de Calmeca bloquean carretera federal 160 por seguridad",
+  "liga": "https://elcongresista.mx/politica/puebla/bloqueo-calmeca-carretera-federal-160",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:33:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Habitantes de Calmeca bloquean la carretera federal 160 en demanda de seguridad y localización de tres desaparecidos.",
+  "temas": [
+   "Seguridad",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d62f73be49070bf4"
+ },
+ {
+  "titulo": "Suprema Corte respalda cobro de impuestos por depósitos no registrados",
+  "liga": "https://elcongresista.mx/justicia/suprema-corte-impuestos-depositos-no-registrados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:32:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "La SCJN respalda la fiscalización del SAT sobre ingresos por depósitos bancarios no registrados, afectando a contribuyentes.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0179ab567fe181e1"
+ },
+ {
+  "titulo": "Michoacán aprueba reforma para reconocimiento legal de perros y gatos comunitarios",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-reconocimiento-legal-perros-gatos-comunitarios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:31:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Michoacán avanza en el reconocimiento legal de perros y gatos comunitarios para su protección y bienestar, tras el caso de Lobita.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f457ae2e8db22927"
+ },
+ {
+  "titulo": "Guadalajara destina 36.7 millones para rehabilitar la Barranca",
+  "liga": "https://elcongresista.mx/politica/jalisco/guadalajara-rehabilitacion-barranca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:22:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Guadalajara invertirá 36.7 millones en la Barranca de Huentitán para mejorar caminos y miradores, así como la seguridad de la zona.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "02443c2b5d4e7465"
+ },
+ {
+  "titulo": "Claudia Sheinbaum toma control de Morena, excluye a leales a López Obrador",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-excluye-leales-lopez-obrador",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:20:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Claudia Sheinbaum consolida su liderazgo en Morena y deja fuera a leales a López Obrador para las candidaturas de 2027.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cc984158429aeef8"
+ },
+ {
+  "titulo": "Tamaulipas: pide 700 millones de pesos para rehabilitar carreteras",
+  "liga": "https://elcongresista.mx/tamaulipas/tamaulipas-700-millones-carreteras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:19:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "El Gobierno de Tamaulipas solicita 700 millones de pesos para reparar tramos clave en las carreteras de la entidad.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "8f2f3f2ba9c9a8e5"
+ },
+ {
+  "titulo": "BTCS vende 27,300 ETH por $43.8 millones para reducir deuda",
+  "liga": "https://elcongresista.mx/finanzas/btcs-vende-27300-eth-deuda",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:17:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "BTCS vende 27,300 Ether por $43.8 millones para reducir su deuda en Aave y cambiar su estrategia financiera en mercados inestables.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "584ccae75812b7a3"
+ },
+ {
+  "titulo": "Autobús de migrantes volca en Chihuahua; cinco fallecidos y 36 heridos",
+  "liga": "https://elcongresista.mx/politica/chihuahua/autobus-migrantes-volcadura-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:16:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Un volcadura de autobús en Chihuahua dejó cinco migrantes muertos y 36 heridos. Los afectados viajaban hacia Estados Unidos en busca de empleo.",
+  "temas": [
+   "Accidentes",
+   "Migración",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "50680e0b7adcab9f"
+ },
+ {
+  "titulo": "La Multisectorial La Plata, Berisso y Ensenada convocó a marchar este miércoles contra la violencia machista",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkpDdnM0TnQzbzVVbS1STWFSMTYtMnl5dUZPUXd1UFpUdTBUU21CVHdOZ01ZNzRpUTdXOTNtTUJUSlU3ckpWMmFnWmFya2liOVVGVVlrUVI3QXBTdzd5VHhWWm5YczdwSWdidnlrZ1lKSDVhczdXMEV0SUpTVk9mSENWMWtucy1WRjNTRHRjY0dMVTE2Y3JQTzhCWlZsRkd2XzNVSDdjN3RrUkM0M3p5N3p1Qll6dnJoQkhZY3JfbWVsT2lxaDNOQ2thd251UGpDekVRbWFFdkRnNkxod0w40gHkAUFVX3lxTFBTSDdBTmJndjAyUFFDYkxmWkJWaG42SkZlRm4xUWxJMmN2NUNSaHhtQ3Z2MW9rbW9hOEFYQjVWNGVoY3B0a214SDVSS3BlbWotcG9oby1XUUdQWnF6bnJweEppcmRNUWY5ZVpSS2NNT0ZSWm1aUjZRSzYtXzU3SHRrMU02MlNlR1U1cmV2NDU5b0VkdlhIUENJTmVGdEVzblZ3LVlkTHdwOEZZM2RJRUZBcERPRDZZOXd4MWdNbjFxbFBXRXoxYWdaTmZxUWVMc2JGWnZCcFFaQzJwSnZ5cElvaXJQNQ?oc=5",
+  "medio": "0221",
+  "publicada": "2026-11-24T07:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "La Multisectorial La Plata, Berisso y Ensenada convocó a marchar este miércoles contra la violencia machista 0221",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "dd0519ea2ace4b2b"
+ },
+ {
+  "titulo": "Encuentran un cuerpo en Cinco Saltos en búsqueda de camionero perdido",
+  "liga": "https://elcongresista.mx/justicia/cuerpo-hallado-cinco-saltos-busqueda-camionero",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:03:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Encuentran un cuerpo en Cinco Saltos mientras se intensifican las búsquedas de un camionero desaparecido de 28 años en la región.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "26c6a5f6217ed4a5"
+ },
+ {
+  "titulo": "Encuentran cuerpo del camionero desaparecido en Cinco Saltos.",
+  "liga": "https://elcongresista.mx/justicia/hallazgo-cuerpo-busqueda-camionero-cinco-saltos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T07:02:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Hallan un cuerpo en las labores de búsqueda del camionero Javier Luis Tomás Ríos en Cinco Saltos, Río Negro.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a0a5822845e81322"
+ },
+ {
+  "titulo": "Baja California Sur: rachas de viento de hasta 50 km/h sin lluvia",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/baja-california-sur-viento-50kmh",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T06:58:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Este martes, Baja California Sur contará con rachas de viento de hasta 50 km/h, cielo despejado y sin lluvia según el SMN.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "fb2fca00bccee549"
+ },
+ {
+  "titulo": "ONU advierte que el Estado solo destina $763 diarios por persona a comedores",
+  "liga": "https://elcongresista.mx/politica/nacional/onu-comedores-populares-763-pesos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T06:57:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "La ONU alerta que el gobierno argentino destina solo $763 diarios por persona a comedores populares, afectando la alimentación adecuada.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6b2887d0b9f3dfe6"
+ },
+ {
+  "titulo": "Española en Argentina denuncia que no recibe su voto por correo",
+  "liga": "https://elcongresista.mx/politica/nacional/espanola-denuncia-voto-por-correo-argentina",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T06:56:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "María denuncia la falta de envío de su voto por correo desde Argentina debido a complicaciones en el consulado.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "08f8dc66144df7d1"
+ },
+ {
+  "titulo": "Dólar fuerte y fin de semana largo: Tijuana se alista para recibir a San Diego en Thanksgiving y esperan aumento en las ventas",
+  "liga": "https://www.uniradioinforma.com/sociedad/dolar-fuerte-fin-semana-largo-tijuana-alista-recibir-san-diego-thanksgiving-esperan-aumento-ventas-n915669",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T06:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "El comercio turístico prevé un repunte del jueves 26 al domingo 29 de noviembre.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "d2700607f06976d2"
+ },
+ {
   "titulo": "La CIA y el cártel de Guadalajara: conexión y narcotráfico en los 80",
   "liga": "https://elcongresista.mx/politica/nacional/cia-cartel-guadalajara-narcotrafico",
   "medio": "El Congresista",
@@ -3575,6 +4089,20 @@
   ],
   "local": false,
   "id": "448e54431c93c675"
+ },
+ {
+  "titulo": "Noticias sobre el chocolatazo",
+  "liga": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00TndBVzJCa3UwNHdfRFltTDR0X1Y4cjRRLTJ3N2JmTmxmZXFzbldxVGtOSW5hSlVSeWRtTVpONjl0VTVsYk5zN2txcDB1bjgwcU5vU3N1dkJETHBla0FUeXhn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-23T19:50:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T08:23:56-06:00",
+  "resumen": "Noticias sobre el chocolatazo Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "82d132e2fa8062d0"
  },
  {
   "titulo": "Honduras: caída del 53.48% en migrantes en tránsito irregular en 2026",
