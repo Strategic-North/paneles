@@ -1,5 +1,590 @@
 [
  {
+  "titulo": "Monterrey y América se enfrentan en Cuartos de Final de Liga MX",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/monterrey-vs-america-cuartos-final-liga-mx-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:29:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Monterrey enfrenta a América en Cuartos de Final de Liga MX, este 25 de noviembre a las 21:10 horas por TUDN y Canal 5.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d5862bb04dabd093"
+ },
+ {
+  "titulo": "Claudia Sheinbaum menciona Puerto de Matamoros durante gira en China",
+  "liga": "https://elcongresista.mx/tamaulipas/puerto-matamoros-sheinbaum-china",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:28:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Claudia Sheinbaum destaca el Puerto de Matamoros en su gira por China, subrayando su relevancia para el futuro de Tamaulipas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bc465df67fa4dab3"
+ },
+ {
+  "titulo": "Presidente del Poder Judicial de BC confirma que no ha cruzado a EU tras versiones de que le cancelaron la visa",
+  "liga": "https://puntonorte.info/2026/11/25/presidente-del-poder-judicial-de-bc-confirma-que-no-ha-cruzado-a-eu-tras-versiones-de-que-le-cancelaron-la-visa/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-25T14:24:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Mexicali.- Alejandro Isaac Fragozo López, presidente del Tribunal Superior de Justicia del Estado (TSJE) confirmó que no ha cruzado la frontera con Estados Unidos de manera reciente, pero negó que el gobierno de ese país le haya retirado la visa de turista o le haya notificado de",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "97610244dcdafeb5"
+ },
+ {
+  "titulo": "Habilita gobierno de Claudia Agatón nuevo número de WhatsApp para reportes de Servicios Públicos",
+  "liga": "https://www.uniradioinforma.com/sociedad/habilita-gobierno-claudia-agaton-nuevo-numero-whatsapp-reportes-servicios-publicos-n916250",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T14:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Se invita a la población a actualizar en sus celulares el número de atención: (646) 497 15 94; únicamente se reciben reportes vía mensaje de texto",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "00c1ac7f90696087"
+ },
+ {
+  "titulo": "Diputados aprueban eliminar apellidos de casada a heroínas en muro",
+  "liga": "https://elcongresista.mx/justicia/diputados-quitan-apellidos-heroínas-muro-honor",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:21:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Diputados eliminan apellidos de casadas a heroínas en el muro de honor en una reforma histórica en el Día Internacional de la Mujer.",
+  "temas": [
+   "Política y partidos",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "2fdb3da1017f891c"
+ },
+ {
+  "titulo": "Hechizo: Bienvenidos a Hexe, la nueva aventura mágica de Disney llega a los cines",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHVxU1FWRTlFZjZBRDV6OHktNTNibmw1Vnk2RXJCYmdVWHNaTF9ZRk5xMlNoRnRDOHNNajBXcjhUd2drQUl1enN5WE54bXByeVZMTlYzdXBpSjNPbl9XOVRBLVJnTzRCOVo4RVVyUVJrXy1SRF85T2ZHY05aZ3ZBUTNidWdaSzNMYzBwdFVZMEo4ZHJnbmkyMWZXTzY1VHpEVEJaRnF6NU9DejZ0TlVsSnNBejRSY1poZ2VhZ1ln?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T14:21:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Hechizo: Bienvenidos a Hexe, la nueva aventura mágica de Disney llega a los cines Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e4e74d2d696fc8a2"
+ },
+ {
+  "titulo": "Cámara de Diputados evita bloqueos al dialogar con jubilados",
+  "liga": "https://elcongresista.mx/politica/nacional/camara-diputados-dialogo-jubilados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:20:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "La Cámara de Diputados inicia diálogo con jubilados para evitar bloqueos en San Lázaro y asegurar la seguridad de los empleados.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3d90a749c38d6b9c"
+ },
+ {
+  "titulo": "Coparmex solicita recursos para recuperar la paz en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/coparmex-sinaloa-recursos-paz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:19:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "La Coparmex pide recursos al gobierno federal para enfrentar la crisis de seguridad y empleo en Sinaloa, donde la pobreza laboral ha aumentado.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6de86d037885212d"
+ },
+ {
+  "titulo": "Rosario Piedra denuncia violencia en medios desde 2019",
+  "liga": "https://elcongresista.mx/justicia/rosario-piedra-denuncia-violencia-mediatica",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:19:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Rosario Piedra denuncia violencia mediática desde 2019 y destaca igualdad laboral en la CNDH durante inauguración de los 16 Días de Activismo.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "029c904f123d831a"
+ },
+ {
+  "titulo": "13 organizaciones de Ensenada exigen plazos concretos para recuperar la atención policial presencial en la localidad",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFgwckwxMlB2bXdTTmxiNDVOVkRFR3ZVc2hMVE12Q09XV0FfYXBGeWJwLU9HRXh1dXNtZ2Q3a3UzMm5kc0ZMQkFYTDFwZ2hFcTFTdjVLMkpRSk9LZXpxTUhDWmhPR0RRY21xVlhNdjJnakVGbVdvQTlNcVdydDhacGg2Q0h4cHZYNFlES3FvZkwydE1wRG1rZjE1ZEtSX0NaMXduaEJKMUY0OGNPN2hHampucFJNMkJLVjRSUlJvRHZydXZQQWdBMHlaa0FHQ1Nhc0MzZ2MxR1ZUYlBENTZ6R2NlX0lkQQ?oc=5",
+  "medio": "Soy de Osorno",
+  "publicada": "2026-11-25T14:12:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "13 organizaciones de Ensenada exigen plazos concretos para recuperar la atención policial presencial en la localidad Soy de Osorno",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "caed6bf1815517aa"
+ },
+ {
+  "titulo": "Ensenada acumula 112 víctimas de homicidio y rebasa cifra del año 2025",
+  "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFBMUi03ODZzUXBVX1BvTDBDVDZZN2ZOb1NXSDlnUVBfdWZwN3NZTmtlS2lGTGI2amhQNE94Q1RlVWoxT3Q3YXZGR2lGVUlwbll5VDBmRUxLNG8xOXJ3T1VVWXJxcktrX3F3U0s0NjZsMmRhTUZIeURPRW5iMElLV2Q5SDhla1lZMUNkUEJSX2hNd2lDeXBONVk4VFUwcEFWb0VPdTVBeENKZw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T14:09:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Ensenada acumula 112 víctimas de homicidio y rebasa cifra del año 2025 Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6f56c81ae06b395e"
+ },
+ {
+  "titulo": "Toluca: Antonio Mohamed anuncia su salida antes de la Liguilla",
+  "liga": "https://elcongresista.mx/estado-de-mexico/toluca-anuncia-salida-mohamed",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:05:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Antonio Mohamed dejará el Toluca tras la Liguilla del Apertura 2026, buscando cerrar su etapa con un nuevo título.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "38f1754d0879549a"
+ },
+ {
+  "titulo": "Cruz Azul revela precios de boletos para cuartos de final ante León",
+  "liga": "https://elcongresista.mx/politica/nacional/cruz-azul-boletos-cuartos-final-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:05:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Cruz Azul revela el costo de boletos para enfrentar a León en cuartos de final del Apertura 2026, con precios desde $550.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "12b148462b91e22c"
+ },
+ {
+  "titulo": "Obtiene FGE vinculación a proceso contra un sujeto por delitos en agravio de una menor en Tijuana",
+  "liga": "https://www.uniradioinforma.com/policiaca/obtiene-fge-vinculacion-proceso-sujeto-delitos-agravio-una-menor-tijuana-n916248",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T14:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "013e1616c078ff48"
+ },
+ {
+  "titulo": "Supervisa Gobierno de Ensenada zona de El Salitral para descartar riesgos por incremento del nivel del mar",
+  "liga": "https://www.uniradioinforma.com/sociedad/supervisa-gobierno-ensenada-zona-salitral-descartar-riesgos-incremento-nivel-mar-n916246",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T14:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Personal de Protección Civil, Bomberos y SEDENA acudió a la zona para brindar apoyo preventivo a las familias.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "2326838a23ed28b5"
+ },
+ {
+  "titulo": "Presenta Libia García paquete fiscal 2027 por 142 mil 500 mdp",
+  "liga": "https://elcongresista.mx/politica/guanajuato/paquete-fiscal-2027-guanajuato",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:03:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "La gobernadora de Guanajuato presenta un paquete fiscal de 142 mil 500 mdp para 2027 sin nuevos impuestos. Consulta los detalles aquí.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a177a91c5fa994b2"
+ },
+ {
+  "titulo": "Reforma a ISSSTECALI Podría Quedar Pendiente en la Actual Administración de BC",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDhRMGowMEYzd01McEpnYXhEWWtnVzdqWGpFQjF2UFJ3THYxOXpqUlBiUHhSNmljS2w0NHFHbDQ0NU1CV3pQM1BmT1BRQ2s0NHptR2V4dEpQMDJXWElteGozWGFvcmczMnFCLVl1VDlJQVl0djI5RWtRRThIcWxqOVk1MUZnRHFiRU5FWkpKS0htVTBxOTNzeHdVRnZrZnF2SFN4a2RCdWhtVEk1RDZZWkYtckZYMHo4X0NBRlBva1lzMUR4ZFRJ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-25T14:03:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Reforma a ISSSTECALI Podría Quedar Pendiente en la Actual Administración de BC N+",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "261539751d205bda"
+ },
+ {
+  "titulo": "Mejoran infraestructura del preescolar Alfred Adler con más de 8.5 mdp",
+  "liga": "https://elcongresista.mx/educacion/mejora-infraestructura-preescolar-alfred-adler-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:03:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "La Secretaría de Obra Pública invirtió más de 8.5 millones en el preescolar Alfred Adler en León para mejorar su infraestructura.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal",
+   "Educación"
+  ],
+  "local": false,
+  "id": "15a257ada5a0551f"
+ },
+ {
+  "titulo": "Militancia partidista no impide integrar consejos electorales: Nery Ruiz",
+  "liga": "https://www.uniradioinforma.com/sociedad/militancia-partidista-impide-integrar-consejos-electorales-nery-ruiz-n916244",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T14:03:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Se busca seleccionar a 584 consejeros y en el proceso se ha identificado a 262 aspirantes con militancia en distintos partidos políticos.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "b300df12e450467b"
+ },
+ {
+  "titulo": "Ayuntamiento de Soledad pospone cierre del rastro hasta 2027",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/rastro-soledad-suspende-cierre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T14:02:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "El rastro de Soledad de Graciano Sánchez seguirá operativo durante diciembre, retrasando su rehabilitación hasta 2027 tras peticiones de productores.",
+  "temas": [
+   "Gobierno municipal",
+   "Servicios públicos",
+   "Campo y pesca",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "95f5394af64879ce"
+ },
+ {
+  "titulo": "Detiene la SSPCM a un hombre con 50 pastillas presuntamente de fentanilo",
+  "liga": "https://www.uniradioinforma.com/policiaca/detiene-sspcm-hombre-50-pastillas-presuntamente-fentanilo-n916242",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T14:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "e5e47dfc72ab109b"
+ },
+ {
+  "titulo": "Detiene Policía Municipal a persona con dos armas largas",
+  "liga": "https://www.uniradioinforma.com/policiaca/detiene-policia-municipal-persona-dos-armas-largas-n916240",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T14:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "72ac1fdf441ec0db"
+ },
+ {
+  "titulo": "Llaman a comercios de Durango para permitir el ingreso de mascotas",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkxvUUptZUJRMXFrazZlRVZMcU1lQ2t4ekxlS0E0bDU3emtTaXhEdHNwaG0wb0lvbTlBeEhiNXJ6ZFR4Vk9MakFYNEdYdjZrS2xKcWNkYTB3eHpUbFJZRTNEOGMtbHRtbzRUOXlJcUJIb0JBWkZRZ1R3a3hlNmNMX241U3l5TTNremlSTE5UUGE3Wi1RMzdFT0NaaGhzOXE1YXpR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T13:55:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Llaman a comercios de Durango para permitir el ingreso de mascotas Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "ea17f1011d06471c"
+ },
+ {
+  "titulo": "Universidades son esenciales para el desarrollo, según académico",
+  "liga": "https://elcongresista.mx/educacion/universidades-esenciales-desarrollo-social",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:52:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Un académico destaca la importancia de las universidades en el desarrollo social y científico en el mundo actual.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "e43a7aff8543b036"
+ },
+ {
+  "titulo": "FGR destruye 916 kilos de fentanilo en Baja California",
+  "liga": "https://elcongresista.mx/politica/baja-california/fgr-destruye-fentanilo-baja-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:50:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "La FGR destruyó 916 kilos de fentanilo en Baja California como parte de su lucha contra el tráfico de drogas.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "72fc6be252f5ce51"
+ },
+ {
+  "titulo": "Organizaciones civiles exigen al TEPJF nombrar presidenta del INE",
+  "liga": "https://elcongresista.mx/justicia/organizaciones-civiles-demanda-tepjf-seleccion-presidente-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:50:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Organizaciones civiles demandan al TEPJF iniciar la selección de presidenta del INE tras la renuncia de Guadalupe Taddei y anuncian marcha.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "613b71d79215a5fb"
+ },
+ {
+  "titulo": "Talento tijuanense de Xolos impulsa a México a los dieciseisavos del Mundial Sub-17",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnJraUZSVUhLQzNXVFdvREE4bGgzbXRCamx2V1dTVlEzVFZfZjJhdy1JVjBzdktZWUZpMWM0V0EtS0ZNbGFkbmxXZm5TY0VsOXpWSVpOX29tc0ZaRmp3T3diMkY0dVRkYXZwWHBCejJJVnQ4UldTTGNyN29KMEJmVG9fT29SOU9KRjBTRTl5ZnR5OTN6Uy1PWmNqZjVLb29DOWdCNzlyRF80SXk1OXVnSHA2TGMycGxRblE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T13:49:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Talento tijuanense de Xolos impulsa a México a los dieciseisavos del Mundial Sub-17 Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "ce78a8dda46a7351"
+ },
+ {
+  "titulo": "Primera tormenta invernal en México traerá nieve y lluvias",
+  "liga": "https://elcongresista.mx/politica/nacional/tormenta-invernal-mexico-26-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:48:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "La primera tormenta invernal en México generará lluvias intensas y temperaturas bajo cero a partir del 26 de noviembre.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fea67212a0d7eed4"
+ },
+ {
+  "titulo": "INE: empresas de Hernández Casillas ya no tienen contratos vigentes",
+  "liga": "https://elcongresista.mx/justicia/ine-empresas-hernandez-casillas-sin-contratos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:47:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "El INE confirma que no tiene contratos vigentes con empresas vinculadas a los hermanos Hernández Casillas tras investigaciones de corrupción.",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "e4243b8996930259"
+ },
+ {
+  "titulo": "Cierre de Avenida Morelos Preocupa a Comerciantes de Ensenada en Temporada Decembrina",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdXQ4d0x3alFvLV9rRDBOLXlkVzA5S2hoME4yNU1uN0s5ZFp2RUhZa2xna0NxQXJuZnU0QVlZZW4xZmt5Y3djbV9wVi0zcm1KUmZ2ZDNpSTMwZG1kN05VSVFtRkMyTGt5NWdzcnl1VHZYYndfeHVKcDVkNWtkNFZwT0lGYU15bGh3V0Z0Vk9tdWRRYjRCTGRsc0FwWkt6U0oxWFd4YmdLOFRITnZsa2NmSU9GMXNUTUstVmhkTExSdE8wY1pnOTY2eU5UZTNqTWJO?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-25T13:47:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Cierre de Avenida Morelos Preocupa a Comerciantes de Ensenada en Temporada Decembrina N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8808c84b7b9eef7e"
+ },
+ {
+  "titulo": "Fideson impulsa a jóvenes emprendedores con créditos de hasta 200 mil pesos",
+  "liga": "https://www.uniradioinforma.com/gobierno/fideson-impulsa-jovenes-emprendedores-creditos-200-mil-pesos-n916238",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T13:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Setenta emprendedores participaron en la segunda edición de la Expo Sonora Emprende.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "168269c21bf62ebd"
+ },
+ {
+  "titulo": "Desaparecen áreas de equipamiento municipal en Playas de Tijuana, aseguran",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0d2NW0yUklCNUd6ZWVQa1RLYm5zcVJwOHJuM3hWaWtJMVlrVlVHQmpnZ1BsQTFGZy1nZWJydHMzck04aTBtTjh5d1NfN3NTOUE0VXFZRjh5dWNMZFFyZzFnRnlJMXdHdmxGWjdrdXFtVjVLZ2dIMWhCMjFoODViX1FUTUxVZkJ0cmE0ZUZyeF9aRTEyLV9ZWlAxNEtaUlBRd0F2aU5WM0ZHTFZMZlVEVE5oX0RzU25RRmlpSkpuLThfdw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-25T13:45:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Desaparecen áreas de equipamiento municipal en Playas de Tijuana, aseguran AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4da7843417bd9eae"
+ },
+ {
+  "titulo": "Quedan 5 días para condonación en adeudos y recargos en recibos del agua para Mexicali",
+  "liga": "https://puntonorte.info/2026/11/25/quedan-5-dias-para-condonacion-en-adeudos-y-recargos-en-recibos-del-agua-para-mexicali/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-25T13:40:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Mexicali.- A cinco días de que concluya el decreto de condonación de adeudos y recargos por el servicio de agua potable, cerca de 4 mil hogares de Mexicali han recibido este beneficio, que representa la eliminación de 62 millones de pesos en compromisos económicos. El programa es",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "ca6edbddd26b4fd6"
+ },
+ {
+  "titulo": "Vigilan oferta de inyecciones para perder peso en redes sociales",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU5CNVpZT2RFZWtWdEJhbHBhWVJmT0ZSZGc1Y1JVWlRiQkZvTU5Hc1V1T29FTWdqUXd5bHlobXpGakdJaGs1Y3ZiYVBpRF9QZU5ObU5fbGtLNERnVXZQWmJBQVVaX3BwME00TnlPbGVRMnF2LVY3MkZSMFpkWERqOXFEa1ZZdVY3em5fS1JYdXlmNmRoWEhSODdFWkJRS3dQZVdwWlVVQVRRdmg0YUtsZjNlUDVUQQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-25T13:39:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Vigilan oferta de inyecciones para perder peso en redes sociales AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3b184237e8a8b2a4"
+ },
+ {
+  "titulo": "Lorena Meléndez Yáñez se presenta como aspirante a la coordinación del Distrito 9 federal en Baja California",
+  "liga": "https://elportavoznoticias.com.mx/lorena-melendez-yanez-se-presenta-como-aspirante-a-la-coordinacion-del-distrito-9-federal-en-baja-california/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-25T13:37:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Lorena Meléndez Yáñez se presentó como aspirante a la Coordinación Distrital Federal de los Comités de la Defensa de la Transformación y de la Soberanía Nacional en el Distrito 9 de Baja... La entrada Lorena Meléndez Yáñez se presenta como aspirante a la coordinación del Distrito",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "46c6d5c7f7614404"
+ },
+ {
+  "titulo": "Tecate Comuna 2026: horarios confirmados para festival en Cholula",
+  "liga": "https://elcongresista.mx/politica/puebla/tecate-comuna-2026-horarios-artistas-cholula",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:36:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Conoce los horarios y la cartelera del festival Tecate Comuna 2026 en Cholula, programado para el 28 de noviembre.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "a73e6d4e9dc73703"
+ },
+ {
+  "titulo": "Los Green Bay Packers y Los Angeles Rams juegan en Thanksgiving Eve.",
+  "liga": "https://elcongresista.mx/politica/nacional/green-bay-packers-vs-los-angeles-rams-thanksgiving-eve-game",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:35:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Este 25 de noviembre, Green Bay Packers se enfrentan a Los Angeles Rams en el Thanksgiving Eve Game, transmitido por Netflix.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "73b86482ecdda724"
+ },
+ {
+  "titulo": "Suicidios en BC debajo de la media nacional; más incidencia en invierno, alertan",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTY5aWdNMUs5OWFsRjNuMUJBRjYzSmxJSGxhZUdwdU80bU52Y0tnUXh0YTZEVEFYOTE2a0dnQklfeklsQlhKTlZQVlNOdFlwSVUzLXR1dW1xaGJVejlDckdFdm0zWjlZR3oxV2hxdU8yeXV5THlWeDMwX1FfU1p0a3RHa1laQWY2MVJXV3ZueGhPakZVeTlRT1NoVjIzTElZdnp6R2FpMHBSZUt6UUtwcU9ZWlUyYUhkTlBKTHJMRTk0Mk5hS0hZcQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-25T13:35:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Suicidios en BC debajo de la media nacional; más incidencia en invierno, alertan AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "fb8870da45e51023"
+ },
+ {
+  "titulo": "Resultados Tris Medio Día hoy 25 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-medio-dia-sorteo-36993",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:35:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "El sorteo Tris Medio Día número 36993 se celebró este 25 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d30ebb6edf7414d6"
+ },
+ {
+  "titulo": "Guanajuato aprueba presupuesto de 142 mil 500 millones para 2027",
+  "liga": "https://elcongresista.mx/politica/guanajuato/guanajuato-presupuesto-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T13:34:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Guanajuato presenta su presupuesto de 142 mil 500 millones para 2027, sin nuevos impuestos ni deuda, priorizando educación y salud.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b2593bb580028e3c"
+ },
+ {
   "titulo": "Bloquean activistas cuatro accesos a obras del tren AIFA-Pachuca en Hidalgo",
   "liga": "https://elcongresista.mx/politica/hidalgo/bloqueo-obras-aifa-pachuca-hidalgo",
   "medio": "El Congresista",
@@ -26,6 +611,20 @@
   ],
   "local": false,
   "id": "ff8b4c43a843449f"
+ },
+ {
+  "titulo": "Exigen al Gobierno estatal devolver espacios educativos y deportivos en el oriente de Durango",
+  "liga": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYm8yd3VWeDNlOFo0NXAwQ2Z2eXdrcV9FZXFCMnNEUUVRQkR1M1pwaHo5Z01wUHQ3V1AxajhtVVNmQUJBZ2tRTk1CYXBLd0FZaGlNa3V6eUY3Q0QyRjlWaThBOWNITFFZN1E2aUdBSm42Q1p5cWdpMTFjNEo0REcyZGxyMjdURi1GbmItcU52ZjdjLTFST1pQVjhkSXdKVnFGcHVZWVdtR0Y0Q3BYR3FIY2RFeGItTGRqQkhiSmFPN1k3U2I4QjRn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T13:31:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Exigen al Gobierno estatal devolver espacios educativos y deportivos en el oriente de Durango Baja News",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "99ea98e6596b644a"
  },
  {
   "titulo": "Sheinbaum anuncia nota diplomática a EU por la salida de Inés Gómez Mont a España",
@@ -166,6 +765,20 @@
   ],
   "local": false,
   "id": "510ae2bf685d4beb"
+ },
+ {
+  "titulo": "Mujeres en B.C: el 24.3 por ciento fue víctima de algún delito en 2025",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWZKd2NkYy1ON1hmQnpPREstdFR2U21XSjZWeUJ2bHcwTlloR3JPX2F4aFRJYmVoUDk5c2lhLUdYQnMtTFdPSGpzNEY5akVxbnpkWnFOaTN6ZHgxZlRCSHdhQWJueXZET3hUaHVQVTg1a0lmZC1nRnRrM016M1NsVUZ1NC0yUDI2MDVaRFJSQ0hob1ltZXZESjZxUHBBQWxhS3czd3dOMWg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T13:15:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Mujeres en B.C: el 24.3 por ciento fue víctima de algún delito en 2025 Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "14a78a2483ae1f3d"
  },
  {
   "titulo": "Admite la 4T que mintió en el abasto de medicinas- Harfuch rompe con Rocha Moya",
@@ -2505,6 +3118,35 @@
   "id": "23b471851afb96e6"
  },
  {
+  "titulo": "Continúan exigiendo justicia por la muerte de Antonia Coyotl, señalan presunta negligencia médica",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/continuan-exigiendo-justicia-por-la-muerte-de-antonia-coyotl-senalan-presunta-negligencia-medica-33307814",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-25T09:15:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Antonia Coyotl perdió la vida el pasado 9 de noviembre después de dar a luz a su segundo hijo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1f111c04b2fba67c"
+ },
+ {
+  "titulo": "Proyectan 28.9 MDP para vialidades y alumbrado en Mexicali y su Valle",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/proyectan-28-9-mdp-para-vialidades-y-alumbrado-en-mexicali-y-su-valle-33307891",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-25T09:14:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "21 millones 525 mil pesos provendrían del PRON 2026 recursos que se aplicarían en cinco obras de rehabilitación y pavimentación vial y los 7 millones 418 mil 733.21 pesos restantes corresponden al FAISMUN 2026 destinado a cuatro obras de rehabilitación vial y alumbrado público",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "1aa7a546f007fe3a"
+ },
+ {
   "titulo": "Sinaloa: clima caluroso con 40°C y lluvias aisladas este miércoles",
   "liga": "https://elcongresista.mx/politica/sinaloa/sinaloa-clima-caluroso-25-noviembre",
   "medio": "El Congresista",
@@ -2550,6 +3192,20 @@
   ],
   "local": false,
   "id": "5222f2a5fce7a4dc"
+ },
+ {
+  "titulo": "Una discusión previa fue lo que desencadenó el feminicidio de una adulta mayor en colonia Zacatecas",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/una-discusion-previa-fue-lo-que-desencadeno-el-feminicidio-de-una-adulta-mayor-en-colonia-zacatecas-33307872",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-25T09:06:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "El presunto agresor, hijo de la víctima, se encontraba bajo los influjos de narcóticos, confirmó la fiscal general del estado, Ma. Elena Andrade Ramírez",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "3fa29eec7e14b331"
  },
  {
   "titulo": "Localizan cuerpo de adolescente con lesiones en Ziracuaretiro",
@@ -2607,6 +3263,20 @@
   ],
   "local": true,
   "id": "b14fb6fd90f77a2f"
+ },
+ {
+  "titulo": "Cerrarán durante siete días un tramo del carril lento de la Vía Rápida Oriente por obras pluviales",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/cerraran-durante-siete-dias-un-tramo-del-carril-lento-de-la-via-rapida-oriente-por-obras-pluviales-33307469",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-25T08:49:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Durante ese periodo, los automovilistas podrán incorporarse a la Vía Rápida Oriente o utilizar el desvío por la calle Juan Ruiz de Alarcón para posteriormente retornar hacia Paseo del Centenario.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "51a086ac8a95c3f3"
  },
  {
   "titulo": "Secuestrado por el crimen",
@@ -6770,6 +7440,20 @@
   ],
   "local": false,
   "id": "d8d1eddd5bbf031d"
+ },
+ {
+  "titulo": "Noticias sobre luren marquez",
+  "liga": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kT0RYMkk2RFZycE1kNFEtLTB3TGFTZzV5WGZEQnBWNEloNVI5bXBfbTlCaDFHZWc3blBRcDFtSjdrZ3gxQkxfbVJBbko1Rml6bWdTVVdtajJJU3lkRTc0ZQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T20:45:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T14:29:54-06:00",
+  "resumen": "Noticias sobre luren marquez Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4e02ed56c2b2dd3a"
  },
  {
   "titulo": "Miss Perú Luren Márquez: de la destitución a recuperar su corona",
