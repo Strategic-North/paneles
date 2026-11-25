@@ -1,5 +1,600 @@
 [
  {
+  "titulo": "Tijuana: alcalde promete frenar construcción de tienda en área verde",
+  "liga": "https://elcongresista.mx/politica/baja-california/tijuana-alcalde-frena-construccion-tienda-area-verde",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:21:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El alcalde de Tijuana asegura que no se construirá una tienda en área verde de Playas de Tijuana sin el consentimiento de los vecinos.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "59ae31864b5e46c3"
+ },
+ {
+  "titulo": "Lanzan campaña \"Hombres por la Transformación\"",
+  "liga": "https://www.uniradioinforma.com/gobierno/lanzan-campana-hombres-transformacion-n916179",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Consiste en una guía con 12 compromisos para prevenir y erradicar la violencia contra las mujeres.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "cbac6cf0893420b6"
+ },
+ {
+  "titulo": "Wembanyama podría jugar hoy en la NBA Cup ante Portland",
+  "liga": "https://elcongresista.mx/politica/nacional/wembanyama-juega-nba-cup-portland",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:20:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Victor Wembanyama es duda para el partido de hoy en la NBA Cup contra Portland, resaltando su importancia en el equipo.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c68ae5953e8b1ad5"
+ },
+ {
+  "titulo": "Playa del Carmen: concluyen construcción del parque Villamar 1 con 2.5 mdp.",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/parque-villamar-1-playa-del-carmen",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:19:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El Ayuntamiento de Playa del Carmen concluyó el parque Villamar 1 con una inversión de casi 2.5 millones de pesos, beneficiando a más de 6 mil personas.",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7e4a83c2bb4ca96f"
+ },
+ {
+  "titulo": "Asesinan a chofer de plataforma mientras arreglaba su carro en la colonia Buenos Aires",
+  "liga": "https://puntonorte.info/2026/11/25/asesinan-a-chofer-de-plataforma-mientras-arreglaba-su-carro-en-la-colonia-buenos-aires/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-25T11:19:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Tijuana.- Un chofer de plataforma de transporte público fue asesinado en un ataque armado la noche de ayer, martes 24 de noviembre, cuando se encontraba arreglando su vehículo en la colonia Buenos Aires. Los hechos ocurrieron alrededor de las 8:14 de la noche, frente a una vivien",
+  "temas": [
+   "Seguridad",
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "2b5ec4bf69b3ce59"
+ },
+ {
+  "titulo": "Ferrocarril Querétaro-SLP-Monterrey: 300 millones de pesos para San Luis Potosí",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/ferrocarril-queretaro-slp-monterrey-inversio",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:18:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "La construcción del ferrocarril Querétaro-San Luis Potosí-Monterrey podría inyectar 300 millones de pesos a la economía potosina en 2027.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "03ada3716a6eaa56"
+ },
+ {
+  "titulo": "Exhorta SSPCM a identificar señales de alerta y prevenir la violencia en las relaciones de pareja",
+  "liga": "https://www.uniradioinforma.com/sociedad/exhorta-sspcm-identificar-senales-alerta-prevenir-violencia-relaciones-pareja-n916176",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0ca5703786ba69f5"
+ },
+ {
+  "titulo": "Tijuana cierra Vía Rápida Oriente por obras de tubería pluvial",
+  "liga": "https://elcongresista.mx/politica/baja-california/tijuana-cierre-via-rapida-oriente-obras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:17:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Tijuana cerrará un tramo de la Vía Rápida Oriente por obras en la infraestructura pluvial a partir del 29 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "2fc83253e2964fe2"
+ },
+ {
+  "titulo": "Jornada laboral de 46 horas: CONCANACO SERVYTUR pide dar seguimiento a los acuerdos ya tomados con la STPS y definir el subsidio a las horas extra",
+  "liga": "https://www.uniradioinforma.com/sociedad/jornada-laboral-46-horas-concanaco-servytur-pide-dar-seguimiento-acuerdos-ya-tomados-stps-definir-subsidio-horas-extra-n916174",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "A pocas semanas de que inicie el ajuste de 48 a 46 horas semanales, la Confederación hace un llamado a que avancen la implementación y la publicación de los lineamientos",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "23b73569b36ec370"
+ },
+ {
+  "titulo": "Peso hila sexta jornada de pérdidas y se deprecia 1.82 por ciento a 19.77 por dólar",
+  "liga": "https://zetatijuana.com/2026/11/peso-hila-sexta-jornada-de-perdidas-y-se-deprecia-1-82-por-ciento-a-19-77-por-dolar/?utm_source=rss&utm_medium=rss&utm_campaign=peso-hila-sexta-jornada-de-perdidas-y-se-deprecia-1-82-por-ciento-a-19-77-por-dolar",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-25T11:10:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El tipo de cambio en ventanillas de Banamex se vendió en 20.26 pesos, mientras el índice DXY avanzó 0.11 por ciento.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f4e9cc343321f02e"
+ },
+ {
+  "titulo": "FGE captura en Tijuana a reo fugado del penal de el hongo",
+  "liga": "https://www.uniradioinforma.com/policiaca/fge-captura-tijuana-reo-fugado-penal-hongo-n916170",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El detenido, de origen hondureño, contaba con orden de aprehensión por robo y violencia familiar; también enfrentará cargos por evasión de presos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "93c0b8650119f9d4"
+ },
+ {
+  "titulo": "Ayuntamiento de Westminster niega música en vivo en museo de Beatles",
+  "liga": "https://elcongresista.mx/politica/nacional/ayuntamiento-westminster-prohibe-musica-museo-beatles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:04:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El ayuntamiento de Westminster prohíbe la música en vivo en el nuevo museo de Beatles, atendiendo quejas vecinales por ruido.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno municipal",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "10d486f474d3441e"
+ },
+ {
+  "titulo": "La mesa directiva de Egretec se renovará el 11 de diciembre.",
+  "liga": "https://elcongresista.mx/politica/michoacan/egretec-renovacion-directiva",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:02:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Egretec en Morelia convoca a egresados a participar en la renovación de su mesa directiva el 11 de diciembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e3f8737f0c75ccda"
+ },
+ {
+  "titulo": "Aumenta a 66.5% la informalidad laboral en Michoacán, según Inegi",
+  "liga": "https://elcongresista.mx/politica/michoacan/aumento-informalidad-laboral-michoacan-inegi",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:02:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "La informalidad laboral en Michoacán alcanza el 66.5% en 2026, mientras que la desocupación sube al 1.8%, según Inegi.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "03e25c7bb0533b63"
+ },
+ {
+  "titulo": "Bloqueo en Ventura Puente, Morelia, por protestas de educadores.",
+  "liga": "https://elcongresista.mx/politica/michoacan/bloquean-ventura-puente-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:01:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Trabajadores de educación bloquean Ventura Puente en Morelia para exigir igualación en pagos y otras demandas laborales.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "61e0525db2a1cad6"
+ },
+ {
+  "titulo": "Gladyz Butanda busca consolidar la 4T en Morelia con apoyo ciudadano",
+  "liga": "https://elcongresista.mx/politica/michoacan/gladyz-butanda-4t-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:00:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Gladyz Butanda busca consolidar la Cuarta Transformación en Morelia con el apoyo de los ciudadanos de Colinas del Sur.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4748d8f3006a0175"
+ },
+ {
+  "titulo": "Ismael Burgueño acuerda atención integral para comerciantes de Sánchez Taboada",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2x2LTZvdGlOdGhvdWhVbEhMUGg0dUVXWk5nYkZNOGJKNnBVaDRHbXY2V2owUWlQdUtDeEotUW1jWm05YnFDUGFQQ3hxV1RUbkstOGpBNl8xaTJzT0lZZ1dwMmFtY2pScXdla2xVMkRvc1VVVVhBeVNnMUlGSWNqLVZRWHQxVXozTzlSX3RTVDdqZDlLbmFyMFpLQ0pDTDk4cHBMcTY2bWdRM2h2RDRvanRDcXE?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T10:59:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Ismael Burgueño acuerda atención integral para comerciantes de Sánchez Taboada Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ec8e5071d808de28"
+ },
+ {
+  "titulo": "Guardián QR suma 86 negocios en el Valle de Guadalupe",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnZ1c3lrV0llaVJKWnRCVmxxNUJHU01hZmpNU0g0QnFWZjBvZ24zVF9CelJDQ3l4NlVjblJuNnNUOWtjbnM5NHIxSWthZm02cWhLOW5NNnAzeUFqakg2eG9aUHFRTWhlVTBvQ2VjT3g4WFlxZ1VyQURMeFJrNFR1M0VXQkVGQWRMdzJaYzlfTHZKckdmcWln?oc=5",
+  "medio": "PoderMX",
+  "publicada": "2026-11-25T10:59:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Guardián QR suma 86 negocios en el Valle de Guadalupe PoderMX",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "db633cd3d5454e78"
+ },
+ {
+  "titulo": "Ataque armado deja un hombre sin vida y una mujer lesionada en Hermosillo",
+  "liga": "https://www.uniradioinforma.com/policiaca/ataque-armado-deja-hombre-vida-una-mujer-lesionada-hermosillo-n916168",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T10:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El hecho ocurrió en un domicilio ubicado en la calle Garmendia, casi con bulevar Luis Encinas, en la colonia Centro.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2d6e68c2e06d4df0"
+ },
+ {
+  "titulo": "470 docentes se jubilan en Tamaulipas; Ciudad Victoria lidera cifras",
+  "liga": "https://elcongresista.mx/tamaulipas/470-docentes-jubilaciones-tamaulipas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:52:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Un total de 470 docentes se jubilan en Tamaulipas, con Ciudad Victoria en el primer lugar de jubilaciones.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "1e3402605efa0979"
+ },
+ {
+  "titulo": "Fomenta Alfonso Martínez cultura y música en Festival Internacional de Órgano",
+  "liga": "https://elcongresista.mx/politica/michoacan/fomenta-alfonso-martinez-cultura-musica-festival-organo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:50:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Alfonso Martínez destaca la música como herramienta para construir paz en la inauguración del Festival Internacional de Órgano en Morelia.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "45effc233b4c36a4"
+ },
+ {
+  "titulo": "Congreso de Michoacán exhorta a la SSM a fortalecer atención a personas con autismo",
+  "liga": "https://elcongresista.mx/politica/michoacan/congreso-michoacan-exhorta-ssm-atencion-autismo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:49:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El Congreso de Michoacán exhortó a la SSM a fortalecer la atención integral para personas con autismo y mejorar la difusión de servicios.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4013f5f123ec3212"
+ },
+ {
+  "titulo": "Sheinbaum condena deportación de Inés Gómez Mont a España",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-condena-deportacion-gomez-mont-espana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:48:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Claudia Sheinbaum critica la deportación de Inés Gómez Mont a España y exige su extradición a México.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b1502f7b5859cfb6"
+ },
+ {
+  "titulo": "Universidad Michoacana: votación en línea para Rectoría inicia hoy",
+  "liga": "https://elcongresista.mx/politica/michoacan/umsnv-votacion-linea-rectoria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:47:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "La UMSNH realiza votación en línea para la elección de Rectoría, disponible hasta las 18 horas del 25 de noviembre.",
+  "temas": [
+   "Proceso electoral",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dafb5b641b45bd00"
+ },
+ {
+  "titulo": "México busca incrementar exportaciones a China, dice Ebrard",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdEZ4NzVWU0pjX0xoNlNpNHNyOVV3bmRndklSWkdTNFV6T0d1ZlFCQWptZWc0OUd6UlZ1NkNIc2VwbUNNdnZCSGdIZ3ZQY3NwSldVS2hzV0tXTzhtRm9DX2pzLTdBUmtZMVl1TmJPbzVfYk9XQUJZZlA0UjZRbGM3LXNmZTN4eFliblNCcDc3MkNFZjZtU0taSXpCRzlzS3ctbXc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-25T10:42:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "México busca incrementar exportaciones a China, dice Ebrard AFN",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "2a1677cf75392c01"
+ },
+ {
+  "titulo": "\"Nestlé tiene que pagar lo que corresponde\": Sheinbaum respalda a cafeticultores de Chiapas",
+  "liga": "https://www.uniradioinforma.com/gobierno/nestle-tiene-pagar-lo-corresponde-sheinbaum-respalda-cafeticultores-chiapas-n916166",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T10:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Aseguró que su gobierno intervendrá para respaldar las demandas de los productores de café.",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "a5fbe0bea4490546"
+ },
+ {
+  "titulo": "Feministas exigen destitución de Sheila Hernández en Sonora.",
+  "liga": "https://elcongresista.mx/politica/sonora/organizaciones-feministas-destitucion-sheila-hernandez-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:37:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Organizaciones feministas en Sonora piden la destitución de Sheila Hernández por falta de resultados en Alerta de Género.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2c9cee6f5401125a"
+ },
+ {
+  "titulo": "Jude Bellingham destaca con un gol en victoria del Real Madrid 5-1",
+  "liga": "https://elcongresista.mx/politica/nacional/jude-bellingham-gol-real-madrid-psv",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:36:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Jude Bellingham se destaca en la victoria 5-1 del Real Madrid ante el PSV, anotando un gol y demostrando su liderazgo.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "84d55379fee0b3e1"
+ },
+ {
+  "titulo": "Ocho asesinatos y un herido en jornada violenta en Mazatlán",
+  "liga": "https://elcongresista.mx/politica/sinaloa/mazatlan-sinaloa-ocho-muertos-violencia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:33:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Ocho personas fueron asesinadas en una jornada violenta en Mazatlán, Sinaloa, además de un joven herido en ataques individuales.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "30a5653a02d3625d"
+ },
+ {
+  "titulo": "Menor de 12 años herida por disparo accidental en Nuevo León",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/menor-herida-disparo-accidental-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:33:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Una menor de 12 años fue hospitalizada tras un disparo accidental por su hermano en Montemorelos, Nuevo León.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "efbccedfd571b26a"
+ },
+ {
+  "titulo": "S&P 500 cae más del 8.7% en noviembre, su peor mes desde 2008",
+  "liga": "https://elcongresista.mx/finanzas/sp500-caida-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:31:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El S&P 500 cae más del 8.7% en noviembre, su peor mes desde 2008, en medio de un repunte de la inflación y menor liquidez en el mercado.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "3d5c29c2319e5572"
+ },
+ {
+  "titulo": "Asesinan a tiros a un conductor de Uber mientras limpiaba su vehículo",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbHN4N2hjbW9RVVBRTTU5NFYxS2lSeXRLclhNUkV1VGJUUjZnNTVrbnBQTGJFM0VCU1pfanFuNDNxcTU2bjdpQzFYa05VcWJ5cThoSFF2UlBWeGE1aEpuMlZkT2xISkhNT2pLbkk1bWdsWGI5RFZkeFZSM0JHU0twTUExNTZjdjNWb3ZXZnFRYTdCV2NfSmZ4YzEzaUNXbVA5cGFKMnVTb2p4NDNLaVdZ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-25T10:31:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Asesinan a tiros a un conductor de Uber mientras limpiaba su vehículo AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "441174d35e92deca"
+ },
+ {
+  "titulo": "Gobierno de Tijuana prepara una app para reportar emergencias por el fenómeno El Niño",
+  "liga": "https://puntonorte.info/2026/11/25/gobierno-de-tijuana-prepara-una-app-para-reportar-emergencias-por-el-fenomeno-el-nino/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-25T10:30:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Tijuana.- El Ayuntamiento de Tijuana prepara una aplicación para teléfonos celulares que permitirá a la ciudadanía consultar la ubicación de albergues, centros de acopio y otros puntos de atención, ante posibles emergencias por las lluvias que se esperan debido al fenómeno de “El",
+  "temas": [
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "d3e4b77e0f34aea5"
+ },
+ {
+  "titulo": "TIJUANA: Tres hombres resultan intoxicados en Lomas del Matamoros; dos están graves",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFRkMTdkVzJwb2hkeUhQWkZQRWV2RGh5WkNiajgtd3NORDZETWxHS0NtV2gtRE5NajlwdGE5OFBua3Zyci0tRk9pVHVqZnlvZEVGS1ZiZjNjVzFhZzI4TG4yQnNsMHhuZVVHMGh1Nm1iQzF0S1NJc2xxWDhibEVVRjZjdmIyRFROMnRVWjFQS3dRYVB3UzhYSGE2eUZxZktMYW81ZzBqZmVIT1J1TzA0OVF0VGFiX3BY?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T10:30:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "TIJUANA: Tres hombres resultan intoxicados en Lomas del Matamoros; dos están graves Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4ac125511c13a4ca"
+ },
+ {
+  "titulo": "¿Cuál es la edad ideal para darle su primer celular a tus hijos?",
+  "liga": "https://www.uniradioinforma.com/ciencia-tecnologia/cual-edad-ideal-darle-su-primer-celular-tus-hijos-n916163",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T10:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Tener un celular no significa que deban acceder inmediatamente a todas sus funciones o aplicaciones.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "73caad6a47247777"
+ },
+ {
+  "titulo": "Fomentan lectura tradicional en jóvenes de Matamoros, Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/fomentar-lectura-jovenes-matamoros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:21:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "En Matamoros, Tamaulipas, se busca incentivar la lectura tradicional entre los jóvenes frente al creciente uso de tecnología.",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "1286dcbc3b27a897"
+ },
+ {
+  "titulo": "Rubén Rocha: Sheinbaum asegura que cuentas jamás fueron descongeladas",
+  "liga": "https://elcongresista.mx/justicia/ruben-rocha-cuentas-congeladas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:20:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "La presidenta Sheinbaum confirma que las cuentas de Rubén Rocha nunca fueron descongeladas tras una decisión judicial.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "95bfa4c04aba5c8b"
+ },
+ {
+  "titulo": "Claudia Sheinbaum corrige a reportera por felicitación de 25N",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-corrige-reportera-25n",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:19:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Claudia Sheinbaum subraya la importancia del 25N y corrige a reportera por felicitaciones en su conferencia mañanera.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "cf5854f7381ac639"
+ },
+ {
+  "titulo": "Sheinbaum exige a Nestlé precio justo para café de Chiapas",
+  "liga": "https://elcongresista.mx/politica/chiapas/sheinbaum-nestle-precio-justo-cafe-chiapas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:18:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Claudia Sheinbaum apoya a cafeticultores de Chiapas y exige a Nestlé un precio justo de 50 a 60 pesos por kilogramo de café.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "586ff6738dfe76d0"
+ },
+ {
+  "titulo": "Impulsan proyecto “Rosarito South” para desarrollar el turismo en la zona sur de Playas de Rosarito",
+  "liga": "https://elportavoznoticias.com.mx/impulsan-proyecto-rosarito-south-para-desarrollar-el-turismo-en-la-zona-sur-de-playas-de-rosarito/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-25T10:18:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El Consejo Consultivo de Desarrollo Económico de Playas de Rosarito (CCDER) impulsa el proyecto “Rosarito South”, una iniciativa enfocada en fortalecer el potencial turístico y económico de la zona sur del municipio... La entrada Impulsan proyecto “Rosarito South” para desarrolla",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "c78504b7e4f74545"
+ },
+ {
+  "titulo": "Ximena Santaolalla denuncia a su padrastro por 2,500 abusos sexuales",
+  "liga": "https://elcongresista.mx/justicia/ximena-santaolalla-denuncia-abusos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T10:16:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Ximena Santaolalla denuncia 2,500 abusos por su padrastro Francisco Aguirre, ex presidente de Grupo Radio Centro.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "854f90a28a4c7adf"
+ },
+ {
   "titulo": "El tiempo de espera en garitas de Tijuana",
   "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2tjRThDdXFtNkdYeTRlajJXSVhBZmZ4WV95M2VMTm5mOUVtdVlzRUpHd2FwMVV1Y19wdkpDZFdET1loUDRzSVpadnRZbTN1a1RGQmg2RWgxLXNSd096WlNsMDlMTFNYZnByWVY3bTh0Q1E4eGVGd3J4VExPSTQ4UGFBaw?oc=5",
   "medio": "BajaNews",
@@ -12,6 +607,34 @@
   ],
   "local": true,
   "id": "9d0b2cfde4bc3da7"
+ },
+ {
+  "titulo": "Detienen a Hombre por Presunto Secuestro en Motel de Tijuana; Pedía Dinero Familiares",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2tZbzg3bFFFX2FmVUpxYmRLTG50RmlEenpaSVhHRmVFRVV2Z2xuWEhleUZqTGN4WmxRQ1dQSEltYVN3UXVuZ244TXNFVFY1Vjl0OTNtZ2w2aE12dzB5UXV5YWZXTk9GOXpDT1Z5akZvV0Z5MVlPbXN2X1hiVm5CdzBlNW4tcjgwdWRUZGNSYWRjRjVGSXVHLTgwX2dodjhoZXNWZmN3dXR5UmJMNlRKWEVCZkVkQTF3U1E2VG9FdXlQWlBMU0lIOEFCbDh3T0l5?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-25T10:08:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Detienen a Hombre por Presunto Secuestro en Motel de Tijuana; Pedía Dinero Familiares N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6396b43c8e0efaa5"
+ },
+ {
+  "titulo": "Sheinbaum corrige a reportera por felicitarla en el marco del 25N",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-corrige-reportera-felicitarla-marco-25n-n916157",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T10:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "El 25 de noviembre se conmemora el Día Internacional para la Eliminación de la Violencia contra las Mujeres.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "37debb6357c11da8"
  },
  {
   "titulo": "Thomas Markle, padre de Meghan, es acusado formalmente en California por dos cargos federales",
@@ -195,6 +818,34 @@
   ],
   "local": false,
   "id": "0d490a215fbaf151"
+ },
+ {
+  "titulo": "VIDEO.- \"Va a ser muy difícil\": Marina del Pilar reconoce que la Alerta de Género no se levantará en su sexenio",
+  "liga": "https://www.uniradioinforma.com/sociedad/video-va-ser-muy-dificil-marina-pilar-reconoce-alerta-genero-levantara-su-sexenio-n915833",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T10:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "La gobernadora dice que en 2021 recibió las 39 medidas sin ningún avance y que fueron \"30 años\" de rezago en Baja California.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "f286aa72f28d2229"
+ },
+ {
+  "titulo": "Inés Gómez Mont fue deportada a España, confirma Sheinbaum",
+  "liga": "https://www.uniradioinforma.com/fama/ines-gomez-mont-fue-deportada-espana-confirma-sheinbaum-n916154",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T10:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "La exconductora también cuenta con nacionalidad española e ingresó a Estados Unidos con pasaporte de ese país.",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "54d216f34ecd271b"
  },
  {
   "titulo": "En viaje a China tratamos de transmitir lo que significa la austeridad republicana y el amor al pueblo: Sheinbaum",
@@ -1236,6 +1887,21 @@
   "id": "4ab851e9915457bd"
  },
  {
+  "titulo": "Violento choque en Ensenada: un motociclista terminó en el hospital",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1RUY0loeHo5UVI0TzFvU0pQUW5nNXJORkNza25yYm1nNzdteGdPaVhWb2tnbnk3NlNCTXlObzVlR2ZBcXJCajdFQXUtMHVqLXhWT0JCelgzYWNFTWxlQU5CYUlUMXM3cjg1aUI5T2ozWUJiQ1pfNzN6elp1SVhFQTExRWZJTXlwbTJtY0FOYm9RalFvSEs3YTRWS1hrZ0I4NFg0WXFCSQ?oc=5",
+  "medio": "Punto Capital Noticias",
+  "publicada": "2026-11-25T07:24:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "Violento choque en Ensenada: un motociclista terminó en el hospital Punto Capital Noticias",
+  "temas": [
+   "Accidentes",
+   "Salud"
+  ],
+  "local": true,
+  "id": "c6b57570d646d8e4"
+ },
+ {
   "titulo": "Demócratas prometen investigar a Trump por conflicto en Nvidia",
   "liga": "https://elcongresista.mx/politica/nacional/democratas-investigan-trump-nvidia",
   "medio": "El Congresista",
@@ -1510,6 +2176,20 @@
   ],
   "local": true,
   "id": "3b0d8ceec1ce3e0e"
+ },
+ {
+  "titulo": "Advierten riesgos por compra de fármacos para adelgazar sin supervisión médica",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/advierten-riesgos-por-compra-de-farmacos-para-adelgazar-sin-supervision-medica-33304532",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-25T05:55:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T11:26:16-06:00",
+  "resumen": "La autoridad mantiene un programa permanente para revisar la publicidad de medicamentos y productos considerados “engaño”, tanto en redes sociales como en farmacias físicas",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "6f19e96cc8d1d449"
  },
  {
   "titulo": "Esteban Ramírez Zepeta renuncia como dirigente de Morena en Veracruz",
