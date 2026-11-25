@@ -1,5 +1,459 @@
 [
  {
+  "titulo": "UDLAP presenta investigaciones sobre mamíferos marinos en congresos",
+  "liga": "https://elcongresista.mx/politica/puebla/udlap-investigaciones-mamiferos-marinos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T17:24:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "La UDLAP presenta investigaciones sobre mamíferos marinos en dos congresos importantes, destacando cambios en ecosistemas marinos.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6332c5c13b727089"
+ },
+ {
+  "titulo": "Departamento de Estado presenta un panorama optimista de Honduras",
+  "liga": "https://elcongresista.mx/politica/nacional/informe-departamento-estado-honduras-asilo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T17:23:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Un informe del Departamento de Estado de EE. UU. presenta una imagen optimista sobre la baja criminalidad en Honduras, contrastando con advertencias de viaje.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3bc4fb26dbbd4373"
+ },
+ {
+  "titulo": "Los Cabos aprueba nuevo programa para el Estero de San José",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/los-cabos-programa-manejo-estero-sanjose",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T17:23:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Los Cabos aprueba un nuevo programa de manejo para el Estero de San José, terminando 21 años de falta de actualización en su conservación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "212f9e8cee74dbd8"
+ },
+ {
+  "titulo": "Senadora Olga Sosa demanda acciones legales por residuos de SpaceX",
+  "liga": "https://elcongresista.mx/tamaulipas/senadora-olga-sosa-residuos-spacex-matamoros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T17:22:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "La senadora Olga Sosa exige al Senado de México activar acciones legales por residuos de SpaceX en Matamoros que afectan el medio ambiente.",
+  "temas": [
+   "Política y partidos",
+   "Medio ambiente"
+  ],
+  "local": false,
+  "id": "afd3b6abd6e80e03"
+ },
+ {
+  "titulo": "Universidades advierten que sin financiamiento no funcionarán en 2027",
+  "liga": "https://elcongresista.mx/educacion/universidades-mexico-financiamiento-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T17:21:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Universidades de México advierten sobre su posible cierre en 2027 si no se ajusta el presupuesto adecuado para su financiamiento.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": false,
+  "id": "ee04a2dda9e2b960"
+ },
+ {
+  "titulo": "Destruyen en Tijuana más de mil armas de fuego y casi 93 mil cartuchos",
+  "liga": "https://jornadabc.com.mx/principales/destruyen-en-tijuana-mas-de-mil-armas-de-fuego-y-casi-93-mil-cartuchos/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-25T17:13:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "La ceremonia concluyó con un llamado al desarme bajo el mensaje: \"Sí al desarme, sí a la paz; menos armas, menos vidas perdidas\" La entrada Destruyen en Tijuana más de mil armas de fuego y casi 93 mil cartuchos se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2d4c379d3b8aa600"
+ },
+ {
+  "titulo": "Detienen a conductor por presunto intento de soborno durante operativo de alcoholímetro en Tijuana",
+  "liga": "https://www.uniradioinforma.com/policiaca/detienen-conductor-presunto-intento-soborno-durante-operativo-alcoholimetro-tijuana-n916301",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T17:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Durante un operativo de alcoholímetro, oficiales detectaron que el conductor de un Audi blanco circulaba con la licencia de conducir vencida.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "08af755873e5ff86"
+ },
+ {
+  "titulo": "Tras ser deportada a España, Inés Gómez Mont comparte misterioso mensaje sobre su caso",
+  "liga": "https://www.uniradioinforma.com/fama/tras-ser-deportada-espana-ines-gomez-mont-comparte-misterioso-mensaje-sobre-su-caso-n916299",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T17:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Después de tres años alejada del ojo público, y en medio del proceso legal en su contra, Inés Gómez Mont reapareció en redes sociales.",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "92cf7e291c713c0e"
+ },
+ {
+  "titulo": "Falta mucho por hacer para erradicar violencia contra mujeres: Campos García",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODAtb3JGSFhvbXFrNHpKQmxXRzZOVzBMVGw0TF9kbDNZLWJiV21LZzltZVp4dk01dEN4dXk2QmtNUWdPcmFpNzBQOXdaZ2JCVTNLM1FQb0xSZGgzSlNDVTcwb2EyVlQ4d1RUX0QtVkVuRXJGM09RbXdabER2VUhXY1pEZV9hSWlETDVXekhJVFVUSlJsbUt5MGxjdVlIam56bzliNkFFOGV1dnI1LUR1N3VfTUZxUFYzUkdvQy00Mnl0VVlZ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-25T17:04:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Falta mucho por hacer para erradicar violencia contra mujeres: Campos García AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "cbfcc4b554f1a7a2"
+ },
+ {
+  "titulo": "Galilea Montijo respalda a Inés Gómez Mont tras su salida de Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWG5yOTNMU0tBUHM5QXJibG1UMkx3amZlZDgzdF9JdW5CWjlQcV9lc1VObjVkSlF6N2NUNXhkZWdXTzhnQU5wZjRFVU50NFlUc1J4cjVoX0UyNXd2c3c4d1MxWFZHQ0ozMDBIeU5IQXlOR1NtV01VTmlCeUF3OFhaNExBRktWTWNIalEwaFd3Rzg4aWN6VDJTc2lka3I5OWRKS2JtbHZuaUQ5U0dsTHRMYmx6NU1jeWls?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T17:01:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Galilea Montijo respalda a Inés Gómez Mont tras su salida de Estados Unidos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d0f842236262b856"
+ },
+ {
+  "titulo": "Inicia Operaciones el Tribunal Violeta en Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTJZUHZMVWNURGthRTJWYXNHRFljcVBIRU5ESzlNVWlqTlFyS2dpa3BfU3lQbVZRbVVJQ1dmNEQyQWZDdHc5ZVdlSUJqeTc3TUctRWVEeGlqak1aUnVVa3pwdS1uXzJoc3NVbnAzSWs4QjR2S2NaMEpTQ1lIMTdkai1PS0c2c0FhVFdjbnFlUTlNcUpJNU5ZV1BJWWZSZ3lXQzZ0YXdFWEFMVGp0XzhyVzAtNUhDOEY4SFRXdm9KNWxwSUdvWmc?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-25T16:59:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Inicia Operaciones el Tribunal Violeta en Baja California N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "38f6b688f750b4d3"
+ },
+ {
+  "titulo": "Fumigarán contra el dengue en Zamora, La Peaña y Plan de Ayala",
+  "liga": "https://www.uniradioinforma.com/gobierno/fumigaran-dengue-zamora-peana-plan-ayala-n916296",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T16:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "También se fumigarán las zonas de mayor riesgo en Bahía de Kino y Poblado Miguel Alemán.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "7951a3dbd498a197"
+ },
+ {
+  "titulo": "Tres hombres sufren sobredosis cuando tomaban cerveza en Tijuana",
+  "liga": "https://puntonorte.info/2026/11/25/tres-hombres-sufren-sobredosis-cuando-tomaban-cerveza-en-tijuana/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-25T16:55:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Tijuana.- Tres hombres que se encontraban bebiendo cerveza en una casa, sufrieron una sobredosis de drogas y quedaron inconscientes, por lo que fueron trasladados al hospital. Los hechos ocurrieron poco antes de las 3:00 de la mañana de hoy miércoles 25 de noviembre, afuera de un",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "0583fd530528e5c4"
+ },
+ {
+  "titulo": "Protesta silenciosa en Reynosa por el Día Internacional de la Mujer",
+  "liga": "https://elcongresista.mx/tamaulipas/protestas-silenciosas-dia-internacional-mujer-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T16:50:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "La AMPRAC realiza protesta silenciosa en Reynosa por el Día Internacional de la Mujer, demandando espacios seguros para las mujeres.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f18f60cb24d1777d"
+ },
+ {
+  "titulo": "Firman diputados del PAN pliego petitorio por la seguridad de las mujeres y niñas de México",
+  "liga": "https://www.uniradioinforma.com/gobierno/firman-diputados-pan-pliego-petitorio-seguridad-mujeres-ninas-mexico-n916294",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T16:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "El gobierno debe fortalecer sus programas de apoyo a este sector",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "c60c2abd76a41b2a"
+ },
+ {
+  "titulo": "Ferrioni: origen chilango y expansión exitosa en ropa y calzado",
+  "liga": "https://elcongresista.mx/politica/nacional/ferrioni-origen-chilango",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T16:48:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Ferrioni, marca mexicana, nació en el Centro Histórico en 1986 y ha crecido en moda y calzado con gran éxito.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "69f583493d15f32f"
+ },
+ {
+  "titulo": "La multa del SAT por venta de auto supera 7.6 millones de pesos",
+  "liga": "https://elcongresista.mx/vehicular/multa-sat-venta-auto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T16:47:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "La venta de autos en efectivo puede conllevar multas del SAT que superan los 7.6 millones de pesos si no se cumplen los límites establecidos.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b1932b43a1abf12e"
+ },
+ {
+  "titulo": "Telcel ofrecerá 300 MB y 500 MB como compensación por fallas",
+  "liga": "https://elcongresista.mx/politica/nacional/telcel-bonificacion-fallas-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T16:47:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Telcel ofrecerá 300 y 500 MB a usuarios como compensación por fallas en el servicio del 20 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6d3181079073c85a"
+ },
+ {
+  "titulo": "PAN plantea posible ausencia en la elección 2027 si INE mantiene criterios actuales",
+  "liga": "https://elcongresista.mx/politica/nacional/pan-eleccion-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T16:45:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Ricardo Anaya considera que el PAN podría no participar en la elección de 2027 si el INE mantiene criterios que benefician a Morena.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "5980e7016b33d312"
+ },
+ {
+  "titulo": "Suma Ismael Burgueño esfuerzos con transportistas para prevenir contingencias por lluvias",
+  "liga": "https://www.uniradioinforma.com/sociedad/suma-ismael-burgueno-esfuerzos-transportistas-prevenir-contingencias-lluvias-n916290",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T16:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "3ceefdd5afec523a"
+ },
+ {
+  "titulo": "Profeco compara precios de plataformas de streaming: ¿cuáles son las más económicas?",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjhvWUdvX0haTjdZSnNHLTFvU05PSnJuc0VtcDVacGxxQU1kS0h5dkFHOFplalo4XzhfY21UNTFDMDdUZlBtOVNoeEFLLV9IOExBYWlocS1HcFRnckd3dmpWazlQaFlLOHBNazlQUHc1d2JQdm9PRnFHbDdYcm9LSEprLVdXN0dDcXg4N09OeGI4T1pXclFpYVdqNGlfRl90elpEMWx5TEQ2ME9LdjdjTU1EM0M4T2c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T16:43:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Profeco compara precios de plataformas de streaming: ¿cuáles son las más económicas? Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "9a2537717d96fb84"
+ },
+ {
+  "titulo": "ENSENADA: Identifican a mujer hallada maniatada; desapareció el 1 de octubre",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3NielI1R2Ytc2ZxRE1GNEFXS3ZmcTd1Ung3N1NMNzNueGpSdElZY3FxaHVYSkpTVDNwajhzSEFnWjlFZ3ktNGlNU1oyWHNnOVhXeGhXR3hlWXdOZlV1QnpUQUJIekpXOE8tYkYyTG5famVLMUxEazdMRzc2SXpBTlNwTzFVRzNlWjhEdVhCR29SS290VFZUSm1iY3JpSzd2cVMzWDFySWNqNGIyTmNF?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T16:43:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "ENSENADA: Identifican a mujer hallada maniatada; desapareció el 1 de octubre Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "10063de581203ac4"
+ },
+ {
+  "titulo": "Baja Sur se volverá a quedar con la meta de la Baja 1000 en 2027",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2hpOUt2QjJ5R2FVaDVsUVZ2N3dPSGZ1NUxfY3gwdDVMbWk4NHM1OFMyRGZWUUt3OGVtVjFLbFZ1SnVHMEVJVjQzd1Q4c29wdFdMdFNSY1lMaGZvbVN2RnpJZlFZZU9QZG93SmtlS1U1Nk96NnBHODljaU5uUVhUc0VLcXZVZ3pWYm9rLWlBRlp6akw4b0NCdEp6TkNYUm4tTGFYbXFFbmVZMktwR1IySUtRU1loU1ZfU1pn?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-25T16:41:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Baja Sur se volverá a quedar con la meta de la Baja 1000 en 2027 El Sol de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2becf66ab01e2bdd"
+ },
+ {
+  "titulo": "Eleva Gobierno de Ensenada a estado de alerta permanente ante la intensidad del fenómeno de El Niño",
+  "liga": "https://www.uniradioinforma.com/gobierno/eleva-gobierno-ensenada-estado-alerta-permanente-intensidad-fenomeno-nino-n916288",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T16:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "La medida permitirá implementar acciones extraordinarias de prevención y mitigación, movilizar recursos municipales y agilizar la respuesta ante posibles emergencias.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "ad787137846c8f75"
+ },
+ {
+  "titulo": "Detienen a hombre en posesión de 290 gramos de heroína en la colonia La Pluma en Mexicali",
+  "liga": "https://www.uniradioinforma.com/policiaca/detienen-hombre-posesion-290-gramos-heroina-colonia-pluma-mexicali-n916286",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T16:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "El detenido fue identificado como Diego Abel \"N\", de 33 años y originario de Mexicali.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "71e0504413f19868"
+ },
+ {
+  "titulo": "Mueren seis integrantes de una familia tras desplomarse avioneta en el Golfo de México",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnV5Y0NydXVZRUVYTGhwaF9Eb3NRNENneVk1RWxhM190azdUMVVyamNyZGk4b25DOGRFWVE5Zm1kSUFmczlIWWxQX1FmMFphOEpEa0tCN0Y2VXBXN3NvMVlnUXFmRTZKRGlabDhPS3dNMEVCcEZjREdhT0QyMmQ3b19YNVJjalFDblhuMzkyOUFWVVo0OUZKVTJBd3JBVUJfZThISVJYaGZXcGNKSDdDWHNobHZESl9jTFlVZDBR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T16:38:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Mueren seis integrantes de una familia tras desplomarse avioneta en el Golfo de México Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "dbd3a57d6c39b2da"
+ },
+ {
+  "titulo": "Judicializan a 10 detenidos por narcóticos en Mundo Nuevo",
+  "liga": "https://elcongresista.mx/politica/sinaloa/judicializan-detenidos-narcoticos-mundo-nuevo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T16:36:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Autoridades judicializan a diez detenidos en Culiacán por narcóticos y violencia contra seguridad pública.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3d9889fbcde23a9c"
+ },
+ {
+  "titulo": "La Multisectorial La Plata marchó contra la violencia machista y reclamó justicia por los femicidios",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHdTTExXWmVoN3hON2d6N2VST2tzYmI3NUE1WkdCSk5XOHhFQU83Umw4aFhpcktUQlZBUUlCRk54MEpVLWpIVUVXeEVBZ1pFbW15aFlsM0V1Z0RRR3RIcWgwV1lNSE54V0UzODVlSF9Ob28ta1l6ZWdkWW1YTmZrRkpkRURYdHZ5T3BValdqQmt2WVpIMm12M1dnRHB5cUdpR1pISTVqeDNXTEhmZlpKM2dhR2czSDFod1puZEJEeS1QUTBsM1RRQzVWdC00bXh5elc00gHYAUFVX3lxTFBqZGlXaTF3VGUtNlZqc0p4SVF5Ni1FUGIyWTJZM29qUzNOYWM2QzBhN1VJMXN1VzNRWXRuSDBTTDBVcFRFRHBPYnRlUXhSNXB0cEltTEc4YmVENXd4bGQ3ZHF1ZHNkeHFnMVI1bmxRRnN6cXRDcXJxenN0d2hUN0J0d1ZrSEl5bnAzV0JhWUtHQ3piS1pNVlJvUHJjSlQ4TkxBcFlncmZDRXY5dU9wZjZHbEZ1NWY4bTBOZkVpeHYyenFDSmRaYWZSbURCTG14QU1NVXlzY0dWSg?oc=5",
+  "medio": "0221",
+  "publicada": "2026-11-25T16:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "La Multisectorial La Plata marchó contra la violencia machista y reclamó justicia por los femicidios 0221",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "bafb2b98667f5b09"
+ },
+ {
+  "titulo": "Rescatan a 12 perros y gatos que fueron dejados sin comida ni agua en una casa de Tijuana",
+  "liga": "https://puntonorte.info/2026/11/25/rescatan-a-12-perros-y-gatos-que-fueron-dejados-sin-comida-ni-agua-en-una-casa-de-tijuana/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-25T16:34:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Tijuana.- Un total de 12 animales, entre ellos tres perros adultos, ocho cachorros y un gato, fueron rescatados de una vivienda en la colonia Campestre Murúa, donde se encontraban sin acceso a comida ni agua y en condiciones insalubres. El rescate fue realizado por elementos de l",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "bbc7521a4d544c50"
+ },
+ {
+  "titulo": "Tipo de cambio se acerca a 20 pesos por dólar, riesgo de inflación",
+  "liga": "https://elcongresista.mx/politica/nacional/tipo-de-cambio-20-pesos-dolar-inflacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T16:34:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "El tipo de cambio se aproxima a 20 pesos por dólar, lo que podría elevar los precios de mercancías en México, advierten analistas.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c9e304d862f9a530"
+ },
+ {
+  "titulo": "Banorte Seguros presenta la póliza más económica en México a 11,263.63",
+  "liga": "https://elcongresista.mx/finanzas/banorte-seguros-policia-mas-barata-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T16:33:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Banorte Seguros es la opción más económica en seguros de auto en México con una póliza de 11,263.63 pesos, según Condusef.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "3fba9bc24be41ff7"
+ },
+ {
+  "titulo": "Deslizamiento en Sánchez Taboada Provoca Cierre de 40 Comercios en Tijuana, BC",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnZFUUk1aS1LVkotWTlMbVJTdXp4Yy0tVHVuN2J0OC1DMkxCamRJZHZuM3hZSWh6TnpGQkthMFpxNWU5c05tVDhkZVFfOVBISjluaXZ1N0pmam5RSVFyTUpYUFExQTVZeTNUd2NRUk12OE1YX2FCaXh3OXI2S2c1b1hCOHJWeWdGakQ0QlJrc3lwclNzSlVxOXFjaFdWNjE3dXpLZGlENXk2ZkNhaFdwVUc4bHctYkhZNFd4SXNiQnExVUIzbXc?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-25T16:33:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Deslizamiento en Sánchez Taboada Provoca Cierre de 40 Comercios en Tijuana, BC N+",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ad9f14cbfd782433"
+ },
+ {
   "titulo": "Concanaco propone reducir el impuesto a la nómina hasta 50% para 2027",
   "liga": "https://elcongresista.mx/politica/nacional/concanaco-reduce-impuesto-nomina-2027",
   "medio": "El Congresista",
@@ -57,6 +511,20 @@
   "id": "02950be85e89e26e"
  },
  {
+  "titulo": "Brad Pitt y Angelina Jolie ponen fin a disputa legal por la bodega Château Miraval tras llegar a acuerdo",
+  "liga": "https://www.uniradioinforma.com/fama/brad-pitt-angelina-jolie-ponen-fin-disputa-legal-bodega-chteau-miraval-tras-llegar-acuerdo-n916282",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T16:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Ambas partes alcanzaron un acuerdo extrajudicial y solicitaron retirar las demandas que mantenían entre sí; además, pidieron no dar crédito a versiones atribuidas a fuentes cercanas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2b2a84c938057304"
+ },
+ {
   "titulo": "Vendaval causa daños en el Autódromo Internacional Zilmar Beux",
   "liga": "https://elcongresista.mx/vehicular/vendaval-danos-autodromo-zilmar-beux",
   "medio": "El Congresista",
@@ -112,6 +580,20 @@
   ],
   "local": false,
   "id": "1811ab213a35bbfe"
+ },
+ {
+  "titulo": "Presidente del Tribunal de Baja California niega revocación de visa de EU y descarta renunciar",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWRfNXRrcE1pQlNidTJadFFWNzZ1aFhvVG5sQzdya1kwTVh6WWFYYXNrN2N5eDE1bmc3ZlFKMW9jMEFNOGFqNkRwUEpXM01NWDU1cVVPRVRwSG5vZWNRN3dOWm9BWlk1UG5YRHBBalI4dlNxVGFOdWszWFRicGltUE1qNFNVTVJ4ajdVVjYzd1ZYR1BBNXllZEllMV9HQdIBngFBVV95cUxPVWRfNXRrcE1pQlNidTJadFFWNzZ1aFhvVG5sQzdya1kwTVh6WWFYYXNrN2N5eDE1bmc3ZlFKMW9jMEFNOGFqNkRwUEpXM01NWDU1cVVPRVRwSG5vZWNRN3dOWm9BWlk1UG5YRHBBalI4dlNxVGFOdWszWFRicGltUE1qNFNVTVJ4ajdVVjYzd1ZYR1BBNXllZEllMV9HQQ?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-25T16:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "Presidente del Tribunal de Baja California niega revocación de visa de EU y descarta renunciar Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2b5644c6a6ea7571"
  },
  {
   "titulo": "Enrique Galindo reta a Manuel Velasco a debatir en el Senado",
@@ -2904,6 +3386,20 @@
   "id": "9e06d3cfb40e70b7"
  },
  {
+  "titulo": "Los Padres de San Diego firman a JoJo Romero en la agencia libre",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/los-padres-de-san-diego-firman-a-jojo-romero-en-la-agencia-libre-33311605",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-25T12:01:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "El relevista zurdo llega con contrato por 3 años y 21 millones de dólares.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "085d94b08a46078f"
+ },
+ {
   "titulo": "Sheinbaum afirma que no se justificará intervención tras acuerdo OEA",
   "liga": "https://elcongresista.mx/justicia/sheinbaum-intervencion-oea",
   "medio": "El Congresista",
@@ -2944,6 +3440,20 @@
   ],
   "local": false,
   "id": "70e5075e65d4781e"
+ },
+ {
+  "titulo": "Esperan hasta 10 mil visitantes en la Doceava Edición de la Expo Dátil del Ejido Jalapa",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/esperan-hasta-10-mil-visitantes-en-la-doceava-edicion-de-la-expo-datil-del-ejido-jalapa-33311423",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-25T11:56:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "No es una feria cualquiera, sino que es un reencuentro de familiares y amigos que emigraron hacia Estados Unidos y que hoy llegan con los nietos y que en algunas ocasiones se vuelven a ver después de muchos años",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "5b6a5bdbaf9ec4a1"
  },
  {
   "titulo": "Sheinbaum: “nunca se descongelaron” las cuentas bancarias de Rocha Moya",
@@ -3118,6 +3628,20 @@
   "id": "e7fd003850656603"
  },
  {
+  "titulo": "Seis participantes competirán por la corona de Mexicana Universal Baja California 2026",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/seis-participantes-competiran-por-la-corona-de-mexicana-universal-baja-california-2026-33297035",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-25T11:42:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "La ganadora representará a Baja California en el certamen nacional, tras una preparación en oratoria, manejo de medios, expresión escénica y proyectos con impacto comunitario.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d8bba322d1f25a7e"
+ },
+ {
   "titulo": "Policía estatal muerto en Puebla, cateo al sur de la capital",
   "liga": "https://elcongresista.mx/politica/puebla/cateo-puebla-asesinato-policia-estatal",
   "medio": "El Congresista",
@@ -3204,6 +3728,20 @@
   ],
   "local": false,
   "id": "7fc5a4f664c84af0"
+ },
+ {
+  "titulo": "¿Te imaginas un sticker con sonido? WhatsApp ya tiene esta función",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2Q3ZkhydkcyTFQ4blFkSlc3aGxBQ1Z6U0VpMklYYkVhUEg1VE5odlVVOG5aZ09uRzVLVDNqWE5JNElfdUE5ck5TOENRT0VJT3RhalBEalVUU1MyaGhjdEViZk9PWkFjTWU2U0IySDZFTGpFWmw2NC12blFzaHVtcHBlYkRxcTJtUVBMSnE3ejVlWktlR0Zqb0NBd3N4aFVQbW5GMXgxdDRUTUNHV0o4dQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T11:29:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T17:28:00-06:00",
+  "resumen": "¿Te imaginas un sticker con sonido? WhatsApp ya tiene esta función Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ddd969e2abc68ed4"
  },
  {
   "titulo": "Elenco de Avengers: Doomsday aparece en la portada en movimiento de Entertainment Weekly",
