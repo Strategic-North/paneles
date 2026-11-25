@@ -1,5 +1,476 @@
 [
  {
+  "titulo": "Ramón Vázquez se reúne con vecinos de Hacienda de San Martín para hablar sobre soberanía y transformación",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUDRVUzJfU3NCVU5DVkxSUldVT3dRTEtUVWJkYVFtNWwzN3BLM0t2UWJ2ZjE1OV93VzdSSXFsTFJ3SHVEekVCcGItRmxDVUJaQ09OelNqSGM2VWxuV3c1alV1WmV6bVlfc0FaeWw2VEdLTEI4WjFHV0xQRFpOa3ktQlQtbEEyQWczNFRSeXBnNHhrOXdDdU1zSk1wRm8wVlNTN29FMEE1X1ZkMW9sWnhnUzF1TUZLSXBwaWRKcFNtOFVWRHE0ZmhjTlBWa3BHX0RxVGlNRDhxTks?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T12:18:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Ramón Vázquez se reúne con vecinos de Hacienda de San Martín para hablar sobre soberanía y transformación Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c5422a9085c388bc"
+ },
+ {
+  "titulo": "Sectur Michoacán no instalará pista de hielo en la Villa Navideña",
+  "liga": "https://elcongresista.mx/politica/michoacan/sectur-michoacan-no-habra-pista-hielo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T12:15:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Michoacán no instalará pista de hielo en la Villa Navideña por falta de recursos, según Sectur. Inauguración programada para el 11 de diciembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2e729368fc91fa75"
+ },
+ {
+  "titulo": "Detienen a hombre que dejó de pagar la pensión alimenticia de su hija",
+  "liga": "https://puntonorte.info/2026/11/25/detienen-a-hombre-que-dejo-de-pagar-la-pension-alimenticia-de-su-hija/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-25T12:12:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Tijuana.- Un hombre identificado como Antonio fue detenido en Tijuana por presuntamente incumplir con el pago de la pensión alimenticia y otros gastos establecidos para el bienestar de su hija menor de edad. La Fiscalía General del Estado (FGE) informó que la detención se realizó",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b7dccfe8f1a236d4"
+ },
+ {
+  "titulo": "Liga de béisbol de La Mesa solicita amparo contra desalojo de sus campos",
+  "liga": "https://zetatijuana.com/2026/11/liga-de-beisbol-de-la-mesa-solicita-amparo-contra-desalojo-de-sus-campos/?utm_source=rss&utm_medium=rss&utm_campaign=liga-de-beisbol-de-la-mesa-solicita-amparo-contra-desalojo-de-sus-campos",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-25T12:09:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "La liga amateur teme el desmantelamiento de su infraestructura y el lanzamiento por parte de las autoridades. Por lo pronto continúan programadas las actividades deportivas",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "2958069747c23e68"
+ },
+ {
+  "titulo": "Conmemoran el Día Internacional de la Eliminación de la Violencia contra las Mujeres",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDktRFp5dGJWYzdUaGg3cWV6UC1Pc1BaT3RtUHF1bFE0emoyLThHZXV0Yl94VE5EVzRWWGdwWWZUUlFabTUwNEJINUtyZWRvLTV4U2xvM092VGFkQXQ1czd1ZllNNDh3NW9hdkEtcl8tQjNxdkF4aEVacWV0MlRJclllNTR2LVcyeFJWZ08xdmw5TEJYdGZiLVEtY0R0OHZOSUt0ZnQ4SXRScjR2aHNrOHJwRjlON3lsQzV3bnJGczdkcVdG?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-25T12:05:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Conmemoran el Día Internacional de la Eliminación de la Violencia contra las Mujeres AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "5a360011c398062b"
+ },
+ {
+  "titulo": "El legado familiar en el Consejo Mundial de Boxeo resalta experiencias y valores",
+  "liga": "https://elcongresista.mx/politica/nacional/legado-familia-wbc",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T12:05:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "En la Convención 64 del WBC, se celebró el valor de la familia como pilar fundamental del boxeo.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0241def39cf7514d"
+ },
+ {
+  "titulo": "Michoacán: 12 mujeres víctimas de lesiones dolosas cada día",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-12-mujeres-victimas-lesiones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T12:03:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "En Michoacán, 12 mujeres son víctimas de lesiones dolosas al día, superando la media nacional de este delito, según el SESNSP.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b0b8ba8d38727e6b"
+ },
+ {
+  "titulo": "Sheinbaum busca expandir cooperación científica con China",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-cooperacion-cientifica-china",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T12:02:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum busca fortalecer la cooperación científica y comercial con China tras su reciente visita, destacando la importancia del país asiático.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "98fac2ee9f06a259"
+ },
+ {
+  "titulo": "Ejecutan a hombre afuera de su casa en Buenos Aires Norte",
+  "liga": "https://zetatijuana.com/2026/11/ejecutan-a-hombre-afuera-de-su-casa-en-buenos-aires-norte/?utm_source=rss&utm_medium=rss&utm_campaign=ejecutan-a-hombre-afuera-de-su-casa-en-buenos-aires-norte",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-25T12:02:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Un hombre de 53 años fue ejecutado mientras reparaba su vehículo afuera de su domicilio, en la colonia Buenos Aires Norte, en Tijuana. La víctima recibió varios impactos de bala; autoridades localizaron cuatro casquillos calibre 9 milímetros.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "749fe327afd9ca06"
+ },
+ {
+  "titulo": "Gaseros suspenden bloqueos tras acuerdo con el gobierno federal",
+  "liga": "https://elcongresista.mx/politica/nacional/gaseros-suspenden-bloqueos-acuerdo-gobierno",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T12:01:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "El Gremio Gasero Nacional suspende bloqueos tras diálogo con el Gobierno Federal para atender demandas urgentes.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9e06d3cfb40e70b7"
+ },
+ {
+  "titulo": "Sheinbaum afirma que no se justificará intervención tras acuerdo OEA",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-intervencion-oea",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T12:01:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum afirma que no permitirá intervenciones extranjeras en México tras acuerdo de la OEA.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "18123d529cee33a6"
+ },
+ {
+  "titulo": "Con talento tijuanense, México conquista el subcampeonato de la Copa América de Futbol 7 en Brasil",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRkJ5QWt3aWZUNG40SDBwNXZLYmMyOXpKQ2ZtanpNNTRfRTNLUEJwaW9nQ1dIN2M4aUlWWWNRb09MaU1BNU9zTm4zbnBwdXJOcU5tSGM0cUlfVlJRdkdIVk9WZE5KTUd6VFpIX3pSVUN5NkI2T2ZkbWJQaUh0eUJlend2M0M3NEZFVjdJd216ZElSS0NqYzFzbUV1dUhCX0dUemJBT1dwZnRxX2lDOXNPNklrWUpCSGxFY3NzLWxZenUwb2RISGx4bFF6NVI?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T11:59:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Con talento tijuanense, México conquista el subcampeonato de la Copa América de Futbol 7 en Brasil Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "70e5075e65d4781e"
+ },
+ {
+  "titulo": "Sheinbaum: “nunca se descongelaron” las cuentas bancarias de Rocha Moya",
+  "liga": "https://jornadabc.com.mx/02_secundarias/sheinbaum-nunca-se-descongelaron-las-cuentas-bancarias-de-rocha-moya/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-25T11:52:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "El ex mandatario señalado de nexos con el narcotráfico pidió poder acceder a su pensión La entrada Sheinbaum: “nunca se descongelaron” las cuentas bancarias de Rocha Moya se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4042236180a2a839"
+ },
+ {
+  "titulo": "Protección Civil emite alerta por llegada de tormenta invernal",
+  "liga": "https://elcongresista.mx/politica/nacional/proteccion-civil-alerta-tormenta-invernal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:51:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Protección Civil emite alerta por la llegada de tormenta invernal que provocará nevadas y lluvias intensas en diversas regiones de México.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "aae6e08061a26649"
+ },
+ {
+  "titulo": "Seis estados aún sin armonizar leyes sobre abuso sexual; reunión el 30 de noviembre",
+  "liga": "https://elcongresista.mx/justicia/seis-estados-sin-armonizar-leyes-abuso-sexual",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:50:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Seis estados no han armonizado sus leyes sobre abuso sexual a más de ocho meses de la reforma; reunión programada para el 30 de noviembre.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "84f4ab2defcd31b8"
+ },
+ {
+  "titulo": "No habrá 7-Eleven en el parque del Faro de Playas: Burgueño frena la obra e investigará a funcionarios",
+  "liga": "https://www.uniradioinforma.com/sociedad/no-habra-7-eleven-parque-faro-playas-burgueno-frena-obra-e-investigara-funcionarios-n916194",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "El predio de 936 metros cuadrados figuraba como parque en documentos municipales de 2016 y 2019.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "a994c1d4166b329c"
+ },
+ {
+  "titulo": "Tijuana cerrará noviembre con calor e iniciará diciembre con lluvias",
+  "liga": "https://puntonorte.info/2026/11/25/tijuana-cerrara-noviembre-con-calor-e-iniciara-diciembre-con-lluvias/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-25T11:48:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Tijuana.- Luego de varias jornadas de días frescos, habrá un repunte en las temperaturas en esta última semana de noviembre, cuando el termómetro alcanzará nuevamente hasta 28 grados centígrados. Hoy miércoles 25 de noviembre seguirán las temperaturas templadas de hasta 24 grados",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "7b9e25b2fef2523b"
+ },
+ {
+  "titulo": "El PIB de México crece 60% en seis años y llega a 38.4 billones.",
+  "liga": "https://elcongresista.mx/economia/pib-mexico-crece-60",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:48:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "El PIB de México creció 60% desde 2018, alcanzando 38.4 billones de pesos y estableciendo un récord en el PIB per cápita.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "4ed549fbff5dc8c6"
+ },
+ {
+  "titulo": "Christian Nodal aclara que no se retira de la música tras despedida",
+  "liga": "https://elcongresista.mx/politica/nacional/christian-nodal-no-retirada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:47:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Christian Nodal no se retira de la música y continuará con sus compromisos internacionales, aclara Alex Rodríguez.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8656b3bc932ef45a"
+ },
+ {
+  "titulo": "Sheinbaum: México enviará nota diplomática a EU por permitir que Gómez Mont partiera a España",
+  "liga": "https://jornadabc.com.mx/principales/sheinbaum-mexico-enviara-nota-diplomatica-a-eu-por-permitir-que-gomez-mont-partiera-a-espana/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-25T11:47:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "La mandataria, Claudia Sheinbaum, sostuvo que su gobierno tiene “una queja muy relevante contra Interpol” porque en septiembre retiró a Gómez Mont y a su esposo Víctor Manuel Álvarez Puga la ficha roja La entrada Sheinbaum: México enviará nota diplomática a EU por permitir que Gó",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7971cb7daaacecc2"
+ },
+ {
+  "titulo": "Flamencos rosas proliferan en humedales de Progreso, Yucatán",
+  "liga": "https://elcongresista.mx/politica/yucatan/flamencos-rosas-progreso-yucatan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:46:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "El flamenco rosa encuentra refugio en los humedales de Progreso, destacando su relevancia ecológica y su potencial turístico.",
+  "temas": [
+   "Medio ambiente",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c453ce1d1bc03308"
+ },
+ {
+  "titulo": "Toros de Tijuana conoce su calendario para la temporada 2027",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzJ1T2Mwbk9nbk5VYWdzbFBrN0J1aVBEOGl6LWlNaDVHR1BxMk4xRTI2QnJmNFJiOGttRnd6UlVnTVNCclEtRUZWR3RRWDY1c2JzSUk0aHR0cG1BQWQyQ1BYVEJsUGYyWG1uLUlkRDBtN1FrRUJ1TTVuQTV2TmN1UDZlRlVwVW96Tm55Q3BOMng5SGhNUjN3UGpTNA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T11:44:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Toros de Tijuana conoce su calendario para la temporada 2027 Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "902edbbda44c8641"
+ },
+ {
+  "titulo": "Publican precios de referencia para importar tractocamiones usados",
+  "liga": "https://www.uniradioinforma.com/negocios/publican-precios-referencia-importar-tractocamiones-usados-n916192",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Esta medida representa un avance para combatir las prácticas de subvaluación en las operaciones de comercio exterior.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "e7fd003850656603"
+ },
+ {
+  "titulo": "Policía estatal muerto en Puebla, cateo al sur de la capital",
+  "liga": "https://elcongresista.mx/politica/puebla/cateo-puebla-asesinato-policia-estatal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:37:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Se realiza un cateo en Puebla relacionado con el asesinato de un policía estatal ocurrido en octubre.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "384592181f66d836"
+ },
+ {
+  "titulo": "Regresa Expo Navidad en Globo a Altamira con desfile y colecta de pañales",
+  "liga": "https://elcongresista.mx/tamaulipas/expo-navidad-en-globo-altamira-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:36:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "La Expo Navidad en Globo regresa a Altamira el 4 y 5 de diciembre con un desfile y una colecta de pañales para el DIF local.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b7d2e12a66aac7ac"
+ },
+ {
+  "titulo": "Mérida refuerza cultura vial tras 218 muertes por accidentes",
+  "liga": "https://elcongresista.mx/politica/yucatan/merida-cultura-vial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:35:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Mérida lanza campaña de cultura vial tras 218 muertes por accidentes de tránsito, busca concientizar a los conductores.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d14bed870c96f42b"
+ },
+ {
+  "titulo": "Playa del Carmen: inauguran primer parque de Parquemanía en Villamar 1",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/playa-del-carmen-parque-villamar-1-inauguracion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:33:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Estefanía Mercado inaugura el primer parque de Parquemanía en Playa del Carmen, con una inversión de 2.5 millones de pesos para 6 mil beneficiarios.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "09ab5622907f242f"
+ },
+ {
+  "titulo": "Realiza CECyTE BC su primer Torneo de Debate ¨Voces que Transforman",
+  "liga": "https://www.uniradioinforma.com/sociedad/realiza-cecyte-bc-su-primer-torneo-debate-voces-transforman-n916189",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Cuarenta estudiantes de ocho planteles debatieron sobre problemáticas sociales contemporáneas, fortaleciendo su argumentación formal, investigación documental y tolerancia.",
+  "temas": [
+   "Educación",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "b3edaaf465084e38"
+ },
+ {
+  "titulo": "Peso mexicano cae 1.82% y alcanza 19.77 por dólar",
+  "liga": "https://elcongresista.mx/finanzas/peso-mexicano-se-deprecia-1-82-por-cotiza-19-77",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T11:32:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "El peso alcanza 19.77 por dólar, marcando una caída del 1.82% en medio de turbulencias financieras.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "7fc5a4f664c84af0"
+ },
+ {
+  "titulo": "Elenco de Avengers: Doomsday aparece en la portada en movimiento de Entertainment Weekly",
+  "liga": "https://www.uniradioinforma.com/fama/elenco-avengers-doomsday-aparece-portada-movimiento-entertainment-weekly-n916187",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:29:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "187df214af3e52ea"
+ },
+ {
+  "titulo": "Thomas Markle, padre de Meghan, es acusado formalmente en California por dos cargos federales de posesión de material de abuso sexual infantil",
+  "liga": "https://www.uniradioinforma.com/fama/thomas-markle-padre-meghan-acusado-formalmente-california-dos-cargos-federales-posesion-material-abuso-sexual-infantil-n916184",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:26:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1c595afd4b9e40d7"
+ },
+ {
+  "titulo": "Piden identificar señales de alerta y violencia en relaciones de pareja",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQllTLXVCdHZWV184MzIxckNQeUZUbmxIcDlOYVFSQ1loMXFrVUpTZUlaUzR0VDBacnNuUnU0Vmh0QTdYQ19FLTZ2MFlCQXF0TzV6M0Z6eVhxajdtUy1STWVNaEFKbFlOR2M1cFB1di1ycHV3RURtNGw1M25ZMlRGSWZzSEZlb1cyUFp3M25iZk9sOU9tWEdocU1EQlRfclZSaVVScW40YWJDeXFXUDVVWWt3?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-25T11:25:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Piden identificar señales de alerta y violencia en relaciones de pareja AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a914e5437d74e227"
+ },
+ {
+  "titulo": "México frenó extradiciones",
+  "liga": "https://zetatijuana.com/2026/11/mexico-freno-extradiciones/?utm_source=rss&utm_medium=rss&utm_campaign=mexico-freno-extradiciones",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-25T11:25:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Extradiciones enviadas por México descendieron a 45 durante 2026, incluidos 37 entregados en enero. Otros 30 objetivos son deseo del Gobierno de EEUU. Sin resolverse petición sobre Rubén Rocha",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d64bf2168e3d2dd5"
+ },
+ {
   "titulo": "Tijuana: alcalde promete frenar construcción de tienda en área verde",
   "liga": "https://elcongresista.mx/politica/baja-california/tijuana-alcalde-frena-construccion-tienda-area-verde",
   "medio": "El Congresista",
@@ -42,6 +513,21 @@
   ],
   "local": false,
   "id": "c68ae5953e8b1ad5"
+ },
+ {
+  "titulo": "Rinde cuentas secretaría general de gobierno por el 5º informe de gobierno ante el congreso del estado",
+  "liga": "https://www.uniradioinforma.com/gobierno/rinde-cuentas-secretaria-general-gobierno-5-informe-gobierno-congreso-estado-n916181",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T11:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Con diálogo territorial y certeza jurídica, la dependencia consolidó avances históricos en gobernabilidad, derechos humanos, justicia para las mujeres, protección civil y atención integral a grupos prioritarios.",
+  "temas": [
+   "Gobierno del estado",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "5911e5145558c445"
  },
  {
   "titulo": "Playa del Carmen: concluyen construcción del parque Villamar 1 con 2.5 mdp.",
@@ -1412,6 +1898,20 @@
   "id": "98a5212c61f069f8"
  },
  {
+  "titulo": "Ensenada: tres delincuentes quedaron filmados cuando intentaban robar una moto en Calzeta y Jerez",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWDdjYmQ5WmpaelMwZlVvUXZuNDdDS2ZDNk56ejRFeVpFLVZLTlRUQXNtcUZTeEttcmJveUlrNC1hclprOG5kUnZvVzBjUmtOMVgwajh6dWotMzJXdndrSHZibzNhMG5fUXNjVU5yQ0VrOWdwTzdlbFV4Y0tXZGN4MHh4ZEdkZzBVTFJJM0FlQWdhT3BDVjlaX1hCTWxQT0JHY2N5RVZpbmhCUm12MmhHN0VROUFrN1BvdDRkS3VYWndKeG1QbkhBd1hKT1M?oc=5",
+  "medio": "Labuenainfo",
+  "publicada": "2026-11-25T08:40:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Ensenada: tres delincuentes quedaron filmados cuando intentaban robar una moto en Calzeta y Jerez Labuenainfo",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a621e695189b7efe"
+ },
+ {
   "titulo": "INE abrirá al debate público la fórmula de asignación de legisladores plurinominales",
   "liga": "https://jornadabc.com.mx/02_secundarias/ine-abrira-al-debate-publico-la-formula-de-asignacion-de-legisladores-plurinominales/",
   "medio": "La Jornada Baja California",
@@ -2002,6 +2502,20 @@
   ],
   "local": false,
   "id": "014a0005622d1520"
+ },
+ {
+  "titulo": "Reafirma Alejandro Fragoso López contar con su visa",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/reafirma-alejandro-fragoso-lopez-contar-con-su-visa-33305448",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-25T06:51:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T12:21:55-06:00",
+  "resumen": "Hace dos semanas, se había informado en un medio de comunicación sobre el supuesto retiro del documento al funcionario",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8e94e759a98575ad"
  },
  {
   "titulo": "Movimiento Ciudadano posiciona a Colosio en Sonora y a García en la Cámara",
