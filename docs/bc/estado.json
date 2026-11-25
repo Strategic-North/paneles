@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-24T23:18-06:00",
+ "actualizado": "2026-11-25T00:31-06:00",
  "corte": "2026-11-25",
  "ventana": [
   "2026-11-24T18:30-06:00",
   "2026-11-25T18:30-06:00"
  ],
- "total": 175,
+ "total": 201,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 48
+   "notas": 46
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
@@ -116,7 +116,7 @@
   {
    "fuente": "Google News: Ensenada policías municipales detenidos",
    "ok": true,
-   "notas": 6
+   "notas": 7
   },
   {
    "fuente": "Google News: Ayuntamiento de Ensenada deslinda",
@@ -126,7 +126,7 @@
   {
    "fuente": "Google News: Ensenada (detenido OR detienen) funcionario",
    "ok": true,
-   "notas": 1
+   "notas": 2
   }
  ]
 }
