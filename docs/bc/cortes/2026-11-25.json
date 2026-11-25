@@ -1,5 +1,652 @@
 [
  {
+  "titulo": "Estudiantes de INACAP Rancagua desarrollan videojuego sobre desastres.",
+  "liga": "https://elcongresista.mx/educacion/estudiantes-inacap-rancagua-videojuego-desastres",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:34:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Estudiantes de INACAP Rancagua crean un videojuego para enseñar sobre prevención de desastres naturales en O’Higgins.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "19d8c89c459b4cce"
+ },
+ {
+  "titulo": "Refuerzan vigilancia fitosanitaria del aguacate en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/vigilancia-fitosanitaria-aguacate-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:32:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La Sader de Michoacán implementa medidas de vigilancia fitosanitaria para garantizar la sanidad del aguacate.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b7b151b6df5fb12a"
+ },
+ {
+  "titulo": "Invitan a taller de regulación emocional para familias de niños con autismo",
+  "liga": "https://puntonorte.info/2026/11/24/invitan-a-taller-de-regulacion-emocional-para-familias-de-ninos-con-autismo/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-24T20:31:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Tijuana.- La organización Crianza Bajo Cero invita a familias de niñas y niños con autismo, cuidadores y personas interesadas en el bienestar emocional a participar en un taller con espacios gratuitos, que se llevará a cabo el próximo domingo 29 de noviembre en Tijuana. Daniela M",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "052f9ebd12fd896a"
+ },
+ {
+  "titulo": "Hugo Aguilar busca que el Congreso defina mecanismo para presidencia de la Corte",
+  "liga": "https://elcongresista.mx/justicia/hugo-aguilar-congreso-presidencia-corte",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:31:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Hugo Aguilar solicita al Congreso que aclare el mecanismo para elegir al presidente de la SCJN, buscando reformar la Ley Orgánica del Poder Judicial.",
+  "temas": [
+   "Gobierno del estado",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "644c98adcce0250f"
+ },
+ {
+  "titulo": "Detectan a Falsos Inspectores Municipales en Tijuana, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHllTUk1ekdZdmlJSnFsTEZTYmNIVUF4anBSZi1WcHNkU0Vlb0laTGJyMzFZUXZUQnBpc3gtVmNUeEVPN0lJclRiOVFxc3lYYjI5dVVDUnRtaUJuRXlfM3NHZzVJMWlEcDFpMnBYaWJHU1JUbXlBWXpRdUxlNmxablEzbTVURFdzcTBmMUZJS2hnWk05eXJTUDJUblc4RW4yZk9tdjRUbS1rZk5ZcGJsaS1tRDZDb1g0bDJj?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-24T20:30:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Detectan a Falsos Inspectores Municipales en Tijuana, Baja California N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1bcfb4f036b1b11c"
+ },
+ {
+  "titulo": "DIF Tecate presentará su segundo informe de resultados este miércoles",
+  "liga": "https://elportavoznoticias.com.mx/dif-tecate-presentara-su-segundo-informe-de-resultados-este-miercoles/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-24T20:30:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El Sistema para el Desarrollo Integral de la Familia (DIF) Municipal de Tecate invitó a las familias y a los medios de comunicación a asistir a la presentación de su Segundo Informe... La entrada DIF Tecate presentará su segundo informe de resultados este miércoles se publicó pri",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "b20429f9c722f4c0"
+ },
+ {
+  "titulo": "El Salitral en riesgo latente por aumento de mareas en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPV0ZHdnc5Vi1fUE5ZT1VES0xzcTF3dE1ySElBQW9NWVRpSzlpOEJBS1JVUWJkUWtIUEtHakpFUk94cFZtTnhJeXVkNGJYa0FNbnR0bWtNeklhSFE?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-24T20:28:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El Salitral en riesgo latente por aumento de mareas en Ensenada Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "206cf6083f2f3761"
+ },
+ {
+  "titulo": "Burgueño frena proyecto de Seven Eleven en área verde de Playas y revisará permisos",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmtSdW5tbFNRY2hWQ1kyUW9TVnR1RGFTZ3dFQVlLSHlUNmFXVnVLczV2cXF1WUFkUlNjRE5oT0IxQ2hFQzYtV0RoVWxteFlYRG5Ic2dSeHUwQUNJV0x6NGQzZS0tSHo3Q1g0c2tKVENQRXFlWUtTWE9RT2s5ci1nSzNPend2OWZ4U2hGSjhvdzkwWUZFSVUzVFd4bnRJNUhwWWhLZDBlc3lCVTZISmE1UW9zZmp1TGRTRENN?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T20:22:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Burgueño frena proyecto de Seven Eleven en área verde de Playas y revisará permisos Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f6734b01d698aae1"
+ },
+ {
+  "titulo": "Antonio Mohamed dejará al Toluca tras Liguilla y Copa Intercontinental",
+  "liga": "https://elcongresista.mx/estado-de-mexico/antonio-mohamed-dejara-toluca-liguilla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:20:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Antonio Mohamed dejará al Toluca tras la Liguilla y la Copa Intercontinental, confirmando el fin de su ciclo en el club.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "79a6d19c44811f1d"
+ },
+ {
+  "titulo": "SET recomienda precauciones por bajas temperaturas en Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/set-recomienda-bajas-temperaturas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:20:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La SET de Tamaulipas emite recomendaciones a padres para proteger a estudiantes ante el frente frío número 8.",
+  "temas": [
+   "Clima",
+   "Educación"
+  ],
+  "local": false,
+  "id": "da0da84e1951ad7a"
+ },
+ {
+  "titulo": "UTM y Varel firman convenio para beneficiar a miles de estudiantes",
+  "liga": "https://elcongresista.mx/tamaulipas/utm-convenio-varel-matamoros",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:19:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "UTM y Varel firman un convenio que beneficiará a estudiantes en su formación profesional en Matamoros.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "126fc0a63684fd73"
+ },
+ {
+  "titulo": "Mujer queda en prisión preventiva por allanamiento",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzVHNTUzZMc044bm1TamJLQThubWJVUEpGYmdkVzhtM2tvQkc1bktQRFBWZjBRWFYtNGNmVjRLbHUwSFRkRzlzMXJSNGJJUDlGaE5CTEVnbVBoU0VNY1ZNVjNpVTk1SXVERURESHZR?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-24T20:18:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Mujer queda en prisión preventiva por allanamiento Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cccf36947874d4a1"
+ },
+ {
+  "titulo": "Materia fecal en Río Tijuana supera 245,000% de lo permitido",
+  "liga": "https://elcongresista.mx/politica/baja-california/materia-fecal-rio-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:17:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Estudio revela que el río Tijuana tiene un 245,000% de materia fecal más de lo permitido, alertando sobre un grave problema de salud pública.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "60739bb8bc313363"
+ },
+ {
+  "titulo": "Ismael Burgueño garantiza que no habrá 7 Eleven en Playas de Tijuana",
+  "liga": "https://elcongresista.mx/politica/baja-california/burlador-7-eleven-playas-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:15:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Ismael Burgueño, alcalde de Tijuana, garantiza que no se construirá 7 Eleven en área verde de Playas de Tijuana y promete mantener informados a los ciudadanos.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "707b9d0387dd5d33"
+ },
+ {
+  "titulo": "Garantiza Ismael Burgueño protección de área verde en Playas de Tijuana ante proyecto comercial",
+  "liga": "https://www.uniradioinforma.com/gobierno/garantiza-ismael-burgueno-proteccion-area-verde-playas-tijuana-proyecto-comercial-n916114",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T20:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El alcalde respaldó a los vecinos inconformes con la construcción de un Seven Eleven y aseguró que se protegerán las áreas verdes de la ciudad.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "de6f3d388d0f898d"
+ },
+ {
+  "titulo": "Magisterio NL exige atención al déficit médico de 70 mil docentes",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/magisterio-nuevo-leon-deficit-medico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:06:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El magisterio de Nuevo León exige atención por déficit médico que afecta a más de 70 mil derechohabientes en un congreso reciente.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a70d23e8db594cfe"
+ },
+ {
+  "titulo": "TIJUANA: Entrega Antorcha Campesina solicitudes de obras y servicios al Ayuntamiento",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1B1anhnOVU0MDE4aHRPcUxyNmRFeEUyZ2dxRWUxZDFqOG04VDJMVUxYRTRBbnBGaEdOUHU4ZklSM3paYXdTSzRPV2VoUmFlNGY0ZUxpMzBkbEEtdGJWY2s3enlTSVF2Ty1fU19NUFgwZjE3ZlV5WmRxMWcxT1VIUzBSczdMeDZNc3FNVTBrQVRVTjJKRlNTXzZPMlFUSlRkYWp4X0JYRnBtaEplZVVua3g5dG5iNV9vOFpZ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T20:05:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "TIJUANA: Entrega Antorcha Campesina solicitudes de obras y servicios al Ayuntamiento Baja News",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "400d5411bf761607"
+ },
+ {
+  "titulo": "Clases en Tamaulipas se suspenden si temperatura alcanza cero grados",
+  "liga": "https://elcongresista.mx/tamaulipas/suspension-clases-tamaulipas-cero-grados",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:04:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La SET de Tamaulipas suspenderá clases automáticamente si la temperatura desciende a cero grados centígrados.",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "c91ab6c707cda1ae"
+ },
+ {
+  "titulo": "Saturación de hospitales en Tamaulipas: 35% de pacientes son foráneos",
+  "liga": "https://elcongresista.mx/tamaulipas/saturacion-hospitales-tamaulipas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:04:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La saturación de hospitales en Tamaulipas aumenta con un 35% de pacientes foráneos, afectando la atención y demandando soluciones.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "8d89db043a0bea7c"
+ },
+ {
+  "titulo": "Protección Civil alerta sobre primera tormenta invernal desde el 26 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/proteccion-civil-tormenta-invernal-26-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:02:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Protección Civil de México alerta sobre la primera tormenta invernal que iniciará el 26 de noviembre, con pronósticos de nevadas en varias regiones.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5363860ab0722606"
+ },
+ {
+  "titulo": "Juzgado suspende elección de Rectoría en la UMSNH por cuarta vez",
+  "liga": "https://elcongresista.mx/justicia/unsmh-suspension-cuarta-eleccion-rectoria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T20:01:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La elección de Rectoría en la UMSNH queda suspendida por cuarta vez tras una resolución judicial que afecta a toda la comunidad universitaria.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f04244461c3ce21a"
+ },
+ {
+  "titulo": "Burgueño anuncia que 7 Eleven no se construirá en área verde de Playas de Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/burgueno-anuncia-que-7-eleven-no-se-construira-en-area-verde-de-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=burgueno-anuncia-que-7-eleven-no-se-construira-en-area-verde-de-playas-de-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-24T19:59:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "“Nosotros no vamos a solapar ninguna situación”, dice ante la licencia de construcción otorgada en su administración",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "53d87849dd0cbca5"
+ },
+ {
+  "titulo": "Colapsa puente en carretera San Felipe-Puertecitos; SICT habilita ruta alterna",
+  "liga": "https://jornadabc.com.mx/principales/colapsa-puente-en-carretera-san-felipe-puertecitos-sict-habilita-ruta-alterna/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-24T19:57:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Personal especializado de la dependencia realiza una investigación técnica para determinar las causas del colapso La entrada Colapsa puente en carretera San Felipe-Puertecitos; SICT habilita ruta alterna se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "f5bed891d82e9797"
+ },
+ {
+  "titulo": "Distrito Norte ofrecerá viviendas accesibles con aislamiento térmico y paneles solares",
+  "liga": "https://www.uniradioinforma.com/gobierno/distrito-norte-ofrecera-viviendas-accesibles-aislamiento-termico-paneles-solares-n916112",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T19:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El desarrollo habitacional contempla mil 800 casas accesibles al norte de Hermosillo.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "48782a3604245bfd"
+ },
+ {
+  "titulo": "Aide Martínez se despide de la Sociedad Española tras años de enseñanza",
+  "liga": "https://elcongresista.mx/cultura/aide-martinez-despedida-sociedad-espanola-parana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:51:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Aide Martínez se despide de la Sociedad Española tras dar su última muestra de danzas en Paraná, dejando un legado importante.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "44015585c1d26c73"
+ },
+ {
+  "titulo": "Madre lucha para que seguro escolar cubra lesiones por bullying en BC",
+  "liga": "https://jornadabc.com.mx/principales/madre-lucha-para-que-seguro-escolar-cubra-lesiones-por-bullying-en-bc/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-24T19:51:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La audiencia incidental para resolver sobre la suspensión definitiva del amparo fue diferida para el 30 de noviembre La entrada Madre lucha para que seguro escolar cubra lesiones por bullying en BC se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5449bf1b887fe019"
+ },
+ {
+  "titulo": "Desarrollan videojuego ambiental para educar a niños en Toluca",
+  "liga": "https://elcongresista.mx/educacion/videojuego-mixtle-toluca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:50:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Se lanza videojuego gratuito en Toluca para enseñar a niños sobre el cuidado del medio ambiente y la fauna local.",
+  "temas": [
+   "Medio ambiente",
+   "Educación"
+  ],
+  "local": false,
+  "id": "8cb7260cd804ee78"
+ },
+ {
+  "titulo": "Aseguran 71 ejemplares de vida silvestre en Chihuahua, 70 son tortugas",
+  "liga": "https://elcongresista.mx/politica/chihuahua/profepa-chihuahua-asegura-71-especies-fauna-silvestre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:48:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La Profepa asegura 71 ejemplares de vida silvestre en Chihuahua, incluidos 70 tortugas y un camaleón, en condiciones inapropiadas.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c42fb932cf1fae13"
+ },
+ {
+  "titulo": "Evelyn Sánchez pide proceso sin guerra sucia en Morena",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlRIZkxJVHBna2Q4dVNmY3Zvalp3eFd2bDVxUjBfbzRaeXZkTUZkMGdsMk8tUExQVzdxeWdITmZzREQ0alU5NlotSDY1QVVvb3lWUmhmeWRsd3psTjA0Y3NEcm81N1lCd0VIRFFBZWJjLXBsUWJ2Z0VSaXBhSEVUY1I3d2s1QWhOZlExTU8td1dsXzcxUmVCLVpqdG5RN210VlJYSUJZd2g?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T19:46:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Evelyn Sánchez pide proceso sin guerra sucia en Morena AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fea873cbf82c53ca"
+ },
+ {
+  "titulo": "Segob llama a frenar la violencia contra mujeres en México",
+  "liga": "https://elcongresista.mx/justicia/segob-llama-a-frenar-violencia-contra-mujeres",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:46:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La Segob llama a erradicar la violencia contra las mujeres en México, enfatizando la necesidad de cuestionar políticas machistas en el Día Internacional de la Eliminación",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f23b4838aa2566c6"
+ },
+ {
+  "titulo": "Procesan a 14 en Chiapas por portar armas del Ejército mexicano.",
+  "liga": "https://elcongresista.mx/politica/chiapas/procesan-a-14-personas-chiapas-armas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:45:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "14 personas procesadas en Chiapas por posesión de armas exclusivas del Ejército quedan en prisión preventiva tras la intervención de las fuerzas de seguridad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c57011a86d267839"
+ },
+ {
+  "titulo": "ENSENADA: Retrasan justicia oral civil y abogados rechazan reubicación de juzgados",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajMtZk5DbG5CcllzaWk0eGxSd0MzVmlhaFVrbVI0RHY5VzlraFE2UzlaNjdySFBOaF9GWjNPME9fck9LY01PWDYtNjYwQjdzWmRVMGFXU3lIYXZxaEJCcjJEWUNhZUtfMmU4bG5zd2dadnZQZmtWVHJZUWJudzJmWncwRXdicW5GLU5FWHByNFp1S3RQUElHa2RJN1lxNXlhZTA1R1N4UmlnQkZweFBLaDRvRnowWjBO?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-24T19:44:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "ENSENADA: Retrasan justicia oral civil y abogados rechazan reubicación de juzgados Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5079306d44e9e04d"
+ },
+ {
+  "titulo": "Inician mesas de diálogo entre Cultura y Sindicato de Burócratas",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOE0tNkc5MEhkbVZ6WU9PeGpsaVdmRnVEeUozbUNTYm4wazBfOFZEVU5DRkI4MlB5S042TmJTLTlTQi1EZ3FtS3M3TTBiOUdkaEJnZTh3VnF2UnFtWHRJX0h4dlpCU1NFZWJ4bGlXQVNpMGxaV2Q4cHBVZVVuMDZZX0E5ZGc3TXhwenc4ZkhCcmJ2cGI1THFFQ05JYV81YUQwY1VKWWlxZ3lCNldNeUl2NHN2elplQQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T19:43:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Inician mesas de diálogo entre Cultura y Sindicato de Burócratas AFN",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "7e41c02d353dffb8"
+ },
+ {
+  "titulo": "Águilas del Instituto México y Zorros del Cetys Mexicali disputarán final de Varsity en OEFA",
+  "liga": "https://zetatijuana.com/2026/11/aguilas-del-instituto-mexico-y-zorros-del-cetys-mexicali-disputaran-final-de-varsity-en-oefa/?utm_source=rss&utm_medium=rss&utm_campaign=aguilas-del-instituto-mexico-y-zorros-del-cetys-mexicali-disputaran-final-de-varsity-en-oefa",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-24T19:41:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Zorros del Cetys Mexicali y Águilas del Instituto México disputarán el XXXVI Tazón Baja California, luego de vencer a sus rivales en semifinales de la temporada 2026 de la OEFA, y buscarán conquistar el campeonato de la categoría Varsity.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e370360301658b00"
+ },
+ {
+  "titulo": "Director de Issstecali dice que el pago a maestros jubilados está garantizado hasta el último día de este gobierno",
+  "liga": "https://puntonorte.info/2026/11/24/director-de-issstecali-dice-que-el-pago-a-maestros-jubilados-esta-garantizado-hasta-el-ultimo-dia-de-este-gobierno/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-24T19:41:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Mexicali.- El pago para maestros jubilados y pensionados de Baja California está garantizado hasta el último día de la presente administración estatal, que concluye el 31 de octubre de 2027, aseguró el director del Instituto de Seguridad y Servicios Sociales de los Trabajadores d",
+  "temas": [
+   "Salud",
+   "Educación"
+  ],
+  "local": true,
+  "id": "55ed88a5e77387ad"
+ },
+ {
+  "titulo": "OOMSAPAS Los Cabos desazolva 700 metros de colector en Los Carrizales",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/oomsapas-los-cabos-desazolve-colector-los-carrizales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:35:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "OOMSAPAS Los Cabos desazolva 700 metros de colector, restaurando la red sanitaria en Los Carrizales y beneficiando a la comunidad.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "53d50f73d4b4670d"
+ },
+ {
+  "titulo": "Resultados Tris De las Siete hoy 24 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-siete-sorteo-36991",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El sorteo Tris De las Siete número 36991 se celebró este 24 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "8ce8178a9a177151"
+ },
+ {
+  "titulo": "Chihuahua impulsa industria vitivinícola con más de 400 hectáreas",
+  "liga": "https://elcongresista.mx/politica/chihuahua/chihuahua-vitivinicultura-400-hectareas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:34:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Chihuahua logra un despegue en su industria vitivinícola con más de 400 hectáreas y reconocimientos internacionales.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "756fc8505c370514"
+ },
+ {
+  "titulo": "Otorgan distinción a la Cespt por su «impulso a la igualdad de género»",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/otorgan-distincion-a-la-cespt-por-su-impulso-a-la-igualdad-de-genero/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-24T19:34:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La ANEAS le reconoció el programa Cascos Rosas, que reúne a 30 trabajadoras y combina la formación técnica con la experiencia directa en la operación de los servicios La entrada Otorgan distinción a la Cespt por su «impulso a la igualdad de género» se publicó primero en La Jornad",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7f6a138d3aa569b9"
+ },
+ {
+  "titulo": "CCE plantea incrementar salario mínimo a 2.5 canastas básicas",
+  "liga": "https://elcongresista.mx/politica/nacional/cce-salario-minimo-2-5-canastas-basicas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:34:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "CCE propone un aumento gradual del salario mínimo a 2.5 canastas básicas para evitar pérdidas de empleo y presión inflacionaria.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1d777151269452e5"
+ },
+ {
+  "titulo": "México recibe 43 mil millones de dólares en inversión extranjera",
+  "liga": "https://elcongresista.mx/politica/nacional/inversion-extranjera-mexico-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:33:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "México capta 43 mil millones de dólares en inversión extranjera hasta septiembre de 2026, aunque la mayoría son reinversiones.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b9203f804b3fb874"
+ },
+ {
+  "titulo": "Avanzan 4 mil basificaciones en IMSS y se inaugura centro en Toluca",
+  "liga": "https://elcongresista.mx/estado-de-mexico/imss-basificaciones-centro-toluca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:31:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Claudia Sheinbaum informa sobre el avance en las basificaciones del IMSS y la inauguración de un nuevo centro de salud en Toluca.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "d1e796053d4a82f4"
+ },
+ {
+  "titulo": "Ordena juez al Ayuntamiento de Tijuana actuar contra la contaminación del aire",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0sxSUxFLUhsZXZlbndSZ01CYVN0TzRqUjRyQWlCS2hpenVCbmtYYzJfTENPTU9Nak4zRXZ0Wm9MQVBhQ01VdlN5WFJJZXJ1MXBlOFhUWlYxdkd3YUFCcjZrandELVE4LUc4VGlkTGRldXN1U3ZkRzFNZklYYjR0YVVITWhGQl9oTVJkSGx6b0M5QUdKOTNxWGNpeG5ISS1scW42bkxyNzV4bjAyNlkyb256SjlrYk9maUxPMzJSX24xQkpHYkJCTg?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T19:31:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Ordena juez al Ayuntamiento de Tijuana actuar contra la contaminación del aire AFN",
+  "temas": [
+   "Gobierno municipal",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "2f2c7dbebd6c30b3"
+ },
+ {
+  "titulo": "Habilitan ruta alterna tras colapso del puente San Felipe-Puertecitos",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMW82LXBfcTJ1T1ZoS1F6X0JMTzJjMkpTOGJ6cnBwZ2Y5WkRvQVI0T3otdk14SWVZMVZKZmYtWVBfb2lzXzN3Qmk5TXZ6MndiY0s2eG1vYmljek1UWE1YMHhRM3kyZW1jQnZBYjBtVWh1T093LWE3bHR2eU1EZnhEU0RWaUpJMWc3UGNQamdFekQzZjY3MjJYcmZTb0lGWk9kT3E0a3NjenhwdUVlY0JVd2YtN0RnUUNSTTJMMg?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-24T19:26:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Habilitan ruta alterna tras colapso del puente San Felipe-Puertecitos AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c298018c128070e1"
+ },
+ {
+  "titulo": "Blake Cederlind llega a Naranjeros para fortalecer el relevo",
+  "liga": "https://www.uniradioinforma.com/deportes/blake-cederlind-llega-naranjeros-fortalecer-relevo-n916110",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-24T19:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La novena Naranja incorpora al relevista Blake Cederlind para la segunda vuelta de la temporada.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "25bc4856b237858c"
+ },
+ {
   "titulo": "Preocupa a residentes de la colonia Tijuana Progreso el taponamiento de un canal en la zona",
   "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQVMyZVVDM0FWTTFZQkhpNUU0ZTFETldPVzh1a0dELWdoLVdGTDQ3Tkl1T1BMc0xGSVZqbVNoVUZqOXV2OS1fVjBQcURhXzM1QmlmbHppU0xORnpINHF2VXotZkxDQWZqbEdSWDBQdDFadFhUZ1N3N1hlc0MzY3ExQzdWOWZ5QmJOTXFvLTVMOEJOWUJpMGRyNkYtbHFUZ0hyWWY2M0trZzJkdmpyaWNpWWJiMDczQTM1bC14WlVwTGZCZ0g5NG5QeldvWV8zNEtTZUhzM3hTMVRoUQ?oc=5",
   "medio": "AFN",
@@ -12,6 +659,52 @@
   ],
   "local": true,
   "id": "941bddc914853347"
+ },
+ {
+  "titulo": "Pal Norte 2027: abonos desde $4,820, inicia venta general el 1 de dic.",
+  "liga": "https://elcongresista.mx/politica/nacional/pal-norte-2027-abonos-precios-venta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:21:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El festival Pal Norte 2027 tendrá abonos desde $4,820 y comenzará la venta general el 1 de diciembre. Con grandes artistas en su cartel.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4ed52f141be356c5"
+ },
+ {
+  "titulo": "Secum aprueba presupuesto de 306 mdp para el ejercicio 2027",
+  "liga": "https://elcongresista.mx/politica/michoacan/secum-presupuesto-306-millones-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:19:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La Secretaría de Cultura de Michoacán aprueba un presupuesto de 306 millones de pesos para 2027, enfocado en salarios y mantenimiento de infraestructuras.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "eea5a81b682dd168"
+ },
+ {
+  "titulo": "Liga Municipal de Fútbol Amateur Morelia reelige a su Comité Ejecutivo",
+  "liga": "https://elcongresista.mx/politica/michoacan/reeleccion-comite-ejecutivo-liga-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-24T19:19:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Antonio Huerta Castro es reelecto por unanimidad como presidente de la Liga Municipal de Futbol Amateur Morelia para el periodo 2026-2028.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "949cf21b7fae73b9"
  },
  {
   "titulo": "Michoacán: 9.9% de viviendas en riesgo de desalojo, según Inegi",

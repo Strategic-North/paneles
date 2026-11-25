@@ -1,5 +1,602 @@
 [
  {
+  "titulo": "Es el 'Grillo' Sada embajador de PAZ; arranca el Partido su ruta rumbo al 2027",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2FIZVNjQnpSTGdoODFHU1dRbWo0SV8zYXJNNDlpR3VLX25uTnpOU2E3azJFUU56RGxkV3czZU5jNk9EUnNBSUE0c0RWaUVCRkVvZHJvMUhHV0xCc0MyaUZ3YUxteEtwNF9lbEltQjBYaHp1UnNBY3ZBVUg4bEJ4bkNXM0lQaWphTGdJeURhQi1ZNHhk?oc=5",
+  "medio": "www.detona.com",
+  "publicada": "2026-11-24T20:39:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Es el 'Grillo' Sada embajador de PAZ; arranca el Partido su ruta rumbo al 2027 www.detona.com",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1c6506dc14f0bffb"
+ },
+ {
+  "titulo": "Buscan a joven desaparecida en centro comercial",
+  "liga": "https://www.elnorte.com/buscan-a-joven-desaparecida-en-centro-comercial/ar3320985",
+  "medio": "El Norte",
+  "publicada": "2026-11-24T20:36:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La Fiscalía emitie una ficha de búsqueda tras la desaparición de una joven de 19 años, en Galerías Valle Oriente, en Monterrey.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "52c777480bf10a8c"
+ },
+ {
+  "titulo": "Reporte Empresarial",
+  "liga": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazIzRkFUUHQxMnV0WGZ6eWVyX3VwVVh5Z1htX1FoTkNtUUFjeFRJUnQweHF4TFBfZFFsWFFLQXh5UDhkRmMyYk9iRURjUFVoWnRUWVhjZFdHdnBVaUJCZ093cWswYkx4a0JBVUpRZGZlN2ZvcktKcFhCUUY3NDgzT09n?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-24T20:29:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Reporte Empresarial Reporte Indigo",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "b72210cb911cd5eb"
+ },
+ {
+  "titulo": "FGR condiciona extradición de El Chapo Isidro",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGxCdXl5YU5fUnVCdkxrYkZfV0dleW15NzZWeFZFY2JTNWFpMmxvdUh6b3kzeW9KZXZVcUdGaUxwQjdia0pxQUN4bUhfLWtkRFJLSTlVVWtDbTQ4czJxMk1tQUNSZDI0bW5EX3ZuTU1rLWtZZGpMeGRjZmQxRFZ5S3E2cHFnckhQOS1yV29aQUc0UEhmR2dn?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T20:25:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "FGR condiciona extradición de El Chapo Isidro El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b98d9cf970e87ca3"
+ },
+ {
+  "titulo": "Define FGR proceso para posible extradición de El Chapo Isidro",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVZfUndJb1RFMUFHdlpRRzRpSkh3ZEhYNlM5UVNnWHRoUUNCOUFZZjFrSDhYcG1KRzlUVHB2RkwyVXJsblA2WlNqdTYzdVh0OTA1dTlMVFl1cktiR1VqX0YtWHRSdk9jbFRDVkJ0dnVQbkt4NWNDVHhsNEdkMExjTkdDY3ZDSmRIRDhsb1d4TUpBSTVxNjVYY2FtNHpkRHRM?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T20:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Define FGR proceso para posible extradición de El Chapo Isidro INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f5e15cbaa5c812d6"
+ },
+ {
+  "titulo": "Detienen en Monterrey a joven que mató a su padre en Tabasco",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTdoVDZBcGhuMWdfRHhzTzY2SDZXbnphTVVkQlVBZG54TUEweklMWURIaXlsUUNWY0hPWVZSSkd3Z0pkOHJrQ05jbDQtTzJ6S1Y0MWFlb09BXzVXMXpBWHBTWHhpSG9XbXBCdDJMbXVNNmpCOTV0MmlfdGVHandkaFVWS3Q4Ym1rZ2dwSnlfYnVpVTFfZ2xUTTkyR2MwNEE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T20:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Detienen en Monterrey a joven que mató a su padre en Tabasco INFO7",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f97eb7308bb93f68"
+ },
+ {
+  "titulo": "Exigen esclarecer muerte de adolescente rarámuri y piden investigar condiciones de jornaleros en Galeana, NL",
+  "liga": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTENnQUl1bWlLOWpfanowYjlvMUNTaWc4WW9ZSXZRSGhJcmxZcl9zaUpnaUM1RUVLX3BfSTJaWUZndFAyTkRVbDZEY2VGZTdNbnBvbS1raERiSXg2dzEyc1RLNkk4WXVlZ1RxczhmWmFBeUhoQlgyTGkxZk5XLXZHTnNRdGZYUmRMZ1R6amw1ZDIyRmJoYTA1SWw0OWNhWFJTVEpPY3hMSWNZYTlkMEQ3VDlYVGNCVzNsVnZKVnRlYmRNQU5CeXp4Y19DWEVzX0szV0NnNzVDVlR5M2VsUjJwUmJUbw?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-24T20:21:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Exigen esclarecer muerte de adolescente rarámuri y piden investigar condiciones de jornaleros en Galeana, NL El Sol de México",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "2796832ad51990cf"
+ },
+ {
+  "titulo": "Gobernabilidad y resultados contundentes: Manolo",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRWk2SjRaUlhGcGJJNnVNZ09FTUtvY2pXOFB1TFUxUmlheFRvbENCcG9wQUV3UThzR2ZpWlI5b2pPNVZ5RnlHT28xTHZRX24tRFFNTjJkVmtxVFNYSEJOZHBzOVczWm1pTFE3NTZoZG1Hd3hKMUw5NTlDVjBrWUloRFgzOVdwcFVmZlotVmRZRmVmQdIBkgFBVV95cUxQUVFlTmI0c005OVFqN3lhR1ZEM05CcTRqSEo5WmxUVHdFOEd1TFo3TXkxMjFLZTJUcncwZVhieUNnVERMU0FWT1RGR054Yk9iWHlvbWFKaGZkazdWdVZXXzVPUFAzclVVa1ZsdlRFSjBRZGZKNjNoc0IxekRrU0NsZWlicmVYLTVxbFQ3RmQtT1R0QQ?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-24T20:20:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Gobernabilidad y resultados contundentes: Manolo Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "da7db4e9b60c44cb"
+ },
+ {
+  "titulo": "Rescatan a 56 Personas Víctimas de Explotación Laboral en Galeana, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYW12a3l1OGYzT0tJTEs1VEw0OENCS2l4TFNoY2VfUGwxV1JCQkJmb0ZOWjYzWTZwcklZczBfeHlydXNkVE5QdE9sekkxUE5jM2l4SXJqeW10cm5RNVZycGZpT2hkZThfR1JyWGxNLUJISE1KdmcybGt2U0diVElKX1kwbzJlV3dicmJBcDl2djR5WjY5OVYxYk1ab0FxdFVNdzFXOTc0RldDMnpfTmUyN3VuZkdJdVhMd0huOHJR?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-24T20:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Rescatan a 56 Personas Víctimas de Explotación Laboral en Galeana, Nuevo León N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9021f1db8d5210f3"
+ },
+ {
+  "titulo": "Miss Universo 2026: María Vargas avanza al Top 30 de semifinalistas",
+  "liga": "https://abcnoticias.mx/show/2026/11/24/miss-universo-2026-maria-vargas-avanza-al-top-30-de-semifinalistas-296523.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-24T20:17:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fc6b7ee03057810e"
+ },
+ {
+  "titulo": "Noticiero completo de Jaime Núñez del 24 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEExbnF5QlY5TjFLaWZpODB5M24zTWtWUXdBSVhfR0xPVTFLQ1R4T0tsaXlIakVNUVEyVGFUbUZWTGhNTkxuQ0VnaHlMN3lKejZKTVJUSEVPMmpUd2d4N29iLXBGWk1fQ1gtbW5PZHZxcnVlNEhJOUFGME9qbGVXU1N5VGh3dW5HZXhJOWtheFZBVU1GZlU4R05xZHRjU2g2aEFieUZQbW5OTUZ4UDRSSThaNGJkTEJoSk1ZMFJ5ZEt1b3hzVFAzUHVEVG15VzE4VUHSAdIBQVVfeXFMT0hneDhsMWxvZHQ0QlN4bmdjSUdWOEVYUjBJSVNVR1UyLU9KVzVKcmhueVFwNFZfZTdUSGg3T0NNZEo5eTJON01xT0RoTnNfaTdQRHI0MDAtVy1HQ1FOMElGUGVqT2t1dWliMWthd3plMjdnSnl1Q3FIOUNMS2tYWnNSWlVaU0dxVEx5QWdpblVCSFl3TWxQaGNheWREc2RaRWJmLXA0d3AzTExXOHRhX0YxRXJIZUlzS0VwZWwwbFc1dXZIY1YteFlfd2RkNS10dGZn?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T20:16:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Noticiero completo de Jaime Núñez del 24 de noviembre de 2026 Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "05a355b15e83d4ef"
+ },
+ {
+  "titulo": "El Gallo de Oro no se olvida: así recuerdan a Valentín Elizalde en las calles de Nuevo León",
+  "liga": "https://www.posta.com.mx/nuevo-leon/el-gallo-de-oro-no-se-olvida-asi-recuerdan-a-valentin-elizalde-en-las-calles-de-nuevo-leon/v-vl2282773",
+  "medio": "Posta",
+  "publicada": "2026-11-24T20:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "df9647c946e5e3f3"
+ },
+ {
+  "titulo": "Abogado de la segunda presunta víctima de Vadhir Derbez revela detalles del caso: ‘Se hizo un enredo’",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa1haNDJBQUM0MVhxMWx5RXBwS1pOX2ZWZk8yZ05nazJPM0FDczBjNWQta092b1h1LUtDTmdoRVk4Y3ZLSmctNS1JbkhxSF9sQlEzTEVhdmsxMHd0dGlFeGE1MDFleER5b3ZhX0xxNWh6R2VNSktLaERtZVc3c0p5LUROeTljc3JwV2hTVm5fM3hLdC12U0NhWDB3M3ljY1JkdEJpeXg5eXdYVmhNVG8tWnZIYW9reWh6amhuQjVkdkVwMHV1NWVpczhRM3FpTzRGRElPYg?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-24T20:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Abogado de la segunda presunta víctima de Vadhir Derbez revela detalles del caso: ‘Se hizo un enredo’ El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "259ac35d04d2cbb9"
+ },
+ {
+  "titulo": "Falso que Samuel García concluyó todas sus promesas de campaña y otras frases de su 5to informe de gobierno",
+  "liga": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XeU8tQjRyQzJCZmxPMXZmMWhBdFFGczdXOXo4OFdxTnNjalNHS05WR1Z2aUd3MkdxdGliRk9pNHluT0Ztb2ZtY1M1RVFzOXNEdFFOTzlzOF9zRFVkbE8zRm95N3dwaEpqRzZ2cm1R?oc=5",
+  "medio": "Verificado",
+  "publicada": "2026-11-24T20:15:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Falso que Samuel García concluyó todas sus promesas de campaña y otras frases de su 5to informe de gobierno Verificado",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "df0c92ec968cc8db"
+ },
+ {
+  "titulo": "Morena aventaja en preferencia de voto en Nuevo León y Clara Luz Flores ganaría a De la Garza y Mariana Rodríguez por dos puntos, según una encuesya de De las Heras",
+  "liga": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONFM5UDFKU0dEZ0lYeTE4eVpyZkpDVFdlUFE5d2tWUnU3RUFkT1FyU0dRaUpBem9ISlVKTHNSMHhFNUZWUzBfajc0MVZrZkw1WW95cl9lZXdiamFxU0tCbGpETkhhNkVkNWoxRjFkVXhnTnBFQXB6bWxkdlJEUXJUU1FSZERuem5GLUoxdVJDdFJiV0w2bExhMFNFeW0zSXUzSXhncVBoQ05NQjc0MDRSTnVXelpOd0xPQ19GQ0E4d3dXQXRPNnB3dGVycFd2OTRaTTRPWk1KaTZUdHVpZUlUUVF3QXFhaTMxbHVLS1F6TjE2YUZoajBvRDdBS3I4ajJXMVppTC0zRERLNlZvRWFuOWxWU1NZclZhSlRpRjJXUjlQellXWE9qajhEZUNTUHhXZE9oNnZfY2vSAb4CQVVfeXFMTTlleFBjaHBXWmVEcmcycDhLXzEzWHA3QThyVF9TY3FTX3FjQkZuN085SDcxSTFFdkRpR1kybnlPODMwSl84ZU5qamhkWmJwS0NwcnlZLTU4SWNqbFpsWmcxM3ZXTUpGY3QxVWZOVGJKMFNZWC1TaHNsaVo2eU05b0xVMzVTZGMtSWhCZFBCS2hNVFhmdzNHVGFVX20yaWM0TGtDcXJTTDJ0OVBlamZ5R3JKQ3Vfc1ZZRWRFbWZOVk9uRGN0c25LYTVqR2N1dE5MOEk1SFYzaWk3anJqRUh3Wng1YVNZcFdSalY3c0xFcVFIaFRDUjZrSV9IMk5lNVh4Q19MR2JFME15amlFcnZkM2MzNHBmQU9BdXdJcXdfcUZnamwyeFBYTk9VcVktQzE4V0xOY1dhRXlTdE9Sa053?oc=5",
+  "medio": "Diario Red",
+  "publicada": "2026-11-24T20:13:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Morena aventaja en preferencia de voto en Nuevo León y Clara Luz Flores ganaría a De la Garza y Mariana Rodríguez por dos puntos, según una encuesya de De las Heras Diario Red",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "e37a08b212dd421f"
+ },
+ {
+  "titulo": "Monterrey retira 13 mil toneladas de azolve del Canal Medular para prevenir inundaciones",
+  "liga": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2RYZUJLRWtoUjUxZEpIbXNzbzBhWk9oVWxVVTM5amVlTEx5MFY4LVdWTk1yVUo0NGpsU0t4Vmpna0dXVHNLR01xLTlBanhtdTd2cXNHTFJNN2Zab2VLb3pUYjBrQV8yQUFNMXpVNGVUREhWWjh6dzZDZ1NzcUV0cWt5QTA2MDNKVlppT3F4NUI5Yk9RemZUZzRwSkRZWEJ1UWh3eEV3ZUlpTUNUaUFfUmRyUVpwRE5vOXRhVzZCMUVuZW51bGJpMFFnMXo3cndLbkRIdlYwZkRYUVVTZFJIZA?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-24T20:13:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Monterrey retira 13 mil toneladas de azolve del Canal Medular para prevenir inundaciones Reporte Indigo",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "e7bf5e76921e3fbe"
+ },
+ {
+  "titulo": "Retiran 13 mil toneladas de azolve en Canal Medular",
+  "liga": "https://www.elnorte.com/retiran-13-mil-toneladas-de-azolve-en-canal-medular/ar3320972",
+  "medio": "El Norte",
+  "publicada": "2026-11-24T20:12:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El Municipio de Monterrey reporta que se han retirado 13 mil toneladas de azolve, piedras y otros residuos acumulados en el Canal Medular.",
+  "temas": [
+   "Gobierno municipal",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "617b7c604740119e"
+ },
+ {
+  "titulo": "Rayan Cherki evita derrota del Manchester City en Champions League con gol agónico ante Napoli",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTDQ2NGVnT0MxcjREbXBUSFJnVHphSVBBRk9STklDMGhaRFp5LXRpdGVqUFRfSVNCalk0Wnd6R05DRzNVTWZNWnN3TkdjaU5hS2FxRy1HYmVFbmRiRS1wTVpBMTZmaTI1Q0tTcnZTblEzRVY5T0ZBSzFndEkxekdSOEV3V0pxX1pUZHkteGZuR2pRUFY3VlM0Z1puZ045MGtlQ25obGJTOEZTNTVRZi13X3E0bVpnOUhmeVpvY01LVlowQdIBwgFBVV95cUxPS2I0WU5PQk5WbTBHMU9uYUxRWW1LaXJoajZZLTNIZHF0VVVQWnVRZ2ppdmdGQmUybm1uQ2ZBUUJEa05KNkxSbGNqQXFSX0JYXzZRZDNWZHNsNXZCNDdFbURtelpZM0tnel9qa3NpbXVTNWRmZWFMbDZVUHJLVkZQWmVWcWhOc1V6WjhuSlQyTjVHZS1iWUN2TUNmUDdtdFRyT0hrRzZOVHFMQ2luc2pDTUhtczRVN3BJTTJEQ0oxanZidw?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-24T20:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Rayan Cherki evita derrota del Manchester City en Champions League con gol agónico ante Napoli Telediario",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "100e544380469828"
+ },
+ {
+  "titulo": "CDMX abrirá macromódulo en Magdalena Mixhuca para licencia permanente",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/24/cdmx-abrira-macromodulo-en-magdalena-mixhuca-para-licencia-permanente-296522.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-24T20:08:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "96ed0eace3314fec"
+ },
+ {
+  "titulo": "Entregan más de 19 mil apoyos a familias de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjNPRWFVY3VWRmx5enBFSWhiR2YxeEVNdzhjU2wwQ0RMdDVHZWdobDBpeGZrQXR1ajdJM3N6aGhaUlI4RFpaaEhIbEhWcVpUcm5LNU02eGZEb1BMZGtxd0xYcloxOGhaMVlhSjRVOEhJaXU2ODUxNEsyeUdYdXZJRG1OSTgzcWk0dEU3cUxQSTRZQWtRTklwZ3VoNmtXRE5Cczc3Ug?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T20:05:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Entregan más de 19 mil apoyos a familias de Nuevo León El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "399821ef1f438a6f"
+ },
+ {
+  "titulo": "Detienen a hombre por delitos ambientales tras almacenar 14 toneladas de basura en Guadalupe, Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0E4eEdwcjlOWW1VaDA3cFVBRzhaZzFKM1ZiMlRiZFhoNVViakthVVlxeHlpVFp4QmgtUHlmZDBkSVZWRnYwaXdPREZ2bzlIR3NVT2ZYNDNyTmdSOWl4clJZUmlOX25KLW9kWkxJb2FZY2tMN2w0dWwtbll3Q1JSM05aS01NTXhPa3ZkZEtRMzNNVmFDY25YVmlvRlE4ZjN5dWfSAaIBQVVfeXFMTjNOdGdKX0pqTHoyQmlLX1kySmlzUzd0Q2ViLWVydU8xMWJTN2daRDlaR3VndFBQZ3hnZFhQT1BXOGdPTUJXcWJJNGFkOVhTTzdPeHp6MXZNdGV3RmIzdnBRVEtxZ3JIblk0WWtCRHExejJBMmpxQU5MMHEzUzBveU1Pb19uMlNER1ByVTNBOG9lWFNyQVgwbkM4QXoydWZPQzJn?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-24T20:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Detienen a hombre por delitos ambientales tras almacenar 14 toneladas de basura en Guadalupe, Nuevo León Telediario",
+  "temas": [
+   "Seguridad",
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "bee319f09fa3e5a8"
+ },
+ {
+  "titulo": "Rescatan a 79 personas de un rancho de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONUN4aFE1SlhWUUhDMTAtbGxLVDZObUZUMWpLMGNxU0VaYWNNSGlsY3J0WGF3NjZjOG94aE1MbjJCWi1WbzNHaDQxU1czWEdkT0IzTUtiRklOakZuMkFVX1ZObHp2V21aYUdnVnI0ZGJjbjlBRU9tREpPMzZGX3NTeHZMNHFlRktFSTQwZG02QmgwV2s?oc=5",
+  "medio": "Enfoque Noticias",
+  "publicada": "2026-11-24T20:04:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Rescatan a 79 personas de un rancho de Nuevo León Enfoque Noticias",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "22638958cac86669"
+ },
+ {
+  "titulo": "Muere José Luis \"El Choco\" Garza, atleta destacado tamaulipeco",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTNNN3NwOXZfSlRUTHY4M3QzTzZhUU54eHlIREJIVi1PakhpeDZJWW1rRFBJTFFkY01fRjltN3B2S3JmVzNvNU9hWXdFdlVVZUxLZmhseDZlaXhQNU5scjlTeVU0RTJORnBiX0hvOWZfY21abERaaDl6cHpkaGJsdjRHY2JRUFhNWVVDZnFjQlVobEMxaWlKQzd1NWk?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T20:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Muere José Luis \"El Choco\" Garza, atleta destacado tamaulipeco INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7c467c362b22f5f2"
+ },
+ {
+  "titulo": "Rescatan a 79 personas tras muerte de adolescente rarámuri en Galeana",
+  "liga": "https://horacero.com.mx/nuevo-leon/galeana-rescate-personas-adolescente",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-24T20:00:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "La Fiscalía de Nuevo León investiga una presunta explotación laboral tras rescatar a 79 personas, incluidos 34 menores, en un cateo en Galeana luego del fallecimiento de una adolescente rarámuri. The post Rescatan a 79 personas tras muerte de adolescente rarámuri en Galeana appea",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6d0dd15ba5a86341"
+ },
+ {
+  "titulo": "Destacan gestión de 16 canchas escolares en General Zuazua",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTh3enlsOHBVSkYyakFGVWxsSy1yVi13RGlTZkJ0TEpWdE85aWdmdDEwZm93ZHBKSmlPVkczWEhUWkk1OU1pRi1JdXZRS3RTOVNfVlJBR0NtZ1lSTWRScHBxRWVheUhsNzRERHdyODB5Q3FJLUdPLXkxaDktMU9ndy1WWmtjVm1RMUNGY051SXNHRE1vb0RhWWpfQVA?oc=5",
+  "medio": "INFO7",
+  "publicada": "2026-11-24T20:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Destacan gestión de 16 canchas escolares en General Zuazua INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9c6a37775e13e743"
+ },
+ {
+  "titulo": "Vuelca pipa de combustible y se incendia en autopista de Houston",
+  "liga": "https://horacero.com.mx/internacional/pipa-combustible-houston",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-24T19:56:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Una pipa de combustible volcó y se incendió este martes en la autopista Eastex, al norte de Houston, con saldo de un conductor fallecido y cierres viales. The post Vuelca pipa de combustible y se incendia en autopista de Houston appeared first on Hora Cero Web .",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "f580975352ae7a7b"
+ },
+ {
+  "titulo": "Indultan a toro de El Junco; Humberto Armenta suma triunfo",
+  "liga": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQmd2dHVqUldpUEkzTTdwM0gwU0VmWUJ3ZEtNTVVuVmhfclZoaGNQUjlQQ2g5Tk8yWHhreWVWcXl0dEtuZ28yNlVMRXQxNDhzWVZ5R0FVNjhwQk9raFpCWjlpTUVJbFNkVFhzelU0NVM1bkNEdnBuSXQ2a2lSSFk0eUI4cFNCNWJaVGZrVy1mNU1YZXZWRVQ2OHNWV1R2YldfRnE4SWdDSjEzSm14N0NPV2l5dEhGTzAtZjdGWHU2RkZtQjFFMG9MTWUzMkZabS1MMFpXbzVpaFR2Nzg4MWV6d1dyanhyQmNIZ2c?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-24T19:55:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Indultan a toro de El Junco; Humberto Armenta suma triunfo Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3ea028789eb1ae18"
+ },
+ {
+  "titulo": "Piden aprobar iniciativa sobre lupus en Congreso de Tamaulipas",
+  "liga": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOXlhZ25BWHZSMWlSVjJaUG1mSjZSMTZVRjNIeFNwVDdEMkswbnVzN3Jvd2V5LXNpZ3p5NlJPa3NoaE1DSlZSUFJVZmNuSFR3M0xLVE12NU4zTzJVSmJkSS16MG81TEhhbElYMmVZUU0zTEZ1Rm5GWXYyUkxSQ1dNd3lnTHMyRElMNVI4MkNWcGVXSkpQUk9IWTZvU1V5dnc5X0dFeVhYenpnRHJVUkJWdA?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T19:55:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Piden aprobar iniciativa sobre lupus en Congreso de Tamaulipas El Horizonte",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "fc5b80c26a3368ca"
+ },
+ {
+  "titulo": "Juan Carlos Ortega ve prometedor futuro en la cantera de Pumas: \"Esos jugadores los tenemos\"",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTctMFZFbVowMWE5emZtTTZqNTRHYWxSUzhfdW1RREhCOHFBb1h6Z19BZ190S1htS2IwYmlwT0hIblRMVXE3VDh4QlIwcnJNMWltS284bzl1dWlqUF9jamRyekdKODF1Wkw3dlR4cXBTeno0V21GLUR2WnI3S1pCTEZMd3llR0tVemxyQi1uQmZnM2lCNkRLbW1lS21ncWlRb3ln0gGjAUFVX3lxTE1nWWVJZGVQQ1RWcWp2bVRIbUVlS1dnQjBHNjlTQ0Y4dlVyWllnbjc1cllLR1ptX1ZPdmdsaW50aXBGRWhXVGZ3MUhUbkZ6MEZCSmozWnBfV1BVb0lQaXc4YXVpcUowOEx3WWVtNzJYUnNrWnNRdTZITDVtdWpjVV9NeVZYQjlZdUd6QXBNSDFISnA4NV81YVFlV0ljelhCRUNrV0U?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T19:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Juan Carlos Ortega ve prometedor futuro en la cantera de Pumas: \"Esos jugadores los tenemos\" Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "93b4fa1e8576d764"
+ },
+ {
+  "titulo": "Piden a alcaldes de Tamaulipas solventar observaciones de ASE",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUxKSkVRVTFFYUFJQmNIVTRRalBMTVljRWhRZkxNTlhENHRUdURUbVRpUDh4LU9IWW9YVjNkZHJjOTgwNVV5d3lHSnB1ZjNIYkFHaC1QVlpFZmtTak5iYmNEZDBXbWpCTnNVUDVoSGsyX1RvXy1BeVJITkhqa09XR0luS1dVdjhpWVlEWENKNEQ1NVJ0dTRVWFFkanJNUWlmLVE?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T19:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Piden a alcaldes de Tamaulipas solventar observaciones de ASE INFO7",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "797753f54deb6e91"
+ },
+ {
+  "titulo": "Descubren toma clandestina de turbosina en vivienda mexiquense",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXpBR0tIRjZHZ21jRDVBTHZHU1lPZ3llTTYyQzZiamM5elpVOXBhV25zclpYUU9NUVl3UTRLQmc5dUQwcnZCQmFzWGpyeXBCcWJ4am5SOE92ZWJJcVJBSXAzX2xzZTJLRWNnZVhYX1liNVJQbDlqUTJxckU1V2tiRnl0X1FqQmtxcXJVdjA2bTI1TGxVR1h2V2QtNUdUalM2VnYwa3lqcEo0T2fSAasBQVVfeXFMTlFKSkxPUkxNOWo1Q1FQYURMNE9Ua1FVNzZEOTZpaWlYWlhVaWRkMFpReVdTOVQ1ZTJ6a2FQNzBXV3pSbGM5WldPbHdkNHlPU0hXWDFjS3pHWW5LejRZWWFSOV90UGpreHpybm92N3JrVzZSbU8ydVBuUE9GcHJGSGFKYmlZVzN0LUwxY2R0Ty1CdDROcVJpemVCZzZCV0c2Y2hsWl9QaHN0TVB3?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T19:46:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Descubren toma clandestina de turbosina en vivienda mexiquense Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a7728c1bd6b9039d"
+ },
+ {
+  "titulo": "México registra rezago en transición energética frente a EU y Canadá",
+  "liga": "https://horacero.com.mx/nacional/transicion-energetica-mexico-rezago",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-24T19:45:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El IMCO advierte que México avanza más lento en transición energética frente a Estados Unidos y Canadá, con 23.5% de generación limpia en 2025 y retos regulatorios. The post México registra rezago en transición energética frente a EU y Canadá appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "eb6b9d7160f10a0f"
+ },
+ {
+  "titulo": "Rescatan a 79 personas, entre ellas 34 menores, tras muerte de adolescente rarámuri en Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZUhLdzk4SEh3M3FxTUJwZ1ljRDRFYUEySzkzLU00OHFHbmZjeGlFYXc5N2RwbGxOOHI2MFFPNUZ6TWkxcUJ6SU9vZTZpNV9PQTdxcTRyM2Q1UEVpajlseWdDbTdnX3lIOFcxWHd5aFN5dUVqODluM3R5VTJFWHg4M3dTbUVybUlrLXM5WGVsU1dtNUJ1WEN1MHJ1Q3JKQjA0Rk5oOF9EZGM3Q1Y2UWxQTERVZFB3S3ljNF9tTV9lNmNiX21uZlV3SDlHOEFRTXN6Q1c2VW8yLXdYUWE3WEtzbC1yNzRFQVBJSzRzeHpwNktRcmNmYWZWaGRR0gGOAkFVX3lxTFByaHdMeVdQbDZDZFpsb3hseS1SbEtWcTBrczNqWlFTdmZpQm5KNS1pRXVpZnNzVmNKMDJEalp1V1ZPQUNHbEljQzJjOFYtcE51TkhVaGJ6V2x0WDFhaUh4VUNmWjdxZEVYWTRmQ2Q0NGpKZ1J1QTlEYmtHTTUyRW5jcEdMczltN3lNUlpKUUgyRmNLSHV2UW0ybXQzUkh5bkllXzNLblFxSEJOR1ZVa2pSQWxRdWVDSmE3STlvR0JSaWJBaktZc09rczVDUDVjN2lDWFZfRnVNSHBjVDVxb2M3SUZZTzdTTHUxNnZJckRtbDV6YV8yb05CRHRMNFplLWZUcEVsXzdsY1hIZnpWQQ?oc=5",
+  "medio": "El Universal",
+  "publicada": "2026-11-24T19:43:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Rescatan a 79 personas, entre ellas 34 menores, tras muerte de adolescente rarámuri en Nuevo León El Universal",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "97536693d263a9eb"
+ },
+ {
+  "titulo": "Adán Augusto rechaza tener las manos metidas en el INE",
+  "liga": "https://horacero.com.mx/nacional/adan-augusto-ine",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-24T19:42:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "El senador Adán Augusto López Hernández negó tener injerencia, operadores o contratos en el INE y en organismos electorales locales, además de defender las reformas impulsadas por su bancada. The post Adán Augusto rechaza tener las manos metidas en el INE appeared first on Hora C",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "e1a063f8ae0ad067"
+ },
+ {
+  "titulo": "Detectan a más de 50 indígenas trabajando en condiciones irregulares: Secretaría de la Mujer, NL",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc2ZiT0JybEp0RjRZelgxRzVwMVk1RVZiNTg2eVQ5SF9zUmlXTmVBM09wYVJxaWJfczE3RjRjRkhsTlI1bTBERENVQ3FkZnBubnRQTVlFOGlGWHN0T180VFhLM0JhVTF2ei1yRkhhLWNLRW1HMHp5eG1Gb1psTmlkYUxkRlB3azBRRGg0V2NhZDBOQVkyWk5wMWZMSndwaXlJSzlZMVJxeVBvbjJzYTZnd0tGRUc0NmRqb1F1SmJpUExDM3lJWDVVbVpwQk53YkZySW5zS3hMTHVoSEZXRnNUV2Vn?oc=5",
+  "medio": "La Jornada",
+  "publicada": "2026-11-24T19:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Detectan a más de 50 indígenas trabajando en condiciones irregulares: Secretaría de la Mujer, NL La Jornada",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "1320f413a9a3938b"
+ },
+ {
+  "titulo": "Katy Perry y Justin Trudeau disfrutan de escapada romántica",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnhYLUxIMUxRYnY3TTM4VjcxOHNMVjZzdzVMR0l1c2FXOVNFdGF2Nm5tVTlRZUxFTmt4M2lNVU5hdlFMdGhGY1dpOHBacE0wNE5DdnZMOWhoVnF3U0NRcXdIUFZubXNXY2Z2SUkzTi13U1AtTGJ3dWFNdGhwdWdwLUpUWnFBS3hWbktKSlJqQ0p1aTNjRkxKNlFvZWZfQW1nWXQ4clJLTQ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T19:39:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Katy Perry y Justin Trudeau disfrutan de escapada romántica El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4baf45a1fb824490"
+ },
+ {
+  "titulo": "Localizan a 56 Personas Trabajando Inhumanamente en Galeana, NL",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2V5TEZ1RHZuV3ZsYW9fd3BOemtRVzhuNDREXzdXTkZvRGZmb05iVDZtN09zMUtXdDI3bnM5aHkzb3NhM1NPZ2JSLU10MTAxWlNoN0F5YkYzbVJDWlBCMWNkWktfVGlLSlNfVXhCZkM0dlh4X01UNnA4anJxd09FRGd1Y2w4Nk93MFh5a1ZCNVJHLWo5dnRyWEt6Y0U4R3F6b21iMFltT2R3Mjc1?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-24T19:38:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Localizan a 56 Personas Trabajando Inhumanamente en Galeana, NL N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9c978253d202ecea"
+ },
+ {
+  "titulo": "Choque entre camioneta y tráiler deja dos lesionados en Reynosa",
+  "liga": "https://horacero.com.mx/reynosa/reynosa-choque-camioneta-trailer",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-24T19:36:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Dos personas lesionadas y daños materiales dejó el choque entre una camioneta Ford Edge y un tráiler en el libramiento hacia el Puente Internacional Reynosa-Pharr. The post Choque entre camioneta y tráiler deja dos lesionados en Reynosa appeared first on Hora Cero Web .",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "1b7e42cf79cc8d68"
+ },
+ {
+  "titulo": "Retiran vehículos de última residente de La Rotonda de las Casas en Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlhEZTVSRnVrNlhCakxaRkVnalFmcXBHUmlpME9uU3NfZDk4UjlFWGFGSXFrN1NKOUhwN0o2NEVlem83NkFCV1U3dmRnN3loZWVJeW9QNTlXaXQxbjF5Ym1XS25aYzlaUXBrZW5ka0YwZmltdVVmSk1KU0pla0dVNFJUQ25NNVJCU2xHQXpyVTDSAZABQVVfeXFMTU5PMTRwdm1hZVlocWhEMHY5SGxVcVFwYWdoQ1hVUGVDblNpYkdRdl9zdWVsM0pQOG9OdGVwU2RKSThEeldhMi1vWDBkOWlSOHUtYV9nN2dGT3dXWV85aDJPR0lCYTliak9nVkw3Ukk1RHp2eVh1blpDUXQ4LUFkZkI3NW1tNFdRYWVXQUVGdUFy?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T19:36:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Retiran vehículos de última residente de La Rotonda de las Casas en Monterrey Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f5f009b49f63bc21"
+ },
+ {
+  "titulo": "América llega a Monterrey con plantel completo para enfrentar a Rayados",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnF6YXkxRVNNRUYyblRyNUY5QW5lYzV2VXMxTEFaQ2FTTmNJbzZ6dUI3dldFT2k3SGk5YVhwbXN6UzZUSkx4WlQxZ3NmWUxITHk0RUJ3NUFwTDFxNmdrQ0dNcGg1ZkRLVllIZGFPeG1xaHU3bGdONlFPamtUYlFaY1JoekQtdDNKczBmdGZibGNFQWRDQ241NDRld9IBmwFBVV95cUxNNnBQMHFCeG1ZYUo5eVUwNzgzcFIyczNqbUFtUkNxWTFTYzZDQlIwZmtWYktTYnpXVWlMMFpFaGZsMEd5ZTRib3pKaFJVcW9lcVN6U3RKdmh0VlVITExwT2xkMGUzUnBYVVpEQlNqdWR1LVR2bTV3NjhIellUbHB3S2pFOU1PN21FbUQ3YnFzS2NIYjdsUFVlV3M3cw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T19:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "América llega a Monterrey con plantel completo para enfrentar a Rayados Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "3fde1dc1b19af0ad"
+ },
+ {
+  "titulo": "Recomienda SET cuidar a estudiantes ante bajas temperaturas del frente frío número 8",
+  "liga": "https://horacero.com.mx/tamaulipas/set-bajas-temperaturas",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-24T19:32:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Con la finalidad de cuidar la salud de las y los estudiantes, en especial de los más pequeños, la Secretaría de Educación de Tamaulipas (SET) emitió una serie de recomendaciones a madres y padres de familia y tutores, ante las bajas temperaturas que se registrarán durante la temp",
+  "temas": [
+   "Clima",
+   "Gobierno del estado",
+   "Salud",
+   "Educación",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "746135aebd0d7dab"
+ },
+ {
+  "titulo": "Entrega Erasmo González techumbre rehabilitada en Secundaria 3 de Ciudad Madero",
+  "liga": "https://horacero.com.mx/tamaulipas/techumbre-rehabilitada-ciudad-madero",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-24T19:29:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Con mejores espacios para aprender, convivir y desarrollar sus actividades, el Gobierno Municipal de Ciudad Madero continúa impulsando la infraestructura educativa en beneficio de las nuevas generaciones. The post Entrega Erasmo González techumbre rehabilitada en Secundaria 3 de ",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "cc506cc6efa58238"
+ },
+ {
   "titulo": "Detienen a hombre por acumular toneladas de basura en Guadalupe",
   "liga": "https://horacero.com.mx/nuevo-leon/acumular-basura-guadalupe",
   "medio": "Hora Cero",
@@ -282,6 +879,20 @@
   "id": "7f6430b29a87b2ab"
  },
  {
+  "titulo": "Morena descarta terna y prevé definiciones para diciembre",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmx2bHR1U2p4Yk9SRkwxQXEzcXdqdWxocW5lV0JsQVJfNzg0UG5DUmJWcmQwU09LTUtpMVp2MFZjSWZHRWlhdlN1WVhZS19hLWczVzBnbjhPeG5Ea1R6Z1lReXB1bEY5SW42aFd1akxPYnprdGRrMHU2T3N0aUFVeWFkV2trVlE0azlTMHJFYVpWZDhMV3NNdkdwVko?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T18:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "Morena descarta terna y prevé definiciones para diciembre INFO7",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "57b09042f0fc8617"
+ },
+ {
   "titulo": "Antonio ‘Turco’ Mohamed dejará al Toluca tras la Liguilla y la Copa Intercontinental",
   "liga": "https://abcnoticias.mx/deportes/2026/11/24/antonio-mohamed-dejara-al-toluca-al-final-del-ano-296516.html",
   "medio": "ABC Noticias",
@@ -294,6 +905,20 @@
   ],
   "local": true,
   "id": "5e5543e337e40b13"
+ },
+ {
+  "titulo": "74 latigazos a Parastoo Ahmadi por no usar velo en Irán",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamw5enNrN21nTDRfckQ0R29sQ0VvZF9TSF94REpsNHlhZ01MdmFOTE1vN0RkNTBNV3Y1WTJRVHdSRVpWNm1FTkxBNmU1dnRSbktObnlaYlo2ODF3V0gyNVhzdnlrYjAxWEZUQ2JEdWthVjlfSzdNZExudDRJZWFmTk9sTDVFdXR4d1V1bjYzd0FVQ0hYZUh4MXZVQ29JNkk?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T18:53:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T20:40:15-06:00",
+  "resumen": "74 latigazos a Parastoo Ahmadi por no usar velo en Irán Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cf391c649d9bd834"
  },
  {
   "titulo": "CONGRESO SOLICITA LIBERACIÓN DE RECURSOS PARA ALERTA DE VIOLENCIA DE GÉNERO",
