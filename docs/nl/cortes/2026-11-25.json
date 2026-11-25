@@ -1,5 +1,496 @@
 [
  {
+  "titulo": "Muere Martha Firestone Ford, exdueña de los Lions, a los 101 años",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVhyNkx2ZHNINWMtcml1ZG05d1o1MkU3ckJST3RWck0wLWw0eWdfZGZQa1k0VmMwRW0wbmxzLXljVUN2aEJpTlVhN1FEaFl3UmtIdkwybjk2NnJOaUg5TmYxRmpVdjByRGZIMjhJanNFQnZ5SmNONVZvZFYtU3RYaWhEb0VIZHpYam5yZmpibmtkYmdDZTloS3h3a3lkVU1VVFhMcjd1UkRjZ2l0aVNJ?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T22:02:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Muere Martha Firestone Ford, exdueña de los Lions, a los 101 años El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d87ee0cf9cfb78cf"
+ },
+ {
+  "titulo": "Exige Martha Herrera abrir atención nocturna para mujeres regias",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlBPQ0RiazdUTUdDcHNScjdYajQtd2RIbHcwVG9oT2N4aFhtYTV2b05VM0RJSE9SekFnQm1TbjRENHJmd0djWThhMWlPTkJhdlQ2eGRhdElUdDJrWjNLekY0XzJuQ0p5ZmpCSFRyNkNJSHlJLUlGby1VZzRhakY1emVpcHR0RG1heFVKUTQzWWcxUENCR2R5WXZsQV8xYk5WQzVZdk5PcjhDd3JPeUhmSzBn?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T21:56:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Exige Martha Herrera abrir atención nocturna para mujeres regias El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b9fc4b4920eb5274"
+ },
+ {
+  "titulo": "Paola Suárez se reencuentra con su mamá en La Mansión VIP 2",
+  "liga": "https://abcnoticias.mx/show/2026/11/24/paola-suarez-se-reencuentra-con-su-mama-en-la-mansion-vip-2-296528.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-24T21:55:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "8e56d1d976e9de62"
+ },
+ {
+  "titulo": "Duck Fest regresará a Santiago con su tercera edición; esperan reunir a poco más de 9 mil asistentes en 2027",
+  "liga": "https://www.posta.com.mx/nuevo-leon/duck-fest-regresara-a-santiago-con-su-tercera-edicion-esperan-reunir-a-poco-mas-de-9-mil-asistentes-en-2027/vl2282828",
+  "medio": "Posta",
+  "publicada": "2026-11-24T21:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "f0a24a21d1625177"
+ },
+ {
+  "titulo": "Joven denuncia falta de protocolos de seguridad y atención animal en Cuarto Vital tras accidente con conejo",
+  "liga": "https://www.posta.com.mx/nuevo-leon/joven-denuncia-falta-de-protocolos-de-seguridad-y-atencion-animal-en-cuarto-vital-tras-accidente-con-conejo/vl2282826",
+  "medio": "Posta",
+  "publicada": "2026-11-24T21:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "959844a134991cfc"
+ },
+ {
+  "titulo": "Preparen taller de autonomía financiera para jóvenes en NL",
+  "liga": "https://abcnoticias.mx/local/2026/11/24/preparen-taller-de-autonomia-financiera-para-jovenes-en-nl-296527.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-24T21:38:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ea9aca1ffd7897b3"
+ },
+ {
+  "titulo": "Netflix compra estudios Radford Center por US$380 millones",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWd2cjM4TGZLWm1UenBKTm9UUHh1d183cG84dk44Z0NCVElmYnhKeUg0UV9XR3JpVUZ6US0xYWdlb0dqdEx2OUwxb0VoMDJnaGkxOU1sSmhPM0dLMTFBOFZ2bXpuRmk5SzNFLUVrc3VCdWtfcE52SC11NFZkMWotZlBNYzliMFQwU0ExdmdXQVRxMmZJVG43WGpwMXJvMTdvSF9Kcnh3?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T21:37:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Netflix compra estudios Radford Center por US$380 millones El Horizonte",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "63d903f02c5afdc6"
+ },
+ {
+  "titulo": "Se incendia camión de la Ruta 109 en Zuazua, NL",
+  "liga": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0dQZ1ZWY2x5azk2ekFqazJ1NG5sZF8zOFFCM1hYeE5vTmc3Tk9RcnBoOE5ydnEyU3hhaW9Cc3p6clpOYi1jX2pqTGlCaHZsU0UxS29hWkFrMmNnTlYwQ1hmSlkzRjM2YzN4UDY5MUNZSFJZbHp0RXlQZnE1MzVXT2xn0gGCAUFVX3lxTFB6UThvRWhnU0o0X0pqeURMZDR6Z1JaeVBkM0xMQ3pJRGxmUzJVd1ZTZ0NFYXNVaVI0OHZnY2JtZXNSdEdhZ3A2MzZuZkVrMVJGaW9VYkxheVNMRFcyOG5MMDRBZlZ4SncxODVoMzNLdUNfSnBqZkpKTy1ieXk4N1RKc2c?oc=5",
+  "medio": "MILENIO",
+  "publicada": "2026-11-24T21:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Se incendia camión de la Ruta 109 en Zuazua, NL MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e511bfd76d08dc3a"
+ },
+ {
+  "titulo": "Arsenal y Dortmund permanecen en los primeros 8 lugares de la Champions League al empatar en la jornada 5",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODZFUFZoNTB3QVdhRzc5TnNWTXEwcVREdWgzTmJucXlOcEQ3NTFhZVA0VXRrREhaZl9kVlROMHFUblEzVGc3TVpzYm4zQ2t3bnRjWjF0cUNod0Q0NzQ4bktNX1JodmJ2VHk2UGhPRkJfX1lmLXhFRjN0S0cwcGl5RlBHc0JVTUZ5V1Z4OTRvVXdtZFgta3pMeHJFR0lGUUItbHVVVncycmhpYVBKcTBKakpmUFdTdEY1NEhMek1zMUdxWEnSAcMBQVVfeXFMTXBxRG4yZk5JakFfV1V4T0NFYUZKQXFNSHZlSWYxSUwzV3loMThYWlZFTlZMZzhRVm41cGpPeHBqSjdlN0p6Ty00WmkzUjB3V1pJSU1OQnQtTWZYeGxYTFVncUJ1NmVaQWlVWXJVXzh6LUZsRGRxcHZ6Tzg0MUZiVWF3X0dBN19QVTk3bEZSVnVPaXgzNjVVMkxSV0R4QkNXT0V5bkU4Ym9GZWJObjhfQ1FKR1otN3lXZl9hejM1WFZYWmww?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-24T21:36:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Arsenal y Dortmund permanecen en los primeros 8 lugares de la Champions League al empatar en la jornada 5 Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "1a867fee4dd5c952"
+ },
+ {
+  "titulo": "Incendio consume una vivienda en Monterrey; una veladora habría originado el fuego",
+  "liga": "https://www.posta.com.mx/nuevo-leon/incendio-consume-una-vivienda-en-monterrey-una-veladora-habria-originado-el-fuego/vl2282831",
+  "medio": "Posta",
+  "publicada": "2026-11-24T21:35:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "da2a61cd96c84e40"
+ },
+ {
+  "titulo": "Hallan restos humanos en construcción al poniente de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2VmdE9ULUJZaGVXbklaU0RtNW5mcXp5b1hHNlY3dGxjZG0yVlhRM05ZZnZPS2FHOW9hMVdzV2xsTFg3enZaMWpralIzbmlKN1Frbzc5V05RNlBBSWxyUk02d2hWVHYtd0FPdEZOUlhGVWVoQ3E3bWhXNG1vOFllZDNaOEFjRGFiaWpvRXhVTTkzQUoxRkdIaFJSUXdob1V1bXc?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T21:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Hallan restos humanos en construcción al poniente de Monterrey INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "724422981446b49a"
+ },
+ {
+  "titulo": "Afirma PAN que Tesorería \"oculta\" 20 mil millones de pesos en ingresos: \"Nos quieren ver la cara\"",
+  "liga": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbkNWdmhoSDVITjk2RjZVQXVyQkdMZmRlRHhMUkZZS1pLemlhMjI2RVdOUE9jQzI2bDUtNlZZZ3pMOXBORlNFWlpWWTFTTFFvWkVXQi1ZVmc1eUJMU21nQTVUU1hpcmI2SGNuNnpGYk8xTUM2SFJzeDh2c29tR0NxNkoxLUs4NVNucno0TjR2M19VVzVaTnlnSnRwelQwQlR5RFJYMnBuLXVOb3NuMGpZX3J0UHREYURtTTN4ZU5XTVhuTklDcUpkMWhMTFRrM2JPWWp4clR1YXFkQVc1bUJ5OVY4V05HZw?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-24T21:25:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Afirma PAN que Tesorería \"oculta\" 20 mil millones de pesos en ingresos: \"Nos quieren ver la cara\" Reporte Indigo",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4a43fa0c1bdaffa7"
+ },
+ {
+  "titulo": "Super apps integran servicios y transforman la experiencia de movilidad",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2tBTDlWV0pDMElsUk5EbmRQNDNhaG5DMXhHT1g3aWNMM00zcHhsRjVfN3F1N3M0U3o5NGRrc3V3c1EzU1VRYXFwQ2U1b1RRaVMwRVkzUGhRNlFjWm53eUY0aDBHYl94MHRKdS1iQmZkaTB1Rm1uQ05IRXhmMGR5T0YyNWtRMGZZRjN0TmZtbG9ESUVGWVlwd3lxNFhGUTE3cS1oam55Q2c0WDFKVDZJLTlLenp1OW44NkNDSFFWLVpyVFE0NXVBTWJtR29zVTBBY0ZSTA?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-24T21:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Super apps integran servicios y transforman la experiencia de movilidad El Financiero",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "5f16f984245866b2"
+ },
+ {
+  "titulo": "Diputados aprueban dar apoyo económico de por vida a medallistas olímpicos de NL",
+  "liga": "https://abcnoticias.mx/local/2026/11/24/diputados-aprueban-dar-apoyo-economico-de-por-vida-a-medallistas-olimpicos-de-nl-296526.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-24T21:16:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "276d33b921b68b52"
+ },
+ {
+  "titulo": "Nuevo León ilumina de naranja Torre Administrativa por el 25N",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDBuN1dvR1NRVkZZSHVGdWdwRE9nMXFueTFMbENDNkJ4dUtxZmhhSFBjVGJUMDJWWjItRmNlV3J6Sjh3VnRlRng5M2pIWmtycmhKMm5seXJYelUtbmhaZE1ZY2JZdXR5eGI4Z3BwVDFub1Z1cGI3Mlh4N2hnaFZUZkNaVzFKQjBvQkpnLXBndlBYX1RvVGQzTzhhTGd4NE1nTGFJeERYdnZIR0tnM2Q0?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T21:16:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Nuevo León ilumina de naranja Torre Administrativa por el 25N El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "c3cb86c308fa9e26"
+ },
+ {
+  "titulo": "AEI investiga fallecimiento de adolescente y termina rescatando a 79 personas en Galeana",
+  "liga": "https://www.posta.com.mx/nuevo-leon/aei-investiga-fallecimiento-de-adolescente-y-termina-rescatando-a-79-personas-en-galeana/vl2282781",
+  "medio": "Posta",
+  "publicada": "2026-11-24T21:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4de089968491cd3d"
+ },
+ {
+  "titulo": "Noticiero completo de Pedro Gamboa del 24 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORFB6LWRNTEFMMkxCUk5qaFY4ZEFXcGJJaldJUzlKeERfTGNUUHRGdDhfNmU5TXdrY0MxZTUyOTA3eXZzSUdqUldoLWItS3c1bXNqa3pYN2p6NVhRdWNIUlpJQnNnQ1dkQ3Y1UjFsUS1WbGthOExvUzVVMU5rQXEzX1N2SUowaEtlaGZSRURRVlFmRjdrRXl2a29vVnVQaVZHcjJUajhCMmZXSEFVaTBqQVAwelZ4My15eHJqaEMxTWtrem1zQTh2MmlGdVV6ZkVkRkQ4VVo4TC1yUWdjM1A5bF92NzU3dHV6di1WTmEzRHRuSzTSAfMBQVVfeXFMTkRQei1kTUxBTDJMQlJOamhWOGRBV3BiSWpXSVM5SnhEX0xjVFB0RnQ4XzZlOU13a2NDMWU1MjkwN3l2c0lHalJXaC1iLUt3NW1zamt6WDdqejVYUXVjSFJaSUJzZ0NXZEN2NVIxbFEtVmxrYThMb1M1VTFOa0FxM19TdklKMGhLZWhmUkVEUVZRZkY3a0V5dmtvb1Z1UGlWR3IyVGo4QjJmV0hBVWkwakFQMHpWeDMteXhyamhDMU1ra3ptc0E4djJpRnVVemZFZEZEOFVaOEwtclFnYzNQOWxfdjc1N3R1enYtVk5hM0R0bks0?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T21:09:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Noticiero completo de Pedro Gamboa del 24 de noviembre de 2026 Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d03837eb9696dc00"
+ },
+ {
+  "titulo": "Veladora provoca incendio en Valle del Mriador",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmZwNm9ubjN0TFNaLVV6Y0lOSVFSSEdUZGJiakV1LVE2QW93SGFuYzhCSmtldW1zcjBWMTdvUjJ1OVFJbUVrM2cxdTduajM4UGtTN0poMUVrd1F6cUdQbUVLYUNPUFFSY1pwYkhYWGJ4NG1QalFVMFlBNTBJV0IzUmVYd012V0xOc0Nncg?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T21:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Veladora provoca incendio en Valle del Mriador INFO7",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "f7f2ee0ce766a16d"
+ },
+ {
+  "titulo": "Entregan constancias a mujeres que completaron talleres",
+  "liga": "https://www.elnorte.com/entregan-constancias-a-mujeres-que-completaron-talleres/ar3321001",
+  "medio": "El Norte",
+  "publicada": "2026-11-24T21:04:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "El Municipio de San Nicolás informa que a través de sus tres Cebim, ha capacitado en distintos oficios a 2 mil 676 mujeres nicolaítas.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "12fe95ed2b895127"
+ },
+ {
+  "titulo": "Planean iniciativa para evitar la venta de medicamentos en redes sociales",
+  "liga": "https://abcnoticias.mx/local/2026/11/24/planean-iniciativa-para-evitar-la-venta-de-medicamentos-en-redes-sociales-296525.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-24T21:01:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "e4b7f3ca30fb806b"
+ },
+ {
+  "titulo": "Eliminan a María Vargas y México se despide de Miss Universo",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORE5XaUJ6VmZXR1puV1RWYnphdVRSV2ZRMXI3MHRkUGZmTnNFX0g2emRjRF91NzFPNFBzWHFiTUdiV3M3UER2VDRDSlA3YTEtaTFJMHRzTHZXQXJyMWJQQzJBZmZBRXgwYXRaVTYweG5xNmpzVk9xWDZpSWZhenRoSmpsRG1UbXlNeHBtX2FrSl9SUGJyenhRUjk1SjVab1kwNnhJ?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T21:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Eliminan a María Vargas y México se despide de Miss Universo INFO7",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ff3cfc3cff356352"
+ },
+ {
+  "titulo": "Librería Atenea se despide: 38 años de historias, libros y lectores en Monterrey",
+  "liga": "https://www.posta.com.mx/nuevo-leon/libreria-atenea-se-despide-38-anos-de-historias-libros-y-lectores-en-monterrey/v-vl2282805",
+  "medio": "Posta",
+  "publicada": "2026-11-24T20:59:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8f59e30d82485d43"
+ },
+ {
+  "titulo": "Reubican autos de la última vivienda en pie de la Llave de Oro",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0VMcGZLQi1BVWdPb3JnanJXWU1vNXRCRXBFOE5nVlBPQV96WWFnTW1zM1ltVlBHNVNVNDN5SVJQbE9IaTJoN1lJLV93a3h1eVkwbmpFbldoV3lEV2Y2bk5MVTdvenN0WTgxWG1kOXNsT1dxWk5GY3BhTC1hXzk1LWFVMHdWOWJTN0tPTEdHcl95dURIekhSdURuUFBMZnhiYnkyMnQxenFNSjRjNmVv?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T20:55:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Reubican autos de la última vivienda en pie de la Llave de Oro El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "84320e5427320ea5"
+ },
+ {
+  "titulo": "Hoy No Circula CdMx y Edomex miércoles 25 de noviembre 2026: qué autos descansan",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0dVLXg2VndFNUt4ZFpwM1JEdXBSb3AtYjN6WDJYYjc4UE1yUzVUS3Q3VzZlQmhhMjEzaWI3MXhORTl4MmVMNkFrNFduaF90RGhKRHBqT2NDOWQ2Z0lsbmFrSXBpRGtRbmE0NUpjREdqOWFJNTN5OGluRXlYckwta1RVeEFEaDc0RmpCZTlBSll2Mm1VSndLb05SRTloUktYVldMYWh30gGmAUFVX3lxTFBGcUtfeHB3MDFJaDNxa1ZLeFpndGhUMWZTS052aFI2ZzZGZ2ZyWmVJQ29ieHJHdlE3YlF4OGJJWDFHZzJaaGRzTjM1SC1fQU03bmtvU2hVa1NWQlBBTzNvaHpaeWFyS1RWbGgtV3ZUTVR4T3NiU1BKQzVjekZUeXdRVk9sdEFqNDNpTFdjYmU3cjJjV1VWSHJYZUkyUWhvaGhFRFgtZWc?oc=5",
+  "medio": "Telediario",
+  "publicada": "2026-11-24T20:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Hoy No Circula CdMx y Edomex miércoles 25 de noviembre 2026: qué autos descansan Telediario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "88a528ec626d08df"
+ },
+ {
+  "titulo": "Día Internacional de la Eliminación de la Violencia contra las Mujeres: Samuel García ilumina Torre Administrativa",
+  "liga": "https://www.posta.com.mx/nuevo-leon/dia-internacional-de-la-eliminacion-de-la-violencia-contra-las-mujeres-samuel-garcia-ilumina-torre-administrativa/vl2282799",
+  "medio": "Posta",
+  "publicada": "2026-11-24T20:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ae3a40956fa78cd7"
+ },
+ {
+  "titulo": "Yoloczin Domínguez niega presunta brujería contra Evelyn Salgado",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/24/yoloczin-dominguez-niega-presunta-brujeria-contra-evelyn-salgado-296524.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-24T20:52:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "4cf78b100aed04a3"
+ },
+ {
+  "titulo": "Eliminan a mexicana de Miss Universo 2026",
+  "liga": "https://www.elnorte.com/eliminan-a-mexicana-de-miss-universo-2026/ar3320994",
+  "medio": "El Norte",
+  "publicada": "2026-11-24T20:52:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La mexicana María Vargas no logra ser de las 12 finalistas de Miss Universo 2026; Jennifer Barreto, de Puerto Rico, sí consigue un lugar.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8de20fffe47b47cf"
+ },
+ {
+  "titulo": "Ernesto Chavana celebra el triunfo de Rayados y advierte que será un rival incómodo en la Liguilla",
+  "liga": "https://www.posta.com.mx/perspectivas/ernesto-chavana-celebra-el-triunfo-de-rayados-y-advierte-que-sera-un-rival-incomodo-en-la-liguilla/v-vl2282801",
+  "medio": "Posta",
+  "publicada": "2026-11-24T20:50:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fe5c5d4381143521"
+ },
+ {
+  "titulo": "Salvadoreño deportado por error deja EU por su voluntad",
+  "liga": "https://www.elnorte.com/salvadoreno-deportado-por-error-deja-eu-por-su-voluntad/ar3320991",
+  "medio": "El Norte",
+  "publicada": "2026-11-24T20:47:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "El salvadoreño Kilmar Abrego García, deportado por error en 2025 y devuelto a EU, abandona voluntariamente el país, según Senador.",
+  "temas": [
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "4e54b750d29a54c1"
+ },
+ {
+  "titulo": "Grecia Benavides pone bajo la lupa el impacto de Airbnb en la vivienda de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2VYSTBxX0haOTFsRWcwVmJsMUV6Zk52NVlLSnRYMS1hQ003YVJoT0hiUHBPZkltN2YzWW8zVnloTkRWTEpmOFBZY2h4M3ZmWWk3ampna2p5d1dUWndHaGNYbzBzQV9vaUVqOTJBZURRcDBIeGlKTlk4OUxHQ2duOVZZSEFoVTR5V0c2RVBFTU1hTDhqeW0yUl9LMnB6Z3l6eTEta3YyYVBFV3hQbzllLXVaSnhVQ2ZYOEE?oc=5",
+  "medio": "El Soberano",
+  "publicada": "2026-11-24T20:44:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Grecia Benavides pone bajo la lupa el impacto de Airbnb en la vivienda de Nuevo León El Soberano",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5e093b20d766b5cd"
+ },
+ {
+  "titulo": "Bomberos sofocan incendio en casa de la colonia San Pedro 400",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2pOMnJsN2FjU3hOa2JybjRlbG1RTzU2RlRxWmh2S2E3Qjg4RzI5WF8xZHpKZXFiWTE5d0RBRXV3NHllSFoyaVhsdmliVEhmSkFMalRDd0hOZHpEVmU2c2ZTaFBtbUdqYlQyWmhTZHJxZVNYVHFFZ0tIaUtWSXpWMzNVV2lhQVZ1OXdDaklqb2tiLS04Q2x4RmtxblhySTk0?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T20:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Bomberos sofocan incendio en casa de la colonia San Pedro 400 INFO7",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "9b17092ff8e3f911"
+ },
+ {
+  "titulo": "Crecimiento económico de México llegará a 2.2% en 2027, pronostica el banco suizo UBS",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOG1ITG5SQ0F2cVZfUlJvYW40SnZSR1o1NzVvemxTallCUGdQeUU2OFhEc1p2czF6UmVlYzA0VlpSUTR3YnNnaWhxa29WTVZ2dWdTU2I5c0FOeEt3R05iX0tzcWs4Njl0bGhUZG5vaURHUUJTTVNSdlZwVjZhNnp5cV80cGRmNWNkcXN0RnVFVUE2OXdwZWZDRnBSelpQRDZIZ0Z3QnJLUXdFUDUtZ1h5QWIwbTFRb0JJRzQyQWs1a0pHSEVpSkhpX0YwSTJMNGVD?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-24T20:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Crecimiento económico de México llegará a 2.2% en 2027, pronostica el banco suizo UBS El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2afca5daf9daf24c"
+ },
+ {
+  "titulo": "Declara Los Ángeles emergencia por erupción en vertedero",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRko4aHJkbVVPM3FFNU5NZkN3SzJaa3lWOTNRT2ZyXzZmMlZFeElvS1NJZ0hZYWNIX3lUMmRYdVQ4dlpWSF9SdzRwWUs4MGFQaHdzN0Y0M2ZKOWlMWDNMbHN3OE5QSkJ6bGY2X2ItVThBcmlXSUxXcjNWWTMtT3lGdjZ4czRaaWxvQ0ZRaHN0RlRzSDJ1NEF1WW1yN1hLRE5acTAwTzZvMng1SE9z?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-24T20:40:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Declara Los Ángeles emergencia por erupción en vertedero El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6d7665a21c391612"
+ },
+ {
+  "titulo": "Facultades del fisco vs. derechos de contribuyentes: TJACDMX inicia seminario fiscal con participación del Tribunal de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdnNCeXU0Zkx4Q0NBOF9PVEdXM0JweTVqYW1vaXVROU56V1hmcVhzTElCN1RpcVVzcXRsemVaUGV0WXRJMzV5SENDMmZ0M2ZXV0RqR3FqMjR1ZDRSLWlNbWNhMHNpdUc3eFMwVWxHRW4tb2QzMkNna25BcDZRd1FZRGVFcnFodk9UOXNpcU5PbDBNZjFnVEFwYUgzMjhkNXJJcnR0SGgyc3VtalJ5TlVHb29OYUF5MlhJSm14LXZDMTIyeHZPcm1tLTZBSGUwTFBlS2pDbDYtTDVpSlNrZTVQaGF4TU1aQlE?oc=5",
+  "medio": "Edomex Al Día",
+  "publicada": "2026-11-24T20:40:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Facultades del fisco vs. derechos de contribuyentes: TJACDMX inicia seminario fiscal con participación del Tribunal de Nuevo León Edomex Al Día",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1317e4329a54e8ac"
+ },
+ {
+  "titulo": "‘Está muy asustada’: Maru Campos responde a demanda de Ariadna Montiel",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODVPYkduN2xBdTlySTJjeGxWTzRFbWxJY1pUYW1GNi1kRFBZemdsdG1qQ2Y5SktSOWw2UHBfMUo2TkxBMDZoUXh1aTNDQ1pheXdsSFI3TGkyanB6Vk13Y3kxMS1DSnRqSmY2dGRCbEtZb3R0RDdRb0s0VldaUENBVG5RaDhPYWJTQXRTamxCbUhZMGdCV0g3bG1lb0R2dXplU21hdERJdXJYQ0NreUIyU3Y3TjBGT05UN0gyRw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-24T20:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "‘Está muy asustada’: Maru Campos responde a demanda de Ariadna Montiel El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "00d8650f470f3fd6"
+ },
+ {
   "titulo": "Es el 'Grillo' Sada embajador de PAZ; arranca el Partido su ruta rumbo al 2027",
   "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2FIZVNjQnpSTGdoODFHU1dRbWo0SV8zYXJNNDlpR3VLX25uTnpOU2E3azJFUU56RGxkV3czZU5jNk9EUnNBSUE0c0RWaUVCRkVvZHJvMUhHV0xCc0MyaUZ3YUxteEtwNF9lbEltQjBYaHp1UnNBY3ZBVUg4bEJ4bkNXM0lQaWphTGdJeURhQi1ZNHhk?oc=5",
   "medio": "www.detona.com",
@@ -14,6 +505,34 @@
   "id": "1c6506dc14f0bffb"
  },
  {
+  "titulo": "'Aplaude' Samuel decisión de Colosio de ir por Sonora",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdHFoTzdPLTNncHhTM2Z5Y1NhWjdlYzM2V180dzVWS21NQkRvVnVZcUVwRzZCd19RTzZhNzFLMm1JeTI2N3VnR2h3bUE3RDVDcXVfTEJSMFBDSF9LcmM2SmtQcXZKVWpuaV8wd1BJUC1QT0tDOVNqenhYZmlQNHRKRVJ4X1BXU2pVNkZCd1hhQVdabUVxRElhUDBJRkJSVWJySFNnTHVR0gGrAUFVX3lxTE8zWFd2djZNUDNzd09qTGVqQnduSFpwNEdxR3dVcGczb0NkQXNPN0RlYmwxUVVpTy1qN1Frei1UWWFfbDB2TGotMzZzQ1J4Mnhic1RHTzVSaXphazM0M2x4SmJheEJEM3NhTjR5VWM3TnlWRzZXeTdxSjJtMmhjbHVKZDVDZFVfZl93dGpjX05wVngwSDJVYlVhNV9VajcxOVF1UGVDN2lWd0hGQQ?oc=5",
+  "medio": "El Diario",
+  "publicada": "2026-11-24T20:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "'Aplaude' Samuel decisión de Colosio de ir por Sonora El Diario",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "03345129e6e59e51"
+ },
+ {
+  "titulo": "Mujer termina con la mano prensada en fábrica de Santa Catarina",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUZnM0pJdDU0eXhUUG9ZZXZrUVAzSUxmWmZleGJodUVuR0pEWEdyeWR1ODF5aXR6M3pNZlMyamhlNXp0Uld0X2Z2YXFsOFVJaWlTWm8wTHNGb1J1bWtleHFCcmJRdFpQSjdYNTB6Z1VCblBXeWlCSmVpLWN1MHdEUC1SU2p4eDE3V3cyYzY4anF6b1I5bFB3RWJDb04yRzlPUTVj?oc=5",
+  "medio": "Info7",
+  "publicada": "2026-11-24T20:37:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Mujer termina con la mano prensada en fábrica de Santa Catarina INFO7",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "4a04fb7e638305fd"
+ },
+ {
   "titulo": "Buscan a joven desaparecida en centro comercial",
   "liga": "https://www.elnorte.com/buscan-a-joven-desaparecida-en-centro-comercial/ar3320985",
   "medio": "El Norte",
@@ -26,6 +545,48 @@
   ],
   "local": true,
   "id": "52c777480bf10a8c"
+ },
+ {
+  "titulo": "Localizan a joven desaparecida en centro comercial",
+  "liga": "https://www.elnorte.com/localizan-a-joven-desaparecida-en-centro-comercial/ar3320985",
+  "medio": "El Norte",
+  "publicada": "2026-11-24T20:36:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La Fiscalía comparte la localización de la joven de 19 años, que fue reportada como desaparecida en un centro comercial, en Monterrey.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "371c53a2221c88e5"
+ },
+ {
+  "titulo": "Empresas en Nuevo León buscan ingenieros que construyan e integren inteligencia artificial en sus operaciones",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTERVTG42QWRpZXlJR1UweWJNTWNxcWNzRzdJcEVJWjlnbF9XbV9DbDdVRFBtMWN1RUtGNnRVZzk2cFJDU1JnV1g1Z05YemZqRUNpOE9uaHB2TFBqaW5wSlc0OWVQNW84SUZCcktNeU1zOXdIY3lYY0tnX2JFOWQ0bWRqY2hsZVhrb2xfMmctMlpKd0c3OWtoWmVXb0dKTGZJODQ1Wjd6YlhlLXVYQ2JiblJJcmVNcFFmamFUZ1JvcDVkR0lBQWlDbnlUQVl3djNiV282QzNoMG54UQ?oc=5",
+  "medio": "88.9 Noticias | Noticias en Vivo | Información Que Sirve",
+  "publicada": "2026-11-24T20:33:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Empresas en Nuevo León buscan ingenieros que construyan e integren inteligencia artificial en sus operaciones 88.9 Noticias | Noticias en Vivo | Información Que Sirve",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "8a4b221c5e981a6e"
+ },
+ {
+  "titulo": "Detienen en Monterrey a joven que presuntamente asesinó a su padre en Tabasco",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnh2ZnJiZE9XSXNnYzBoN1ZFb2NGQmIyZUlObG5OMjNDYUp5MWR6VzhLT0wwbTdhOUpfUTREeFlCVW5VTDV4UHpKSXQ3XzFEczlYbnFrblBaWVROOXRKa1kwSGZVUmN5ZnNjRWhyUlhsX3gxaDVJaE5pNExTU2trdk5JVWZwRlY5SFHSAYoBQVVfeXFMT254dmZyYmRPV0lzZ2MwaDdWRW9jRkJiMmVJTmxuTjIzQ2FKeTFkelc4S09MMG03YTlKX1E0RHhZQlVuVUw1eFB6Skl0N18xRHM5WG5xa25QWllUTjl0SmtZMEhmVVJjeWZzY0VoclJYbF94MWg1SWhOaTRMU1Nra3ZOSVVmcEZWOUhR?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-24T20:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Detienen en Monterrey a joven que presuntamente asesinó a su padre en Tabasco Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d8ac93d7acf50dea"
  },
  {
   "titulo": "Reporte Empresarial",
@@ -112,6 +673,20 @@
   "id": "da7db4e9b60c44cb"
  },
  {
+  "titulo": "Rescatan a 56 Personas Víctimas de Explotación Laboral en Campo Agrícola de Galeana, Nuevo León",
+  "liga": "https://www.nmas.com.mx/nuevo-leon/sociedad/rescatan-a-56-personas-victimas-de-explotacion-laboral-en-galeana-nuevo-leon/",
+  "medio": "N+ Monterrey",
+  "publicada": "2026-11-24T20:20:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "25907c2666e7a088"
+ },
+ {
   "titulo": "Rescatan a 56 Personas Víctimas de Explotación Laboral en Galeana, Nuevo León",
   "liga": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYW12a3l1OGYzT0tJTEs1VEw0OENCS2l4TFNoY2VfUGwxV1JCQkJmb0ZOWjYzWTZwcklZczBfeHlydXNkVE5QdE9sekkxUE5jM2l4SXJqeW10cm5RNVZycGZpT2hkZThfR1JyWGxNLUJISE1KdmcybGt2U0diVElKX1kwbzJlV3dicmJBcDl2djR5WjY5OVYxYk1ab0FxdFVNdzFXOTc0RldDMnpfTmUyN3VuZkdJdVhMd0huOHJR?oc=5",
   "medio": "N+",
@@ -138,6 +713,20 @@
   ],
   "local": true,
   "id": "fc6b7ee03057810e"
+ },
+ {
+  "titulo": "Miss Universo 2026: María Vargas se despide del certamen",
+  "liga": "https://abcnoticias.mx/show/2026/11/24/miss-universo-2026-maria-vargas-avanza-al-top-30-de-semifinalistas-296523.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-24T20:17:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "0020b829287d0bb4"
  },
  {
   "titulo": "Noticiero completo de Jaime Núñez del 24 de noviembre de 2026",
@@ -265,6 +854,20 @@
   ],
   "local": false,
   "id": "96ed0eace3314fec"
+ },
+ {
+  "titulo": "Analiza FGR 'viabilidad' de extraditar a 'Chapo Isidro' a EU",
+  "liga": "https://www.elnorte.com/analiza-fgr-viabilidad-de-extraditar-a-chapo-isidro-a-eu/ar3320967",
+  "medio": "El Norte",
+  "publicada": "2026-11-24T20:07:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La FGR informa que la extradición de Fausto Meza, \"El Chapo Isidro\", a EU dependerá de los procedimientos del tratado bilateral vigente.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b97b2d97a895e5d8"
  },
  {
   "titulo": "Entregan más de 19 mil apoyos a familias de Nuevo León",
@@ -837,6 +1440,20 @@
   "id": "7c8086db2470efc3"
  },
  {
+  "titulo": "Miércoles sin auto: Hoy No Circula del 25 de noviembre en CDMX y Edomex",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGVGWUNLVzl4WWZMVnZMS2k4SWRMbUxoQVlwek5HTDBsMW5mNHNoUkcwcVJOQzQzRk9sNUl0MjlCOEZXeUttX05NWjZvZjMyVVdtOHZUMXdRdkpHOUJhakpKMy12TVVMcE5ybUtldWFwMDJQbWQ0SXRTbktHLTVKbnY0RWxJa25OcDFxT01sZzZpU1B5am9GVUZVcUZ6aER4cjlnVFBOVzBGOWtubGZJNjRMS29RSHpUY0FIRw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-24T19:02:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Miércoles sin auto: Hoy No Circula del 25 de noviembre en CDMX y Edomex El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "637010596ff479c2"
+ },
+ {
   "titulo": "Dejará Mohamed al Toluca al finalizar el semestre",
   "liga": "https://www.elnorte.com/dejara-mohamed-al-toluca-al-finalizar-el-semestre/ar3320912",
   "medio": "El Norte",
@@ -1007,6 +1624,20 @@
   "id": "30aa233692450f28"
  },
  {
+  "titulo": "PIDE GRECIA BENAVIDES EVALUAR IMPACTO DE AIRBNB EN LA VIVIENDA",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDRmY2hLTVYyLXBqamVYNG9rS2pKeFFuOE1mX0NtRWwtbGlQaHlsNEJzSUhWRFRFS3JBbWhWalZMV2tGMDVHZ2pFOEEwQkVMVWJSWENDbVg3dVBaWHJ3NFdOWnlDVVpCbXgtVlRHUFRXLUttOWdSb01oU2piWTBQSU5mMVRXUlpYdnhFQWpLdHpwNVNFY21qeGtaV1I3V21uYk93OGh2U2dqSXhwelpDY09Hcw?oc=5",
+  "medio": "H. Congreso de Nuevo León",
+  "publicada": "2026-11-24T18:47:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "PIDE GRECIA BENAVIDES EVALUAR IMPACTO DE AIRBNB EN LA VIVIENDA H. Congreso de Nuevo León",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "e54f4728adbd334c"
+ },
+ {
   "titulo": "Ataque ruso deja dos muertos y 44 heridos en Zaporiyia, Ucrania",
   "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUFNaUlBRVVJfTDVFb1lLYkVPaEw0MkJ6aTZWTTVYNll0REo1NzRDckl3TFlJeUxXcWU4Nmd1MllKdFk1enpNVW56SXVaWk4xeHFqRnRMWm9kVGxDMEgxQVFVVXdWNmlwVG9tZG5pakItYzdKWWpCU3NwT21VVUNEaHIwX1MxR3dRWjJiYTFwUnI2NmJwXzFRempuQmFhRFBYSjZuNDIyei1oVHBQLVBpOG9JV28?oc=5",
   "medio": "El Horizonte",
@@ -1075,6 +1706,20 @@
   ],
   "local": true,
   "id": "9f939583e7aa5adb"
+ },
+ {
+  "titulo": "APRUEBAN REFORMA A LA LEY DE ADULTOS MAYORES",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWF9DTzhqOHBkWE1vTVM4TVR1Si1yNlJpalR3ZmNidzlydlVrb09teXlaYllZWUFGR1ZRVFctUEtaXzBNNy1PQlI3S0w2NEpvVEdRcWtlRUJvYzhrOGhLeWY3X2lwRU9KTGl6amVudmpfbXFfVl8xNThSanhIMnByZDMteDBDVWlYRzlJY3dTdjlFbUJ4SVdRbWVVbw?oc=5",
+  "medio": "H. Congreso de Nuevo León",
+  "publicada": "2026-11-24T18:42:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "APRUEBAN REFORMA A LA LEY DE ADULTOS MAYORES H. Congreso de Nuevo León",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "c4c70c160edfb174"
  },
  {
   "titulo": "Primera tormenta invernal 2026: fecha, estados afectados y frente 8",

@@ -1,5 +1,818 @@
 [
  {
+  "titulo": "Sinaloa tendrá 720 cámaras de vigilancia y 30 lectores de placas en carreteras; operarán en diciembre",
+  "liga": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlVYLV94V0dkXzBwYS1vMWdWNlpGdms2aXVxemQzeFk5NDhLYW5VM3BhNko2N29SYloxbktfMHJmTngzMWE5MVYtbW1PdE1HOGRYZ01RWEpBdzFKQ1JfQm91bFBLSHZsU0hlMnVqd2VWVjRCOGJpZWxncjBwX0lSM3MxeV9HY0Z3X19zODhGSFZtMGU5dEZvN1NlTkNpaGVYNUtvZkpZU1VkeWZRWktPUGZpRVBlMlk1UFVsam9kRThld3RyVE91VkR6ZVE?oc=5",
+  "medio": "MAGMA Noticias",
+  "publicada": "2026-11-24T22:04:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Sinaloa tendrá 720 cámaras de vigilancia y 30 lectores de placas en carreteras; operarán en diciembre MAGMA Noticias",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "d5c98d73695c7b59"
+ },
+ {
+  "titulo": "Atacan a balazos a un adulto mayor en la Francisco Villa, en Mazatlán, y fallece en la calle",
+  "liga": "https://losnoticieristas.com/policiaca/2026/11/atacan-a-balazos-a-un-adulto-mayor-en-la-francisco-villa-en-mazatlan-y-fallece-en-la-calle-1172683/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T22:00:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Este ataque armado ocurrió de manera simultánea con el hallazgo de un hombre sin vida dejado del puente de Prados Sol, quien también fue privado de su vida por arma de fuego",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "700538bc88753f8f"
+ },
+ {
+  "titulo": "Harfuch entrega patrullas y motos en Sinaloa; anuncia llegada de vehículos blindados",
+  "liga": "https://lado.mx/noticia/22395320/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T22:00:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Omar García Harfuch entregó 60 patrullas y 35 motocicletas en Sinaloa para fortalecer la seguridad pública. Anunció también la llegada de vehículos blindados para Culiacán y Mazatlán.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4df91a83495b0a5a"
+ },
+ {
+  "titulo": "Senado de EU investiga a JD Vance por presuntos favores a petrolera vinculada con Venezuela",
+  "liga": "https://lineadirectaportal.com/internacional/senado-de-eu-investiga-a-jd-vance-por-presuntos-favores-a-petrolera-vinculada-con-venezuela-2026-11-24__1744881",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T21:59:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La indagatoria busca esclarecer los vínculos entre el vicepresidente estadounidense y un empresario que realizó millonarias donaciones al Partido Republicano",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "5ad693b1a6f54fa7"
+ },
+ {
+  "titulo": "Integrantes del PJF presentan propuesta de reforma en el Senado y esto cambiaría",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1pnd2JIS1UwR3o1QXJMRXNEeEd5bDJrY1VySG9DMWJiSXlBSDRfeldta2FDUFU1WS1FeHBYZVR2b2Y3U2pWNjM5ZEJvNHU0cTdrZVJSQm1KSFMyLWdzemRxN2cxTjNFQXUwZm40RU9GV2ZVNWdtbzBYWVNIQ2R5SUxHVGJCQy1UaGpUY293bFVTM1Bma080RGIxeUd2ZnAwcUtQdThiQjNUSEV1ZFh1WnNyOVVjRGNaNE9HT0tnUE9vemozaUpYM2dDS1JEX0U?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T21:58:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Integrantes del PJF presentan propuesta de reforma en el Senado y esto cambiaría Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b83836aa79904094"
+ },
+ {
+  "titulo": "Asesinan a balazos a un hombre bajo el puente de Prados del Sol, en Mazatlán",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFlZTlZqVVBsdVFCZ3ZEU28xdUxPVmZJQTA4YXV1VkpJY29yeG1FamJFVGhQa0FweDZwbUJuN3lTd2l1VGg3S3VCSXAxUDJNcWZnWVB2Zi1OWXhzUnJxVmpvby1MUzFqS1RfYlpCUG5DZktIUnRCdC1NQXJaaVRiVUVRV1BwLUhjcHJPUW11QXZ2QXZRMzJYUmRDWFhOLTJaTUd1cV8tWlE5dmtESFl1NS1HR2pTdi1lSlJyQVVBRTJSekNydEJEMV9xczd3emI1NnMyNQ?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T21:57:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Asesinan a balazos a un hombre bajo el puente de Prados del Sol, en Mazatlán Debate",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1ef834ea823c7232"
+ },
+ {
+  "titulo": "Atacan a balazos a trabajador de una frutería en Loma de Rodriguera, Culiacán",
+  "liga": "https://lineadirectaportal.com/policiaca/atacan-a-balazos-a-trabajador-de-una-fruteria-en-loma-de-rodriguera-culiacan-2026-11-24__1744879",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T21:56:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "‎El hombre se encontraba trabajando en la parte posterior del establecimiento cuando fue atacado por sujetos armados. Paramédicos de Cruz Roja lo trasladaron a un hospital, donde se reportó grave",
+  "temas": [
+   "Salud",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bc3c4e17a6812a8e"
+ },
+ {
+  "titulo": "Se mantiene despliegue de seguridad en la Feria Ganadera de Culiacán para reforzar confianza",
+  "liga": "https://lineadirectaportal.com/sinaloa/se-mantiene-despliegue-de-seguridad-en-la-feria-ganadera-de-culiacan-para-reforzar-confianza-2026-11-24__1744878",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T21:55:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "El grupo interinstitucional se mantiene desplegado en el interior y exterior del recinto en donde se desarrollan las actividades de Expo ganadera y entretenimiento",
+  "temas": [
+   "Cultura y tradiciones",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "b1d311f54d243d96"
+ },
+ {
+  "titulo": "Blindan Palacio Nacional previo a las marchas del 25N y refuerzan seguridad en el Zócalo",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDBkcTJrdlpOOFVNT0s3a0stUzJmN1hKTC1QbEphT1VLS3NJTDVaWkIzN0NvSVlsbXRwWFVfZ19lNjJxcVZqNUpielJRa0hXOXhEZGYxQU1iVjlmMzVsT3NYUHdzVVhQZzBCT0dEQWV6WWFwaTNvWlNqamtzZ0dCMDBpekpCTHNpaUJnWWZBX3h3d0g5MVY5MTVVdTBWSDBsLXJGdVdZVnZzd21RM01FdXZLQlZFaUZ1Um4zbFFRcXZ4U0tBZ3J6UDllS2lNcUV1SFRoMg?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T21:53:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Blindan Palacio Nacional previo a las marchas del 25N y refuerzan seguridad en el Zócalo www.debate.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d791a75fed27cd5a"
+ },
+ {
+  "titulo": "Trump prepara nuevos aranceles contra China y la Unión Europea: qué países serán afectados y por qué",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSm9EQTJhUGc2OUx3eDVHaWNKeTZoYTZNczY0WkxRb0p5WEd5VVozZUZCTUF2VHVFRUZqakQ5Z0E5bkg3T1dvMnBhalZocFVURFgzZnFuWVRvYmdvaElWNVVkcWpadzJiU1RHdlpwVzloR0lzNXhjRzFuR3o5XzZsNzVpMEg2UFF4aXlfV3poYUFUZUZvbFlJQ1l0VDU0Q2tnOGtuazBlSnpjYlpVek1ZemM3M1F3UkIydjUzb1o5YWlPNGw4a0tGWklVdFkyRzJVMnQ4SndPVk55Z2JsR0tKZlBvZG0?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T21:51:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Trump prepara nuevos aranceles contra China y la Unión Europea: qué países serán afectados y por qué Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "30a0b5c4d7d7579d"
+ },
+ {
+  "titulo": "Funcionarios de Sinaloa señalados por Estados Unidos: ¿quiénes son?",
+  "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGgwbzgxd0hpU2hULVhzS1I3djNOdlI1ZC1aTnRrdnktQlpCLWdBRDRjXzJYUTdCdktUam0wcW1VWWdzUndleTctTnd5a1U0UFhSU0lHaDljRTU0Z3NJblRKMkhyV3dDdmxuNkdVRlNwMnJTMHJBckdoTlFQM01pWkJ3eXoxanJ3dWpWOGxTd0NlSm1vR25xTdIBmAFBVV95cUxPTWcwSWZJQjhnRWUwaHdFNlBGWlhMTkN5UWhuRFpGNVlQNW9qZElRWGlDN2RHYzRIUlZOSTI4TC1Kbjk3dUFPQ056OFBEMUlla0VoRzF3TEF2bFRKUlRHc0xzcklyaW1kUVJ2dU95U3g0cURST3FadXl1UGZuV29kbG5qYXZoa3YzQTFYazZnaHJyNWVNMEJZdQ?oc=5",
+  "medio": "MILENIO",
+  "publicada": "2026-11-24T21:51:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Funcionarios de Sinaloa señalados por Estados Unidos: ¿quiénes son? MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1f0dea67ab607910"
+ },
+ {
+  "titulo": "Lesionan a balazos a empleado de una frutería en la colonia Loma de Rodriguera, en Culiacán, Sinaloa",
+  "liga": "https://losnoticieristas.com/policiaca/2026/11/lesionan-a-balazos-a-empleado-de-una-fruteria-en-la-colonia-loma-de-rodriguera-en-culiacan-sinaloa-1172676/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T21:49:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Los hechos ocurrieron en el trabajo de la víctima, el cual se encuentra sobre la avenida Álvaro Obregón, casi esquina con la calle Agustina Ramírez",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c2dab9a38a52b8a1"
+ },
+ {
+  "titulo": "Pemex incrementa 22.4% sus emisiones contaminantes y enfrenta críticas por su desempeño ambiental",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOElYMzgxeld1MDhGUmlheTJqZXJYNkxCQVpyRGJqajNadWY0eFgySTZvU3UzRUNJWGNpejFSNDNvbzM4RHNBNWxwaHFLYTQzTDBvRUJBNVJ0S05MWmMxQzFCUTNlRXRlLVlJRTFlTEFhTWltYzk3NWU0YWJJQkR6WWtxY2Exb3BMdm5BRWlZckM0QkFwckNsLVRhX3ktZktKekMwaVFxNGJfT1h1dTlwalFXVXYtQXoteGI0M2RHaGRkcVN2OFdMRmZGVWlycGhPbFdMSGFNaFNoRWlaZm1fcU1WMzg?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T21:49:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Pemex incrementa 22.4% sus emisiones contaminantes y enfrenta críticas por su desempeño ambiental Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9ad21286c3a8360f"
+ },
+ {
+  "titulo": "Estrella Palacios participa en acuerdos estatales para fortalecer la seguridad y la paz",
+  "liga": "https://revistaespejo.com/2026/11/24/estrella-palacios-participa-en-acuerdos-estatales-para-fortalecer-la-seguridad-y-la-paz/",
+  "medio": "Revista Espejo",
+  "publicada": "2026-11-24T21:46:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La Presidenta Municipal de Mazatlán se incorpora a la Conferencia Nacional de Seguridad Pública Municipal, como parte de la representación de Sinaloa en este órgano de coordinación.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "9b721d5c933befb1"
+ },
+ {
+  "titulo": "Morelos: declaran culpabilidad por feminicidio de estudiante de la UAEM",
+  "liga": "https://sinaloa.quadratin.com.mx/morelos-declaran-culpabilidad-por-feminicidio-de-estudiante-de-la-uaem/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T21:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Eylin era estudiante de Psicología",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f67514ddc73d17f0"
+ },
+ {
+  "titulo": "Huawei es declarado culpable de robo de secretos comerciales y fraude bancario en EU",
+  "liga": "https://lineadirectaportal.com/internacional/huawei-es-declarado-culpable-de-robo-de-secretos-comerciales-y-fraude-bancario-en-eu-2026-11-24__1744849",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T21:40:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La compañía también fue absuelta de un cargo más grave relacionado con asociación ilícita, en el marco del miso proceso judicial",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d9f42b89688a9fec"
+ },
+ {
+  "titulo": "FGR confirma solicitud de extradición de EE.UU. contra el ‘Chapo Isidro’",
+  "liga": "https://lado.mx/noticia/22395236/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T21:40:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Fausto And #160;“N”, señalado como posible integrante de un grupo delictivo con operaciones en And #160;Sinaloa, permanecerá a disposición de las autoridades mexicanas, mientras se determina la And #160;viabilidad de su extradición a Estados Unidos, informó la And #160;Fiscalía G",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f67a3c2ab50fa082"
+ },
+ {
+  "titulo": "Respaldo ciudadano en Sinaloa es la base para construir la paz: Saucedo",
+  "liga": "https://sinaloa.quadratin.com.mx/respaldo-ciudadano-en-sinaloa-es-la-base-para-construir-la-paz-saucedo/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T21:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Secretario General de Gobierno, César Julio Saucedo, preside sesión del CESP",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5b5c4ec89a7e0287"
+ },
+ {
+  "titulo": "Escondían tortugas en calcetines dentro de vasijas de barro en Chihuahua",
+  "liga": "https://lineadirectaportal.com/mexico/escondian-tortugas-en-calcetines-dentro-de-vasijas-de-barro-en-chihuahua-2026-11-24__1744865",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T21:36:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "El cargamento incluía especies protegidas y algunas en peligro de extinción; Profepa investigará el caso",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d80a34f0d371d19d"
+ },
+ {
+  "titulo": "La huella de Diego Armando Maradona en Dorados: la vez que Sinaloa se convirtió en el centro del futbol mundial",
+  "liga": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb240LTRJbzJSUjVObnpLSHFHajR5dFVuMHc0cl9WbFB1aFcyd0wxcUJxbmVxQzdCOHc4TU1GOGMwWm9yMWlXMjBtblNPTUtjdlN2akhfajA4UTdCWm1qUzhLRXlJend1ZFpDUDNXdXNWMWdRM0NDbVpnRGtRYkRnQjFDYi1SMDVjbEo3NjNSbmlLbEI0TWRSd0RoaHZpbTBWTmdiWjY4OWhock55ODl6MzNCM0p3OXVUdllhdWZiM21oWkM4ZWtEUlZLVm5ucGoxN3dxOGc4cjFjN21Gcjh4d1NQWENHT0hBMm42YjNyWlAwZlEw0gGPAkFVX3lxTFBzSGNaQ2hoSHVsMVFjbVp6NGZRT20wanZMYWVBV2gxcjhINGRwNmpHWWdwa2xiYkZGdzZRWWRHX1Jpcm9nSkZkNUxqT2FfSTZidXZ5cXdCTWVUemo0cDdKV1RXLUpCOWV3cU8xTWN0LUNYalpscnpXOWI2OEtzQzdkcjFzQi1HUlhIaWlnZFpoc2R0ZG9iazFjdHFKaTU0LUI1STFGazFDZTdPNl9fd09oSWlCZy1vQ0JFcS1FSmh2S0xLbFlES3diODFVZDlWdEJCUERHZjZJWVk3N1JkQjhtMXpFSUZFSEpSRGxqdjBST0NGcDNOdnM1YnQtMUNkUGhtNHBVa3VEOEVBYVROamM?oc=5",
+  "medio": "Infobae",
+  "publicada": "2026-11-24T21:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La huella de Diego Armando Maradona en Dorados: la vez que Sinaloa se convirtió en el centro del futbol mundial Infobae",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "92e432ad2d192123"
+ },
+ {
+  "titulo": "Joshua y Giancarlo eran primos; Los “levantaron” y asesinaron en Lomas del Ébano en Mazatlán",
+  "liga": "https://lineadirectaportal.com/policiaca/joshua-y-giancarlo-eran-primos-los-levantaron-y-asesinaron-en-lomas-del-ebano-en-mazatlan-2026-11-24__1744872",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T21:32:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Los adolescentes fueron localizados sin vida entre el monte el pasado viernes 16 de octubre en la colonia mencionada",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "820263bc8a1f27e5"
+ },
+ {
+  "titulo": "Ejecutan a balazos a un hombre debajo del puente en Prados del Sol, en Mazatlán, Sinaloa",
+  "liga": "https://losnoticieristas.com/policiaca/2026/11/ejecutan-a-balazos-a-un-hombre-debajo-del-puente-en-prados-del-sol-en-mazatlan-sinaloa-1172661/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T21:32:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La víctima recibió disparos en su cabeza, lo que inmediatamente hizo que perdiera la vida en el lugar",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ff8a6dbd83ee7274"
+ },
+ {
+  "titulo": "¡Más movilidad y libertad! DIF Sinaloa entrega sillas de ruedas a niños, jóvenes y adultos de Mazatlán",
+  "liga": "https://lado.mx/noticia/22395148/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T21:25:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Personas con discapacidad neuromotora y física en Mazatlán, Sinaloa, recibieron apoyos funcionales en el Centro Regional de Rehabilitación Integral",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "ecb8f5ed93e5d228"
+ },
+ {
+  "titulo": "Ante llegada de equipamiento federal, Estrella Palacios apuesta por fortalecer coordinación en seguridad en Mazatlán",
+  "liga": "https://lado.mx/noticia/22395144/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T21:25:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Estrella Palacios Domínguez destacó que el respaldo federal permitirá fortalecer a la Policía Municipal con nuevos vehículos y capacitación. Mantendrá como prioridad la coordinación entre los tres órdenes de gobierno",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "49718abd79173d0a"
+ },
+ {
+  "titulo": "Marino de la Cuarta Región Naval de Mazatlán, Sinaloa, obtiene el primer lugar en competencia de aguas abiertas",
+  "liga": "https://lado.mx/noticia/22395145/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T21:25:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "El tercer maestre Luis Jaime Vargas Espinoza ganó la prueba de 3 kilómetros durante la competencia “Blu Serial”, celebrada en playa Pichilingue, en La Paz, Baja California Sur",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0bf6ef30e029b0c7"
+ },
+ {
+  "titulo": "Asesinan a balazos a un hombre de 44 años en la sindicatura de San Rafael, Guasave, Sinaloa",
+  "liga": "https://lado.mx/noticia/22395146/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T21:25:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Un hombre perdió la vida al ser atacado a balazos en la sindicatura de San Rafael, Guasave, Sinaloa",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "1a85e27365a4d0d5"
+ },
+ {
+  "titulo": "Persecución Termina en Balacera y Provoca Pánico en Ahome, Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUhfVjJWTXYweW9ZVG1McDZpVHoyZW9YNlozZk5fMUE0ZXo0clRLTkdmVlVRMWdnMUhNaTJwYmVYUkdqd1d5clJuaVZIQjNydl85YXhUUGRJQW9TWTBsN21UTFlVRE9od1l2d01XSDZzQktfZHVweUNyUU1kU0U5dVM0THZMVUZ2M0R5Z0FUdm1Jb3A2Z2ZUYUNSX2J1SjZOWkxRaW1pVnh0N3FlSzlyRDE0Ym0zelJjc1M3ZlphUQ?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-24T21:25:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Persecución Termina en Balacera y Provoca Pánico en Ahome, Sinaloa N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "109a184fb92156c5"
+ },
+ {
+  "titulo": "Chapo Isidro enfrenta doble proceso judicial por lavado de dinero y narcotráfico",
+  "liga": "https://lado.mx/noticia/22395133/",
+  "medio": "Lado.mx",
+  "publicada": "2026-11-24T21:25:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Chapo Isidro, detenido en Guasave, enfrenta investigaciones por lavado de dinero y delincuencia organizada en México, además de una solicitud de extradición de Estados Unidos",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f2c3beb7d13dcf48"
+ },
+ {
+  "titulo": "Pierde su tráiler en enfrentamientos en Sinaloa y pide apoyo para recuperar su patrimonio",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGVYNWZwMThKQ1BqclVqMjRVQzVheV9xWFN6ZDJEV01rdVN1TWJ4dUtHOHVDZnVVbDVmZTBVSldUNEVEX1c5ZFJDLW5LamFXNy1ON1ZKeE9sSnNORExVOHgzeEhYVGdVTVN2TmU2MmtYVkZTeXpPaUhWZTlRY3BxRzJtRTVJVG5EQUZTcXZaWjQ4My1sMUtMQzhhS0VvRmtXMllRbG84SVdYeWZ1Vk9SdjRPNzJjM2c3S3FvWjFsOG1PSkNKX2hDdWhOY09oeEZieVFfMjZBZUh3U2xF?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-24T21:23:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Pierde su tráiler en enfrentamientos en Sinaloa y pide apoyo para recuperar su patrimonio El Sol de México",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "59682f6756cf0e0a"
+ },
+ {
+  "titulo": "Advierten riesgos de cruzar ilegalmente la frontera norte en invierno",
+  "liga": "https://sinaloa.quadratin.com.mx/advierten-riesgos-de-cruzar-ilegalmente-la-frontera-norte-en-invierno/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T21:18:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Señalan que los traficantes de personas priorizan su lucro por encima de la vida humana",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "00012b30c73a9f0a"
+ },
+ {
+  "titulo": "Hallan una persona sin vida junto al puente de Prados del Sol en Mazatlán",
+  "liga": "https://www.sinaloahoy.com.mx/portal/persona-vida-puente-mazatlan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T21:17:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Hallan una persona sin vida junto al puente de Prados del Sol en Mazatlán Personas que pasaban por la zona reportaron el hallazgo junto al puente de Prados del Sol. Socorristas confirmaron el fallecimiento. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "fcbe3796403e360a"
+ },
+ {
+  "titulo": "Suntuas llama a paro en la UAS desde el 1 de diciembre ante posible impago salarial",
+  "liga": "https://www.sinaloahoy.com.mx/portal/paro-uas-suntuas-pago-quincena/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T21:14:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Suntuas llama a paro en la UAS desde el 1 de diciembre ante posible impago salarial Trabajadores respaldaron el llamado del Suntuas a parar labores desde el 1 de diciembre si no se cubre la última quincena de noviembre. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "50ad0694d42fe657"
+ },
+ {
+  "titulo": "Dan 74 latigazos a artista Parastoo Ahmadi en Irán por cantar sin velo",
+  "liga": "https://sinaloa.quadratin.com.mx/dan-74-latigazos-a-artista-parastoo-ahmadi-en-iran-por-cantar-sin-velo/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T21:12:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Por ofender la decencia pública",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "c6cac28d68e25b16"
+ },
+ {
+  "titulo": "Grupo interinstitucional promueve líneas de emergencia y denuncia en la Feria Ganadera Culiacán 2026",
+  "liga": "https://www.sinaloahoy.com.mx/portal/feria-ganadera-culiacan-proximidad-social/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T21:11:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Grupo interinstitucional promueve líneas de emergencia y denuncia en la Feria Ganadera Culiacán 2026 El grupo interinstitucional conversa con visitantes de la Feria Ganadera Culiacán y promueve el uso del 911 y el 089. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Cultura y tradiciones",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "d478c6bdf92bc443"
+ },
+ {
+  "titulo": "Congreso de Sinaloa nombra a Sibely Cañedo consejera de protección a periodistas",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbTNiVzAzVXlzN1h2N0xoNXRLX0IybXZ3OTNLemNSRnJENlZOWlpjM0RSNUFFMFZ5MzJrYlJzc01WaU9YSi1ZX3o3NTQ3RXR2amNXYW9FeU9uX3pqTFVkZjAyRlZJOWxia0FZYmNtSWpqR3RDUTFNbjB2elNsMzJJY1dHc19JNVN4YnV2MEc1UC1GRWNZQjl4b1JRMGZLMmNuc3ZnODlscEJBTVFycm1kLTZpYTRsa3k0MFZNUU1DclRodFNRbl9jMw?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-24T21:11:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Congreso de Sinaloa nombra a Sibely Cañedo consejera de protección a periodistas El Sol de México",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "6b57c35a0a535eb1"
+ },
+ {
+  "titulo": "Omar García Harfuch presenta en Culiacán patrullas y motocicletas para reforzar la seguridad en Sinaloa",
+  "liga": "https://www.sinaloahoy.com.mx/portal/patrullas-motocicletas-seguridad-sinaloa-harfuch/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T21:11:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Omar García Harfuch presenta en Culiacán patrullas y motocicletas para reforzar la seguridad en Sinaloa El Gobierno federal entregó 60 patrullas y 35 motocicletas en Sinaloa. El paquete contempla más de 200 unidades y una inversión cercana a 900 millones de pesos. Sinaloahoy - No",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "e6cc17d136743c6d"
+ },
+ {
+  "titulo": "Un hombre es asesinado a balazos frente a su hijo y otro menor en San Rafael, Guasave",
+  "liga": "https://lineadirectaportal.com/policiaca/un-hombre-es-asesinado-a-balazos-frente-a-su-hijo-y-otro-menor-en-san-rafael-guasave-2026-11-24__1744868",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T21:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Un grupo de hombres armados llegaron en motocicletas, lo hicieron salir de su casa y le dispararon en la cabeza",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "93b0280629691f12"
+ },
+ {
+  "titulo": "Ataque en Mazatlán deja un hombre sin vida en la colonia Pancho Villa",
+  "liga": "https://www.sinaloahoy.com.mx/portal/ataque-mazatlan-pancho-villa/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T21:07:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Ataque en Mazatlán deja un hombre sin vida en la colonia Pancho Villa Un hombre quedó sin vida en la colonia Pancho Villa de Mazatlán. Al sitio acudieron paramédicos, policías municipales y personal de la Marina. Sinaloahoy - Noticias de Sinaloa y el mundo Sinaloahoy",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "24f95fe169f5610d"
+ },
+ {
+  "titulo": "PRI exige investigar presuntos nexos de autoridades con el crimen en Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWJscGE0aHFOZEtQcEZSY1NFSVQ3Sjl0LUdXZi1oUmJYdlFaMDV1dGprSk03eHFWa3RFeVd1a1FUUDQtcGNkRXVhOXhMX2dmaEIyZGIyREtPODFFc19yYnBiV04yQkxUMnZkQ3hmM25DZzRnaHJwTVdiT0U2Vk0wOVZ0bS16TnFLZ0JHT082Z19ITWFfcUx0ODI2UGphYzlLeEVNMTNtMm1LR01ZLWRES29qdDVidElKX3lSeFNVc1g3T2c?oc=5",
+  "medio": "El Sol de México",
+  "publicada": "2026-11-24T21:04:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "PRI exige investigar presuntos nexos de autoridades con el crimen en Sinaloa El Sol de México",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "7deab8384cf555e5"
+ },
+ {
+  "titulo": "Asesinan a balazos a un hombre en la sindicatura de San Rafael, Guasave",
+  "liga": "https://noticieroaltavoz.com/asesinan-a-balazos-a-un-hombre-en-la-sindicatura-de-san-rafael-guasave/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T21:04:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Guasave, Sin.- Un hombre de 44 años, identificado como Magadaleno «N», fue asesinado a balazos la tarde de este martes 24 de noviembre, en la calle Cosalá, entre las calles Petatlán y San Rafael, en la sindicatura de San Rafael, Guasave. El reporte se registró a las 17:35 horas. ",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "4cdb812c7c5f6937"
+ },
+ {
+  "titulo": "Se termina el sueño de México en Miss Universo 2026: María Vargas no entra al top 12 de finalistas",
+  "liga": "https://lineadirectaportal.com/entretenimiento/se-termina-el-sueno-de-mexico-en-miss-universo-2026-maria-vargas-no-entra-al-top-12-de-finalistas-2026-11-24__1744864",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T21:03:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La modelo originaria de Zapopan, Jalisco, quien aspiraba a ser la sucesora de Fátima Bosch, se despidió así de su sueño de conquistar la corona universal.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "7deda669d63c9869"
+ },
+ {
+  "titulo": "Era Gustavo el ejecutado dentro de su auto en Tres Ríos, Culiacán",
+  "liga": "https://noticieroaltavoz.com/era-gustavo-el-ejecutado-dentro-de-su-auto-en-tres-rios-culiacan/",
+  "medio": "Noticiero Altavoz",
+  "publicada": "2026-11-24T21:00:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Culiacán, Sin.- Un hombre joven, identificado como Gustavo, fue asesinado a balazos la tarde de este martes 24 de noviembre, cuando se encontraba a bordo de un Nissan Versa color gris en el área de recibo de la tienda de autoservicio Bodega Aurrerá, por la calle Diego Rivera, ent",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "43f8d17adfdff735"
+ },
+ {
+  "titulo": "Faltan 10 días para el concierto de Cornelio Vega en el CUM Los Mochis ¿Ya tienes tu boleto?",
+  "liga": "https://lineadirectaportal.com/sinaloa/faltan-10-dias-para-el-concierto-de-cornelio-vega-en-el-cum-los-mochis-ya-tienes-tu-boleto-2026-11-24__1744853",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T20:59:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "El cantante de regional mexicano se presentará el 4 de diciembre en el Centro de Usos Múltiples; conoce los precios por zona y dónde comprar boletos.",
+  "temas": [
+   "Economía y empleo",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d27563e130799ac1"
+ },
+ {
+  "titulo": "Miguel Enrique Calderón Quevedo es designado coordinador del Consejo Estatal de Seguridad Pública de Sinaloa",
+  "liga": "https://www.sinaloahoy.com.mx/portal/calderon-quevedo-coordinador-seguridad-sinaloa/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T20:59:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Miguel Enrique Calderón Quevedo es designado coordinador del Consejo Estatal de Seguridad Pública de Sinaloa Miguel Enrique Calderón Quevedo fue designado por mayoría coordinador general del Consejo Estatal de Seguridad Pública. La sesión fue presidida por César Julio Saucedo Bar",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "59078ac6fb52cbae"
+ },
+ {
+  "titulo": "Niega Adán Augusto López injerencia en INE, pero admite conocer a Taddei",
+  "liga": "https://sinaloa.quadratin.com.mx/niega-adan-augusto-lopez-injerencia-en-ine-pero-admite-conocer-a-taddei/",
+  "medio": "Quadratín Sinaloa",
+  "publicada": "2026-11-24T20:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "El morenista esta vez accedió a hablar con los medios de comunicación",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "d8a8c2f46ab4e23a"
+ },
+ {
+  "titulo": "David Kershenobich reporta 12 casos activos de sarampión en México y 10 millones de vacunas disponibles",
+  "liga": "https://www.sinaloahoy.com.mx/portal/sarampion-mexico-casos-chiapas-vacunas/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T20:55:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "David Kershenobich reporta 12 casos activos de sarampión en México y 10 millones de vacunas disponibles La Secretaría de Salud reportó 12 casos activos de sarampión, todos en Chiapas, y 10 millones de vacunas disponibles en México. Sinaloahoy - Noticias de Sinaloa y el mundo Sina",
+  "temas": [
+   "Gobierno del estado",
+   "Salud"
+  ],
+  "local": true,
+  "id": "dbc2dc9030f8be9f"
+ },
+ {
+  "titulo": "Realizan guardia de honor en el Ayuntamiento de Culiacán por mujeres víctimas de feminicidio",
+  "liga": "https://lineadirectaportal.com/sinaloa/realizan-guardia-de-honor-en-el-ayuntamiento-de-culiacan-por-mujeres-victimas-de-feminicidio-2026-11-24__1744855",
+  "medio": "Línea Directa",
+  "publicada": "2026-11-24T20:54:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "La actividad se realiza previo al arranque de los 16 Días de Activismo contra la Violencia de Género, impulsado por la Secretaría de las Mujeres",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "7333eb5f98cc857e"
+ },
+ {
+  "titulo": "Ratifican a Miguel Calderón como coordinador general del Consejo Estatal de Seguridad Pública",
+  "liga": "https://losnoticieristas.com/sinaloa/2026/11/ratifican-a-miguel-calderon-como-coordinador-general-del-consejo-estatal-de-seguridad-publica-1172641/",
+  "medio": "Los Noticieristas",
+  "publicada": "2026-11-24T20:54:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Se realizó la sesión ordinaria del Consejo Estatal de Seguridad Pública, donde se acordaron acciones encaminadas a prevención y el combate de la violencia y el delito",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "fe9ba3e4321a5e5b"
+ },
+ {
+  "titulo": "Trabajadores académicos y administrativos respaldan llamado a paro indefinido convocado por el SUNTUAS para el 1 de diciembre ante el riesgo de impago salarial",
+  "liga": "https://vivalanoticia.mx/trabajadores-academicos-y-administrativos-respaldan-llamado-a-paro-indefinido-convocado-por-el-suntuas-para-el-1-de-diciembre-ante-el-riesgo-de-impago-salarial/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-24T20:54:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "En una reunión informativa del Sindicato Único de Trabajadores de la Universidad Autónoma de Sinaloa (SUNTUAS) en la Unidad Regional Centro, los dirigentes sindicales Samuel Jesús Castro Camacho, de la sección Académicos, e Isfa Bernabé Leal Salazar, de la sección Administrativos",
+  "temas": [
+   "Política y partidos",
+   "Gobierno municipal",
+   "Educación"
+  ],
+  "local": true,
+  "id": "df41597006772769"
+ },
+ {
+  "titulo": "En suspenso la instalación de puestos y juegos mecánicos para la Feria de la Virgen del Rosario en Guasave.",
+  "liga": "https://vivalanoticia.mx/en-suspenso-la-instalacion-de-puestos-y-juegos-mecanicos-para-la-feria-de-la-virgen-del-rosario-en-guasave/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-24T20:51:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Guasave, Sin.- La tradicional Feria de la Virgen del Rosario, patrona de Guasave, se encuentra en incertidumbre y su realización dependerá de las condiciones de seguridad que prevalezcan en el municipio, luego de los hechos violentos registrados el pasado viernes 20 de noviembre ",
+  "temas": [
+   "Cultura y tradiciones",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "44c1071f32198364"
+ },
+ {
+  "titulo": "Roy Navarrete Cuevas asiste a congreso de bomberos en Mazatlán en representación de Graciela Domínguez Nava",
+  "liga": "https://www.sinaloahoy.com.mx/portal/congreso-bomberos-mazatlan-roy-navarrete/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T20:50:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Roy Navarrete Cuevas asiste a congreso de bomberos en Mazatlán en representación de Graciela Domínguez Nava Roy Navarrete Cuevas acudió en representación de la gobernadora al primer Congreso Internacional de Bomberos en Mazatlán, enfocado en capacitación y respuesta ante emergenc",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "23681614b6432933"
+ },
+ {
+  "titulo": "Juan Carlos Villa Romero propone alojamiento digno para jornaleros agrícolas en Sinaloa",
+  "liga": "https://www.sinaloahoy.com.mx/portal/alojamiento-jornaleros-agricolas-sinaloa/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T20:47:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Juan Carlos Villa Romero propone alojamiento digno para jornaleros agrícolas en Sinaloa La iniciativa de Juan Carlos Villa Romero plantea condiciones de habitabilidad y electricidad para climatización en alojamientos de jornaleros durante temperaturas extremas. Sinaloahoy - Notic",
+  "temas": [
+   "Clima",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "e56329d2b75b7c45"
+ },
+ {
+  "titulo": "Asesinan a una persona a un lado del Puente de Prados del Sol en Mazatlán",
+  "liga": "https://vivalanoticia.mx/asesinan-a-una-persona-a-un-lado-del-puente-de-prados-del-sol-en-mazatlan/",
+  "medio": "Viva la Noticia",
+  "publicada": "2026-11-24T20:44:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Mazatlán, Sinaloa.- Un sujeto el cual no está identificado fue encontrado asesinado a un lado del puente de Prados del Sol en Mazatlán.El hallazgo fue por personas que pasaban por la zona y dieron aviso a las autoridades y les informaron que en medio de una calle que está a un la",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c8095bf6eb085762"
+ },
+ {
+  "titulo": "Serapio Vargas Ramírez busca coordinación municipal de Morena en Culiacán; su hijo y asistente aspiran a distritos",
+  "liga": "https://www.sinaloahoy.com.mx/portal/serapio-vargas-coordinacion-municipal-culiacan/",
+  "medio": "Sinaloahoy",
+  "publicada": "2026-11-24T20:44:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Serapio Vargas Ramírez busca coordinación municipal de Morena en Culiacán; su hijo y asistente aspiran a distritos El diputado busca la coordinación municipal de Morena en Culiacán. Su hijo y su asistente se registraron por coordinaciones distritales en Culiacán y Navolato. Sinal",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "2253dfa85241302c"
+ },
+ {
+  "titulo": "‘Hay que tener confianza en las autoridades’, SSPM defiende estrategia de seguridad",
+  "liga": "https://riodoce.mx/2026/11/24/hay-que-tener-confianza-en-las-autoridades-sspm-defiende-estrategia-de-seguridad/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-24T20:44:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d71dba1f420c9e70"
+ },
+ {
+  "titulo": "Tras más de dos años, vuelve a sesionar el Consejo Estatal de Seguridad Pública",
+  "liga": "https://www.noroeste.com.mx/culiacan/tras-mas-de-dos-anos-vuelve-a-sesionar-el-consejo-estatal-de-seguridad-publica-JJ27598504",
+  "medio": "Noroeste",
+  "publicada": "2026-11-24T20:43:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "CULIACÁN._ Después de permanecer más de dos años sin reunirse en pleno, a pesar de la crisis de violencia en la entidad y de que por ley debe sesionar dos veces al año, el Consejo Estatal de Seguridad Pública llevó a cabo este martes su sesión ordinaria. En el encuentro, encabeza",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "2f63c7a26cd94972"
+ },
+ {
+  "titulo": "Asumen encargados de despacho en cuatro áreas del Ayuntamiento de Ahome",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMldkY0lQeC1KLXNBa3dmRjVZS19XRF8xZWZlY0Z1UXJBOWs1aThCSWF2SVBIOVBfTnNJcU91RXk1X0FyQVluSVNqQVJLd0N3cFpKaDA0S2h5RVBmbDA1Q1hRRWh2Vjl3MDNxZUpBMm43Zm1LelVxWWZSN1JibTZJZ0dFd1N3c2JGV2ZlaGZDZGdzZFk4dHhPY1NwRFg2amI3OGQxT0ZNNXN5cVF3U1ZJc1VRWUU2QmlhVEpvdk9QeVVLWlBsQzI2d0R3UUFSc0E?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T20:42:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Asumen encargados de despacho en cuatro áreas del Ayuntamiento de Ahome Debate",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "ce4d7ad06fbfcf5f"
+ },
+ {
   "titulo": "Sinaloa se suma a días de activismo contra la violencia hacia la mujer",
   "liga": "https://sinaloa.quadratin.com.mx/sinaloa-se-suma-a-dias-de-activismo-contra-la-violencia-hacia-la-mujer/",
   "medio": "Quadratín Sinaloa",
@@ -27,6 +840,34 @@
   ],
   "local": true,
   "id": "cb39ab0d11740a3c"
+ },
+ {
+  "titulo": "EU solicita extradición de ‘El Chapo’ Isidro, detenido en Guasave",
+  "liga": "https://www.noroeste.com.mx/seguridad/eu-solicita-extradicion-de-el-chapo-isidro-detenido-en-guasave-KJ27597940",
+  "medio": "Noroeste",
+  "publicada": "2026-11-24T20:34:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Estados Unidos ya solicitó formalmente la extradición de Fausto “N”, alias ‘El Chapo’ Isidro, detenido el viernes 20 de noviembre en Guasave, Sinaloa, y señalado como posible integrante de un grupo delictivo con operaciones en la entidad, confirmó la Fiscalía General de la Repúbl",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "56c7492573a8bcb1"
+ },
+ {
+  "titulo": "Estados Unidos solicita la extradición del Chapo Isidro. La FGR analiza la viabilidad por tiempos diplomáticos",
+  "liga": "https://www.luznoticias.mx/2026-11-24/mexico/estados-unidos-solicita-la-extradicion-del-chapo-isidro-la-fgr-analiza-la-viabilidad-por-tiempos-diplomaticos/316649",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-24T20:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "021b40a33afb348c"
  },
  {
   "titulo": "Hospital de la Mujer brinda apoyo por depresión posparto en Culiacán",
@@ -273,6 +1114,20 @@
   "id": "07e22a4e6f95fd8a"
  },
  {
+  "titulo": "¡Tremendo susto en la Feria CANACO! Se abre puerta de juego mecánico “Martillo” mientras estaba en movimiento",
+  "liga": "https://www.luznoticias.mx/2026-11-24/sinaloa/tremendo-susto-en-la-feria-canaco-se-abre-puerta-de-juego-mecanico-martillo-mientras-estaba-en-movimiento/316647",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-24T20:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "4c3b1fe3a4634b44"
+ },
+ {
   "titulo": "FGR confirma solicitud de EE. UU. para extraditar a “El Chapo Isidro”",
   "liga": "https://lado.mx/noticia/22394682/",
   "medio": "Lado.mx",
@@ -341,6 +1196,20 @@
   ],
   "local": true,
   "id": "7840df99257065a3"
+ },
+ {
+  "titulo": "Ahome se suma a estrategia estatal para reforzar la seguridad y construir la paz en Sinaloa",
+  "liga": "https://www.luznoticias.mx/2026-11-24/sinaloa/ahome-se-suma-a-estrategia-estatal-para-reforzar-la-seguridad-y-construir-la-paz-en-sinaloa/316644",
+  "medio": "Luz Noticias",
+  "publicada": "2026-11-24T20:06:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "529b9261a68acf32"
  },
  {
   "titulo": "Harfuch advierte que continuarán acciones contra el narco en Sinaloa",
@@ -515,6 +1384,21 @@
   "id": "1de3ee1dc12d985a"
  },
  {
+  "titulo": "Asesinan a balazos a Magdaleno en la sindicatura de San Rafael, Guasave",
+  "liga": "https://riodoce.mx/2026/11/24/asesinan-a-balazos-a-magdaleno-en-la-sindicatura-de-san-rafael-guasave/",
+  "medio": "Ríodoce",
+  "publicada": "2026-11-24T19:50:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "c79e13525e58f149"
+ },
+ {
   "titulo": "Golpe al crimen organizado: de Sinaloa al Estado de México",
   "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUFENTdxckZSNHpjdm9rVlBsNVZScGZ5Z3dRSDFEdFZxSWpkSDVJRFE0cHc2UGQ0QVNwNjJ0WWpiOWpuVF9uT2JacHF0amhSeTFSVjBDNTlKRzNtWVhuOHRnN3dsc21sNFJfeTVKUFVnS2EwWEZfdUphcDFycEJQQUdSYXl4b0FNa240eGRrLVpYUnh6UUMtVF9hWnIxVFhMM3pvUUlMbmU3akhXcVVTdEF6RGd4TXBJMlRObmllVkRveks5ZWc?oc=5",
   "medio": "Sistema Mexiquense",
@@ -641,6 +1525,20 @@
   ],
   "local": true,
   "id": "8ec154c52ca155f9"
+ },
+ {
+  "titulo": "Video | Reportan Persecución y Balacera en Ahome, Sinaloa",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmgyNVNTVFR1WHZ0RW1tSHdObk15QTU4OFRmaVhEcVVHNlRicUtUWnNtRmJ5MUI0NnROVjFtaXpKTXNyY1lVOEdZMnpxa1NFc19SYkJhR09uRTV0OE1jRE9FU2JYUjFZMnlsdUtOaklUVG9vSUVRZ0V6d3RhZWtaWUJkS0d0MVUzVF8yWUhaRzA4US1YbnpIbHNRb1BPbF9Cd01jbEZYZDNJbUt1U2hGYWpZbnFOZw?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-24T19:36:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Video | Reportan Persecución y Balacera en Ahome, Sinaloa N+",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0c0f584a4027b160"
  },
  {
   "titulo": "Ruido Alarmante en el norte y Rodolfo El Reno",
@@ -1973,6 +2871,20 @@
   ],
   "local": true,
   "id": "f3264e94b901e622"
+ },
+ {
+  "titulo": "Problemas para Salinas Pliego: CNBV multa a TV Azteca por omitir información bursátil",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1VSdmZKQnNkTk81NXNFaTNKZnZsdHlOckE4M3k5dXhTbkp0SmhFX2RXQnpUcFc0MVJLbzNrVEdfaV9MRzlVaHEwWUxNdGdadlA5Y25KdUZNNU04UkMxSHMtY1Zyb2tJNXZrUlRSTFhRcUZxSnprUjdpVklSVFd4X0c4Q201YlQ3aEVyWTcyNHg1X2Mwb3hfZzRlVko1Y0J6N29uUXdXWnBNcFgtUk1fREg5R0dIUTBuMFA3LWMxSzVUTlV3RXdodGRQSjlidnFxNEE3SA?oc=5",
+  "medio": "El Debate",
+  "publicada": "2026-11-24T18:34:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-24T22:07:11-06:00",
+  "resumen": "Problemas para Salinas Pliego: CNBV multa a TV Azteca por omitir información bursátil Debate",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ba2911b54c5dcfaa"
  },
  {
   "titulo": "Convocan a marcha y clase masiva de zumba contra la violencia hacia las mujeres en Guamúchil",
