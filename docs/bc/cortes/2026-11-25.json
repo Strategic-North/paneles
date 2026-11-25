@@ -1,5 +1,346 @@
 [
  {
+  "titulo": "La primera tormenta invernal 2026 afectará a diez estados con nieve",
+  "liga": "https://elcongresista.mx/politica/nacional/tormenta-invernal-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T04:35:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Se espera que la primera tormenta invernal de 2026 impacte a México desde el 27 de noviembre, trayendo nevadas y fuertes lluvias.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2756310834091179"
+ },
+ {
+  "titulo": "Comer en familia se vuelve difícil por dispositivos en la mesa",
+  "liga": "https://elcongresista.mx/politica/nacional/encuesta-dispositivos-comidas-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T04:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Una encuesta revela que el 92% de las familias en México usa dispositivos durante las comidas, afectando la interacción.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3f8234e7369030e2"
+ },
+ {
+  "titulo": "Entregan 1,599 firmas panistas para candidatura en Chihuahua",
+  "liga": "https://elcongresista.mx/politica/chihuahua/pan-chihuahua-firmas-elecciones-abiertas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T04:24:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Militantes del PAN en Chihuahua entregan 1,599 firmas para exigir elecciones abiertas en candidaturas a la alcaldía y diputaciones.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "7dbb8e95daa9e7f0"
+ },
+ {
+  "titulo": "Manolo Jiménez destaca logros en informe ante el Congreso de Coahuila",
+  "liga": "https://elcongresista.mx/politica/coahuila/informe-manolo-jimenez-congreso-coahuila",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T04:23:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "El gobernador Manolo Jiménez presentó logros de su administración en Múzquiz, destacando avances en seguridad e infraestructura para atraer inversiones.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a50c624ef0731de8"
+ },
+ {
+  "titulo": "Rosa Rodríguez publica libro sobre su experiencia en 'Pasapalabra'",
+  "liga": "https://elcongresista.mx/politica/nacional/rosa-rodriguez-libro-pasapalabra",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T04:19:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Rosa Rodríguez, ganadora de 'Pasapalabra', publicará su libro 'Palacios en el aire' el 25 de noviembre, compartiendo lecciones de superación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "93eb66053d19ae2d"
+ },
+ {
+  "titulo": "Caída de remesas impulsa descenso del 30% en turismo en Durango",
+  "liga": "https://elcongresista.mx/politica/durango/caida-remesas-turismo-durango",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T04:06:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "La caída de remesas en Durango ha afectado el turismo, registrando una reducción del 30% en las visitas al estado.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1751c1737e5b3de6"
+ },
+ {
+  "titulo": "Hoy No Circula miércoles 25 de noviembre: placas 3 y 4, engomado rojo",
+  "liga": "https://elcongresista.mx/vehicular/hoy-no-circula-miercoles-25-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T04:05:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Este miércoles 25 de noviembre de 2026 descansan los vehículos con engomado rojo y terminación de placa 3 y 4 (hologramas 1 y 2), de 5:00 a 22:00 horas, en CDMX y los 18",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e98a35a93608a5f3"
+ },
+ {
+  "titulo": "Inés Gómez Mont deja EE.UU. y complica su captura por delitos fiscales",
+  "liga": "https://elcongresista.mx/justicia/inez-gomez-mont-abandona-eeuu",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T04:00:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Inés Gómez Mont abandona EE.UU., complicando la captura por delitos fiscales en México. Su destino actual se desconoce.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "6eb8cf7158c78a52"
+ },
+ {
+  "titulo": "Detienen a dos hombres armados en Zihuatanejo con droga y municiones",
+  "liga": "https://elcongresista.mx/politica/guerrero/detenidos-zihuatanejo-armados-drogas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:52:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "La SSP Guerrero detuvo a dos hombres armados con droga en Zihuatanejo, en una intervención realizada el 24 de noviembre de 2026.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "652fccb2ca450887"
+ },
+ {
+  "titulo": "Miguel Ángel es imputado por abuso sexual a menor en Agua Prieta",
+  "liga": "https://elcongresista.mx/justicia/agua-prieta-sonora-miguel-angel-imputado-abuso-sexual",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:48:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Miguel Ángel es imputado por abuso sexual agravado a una menor en Agua Prieta, Sonora, según la Fiscalía General de Justicia del Estado.",
+  "temas": [
+   "Seguridad",
+   "Agua"
+  ],
+  "local": false,
+  "id": "f3a73f2393d74ee0"
+ },
+ {
+  "titulo": "Detienen a dos personas con narcóticos en Nogales, Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/detienen-narcoticos-nogales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:48:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Dos detenidos en Nogales, Sonora, por posesión de narcóticos y dinero en efectivo el 17 de noviembre.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1d224cff935127f4"
+ },
+ {
+  "titulo": "México: guerra contra el narcotráfico cumple 20 años de decisiones estatales",
+  "liga": "https://elcongresista.mx/justicia/mexico-guerra-narcotrafico-20-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:46:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "México enfrenta el reto de combatir el narcotráfico y la narcopolítica tras 20 años de decisiones estatales.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "6a25933b66bca561"
+ },
+ {
+  "titulo": "Entregan 123 escrituras a familias de Tuxtla Gutiérrez",
+  "liga": "https://elcongresista.mx/politica/chiapas/entrega-escrituras-familias-tuxtla-gutierrez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:36:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "El alcalde de Tuxtla Gutiérrez, Ángel Torres, entrega 123 escrituras a familias, asegurando sus derechos de propiedad y patrimonio.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b4ca135f8fb91798"
+ },
+ {
+  "titulo": "Cuautitlán Izcalli: crisis vial en la autopista México-Querétaro por falta de obras",
+  "liga": "https://elcongresista.mx/vehicular/crisis-vial-cuautitlan-izcalli",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:35:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "La falta de obras en Cuautitlán Izcalli provoca caos vial en la autopista México-Querétaro, afectando la movilidad desde el 17 de noviembre.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "a32dd2d41304f8ba"
+ },
+ {
+  "titulo": "Senador Colosio pide licencia para contender por la gubernatura de Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/colosio-licencia-senado-sonora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:33:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Luis Donaldo Colosio Riojas solicitó licencia en el Senado para contender por la gubernatura de Sonora, que comenzará a regir el 26 de noviembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "74e793a9aaa88ace"
+ },
+ {
+  "titulo": "Encuestas en Chiapas favorecen a candidatos de MORENA en Tuxtla y Tapachula",
+  "liga": "https://elcongresista.mx/politica/chiapas/encuestas-morena-tuxtla-tapachula",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:25:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "La controversia por encuestas que benefician a MORENA crece en Chiapas, donde Pio López y Guillermo Santiago lideran la intención de voto.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "4d176afa137a713e"
+ },
+ {
+  "titulo": "RIIZE, único grupo de K-pop, se presenta en Tecate Pa'l Norte 2027",
+  "liga": "https://elcongresista.mx/politica/nacional/riize-tecate-pal-norte-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:21:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "El grupo RIIZE será el único artista de K-pop en el festival Tecate Pa'l Norte 2027, que se llevará a cabo del 26 al 28 de marzo en Monterrey.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "c8af08ecaa890088"
+ },
+ {
+  "titulo": "El teleférico de Uruapan, primer transporte inclusivo en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/teleferico-uruapan-transporte-inclusivo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:16:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "El teleférico de Uruapan es reconocido como el primer sistema de transporte inclusivo de Michoacán, beneficiando a más de 177 mil personas.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "06c2e0cc7a72744e"
+ },
+ {
+  "titulo": "Tres estudiantes de Sonora obtienen bronce en Olimpiada de Matemáticas",
+  "liga": "https://elcongresista.mx/politica/sonora/sonora-tres-estudiantes-bronce-olimpiada-matematicas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:12:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Tres estudiantes de Sonora ganan medallas de bronce en la Olimpiada Mexicana de Matemáticas 2026 en Monterrey.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d07cadb660472c9c"
+ },
+ {
+  "titulo": "Jonathan “N” es vinculado a proceso por el asesinato de un periodista",
+  "liga": "https://elcongresista.mx/politica/guerrero/vinculan-proceso-jonathan-n-asesinato-periodista",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:11:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Jonathan “N” es vinculado a proceso por el asesinato del periodista Eduardo Flores en Acapulco, en un contexto de violencia hacia la prensa.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2b3962577fc81d4b"
+ },
+ {
+  "titulo": "Identifican a nueve migrantes de un \"bote fantasma\" en Mauritania",
+  "liga": "https://elcongresista.mx/politica/nacional/identificacion-nueve-migrantes-bote-fantasma-mauritania",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:08:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Alexandre Deitos trabaja para identificar a nueve migrantes encontrados en un \"bote fantasma\" en Mauritania, resaltando la crisis de desaparecidos.",
+  "temas": [
+   "Seguridad",
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "611962dfeb0b70ef"
+ },
+ {
+  "titulo": "Exportación de 300 cabezas de ganado inicia el 30 de noviembre en Nogales",
+  "liga": "https://elcongresista.mx/politica/sonora/exportacion-ganado-nogales-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:07:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "A partir del 30 de noviembre, Nogales reanudará la exportación de 300 cabezas de ganado diario a Estados Unidos.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f132066da8fa5f01"
+ },
+ {
+  "titulo": "Hermosillo finaliza votación del Presupuesto Creces por 100 mdp",
+  "liga": "https://elcongresista.mx/politica/sonora/hermosillo-presupuesto-creces-cierre-votacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-25T03:06:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Hermosillo concluye hoy la votación para decidir en qué invertir 100 millones de pesos de recursos municipales.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7eccbc28cc2716d0"
+ },
+ {
   "titulo": "Entregan 201 contratos por 55 millones a empresas vinculadas a Kuri",
   "liga": "https://elcongresista.mx/politica/queretaro/contratos-55-millones-empresas-kuri-queretaro",
   "medio": "El Congresista",
@@ -57,6 +398,20 @@
   ],
   "local": false,
   "id": "aa9f9c041689ba35"
+ },
+ {
+  "titulo": "Exhorta Instituto de Psiquiatría de Baja California a cuidar la salud mental ante el estrés financiero y los gastos de fin de año",
+  "liga": "https://www.uniradioinforma.com/gobierno/exhorta-instituto-psiquiatria-baja-california-cuidar-salud-mental-estres-financiero-gastos-fin-ano-n915699",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T02:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "El Instituto de Psiquiatría señala que las preocupaciones económicas también pueden afectar la salud mental durante las fiestas decembrinas.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "8babe65f75dfd6c1"
  },
  {
   "titulo": "Ana Lilia teme por sus nietos tras el feminicidio de su hija",
@@ -816,6 +1171,48 @@
   "id": "f9c063217be4ab16"
  },
  {
+  "titulo": "Narco: que 20 años no es nada; hoy segunda decisión de Estado",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pBMlN4VlhMbmtpbmZ1LWV2NjJjeW80dHVTVVZvX2l1aUVWVWJSWHA5cXN2WUhGeHJHYm5kbUFlSk1CWDhHTndmN0wwRVNvbnJJVmFOc0JacU40Yk15VFRDRXdLS3lEM182UTM5NUoxdXZOc0pyQkt3VVBCRVFrQlRUTGNmcUNnMWxITl9Kck1Tb1dVNkNrZmlxcjFOaElHSS1aLUhhV2E2QVJMV2toc0lhQnFSUQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-25T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Narco: que 20 años no es nada; hoy segunda decisión de Estado El Vigía",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7099febe50d4c4b9"
+ },
+ {
+  "titulo": "Ponen en fila a EU por 'Chapo Isidro'",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcTJNbkczUGhIa0huLTJvLWVmTlhEVWVhMF9HQmhkdmVMd1pjVkU0QmxVUWxmOHgwazRoRzlITTRYT0hCbmlGRFNPWGNlcVlPSTFNLWc3UDRIM3JfdzN4aVBUaldJVXlESUhpMmlTRHJfRVhscjV5cW9CQXJHMTBYQUZCVXNNX09laU1JWXJfVmFOTENSSUE?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-25T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Ponen en fila a EU por 'Chapo Isidro' El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "beddca7ff3b35f07"
+ },
+ {
+  "titulo": "Congrega Furia del Libro a más de mil personas",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0FpdU1JWk9hX0w4MXBFc2ZXU08ya1Vmd3dVSmZoNHo4a192S3JIb09hNlIzcXhnVG9TdWNIYjhXekRFbm16alp0Vjh4cFEzVDJGNTZ6MlU5cjU3b3ZhSVlkZC13WE53cEstYk1DUm1FUDZaZHk0OTRlZm9DQjROaGtjdVEzeE55cllhRERYTkxpUXhEcFB0OEl3MjNDbHlZQ2cw?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-25T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Congrega Furia del Libro a más de mil personas El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5930429223631818"
+ },
+ {
   "titulo": "Luis Donaldo Colosio Riojas buscará gubernatura de Sonora en 2027",
   "liga": "https://elcongresista.mx/politica/sonora/colosio-riojas-gubernatura-sonora-2027",
   "medio": "El Congresista",
@@ -828,6 +1225,20 @@
   ],
   "local": false,
   "id": "600ecc7bafc513d7"
+ },
+ {
+  "titulo": "Últimas Noticias en Ensenada, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXA2WUtJOWRsSVhBNDNtSVJTTTh1MG5zeUZzZFR4S0ZqYU9Fd21sMW40LV9BZzFCQjVJcHRrcF85Zmp4dFUzbk9IWTdMSDlzemVCT2kxVzdhdy1BQklxOFo5aWdXRDRId3Jhd1lqWFpJTFhFNTRkTjQ3VFVEc3EteHpudWFoTFlJMXRPcTBB?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-25T01:51:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T04:37:06-06:00",
+  "resumen": "Últimas Noticias en Ensenada, Baja California Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "287e3a808a765c0c"
  },
  {
   "titulo": "UIF congeló nuevamente las cuentas bancarias de Rocha Moya",
