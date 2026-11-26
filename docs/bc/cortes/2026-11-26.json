@@ -1,5 +1,621 @@
 [
  {
+  "titulo": "Detienen a hombre que quebró a pedradas los vidrios de un Oxxo",
+  "liga": "https://puntonorte.info/2026/11/26/detienen-a-hombre-que-quebro-a-pedradas-los-vidrios-de-un-oxxo/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-26T13:01:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Tijuana.- Un sujeto que quebró a pedradas los vidrios de un Oxxo fue detenido por policías municipales cuando intentaba huir. Se trata de un hombre en condición de calle que arrojó una roca contra la fachada del establecimiento y se retiró del sitio, la mañana del martes 24 de no",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "d58351ea88f5b50f"
+ },
+ {
+  "titulo": "Afganistán ordena eliminar nombres de mujeres de documentos oficiales y registros médicos",
+  "liga": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVjdVLXNXc0pOYWNvY1hkbWZJdmpkR05QajgwZjVMc01oMVdCbW9MODlhd1ZCZllNaFBnRkt0Ni14NTVHNGUyS2h0Q3d6YzBKWGotOUp1Zkx1d1lWTEtaeWJsSFZnUlNpV3FsMFpESHZJNDVtTzlub3pNaktHRGRSRmtWWEczSDRUUE1acVFJc3J5ZnQyS3BGekVia0QzZEpnWFlxX05sUGk3dFhUcUtqQkZldHR6ZEFZdjhhRFJQRHlyekYyWGkzbA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T12:55:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Afganistán ordena eliminar nombres de mujeres de documentos oficiales y registros médicos Baja News",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "1168164af360f6e2"
+ },
+ {
+  "titulo": "Continúan trabajos de modernización en la Casa del Arte de Ciudad Victoria",
+  "liga": "https://elcongresista.mx/tamaulipas/modernizacion-casa-del-arte-ciudad-victoria",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:52:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La Casa del Arte de Ciudad Victoria da inicio a su modernización con reparaciones e nuevos programas para 600 estudiantes.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "39418e1af464a6a5"
+ },
+ {
+  "titulo": "Tamaulipas se consolida como tercer productor de aceituna en México",
+  "liga": "https://elcongresista.mx/tamaulipas/tamaulipas-exportacion-aceite-oliva",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:51:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Tamaulipas, tercer productor de aceituna, incrementó las exportaciones de aceite de oliva en un 44.7% entre 2021 y 2025.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "19df3c0852aa6aeb"
+ },
+ {
+  "titulo": "Localizan cuerpo sin vida a la orilla del mar en Playas de Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/localizan-cuerpo-sin-vida-a-la-orilla-del-mar-en-playas-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=localizan-cuerpo-sin-vida-a-la-orilla-del-mar-en-playas-de-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T12:49:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Al parecer, el cuerpo fue expulsado por el mar y localizado a la orilla de la playa, en la zona de Jardines de Playas de Tijuana, durante la mañana de este jueves. Autoridades acordonaron el área para realizar las investigaciones correspondientes.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "566111d11fdaf5b8"
+ },
+ {
+  "titulo": "CFE competirá con Telcel y AT&T tras obtener nueva concesión",
+  "liga": "https://elcongresista.mx/tecnologia/cfe-concesion-telecomunicaciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:48:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La CFE obtiene una nueva concesión para ofrecer servicios públicos de telecomunicaciones, lo que le permitirá competir con Telcel y AT&T.",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": false,
+  "id": "0f28751fee89d032"
+ },
+ {
+  "titulo": "Taller de teñido con pigmentos de flor de cempasúchil en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/taller-teñido-flor-cempasuchil-patzcuaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:47:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La Secretaría de Cultura de Michoacán organiza un taller de teñido con flor de cempasúchil el 28 de noviembre en Pátzcuaro.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "316070c87fd87fbe"
+ },
+ {
+  "titulo": "SCOP rehabilita Escuela Normal Superior de Michoacán con 6.16 mdp",
+  "liga": "https://elcongresista.mx/politica/michoacan/scp-rehabilita-escuela-normal-superior-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:47:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La SCOP rehabilita la Escuela Normal Superior en Michoacán con una inversión de 6.16 mdp, beneficiando a mil 282 estudiantes.",
+  "temas": [
+   "Economía y empleo",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "de625543d28ee625"
+ },
+ {
+  "titulo": "México rechaza líneas de denuncia de la DEA contra presuntos integrantes del narco",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOczF4WTJ6aG4yOFpwRlVCUGxIT3RiVHRYVG50WHJ6NDg2X0FSa2RUd0ZLWlFDTWtqY2RjWVN2bDhfRGQ2MnM0c0hmb3dybEF4Y19MM2NZZ0RaRDhNUGlUNF9pYUNLQVdNRm44amdzaFJrd1k0QUY5SzhENHNqNDB0RHc5QTZqdFQtcDN3eFJLY2JZTnlFM1pJbTdyeW1GalNwRHpJVVBFTGs2NlBxVXhCY253ZzM5cUxk?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T12:37:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "México rechaza líneas de denuncia de la DEA contra presuntos integrantes del narco Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d8f8385cc79f00bb"
+ },
+ {
+  "titulo": "Olympique de Lyon se enfrenta a Lillestrøm SK en Europa League",
+  "liga": "https://elcongresista.mx/politica/nacional/lyon-vs-lillestrom-horario-donde-ver",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:37:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Olympique de Lyon se medirá a Lillestrøm SK este 26 de noviembre en busca de puntos cruciales en la Europa League.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f2da487e328cf0a4"
+ },
+ {
+  "titulo": "Prevén que el dólar se acerque a los 20 pesos al cierre de año",
+  "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa01seWI5UDlNcGxad19ycVlwRENEdngyMVJzZnpNQTFMN21YNWlyRkFnUDVRM1BGRXFPMW5ERWUwcnNCd2g1cDl5WFNIZ1VQTTFHLWZSajNnWGcyQW1paUFjR29UWVlPUXV2VENKV1lzbkt3MF9VRTUtM192LXVYdzdHVjBCcm1yLWh0dk1XeXlQbUZFRl8zak54ODY3X3hYbmkyeDBsOW5XZmJUZXNCc3JIOA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T12:36:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Prevén que el dólar se acerque a los 20 pesos al cierre de año AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5d72547259c7e24b"
+ },
+ {
+  "titulo": "Michoacán finaliza ExpoUnis con más de 18 mil jóvenes asistentes",
+  "liga": "https://elcongresista.mx/educacion/michoacan-expo-unis-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:35:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La ExpoUnis 2026 en Michoacán reunió a más de 18 mil estudiantes para conocer opciones universitarias y definir su futuro académico.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "38983674cb370ff7"
+ },
+ {
+  "titulo": "Atlético Morelia llega a La Paz con ventaja de tres goles en final",
+  "liga": "https://elcongresista.mx/politica/michoacan/atlantico-morelia-viaje-final-apertura-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:34:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Atlético Morelia viajara a La Paz para la final, llevando una ventaja de 4-1 tras el primer duelo del Apertura 2026.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e876543c81f6a310"
+ },
+ {
+  "titulo": "Alumnas del Cecytem destacan en festival internacional con 2 proyectos",
+  "liga": "https://elcongresista.mx/educacion/alumnas-cecytem-festival-cintec-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:34:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Alumnas del Cecytem presentan proyectos innovadores en el festival CINTEC 2026, destacando en la ciencia agrícola.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Educación"
+  ],
+  "local": false,
+  "id": "902d5978feb0a12b"
+ },
+ {
+  "titulo": "Yarabí Ávila resalta la democracia en UMSNH tras apoyo de Sheinbaum",
+  "liga": "https://elcongresista.mx/politica/michoacan/umsn-h-yarabi-avila-respaldo-sheinbaum",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:33:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Yarabí Ávila, rectora de la UMSNH, agradece a Claudia Sheinbaum el respaldo en el proceso de renovación de su gestión.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "36c23c65d7c0759d"
+ },
+ {
+  "titulo": "Municipal detiene a homicida de chofer de plataforma en la colonia Buenos Aires",
+  "liga": "https://puntonorte.info/2026/11/26/municipal-detiene-a-homicida-de-chofer-de-plataforma-en-la-colonia-buenos-aires/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-26T12:31:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Tijuana.- Policías municipales detuvieron a uno de los responsables de asesinar a un chofer de plataforma atacado a tiros cuando arreglaba su carro en la colonia Buenos Aires Norte, la noche del martes. Se trata de Omar, de 48 años de edad y originario de Oaxaca, quien se encontr",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8fa5a04bbb2eb3cf"
+ },
+ {
+  "titulo": "Arrancan trabajos de reciclado asfáltico en Bulevar López Mateos: SIDURT",
+  "liga": "https://www.uniradioinforma.com/sociedad/arrancan-trabajos-reciclado-asfaltico-bulevar-lopez-mateos-sidurt-n916428",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T12:31:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Como parte de los trabajos en conjunto entre el Ayuntamiento de Mexicali y el Gobierno del Estado.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "b1bc81086b4071b8"
+ },
+ {
+  "titulo": "Refuerzan Unidad de Búsqueda de Mexicali con equipo y vehículo",
+  "liga": "https://zetatijuana.com/2026/11/refuerzan-unidad-de-busqueda-de-mexicali-con-equipo-y-vehiculo/?utm_source=rss&utm_medium=rss&utm_campaign=refuerzan-unidad-de-busqueda-de-mexicali-con-equipo-y-vehiculo",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T12:30:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La Policía Municipal de Mexicali informó sobre la adquisición de herramientas, uniformes y un vehículo destinados a la Unidad de Búsqueda de la Dirección de Seguridad Pública Municipal, para reforzar las labores de campo realizadas junto con colectivos y autoridades",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b824f7ac28072d27"
+ },
+ {
+  "titulo": "Sasha Sokol respalda a escritora Ximena Santaolalla tras denunciar abuso sexual de su padrastro",
+  "liga": "https://www.uniradioinforma.com/fama/sasha-sokol-respalda-escritora-ximena-santaolalla-tras-denunciar-abuso-sexual-su-padrastro-n916431",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T12:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "\"La verdad incomoda\"",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c2a46271494da2a2"
+ },
+ {
+  "titulo": "Aguinaldo debe pagarse antes del 20 de diciembre, recuerda Secretaría del Trabajo",
+  "liga": "https://www.uniradioinforma.com/gobierno/aguinaldo-debe-pagarse-antes-20-diciembre-recuerda-secretaria-trabajo-n916426",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T12:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "David Soto Alday dijo que quienes no reciban el aguinaldo tienen un año para reclamar el pago ante las autoridades laborales.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "a140b1e419a3309e"
+ },
+ {
+  "titulo": "Desalojan Tres Campos de Béisbol por Trabajos en la Canalización del Río Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUcxRWFqd2o3eGViUURVVDVGR28yUGF6M3pKZ1Y0NVk2a2t3ME1ieGplWERFbkNtZFNjQlNTU0pVZ2JGQklHS1pWTG1hX21GYlc2eUxKREx4NjU2N2lIV1dEQ3hzbHBLMm5yZk1Kblc4dmtBRW94YWZTMnZ6MlpWNWgyVFJNU01mNE92NUdQUGd0bVJjLW81RHNmUDZiSDJhejJCVGVleF9jQmJDdHpCc2hScUF5U2tsMVRHQnBQWjFOZ09OQVBzdkdB?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-26T12:26:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Desalojan Tres Campos de Béisbol por Trabajos en la Canalización del Río Tijuana N+",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "4420b101d30650d2"
+ },
+ {
+  "titulo": "Hallan un cadáver calcinado con herida de bala en la cabeza",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdVQzaUF0cWpfWnFLSGhTbzI2Y1pXb3lJUEc4R3RzaUN2eHdfMEg1MFhFR052cVZsNVRMYW45Ym16bXZBUnZXRDdYdmVLeWFDY0hGOWdjZm0teHNhUU9iYzdGNE55UTR1N2R3bl9yNlpSZVVKbFRLaXd5WXFtV0pZQjNwdWtkVWFRU3pGRWJhTkFiNXFacjdSeGJuUzlNbDlSVWc?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T12:26:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Hallan un cadáver calcinado con herida de bala en la cabeza AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "af48f95692bedeb2"
+ },
+ {
+  "titulo": "Sheinbaum acusa de injerencia a DEA por abrir líneas de denuncia contra cárteles en México",
+  "liga": "https://zetatijuana.com/2026/11/sheinbaum-acusa-de-injerencia-a-dea-por-abrir-lineas-de-denuncia-contra-carteles-en-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=sheinbaum-acusa-de-injerencia-a-dea-por-abrir-lineas-de-denuncia-contra-carteles-en-mexico",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T12:24:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La DEA anunció que habilitaría canales de denuncia específicos para Jalisco y el CJNG el 26 de noviembre de 2026.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "4a7bc0c8cc6ffa56"
+ },
+ {
+  "titulo": "Fundación CB Canarias se mide al Real Madrid en crucial encuentro",
+  "liga": "https://elcongresista.mx/politica/nacional/fundacion-cb-canarias-real-madrid-encuentro-liga",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:22:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Fundación CB Canarias enfrentará al Real Madrid en un vital partido de Liga U este viernes, buscando su cuarta victoria de la temporada.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8afb49e21e8a6b70"
+ },
+ {
+  "titulo": "Sheinbaum deja en manos de la FGR decisión sobre extradición de ‘El Chapo Isidro’",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUV3SUhZOXFqUWUwMGwwM3o1SmhESTdTZXVQUGZ2TlE3RmlBM2NFbS03d3BCWFpZRzVKMFhYQlNmS0pOS3ROdjEwNmc1U19lWjdPUlN5MHFuRVZweUtIZV85aGlfM05TR3lDRUg2SFRqMEYzUkpOcnAwc2xYcjNPU0dES0pTbk5NWkRSWmNlbzNuQ2wxSWU0V3hxMFdlbWR2ejUtMVVQa3A4c1duQVVHS2thZkw?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T12:21:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Sheinbaum deja en manos de la FGR decisión sobre extradición de ‘El Chapo Isidro’ Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b7305651a6b3e8d4"
+ },
+ {
+  "titulo": "México y Brasil buscan cooperación comercial estrecha, al margen de los tratados: Sheinbaum",
+  "liga": "https://jornadabc.com.mx/general/mexico/mexico-y-brasil-buscan-cooperacion-comercial-estrecha-al-margen-de-los-tratados-sheinbaum/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T12:21:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La Presidenta indicó que ya se analizan la exportaciones posibles sin que afecte a los productores de Brasil y de México. Recordó que ambos países firmaron un Memorando de Entendimiento en materia de hidrocarburos La entrada México y Brasil buscan cooperación comercial estrecha, ",
+  "temas": [
+   "Economía y empleo",
+   "Campo y pesca"
+  ],
+  "local": true,
+  "id": "e9086c99c0ce7c04"
+ },
+ {
+  "titulo": "PRI afirma que participará en elecciones 2027 y combatirá a Morena",
+  "liga": "https://elcongresista.mx/politica/nacional/pri-participacion-elecciones-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:20:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "El PRI confirma su participación en las elecciones de 2027 y combate la sobrerrepresentación de Morena, llamando a un bloque opositor.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "d293a8f8c2ecb81f"
+ },
+ {
+  "titulo": "Sheinbaum a PAN: ‘Si no quiere participar en 2027, que no lo haga’",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-responde-pan-elecciones-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:19:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Claudia Sheinbaum responde al PAN sobre su amenaza de no participar en las elecciones de 2027 si se aprueba la sobrerrepresentación.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "557c007b18417271"
+ },
+ {
+  "titulo": "Gabinete de Seguridad defiende soberanía y rechaza injerencia de DEA",
+  "liga": "https://elcongresista.mx/justicia/gabinete-seguridad-mexico-rechaza-injerencia-dea",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:19:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "El Gabinete de Seguridad de México rechaza la injerencia de la DEA y defiende la soberanía en medio de acusaciones.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "64ad1dceba4500b4"
+ },
+ {
+  "titulo": "Salinas Pliego «no tiene mucha reputación ni entre empresarios» para llamar a una rebelión fiscal: Sheinbaum",
+  "liga": "https://jornadabc.com.mx/general/mexico/economia/salinas-pliego-no-tiene-mucha-reputacion-ni-entre-empresarios-para-llamar-a-una-rebelion-fiscal-sheinbaum/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T12:18:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La Presidenta dijo que el dueño de Grupo Azteca le debe dinero “a la mitad de los empresarios de México o más; mucho dinero, pregúntenle a un empresario o a otro cuánto les debe”, me lo han comentado y “debe en Inglaterra y en Estados Unidos. Debe en todos lados” La entrada Salin",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ab59ac11b79e9217"
+ },
+ {
+  "titulo": "Claudia Sheinbaum destaca 5 mil 241 votos para el IPN",
+  "liga": "https://elcongresista.mx/educacion/sheinbaum-votacion-ipn",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:18:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Claudia Sheinbaum informa sobre los 5,241 votos registrados en la elección del director del IPN, un ejercicio democrático inédito.",
+  "temas": [
+   "Proceso electoral",
+   "Educación"
+  ],
+  "local": false,
+  "id": "699591d2a625807f"
+ },
+ {
+  "titulo": "Profepa libera nueve animales silvestres en Guanajuato, incluidos tortugas en riesgo.",
+  "liga": "https://elcongresista.mx/politica/guanajuato/profepa-liberacion-nueve-animales-silvestres-guanajuato",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:16:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La Profepa libera a nueve animales silvestres, incluidas tortugas en peligro, en un área protegida de Guanajuato.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "dabdd490c736888d"
+ },
+ {
+  "titulo": "Promueve SSPCM Tijuana la identificación de señales de alerta a través de la iniciativa \"Mujer Alerta\"",
+  "liga": "https://www.uniradioinforma.com/sociedad/promueve-sspcm-tijuana-identificacion-senales-alerta-traves-iniciativa-mujer-alerta-n916423",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T12:14:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "bc4b11f23093eec0"
+ },
+ {
+  "titulo": "Alerta Tijuana, la app para revisar avisos, refugios y Atlas de Riesgos ante El Niño",
+  "liga": "https://puntonorte.info/2026/11/26/alerta-tijuana-la-app-para-revisar-avisos-refugios-y-atlas-de-riesgos-ante-el-nino/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-26T12:12:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Tijuana.- Avisos preventivos, pronósticos meteorológicos, ubicación de refugios temporales y el Atlas Municipal de Riesgos son algunas de las herramientas que ofrece la aplicación Alerta Tijuana, presentada por el Ayuntamiento como parte de las medidas de prevención ante los posi",
+  "temas": [
+   "Clima",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "354954f8e0e40392"
+ },
+ {
+  "titulo": "Certifican a El Testerazo y Parque Chula Vista como promotores de la salud",
+  "liga": "https://www.uniradioinforma.com/sociedad/certifican-testerazo-parque-chula-vista-como-promotores-salud-n916421",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T12:11:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Ambos entornos obtuvieron la certificación después de un año de trabajo.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "6e460560b13f5243"
+ },
+ {
+  "titulo": "FCC autoriza a SpaceX lanzar un millón de satélites en el espacio",
+  "liga": "https://elcongresista.mx/tecnologia/fcc-spacex-satelites",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:05:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La FCC ha autorizado a SpaceX lanzar un millón de satélites para crear centros de datos en el espacio, buscando soluciones energéticas.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e84ac8fe0e054f0b"
+ },
+ {
+  "titulo": "Del efectivo al SPEI: Cómo evolucionaron los métodos de pago en el comercio electrónico mexicano",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVWZwTF9IMGdDMEFNWGItY1gxV3lSS0ZOeWNmVDhJRkV1d0g2d1BQUWM0V1FJVUw5U3NmODAwdURLS2xiNHhJcDBpeEwtbV95MndmVlJ1RFpPTzZ4N1A2TFFYRW13MmtJeVZPdDdZT2J1S1YzbEdlWUdQZFJWLUhoS3o3ZmYyYjJ0WF9wX2JFYmppNElsTGdvaVpPcmR0X21nSXRIaTRrTnhWMTluNC1RRGtldG9vN3pEUDZxanBEOG1RNnJJSDVLQWpR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T12:03:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Del efectivo al SPEI: Cómo evolucionaron los métodos de pago en el comercio electrónico mexicano Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "505ca4606df1923b"
+ },
+ {
+  "titulo": "Accidente de autobús en Puebla deja 20 heridos en San Pedro Cholula",
+  "liga": "https://elcongresista.mx/politica/puebla/accidente-autobus-puebla-san-pedro-cholula",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:03:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Un accidente de autobús en San Pedro Cholula, Puebla, dejó 20 heridos. Las autoridades indagan las causas del siniestro ocurrido esta mañana.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7e835b4135f38c3f"
+ },
+ {
+  "titulo": "Sheinbaum celebra apertura de oficina de Amexcid en Cuba",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-amexcid-oficina-cuba",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:02:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum anuncia la apertura de una oficina de Amexcid en Cuba para facilitar asistencia humanitaria.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "81dfc02a0babbb95"
+ },
+ {
+  "titulo": "Sheinbaum llama a la Canagraf para revisar contratos electorales",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-canagraf-revision-contratos-electorales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:02:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Sheinbaum convoca a la Canagraf para revisar contratos de material electoral tras denuncias de irregularidades.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6b0198ee293396fc"
+ },
+ {
+  "titulo": "Xcaret abrirá hotel asequible para familias ante baja en turismo",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/xcaret-hotel-familiar-baja-turismo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T12:01:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Xcaret abrirá un nuevo hotel familiar para hacer frente a la baja de turistas en la Riviera Maya, que ha visto una reducción significativa en la ocupación.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "59b01e985a61a370"
+ },
+ {
+  "titulo": "Zuria Vega respalda a Sasha Sokol y reconoce su valentía por enfrentar a Luis de Llano",
+  "liga": "https://www.uniradioinforma.com/fama/zuria-vega-respalda-sasha-sokol-reconoce-su-valentia-enfrentar-luis-llano-n916419",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T12:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "\"Merecen todo mi respeto\"",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a99435591cc52aad"
+ },
+ {
+  "titulo": "Anuncian Cierre de Acceso a Los Valles por Trabajos de Infraestructura Pluvial en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnEyTXJSTzlUeC1uTlBDUHN3YXBrdm1rU1ZUTVVKT1UwUVgwaGQ5dW9ZcjN4N1NCV1dHdlBLSlpLZEE3VzlzTy1vTzJ6T2dlR1BZQ2tqY3dKVTBLWlpTMmhRZVBsYnY2QWgzbXZHZEMwWTZiV0VnZWJKbmlpYlRTa2NsTTNXVVpmaTE5OEc5OGRzYXNKU1phMVR4ME9mTk8zdzJwYWFDeFBQcGdqeXVNeDJLTUZJOGFGVVFWOUFZbk5MSzN4NTFHNkF0Zk9QdmdMeU84eW1JREVwc1lDOWl0QXFR?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-26T12:00:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Anuncian Cierre de Acceso a Los Valles por Trabajos de Infraestructura Pluvial en Tijuana N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "0459e765ee2a4ca0"
+ },
+ {
   "titulo": "Senador Vázquez pide al INE revisar sobrerrepresentación de Morena",
   "liga": "https://elcongresista.mx/justicia/senador-vazquez-ine-sobrerrepresentacion-morena",
   "medio": "El Congresista",
@@ -17,6 +633,20 @@
   "id": "69b7b3c1f3fe4cf9"
  },
  {
+  "titulo": "FIFA confirma ciberataque: hackers accedieron a información personal y empresarial",
+  "liga": "https://www.uniradioinforma.com/deportes/fifa-confirma-ciberataque-hackers-accedieron-informacion-personal-empresarial-n916416",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T11:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "2bc4d61b4fadc824"
+ },
+ {
   "titulo": "El Tren del Valle en Río Negro beneficiará a más de 2,000 estudiantes",
   "liga": "https://elcongresista.mx/politica/nacional/tren-del-valle-estudiantes-rio-negro",
   "medio": "El Congresista",
@@ -30,6 +660,34 @@
   ],
   "local": false,
   "id": "ca493da8b4e08032"
+ },
+ {
+  "titulo": "Presenta Gobierno de México reforma para agilizar adopciones y divorcios",
+  "liga": "https://www.uniradioinforma.com/gobierno/presenta-gobierno-mexico-reforma-agilizar-adopciones-divorcios-n916411",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T11:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "Para que niñas, niños, adolescentes y mujeres tengan una justicia inmediata.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "77db5172982d10b3"
+ },
+ {
+  "titulo": "Impartirán taller gratuito de regulación emocional para familias de personas autistas en tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/impartiran-taller-gratuito-regulacion-emocional-familias-personas-autistas-tijuana-n916413",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T11:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La especialista chilena Dra. Constanza Román Torres encabezará el encuentro presencial \"Cuidar a quienes cuidan\", el próximo domingo 29 de noviembre en CANACO Tijuana",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "06e0556d66930efb"
  },
  {
   "titulo": "Sheinbaum ofrece respaldo a Ximena Santaolalla tras denunciar abuso sexual durante su infancia",
@@ -100,6 +758,20 @@
   ],
   "local": false,
   "id": "a212edf9101aeaa8"
+ },
+ {
+  "titulo": "Respalda consejo por la seguridad y el bienestar social de tijuana reforma al CNPCF para garantizar los derechos de la niñez",
+  "liga": "https://www.uniradioinforma.com/sociedad/respalda-consejo-seguridad-bienestar-social-tijuana-reforma-cnpcf-garantizar-derechos-ninez-n916408",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T11:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "El activista social y fundador de la asociación, Ismael Estrada Maldonado, destacó que agilizar las adopciones, establecer mecanismos seguros de entrega voluntaria y combatir la violencia vicaria representa un avance fundamental para garantizar el interés superior de niñas, niños",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6c035b6dc1462bd9"
  },
  {
   "titulo": "El peso mexicano no alcanza tregua, cotiza en 19.65 pese a feriado en EU",
@@ -2052,6 +2724,20 @@
   ],
   "local": false,
   "id": "a8ba8c035a4aae63"
+ },
+ {
+  "titulo": "Presentan Alerta Tijuana, aplicación para prevenir riesgos por fenómenos meteorológicos",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/presentan-alerta-tijuana-aplicacion-para-prevenir-riesgos-por-fenomenos-meteorologicos-33321470",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-26T07:14:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T13:01:31-06:00",
+  "resumen": "La herramienta incluye avisos, recomendaciones, pronóstico meteorológico, el Atlas Municipal de Riesgos y la ubicación de refugios, estaciones de bomberos y delegaciones; además, permite realizar reportes al 9-1-1 sin crear una cuenta.",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "3eca4a6ba40279df"
  },
  {
   "titulo": "NADBank prepara crédito de hasta 200 millones de dólares para CFE",
