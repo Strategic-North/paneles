@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-25T20:58-06:00",
+ "actualizado": "2026-11-25T22:03-06:00",
  "corte": "2026-11-26",
  "ventana": [
   "2026-11-25T18:30-06:00",
   "2026-11-26T18:30-06:00"
  ],
- "total": 79,
+ "total": 120,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -96,17 +96,17 @@
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 49
+   "notas": 50
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
    "ok": true,
-   "notas": 5
+   "notas": 4
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 46
+   "notas": 44
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
