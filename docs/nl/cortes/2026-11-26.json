@@ -1,5 +1,229 @@
 [
  {
+  "titulo": "Instala San Nicolás el PASE para combatir actos violentos",
+  "liga": "https://www.elporvenir.mx/local/instala-san-nicolas-el-pase-para-combatir-actos-violentos/1047721",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-26T01:54:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "La puesta en marcha del mecanismo se realizó en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a569584a79c2bec0"
+ },
+ {
+  "titulo": "Asegura Mike Flores que NL registra 0.6 homicidios al día",
+  "liga": "https://www.elporvenir.mx/local/asegura-mike-flores-que-nl-registra-06-homicidios-al-dia/1047720",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-26T01:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f37c4c8d4e16c22a"
+ },
+ {
+  "titulo": "Investiga FGJ posible trata de personas en modalidad de explotación",
+  "liga": "https://www.elporvenir.mx/local/investiga-fgj-posible-trata-de-personas-en-modalidad-de-explotacion/1047719",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-26T01:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Esto se da tras el rescate de 79 trabajadores que parmanecíanen condiciones de hacinamiento e insalubridad en un rancho del municipio de Galeana.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "95c3d9ae00bfdafa"
+ },
+ {
+  "titulo": "Abre PVEM proceso interno para recibir registros de candidaturas",
+  "liga": "https://www.elporvenir.mx/local/abre-pvem-proceso-interno-para-recibir-registros-de-candidaturas/1047718",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-26T01:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "La convocatoria también establece que los aspirantes deberán acreditar su capacidad, honestidad.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "5e19d4ad447d7bae"
+ },
+ {
+  "titulo": "Restaurantes, debilitados por la reducción de la jornada laboral",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtJS0VpTEJlRUM0SUdOdWptOUhWVTJqd1BWcllCMDhuWE5yQkZhMUdFSUZMZ2wzYXpHYlRldnFJUFN1VGluSDVKX2l6QzZHSWtEeXNWVWJMZTFudHgwb2FIMVhxXzBqSTZkRGJuRmx3OG16N2p5ckJ2X1Q2R2R0eGUtbVNOVkg4NGtETDJPbDQ5bEZIV3hOZXNoRnFwdUFrWW56cGYwdzhjMG5LLUpWMlpnNFY0OGc?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-26T01:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Restaurantes, debilitados por la reducción de la jornada laboral El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f3a0748d6160e136"
+ },
+ {
+  "titulo": "Manolo Jiménez lleva informe ciudadano a Múzquiz",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXByZVBUR1JvRWE2SndYSUFxdm9EWXp2aWtRTXNDR3FWTWFObmdiRW45VFVaenpJRXQ0WEFwV1psUC1WTVJPR01QeFhzZXcxM0pSaGV4b0IybTR3dUJJWGFxOVZTZjd4MjBMdzA1R05XOEtVcmhaRDl5Rjg4c1FlSmYwTmxybEtmVHFpdXVMbnZXTHF1VE5uaWpWdw?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-26T01:19:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Manolo Jiménez lleva informe ciudadano a Múzquiz El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3bf8aaabf6e1b834"
+ },
+ {
+  "titulo": "Pide Tamaulipas garantías ambientales a SpaceX",
+  "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTFpTUkhjcUswdnpOSjRRRm44R1VyTVFHN0tVa0VPYVhrOHptaFU2X3paU2xqSzN1NVNmbV9ZbmhlcENlRW9oUkVaQ3E4WXAxbzFYakM2OVRIZjRWMTZkaEFqNDFrNkl3MkZxa2JjTXYwUXFVRHU5NEFfZmU1S2lLTmlsUzItb292bms4SGZyemFMY1NDQnh2dmtjWTg?oc=5",
+  "medio": "El Horizonte",
+  "publicada": "2026-11-26T01:19:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Pide Tamaulipas garantías ambientales a SpaceX El Horizonte",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "529202904641aa18"
+ },
+ {
+  "titulo": "La inflación general no es el problema",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT1hxWEIzcEdFNGFLN3RSSE5rWXBNWjdjMUVBRDVTU1o4OGhxNi1XeGVTeUUyNnNiTS1zR2NSTUdWVG5CZEdxSzkwODhkLTllVzA4ZVI3Vmp0NGhpU0RQcGNrQWI5V1hGWkhfR0VuYnFvaEw1bWtQTTFHOU9XQl9KQlJ6SVdWNUdlZGYtWnBUbVU5ZUZQdkoxSHpLcXJ0T1RSZEVvaVNjTS1iMlE?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-26T01:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "La inflación general no es el problema El Financiero",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "d6035ae099d63767"
+ },
+ {
+  "titulo": "Cazadores de preguntas",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMnFLWEVlTnY0bjRjbERGeDF6Mk5vMjlDdTZYVmpoVThQS2NIX0NtY09BanVDbjROcVNvZ1JmaEJ0UWs5MWFMSHRGZ3pUQl9jYmY0dmNXMl9pMzlDblVyTjRhMHUxRXpPc3J3N1cxZ1k4ZGdoaGl6dzhWLWFJNEVvdVZEMnFlYW5aSmpMaVdpeVpoeWNMUGYtR25kRQ?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-26T00:58:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Cazadores de preguntas El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e5c992939da56161"
+ },
+ {
+  "titulo": "Temblor HOY, 26 de noviembre 2026: ¿A qué hora y de cuánto fue el último sismo en México?",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZUw3T1BQZzJVa3F0VkVPSzAyejN3QlhTb1Z0a29SbFFRVkFyQV90QkdrOHpTVHA1TjFDWTZsam5kVlVtYVM0T0Zqb3FaMmZVb3hVMFAzeG1xWkJ3djJyNVJOWko3MTh3aGdvVXlfaFlPQ1J1cnoybEFLOU9QeEpETkJQMnh4NjZuVmMzVG1nYjhGR2dBM0RmQTh1a0lkYmV6bDFKal9WRnoxYUJJVE55UjZlQTNnVUJkZDE1UFJaaDF2TmdzWWRGNWRZRFVHTVRvSGIwT3NDVnBhTUE?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-26T00:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Temblor HOY, 26 de noviembre 2026: ¿A qué hora y de cuánto fue el último sismo en México? Reporte Indigo",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "c96d6353e062c2f4"
+ },
+ {
+  "titulo": "Jensen Huang y la eNvidia",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXMzSTlFaFgtSmpLMnR0TjYwWFdUNF9LT20ya2g1V1BfMDRkVFE4ZmtycGVER2Zzd1BDZ21FYTJlek9aelNpREE3R0FCblVvS0tnNTdjNzY2UXFKa2t6bnB4ZDFhcnpLWnZHamlFcmUwVzNyU1A0a19NWU5RTWtTSnItdFdXSlV4eGZvbU1nWWNjU1lPY3U4V0xjOA?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-26T00:44:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Jensen Huang y la eNvidia El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e3d5f6875d589f3e"
+ },
+ {
+  "titulo": "América Desaprovecha a su Hombre de Más y Empata con Monterrey en la Ida",
+  "liga": "https://www.nmas.com.mx/nuevo-leon/deportes/america-no-puede-monterrey-empate-ida-cuartos-de-final-apertura-2026/",
+  "medio": "N+ Monterrey",
+  "publicada": "2026-11-26T00:43:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "f773a7b9b7985c2a"
+ },
+ {
+  "titulo": "Erviti explota contra el arbitraje: ‘La designación no es buena para el espectáculo’",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/26/almeyda-296657.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T00:43:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "d4e0bf5370e6dd57"
+ },
+ {
+  "titulo": "Si vas por más clientes, prueba que puedes atenderlos",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTV5WkxmQTZKcms1b2JtZnh4UW9Idy1VMUx3YmNQemdpbG14WTcyM3l0dWNFZkNQMTdPYTd0NXZYOUlCSkdQNFB2MDNac3d5bXRMUTkwdkk1UWdvSzhjaHdEZ1l6VVU0OXdRX0loUlgyTFpUN1czWkprbGJwcnFFc2c1TzA2dmFTbWdPaDlpUWpXQUZNeDhsUG85dlZ5SEIzU1VrOXY1ejBFUC1ZVjU5LTlTQkl0T1R5d2dTbG1tSVlUY2s?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-26T00:36:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Si vas por más clientes, prueba que puedes atenderlos El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "831062c70eebcb09"
+ },
+ {
+  "titulo": "Walter Erviti explota contra el arbitraje de Víctor Cáceres: \"Nos ha llamado la atención\"",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWlrVF9oVGo3ZVRlZnJEX3cwd3pia3VjWUt0Y0ZnRVJ3WjVNcnlHTE1XVmJBdWVoemE0NkwtMVZmS2xNdFFiRUVrREItSHZBLURqRkxFTDZ1eDdJQWdtTFBhbUs5eUdPbFZibFpxeUhkaHlsVEN6R3NPNDcwSzM3cHpNVUlHcS1QUEhCVElWLVZMMmxGbW1uRzdPdUkzSnPSAZ8BQVVfeXFMTnlpa1RfaFRqN2VUZWZyRF93MHd6Ymt1Y1lLdGNGZ0VSd1o1TXJ5R0xNV1ZiQXVlaHphNDZMLTFWZktsTXRRYkVFa0RCLUh2QS1EakZMRUw2dXg3SUFnbUxQYW1LOXlHT2xWYmxacXlIZGh5bFRDekdzTzQ3MEszN3B6TVVJR3EtUFBIQlRJVi1WTDJsRm1tbkc3T3VJM0pz?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-26T00:33:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Walter Erviti explota contra el arbitraje de Víctor Cáceres: \"Nos ha llamado la atención\" MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ed47db3c805fcb52"
+ },
+ {
+  "titulo": "Empleo rápido o mejor salario: el balance de egresar de la UNAM y del Tec de Monterrey",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc254Sm1ZRWVYcGZUZ0NoMTJ3TnRXb25ESDZ0czRoRGNLcVhRakxjQ3BWd2hkREtUWGJNcGdmRm1nTURLbF85eEVXU05EaFp4YlVkV0FUVlRObXlMaGFkYVpEMWtTYXdfRTZwQ2RVYW5TaUdIT1lDVEJ6VTZQV3FEWWt4cjRMYndvd054NUpyczVhMEtxWElHZ211NjJ5QdIBngFBVV95cUxQeVRTTEUzbGpNdEdkaVlJYW14ZmNrU1FRTGtrbTJkS09udUY1cDlmTDlERjFGZWM1VlFqT0Vic2JaZzZnZm9oY20wT3VJUXY5WDNSTVFzUGpIT3FGdkxiR0lHQjRNcjFrVUplRWpvUS0zZjM1MmVKWTFoQUxObzZZOWhqa0RTVlpsbFdJZ1pKSUdrbXBmQkxtWFdMT095QQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-26T00:30:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Empleo rápido o mejor salario: el balance de egresar de la UNAM y del Tec de Monterrey MILENIO",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "f6ffbaa436eee6ec"
+ },
+ {
   "titulo": "Deja ataques rusos nueve heridos y dos muertos en Ucrania",
   "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEdNSlotaV9MUnoxeDVfcUZPWC1hazdHM1BhNTJHM2MtZThYTFh1M0FIZW1QdnhUUHpsV3lNbmdaUFZSS08yNUhLQVNMX0Uxay15U3RnakcwU0Rqc25Benl3VW9DUUkyb2U1azRVQWNkQlFhMlpRa1pCbFdwU1RNWXhIeEFqeFZSQ2xxbjN4VVVJTU1WT2pWSWdUNHRGcmxvWjl0MVAxOTkxa2U0RHc?oc=5",
   "medio": "El Horizonte",
@@ -12,6 +236,34 @@
   ],
   "local": false,
   "id": "362538a90a8fca5f"
+ },
+ {
+  "titulo": "Revela Lorena que Samuel pretende vender parte de patrimonio estatal",
+  "liga": "https://www.elporvenir.mx/local/revela-lorena-que-samuel-pretende-vender-parte-de-patrimonio-estatal/1047717",
+  "medio": "El Porvenir",
+  "publicada": "2026-11-26T00:28:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "La diputada local por Monterrey explicó que, de aprobarse la propuesta en los términos planteados por el Gobierno.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "4c9c717cc773b935"
+ },
+ {
+  "titulo": "TEMPLETE",
+  "liga": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uX1JHTWxjaTdRRGxacXNWV0RjRnR5V054ZGZzTTdvRzEwb01pM1l3WTN2TmVYZlNkSWdmMFIyTzh0dzFXdi02bU1HTkxYeEFHNklqUkFBRGRMVGc5ZmhMMzhJdnNDbTV4T2p4Tm8yZVlsR1NqSTNqLTZvOGhiQdIBfkFVX3lxTE1uX1JHTWxjaTdRRGxacXNWV0RjRnR5V054ZGZzTTdvRzEwb01pM1l3WTN2TmVYZlNkSWdmMFIyTzh0dzFXdi02bU1HTkxYeEFHNklqUkFBRGRMVGc5ZmhMMzhJdnNDbTV4T2p4Tm8yZVlsR1NqSTNqLTZvOGhiQQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-26T00:23:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "TEMPLETE MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e8e03596116a45c7"
  },
  {
   "titulo": "Levanta FAA suspensión de vuelos al aeropuerto de Miami",
@@ -168,6 +420,20 @@
   "id": "3bdf9ddeb33c5b4c"
  },
  {
+  "titulo": "Noticiero completo de Alejandro Domínguez del 25 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ05uX2Jkc1puekdjWjN6RjRNNGtfVkJUZUNka3JFQnF2VE9vQjA4cGVGQURlNi1Ld3lqNlhQTER6WkRMQlFPZzJmR044WEFva0JsZWRuOE45bGZhM1BPbEVYSmJmeTRhTUhwTnZ1RDVXU0M5MkdyUkt2bHIzUWFEeVdlME0wVEJNeV9vMXZVWVIwaS1MLWFPdWxfWGFmd2psejRBT0ZmaWgzRWNzUmUxckdqckNpTHRyR0lVYlliRGpibXVFLWFNeGVtRGR4OWNwXzlqZE5DcXVwVUFINlpYcjBCVlPSAeQBQVVfeXFMTWdObl9iZHNabnpHY1ozekY0TTRrX1ZCVGVDZGtyRUJxdlRPb0IwOHBlRkFEZTYtS3d5ajZYUExEelpETEJRT2cyZkdOOFhBb2tCbGVkbjhOOWxmYTNQT2xFWEpiZnk0YU1IcE52dUQ1V1NDOTJHclJLdmxyM1FhRHlXZTBNMFRCTXlfbzF2VVlSMGktTC1hT3VsX1hhZndqbHo0QU9GZmloM0Vjc1JlMXJHanJDaUx0ckdJVWJZYkRqYm11RS1hTXhlbURkeDljcF85amROQ3F1cFVBSDZaWHIwQlZT?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T23:43:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Noticiero completo de Alejandro Domínguez del 25 de noviembre de 2026 MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d59755e10f015be3"
+ },
+ {
   "titulo": "Mucho ruido y pocas nueces: Monterrey y América empatan sin goles en la ida de cuartos de final Liga MX",
   "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXk0eldSMFBjVjhVR05pNUc4emlNMGM3N2dXUDFqRkhsZXNSRlFYVlZvRjNWeXJreHppcE5xT21icmxiak5mXzZWbzBaVU9IOW83MXhGaENCUnlnQUpZWWZudDUyOVdITC1xZUZ1V3JCNFJkV0dEcWlmR0tKVU0ycEtmZ29ZbFhhWkE4VWlyLTNwV0lfeldXd0Y1Ylp1QlR4bm9wXzZYNERMdGZhTjBSNHZLdG9CQXBDZmxlNHBfQVloWHlSV3lYOGVnTDBSdjEtYTAwTTNlNTlxdW9S?oc=5",
   "medio": "El Financiero Monterrey",
@@ -194,6 +460,49 @@
   ],
   "local": false,
   "id": "c167a94bf0f3aa9a"
+ },
+ {
+  "titulo": "¡Así reaccionó! Consuelo Duval habla del caso de Vadhir Derbez",
+  "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDg4NUZwdWU4Vzg4Y011dVdrTTBsLWwwaWFVREI5elBzbkpjT1hFY3VxSXR0eTR5THRWeFpLYTRyd2poNEtxUng2WVpxdjJtcFBLUWYzZUQzUVdMNWFNZi11RC1ZYWJXdkhTN0x2MzFfd2poSTdmTUU4cnhNZVl2UlVkb2x1UUdaS3U5QWxoSDBRdFJqWXhVWFp6NTlYQkpJ0gGgAUFVX3lxTFBQODg1RnB1ZThXODhjTXV1V2tNMGwtbDBpYVVEQjl6UHNuSmNPWEVjdXFJdHR5NHlMdFZ4WkthNHJ3amg0S3FSeDZZWnF2Mm1wUEtRZjNlRDNRV0w1YU1mLXVELVlhYld2SFM3THYzMV93amhJN2ZNRThyeE1lWXZSVWRvbHVRR1pLdTlBbGhIMFF0UmpZeFVYWno1OVhCSkk?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T23:22:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "¡Así reaccionó! Consuelo Duval habla del caso de Vadhir Derbez MILENIO",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "41313db635f3f645"
+ },
+ {
+  "titulo": "SIAPA amplía a 678 las colonias del AMG beneficiadas con descuentos por mala calidad del agua",
+  "liga": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObF9Bd1gwazZxLTFuSWhzalFIZjhQdF9yMTJzY2VFWERlSmFwM1BtcWJfNl8xRmNCYmdiVFBWSUt3bE1tZGVlbmhwMkFTMFZ2Y0tTdzRtd1NidjBuMVAzZGxueGZ4THVUS1R1MGVFaWEyX0pheFV5UV9NTlE3Qk4wREtIUHNhbXlLdkMwTdIBjAFBVV95cUxObF9Bd1gwazZxLTFuSWhzalFIZjhQdF9yMTJzY2VFWERlSmFwM1BtcWJfNl8xRmNCYmdiVFBWSUt3bE1tZGVlbmhwMkFTMFZ2Y0tTdzRtd1NidjBuMVAzZGxueGZ4THVUS1R1MGVFaWEyX0pheFV5UV9NTlE3Qk4wREtIUHNhbXlLdkMwTQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T23:20:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "SIAPA amplía a 678 las colonias del AMG beneficiadas con descuentos por mala calidad del agua MILENIO",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "b159430927e71d9e"
+ },
+ {
+  "titulo": "PAN acusa ‘guerra sucia’ contra el priista Mario Zamora tras narcomantas que lo ligan a ‘El Chapo Isidro’",
+  "liga": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeUhReUJieFdOU2hfSVJNYkdwMDRVT0J0bm13eldCVmNVckpjWGlVcmM4cW5Ra01lYzA2ejNtWjdwZFJFNlJJQ3JidUJWT3BkdXpDQWQ2RVRlSjh4bTdQckp0QjlqWVI5VEE2UndJSHpDWGtIV2c4TV95SkNxdUkxck1uVlEyUFRNd3pUQUV5eTVvaUV1UlMwU09kSFdVdWZodXFKNHVJV3dQZHQzeTBtdlgyY0VUNzF6Nm5NZ1E5cUpKZWp4WjhLMm1NZldySjVFdVBza0VUYS1hTS1Ea3JNWlZ0NnVJeUtf?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-25T23:20:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "PAN acusa ‘guerra sucia’ contra el priista Mario Zamora tras narcomantas que lo ligan a ‘El Chapo Isidro’ El Financiero",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e43e4e150171f30c"
  },
  {
   "titulo": "Denuncian basura y escombro en parque de Los Altos, Monterrey",
@@ -350,6 +659,20 @@
   ],
   "local": false,
   "id": "fdc158e5b88a86eb"
+ },
+ {
+  "titulo": "Tamaulipas registra su menor cifra de robo de vehículos en más de una década",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNWtJZGROb3VEVl9iTzJpX1lpRk5aTE9HZGNTRzF4eWtOTFFoVVZxN0JCZnU4LXhLUWlCU0pkWXBLT0gtSTNIVVBZVWt6UFEwbDlEbV9BNncyNFI1OFQ5XzZyQWRGd0IzR0Z3by03RHg5YkxLTWliV0gxNkxzRDhIMVV5c9IBgwFBVV95cUxNNWtJZGROb3VEVl9iTzJpX1lpRk5aTE9HZGNTRzF4eWtOTFFoVVZxN0JCZnU4LXhLUWlCU0pkWXBLT0gtSTNIVVBZVWt6UFEwbDlEbV9BNncyNFI1OFQ5XzZyQWRGd0IzR0Z3by03RHg5YkxLTWliV0gxNkxzRDhIMVV5cw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T22:51:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Tamaulipas registra su menor cifra de robo de vehículos en más de una década MILENIO",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4083f892288e6df6"
  },
  {
   "titulo": "Toluca vence 2-0 al Atlas con doblete de Helinho y toma ventaja en Cuartos de Final de la Liga MX",
@@ -634,6 +957,20 @@
   "id": "5bf03a1489ad2c6f"
  },
  {
+  "titulo": "Bala perdida mata a mujer que compraba en un mercado en Tepito, CdMx",
+  "liga": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PVVNHdmxEU1NGTEU3UERGYW9PVXRJbU4wZHlBdTNObm5Ed1FvUElKN2VnZ2tGOFlhNDFwbkxYdEpEWWJvYU12MUxFS1VmbldsSGE5dUJyallsY2tmVU5VUzF0dzNaZ002NDA2LXRxakdQaDBEalNHWkJoalVLQdIBfkFVX3lxTE5PVVNHdmxEU1NGTEU3UERGYW9PVXRJbU4wZHlBdTNObm5Ed1FvUElKN2VnZ2tGOFlhNDFwbkxYdEpEWWJvYU12MUxFS1VmbldsSGE5dUJyallsY2tmVU5VUzF0dzNaZ002NDA2LXRxakdQaDBEalNHWkJoalVLQQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T22:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Bala perdida mata a mujer que compraba en un mercado en Tepito, CdMx Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "016e33f2df778cd9"
+ },
+ {
   "titulo": "Destina Adrián $3,200 millones para renovar parque en Chepevera",
   "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDI0UlVCS0pFcGF1dTRhX3FhZzFEZEdUVWR3NW1BTHdraWdUYm01WEItVG1WZm9PUW1zRlhjaGRxUTA3V2hBRmpJZUZXM3pWMFd6Rnl2emJWWUFiSUJXX3gyZ0Foel9rVUpYVXJQT2Vfb2RJZ2lOTDV4QjlnbTVrbGYtb2ZaQ29qZE5raldaWFNPdG5nLWxtX0dzVnJzY0ZoSXFyV2R1aHJnVDZqX2Vn?oc=5",
   "medio": "El Horizonte",
@@ -694,6 +1031,20 @@
   "id": "663b9e9faa00c473"
  },
  {
+  "titulo": "Exponen a deudores alimenticios con tendedero en el poder Judicial de Jalisco",
+  "liga": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFlmdWlUcGotWW9mazhfX1JEalFvcHhycGFxcnhVNHZZcVI2U2pRUzBNREFjV3N2NmJtTzF4ZHFNRHZiVVhZNXc0Q2liNzhSczhqMjVmdElUQXRacFROaTNvM2dBbU1zR1RUQy11TWxNLV9WN3JEVEFXNHZwZml0S2NB0gGCAUFVX3lxTFBUWWZ1aVRwai1Zb2ZrOF9fUkRqUW9weHJwYXFyeFU0dllxUjZTalFTME1EQWNXc3Y2Ym1PMXhkcU1EdmJVWFk1dzRDaWI3OFJzOGoyNWZ0SVRBdFpwVE5pM28zZ0FtTXNHVFRDLXVNbE0tX1Y3ckRUQVc0dnBmaXRLY0E?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T22:17:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Exponen a deudores alimenticios con tendedero en el poder Judicial de Jalisco Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "86b7ffd1cfdfe0f6"
+ },
+ {
   "titulo": "¡Prepárate! Anuncian la feria de la barbacoa en CdMx; cuándo y dónde será",
   "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcHVVaVBnczBvMWJtMlZEOXJGOUt3RFFyNXVNMDRSY0xNcHVOWE04UjlJbGM5eG5xRUQ4Yk9MQW0yWGdldThVRVZTSXJoU1huOTh0akNXc1RkSUswYkV6M1FFdDNQZFVVT0F6OVJrTG95VnlhcGctakNZekJrV0RwSUt5eTBOelJiOWfSAYoBQVVfeXFMTmZCMGZFRG9MYkF2bGdlWGp4LVlIeHhrOC1GckZ6bTZMVjdGcllnTzBCcVItby1VcWxmVUxlbmgxUGs0eWhpbHpuOGt1M1JiMXNJRXZkdFdiTWVyMWU3MFY0UDJOMVRES2c1eDUxaVo3a3lNSnZ5R2ZHbWNwUmpERmYyaUVxS0d4bkpB?oc=5",
   "medio": "Milenio Monterrey",
@@ -708,6 +1059,20 @@
   "id": "6a5ed49ece1bd0be"
  },
  {
+  "titulo": "¿Cuál es el mejor museo del mundo? México tiene el primer lugar en el ranking internacional 2026/27",
+  "liga": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVy1nckJsakdXaUpiVnYtTl9SQTRtQXZtMTlXLWFBaGVVMHhsbEt5MVVOU1R1Q1RqZVZoLURCaThCT25XM0hFRUgyaHZvR25QZHZKaWIyaEJFQUhXellINFJhcnZJNlVvTUkxWVI4MGJNd1ItRC1GSEtFWUpQSGgtb3FxdTNjaS1MSXfSAYoBQVVfeXFMUFctZ3JCbGpHV2lKYlZ2LU5fUkE0bUF2bTE5Vy1hQWhlVTB4bGxLeTFVTlNUdUNUamVWaC1EQmk4Qk9uVzNIRUVIMmh2b0duUGR2SmliMmhCRUFIV3pZSDRSYXJ2STZVb01JMVlSODBiTXdSLUQtRkhLRVlKUEhoLW9xcXUzY2ktTEl3?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T22:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "¿Cuál es el mejor museo del mundo? México tiene el primer lugar en el ranking internacional 2026/27 Milenio",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "5d4e3ef81f445157"
+ },
+ {
   "titulo": "Fallece por atragantamiento en restaurante en Monterrey",
   "liga": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRlc5cGl6QVMwWm41bUhYdEJUdW84LUdlMkhfSUlfWTZHY2cyVjRpU2lCVjdRTGo4d2JVdkRuS3ZHU3dMUVkwbUprWm95RktqLVRjdTJpOHphOE9ScllpdERCQW5VVktMRnVEckVuaUdmN1VubjdCd2pYd21jNDNtS242X2dvMWE0VkZSbjZmUDJQY2loZDNzWQ?oc=5",
   "medio": "Info7",
@@ -720,6 +1085,20 @@
   ],
   "local": true,
   "id": "d8ff174c87a50e73"
+ },
+ {
+  "titulo": "Tigres rescatados",
+  "liga": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43VmlzNDNOSDI5LWRCTWdYc3g2cWJZWS1YNFRkN05EbUR0SFhKMkFPcU9HbFRVaUQ4azcyVUR1QnctSTNDSXpaQ0NTN21IRGY5UTcwck9CMDA4akM5U2J0ZU12U092dw?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-25T22:13:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Tigres rescatados El Financiero",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "eb961b915a21cd45"
  },
  {
   "titulo": "FGR confirma solicitud a España para extraditar a Inés Gómez Mont: ‘Llegó a Madrid el martes’",
@@ -748,6 +1127,20 @@
   ],
   "local": true,
   "id": "67aa841a0ff47969"
+ },
+ {
+  "titulo": "Nestlé anuncia reuniones con caficultores de Chiapas",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmM4eDRTNU1ydnRNNWdkZzM1SkNxLXVPYnFudmI0b2drclhCRkYxTThzYWxtendFYWtCdGZlWmZXem5YZWNIY1JNRXNkQXlaUUdranRQTkQ0ZE85clhvcVVDRGpMUGFxcXhGS0JvSmlZMDhsUjZhc0h3TFFCRGJ1OW9pWDJib2lpVzZ5WFVR0gGOAUFVX3lxTE5GYzh4NFM1TXJ2dE01Z2RnMzVKQ3EtdU9icW52YjRvZ2tyWEJGRjFNOHNhbG16d0Vha0J0ZmVaZld6blhlY0hjUk1Fc2RBeVpRR2tqdFBORDRkTzlyWG9xVUNEakxQYXFxeEZLQm9KaVkwOGxSNmFzSHdMUUJEYnU5b2lYMmJvaWlXNnlYVVE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T22:11:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Nestlé anuncia reuniones con caficultores de Chiapas Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5fde5a846c0838a4"
  },
  {
   "titulo": "Suspenden despegues en Aeropuerto de Miami por avión que salió de la pista",
@@ -807,6 +1200,20 @@
   "id": "acb2dd0ebe4a40a7"
  },
  {
+  "titulo": "FGR solicita a España la extradición de Inés Gómez Mont",
+  "liga": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckpENTZycDV4Qm0xaHpjMG1VUkY5dGZSU0RhN2xsSWFWQlpuOWJiRlpHVTF1dFpOaXhfd2VZRWFBQjBnWWp3N1NLSVNtd2xxeExSQTBkVUR3ekY5N3FuUjY5dXIzQ09GcGFyckV0ZlUyWFlVRUJ4Rzg2WTNKZWZVeEdOeVBid9IBhgFBVV95cUxQckpENTZycDV4Qm0xaHpjMG1VUkY5dGZSU0RhN2xsSWFWQlpuOWJiRlpHVTF1dFpOaXhfd2VZRWFBQjBnWWp3N1NLSVNtd2xxeExSQTBkVUR3ekY5N3FuUjY5dXIzQ09GcGFyckV0ZlUyWFlVRUJ4Rzg2WTNKZWZVeEdOeVBidw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T22:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "FGR solicita a España la extradición de Inés Gómez Mont Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "77cb371025d94a45"
+ },
+ {
   "titulo": "MC Nuevo León vital para el proyecto Colosio 2030",
   "liga": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3TXVxX0ozTUs3R0hqS2Mwa2F5aTB6NXprOFVNTnpqT2J3WUdDbzQxN3A1OUc0ZEhreVpCdmJTU19oTU5DYzhWbUMyOUtQVEx0UDlSbXVfRUR3RUxHbThzV2V2aGRGcWJka2NWZjhHTmEtUDhJNjllbWZ3?oc=5",
   "medio": "Red Crucero",
@@ -822,6 +1229,20 @@
   "id": "a55d6ad2d87276f3"
  },
  {
+  "titulo": "Operativo del Plan Michoacán deja 7 agresores abatidos y 10 detenidos",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkR0a3EydDNjZDlFTllzMVdwc1JubVpUYnFzMWs1bEE0WmxSQkRhdTAwQjRreEo3eUJkaV9vNnJOZk9rRlJlUzRNQXRXMUlmc0hmRHJ5Ny03cGlKOW9ab2hJMlY5MjU2VUI4ckhYT3pyQWFQUTdKbm5TZDZVcEkzZUpzWHp3QmZidWEtQnFFRmZPci1G0gGUAUFVX3lxTE1mRHRrcTJ0M2NkOUVOWXMxV3BzUm5tWlRicXMxazVsQTRabFJCRGF1MDBCNGt4Sjd5QmRpX282ck5mT2tGUmVTNE1BdFcxSWZzSGZEcnk3LTdwaUo5b1pvaEkyVjkyNTZVQjhySFhPenJBYVBRN0publNkNlVwSTNlSnNYendCZmJ1YS1CcUVGZk9yLUY?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T22:01:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Operativo del Plan Michoacán deja 7 agresores abatidos y 10 detenidos Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "39b26624219810ff"
+ },
+ {
   "titulo": "Fiscalía investiga al 'Gullit' Peña por presuntos tocamientos",
   "liga": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnhNMlNHbmhqUEJnSGgzZEV1UnZiSVp2eTVkMEt2YTZDcDN1UFhjM3ktU1AyLU11S2VkaGlXSDIzYVRycmd2bkJlbWRnaFdGd3o4eERoampvR0pKbWtjODI5dU9VSnZuLXhrRGJ5MnhsNEJBbnZiUVRRdk1Ma1pnbzY1cWoxcmJXUGJBQnZhWUZnOTVJZms5MjJpb1U?oc=5",
   "medio": "Info7",
@@ -834,6 +1255,20 @@
   ],
   "local": false,
   "id": "dc213d79edf1854c"
+ },
+ {
+  "titulo": "Reubican a 200 estudiantes de preparatoria en Jilotzingo por riesgo estructural",
+  "liga": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkw2NW10RjM5RFV1WlAyLWRjVl85Sm1seHJQd3JJdXlZN1JabHdFUkV4WnZQYV9VUDFEaVZjN1pUa1ZnSGtrU2sySjVyd0wwNm84bkdSSXJYd0dLTFR4TGEtUTF4MXF4NHVRWGJnYUN1WFU0YWNFSnpLeTJfMWpFUUZJQ0hZX3JITWp5c3pGNUhYeWpNMERuUDdXSnJqZ9IBngFBVV95cUxQZkw2NW10RjM5RFV1WlAyLWRjVl85Sm1seHJQd3JJdXlZN1JabHdFUkV4WnZQYV9VUDFEaVZjN1pUa1ZnSGtrU2sySjVyd0wwNm84bkdSSXJYd0dLTFR4TGEtUTF4MXF4NHVRWGJnYUN1WFU0YWNFSnpLeTJfMWpFUUZJQ0hZX3JITWp5c3pGNUhYeWpNMERuUDdXSnJqZw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T21:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Reubican a 200 estudiantes de preparatoria en Jilotzingo por riesgo estructural Milenio",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "51533c89bd3ca408"
  },
  {
   "titulo": "Fechas y horarios de las Semifinales Liga MX Femenil 2026",
@@ -906,6 +1341,34 @@
   "id": "395aeafc3272106f"
  },
  {
+  "titulo": "La jugada de Fair Play de Helinho que se ganó los aplausos del Estadio Nemesio Diez",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWhmcWRTYkFTd3RGUkhjaTRTc2pySm1hUlE5UVRObnA3UVhwMDVyajNJZGNHVWNsMDVpS1N6U3N2R1FtVVVwYnpQcHhZWEkxM3IxR1NqamRuYWgwT0VWazZISmdPZG9JNWpDd0FRWmRpdFVKUUVIMGtlUF8tWlA0RzRsazJIdnFDU1p2Z1NKTXRBcnpXUW5xTlRjaGJFZ0lNTTlLaW9Ec9IBpwFBVV95cUxPVWhmcWRTYkFTd3RGUkhjaTRTc2pySm1hUlE5UVRObnA3UVhwMDVyajNJZGNHVWNsMDVpS1N6U3N2R1FtVVVwYnpQcHhZWEkxM3IxR1NqamRuYWgwT0VWazZISmdPZG9JNWpDd0FRWmRpdFVKUUVIMGtlUF8tWlA0RzRsazJIdnFDU1p2Z1NKTXRBcnpXUW5xTlRjaGJFZ0lNTTlLaW9Ecw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T21:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "La jugada de Fair Play de Helinho que se ganó los aplausos del Estadio Nemesio Diez Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "0404026c77106528"
+ },
+ {
+  "titulo": "Chihuahua exige a NYT rectificar nota sobre presuntos recursos del narco a campaña del 2021",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ2ZaTXBvLXk4NnFibGR0dE1nVlVHWEQxdndEWWM3anpmRzNNZ19ZNmYtcjI1TmpaX0wyQ0VNWUxFNEdHUTUtR1ZxdkREVnRYU0NOaUVuNno3aXdRa04yS1RxdFlWMjRMTXlEOWs5dHlRT2sxclNJUUN6QXBhMmZfTmQ2VkNsbHpNUkZHZ09nYnBjaUJfeG1uWmlSY29yWmdoWHl6a0F0bVhLdUdqcnFnU0k1X1Y4OTU4clVKb21Bdmg1R2VJLU1HeERGU0RIaVJkclVMdGpGZ1NBZlU?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-25T21:44:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Chihuahua exige a NYT rectificar nota sobre presuntos recursos del narco a campaña del 2021 El Financiero",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "a15a0aee7434dd07"
+ },
+ {
   "titulo": "Tribunal de Disciplina Judicial: opacidad y jueces",
   "liga": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPem9VdjRWWDdJOTlGNjY4SUJhNEVLckxDeVEzeXpqdWpzMVFZOUpwV3l3TUZVeDRhVHdHSnBvOHFtZVZjc1g1azRuYWRkY2d1M2dmSVhXa2U1WU5GdEQ1TjN6ZVJVUjFGalVWcUZqTkF2Y1FmRzlXY1FEcE43TVExa2ZHUEZJblVJS2RHcksxYUlJdUF6TUU1NExubzNxWlFrS3lfYTBpS2J0TDhBQmFkWXJxd9IBswFBVV95cUxPaUNwTXIwWTNpTDlraFFrRUdRUm44OWxzZjhwbkZrNlBlb2Qtb0EtNzd6RFdnRHloY2VnQXNUX09nUVhIa2xZMnI2VGZMOXl4UG5jOXB1X1NVYUdTX2Y3Z3ZRT3ZwVEtGRDltMm9wakJBckVsbnBwMC1ta0dqV1FkWXRqaXQ2NGUzZDFfenAzQXQzNVpRZllLckRrdFl1UTA1VXNhNGZnWkM3Q1liM1JkYnBrdw?oc=5",
   "medio": "Milenio Monterrey",
@@ -934,6 +1397,21 @@
   "id": "863a6dbfdb017bc7"
  },
  {
+  "titulo": "Criterios diputados plurinominales del INE",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGpUN0tPVV9HQ2IweDdOd0N0Ry1Ra0NkZzN2SnRlZDBFVWc5QXdFVG1ZdVduU0N0czduMTVHRGRYNGhfRXlVX3VrWGpQNkVkREltN2s0c2lEdDMwYS1MeGx3eE1MNXYweHdLZnpxYWFtSE9ZY1Yzc0xZR1FmbHQwNFVsRl9mMDFwZDlxeVBZaTc5c29mWGdpZWtKQWFqMURFMVlpdHBycnFVUDRmOElXLVVCX3d0SWs0ek1KQUhCUmt2RTNZQnfSAcYBQVVfeXFMUERqVDdLT1VfR0NiMHg3TndDdEctUWtDZGczdkp0ZWQwRVVnOUF3RVRtWXVXblNDdHM3bjE1R0RkWDRoX0V5VV91a1hqUDZFZERJbTdrNHNpRHQzMGEtTHhsd3hNTDV2MHh3S2Z6cWFhbUhPWWNWM3NMWUdRZmx0MDRVbEZfZjAxcGQ5cXlQWWk3OXNvZlhnaWVrSkFhajFERTFZaXRwcnJxVVA0ZjhJVy1VQl93dElrNHpNSkFIQlJrdkUzWUJ3?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T21:39:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Criterios diputados plurinominales del INE Milenio",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "bf9c0d4d5f29b07a"
+ },
+ {
   "titulo": "El 'jogo bonito' de Helinho somete al Atlas en la ida de Cuartos",
   "liga": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGUyT2pZOVRmUDFZdjFoZUI1R2N6NnZlNVpXT1Z1VFU2TENkaTNnN0IxWGhGWmExRzgwOTdaTWF1R28tTHJFd0Z6VVhOTHIxeXRvMkczUHZCdzk3LUNGRXVxLWtkOHE3VjZNVXo4LVg5QS02Wmg2dFJFMkhBc05JR3ZXUXVrVWtwd0ZydXZtakdtVnFNT2JvVEVTNWxhV0l0?oc=5",
   "medio": "Info7",
@@ -960,6 +1438,20 @@
   ],
   "local": true,
   "id": "6c4ea99eeed25704"
+ },
+ {
+  "titulo": "Diputadas de Morena solicitan a la ASF informe sobre observaciones derivadas de auditorías al Gobierno de Nuevo León",
+  "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEVkX21LWTBZN05OU3AyZ0hxM2dzaEl6ZnFlTWxCX1FMNl9IR1pfNldRUVBRbDlJbnEtRUJCTTFsYzdJNVk4RC1YUEdJRXFsNFIzOGVNMENwdmxDMDRUR2MyVks5UlQxLTB3NGxuOVBLVzNKQlI3WUdjSnItWEZ0N2xmWGptZjVFY0hudDU2c2FvRnVTRXp3YmdZSF9ESWRiQTRaR1NOQ0lSeHdKdE9XTnRFOE9GMlluTlRjRktZQ0Nhc3hoWmVOLV9FYXZxYUp3VHZOTW14RW1Lc3JHQlMzYVpvYXk?oc=5",
+  "medio": "Talla Politica",
+  "publicada": "2026-11-25T21:37:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Diputadas de Morena solicitan a la ASF informe sobre observaciones derivadas de auditorías al Gobierno de Nuevo León Talla Politica",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "7e09d1ff8fefadb5"
  },
  {
   "titulo": "Buscan a hermanitos de un año tras ser sustraídos por su padre en Monterrey",
@@ -1020,6 +1512,35 @@
   "id": "593679b6947adf97"
  },
  {
+  "titulo": "Noticiero completo de Pedro Gamboa del 25 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYjdiMlBpMGlFRDdzNkRuSWZ6bV9PRUlnRkR4YkUzVUlSSDZ4OFlQdUFURXlwc3YyaUQ1ZVRhalJ4RzdkSjh3UTMwb2VsVDN5NFVWc3JSRlFLak94dzBvVVVackxacTJlSmlpQWktV3pJN0xYTTM2eF9xYnFzcElXQzBWYUhtOGgtRl9JNzV2YnlnNGNJWWl4eG9ZX2J2bVVLTWZWNEFBZzVwenJPWkxBVGR2NE1nM2xTTWptclA0UHdwMFZKNHZoMWJFbWJ1OEJxblBFYnJGUnUxTEg40gHcAUFVX3lxTE9iN2IyUGkwaUVEN3M2RG5JZnptX09FSWdGRHhiRTNVSVJINng4WVB1QVRFeXBzdjJpRDVlVGFqUnhHN2RKOHdRMzBvZWxUM3k0VVZzclJGUUtqT3h3MG9VVVpyTFpxMmVKaWlBaS1Xekk3TFhNMzZ4X3FicXNwSVdDMFZhSG04aC1GX0k3NXZieWc0Y0lZaXh4b1lfYnZtVUtNZlY0QUFnNXB6ck9aTEFUZHY0TWczbFNNam1yUDRQd3AwVko0dmgxYkVtYnU4QnFuUEVickZSdTFMSDg?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T21:32:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Noticiero completo de Pedro Gamboa del 25 de noviembre de 2026 Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "68734c1a647aafbd"
+ },
+ {
+  "titulo": "Muere menor de edad tras ser arrollado en la carretera Tampico-Mante; conductor quedó detenido",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWtWUFMxRDBDMkl5b3d6cHBXSVJfLVhtaGlDZHA0VzdTcTc5VS1sSmhDNG1Pc2puR2dCQVhRTjVWN2RkMHlyeW5fbVZOUnlxWnNXWTVxNzRuUV9DX2tsbkVJa1JDN0ZRbkJWNFY3SmJ0WFpybnJONnB6MGhyYzlrUGxvaUpYUzh3cVFMb2w0UznSAZABQVVfeXFMT1FrVlBTMUQwQzJJeW93enBwV0lSXy1YbWhpQ2RwNFc3U3E3OVUtbEpoQzRtT3NqbkdnQkFYUU41VjdkZDB5cnluX21WTlJ5cVpzV1k1cTc0blFfQ19rbG5FSWtSQzdGUW5CVjRWN0pidFhacm5yTjZwejBocmM5a1Bsb2lKWFM4d3FRTG9sNFM5?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T21:30:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Muere menor de edad tras ser arrollado en la carretera Tampico-Mante; conductor quedó detenido Milenio",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "2b1f47b17d54ebd8"
+ },
+ {
   "titulo": "Diputadas de Morena solicitan a la ASF informe sobre observaciones derivadas de auditorías al Gobierno de Nuevo León – Talla Politica",
   "liga": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEVkX21LWTBZN05OU3AyZ0hxM2dzaEl6ZnFlTWxCX1FMNl9IR1pfNldRUVBRbDlJbnEtRUJCTTFsYzdJNVk4RC1YUEdJRXFsNFIzOGVNMENwdmxDMDRUR2MyVks5UlQxLTB3NGxuOVBLVzNKQlI3WUdjSnItWEZ0N2xmWGptZjVFY0hudDU2c2FvRnVTRXp3YmdZSF9ESWRiQTRaR1NOQ0lSeHdKdE9XTnRFOE9GMlluTlRjRktZQ0Nhc3hoWmVOLV9FYXZxYUp3VHZOTW14RW1Lc3JHQlMzYVpvYXk?oc=5",
   "medio": "Talla Politica",
@@ -1032,6 +1553,34 @@
   ],
   "local": true,
   "id": "f3b12da9e2255b07"
+ },
+ {
+  "titulo": "Captan violenta agresión contra adulto mayor en Hidalgo",
+  "liga": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzN3a2JtWnE0aHJ6eHg4M1VvZWM4SzhyQkFRNkxhc0docXE1OG41RFBSVkhFY21fMU9sTm5reTZYSHRScnhFUTZZQ19FV3pTbWQ5aFlJeWF5VUJRTnphRkVSWXNGN1ZwVklBbEJfVG0yaHVmd3dDeTdLWjhEa2I4VnBuaUY5MzV6QjlqelQwNF9rNzDSAZMBQVVfeXFMUEczd2tibVpxNGhyenh4ODNVb2VjOEs4ckJBUTZMYXNHaHFxNThuNURQUlZIRWNtXzFPbE5ua3k2WEh0UnJ4RVE2WUNfRVd6U21kOWhZSXlheVVCUU56YUZFUllzRjdWcFZJQWxCX1RtMmh1Znd3Q3k3S1o4RGtiOFZwbmlGOTM1ekI5anpUMDRfazcw?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T21:28:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Captan violenta agresión contra adulto mayor en Hidalgo Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7617bd83bed5fee6"
+ },
+ {
+  "titulo": "Ante problemas del agua, sector restaurantero del AMG refuerza sus medidas de higiene",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnhYOEZiaHVoRzFDTE1jREhNN3VTeTF3NkpUWVhRS2dLTGgxa1NWbE1wVXBoU0kzRC15eEZ4WGd4NlBiMXlNZWo1UHpmMUZ3Wi04N01pZ2l4Nml6QzFXNFY5Y3hJWGxEZFlZaTBsaURaU1VKRUNyeHNHVkZFTmpjR3NfTDVuWXNWcWZZ0gGLAUFVX3lxTFAyeFg4RmJodWhHMUNMTWNESE03dVN5MXc2SlRZWFFLZ0tMaDFrU1ZsTXBVcGhTSTNELXl4RnhYZ3g2UGIxeU1lajVQemYxRndaLTg3TWlnaXg2aXpDMVc0VjljeElYbERkWVlpMGxpRFpTVUpFQ3J4c0dWRkVOamNHc19MNW5Zc1ZxZlk?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T21:23:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Ante problemas del agua, sector restaurantero del AMG refuerza sus medidas de higiene Milenio",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "9820db4c147e75a9"
  },
  {
   "titulo": "Avioneta pierde el rastro en Mississippi: esto se sabe del caso",
@@ -1133,6 +1682,20 @@
   "id": "2d5d25fe94cbc61f"
  },
  {
+  "titulo": "Marcello Hernández habla de Bad Bunny y su especial en Netflix",
+  "liga": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDNqd0lRUGFSNXpLemdnYWxDckVMWjlkMkZJYk03S0lMZVNjcHFVVV9fa2huYnpfcklWVks5bjZFZzRkRFRPMVpfZnlZVW51eUZISzBTVENveHl1VUZEenZHYW1tUmlpcVRBYlduUzhBYXpIRW9ybkppYktfLTZnZ1g0ZzhvTnJDRUVFYmVheEpFMGNQV09ObDFETUMxb2xXSm5NUURaWkNQZmvSAasBQVVfeXFMTWwzandJUVBhUjV6S3pnZ2FsQ3JFTFo5ZDJGSWJNN0tJTGVTY3BxVVVfX2tobmJ6X3JJVlZLOW42RWc0ZERUTzFaX2Z5WVVudXlGSEswU1RDb3h5dVVGRHp2R2FtbVJpaXFUQWJXblM4QWF6SEVvcm5KaWJLXy02Z2dYNGc4b05yQ0VFRWJlYXhKRTBjUFdPTmwxRE1DMW9sV0puTVFEWlpDUGZr?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T21:11:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Marcello Hernández habla de Bad Bunny y su especial en Netflix Milenio",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "503e31f35cdcd3b3"
+ },
+ {
   "titulo": "Provoca frente frío número 8 helada en la Sierra de Arteaga",
   "liga": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0dYdzV2aFVvbWJINDZhZWhuS1VOOE1tOE8yREtVc1pPcFNxcTh5QTItZktfWkhHYjd6WUZpWnJuc3BVQndZcHRoUlJVa0VwaERLVWpIeWExVC1STE45d2paV3lydlhJZDMzVTFFa0Z4RHowcHI4RjZJMWttZWQxeHZvYWo3STVhQVNqZFFxdTZpSHVlOXNOTzRzdDlzbEhSTFdKamZBNTRnQQ?oc=5",
   "medio": "El Horizonte",
@@ -1230,6 +1793,20 @@
   ],
   "local": false,
   "id": "f3e5144735f14db5"
+ },
+ {
+  "titulo": "¡68 barriles! Así fue la detonación de explosivos en Iowa",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGVFMVh3VUpfV1g0OUplbEVzOHM3TTlpWFNOTWpES01zTTJfdTVUNVFUZkdlWnhYSkp3b0wycHB4aXdTam1XbVE5WEtfR0o5a0Uwa1ByRDYyUVd3XzlzcERkMGZMd3FUX0NJVURxemlfZXhWTzN2VU5KYjl3OWcyR0xLZjN5cnZHallaTWo0Q2tRbHNYcDJLTEFqSEx5QmQ5MGl6V0NRcjdxYWUzb0JlZkFHQ3NuSmlHcDhR0gG7AUFVX3lxTE9MZUUxWHdVSl9XWDQ5SmVsRXM4czdNOWlYU05NakRLTXNNMl91NVQ1UVRmR2VaeFhKSndvTDJwcHhpd1NqbVdtUTlYS19HSjlrRTBrUHJENjJRV3dfOXNwRGQwZkx3cVRfQ0lVRHF6aV9leFZPM3ZVTkpiOXc5ZzJHTEtmM3lydkdqWVpNajRDa1Fsc1hwMktMQWpITHlCZDkwaXpXQ1FyN3FhZTNvQmVmQUdDc25KaUdwOFE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T20:50:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "¡68 barriles! Así fue la detonación de explosivos en Iowa Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "ac4b6a2b77edd0b0"
  },
  {
   "titulo": "Balacera Deja una Niña y un Hombre Sin Vida en Monterrey, Nuevo León",
@@ -1344,6 +1921,20 @@
   "id": "058362d015e81fff"
  },
  {
+  "titulo": "Tras operativo en Ixtlahuacán del Río, FGR asegura 11 vehículos con reporte de robo en Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRENscEZxWURNZGdmb0U0azVmT0xWY3pWUTZlUGtiTXJjTW54eHhQOWl1YlN0eTE5QzVPWmJ2aTd6TmhCLWszLW16Y1gwWnN0WXlfOVNLUjlKY3JUZUJ6MG1ORGhDWnlQaFY2M3ZWU1NqQ3J1cHdmZ1B2Q2R4d1I3eElmdzB3YjlQ0gGIAUFVX3lxTE1EQ2xwRnFZRE1kZ2ZvRTRrNWZPTFZjelZRNmVQa2JNcmNNbnh4eFA5aXViU3R5MTlDNU9aYnZpN3pOaEItazMtbXpjWDBac3RZeV85U0tSOUpjclRlQnowbU5EaENaeVBoVjYzdlZTU2pDcnVwd2ZnUHZDZHh3Ujd4SWZ3MHdiOVA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T20:37:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Tras operativo en Ixtlahuacán del Río, FGR asegura 11 vehículos con reporte de robo en Estados Unidos Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "244d5f88c44486b5"
+ },
+ {
   "titulo": "Confirma Héctor García que se registrará como precandidato de MC al Gobierno de Nuevo León en 2027",
   "liga": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeG8zWDd4Tlg5cVVXOGNVdHRxWVpjMmxSbXJIMTVMam1aeWJGVHpvRDhfMTBpZ3dRcUpZRWlpV082Q1JzWkdJcjRCNGI3VmFjM1dGREtuMElYejIyRDAyS0duOFQ1N0NxanJPcEU5NmhGWVdBcVJIS1F2anh2QWpaV0tMQUpkc1EyVGJnZ21md2ZEZFQtVnoxUjhNdXlxbEFwUUFiYXM4QVZUSGJmaWVkT1Y0bjJPU3U1Rjk5WS1fOXN6QWZwTDVzblg4bHlwcjlFQzVNQWZHTUNnQ0dwMXV2MGNnVzlHYThyWFBQM1Bn?oc=5",
   "medio": "Reporte Índigo",
@@ -1356,6 +1947,20 @@
   ],
   "local": true,
   "id": "1348db090aadd9d3"
+ },
+ {
+  "titulo": "Libia Dennise integra mil 272 establecimientos para proteger a mujeres",
+  "liga": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcUhuZWdpR1hNVVBVMTI3d0gxenBScGVmSUx6YmMtTDBzWWo5TEJGQVlacjRJQkVUMS15WXBpQUV3ZnI0bkpUZWtlaGd3bEt2MUoxV2RRRU5GVmlGbTBqTW01S09teUVaVDFnOVRqU0ZyZk91R2l2ZFJyUTFhUktmSURlbTB5WEdxN1ZHVGFCc2xEd2pEV21LUkdFd0MwZlhCOURmVW1wYzdkWElkNjEweXV0c0FFTTNyVktHTl9ZUnVmLVU?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-25T20:34:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Libia Dennise integra mil 272 establecimientos para proteger a mujeres Reporte Indigo",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6377bd7b6158eadc"
  },
  {
   "titulo": "Asesinan a balazos a niña de siete años y un hombre en Monterrey",
@@ -1412,6 +2017,20 @@
   ],
   "local": true,
   "id": "f4b5cf03fec37a52"
+ },
+ {
+  "titulo": "Noticiero completo de Jaime Núñez del 25 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMnBHejdMS0ZpLW5RdkY2MmR4Q2tHVEUxaWNTbFNlZHRVZXZkMXMwUTRzTnI1ME9lQ2gybGZSTzVPcnlJc3pXX3ZYY2lGaE5VU1ZPWTRBZVl4NUllVVFfb1dtNENwUHV5bzR1T0lUVWlSZkcxSi1INWxacmJaaW9HWS1QQnZDUzkxSnA3b2h6bzlIRHdGU0V1MS1VeDZ4alZUdTJ0d3FMaDNGWmZyS2c0T2thODh3cEVrZk5SanBmLWN5X3U5S183ZHlsX25lYVpHNm1VVNIB1AFBVV95cUxPMnBHejdMS0ZpLW5RdkY2MmR4Q2tHVEUxaWNTbFNlZHRVZXZkMXMwUTRzTnI1ME9lQ2gybGZSTzVPcnlJc3pXX3ZYY2lGaE5VU1ZPWTRBZVl4NUllVVFfb1dtNENwUHV5bzR1T0lUVWlSZkcxSi1INWxacmJaaW9HWS1QQnZDUzkxSnA3b2h6bzlIRHdGU0V1MS1VeDZ4alZUdTJ0d3FMaDNGWmZyS2c0T2thODh3cEVrZk5SanBmLWN5X3U5S183ZHlsX25lYVpHNm1VVA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T20:26:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Noticiero completo de Jaime Núñez del 25 de noviembre de 2026 Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "80cef46ddb278974"
  },
  {
   "titulo": "Dan a Rayados recibimiento de campeón para el inicio de la Liguilla",
@@ -1555,6 +2174,48 @@
   ],
   "local": true,
   "id": "f8e1e97e04a91bc1"
+ },
+ {
+  "titulo": "Horacio Duarte destaca coordinación entre gobiernos de Claudia Sheinbaum y Delfina Gómez en favor de los trabajadores mexiquenses",
+  "liga": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcGRkRlJaOGxtQTNyeVlfTjh6SmRCT3NIdVVwSk13M0tIekdIckZraXRqZTZpTE5qdUNNdzdaTmtWbzJZQjMyV0NnS19LNXpTLUVRWlR0bTZpUkVjUXllZUFnSHQ1dUVOdEdqdWlaMDZNVVV1SzZrNEU5UG5hSFJTRnFJNl9xQl9IdEZzTmphQkx6NkxJYV95bjJWMmZEcnZUZkp3V0dWa1Zvc01JZF9vRGxBNk1IUUZCZHE5aXZ1cFhiMEVlMkpYOGg3bnJLYlRxZmt0amJBakpvNjI5bVJGUkJuYUNlWUYwZDBia0VGNjE2eG5XdVJleDd0bUJ4SVNBUVhKNU9tcTJTZWha?oc=5",
+  "medio": "El Financiero Monterrey",
+  "publicada": "2026-11-25T20:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Horacio Duarte destaca coordinación entre gobiernos de Claudia Sheinbaum y Delfina Gómez en favor de los trabajadores mexiquenses El Financiero",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "e7417da83e5bcd92"
+ },
+ {
+  "titulo": "Ningún Pueblo Mágico perderá su nombramiento tras evaluación: Sectur",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGlRQjZxSm0xanVkWURidDBSS0pPLXd5WnVpNFVGX2hiOWRjcl82WUQycDZ5Z2x6c0hPdlE3ZHI2elhtSGM3MjB3Ty1pRDByQ0tVN1FjbnYtbFJpRVE2Q1lkVG9rMDZYMXNmbFFrNHhiWFdseUNnLVE1VzhVUGxvWmNMR2ZFcFBGaHRJUWRR0gGOAUFVX3lxTE9MaVFCNnFKbTFqdWRZRGJ0MFJLSk8td3ladWk0VUZfaGI5ZGNyXzZZRDJwNnlnbHpzSE92UTdkcjZ6WG1IYzcyMHdPLWlEMHJDS1U3UWNudi1sUmlFUTZDWWRUb2swNlgxc2ZsUWs0eGJYV2x5Q2ctUTVXOFVQbG9aY0xHZkVwUEZodElRZFE?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T20:18:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Ningún Pueblo Mágico perderá su nombramiento tras evaluación: Sectur Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "38a6aa2cccdae885"
+ },
+ {
+  "titulo": "Registro nacional de enfermedades raras espera dictamen en Senado",
+  "liga": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVBJMkpPeVVTcXJ0dGFId2VMbnQ4ZXFaR3hMSEwxWm1BaW5Yd1J1TnUtOGhRbzI3STA4U0w5SVBYcUNMWkw3V1h4TzNxTDE4RTcxT2pHMHJyaWtVdU1kcDVKNkhwb2pWVTJjTnIwM0FOOENvSU12Z0duY0tWMmE2VjJ1TU1ZeXhZOUQw0gGLAUFVX3lxTE1xUEkySk95VVNxcnR0YUh3ZUxudDhlcVpHeExITDFabUFpblh3UnVOdS04aFFvMjdJMDhTTDlJUFhxQ0xaTDdXWHhPM3FMMThFNzFPakcwcnJpa1V1TWRwNUo2SHBvalZVMmNOcjAzQU44Q29JTXZnR25jS1YyYTZWMnVNTVl5eFk5RDA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T20:18:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Registro nacional de enfermedades raras espera dictamen en Senado Milenio",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "b30050f043b7508d"
  },
  {
   "titulo": "Seguridad y economía, ejes del próximo informe del alcalde de Torreón",
@@ -1811,6 +2472,34 @@
   "id": "0ab75c2aa4fe1338"
  },
  {
+  "titulo": "Fovissste publicará nuevas reglas para constructoras en el Programa de Viviendas del Bienestar",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2ZFdGw1b0luWnFCOVFvWXU1TG55UGxGSUZ6aWNNR0pJdjRGTUhCbEk0anozMkZ0NW1fTHNaZnh5M2h6YVh3SHBCQmxrel9iMDMzM05ValMtZ1NNRkFZeUM5NF9mbEFSSEh2RTNtZ0ZQS1Iwd3AwaWhTN1A4ZmpiZjVoeUZkdThIemZWSWdEUDdMVXRwelVWdWt4cGpsbkZnZW81ddIBpAFBVV95cUxQb2ZFdGw1b0luWnFCOVFvWXU1TG55UGxGSUZ6aWNNR0pJdjRGTUhCbEk0anozMkZ0NW1fTHNaZnh5M2h6YVh3SHBCQmxrel9iMDMzM05ValMtZ1NNRkFZeUM5NF9mbEFSSEh2RTNtZ0ZQS1Iwd3AwaWhTN1A4ZmpiZjVoeUZkdThIemZWSWdEUDdMVXRwelVWdWt4cGpsbkZnZW81dQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T20:05:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Fovissste publicará nuevas reglas para constructoras en el Programa de Viviendas del Bienestar Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f3877674f0a61e99"
+ },
+ {
+  "titulo": "Alumnas de Oaxaca acusan a profesor de acoso sexual en plantel",
+  "liga": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ29HM0pOOF9fOS1nazByUDYyeWthMFRpSHRjZ3Z2NHJDT0ZNR3BVZUJhVV96T2ZMYm1TOG1CMEFnRGZYTmU2UVRYYmNEeDJEUkxBOWI0WGhyTmVtclFvaG5TSTh2SjVYX2QxZUt4aDhjTl85eGxEZnBBc0lJR1hjUjZmalNzOF9mQXZMTGJYcEpqbEZYakFDYWJ6ZzNNcTdCZmfSAaIBQVVfeXFMTkNvRzNKTjhfXzktZ2swclA2MnlrYTBUaUh0Y2d2djRyQ09GTUdwVWVCYVVfek9mTGJtUzhtQjBBZ0RmWE5lNlFUWGJjRHgyRFJMQTliNFhock5lbXJRb2huU0k4dko1WF9kMWVLeGg4Y05fOXhsRGZwQXNJSUdYY1I2ZmpTczhfZkF2TExiWHBKamxGWGpBQ2FiemczTXE3QmZn?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T20:04:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Alumnas de Oaxaca acusan a profesor de acoso sexual en plantel Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "885ec33eb1e7317a"
+ },
+ {
   "titulo": "MC busca visibilizar la violencia financiera contra las mujeres en Nuevo León",
   "liga": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnYwS2dJbUF3czA0SDlfcXd3ZUlCeExWWW53ZXNXLUEzck1KbkZ5bm9Na25lT28zWUJBRzg3Zzdkd1gyNExrc3g1M1pybTFGRUdERnk2bFktcDE4d1VZd2FCVVpVUGp3TjNhZzZzbUFYMGZLZ0doX3FZazNmdFMtWHVzaEVjbVpJbG5HRjB4MXRyRkgtbFhIVi1GWkZsT1FkSFpiWk1LeHlVZXB2YUE?oc=5",
   "medio": "gamavisión",
@@ -1925,6 +2614,20 @@
   "id": "3eef306dee89f831"
  },
  {
+  "titulo": "Violencia contra defensoras ambientales sube 61.8% en México",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVNpb2lhMWlQZFdub3ZBSVE1emh2MjdINld5WGpwWGJjR3JnQ1pfdERQemlQSXktS053OHhRdXBVQ2FwSkYwVkU0V0F1a0w0Q1E2SFE2bThuY0NwaGpZTWw3YkpubUoydlVwQzZpamVKZTRlMWtQNmlJRTV2MEJvblZ0YzdHbF9NdURoUU02c2o1dS1zYXByMXI3aHZjbFM2Rm1ESDAydDl2SVpNd0J5SXhCVHJOTlBnSUtvZzdDdzNmcVp6LWZoQ2d30gHKAUFVX3lxTFAxU2lvaWExaVBkV25vdkFJUTV6aHYyN0g2V3lYanBYYmNHcmdDWl90RFB6aVBJeS1LTnc4eFF1cFVDYXBKRjBWRTRXQXVrTDRDUTZIUTZtOG5jQ3BoallNbDdiSm5tSjJ2VXBDNmlqZUplNGUxa1A2aUlFNXYwQm9uVnRjN0dsX011RGhRTTZzajV1LXNhcHIxcjdodmNsUzZGbURIMDJ0OXZJWk13QnlJeEJUck5OUGdJS29nN0N3M2ZxWnotZmhDZ3c?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T19:52:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Violencia contra defensoras ambientales sube 61.8% en México Milenio",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "82c4aae799dc99ec"
+ },
+ {
   "titulo": "Desmienten que esposa del cantante Pepo López esté delicada de salud tras incendio",
   "liga": "https://abcnoticias.mx/show/2026/11/25/desmienten-que-esposa-del-cantante-pepo-lopez-este-delicada-de-salud-tras-incendio-296640.html",
   "medio": "ABC Noticias",
@@ -1965,6 +2668,20 @@
   ],
   "local": false,
   "id": "0ceab55347c1bd71"
+ },
+ {
+  "titulo": "Noticiero completo de Milenio Noticias del 25 de noviembre de 2026",
+  "liga": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd2djZGliT1k0QjQwcU1RYjhETzZ6VG9PZWd2M3JDTG41WUlLR0NwNVFHbFY5QTF5cVRkQlpWOTRqQnJ1R05nb056SDhFZ1F0T0c5VnNVNzBmVFFlTEVmUENTNHVXUjZLMEdJNXhfOXhRbjlGRllJOVNSOWRBVzZZSXluMHpDeHhjVHA4U3NITEtjSGQtbV9JMHJPejVPRnVFNW9oczdYREN1c3dRRzR6TXplcjlQX1g5VERoSjRzbVRQZ1hsWGZqUHNjQk1mS1JLQUFDa3B5V3FOZzjSAdsBQVVfeXFMTXdnY2RpYk9ZNEI0MHFNUWI4RE82elRvT2VndjNyQ0xuNVlJS0dDcDVRR2xWOUExeXFUZEJaVjk0akJydUdOZ29Oekg4RWdRdE9HOVZzVTcwZlRRZUxFZlBDUzR1V1I2SzBHSTV4Xzl4UW45RkZZSTlTUjlkQVc2WUl5bjB6Q3h4Y1RwOFNzSExLY0hkLW1fSTByT3o1T0Z1RTVvaHM3WERDdXN3UUc0ek16ZXI5UF9YOVREaEo0c21UUGdYbFhmalBzY0JNZktSS0FBQ2tweVdxTmc4?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T19:45:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Noticiero completo de Milenio Noticias del 25 de noviembre de 2026 Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0a83f11e11afa101"
  },
  {
   "titulo": "Ordena Tribunal tomar protesta a suplente de Rocío Montalvo",
@@ -2009,6 +2726,21 @@
   ],
   "local": true,
   "id": "5191102bf3785804"
+ },
+ {
+  "titulo": "¡Elecciones en España el 29-N!: Votan 350 diputados y 209 senadores",
+  "liga": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMTJLeVNvN3RkemdGbkJvcDNVUXB2dFZoeFhpWnFteE1jT0JpQXZObkJ6MmdkRmpUTENqdnlDWjlsQ21BRi1CRjBCTUhtSEY0RF80Qm1NSWJwYkpmbWlWZ3o3LTRzWUN3YVRmejVmRXFqenNqTkVnLVpfYXpEdGJlRTdQQnFKcm1ubGVBSVkwT1hGSUtmb2dOUDF0U2VCV0FEeUlzU2RLbDBnZ2F20gGsAUFVX3lxTE8xMkt5U283dGR6Z0ZuQm9wM1VRcHZ0Vmh4WGlacW14TWNPQmlBdk5uQnoyZ2RGalRMQ2p2eUNaOWxDbUFGLUJGMEJNSG1IRjREXzRCbU1JYnBiSmZtaVZnejctNHNZQ3dhVGZ6NWZFcWp6c2pORWctWl9hekR0YmVFN1BCcUpybW5sZUFJWTBPWEZJS2ZvZ05QMXRTZUJXQUR5SXNTZEtsMGdnYXY?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T19:43:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "¡Elecciones en España el 29-N!: Votan 350 diputados y 209 senadores Milenio",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "fd28f99b2e91c656"
  },
  {
   "titulo": "VIDEO | Chofer de Transporte Público Reta a los Golpes a Pasajero en Nuevo León",
@@ -2137,6 +2869,20 @@
   ],
   "local": true,
   "id": "6b6e0b99cc3c778e"
+ },
+ {
+  "titulo": "Gustavo Alanís critica financiamiento climático en la COP31",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzJOM2Z4RUpzN0Y4eWdpUUt3R2tqUWZZQVlBZlZQdWdCYU5fWXJYQnEyUy1JOVZuSEY2S2NldmRYOHdpcU1qX2N3RWJYVWJNTUJPcU1zM0xKQXJKYzF5X1BPR1R2WDR1WWMxZ2xPdUV6Z2htN1ZxdDZvNVA0bDM2RGFKZDVCZ3BtMEJmdlpFY19VSExROWJJeWF0M25yNEpLRmRmd1JMUWpoX24zM3dnelFOaGZsNEZ2b2xUZ3lyMWZFbkloWGfSAcYBQVVfeXFMTW8yTjNmeEVKczdGOHlnaVFLd0dralFmWUFZQWZWUHVnQmFOX1lyWEJxMlMtSTlWbkhGNktjZXZkWDh3aXFNal9jd0ViWFViTU1CT3FNczNMSkFySmMxeV9QT0dUdlg0dVljMWdsT3VFemdobTdWcXQ2bzVQNGwzNkRhSmQ1QmdwbTBCZnZaRWNfVUhMUTliSXlhdDNucjRKS0ZkZndSTFFqaF9uMzN3Z3pRTmhmbDRGdm9sVGd5cjFmRW5JaFhn?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T19:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Gustavo Alanís critica financiamiento climático en la COP31 Milenio",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "aa2af9d2e815b5eb"
  },
  {
   "titulo": "¡10 de 12 cargos! Estas son las acusaciones contra Huawei",
@@ -2278,6 +3024,20 @@
   ],
   "local": false,
   "id": "0b5471af8f115637"
+ },
+ {
+  "titulo": "¡Toluca ya tendría reemplazo de Mohamed! Conoce al candidato ideal",
+  "liga": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVpidFdieEhhVUJLOFlId1RRTjhMcHV5Z1NaVVliTVdXakVZUHR5S01iaERpOW9RUEE2dlBpczhQNXk0dFJlM0NyNTBHNlNFTWxwZ3N5R0ZqYnN1ampRWEswWlhtSmVmcDJqX3FMejdWNDlPeGJCa1NyZ1dnN3BUVjY3WDJaV2RSRzZTamJtOUZadHJ3MXpzSXVBOWZMQkljaVEw0gGjAUFVX3lxTE5VWmJ0V2J4SGFVQks4WUh3VFFOOExwdXlnU1pVWWJNV1dqRVlQdHlLTWJoRGk5b1FQQTZ2UGlzOFA1eTR0UmUzQ3I1MEc2U0VNbHBnc3lHRmpic3VqalFYSzBaWG1KZWZwMmpfcUx6N1Y0OU94YkJrU3JnV2c3cFRWNjdYMlpXZFJHNlNqYm05Rlp0cncxenNJdUE5ZkxCSWNpUTA?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T19:25:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "¡Toluca ya tendría reemplazo de Mohamed! Conoce al candidato ideal Milenio",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5e7ce0e4ca9ff973"
  },
  {
   "titulo": "Clima Monterrey MAÑANA 26 de noviembre | Pronóstico del tiempo",
@@ -2435,6 +3195,35 @@
   ],
   "local": false,
   "id": "f75faf96ee753ab2"
+ },
+ {
+  "titulo": "¿Qué películas se estrenaron cuando salió GTA V? Así era la cartelera de cine en 2013",
+  "liga": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb1RCSlhidWxzLWRhQ19aRlItVXBsVnJoYTVwTEtFV1hxbFU3SllNMk9tRFpYM3pWVG9UMDZjTWxFdDhYYU9zZVc3amloc1R0ajBKZ1lLbWhWYVVMbXBtcHhFNUlqb2ZxYUVRWlFKQ1ZLNVlPeVBlLWltVTh3ZXhnVTN0RlE4SmdyUnNEcjI4SjFWWjVvc3FRaG9xa2c3WFcza0pvY2VmUEcxdUQ5MlBxSTBGdk1QMU1RVEx2T2VYQm9YT2hkZ1NnRUc3WTlSZXVjTklvVFpmNmx6ZVpKaUtjSTJn?oc=5",
+  "medio": "Reporte Índigo",
+  "publicada": "2026-11-25T19:09:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "¿Qué películas se estrenaron cuando salió GTA V? Así era la cartelera de cine en 2013 Reporte Indigo",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "63050ecf46e7db90"
+ },
+ {
+  "titulo": "Rastreo de mariposas monarca revela movimiento entre colonias",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3JRM3I1TE1tUlVCc3pBanRzOWt2ZjNCcTkwVlg5WnRDV3JTLWdCVVRzM0tObWo2ZG1ta3ZLZG93VzI4N29rVDhUSk50RV9NZW05NVFIekFzWFNocURJVlowcXVLZHk0SWUyZXRkWDRYMElLX3ozOC0yUlJ4eUxmVEZSejI2dWZOeThMcVJjSmgwQWNIUE0tZlMwLUo0bWZTRTFJYnpkbVo1OE9vdUhlMzhucXBYTGJ4eGJBbWxmQjVhMU5r0gHEAUFVX3lxTE1TclEzcjVMTW1SVUJzekFqdHM5a3ZmM0JxOTBWWDladENXclMtZ0JVVHMzS05tajZkbW1rdktkb3dXMjg3b2tUOFRKTnRFX01lbTk1UUh6QXNYU2hxRElWWjBxdUtkeTRJZTJldGRYNFgwSUtfejM4LTJSUnh5TGZURlJ6MjZ1Zk55OExxUmNKaDBBY0hQTS1mUzAtSjRtZlNFMUliemRtWjU4T291SGUzOG5xcFhMYnh4YkFtbGZCNWExTms?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T19:09:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Rastreo de mariposas monarca revela movimiento entre colonias Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c804312c7e32a675"
  },
  {
   "titulo": "Ordena TEE a Congreso de NL tomar protesta a diputada suplente de MC",
@@ -2763,6 +3552,20 @@
   ],
   "local": false,
   "id": "04970ab62bb4efdf"
+ },
+ {
+  "titulo": "Chemito recibirá injertos de piel en hospital de Galveston, Texas",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVJUTlZFZjFTQnRKUnY0ZTh5TXMzNnpJYUpkVHZHQkRqU096OHFsV3Y2UHA4NU9rNW45Q0dVdDY0VDR1Y0pBVExHamxVSGdmY2lRWFY4c1dBclZDV1p5cmVFaU8yOE15dG02cHFXVmxYUWhGRzh2UktSQ3VRS0o1a1IwckNvbEJnd3poYW90NXpIUHozNXNjZGxIS002aHpDREgtLdIBpAFBVV95cUxOdVJUTlZFZjFTQnRKUnY0ZTh5TXMzNnpJYUpkVHZHQkRqU096OHFsV3Y2UHA4NU9rNW45Q0dVdDY0VDR1Y0pBVExHamxVSGdmY2lRWFY4c1dBclZDV1p5cmVFaU8yOE15dG02cHFXVmxYUWhGRzh2UktSQ3VRS0o1a1IwckNvbEJnd3poYW90NXpIUHozNXNjZGxIS002aHpDREgtLQ?oc=5",
+  "medio": "Milenio Monterrey",
+  "publicada": "2026-11-25T18:50:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T02:00:09-06:00",
+  "resumen": "Chemito recibirá injertos de piel en hospital de Galveston, Texas Milenio",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "7e03cf185d408238"
  },
  {
   "titulo": "Alejandra Gutiérrez se reúne con regidores para analizar presupuesto plurianual",
