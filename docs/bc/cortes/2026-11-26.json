@@ -1,5 +1,700 @@
 [
  {
+  "titulo": "Estudiantes de Nogales ganan premio en Feria Nacional STEAM",
+  "liga": "https://elcongresista.mx/politica/sonora/estudiantes-nogales-premio-feria-nacional-steam",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:38:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Estudiantes de Nogales se destacan en Feria STEAM por su proyecto de reutilización de agua en el entorno escolar.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Agua",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "86122d67f1703432"
+ },
+ {
+  "titulo": "TIJUANA: Localizan a hombre sin vida envuelto en una cobija junto al panteón de la Gran Tenochtitlan",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNVV2pYM01PejRSSzQzRFJTU3VvX1hDOTBBb29nemdRNU9RTTVjMmtMY0Flam9OdWg0MENfTy1wOHdabkczcndBSVUxaVZNblEydXFKUEpCM3haeEpWWHlDcklxd0FuenhKQUdrbWFVZXdJOEwzckV6RFJzRnhxcXlGY24yeV85c0JnZEx1N3B2aHdxZUtQRU9QZkxuRVZmX3JDV25XZ0t6Qmt2WXREN0RIR1ZmbEU4RnZEclVnU1U1bEMtQlFCUjdpdTgwYWM0?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T10:35:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "TIJUANA: Localizan a hombre sin vida envuelto en una cobija junto al panteón de la Gran Tenochtitlan Baja News",
+  "temas": [
+   "Seguridad",
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "a1d10802a2dbb77e"
+ },
+ {
+  "titulo": "Suspende Expo Gastronómica en Guasave tras violencias en Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/expo-gastronomica-suspendida-guasave",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:34:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La Expo Gastronómica en Guasave es suspendida por razones de seguridad tras actos violentos recientes en Sinaloa.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9722afbc3ca56980"
+ },
+ {
+  "titulo": "Cumplimenta FGE orden de aprehensión contra acusado de violación agravada en grado de tentativa",
+  "liga": "https://www.uniradioinforma.com/policiaca/cumplimenta-fge-orden-aprehension-acusado-violacion-agravada-grado-tentativa-n916382",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T10:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La orden judicial fue ejecutada por oficiales de la Agencia Estatal de Investigación, Zona Tijuana.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "1adda7eb91207d34"
+ },
+ {
+  "titulo": "Sheinbaum sobre amago del PAN: \"Que no participen si así lo deciden\"",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-amago-pan-no-participar-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:33:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Claudia Sheinbaum defiende la ley electoral tras amenazas del PAN de no participar en elecciones de 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "a80227f6d6795575"
+ },
+ {
+  "titulo": "Sheinbaum critica a Salinas Pliego por promover \"rebelión fiscal\"",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-critica-salinas-pliego-rebelion-fiscal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:32:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Claudia Sheinbaum critica el llamado de Salinas Pliego a una \"rebelión fiscal\" y cuestiona su reputación entre empresarios.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a6f6ad35f0f73160"
+ },
+ {
+  "titulo": "Sheinbaum destaca avances en colaboración entre Pemex y Petrobras",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-avances-pemex-petrobras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:31:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Claudia Sheinbaum destaca avances en la colaboración entre Pemex y Petrobras para investigar el Golfo de México.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "252f4c9bbb1d6c68"
+ },
+ {
+  "titulo": "Llamado de la DEA a denunciar \"narco políticos\" es intento injerencista, dice Sheinbaum",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTjVxY3FJdkJwTUNaQm0tQnN1OFpXS2h3T1g5b0dCZ3BVM0RzamR5QnRvb2FnMEVrODZLb3dLeFdCSDFkYy1PaEhYRENKMC1mQTB6aWItSFJqNHpnaXk3ZUdSUTV1VG9GdThodTVOR09qZUYtMG92a3FQOW5NT1ZJWG50VmNHU0x4ZHZPbjJCZkxPSHU0VWZvQjVJOVE0SXlnbTVuTV8zbGJreUNXWXRpNEhLNjc1MTdQZ05Ud3RSOE1BNWUt?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T10:30:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Llamado de la DEA a denunciar \"narco políticos\" es intento injerencista, dice Sheinbaum AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4e0da06efc96e8ad"
+ },
+ {
+  "titulo": "Morena pide investigar supuestas ligas de Maru Campos con cárteles",
+  "liga": "https://elcongresista.mx/politica/chihuahua/morena-investigacion-maru-campos-carteles",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:24:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Morena exige investigar a Maru Campos por supuestos vínculos con cárteles en su campaña electoral de 2021.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "749a8e1ff8872555"
+ },
+ {
+  "titulo": "Jorge Hernández: un ciego sin límites que enseña tecnología a otros",
+  "liga": "https://elcongresista.mx/tecnologia/jorge-hernandez-ingeniero-cego-historia-exito",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:23:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Jorge Hernández, ingeniero ciego, desafía límites y enseña tecnología a personas con discapacidad visual en Miami.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cf8bef3c2b91575f"
+ },
+ {
+  "titulo": "Hieren a cantante mientras amenizaba evento en la colonia Unión de Ladrilleros",
+  "liga": "https://www.uniradioinforma.com/policiaca/hieren-cantante-mientras-amenizaba-evento-colonia-union-ladrilleros-n916380",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T10:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Dos hombres armados abrieron fuego contra el vocalista de la agrupación musical Doble Blindaje.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5573bdaad39127ca"
+ },
+ {
+  "titulo": "Empresarios urgen planeación metropolitana de largo plazo para Tijuana, Tecate y Rosarito",
+  "liga": "https://elportavoznoticias.com.mx/empresarios-urgen-planeacion-metropolitana-de-largo-plazo-para-tijuana-tecate-y-rosarito/",
+  "medio": "El Portavoz",
+  "publicada": "2026-11-26T10:18:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Representantes de organismos empresariales señalaron la necesidad de establecer una planeación metropolitana de largo plazo que permita atender los rezagos en infraestructura, movilidad y servicios públicos en Tijuana, Tecate y Playas de... La entrada Empresarios urgen planeación",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "ffb6ae4596568837"
+ },
+ {
+  "titulo": "Registran 404 obras de autores indígenas en Michoacán para proteger derechos",
+  "liga": "https://elcongresista.mx/politica/michoacan/registran-obras-indigenas-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:18:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Más de 400 obras de autores indígenas fueron registradas en Michoacán para proteger sus derechos de autor ante plagios.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "65011449476232db"
+ },
+ {
+  "titulo": "Detienen a tres personas y aseguran 10 armas en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/detienen-tres-personas-armas-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:17:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Detienen a tres personas y aseguran diez armas de fuego en Michoacán, como parte de operativos de seguridad en la región.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "23c344b55cb3bb19"
+ },
+ {
+  "titulo": "Gladyz Butanda: Morelia puede tener su primera mujer gobernadora",
+  "liga": "https://elcongresista.mx/politica/michoacan/gladyz-butanda-morelia-gobernadora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:16:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Gladyz Butanda propone un gobierno sensible para Morelia, destacando la importancia de la representación femenina en la administración pública.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d85cce844ef38459"
+ },
+ {
+  "titulo": "Brad Pitt y Angelina Jolie llegan a acuerdo extrajudicial por la bodega Chateau Miraval",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaTNvQVB4TFBVVHk1dVozdjB3enRQQnozV0xWX1NXZzBTSTlNQ0NsV05oaGNrcFhPU3o5OXRTTHc1SnlQWjhBVzJWZ3dOc3dQMjJ4OXF5ak14TGRJRUpxOHB3eHNWMmQ5ekRGVDA2ME5VelRGT1MyZktoYnhfZDQxc3pSWlF2T1F2SFBkNHlMcTBlNF9pVTdLQVpHdjhmOWcxMllGTGR3N2xJcHI3aG94QWNEUU5xUW41MTh0RldyU0NSQkZWRUdwS1FNNA?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T10:15:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Brad Pitt y Angelina Jolie llegan a acuerdo extrajudicial por la bodega Chateau Miraval AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "680f8e7684a089b2"
+ },
+ {
+  "titulo": "Araceli Geraldo llama a reforzar la protección de menores ante la violencia digital",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3h4QmxYdl9WOU9ZclVEc1FPUjUwLXh0MzdVWVNTdjNXVVRZTERSRGJ0VEF0WG9mRWhqRXpFRkF5NjFpeVhlc0Z0dTZ3cmN5djRidzlacHNyZzJ3c3AzUlFjWEZqUEN1UVdkRlh4YVlrQ2ZOeE54NzFhUEpEQUNUWGZJNUJiaGt2U3M3OGxwLWJYODQ2aHNrcDBVcmtFTnZldUJqRzZXNWhzSDJCbVdjQWw2ejVSck5hVUtv?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T10:15:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Araceli Geraldo llama a reforzar la protección de menores ante la violencia digital Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "708bf24d51d802fe"
+ },
+ {
+  "titulo": "Sheinbaum lanza contundente declaración sobre Inés Gómez Mont",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkJfemtGallnMlMwSE82WG94Q3BkRE5jQk85ZTNQNkxkd1JodWRaUk5VNFkxTnZ4N00tZ1diQ2JEVlMycVhBNlNYdi1ycG85MDJrbHFJb01CUG1PSmZLRm96c0lDZ3AzUXVmYXNHWmtBSmRuUXlCYlQ5Sk5iNUlSbXNvSWNRNEdpMFlfVDhGUXZKdzdEenp3MmhKdE5kM1pPWmZyYWlRam0?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T10:15:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Sheinbaum lanza contundente declaración sobre Inés Gómez Mont AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "47b88e11f6f55468"
+ },
+ {
+  "titulo": "Parque Nacional Natural El Tuparro: un tesoro ecológico en Colombia",
+  "liga": "https://elcongresista.mx/politica/nacional/parque-nacional-natural-el-tuparro-colombia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:13:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "El Parque Tuparro en Colombia atrae ecoturistas y promueve la conservación de su biodiversidad en el Vichada.",
+  "temas": [
+   "Medio ambiente",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ed661b5ee8b15b73"
+ },
+ {
+  "titulo": "El tiempo de espera en garitas de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEZHTEp3VkYyTjlBbVA4SzgxVEhKVzd6ZE1EZXBmR1c2Z0kzT3JNQmZDZnV6TEw1QmtYTEhxWndkdU95UTBGc25HZkNyYTRoV2g4M2tSQ2lLS0hrdF9tdDVOd3cxRy1XSlNjZF9hRWtfVEE5UWFvRVl3VUVSTUJuT0MxRQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T10:10:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "El tiempo de espera en garitas de Tijuana Baja News",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "9d0b2cfde4bc3da7"
+ },
+ {
+  "titulo": "Sheinbaum acusa a la DEA de injerencia por abrir líneas de denuncia en México",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-acusa-dea-injerencia-abrir-lineas-denuncia-mexico-n916378",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T10:07:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Sostuvo que la agencia debería concentrar sus esfuerzos en investigar las redes de corrupción y tráfico de drogas que operan en su propio país.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "f439bcd90923ddfa"
+ },
+ {
+  "titulo": "Juzgado desecha amparo de El Chapo Isidro contra expulsión del país",
+  "liga": "https://elcongresista.mx/justicia/juzgado-desecha-amparo-chapo-isidro-expulsion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:06:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "El Juzgado Tercero de Toluca desechó un amparo de El Chapo Isidro contra su expulsión a Estados Unidos por no tener firma.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "9c6b59bf43cfa489"
+ },
+ {
+  "titulo": "Ximena Santaolalla denuncia abuso sexual infantil y recibe gran apoyo",
+  "liga": "https://elcongresista.mx/justicia/ximena-santaolalla-denuncia-abuso-infantil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:05:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Ximena Santaolalla denuncia abusos sufridos de niña y recibe amplio apoyo del gremio cultural en México.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "65184554918063f5"
+ },
+ {
+  "titulo": "Sheinbaum expresa apoyo a Ximena Santaolalla por abusos sufridos",
+  "liga": "https://elcongresista.mx/justicia/apoyo-sheinbaum-ximena-santaolalla-abuso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:04:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum respalda a Ximena Santaolalla tras su denuncia de abuso sexual por parte de su padrastro.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "750457a82c25bfaa"
+ },
+ {
+  "titulo": "Universidad Michoacana inicia proceso electoral para nueva rectoría",
+  "liga": "https://elcongresista.mx/politica/michoacan/universidad-michoacana-eleccion-nuevo-rector",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T10:01:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La Universidad Michoacana inició un proceso de auscultación para elegir a su nuevo rector, marcando un hito en su historia.",
+  "temas": [
+   "Proceso electoral",
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0bb517d2500ab048"
+ },
+ {
+  "titulo": "Fuerte sismo de magnitud 5 registrado al sur de Cabo San Lucas",
+  "liga": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQVkydVFqVE93ZW9lMGVpT1ljM3hVc0dLc05WZXBKcTNYd2R0UklXXzdhTEI2V2VIWUhQYUNsZFpoS3lmQk5PdWhkTHl2eS1xVHJpblpCVTFoR2JIQlVTZVVfRDJ1ZnhYbUdxb0pBMktSenhfWXdkSV9qQ1RjeGNFZlN1ZEl4V2xYbVh2LVNNalNRZl8zLUdNZ2FaR3VYUEF1NUdlZHVLN1lIcW5QbXFUOWJkZFVOaUM2MVZtYWFJSmF4U09ScWN1U0pkVkg4YmxsY2JzdlJSSVdpWXRzM1lxQkxhMDBxR21DSzloazNXLXR1WGZ3U1lGdkJaOU8?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-26T09:57:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Fuerte sismo de magnitud 5 registrado al sur de Cabo San Lucas N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "a0dff6a790f5a11b"
+ },
+ {
+  "titulo": "Temblor en Baja California Sur Hoy: Magnitud y Zona de Sismo este 26 de Noviembre 2026",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFZKWXd5bVdnUGljV19pME5telhzX1podVo3cXUxbzV5b2pGWVZIcVRCMFdnMldsN2p5WlFkZDJyQTJjR2dqVzN1Q012MURJS3hWeFowNXQyOFB6SWRZek80OUJKWE9TclB4X19nV2NCT0xLNmlZRWMwVHZGM2l0TDlNbUF1cTNPTlVycHd2c3d6RnV2Sm84YTVQaUk2VG9ZdmpiMW5Cd2ZTd3JxejFXYlV6anA1V3RBc3A0R0hIWkVTdmtBMnBWRFVFVUtLdw?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-26T09:57:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Temblor en Baja California Sur Hoy: Magnitud y Zona de Sismo este 26 de Noviembre 2026 N+",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "77ac84434d8e19b3"
+ },
+ {
+  "titulo": "Juez desecha amparo al Chapo Isidro contra expulsión del país",
+  "liga": "https://zetatijuana.com/2026/11/juez-desecha-amparo-al-chapo-isidro-contra-expulsion-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=juez-desecha-amparo-al-chapo-isidro-contra-expulsion-del-pais",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T09:55:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "El Juzgado Tercero de Distrito en Toluca rechazó el juicio tramitado a favor de Fausto Isidro Meza. La demanda de garantías contra la supuesta expulsión del país carecía de firma autógrafa o electrónica_",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1d0806f827fb0124"
+ },
+ {
+  "titulo": "Gérard Depardieu será juzgado por violación y agresión sexual contra Charlotte Arnould",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYk02Z3V4N003MW1QVzJ2bjFIRzVuQ2lMdEk0WFMyWVAyX1ZpQTA4blBLRy1zSVNtMkhkUkJuNUlDX05jaFJNOU41UVJVS3JSR0JqenRHUklfR1Z6TU5SUWR5X0Exdm5nLXBpVnpYMEMwTmFPa3o2MjdxN0V0dEl5bEQ3eUZ2bVMyWDlOdFpsVUtFeW9GZEpsRXlER1hoVkc1a2JQMnc2QnM5cVhqRkw0b2toRzVaQkF1WnJ1WXBGeklpRjB6Q21YQl93?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T09:55:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Gérard Depardieu será juzgado por violación y agresión sexual contra Charlotte Arnould AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "4e1f0d83e5c83b5a"
+ },
+ {
+  "titulo": "Ximena Santaolalla recibe respaldo del Gobierno de México tras revelar abuso sexual infantil",
+  "liga": "https://www.uniradioinforma.com/gobierno/ximena-santaolalla-recibe-respaldo-gobierno-mexico-tras-revelar-abuso-sexual-infantil-n916375",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T09:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Claudia Sheinbaum expresó su solidaridad y respaldo a la escritora.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "0f22f3a16256e662"
+ },
+ {
+  "titulo": "Activan Estado de Alerta Permanente en Ensenada por Intensidad del Fenómeno de El Niño",
+  "liga": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ01fN0RPUGhyWjBJSXVlWkpxN2FQVlE1a2J2U2V0Y0gyRjBXdjZVc0JEMTNxeGRYU09yS3pESklzNjVLYTdRVVJUNHdLcTFTaERMS1FReUpuUk5BZm95U2lvRTY0aVJUVl9wdEgtZ3lzYnFVSjdLcEczMDBBdlJnaHZCdHltUzloSy1iWk5yeW8tYTE2NGxZT3YtYUM2Qm95eTVNTDlqMHNia2JIOHNWbzZUQ2sxSlp1ODdfWmltdGNURHNSbHBoR2RDNWkzSW8wTnk2MDA1MExKUQ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-26T09:54:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Activan Estado de Alerta Permanente en Ensenada por Intensidad del Fenómeno de El Niño N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7f1208a733ee8760"
+ },
+ {
+  "titulo": "Epochal: excofundadores de xAI lanzan startup con US$100 millones",
+  "liga": "https://elcongresista.mx/tecnologia/epochal-excofundadores-xai-us100-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T09:54:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Epochal, startup de excofundadores de xAI, lanza Time Portal con US$100 millones para mejorar predicciones de IA.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "6166a0bac22a1e00"
+ },
+ {
+  "titulo": "Manuel Guerrero Luna otra vez manda al carajo a los ense...",
+  "liga": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU21Scm11UHVMWkFGdkpyckxFR0hCd2ZTazZycnRJRklCUGVRajY0b0RVTlNHb0ZxbXdhMVh4WU9TRVZ5c1BtNmZTRFhHZFVSeDFhX2g4TnNSMU53NFVOcDYtalZob015aVpkWUpLdUx0aTd1M1dYNTJ1R1ZHQUo4UGJaR1B4SVEzQV9XczJJS3JrOGtYb0ZVOFVQUk9FU2g5d1hkZUQ1dmFxWmtoVFhHSG9qXzJ1clBoSWY0ZUFBUjg3SmpEajUtbTlHN0RqSXF0RDdrMEVJV2I?oc=5",
+  "medio": "El Mexicano",
+  "publicada": "2026-11-26T09:53:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Manuel Guerrero Luna otra vez manda al carajo a los ense... El Mexicano",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "01eae30eb0a4fe25"
+ },
+ {
+  "titulo": "Christian Nodal intensifica la batalla contra su padre",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUxCY21ZTTJZREluQ2YyX3RNX2NoRGNwenROaXJSeGpjTW5YcHU1X1RMckFwMVQxWVlsRnR5bkM2Unp4anFEMDdINkUwSHh6SWFJc0JmLU5ia0poWEUyRm4wel9uVEZya3BOY3lFRmh6S0JSS2FsSEJhSG10Y2VHeklhOWloRnd1SWNsMjN5Nk12Y01uVXRfMGRXaThDTUk?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T09:50:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Christian Nodal intensifica la batalla contra su padre AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2e64ba055e7fc350"
+ },
+ {
+  "titulo": "Sheinbaum: FGR debe aclarar si ex fiscal de Chihuahua Zuany aportó dinero del narco a campaña de Maru Campos",
+  "liga": "https://jornadabc.com.mx/region/sheinbaum-fgr-debe-aclarar-si-ex-fiscal-de-chihuahua-zuany-aporto-dinero-del-narco-a-campana-de-maru-campos/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T09:50:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La mandataria destacó que Guillermo Zuany hoy está en EU. Mencionó que son 54 los casos de extradición que ha solicitado a Washington “que no han sido contestados” La entrada Sheinbaum: FGR debe aclarar si ex fiscal de Chihuahua Zuany aportó dinero del narco a campaña de Maru Cam",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ac09386b7d1f8953"
+ },
+ {
+  "titulo": "La erosión costera avanza en PBA y preocupa a Berisso y Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU12cjhRR21GZkZGeE11NDVCMkM1NlJEcXVTMWMyTmdfS2RnVl93RWpJdG9USy1WaXJ0RXFxODBpZ3JtcnI0Z0thNG1abjFjSDNyd3RkQzN5QVVUY0x2VmY2TGd1TGJGUzFfcDBPSGhQa3l0U2ZNXzlxVXhKTldNYkdrWEdscHhwbW5HSU5QblpiNUhJZmpjTDRWajd4UFRUSnFtZVRVNkY?oc=5",
+  "medio": "ElBonaerense.news",
+  "publicada": "2026-11-26T09:50:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La erosión costera avanza en PBA y preocupa a Berisso y Ensenada ElBonaerense.news",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "9ac91fdf4704ebbe"
+ },
+ {
+  "titulo": "Gladyz Butanda: mejora en encuestas para coordinar Morena en Morelia",
+  "liga": "https://elcongresista.mx/politica/michoacan/gladyz-butanda-encuestas-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T09:49:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Gladyz Butanda lidera encuestas en Morelia con un 39% y se prepara para coordinar a Morena.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "d5b95eba7f529e8c"
+ },
+ {
+  "titulo": "México: renacimiento del ferrocarril con inversión de 750 mil millones",
+  "liga": "https://elcongresista.mx/politica/nacional/renacimiento-ferroviario-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T09:49:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "México invierte 750 mil millones de pesos en el renacimiento del ferrocarril, clave para el desarrollo nacional y la movilidad sustentable.",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b9c7cd052aefe35f"
+ },
+ {
+  "titulo": "Sheinbaum pide a FGR investigar a exfiscal de Chihuahua por financiamiento ilícito",
+  "liga": "https://elcongresista.mx/politica/chihuahua/sheinbaum-investiga-exfiscal-chihuahua-campanas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T09:48:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Claudia Sheinbaum solicita investigar al exfiscal de Chihuahua por presuntos vínculos con el narcotráfico en financiamiento electoral.",
+  "temas": [
+   "Seguridad",
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7cb64e51946aab60"
+ },
+ {
+  "titulo": "Sheinbaum ofrece apoyo total a Ximena Santaolalla tras denuncia de abuso",
+  "liga": "https://elcongresista.mx/justicia/sheinbaum-apoyo-ximena-santaolalla-abuso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T09:46:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Claudia Sheinbaum apoya a Ximena Santaolalla tras denunciar abuso sexual infantil. El gobierno federal ofrece respaldo en el proceso.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "920925972516537f"
+ },
+ {
+  "titulo": "Keanu Reeves firmó \"El libro de otro lugar\" en Gandhi y hoy toca con Dogstar en CDMX",
+  "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYnF0eWpaUnpJVUZ1MEJNcUpoSkhLQVNfZ2hKMk9TbzlqRlNYWHRRNlVPZGZJOHc2NENCcm0wVFdaZjM3azZkWDBVNHhHMmQ2YnJ5cjJvcURXX1lWWkJxbk13eWd4b3g1dUpDX2czU1RZWC1mWkJMYjNQTTN5ampHUUFNRGQ4UkRabURFcW9VMTE0Z3hqRTlaZ3BGT19zazd5WXlXYndJQUs1UWR4TE5EMGRqbmVuNXZGV2MxaEgtM3Nwd1I4?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T09:45:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Keanu Reeves firmó \"El libro de otro lugar\" en Gandhi y hoy toca con Dogstar en CDMX AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "360e5168f2a62f2c"
+ },
+ {
+  "titulo": "Normalistas de Ayotzinapa, tras 12 años, mantienen en Acapulco la exigencia de presentar con vida a los 43",
+  "liga": "https://jornadabc.com.mx/general/mexico/normalistas-de-ayotzinapa-tras-12-anos-mantienen-en-acapulco-la-exigencia-de-presentar-con-vida-a-los-43/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T09:45:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "En el mitin mensual en el Antimonumento, estudiantes de la Normal Rural y miembros de la FECSM señalaron que, a más de 12 años de la desaparición, las familias no han dejado de buscar a sus hijos y compañeros La entrada Normalistas de Ayotzinapa, tras 12 años, mantienen en Acapul",
+  "temas": [
+   "Seguridad",
+   "Educación"
+  ],
+  "local": true,
+  "id": "20ada8cdc1c79a3b"
+ },
+ {
+  "titulo": "Hermosillo premia a sus talentos deportivos y entroniza a nuevas leyendas",
+  "liga": "https://www.uniradioinforma.com/deportes/hermosillo-premia-sus-talentos-deportivos-entroniza-nuevas-leyendas-n916372",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T09:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "El gimnasta Saúl Xavier Valenzuela Balderrama recibió el Premio Municipal al Deporte 2026 como ganador absoluto.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "01fe8485912caa5a"
+ },
+ {
+  "titulo": "Diputados y sociedad",
+  "liga": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wRmR3LW43NUVpbHQwNjQ4b1drOWp4b1RZajgxRXprcTB1aEQwU0hDQ25xczBCYTE0clpJTm45MWF6aVJoWDdFQUpxQUkxN185WFFDOG5VcFNSWHRRbFd1RUZyMUdXYnV5UnU2Rg?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T09:39:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Diputados y sociedad AFN",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c400577cbbede2ec"
+ },
+ {
+  "titulo": "Tan seguro",
+  "liga": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVkw5T3h1NFdoTW9zTGpKMXRGeDQ3eldPa1p0eGtMSm8zbXdYZFVUWUllaWxrTFFscEhFWEZBTnA3aTFqZV8wZS1QLVVpNnpWenNsb29kaTd6YlpyR2dR?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T09:39:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Tan seguro AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "d8b8c898a2bc5614"
+ },
+ {
+  "titulo": "Cierran Playas por Oleaje de Hasta 5 Metros y Marea Alta en Ensenada, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTkR0VEFiU3hnUnNtMGdEYzZMeVhGbThGMFNiWlVsVTMxcXhHQ2MwWWFnTHpMd3pSa2JmQVo5amVSRG4yMUNwQU1SLUtXMW8ySDFqc21fQ1pyYko1VGZOZ0VSLXVPa2I0MGw3ZUV3WkI5aUxpaFNERndrdWQ1WTlQSEtCeHp1WWlibGM5NldiVlVTX0hNYS10SU1ZVlJMdWZ1MWR1cEFwbGd0WWxLRGsxOXI2cmpEZVl5bUFwUVhuZHdhYnJQLWxNNnRDeWk3d0lLX3hUUFB6TQ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-26T09:38:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Cierran Playas por Oleaje de Hasta 5 Metros y Marea Alta en Ensenada, Baja California N+",
+  "temas": [
+   "Clima",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "c88807bc7bff4d2b"
+ },
+ {
+  "titulo": "Sheinbaum enviará iniciativa de reforma para agilizar juicios familiares y frenar la violencia vicaria",
+  "liga": "https://jornadabc.com.mx/principales/sheinbaum-enviara-iniciativa-de-reforma-para-agilizar-juicios-familiares-y-frenar-la-violencia-vicaria/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T09:38:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Se busca simplificar la adopción, otorgar protección a niñas, niñas y adolescentes y permitir que los menores tengan voz y defensa La entrada Sheinbaum enviará iniciativa de reforma para agilizar juicios familiares y frenar la violencia vicaria se publicó primero en La Jornada Ba",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "cac7e8b4544ad941"
+ },
+ {
+  "titulo": "Juez federal programa audiencia de amparo de Ernesto Ruffo para enero",
+  "liga": "https://elcongresista.mx/justicia/audiencia-amparo-ernesto-ruffo-enero-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T09:37:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La audiencia de amparo de Ernesto Ruffo Appel se realizará el 5 de enero de 2024, enfrentando graves acusaciones penales.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "563b57ddd004a7ef"
+ },
+ {
   "titulo": "Acusan a oposición de crear \"cortina de humo\" en cambio de presidencia del INE",
   "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2dEQ2RUX05WZUlUMWhLZzhzdzR4Uy15NUpwVmFOZy1OLVNyTWNLMHpJUUxZN19fY25RNTQ3V2hOTEVCRjlVZWFMb3RNVzY3OHN2VG0yTTlnbEw1NGdjZldaVGJ5U0tFOXpWNWUzX0xsRWhKWGRFTlZ5MVpsS1NjMm0wdXdvTXRVdEp6TS1LSV9LdVNpY1dROVBMeDMxaFpvSF84MlFMeDYtRGc2d2dxcE81TlRsbUNPcmc?oc=5",
   "medio": "AFN",
@@ -104,6 +799,20 @@
   "id": "8b49c05bdf2a983a"
  },
  {
+  "titulo": "Sheinbaum deja en manos de FGR y Gabinete de Seguridad el destino de \"El Chapo Isidro\"",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-deja-manos-fgr-gabinete-seguridad-destino-el-chapo-isidro-n916366",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T09:23:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La decisión debe tomarse con base en lo que más convenga al país, dijo la presidenta.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ba0af2878e242f20"
+ },
+ {
   "titulo": "Primera tormenta invernal traerá lluvias intensas a Sinaloa",
   "liga": "https://elcongresista.mx/politica/sinaloa/tormenta-invernal-sinaloa-noviembre-2026",
   "medio": "El Congresista",
@@ -176,6 +885,21 @@
   "id": "4b1831feefa9583b"
  },
  {
+  "titulo": "Gobierno busca delimitar con autoridades aeroespaciales de EU vuelos de SpaceX lanzados desde la frontera con México",
+  "liga": "https://jornadabc.com.mx/region/gobierno-busca-delimitar-con-autoridades-aeroespaciales-de-eu-vuelos-de-spacex-lanzados-desde-la-frontera-con-mexico/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T09:19:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La presidenta Sheinbaum dijo que más allá de la basura espacial que genera y que, en su caso se denunciará a través de la Profepa, es necesario tratar esta situación con el gobierno de EU aun cuando sean vuelos de una empresa privada La entrada Gobierno busca delimitar con autori",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ec492379d15c8b05"
+ },
+ {
   "titulo": "Escritora Ximena Santaolalla denuncia a Francisco Aguirre por abuso sexual",
   "liga": "https://elcongresista.mx/justicia/ximena-santaolalla-denuncia-francisco-aguirre",
   "medio": "El Congresista",
@@ -188,6 +912,20 @@
   ],
   "local": false,
   "id": "474204291a480f24"
+ },
+ {
+  "titulo": "FGR solicita a España la extradición de Inés Gómez Mont tras su llegada a Madrid",
+  "liga": "https://jornadabc.com.mx/02_secundarias/fgr-solicita-a-espana-la-extradicion-de-ines-gomez-mont-tras-su-llegada-a-madrid/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T09:09:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "La conductora arribó a Madrid la madrugada del martes y no fue detenida debido a que Interpol eliminó la ficha roja emitida en su contra, informó la fiscalía La entrada FGR solicita a España la extradición de Inés Gómez Mont tras su llegada a Madrid se publicó primero en La Jorna",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "16f2d5cc55f61349"
  },
  {
   "titulo": "Tormenta invernal provoca intensas lluvias y nieve en seis estados",
@@ -2461,6 +3199,49 @@
   ],
   "local": false,
   "id": "5f6bbe5a35747490"
+ },
+ {
+  "titulo": "Movilizó el 25N a tres continentes",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFd1NzRDWHBBbGlhT0c4Tzdwb0VOVFRoMnpEWjJwbkF6dzRGQzNyWlVndmVob2ZLbFFOaVFQaXRpNXd3YTkwMVJ4Sk9yeEhsOTRiaHQ3b0RYYUZhTmZmZUZzMEtTT3ZualB4UENpNllCMGNyQWM1ZWVjbWQ5U1E0OWJxcTUwZTY1aWZ3N2tOOHNEZVZn?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-26T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Movilizó el 25N a tres continentes El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "b4eec2c794a8d0e0"
+ },
+ {
+  "titulo": "Eleva Nvidia fortuna de Trump",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUg3cHI0QzNPOFhvQ1ROYWFFSk0tVHZJMnN6YTZscTNVUG5OOWtRVVB2djh4MXhoUXhPcVB1UzN5Sm9UR0hlVnFWaUlOb2VldWJ5SEctbi1lMk5EOWJuYVVvcnFBb19HM2dQdjRYcmFvV09FclhjeHc5Ujk3cjBhVjVuX05QbUtnTTFVYlVn?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-26T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Eleva Nvidia fortuna de Trump El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5dd3bff0f8931575"
+ },
+ {
+  "titulo": "Gana 1mdd y lo detiene el ICE",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV1MwRUQxUWdGeEloR2drcVNxZDA1d0tweGVpTkl5Q2IzQzBBdmdqYlZQbzkxQlRQamRNSUFlMzBsVDdvODhNczZhRzJRaG5JQ3E3cVNKcEJaVXZybkxQMU9qUUlpb05GRGJ6YXdmRmN0QW9rcUstWWROUWE1bTg1TG9PWkdNbUFfNHpjWnRR?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-26T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T10:42:59-06:00",
+  "resumen": "Gana 1mdd y lo detiene el ICE El Vigía",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": false,
+  "id": "d44bbff2b2063b07"
  },
  {
   "titulo": "Crisis en IMSS e INE: Sheinbaum presenta avances en medio de tensiones",
