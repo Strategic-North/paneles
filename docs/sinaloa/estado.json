@@ -1,12 +1,12 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-26T13:01-06:00",
+ "actualizado": "2026-11-26T14:08-06:00",
  "corte": "2026-11-26",
  "ventana": [
   "2026-11-25T18:30-06:00",
   "2026-11-26T18:30-06:00"
  ],
- "total": 734,
+ "total": 820,
  "fuentes": [
   {
    "fuente": "Noroeste",
@@ -16,7 +16,7 @@
   {
    "fuente": "Noroeste",
    "ok": true,
-   "notas": 73
+   "notas": 72
   },
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 428
+   "notas": 440
   },
   {
    "fuente": "Los Noticieristas",
@@ -115,23 +115,23 @@
   },
   {
    "fuente": "Google News: site:debate.com.mx Culiacán",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:debate.com.mx Mazatlán",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:debate.com.mx \"Los Mochis\"",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: Sinaloa",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   }
  ]
 }

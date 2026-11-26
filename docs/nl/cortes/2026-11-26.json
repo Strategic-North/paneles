@@ -1,5 +1,392 @@
 [
  {
+  "titulo": "Tribunal Electoral determina incorporación de Guadalupe Gárate al Congreso de Nuevo León",
+  "liga": "https://www.posta.com.mx/nuevo-leon/tribunal-electoral-determina-incorporacion-de-guadalupe-garate-al-congreso-de-nuevo-leon/vl2283584",
+  "medio": "Posta",
+  "publicada": "2026-11-26T14:08:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "315307c8f9394983"
+ },
+ {
+  "titulo": "Mueren abuela y nieta en accidente vial en la carretera Nacional de Santiago, Nuevo León",
+  "liga": "https://www.posta.com.mx/nuevo-leon/mueren-abuela-y-nieta-en-accidente-vial-en-la-carretera-nacional-de-santiago-nuevo-leon/vl2283597",
+  "medio": "Posta",
+  "publicada": "2026-11-26T14:05:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "0f1cbbe8841cc12b"
+ },
+ {
+  "titulo": "Detienen a alcalde de Atzitzintla por presuntos asuntos criminales",
+  "liga": "https://abcnoticias.mx/nacional/2026/11/26/detienen-a-alcalde-de-atzitzintla-por-presuntos-asuntos-criminales-296707.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T14:03:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "493c7a0e83640160"
+ },
+ {
+  "titulo": "Dejan clubes turcos rivalidades de lado para respaldar al Besiktas",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/26/dejan-clubes-turcos-rivalidades-de-lado-para-respaldar-al-besiktas-296721.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T14:03:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "9303956a31e94d50"
+ },
+ {
+  "titulo": "Mueren abuelita y su nieta en accidente en la Carretera Nacional",
+  "liga": "https://abcnoticias.mx/seguridad/2026/11/26/mueren-abuelita-y-su-nieta-en-accidente-en-la-carretera-nacional-296723.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T14:01:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Accidentes",
+   "Movilidad",
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ba2d552f7ba8238f"
+ },
+ {
+  "titulo": "Red Metropolitana por la Inclusión: Monterrey y seis municipios firman acuerdo histórico",
+  "liga": "https://www.posta.com.mx/nuevo-leon/red-metropolitana-por-la-inclusion-monterrey-y-seis-municipios-firman-acuerdo-historico/vl2283591",
+  "medio": "Posta",
+  "publicada": "2026-11-26T14:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno municipal",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "a01ee7c7d6c5d992"
+ },
+ {
+  "titulo": "Ley de Bienestar Animal, habrá multas de más de 100 mil pesos",
+  "liga": "https://horacero.com.mx/nacional/ley-de-bienestar-animal-mexico",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-26T13:58:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "El Senado de la República aprobó nuevas reglas para la protección de mascotas con la Ley de Bienestar Animal The post Ley de Bienestar Animal, habrá multas de más de 100 mil pesos appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "cf1a9575e1da4365"
+ },
+ {
+  "titulo": "Día Mundial del Transporte Sostenible: Raúl Lozano impulsa la movilidad metropolitana ecológica",
+  "liga": "https://www.posta.com.mx/nuevo-leon/dia-mundial-del-transporte-sostenible-raul-lozano-impulsa-la-movilidad-metropolitana-ecologica/vl2283566",
+  "medio": "Posta",
+  "publicada": "2026-11-26T13:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Movilidad",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "7b41bad30c5e6328"
+ },
+ {
+  "titulo": "Poncho De Nigris arremete contra las nuevas integrantes de La Mansión VIP",
+  "liga": "https://abcnoticias.mx/show/2026/11/26/poncho-de-nigris-arremete-contra-las-nuevas-integrantes-de-la-mansion-vip-296719.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T13:43:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "112d22e1fba41b79"
+ },
+ {
+  "titulo": "Exigen al Congreso de NL acelerar reformas contra la explotación laboral infantil",
+  "liga": "https://abcnoticias.mx/local/2026/11/26/exigen-al-congreso-de-nl-acelerar-reformas-contra-la-explotacion-laboral-infantil-296720.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T13:43:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "ecf9b5dd4facc7cd"
+ },
+ {
+  "titulo": "¡Que no te robe la Navidad! El Grinch llega a Nuevo León; fechas, horarios y precios de los boletos",
+  "liga": "https://www.posta.com.mx/nuevo-leon/que-no-te-robe-la-navidad-el-grinch-llega-a-nuevo-leon-fechas-horarios-y-precios-de-los-boletos/vl2283595",
+  "medio": "Posta",
+  "publicada": "2026-11-26T13:42:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "dc21227bec9785ba"
+ },
+ {
+  "titulo": "Colosio Riojas se registra por MC para la gubernatura de Sonora",
+  "liga": "https://horacero.com.mx/nacional/colosio-registro-mc-sonora",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-26T13:39:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "Colosio Riojas formalizó su registro como aspirante a la precandidatura de Movimiento Ciudadano por la gubernatura de Sonora. The post Colosio Riojas se registra por MC para la gubernatura de Sonora appeared first on Hora Cero Web .",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5b0bc786c72c229d"
+ },
+ {
+  "titulo": "Dejó NFL derrama de 1,555 mdp a la CDMX",
+  "liga": "https://www.elnorte.com/dejo-nfl-derrama-de-1-555-mdp-a-la-cdmx/ar3322248",
+  "medio": "El Norte",
+  "publicada": "2026-11-26T13:38:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "El juego de la NFL entre 49ers y Vikings en CDMX dejó una derrama económica de mil 555 millones de pesos, según la Canaco local.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "9b05165a39a4cbf8"
+ },
+ {
+  "titulo": "Reclama Sheinbaum a DEA por solicitar a mexicanos que reporten vínculos con cárteles",
+  "liga": "https://abcnoticias.mx/cdmx/2026/11/26/reclama-sheinbaum-a-dea-por-solicitar-a-mexicanos-que-reporten-vinculos-con-carteles-296718.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T13:37:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "8d8df0a9f04cd467"
+ },
+ {
+  "titulo": "Detienen a Dos Jóvenes por Presuntas Extorsiones en el Centro de Monterrey",
+  "liga": "https://www.nmas.com.mx/nuevo-leon/seguridad/detienen-a-dos-jovenes-por-presuntas-extorsiones-en-el-centro-de-monterrey/",
+  "medio": "N+ Monterrey",
+  "publicada": "2026-11-26T13:35:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a76c02957f9273ad"
+ },
+ {
+  "titulo": "NFL: ¿dónde ver los partidos del Thanksgiving 2026 y qué promos hay en restaurantes y bares de Nuevo León?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/nfl-donde-ver-los-partidos-del-thanksgiving-2026-y-que-promos-hay-en-restaurantes-y-bares-de-nuevo-leon/vl2283585",
+  "medio": "Posta",
+  "publicada": "2026-11-26T13:34:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "ee05fe215a131839"
+ },
+ {
+  "titulo": "Diputadas de Morena proponen que los delitos electorales no prescriban",
+  "liga": "https://horacero.com.mx/nuevo-leon/diputadas-de-morena-delitos-electorales",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-26T13:31:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "Diputadas de Morena en Nuevo León proponen reformar la ley para que los delitos electorales no prescriban ni se evada responsabilidad. The post Diputadas de Morena proponen que los delitos electorales no prescriban appeared first on Hora Cero Web .",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "631a18c30a861fc8"
+ },
+ {
+  "titulo": "Clubes turcos arremeten contra UEFA tras agresiones a aficionados del Besiktas",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/26/clubes-turcos-arremeten-contra-uefa-tras-agresiones-a-aficionados-del-besiktas-296715.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T13:28:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "671daa9e74b6bbfa"
+ },
+ {
+  "titulo": "El Diablo y yo",
+  "liga": "https://horacero.com.mx/columnas/politica-del-odio-diablo-suelto",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-26T13:24:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "Columna de Paco Villarreal sobre la situación política y económica en América Latina y los riesgos de la política del odio en México. The post El Diablo y yo appeared first on Hora Cero Web .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "227c0ddd866e874e"
+ },
+ {
+  "titulo": "¿Doña Alegría tendrá Coca-Cola gratis de por vida? La marca sorprende con publicación",
+  "liga": "https://abcnoticias.mx/show/2026/11/26/dona-alegria-tendra-coca-cola-gratis-de-por-vida-la-marca-sorprende-con-publicacion-296714.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T13:24:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "36da15834d76c151"
+ },
+ {
+  "titulo": "Llegan las posadas",
+  "liga": "https://horacero.com.mx/columnas/llegan-las-posadas",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-26T13:22:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "Estaba un día el Apuntador sacando sus mejores trapitos para llevarlos a la tintorería por aquello de que se acerca la temporada de posadas y hay que ir presentables a las invitaciones que seguramente “lloverán” en diciembre, ya que como saben, la lista de posibles candidatos a p",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "a2a68e28f7d9b79e"
+ },
+ {
+  "titulo": "El Cascanueces llega a Monterrey: ¿cuándo y cuánto cuesta disfrutar de este clásico navideño?",
+  "liga": "https://www.posta.com.mx/nuevo-leon/el-cascanueces-llega-a-monterrey-cuando-y-cuanto-cuesta-disfrutar-de-este-clasico-navideno/vl2283578",
+  "medio": "Posta",
+  "publicada": "2026-11-26T13:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "2c9f704c4525fb23"
+ },
+ {
+  "titulo": "Mueren niña y abuela tras choque en la Carretera Nacional",
+  "liga": "https://www.elnorte.com/mueren-nina-y-abuela-tras-choque-en-la-carretera-nacional/ar3322224",
+  "medio": "El Norte",
+  "publicada": "2026-11-26T13:12:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "Una niña de 5 años y su abuela mueren tras estrellar el auto en que viajaban contra pared de tierra en la Carretera Nacional, en Santiago.",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "1468f9d3537fdd0b"
+ },
+ {
+  "titulo": "Corona de Adviento: qué significa, por qué tiene cuatro velas y cómo se encienden antes de Navidad",
+  "liga": "https://www.posta.com.mx/nuevo-leon/corona-de-adviento-que-significa-por-que-tiene-cuatro-velas-y-como-se-encienden-antes-de-navidad/v-vl2283548",
+  "medio": "Posta",
+  "publicada": "2026-11-26T13:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d4dc4c7d15676c30"
+ },
+ {
+  "titulo": "Pa’l Norte 2027: Estos son los PRECIOS de los abonos para los tres días",
+  "liga": "https://abcnoticias.mx/show/2026/11/26/pal-norte-2027-estos-son-los-precios-de-los-abonos-para-los-tres-dias-296712.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T13:05:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "2e29f372d76673bf"
+ },
+ {
+  "titulo": "Detienen a futbolista del Vasco da Gama en investigación por tráfico de drogas y armas",
+  "liga": "https://abcnoticias.mx/deportes/2026/11/26/detienen-a-futbolista-del-vasco-da-gama-en-investigacion-por-trafico-de-drogas-y-armas-296711.html",
+  "medio": "ABC Noticias",
+  "publicada": "2026-11-26T13:03:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e483d2e5a7eb4431"
+ },
+ {
+  "titulo": "De OnlyFans al Gobierno de NL: contrata Mike Flores a influencer para sus redes",
+  "liga": "https://horacero.com.mx/nuevo-leon/contrata-mike-flores-a-influencer",
+  "medio": "Hora Cero",
+  "publicada": "2026-11-26T13:02:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "El secretario general de Gobierno de Nuevo León, Miguel Flores, habría contratado a la creadora de contenido e influencer Paulina López, conocida en OnlyFans como La Gótica, para el manejo de sus redes sociales. The post De OnlyFans al Gobierno de NL: contrata Mike Flores a influ",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b17b263bc0c74dc5"
+ },
+ {
   "titulo": "Paisanos serán protegios en su paso por Guadalupe, NL",
   "liga": "https://horacero.com.mx/nuevo-leon/paisanos-guadalupe-operativo",
   "medio": "Hora Cero",
@@ -12,6 +399,21 @@
   ],
   "local": true,
   "id": "e47c6626e84191ec"
+ },
+ {
+  "titulo": "Detienen a Alcalde en Puebla por nexos con grupo criminal",
+  "liga": "https://www.elnorte.com/detienen-a-alcalde-en-puebla-por-nexos-con-grupo-criminal/ar3322214",
+  "medio": "El Norte",
+  "publicada": "2026-11-26T13:01:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T14:08:33-06:00",
+  "resumen": "Eduardo Velázquez, Alcalde perredista de Atzitzintla, Puebla, es detenido por presuntos nexos con grupo dedicado a robos de transportistas.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "7a97c41c5b5c4280"
  },
  {
   "titulo": "Destapes en las posadas",
