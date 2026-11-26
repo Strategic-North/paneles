@@ -1,5 +1,33 @@
 [
  {
+  "titulo": "CESPM realizará cierre parcial de vialidad en calle Novena por trabajos de sondeo",
+  "liga": "https://www.uniradioinforma.com/gobierno/cespm-realizara-cierre-parcial-vialidad-calle-novena-trabajos-sondeo-n916314",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T18:29:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T19:27:34-06:00",
+  "resumen": "Las labores se desarrollarán en horario nocturno, de las 21:00 horas del miércoles 25 de noviembre a la 01:00 horas del jueves 26, con el propósito de reducir las afectaciones a la circulación vehicular.",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "12e5b8e6d716194e"
+ },
+ {
+  "titulo": "Aumentan casos de mpox en San Diego; autoridades llaman a completar esquema de vacunación",
+  "liga": "https://www.uniradioinforma.com/salud/aumentan-casos-mpox-san-diego-autoridades-llaman-completar-esquema-vacunacion-n916309",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T18:27:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T19:27:34-06:00",
+  "resumen": "El condado reportó 45 contagios desde octubre y 13 hospitalizaciones durante 2026; ofrecerá jornadas gratuitas para aplicar las dos dosis de la vacuna JYNNEOS.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "c00de0bdadf44be5"
+ },
+ {
   "titulo": "Amplían 446 kilómetros de carretera Guerrero-Oaxaca para agilizar traslados",
   "liga": "https://jornadabc.com.mx/region/amplian-446-kilometros-de-carretera-guerrero-oaxaca-para-agilizar-traslados/",
   "medio": "La Jornada Baja California",
@@ -13,6 +41,34 @@
   ],
   "local": true,
   "id": "178b28d0c988f070"
+ },
+ {
+  "titulo": "Guillermo Zuany habría recaudado dinero del narco para campaña de Maru Campos: NYT",
+  "liga": "https://www.uniradioinforma.com/sociedad/guillermo-zuany-habria-recaudado-dinero-narco-campana-maru-campos-nyt-n916312",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-25T18:24:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T19:27:34-06:00",
+  "resumen": "El gobierno de Chihuahua calificó de \"falsa\" la versión\".",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f27069197fb1643a"
+ },
+ {
+  "titulo": "Regresa comitiva del Valle de Mexicali sin avances en gestión de tarifa eléctrica 1G",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3ZZdmt1NmUzV05BZjFRLWMxbEc0NVM2ckIwcTVQVHo5dS1NMHVwQXNhS040VlVjQUh2bGtMMWd1RGVDM3llblhMLVJWT1dWaXU4LWIyZ05JeEtjZXJZZWF0cTM3ZVRHYjVZdDVnbDNuWC1ZXy1FUzI0Z1FuVURQeEFGeEE1UThMdFp4X215V0ExVVhzdDEwMEtnaWVqMkd1Ti1oQU9vSGZXQllGR2R3MTNlRVVHV0xBR3F4ZA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-25T18:21:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T19:27:34-06:00",
+  "resumen": "Regresa comitiva del Valle de Mexicali sin avances en gestión de tarifa eléctrica 1G Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6192320db6e3c174"
  },
  {
   "titulo": "Incautan 68 mil litros de hidrocarburo en Zempoala, Hidalgo",
@@ -2654,6 +2710,20 @@
   ],
   "local": false,
   "id": "e43a7aff8543b036"
+ },
+ {
+  "titulo": "Largas filas en aduana afectan a maquiladoras",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/largas-filas-en-aduana-afectan-a-maquiladoras-33312919",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-25T13:51:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T19:27:34-06:00",
+  "resumen": "De las garitas de Baja California, solo es Mexicali quien presenta este tipo de anomalías",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "10c5c31f7ade9823"
  },
  {
   "titulo": "FGR destruye 916 kilos de fentanilo en Baja California",
@@ -8265,6 +8335,20 @@
   ],
   "local": false,
   "id": "23e129f5d2e66d2b"
+ },
+ {
+  "titulo": "Dos visiones del control constitucional",
+  "liga": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQm14X2I0Uk94eUNVUEFXMDFzaXg2SEx0TlMyNHgyZFhJVWdMWTVTM2JSQTRYdDk2OXNJdzdSQ2hLSjc1QlE1SmRWVjBmak5xbGJ6MUtQOVljRkp0VVR2OG1fT2JSeW5LbWlRdWRaME1uMXZRSTR0bzFtU3ZFWlBhQVNSRmVIclNVdks4TVhXeC1mWmFtVFZBMzdqRQ?oc=5",
+  "medio": "El Vigía",
+  "publicada": "2026-11-25T02:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-25T19:27:34-06:00",
+  "resumen": "Dos visiones del control constitucional El Vigía",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "13e8292b5c4bd1c7"
  },
  {
   "titulo": "Luis Donaldo Colosio Riojas buscará gubernatura de Sonora en 2027",
