@@ -1,5 +1,459 @@
 [
  {
+  "titulo": "Garitas de Tijuana reportan cruce ágil con 5 minutos de espera",
+  "liga": "https://elcongresista.mx/vehicular/garitas-tijuana-cruce-agil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:23:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Las garitas de Tijuana reportan tiempos mínimos de espera de 5 minutos, favoreciendo un cruce ágil y reduciendo el impacto económico.",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "309135a40b12f378"
+ },
+ {
+  "titulo": "Zamalek solicita minuto de silencio y donan 30 millones a víctimas de incendio",
+  "liga": "https://elcongresista.mx/politica/nacional/zamalek-minuto-silencio-donaciones-al-warraq",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:20:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Zamalek solicita un minuto de silencio y empresarios donan 30 millones por el incendio en Al Warraq que dejó 31 muertos.",
+  "temas": [
+   "Economía y empleo",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "50961e9c5ce8fb0c"
+ },
+ {
+  "titulo": "México expresa condolencias a Egipto por explosión que dejó 31 muertos",
+  "liga": "https://elcongresista.mx/politica/nacional/mexico-condolencias-egipto-explosion-camion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:20:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "México ofrece condolencias a Egipto por la explosión de un camión cisterna que dejó 31 muertos y 21 heridos en El Cairo.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "df8afde2d6ae712d"
+ },
+ {
+  "titulo": "DEA habilita cuatro líneas para denunciar a funcionarios ligados al Cártel de Sinaloa",
+  "liga": "https://elcongresista.mx/politica/baja-california/dea-denuncia-funcionarios-cartel-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:17:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "La DEA habilita líneas anónimas para denunciar a funcionarios vinculados al Cártel de Sinaloa en un nuevo esfuerzo contra el crimen organizado.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cde868951fea9cfc"
+ },
+ {
+  "titulo": "Descenderán temperaturas hasta 8° en Tamaulipas con lluvias nocturnas",
+  "liga": "https://elcongresista.mx/tamaulipas/clima-tamaulipas-26-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:09:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Este 26 de noviembre, Tamaulipas enfrentará un descenso de temperaturas a 8° y prevén lluvias en varios municipios.",
+  "temas": [
+   "Clima",
+   "Gobierno municipal",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "e852bdfbef7076c2"
+ },
+ {
+  "titulo": "Italia presenta la esencia de Pinocho en la Feria Internacional del Libro",
+  "liga": "https://elcongresista.mx/cultura/italia-pinocho-fil",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:05:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Italia presenta Pinocho en la FIL de Guadalajara, un símbolo sobre las consecuencias de la mentira en la actualidad.",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": false,
+  "id": "2ab2e2c9f6d8c1f0"
+ },
+ {
+  "titulo": "Luis Donaldo Colosio Riojas buscará la gubernatura de Sonora en 2027",
+  "liga": "https://elcongresista.mx/politica/sonora/colosio-sonora-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:03:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Luis Donaldo Colosio Riojas competirá por la gubernatura de Sonora en 2027, dejando atrás su proyecto en Nuevo León.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cb18288814d85a12"
+ },
+ {
+  "titulo": "Nueva York enfrenta inundaciones y vientos de hasta 105 km/h",
+  "liga": "https://elcongresista.mx/politica/nacional/nueva-york-inundaciones-vientos-thanksgiving",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:03:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Nueva York enfrenta inundaciones y vientos de hasta 105 km/h; la Agencia de Emergencias advierte sobre anegamientos peligrosos.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0947a9e3e817bbac"
+ },
+ {
+  "titulo": "Incrementa a 1.9 millones de desocupados en octubre, revela Inegi",
+  "liga": "https://elcongresista.mx/politica/nacional/inege-octubre-desocupacion-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T08:01:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Inegi reporta 1.9 millones de desocupados en octubre de 2026, con una tasa de desocupación del 3.0%.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "da7cf10586f08f34"
+ },
+ {
+  "titulo": "Construcciones Irregulares a la Orilla del Mar, Ahora en Baja California Sur | Despierta | Video",
+  "liga": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLU1wdmp4d3VFa1JUdnZaa3RGWGN0TDFFX1pCU25FWGppVUVBUExCcU1SWjhQbXV3Q3hIdTVocHNVaUgwV3N6UXZwSWg2SmRMaHFkajFJNFFOM1VTMXczdTh3dW9ZVG5ua0hycjZTQ2w1RUI0RlY1QzlXRlRwWEJNOW9jcXhadU11RDJJelE1U1ZIS3ZCZjJqWWxrWUpYcU0xdVJ4UW9MRk4tcE5PeEFBTm9xaVVreWUzWXdWdGVId1U0TVpvMkhwMTZXX1liaVFrVGZPb3BmTG4xZHNMM2NR?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-26T07:57:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Construcciones Irregulares a la Orilla del Mar, Ahora en Baja California Sur | Despierta | Video N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "cb6b1e620ef0975f"
+ },
+ {
+  "titulo": "DEA difunde líneas de denuncia anónima contra funcionarios y redes ligadas al Cártel de Sinaloa",
+  "liga": "https://zetatijuana.com/2026/11/dea-difunde-lineas-de-denuncia-anonima-contra-funcionarios-y-redes-ligadas-al-cartel-de-sinaloa/?utm_source=rss&utm_medium=rss&utm_campaign=dea-difunde-lineas-de-denuncia-anonima-contra-funcionarios-y-redes-ligadas-al-cartel-de-sinaloa",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T07:40:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "La DEA anunció que publicaría canales equivalentes de denuncia para Jalisco y el Cártel Jalisco Nueva Generación.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "a91dce3782c4f09f"
+ },
+ {
+  "titulo": "Escritora acusa de abuso sexual durante nueve años a Francisco Aguirre, expresidente de Grupo Radio Centro",
+  "liga": "https://zetatijuana.com/2026/11/escritora-acusa-de-abuso-sexual-durante-nueve-anos-a-francisco-aguirre-expresidente-de-grupo-radio-centro/?utm_source=rss&utm_medium=rss&utm_campaign=escritora-acusa-de-abuso-sexual-durante-nueve-anos-a-francisco-aguirre-expresidente-de-grupo-radio-centro",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T07:30:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "El contrato de confidencialidad firmado el 30 de mayo de 2026 incluía donaciones a tres asociaciones infantiles y una pensión.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c109f5cb51b59f56"
+ },
+ {
+  "titulo": "CFE suspenderá suministro eléctrico en Gómez Palacio por 8 horas",
+  "liga": "https://elcongresista.mx/politica/durango/cfe-suspension-luz-gomez-palacio-durango",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:25:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "La CFE informará un apagón de 8 horas en Gómez Palacio, Durango, programado para el 26 de noviembre en varias colonias.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d045767be31c5342"
+ },
+ {
+  "titulo": "PRI en Reynosa condiciona alianza con PAN a repartición equitativa de candidaturas",
+  "liga": "https://elcongresista.mx/tamaulipas/pri-reynosa-alianza-pan-candidaturas-equilibradas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:24:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "PRI Reynosa condiciona alianza con PAN a una mejor distribución de candidaturas para las elecciones de 2027.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "2fa70451d5d0033f"
+ },
+ {
+  "titulo": "Instalan boyas en el Pacífico para monitorear ciclones tropicales en tiempo real",
+  "liga": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDFmMXFvdVNqcllTTG9VMXhVQzB5OW9adDVldF85bDg3R2NFQTcxYU56NEtnbFFvbklVM3NfdTg0LUFUQVVtWHl5RHgtSFA0MXJPREpiT0o0OTVFVnhYQUFub1gwdU5sQ3hhSFdJT0lWYk9MNmQwWkZXVlNmLUxTaGJ6dFVUdG1XTGxuN0tnOG5hYnEtcGIyNWY1Sk1odzRiQjFzd9IBpAFBVV95cUxQS2ZLNWxDVmlDeFkzMklidXg2azZkNV85UDJxSFFkajhTclZuWjVQV3AxTkllOFdyQklsNVRmWEVSTWw4MGhhYUR6Xy1LLTZpb0NkX0Z1ODFWcWE2YmI3UG44VkVNNzJpXzVzMklVNFNBN3RSRFNGeGF0TERrbjQwVDFublRWWWRZeUlVMjdmbVc2eTBsdkpzLUQ4YTJpM3ViLXlLWg?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-26T07:21:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Instalan boyas en el Pacífico para monitorear ciclones tropicales en tiempo real Milenio",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "26ea16021e7aae99"
+ },
+ {
+  "titulo": "Aumentan derechos para fideicomisos de extranjeros en Quintana Roo",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/aumentar-derechos-fideicomisos-quintana-roo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:20:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "A partir de 2027, aumentan derechos para fideicomisos de extranjeros en Quintana Roo, afectando costos y la inversión en la región.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5642bad53bcecdd0"
+ },
+ {
+  "titulo": "Adjudican 57 km del tren Querétaro-Saltillo por 7,289 mdp",
+  "liga": "https://elcongresista.mx/politica/queretaro/adjudican-tren-queretaro-saltillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:19:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "La Agencia de Trenes adjudica 57 km del tren Querétaro-Saltillo por 7,289 mdp. Además, tarifas de agua estarán limitadas a 5.14 % en 2027.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "56ff16d37a95a29c"
+ },
+ {
+  "titulo": "Claudia Sheinbaum aborda situación de productores de café en mañanera",
+  "liga": "https://elcongresista.mx/politica/nacional/sheinbaum-apoyo-caficultores-26-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:17:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Claudia Sheinbaum respalda a caficultores de Chiapas en la mañanera del 26 de noviembre.",
+  "temas": [
+   "Campo y pesca",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a8ba8c035a4aae63"
+ },
+ {
+  "titulo": "NADBank prepara crédito de hasta 200 millones de dólares para CFE",
+  "liga": "https://elcongresista.mx/finanzas/nadbank-credito-cfe",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:10:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "NADBank alista una línea de crédito de 200 millones de dólares para CFE, enfocada en proyectos de energía en la frontera norte.",
+  "temas": [
+   "Migración",
+   "Servicios públicos",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "491e24fa3d52b466"
+ },
+ {
+  "titulo": "Grecia: huelga general reúne a 20,000 manifestantes en Atenas",
+  "liga": "https://elcongresista.mx/politica/nacional/grecia-huelga-general-20mil-manifestantes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:08:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Grecia vive una huelga general con 20,000 manifestantes en Atenas pidiendo mejoras salariales en medio de alta inflación.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6edad05658805edf"
+ },
+ {
+  "titulo": "Exdirector interino de la DEA pide enviar a “El Chapo Isidro” y Rocha Moya a EU",
+  "liga": "https://zetatijuana.com/2026/11/exdirector-interino-de-la-dea-pide-enviar-a-el-chapo-isidro-y-rocha-moya-a-eu/?utm_source=rss&utm_medium=rss&utm_campaign=exdirector-interino-de-la-dea-pide-enviar-a-el-chapo-isidro-y-rocha-moya-a-eu",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T07:08:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "La audiencia de vinculación a proceso de Meza Flores está programada para el 28 de noviembre de 2026.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "14253b2bbda0a650"
+ },
+ {
+  "titulo": "La Plata aspira a ser la Capital del Hockey tras su consagración",
+  "liga": "https://elcongresista.mx/politica/nacional/la-plata-capital-hockey",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:06:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "La Plata busca reconocimiento como Capital Provincial del Hockey tras la victoria de Santa Bárbara en 2026.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5bb9156ab12c9e99"
+ },
+ {
+  "titulo": "Celebran hoy 26 de noviembre a San Leonardo y otros santos católicos",
+  "liga": "https://elcongresista.mx/politica/nacional/santoral-26-noviembre-san-leonardo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:05:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Este 26 de noviembre, la Iglesia católica celebra a San Leonardo y otros santos. Un homenaje a las figuras del santoral.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "820c8824dcb0d3d1"
+ },
+ {
+  "titulo": "Día de Acción de Gracias: una tradición de gratitud en Norteamérica",
+  "liga": "https://elcongresista.mx/politica/nacional/dia-de-accion-de-gracias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "El Día de Acción de Gracias une familias en EE. UU. y Canadá, celebrándose el 24 de noviembre y el 9 de octubre, respectivamente.",
+  "temas": [
+   "Cultura y tradiciones",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d2f4450be6a830f8"
+ },
+ {
+  "titulo": "México importa 106,000 mdd más de Asia que de Estados Unidos",
+  "liga": "https://elcongresista.mx/economia/mexico-importa-106000-mdd-mas-asia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T07:02:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Entre enero y septiembre de 2026, México supera en 106,127 mdd las importaciones de Asia sobre Estados Unidos y Canadá.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "fe653fcd284f6c4a"
+ },
+ {
+  "titulo": "México esquiva nuevas tarifas arancelarias impuestas por Trump",
+  "liga": "https://elcongresista.mx/politica/nacional/mexico-esquiva-aranceles-trump",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T06:53:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "México escapa a nuevos aranceles de Trump en reciente ofensiva comercial, aunque quedan tarifas vigentes.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a751bed32a9c446e"
+ },
+ {
+  "titulo": "Dólar se cotiza en $19.38 en México este 26 de noviembre de 2026",
+  "liga": "https://elcongresista.mx/finanzas/precio-dolar-mexico-26-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T06:52:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "El dólar estadounidense se cotiza en $19.38 en México, con precios de venta promedio de $19.46 en bancos y $19.40 en casas de cambio.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "e1dd1a0f78f54743"
+ },
+ {
+  "titulo": "Diputados desatienden glosa del informe del gobernador de Jalisco",
+  "liga": "https://elcongresista.mx/politica/jalisco/diputados-desatienden-glosa-informe-gobernador-jalisco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T06:50:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "En Jalisco, la glosa del informe del gobernador sufrió la falta de interés por parte de los diputados, afectando la rendición de cuentas.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "c0f1523e9bf8fc73"
+ },
+ {
+  "titulo": "Laboratorios Delia Barraza abre sucursal en TJ para salud ocupacional",
+  "liga": "https://elcongresista.mx/salud/laboratorios-delia-barraza-sucursal-tijuana-salud-ocupacional",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T06:50:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "Laboratorios Delia Barraza abre nueva sucursal en Tijuana para ofrecer servicios de salud ocupacional y atención a la comunidad.",
+  "temas": [
+   "Salud"
+  ],
+  "local": true,
+  "id": "a0d57f5608acf7c1"
+ },
+ {
+  "titulo": "Oposición amenaza con no participar en elecciones de 2027 si INE no cambia criterios",
+  "liga": "https://elcongresista.mx/justicia/oposicion-abandona-urnas-2027-ine-sobrerepresentacion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T06:49:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "PAN y PRI amenazan con abstenerse de las elecciones de 2027 si el INE no modifica sus criterios en la sobrerrepresentación.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "7787a491e4af1cf9"
+ },
+ {
+  "titulo": "\"Les damos el celular de niñera\": Canieti Noroeste aplaude que se prohíban en escuelas, pero pide enseñarles a usarlo",
+  "liga": "https://www.uniradioinforma.com/sociedad/les-damos-celular-ninera-canieti-noroeste-aplaude-prohiban-escuelas-pero-pide-ensenarles-usarlo-n915695",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T06:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T08:24:28-06:00",
+  "resumen": "El líder de la industria tecnológica en el noroeste advierte que los niños aún no tienen la madurez para procesar lo que ven en internet, y pide que la escuela les enseñe a usar la tecnología con responsabilidad.",
+  "temas": [
+   "Economía y empleo",
+   "Educación"
+  ],
+  "local": true,
+  "id": "fcf4583638a28d91"
+ },
+ {
   "titulo": "Exdirector de la DEA solicita extraditar a Rubén Rocha Moya a EE. UU.",
   "liga": "https://elcongresista.mx/politica/sinaloa/exdirector-de-la-dea-pide-extraditar-a-rocha-moya",
   "medio": "El Congresista",
