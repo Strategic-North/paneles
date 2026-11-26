@@ -1,17 +1,17 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-25T17:28-06:00",
+ "actualizado": "2026-11-25T18:27-06:00",
  "corte": "2026-11-25",
  "ventana": [
   "2026-11-24T18:30-06:00",
   "2026-11-25T18:30-06:00"
  ],
- "total": 1161,
+ "total": 1229,
  "fuentes": [
   {
    "fuente": "Noroeste",
    "ok": true,
-   "notas": 70
+   "notas": 71
   },
   {
    "fuente": "Noroeste",
@@ -31,7 +31,7 @@
   {
    "fuente": "Luz Noticias",
    "ok": true,
-   "notas": 469
+   "notas": 471
   },
   {
    "fuente": "Los Noticieristas",
@@ -85,8 +85,8 @@
   },
   {
    "fuente": "Reflectores",
-   "ok": true,
-   "notas": 10
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
   },
   {
    "fuente": "Quadratín Sinaloa",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 9
+   "notas": 12
   },
   {
    "fuente": "Noticiero Altavoz",
