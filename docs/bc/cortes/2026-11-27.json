@@ -1,5 +1,195 @@
 [
  {
+  "titulo": "Ríos apoya inversiones de Weretilneck para mejorar rutas en Río Negro",
+  "liga": "https://elcongresista.mx/politica/nacional/rios-inversiones-ruta-tren-valle",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:56:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Agustín Ríos defiende inversiones en rutas y Tren del Valle para mejorar la economía y seguridad en Río Negro.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0ae51d4b8538707e"
+ },
+ {
+  "titulo": "Felifer Macías resalta en Querétaro labor de 300 personas en movilidad",
+  "liga": "https://elcongresista.mx/politica/queretaro/felifer-macias-reconoce-trabajo-personal-movilidad-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:55:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Felifer Macías reconoce el trabajo de 300 empleados en movilidad en Querétaro, destacando su impacto en el transporte público.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3b6dddce4bdbe471"
+ },
+ {
+  "titulo": "Detienen al alcalde de Atzitzintla por secuestro y robo agravado",
+  "liga": "https://elcongresista.mx/politica/puebla/detienen-alcalde-atzitzintla-eduardo-velazquez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:54:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "El alcalde de Atzitzintla, Eduardo Velázquez Medina, fue detenido en Puebla por su posible vinculación con un grupo delictivo.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1a78c2dbb1887d03"
+ },
+ {
+  "titulo": "Salud pública alerta en Nuevo Laredo por aumento del virus sincicial",
+  "liga": "https://elcongresista.mx/tamaulipas/alerta-nuevo-laredo-virus-sincitial",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:50:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "La salud pública en Nuevo Laredo advierte sobre el aumento del virus sincitial respiratorio y la importancia de la prevención.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "8ae25e2833fa3a40"
+ },
+ {
+  "titulo": "PAN: Anaya advierte sobre acciones tras resolución del INE el 30 nov.",
+  "liga": "https://elcongresista.mx/politica/nacional/pan-anaya-acciones-ine-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:45:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Ricardo Anaya del PAN advierte sobre el futuro electoral si el INE favorece a Morena en su resolución del 30 de noviembre.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "0e5c98d471a5ad5c"
+ },
+ {
+  "titulo": "Inicia gobierno de Claudia Agatón integración del Calendario de Eventos Turísticos 2027",
+  "liga": "https://www.uniradioinforma.com/gobierno/inicia-gobierno-claudia-agaton-integracion-calendario-eventos-turisticos-2027-n916546",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T19:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Se proyecta el lanzamiento del calendario para la segunda semana de enero",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b5626572745f64d6"
+ },
+ {
+  "titulo": "Lanzan «Alerta Tijuana», aplicación preventiva ante el fenómeno de El Niño",
+  "liga": "https://jornadabc.com.mx/principales/lanzan-alerta-tijuana-aplicacion-preventiva-ante-el-fenomeno-de-el-nino/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T19:39:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "El Ayuntamiento anunció que la herramienta ya está disponible para los diferentes sistemas telefónicos; no tuvo ningún costo para el municipio y no es necesario crear cuentas La entrada Lanzan «Alerta Tijuana», aplicación preventiva ante el fenómeno de El Niño se publicó primero ",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "46e76cf1c23ea168"
+ },
+ {
+  "titulo": "Mueren cinco persona, incluidas dos hermanas, en volcadura de autobús en Chihuahua.",
+  "liga": "https://elcongresista.mx/politica/chihuahua/cinco-muertos-autobus-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:38:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Un accidente de autobús en Chihuahua dejó cinco muertos, incluidas dos hermanas de Arizona, y 35 heridos.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "78f57d04452ac6ed"
+ },
+ {
+  "titulo": "Querétaro, segunda ciudad con mejor percepción de seguridad a nivel nacional",
+  "liga": "https://elcongresista.mx/politica/queretaro/queretaro-percepcion-seguridad-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:37:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Querétaro reporta una percepción de seguridad del 73.2%, siendo la segunda mejor ciudad capital en el país según la ENSU.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d2062caed95b8c9c"
+ },
+ {
+  "titulo": "Develan letras doradas de Rubén González y El Pueblito en Corregidora",
+  "liga": "https://elcongresista.mx/politica/queretaro/develan-letras-doradas-ruben-gonzalez-el-pueblito-corregidora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:35:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Develan letras doradas en Corregidora en honor a Rubén González y El Pueblito, resaltando sus aportaciones culturales.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0c19d275bbbb9ee6"
+ },
+ {
+  "titulo": "Resultados Tris De las Siete hoy 26 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-de-las-siete-sorteo-37001",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "El sorteo Tris De las Siete número 37001 se celebró este 26 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "259f36f3d479bcd9"
+ },
+ {
+  "titulo": "Inauguran módulo de atención del Infonavit en Cabo San Lucas",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/modulo-atencion-infonavit-cabo-san-lucas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:34:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "El Infonavit inaugura un módulo de atención en Cabo San Lucas, mejorando el acceso a servicios de vivienda.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c4c53f1ebb96f174"
+ },
+ {
+  "titulo": "Carlos Quintana advierte sobre intento de Morena de influir en el INE",
+  "liga": "https://elcongresista.mx/politica/michoacan/morelia-control-morena-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T19:30:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Carlos Quintana denuncia intentos de Morena para influir en el INE y advierte de riesgos para la democracia.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "fac6c350d7cfe66f"
+ },
+ {
   "titulo": "Una cantina llamada La Ballena",
   "liga": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORWxaUjhkZTRlM1JsOTJqQUNoS3RLXzJfck9oR3ljb0RhbEVBRE9ObnZNOXM4NV90NEg0QzBzd0dvUmg2Y1RVY0dzdTA4ci1nMnFjV19acUdzcE1xRWRzMU5fX3VBSHdhcllURUlfQVA4dHM1bjBvbE42TF9rRUZLUl90bDY?oc=5",
   "medio": "AFN",
@@ -113,6 +303,20 @@
   "id": "e478dc513d15aa3e"
  },
  {
+  "titulo": "Gobierno de BC invierte más de 39 mdp en infraestructura cultural en 2026",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/gobierno-de-bc-invierte-mas-de-39-mdp-en-infraestructura-cultural-en-2026/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T19:18:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "\"No se trata solamente de construir o rehabilitar edificios, sino de contar con espacios seguros, funcionales y dignos\" La entrada Gobierno de BC invierte más de 39 mdp en infraestructura cultural en 2026 se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "6431e50732ac9cc2"
+ },
+ {
   "titulo": "Higinio Martínez considera \"chantaje\" advertencia del PAN sobre 2027",
   "liga": "https://elcongresista.mx/politica/nacional/higinio-martinez-chantaje-pan-eleccion-2027",
   "medio": "El Congresista",
@@ -128,6 +332,22 @@
   "id": "f3e137e12522bbf1"
  },
  {
+  "titulo": "Impulsa Secretaría de Turismo de Baja California el diseño de una red de senderos turísticos en San Felipe",
+  "liga": "https://www.uniradioinforma.com/gobierno/impulsa-secretaria-turismo-baja-california-diseno-una-red-senderos-turisticos-san-felipe-n916544",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T19:17:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "En coordinación con diversos actores, se evaluó el potencial turístico, la viabilidad operativa y las condiciones de seguridad y conservación ambiental de sitios como Ruta Trejo, Valle de los Gigantes y Cañón del Diablo.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "81d8dac0cd106719"
+ },
+ {
   "titulo": "Secretaría de las Mujeres respalda a Ximena Santaolalla tras denuncia de abuso",
   "liga": "https://elcongresista.mx/justicia/secretaria-mujeres-ximena-santaolalla-abuso",
   "medio": "El Congresista",
@@ -141,6 +361,48 @@
   ],
   "local": false,
   "id": "bb08f67b9b2e2da7"
+ },
+ {
+  "titulo": "Mar inunda casas en San Quintín",
+  "liga": "https://jornadabc.com.mx/principales/mar-inunda-casas-en-san-quintin/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T19:10:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "El Ayuntamiento de San Quintín recomendó a la población y visitantes no ingresar al mar ni caminar sobre piedras o muelles La entrada Mar inunda casas en San Quintín se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "bbc395e630499fad"
+ },
+ {
+  "titulo": "Hermosillo solicitará al Cabildo autorización para contratar créditos por hasta 200 mdp",
+  "liga": "https://www.uniradioinforma.com/sociedad/hermosillo-solicitara-cabildo-autorizacion-contratar-creditos-200-mdp-n916542",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T19:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "La Comisión de Hacienda y Cuenta Pública presentará la propuesta al mediodía de este viernes 27 de noviembre.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "bf55b2560b371a54"
+ },
+ {
+  "titulo": "Coordina Gobierno Municipal acciones para agilizar proyectos del Programa Nacional de Vivienda para el Bienestar",
+  "liga": "https://www.uniradioinforma.com/gobierno/coordina-gobierno-municipal-acciones-agilizar-proyectos-programa-nacional-vivienda-bienestar-n916540",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T19:09:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T19:58:15-06:00",
+  "resumen": "Autoridades federales, estatales y municipales revisaron los avances de proyectos habitacionales que contemplan la construcción de más de 7 mil 600 viviendas.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "01c263ccafe35017"
  },
  {
   "titulo": "Incendio en Tienda Departamental de Mexicali Genera Enorme Columna de Humo",

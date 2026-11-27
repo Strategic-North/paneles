@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-26T19:29-06:00",
+ "actualizado": "2026-11-26T19:58-06:00",
  "corte": "2026-11-27",
  "ventana": [
   "2026-11-26T18:30-06:00",
   "2026-11-27T18:30-06:00"
  ],
- "total": 38,
+ "total": 56,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -40,8 +40,8 @@
   },
   {
    "fuente": "Punto Norte",
-   "ok": true,
-   "notas": 10
+   "ok": false,
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   {
    "fuente": "El Congresista",
@@ -50,8 +50,8 @@
   },
   {
    "fuente": "El Portavoz",
-   "ok": true,
-   "notas": 12
+   "ok": false,
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   {
    "fuente": "La Voz de la Frontera",
@@ -70,63 +70,63 @@
   },
   {
    "fuente": "Google News: Ensenada",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:elvigia.net",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:bajanews.mx",
-   "ok": true,
-   "notas": 100
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:afntijuana.info",
-   "ok": true,
-   "notas": 90
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
-   "ok": true,
-   "notas": 2
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
-   "ok": true,
-   "notas": 54
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
-   "ok": true,
-   "notas": 3
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
-   "ok": true,
-   "notas": 43
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
-   "ok": true,
-   "notas": 2
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: Ensenada policías municipales detenidos",
-   "ok": true,
-   "notas": 2
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: Ayuntamiento de Ensenada deslinda",
-   "ok": true,
-   "notas": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "fuente": "Google News: Ensenada (detenido OR detienen) funcionario",
-   "ok": true,
-   "notas": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   }
  ]
 }
