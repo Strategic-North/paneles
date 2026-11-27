@@ -1,5 +1,442 @@
 [
  {
+  "titulo": "Lamento el fallecimiento del maestro Jorge Tamayo López Portillo",
+  "liga": "https://elcongresista.mx/politica/nacional/fallece-jorge-tamayo-lopez-portillo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T07:47:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Fallece Jorge Tamayo López Portillo, destacado economista y exlíder de la AEFE, a los 75 años, dejando legado en la comunidad académica.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e1bc7875bc1331e2"
+ },
+ {
+  "titulo": "José Woldenberg urge al INE a corregir sobrerrepresentación en 2024",
+  "liga": "https://elcongresista.mx/justicia/ine-woldenberg-sobrerrepresentacion-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T07:46:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Woldenberg exige al INE corregir la sobrerrepresentación en la Cámara tras las elecciones de 2024.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "dae8d7e1c2cc24b8"
+ },
+ {
+  "titulo": "Sheinbaum: pobreza laboral en México cayó 3.8% en 2026",
+  "liga": "https://elcongresista.mx/politica/nacional/pobreza-laboral-caida-3-8",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T07:12:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "La presidenta Claudia Sheinbaum informó que la pobreza laboral en México cayó 3.8% en el tercer trimestre de 2026, mientras que el ingreso real aumentó.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "78debb12e3fcd129"
+ },
+ {
+  "titulo": "Más del 90% de diputados de Morena en Puebla buscarán nuevos cargos",
+  "liga": "https://elcongresista.mx/politica/puebla/diputados-morena-puebla-nuevos-cargos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T07:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Más del 90% de los diputados de Morena en Puebla planea competir en las elecciones de 2027, buscando reelección y otros cargos.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "f4a60774fe093cd4"
+ },
+ {
+  "titulo": "Conductor vinculado a proceso por accidente mortal en Mérida",
+  "liga": "https://elcongresista.mx/politica/yucatan/conductor-vinculado-proceso-accidente-merida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T07:05:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Conductor vinculado a proceso por accidente mortal en Mérida que dejó una joven muerta y dos heridos, permanece en prisión.",
+  "temas": [
+   "Accidentes",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "65dc69981af322ce"
+ },
+ {
+  "titulo": "2,603 mujeres en ciberseguridad revelan barreras en su desarrollo",
+  "liga": "https://elcongresista.mx/politica/nacional/barreras-mujeres-ciberseguridad-isc2",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T07:03:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "ISC2 establece que 2,603 mujeres en ciberseguridad enfrentan barreras en su desarrollo, desde la falta de referentes hasta exigencias de experiencia.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7f75033cd35421f1"
+ },
+ {
+  "titulo": "Entregas de Amazon en México generan problemas a cientos de usuarios.",
+  "liga": "https://elcongresista.mx/politica/nacional/problemas-entregas-amazon-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T07:02:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Usuarios de Amazon en México enfrentan problemas de entregas incorrectas, generando quejas masivas y frustración.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1b79ef4509634897"
+ },
+ {
+  "titulo": "DEA: intenta crear canales de denuncia por narcotráfico en México",
+  "liga": "https://elcongresista.mx/justicia/dea-canales-denuncia-anonima-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T07:01:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "La DEA propone canales de denuncia en México para combatir el narcotráfico, pero Sheinbaum lo considera una injerencia.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "d311d9b145ff691e"
+ },
+ {
+  "titulo": "Julio Salas llama a denunciar acoso en Policía de 2,200 elementos",
+  "liga": "https://elcongresista.mx/justicia/julio-salas-denuncia-acoso-policia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:47:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Julio Salas llama a los policías a denunciar el acoso y la violencia en la institución, con 2,200 elementos involucrados.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "fbeb6d2b5a46e7d4"
+ },
+ {
+  "titulo": "Solo el 5% de las empresas adopta la IA avanzada según expertos",
+  "liga": "https://elcongresista.mx/tecnologia/empresas-5porciento-uso-ia-avanzada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:46:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Solo un 5% de las empresas en México utiliza inteligencia artificial avanzada, según expertos en tecnología.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "f92d1ae197736833"
+ },
+ {
+  "titulo": "Urge preparar la ciudad para nuevas inversiones: CCE Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/urge-preparar-ciudad-nuevas-inversiones-cce-tijuana-n915874",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T06:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "El CCE advierte que Baja California requerirá 615.3 MVA adicionales de energía eléctrica hacia 2030 para atender proyectos industriales y habitacionales.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "9c5541892e0d2be2"
+ },
+ {
+  "titulo": "Tijuana, en los municipios del país que arrancarán con la nueva Ley de Economía Digital",
+  "liga": "https://www.uniradioinforma.com/sociedad/tijuana-municipios-pais-arrancaran-nueva-ley-economia-digital-n915693",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T06:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "La Concanaco Servytur dice que la ley empezará por gasolineras y por municipios con trámites en línea, y pone a Tijuana como ejemplo.",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "678a5294622851f3"
+ },
+ {
+  "titulo": "Capacitación federal en La Plata para combatir criminalidad organizada",
+  "liga": "https://elcongresista.mx/justicia/capacitacion-federal-criminalidad-organizada-la-plata",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:43:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "La capacitación en La Plata busca mejorar las herramientas judiciales para enfrentar la criminalidad organizada en el nuevo código procesal.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "438ba626ab2e2eae"
+ },
+ {
+  "titulo": "Organización electoral: secretarios preparan 40 procesos en Cuenca",
+  "liga": "https://elcongresista.mx/justicia/organizacion-electoral-cuenca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:42:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Secretarios en Cuenca preparan 40 procesos electorales para garantizar el correcto desarrollo de la votación en pequeños municipios.",
+  "temas": [
+   "Proceso electoral",
+   "Gobierno municipal",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "3b83a137f4a97e98"
+ },
+ {
+  "titulo": "Lluvias intensas y frío impactan a Tepic y el occidente del país",
+  "liga": "https://elcongresista.mx/politica/nayarit/lluvias-y-frio-tepic-ocidente",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:34:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Tepic experimenta este viernes lluvias y frío, con acumulados de hasta 8.1 mm, afectando actividades al aire libre.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "046a2ba01ca9bbee"
+ },
+ {
+  "titulo": "Mérida recupera plaza del Centro Histórico ocupada por negocio ilegal",
+  "liga": "https://elcongresista.mx/politica/yucatan/merida-recupera-plaza-negocio-ilegal-centro-historico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:21:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "El Ayuntamiento de Mérida recupera una plaza en el Centro Histórico, cerrando un negocio ilegal que afectaba la comunidad.",
+  "temas": [
+   "Gobierno municipal",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f5483496155362e6"
+ },
+ {
+  "titulo": "Detienen a dos por posible atentado en el Meta durante operativo militar",
+  "liga": "https://elcongresista.mx/seguridad/detienen-posible-atentado-meta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:20:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Dos detenidos en el Meta tras operativo que previno un posible ataque armado con explosivos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "effacd50d6e46da2"
+ },
+ {
+  "titulo": "Incautan 34 celulares y 35 armas en cárcel Villahermosa de Cali",
+  "liga": "https://elcongresista.mx/justicia/incautan-celulares-armas-carl-villahermosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:20:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "En un operativo en la cárcel Villahermosa de Cali, incautan 34 celulares, 35 armas y 5 millones de pesos en efectivo.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "9824e65772cde508"
+ },
+ {
+  "titulo": "Costa Rica impide entrada a relatora de la ONU Francesca Albanese",
+  "liga": "https://elcongresista.mx/politica/nacional/costa-rica-francesca-albanese-retenida",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:18:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Costa Rica retiene a la relatora de la ONU Francesca Albanese por alerta internacional, generando preocupación en derechos humanos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c930ef97b76af97d"
+ },
+ {
+  "titulo": "Diputados aprueban $11 billones para financiamiento universitario",
+  "liga": "https://elcongresista.mx/politica/nacional/diputados-presupuesto-11-billones-universidades",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:17:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "La Cámara de Diputados aprobó $11 billones en financiamiento para universidades en el nuevo presupuesto, fundamental para su operativa.",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": false,
+  "id": "d96d3fde74e8c2d8"
+ },
+ {
+  "titulo": "Aumenta 5.69% el boleto de micro en La Plata desde diciembre",
+  "liga": "https://elcongresista.mx/politica/nacional/aumento-boletos-micro-la-plata-diciembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:07:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Desde el 1 de diciembre, el boleto mínimo en La Plata aumentará un 5.69% y la tarifa social un 10.13%.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "844ddc4f4049f7cb"
+ },
+ {
+  "titulo": "Juicio en Mar del Plata a ocho por encubrir vuelos de la muerte",
+  "liga": "https://elcongresista.mx/justicia/juicio-mar-del-plata-vuelos-muerte",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:06:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Inicia juicio contra ocho acusados de encubrir vuelos de la muerte en Mar del Plata, a 48 años de los crímenes.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b66372ca7be71dcc"
+ },
+ {
+  "titulo": "Familias protestan en 10 eventos simultáneos en la Ciudad de México",
+  "liga": "https://elcongresista.mx/justicia/protestas-cdmx-27-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:05:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Manifestaciones en la CDMX exigen justicia y derechos laborales en un día de protestas diversas.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "f9599a4848d28dd0"
+ },
+ {
+  "titulo": "Isaac del Toro, tercer mejor ciclista del mundo, cumple 23 años",
+  "liga": "https://elcongresista.mx/politica/baja-california/isaac-del-toro-cumple-23-anos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:04:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Isaac del Toro, tercer mejor ciclista del mundo, celebra 23 años con grandes logros en su carrera.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b42c5a03e8353d92"
+ },
+ {
+  "titulo": "Autoridades de Querétaro advierten sobre fraudes de multas vehiculares",
+  "liga": "https://elcongresista.mx/politica/queretaro/alerta-mensajes-falsos-multas-vehiculares-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:04:11-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Las autoridades de Querétaro advierten sobre mensajes falsos de multas vehiculares que buscan fraudes. Se insta a la población a la precaución.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e6fedb6867272c97"
+ },
+ {
+  "titulo": "Dish solicita reestructura financiera por adeudo de 220 mdp al SAT",
+  "liga": "https://elcongresista.mx/finanzas/dish-reestructura-financiera-220-millones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T06:02:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Dish solicita concurso mercantil por 220 millones de pesos en deudas ante el SAT, buscando reestructurar su situación financiera.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "3cc45824ae4ab28b"
+ },
+ {
+  "titulo": "Isaac del Toro, el Tercer Mejor Ciclista del Mundo, Cumple 23 Años",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnFTbDFsVkhpbElIT0NEWkhndVJQZ3Nmd1hoY2l6TVRpZFlOZXozOE5XRkVSOHBZV2ZyaklkVnVVT3V3c01qQnJHYUV2SmFKWXVGWHJmWmhwWndRejNSazBVcjMwQ1NMMHpPRXpJazFuT0c5T0xSQWlpWXFxenJVXzdOVzlnQ3NJUE5jV19acVpSalZGeWx0MUhhSFp5NFU?oc=5",
+  "medio": "N+",
+  "publicada": "2026-11-27T05:40:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Isaac del Toro, el Tercer Mejor Ciclista del Mundo, Cumple 23 Años N+",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "a8cc48ae1568a4de"
+ },
+ {
+  "titulo": "Óscar Noda lamenta el rechazo del Cabildo a desdoblar la LZ-2",
+  "liga": "https://elcongresista.mx/vehicular/oscar-noda-rechazo-cabildo-desdoblar-lz-2",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T05:35:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Óscar Noda lamenta el rechazo del Cabildo de Lanzarote a su propuesta de desdoblar la LZ-2 y mejorar la seguridad vial en la zona.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "65ac5e9dade87455"
+ },
+ {
+  "titulo": "Playa del Carmen conmemora 20 años como Ciudad Educadora con festival",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/playa-del-carmen-festival-cultural-ciudad-educadora",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T05:34:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Playa del Carmen celebra 20 años como Ciudad Educadora con un festival cultural que involucra a estudiantes y promueve la educación.",
+  "temas": [
+   "Educación",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "1bd3ba9b940d3dd7"
+ },
+ {
+  "titulo": "Hacienda establece que gasolineras aceptarán solo pagos digitales",
+  "liga": "https://elcongresista.mx/politica/nacional/hacienda-gasolineras-solo-pagos-digitales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T05:32:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "A partir de noviembre de 2026, gasolineras y casetas en México solo aceptarán pagos digitales, según la Secretaría de Hacienda.",
+  "temas": [
+   "Gobierno del estado",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7c46435050decd96"
+ },
+ {
   "titulo": "Nayib Bukele envía saludos a EEUU por Día de Acción de Gracias",
   "liga": "https://elcongresista.mx/latinoamerica/bukele-saludos-eeuu-accion-de-gracias",
   "medio": "El Congresista",
@@ -1525,6 +1962,20 @@
   ],
   "local": true,
   "id": "8e9b4fdbc50bd3fc"
+ },
+ {
+  "titulo": "Reporte:Alto oleaje afecta estructura de «la Bufadora»,actractivo turístico de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBQ01YNl9LNFhDSHNLckdZM2owdTBvMWxZaENpMFNET1NCZHVnREtxTFV4bmttekNPOHdnV0Jjb1V1ZEYxaWM1Y3VZQnY1S3NneU84?oc=5",
+  "medio": "BC Reporteros",
+  "publicada": "2026-11-27T01:29:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T07:57:58-06:00",
+  "resumen": "Reporte:Alto oleaje afecta estructura de «la Bufadora»,actractivo turístico de Ensenada BC Reporteros",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "3fa30f0031b7230f"
  },
  {
   "titulo": "No actuaron a tiempo policías en búsqueda de Keila en El Rosario",
