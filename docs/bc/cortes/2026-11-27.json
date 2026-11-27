@@ -1,5 +1,707 @@
 [
  {
+  "titulo": "\"Baja las Pilas\": acopio de pilas usadas en Ensenada y Rosarito",
+  "liga": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGxXR3hkemVXV19zV1hrMjZZRDhDV1ZQaUF0Z3h4SUZlclV2dXBiZTY1blNId3hsNF9waE4xWVJfR3J2MVFjZnB1WXg5SkIzN1VGRzBIdTE5N19oZXBMZlJmUU45MlV5V1otU2hkalFrWEZocWliWl81LUlxRENoY3gxUDhoSFFXdTFpUkpJRmF6YjVWbGc?oc=5",
+  "medio": "PoderMX",
+  "publicada": "2026-11-27T14:23:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "\"Baja las Pilas\": acopio de pilas usadas en Ensenada y Rosarito PoderMX",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ec4d876b33e82e80"
+ },
+ {
+  "titulo": "Una noche de clásicos y sorpresas: así fue el concierto de Arjona en Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFBETXF6SHRRS0lpdUVaM2VEeEIwV18tcVNPSkxERllLNWdRLXpzOXhUSEk2UHdCOHN2dFVuVmt3cjhWOUUxVzY3eVNMTl9VajV2Q0hQOEJ2RWxkUDFRSW1KMF9zLVRiZXFiZEZiY3ZvQnN6NVk0dmM2OGVHX2dzZW1yVXBOdFFBa1NYVFpDQXZqTnZURG5VYmlnZ0ZZalMtVEg0LXo5NlRBSll3NHhabms0ODdwYVV1?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-27T14:23:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Una noche de clásicos y sorpresas: así fue el concierto de Arjona en Tijuana Baja News",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "b3c4d34a617ccae0"
+ },
+ {
+  "titulo": "BC tendrá uno de los 22 bachilleratos tecnológicos que SICT construye en 17 entidades",
+  "liga": "https://jornadabc.com.mx/bajacalifornia/bc-tendra-uno-de-los-22-bachilleratos-tecnologicos-que-sict-construye-en-17-entidades/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-27T14:22:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Impartirán materias de aeronáutica, robótica, inteligencia de negocios, ciberseguridad, electromovilidad, comercio internacional, biotecnología, electrónica y mecatrónica; la inversión total en el país es de mil 252 mdp La entrada BC tendrá uno de los 22 bachilleratos tecnológico",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "d4c3263e05638e86"
+ },
+ {
+  "titulo": "Metrobús CDMX: estaciones fuera de servicio afectan usuarios este 27 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/metrobús-cdmx-estaciones-fuera-de-servicio-27-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:20:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Afectaciones en el Metrobús de CDMX impactan la movilidad de miles de usuarios este 27 de noviembre.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5ce3c37ef4dee4ce"
+ },
+ {
+  "titulo": "Dave Keuning, guitarrista de The Killers, sobrevive a grave derrame cerebral",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUJtYkFVM3ZudFpoWWN1MWRhUzVONWd2Nm5HNUp6WW5RQTgzQXJKZmx4dGw5dHpNaGNjZUJwb2plZmhweXpiOVNWd0xoSHppM00xR3Rwc05ZSVllY3BWb2ZrQTJtSGVJaFRaZ3NUcXZXQ3VWWXZUZWlqc1VEMkhNRUxsZ1d0SXE1cnFIMHF6ZVJtV1JURGt6eU1sQk0zVWlWdWRfU2VjTDVHVzVBbnllRWNCVktUVWM?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-27T14:19:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Dave Keuning, guitarrista de The Killers, sobrevive a grave derrame cerebral Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "317f555bfad331e9"
+ },
+ {
+  "titulo": "Conagua retira 6.5 toneladas de residuos en Tanhuato",
+  "liga": "https://elcongresista.mx/politica/michoacan/conagua-limpieza-rio-nutrias-tanhuato",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:19:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La Conagua realizó una jornada de limpieza en el río de las Nutrias, retirando 6.5 toneladas de residuos en Tanhuato, Michoacán, como parte del saneamiento del río Lerma.",
+  "temas": [
+   "Clima",
+   "Medio ambiente",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "16ce1c8e443734a3"
+ },
+ {
+  "titulo": "ITransporte amplía horarios de transporte por final de futbol",
+  "liga": "https://elcongresista.mx/politica/michoacan/i-transporte-ampliacion-horarios-final-futbol",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:18:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "ITransporte de Morelia amplía horarios de transporte público hasta la medianoche por la final de futbol.",
+  "temas": [
+   "Servicios públicos",
+   "Movilidad",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e078d8a722a263ee"
+ },
+ {
+  "titulo": "Morelia, sin complicaciones graves por lluvias continuas del viernes",
+  "liga": "https://elcongresista.mx/politica/michoacan/morelia-lluvias-sin-complicaciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:18:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Morelia se mantiene sin complicaciones graves tras lluvias continuas; se implementan medidas preventivas por las autoridades locales.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6b01083246723135"
+ },
+ {
+  "titulo": "Morelia: ríos y drenes alcanzan hasta 85% de su capacidad",
+  "liga": "https://elcongresista.mx/politica/michoacan/morelia-niveles-rios-drenes-capacidad",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:17:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "En Morelia, los ríos y drenes alcanzan hasta 85% de su capacidad tras lluvias provocadas por la primera tormenta invernal del año.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fba9b1e1b1cd4ca3"
+ },
+ {
+  "titulo": "Aseguran más de 5 kilos de cocaína y 5 millones en Ciudad Juárez",
+  "liga": "https://elcongresista.mx/politica/chihuahua/aseguran-cocaina-5-millones-ciudad-juarez",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:16:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "En Ciudad Juárez, se aseguraron más de 5 kilos de cocaína y 5 millones de pesos en un operativo de la Fiscalía.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7cfc3b863adc9164"
+ },
+ {
+  "titulo": "Detienen en Jalisco a \"La Rana\", operador de célula del CJNG",
+  "liga": "https://www.uniradioinforma.com/sociedad/detienen-jalisco-la-rana-operador-celula-cjng-n916665",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T14:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Es investigado por delincuencia organizada, contra la salud, en materia de hidrocarburos y acopio y tráfico de armas de fuego.",
+  "temas": [
+   "Seguridad",
+   "Salud",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "c2235bbd8029dfed"
+ },
+ {
+  "titulo": "El problema es la desconfianza, advierte Capella",
+  "liga": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQlRRUXpnM1MzYm9NdkNVRU5lM2RQVUVaUjVrZVFhbkNWSDhpTnh4ZlZfVkpiV1hHeGo1a1dweXhnd0xIRUhfZEg4cHlsMWRBc3hlQzlpSkVIZlVtX29YZllWYm53c1NLVWlXbHlwcUo0YUdiMEMtYTVLNk1YRUt1UFFPd3hnWk9oUXBYZDN1ek1KV3Z4?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T14:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "El problema es la desconfianza, advierte Capella AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5ae4d532de4ffbea"
+ },
+ {
+  "titulo": "Denuncia el PRI a cuatro morenistas por temas electorales, incluida la alcaldesa",
+  "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkZOdmtERnBPaUV3SEgxX0JUTHZhN3pSQTJjUTJTLXlyaFc2T0ItODFyNFBicnIzQ3JaR195SkpqNERIeE9WaDBtNmRUX1lOZ2RtSTN5ZG5tNzlONzJzVFVpMDU4WjQ5cWpGWWdVQnJscFNEeUlMVkZrZ3hHTmxEcnJVMnZoaVFkQXFxVmpBZlp2NlNoNGRhQkxyVFl0a1laYVVlY0Z5ZGVyN1Iybko4c3VLMmJaYzAyUURId21kMlpadlp6dVhHU2pn?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T14:15:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Denuncia el PRI a cuatro morenistas por temas electorales, incluida la alcaldesa AFN",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "52f60a993566b7b0"
+ },
+ {
+  "titulo": "Aguacateros y gobernador de Michoacán acuerdan blindar producción que se exporta y comercializa en México",
+  "liga": "https://jornadabc.com.mx/general/mexico/aguacateros-y-gobernador-de-michoacan-acuerdan-blindar-produccion-que-se-exporta-y-comercializa-en-mexico/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-27T14:13:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Alfredo Ramírez Bedolla propuso establecer puntos de inspección fitosanitario en Zinapécuaro, Jiquilpan, Tocumbo, Uruapan, Opopeo, San Juan Nuevo y el tramo de Copetiro-Peribán La entrada Aguacateros y gobernador de Michoacán acuerdan blindar producción que se exporta y comercial",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "456bd9840e0483bf"
+ },
+ {
+  "titulo": "‘La Rana’, presunto líder de sicarios del ‘CJNG’, fue detenido en Ocotlán, Jalisco",
+  "liga": "https://jornadabc.com.mx/region/la-rana-presunto-lider-de-sicarios-del-cjng-fue-detenido-en-ocotlan-jalisco/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-27T14:09:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "En un operativo coordinado con elementos de la Semar y la SSPC se catearon inmuebles por la probable comisión de delitos de delincuencia y organizada La entrada ‘La Rana’, presunto líder de sicarios del ‘CJNG’, fue detenido en Ocotlán, Jalisco se publicó primero en La Jornada Baj",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "b8c1fc4b03f5cf02"
+ },
+ {
+  "titulo": "Ejecutan a hombre en “picadero” de la colonia Primer Ayuntamiento de Tijuana",
+  "liga": "https://zetatijuana.com/2026/11/ejecutan-a-hombre-en-picadero-de-la-colonia-primer-ayuntamiento-de-tijuana/?utm_source=rss&utm_medium=rss&utm_campaign=ejecutan-a-hombre-en-picadero-de-la-colonia-primer-ayuntamiento-de-tijuana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T14:09:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La víctima, aún sin identificar, presentaba lesiones producidas por proyectiles de arma larga. Tijuana suma más de 800 homicidios en lo que va de 2026.",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "4c3dd27ae6d6ba68"
+ },
+ {
+  "titulo": "Emiten acciones preventivas en comercios de Tijuana para seguridad",
+  "liga": "https://elcongresista.mx/seguridad/medidas-preventivas-comercios-tijuana",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:06:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Tijuana implementa medidas preventivas para asegurar comercios y trabajadores, buscando reducir riesgos de violencia y delitos.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "484b7c0e33625999"
+ },
+ {
+  "titulo": "Se repara drenaje en Santiago Troncoso, 12 metros de tubería dañada",
+  "liga": "https://elcongresista.mx/politica/chihuahua/reparacion-drenaje-santiago-troncoso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:05:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La JMAS de Juárez repara 12 metros de drenaje en la avenida Santiago Troncoso, afectando temporalmente el servicio en zonas cercanas.",
+  "temas": [
+   "Agua",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9befadeac20306df"
+ },
+ {
+  "titulo": "Descubren brillo en 20 porcos-espinhos-anões-mexicanos en Chetumal",
+  "liga": "https://elcongresista.mx/ciencia/brillo-porcos-espinhos-anones-mexicanos-chetumal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:04:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Un estudio revela que 20 porcos-espinhos-anões-mexicanos brillan bajo luz UV, mostrando un fenómeno que podría ayudar en su conservación.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7044198dd293730b"
+ },
+ {
+  "titulo": "Benito Juárez: rehabilitan 6 kilómetros de la avenida Huayacán",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/benito-juarez-rehabilitan-avenida-huayacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:03:09-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "El Ayuntamiento de Benito Juárez rehabilita 6 kilómetros de la avenida Huayacán para mejorar la seguridad vial de peatones y conductores.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c006aac180e734cb"
+ },
+ {
+  "titulo": "Un policía resultó lesionado en accidente; chocan vehículo y patrulla",
+  "liga": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDZZUnBRWHdERGNOTGo1akNzb2FwUW5VMmI2RDh2di1Bbll2bkFXN3pYZWsxLUtHNjF6RVkzM201R2xPMDRCVHlybURZVi1HcFV0eVhfcE94NW4ybWY4QzhUOWlaVFNMWFZIVWdXaWJEZ3ZMZzE2bzZUXzJsdXg4emEtVjRHejJFbmJQZTZ1dzlUY0dJMEg4NEo0eUF1Tm54ZDlHa3ByYkszZmpnQ2hSVDVCNlN0UGZkYlY0?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T14:01:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Un policía resultó lesionado en accidente; chocan vehículo y patrulla AFN",
+  "temas": [
+   "Seguridad",
+   "Accidentes"
+  ],
+  "local": false,
+  "id": "8314f553d1c32c8f"
+ },
+ {
+  "titulo": "Detienen en Ocotlán a presunto operador del CJNG apodado \"La Rana\"",
+  "liga": "https://elcongresista.mx/politica/jalisco/detienen-ocotlan-jalisco-operador-cjng",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T14:01:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Jonathan “N”, alias “La Rana”, fue detenido en Jalisco por su vinculación con el Cártel Jalisco Nueva Generación y delitos graves.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b835f8a6073ee225"
+ },
+ {
+  "titulo": "El hoy no circula y horario escalonado",
+  "liga": "https://zetatijuana.com/2026/11/el-no-circula-y-horario-escalonado/?utm_source=rss&utm_medium=rss&utm_campaign=el-no-circula-y-horario-escalonado",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T14:00:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Manejar un vehículo en sus calles a la hora pico es un martirio. La gran parte o porcentaje laboral y estudiantil, tienen el mismo horario: siete u ocho de la mañana. Por ello todo el mundo se desboca y quiere pasar por sus pistolas. ¿Por qué?",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5f04d74970b1616d"
+ },
+ {
+  "titulo": "ENSENADA: Descartan daños estructurales en La Bufadora; permanece abierta al público",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHp0WWVWd2tTbWY5dGRvQUNOSU5MTmR2WnctNEFXbVZuNk1ScEJuTXdGWWVZN0IyaGE2NEt1eXIwTl9jMlpVU0E0QXVsQVdGalN0MDVNQlI4c25CY2hpSmtfUU1Ndm5iUk0tbmx5OEN6NnAycjRtTnJpRUNUeExaa19NUHNnMzFKenhySFZOWktSVC1oTlNyaEE4d29mei1HTFBUWTBhNFBTRG44cGZtTzhDVmhpWTZWaGc?oc=5",
+  "medio": "Baja News",
+  "publicada": "2026-11-27T14:00:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "ENSENADA: Descartan daños estructurales en La Bufadora; permanece abierta al público Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ecf1879cb045765d"
+ },
+ {
+  "titulo": "Sobre el Impuesto Predial",
+  "liga": "https://zetatijuana.com/2026/11/sobre-el-impuesto-predial/?utm_source=rss&utm_medium=rss&utm_campaign=sobre-el-impuesto-predial",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T14:00:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La ley de ingresos de B. C. Es del año 2018, cuando aún gobernaba Kiko Vega de la Madrid y la directora del periódico oficial era la diputada Loreto Quintero. El congreso de ese tiempo, legisló y aplicó la tasa para los terrenos baldíos de un criminal al ocho por ciento, que es m",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "15e3c75d60e80b36"
+ },
+ {
+  "titulo": "El PT: criminal engendro fascista",
+  "liga": "https://zetatijuana.com/2026/11/el-pt-criminal-engendro-fascista-2/?utm_source=rss&utm_medium=rss&utm_campaign=el-pt-criminal-engendro-fascista-2",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T14:00:20-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Afirmar que el partido Morena cedió a las “fuertes presiones” de la Casa Blanca para llevar a cabo su reciente “corrimiento” a la derecha, no es más que palabrería que busca resaltar su “patriotismo” señalando a su compinche de derechista. Tratando, al mismo tiempo, de maquillar ",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "c0c31c64afdb75f4"
+ },
+ {
+  "titulo": "La Diócesis de las Californias",
+  "liga": "https://zetatijuana.com/2026/11/la-diocesis-de-las-californias-2/?utm_source=rss&utm_medium=rss&utm_campaign=la-diocesis-de-las-californias-2",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T14:00:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Las cartas fundacionales de Salvatierra, las publico don Miguel en su obra Loreto. El jesuita milanés descansaba los fines de semana en la Ciudad de México pasando su día de descanso con la Virgen de Guadalupe en el Tepeyac, hacia 1680.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "8fa6963b33e163df"
+ },
+ {
+  "titulo": "La señora ministra",
+  "liga": "https://zetatijuana.com/2026/11/la-senora-ministra/?utm_source=rss&utm_medium=rss&utm_campaign=la-senora-ministra",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T14:00:12-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "En estricto sentido jurídico, a la ministra Lenia Batres le toca ocupar la presidencia de la Corte. Sin embargo, su imagen está peleada con la realidad. En una encuesta de Metrik, publicada el 19 de octubre, a la pregunta “¿qué tanto considera que Lenia Batres actúa con independe",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "39212d3be44df7ca"
+ },
+ {
+  "titulo": "IA neurosimbólica: por qué la inteligencia sin contexto ya no es suficiente para las empresas",
+  "liga": "https://zetatijuana.com/2026/11/ia-neurosimbolica-por-que-la-inteligencia-sin-contexto-ya-no-es-suficiente-para-las-empresas/?utm_source=rss&utm_medium=rss&utm_campaign=ia-neurosimbolica-por-que-la-inteligencia-sin-contexto-ya-no-es-suficiente-para-las-empresas",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T14:00:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Incorporada a la rutina corporativa, la IA generativa ya realiza tareas como resumir conversaciones, examinar cláusulas, comprender amplios conjuntos de documentos y formular respuestas complejas en un tiempo récord. Sin embargo, con su creciente participación en actividades que ",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "fcb2513103e9be15"
+ },
+ {
+  "titulo": "Promueve la SSPCM medidas preventivas para fortalecer la seguridad en los comercios de Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/promueve-sspcm-medidas-preventivas-fortalecer-seguridad-comercios-tijuana-n916662",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T14:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "cefa4cd66062b4c0"
+ },
+ {
+  "titulo": "FGR, SSPC y SEMAR detienen en Ocotlán, Jalisco, a presunto operador del CJNG apodado “La Rana”",
+  "liga": "https://zetatijuana.com/2026/11/fgr-sspc-y-semar-detienen-en-ocotlan-jalisco-a-presunto-operador-del-cjng-apodado-la-rana/?utm_source=rss&utm_medium=rss&utm_campaign=fgr-sspc-y-semar-detienen-en-ocotlan-jalisco-a-presunto-operador-del-cjng-apodado-la-rana",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T13:59:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Las autoridades investigan cuatro delitos federales, entre ellos ilícitos en materia de hidrocarburos y acopio de armas.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "ed67475c78fe0f76"
+ },
+ {
+  "titulo": "Refuerza Nación Verde vigilancia de bosques",
+  "liga": "https://www.uniradioinforma.com/sociedad/refuerza-nacion-verde-vigilancia-bosques-n916658",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:58:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Ejidatarios y comuneros recibieron capacitación para identificar y denunciar actividades que amenazan la conservación de los ecosistemas forestales.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "112d6c5ffcb88512"
+ },
+ {
+  "titulo": "Unison promueve la sustentabilidad con decoración navideña hecha de materiales reciclados",
+  "liga": "https://www.uniradioinforma.com/sociedad/unison-promueve-sustentabilidad-decoracion-navidena-hecha-materiales-reciclados-n916660",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:57:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Decoraron las puertas de aulas y cubículos y elaboraron adornos navideños con materiales reutilizados.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "555dc2fe9159806a"
+ },
+ {
+  "titulo": "Luis de Llano confiesa a Pati Chapoy que no tiene ni para pagar la indemnización a Sasha Sokol",
+  "liga": "https://www.uniradioinforma.com/fama/luis-llano-confiesa-pati-chapoy-tiene-ni-pagar-indemnizacion-sasha-sokol-n916656",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:56:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "88c53477335ef76f"
+ },
+ {
+  "titulo": "Reitera Secretaría de Medio Ambiente invitación a \"Baja las Pilas\" en Playas de Rosarito",
+  "liga": "https://www.uniradioinforma.com/sociedad/reitera-secretaria-medio-ambiente-invitacion-baja-pilas-playas-rosarito-n916653",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "",
+  "temas": [
+   "Gobierno del estado",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "43416eb1609bd7ae"
+ },
+ {
+  "titulo": "Colocan pasto sintético en campos deportivos del Centro de Alto Rendimiento en Tijuana",
+  "liga": "https://www.uniradioinforma.com/sociedad/colocan-pasto-sintetico-campos-deportivos-centro-alto-rendimiento-tijuana-n916651",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:53:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Como parte de la remodelación integral de este espacio deportivo de alcance regional.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d2f1c73c89c7934d"
+ },
+ {
+  "titulo": "¿Por qué usar la IA para trabajar?",
+  "liga": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOel93aVotT0F6Z2pVeEFnZUk5dDZRVjFoNzVTU0N1NTF2cW0tQUFTQTRKUU5QeDhTeEVQLWx4d1NRN2dUSE1GNXJnMmJjOTB2OHJaLW1BLUxsdlItaGwyam1kUXFnUi1EWDJnak9qcFFHX1Nqend3dW5NQTdOb3ZCWDF3?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T13:52:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "¿Por qué usar la IA para trabajar? AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "7c6c0b9e2026bd83"
+ },
+ {
+  "titulo": "Detienen en Jalisco a “La Rana”, presunto operador del CJNG vinculado con homicidios y narcotráfico",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTkNaZmQ2dTZZeXVOazd4MzU1V0NXZG8tS0FVSTNPTVMzenVhMmtfeS03LXVaUkYteExuMEZsOTdHRGwwZWZ6OWl1NUo2SF9XWjNqSC1QMjE3bkFrX0wxY1ZhUlhUbUw0dWd3R3RZSlp4aUdUbUlVSzBHS0FLSkxqMWNEendFM0tLOFQ5MGd5TThJMFktT1JLWGM5V2lnQjVjSWpMclduM1dDWG9QVDZrMUQ3SmpaUGszMGd1OUhVZGlmU3phYkJHWW5ENA?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-27T13:51:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Detienen en Jalisco a “La Rana”, presunto operador del CJNG vinculado con homicidios y narcotráfico Baja News",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "08280fe8af74ac3d"
+ },
+ {
+  "titulo": "Primera tormenta invernal trae lluvias de hasta 250 mm en Jalisco, Colima y Michoacán",
+  "liga": "https://elcongresista.mx/politica/colima/tormenta-invernal-jalisco-colima-michoacan-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:49:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La primera tormenta invernal de la temporada traerá lluvias de hasta 250 mm en Jalisco, Colima y Michoacán este 23 de noviembre.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4d89d659fbfd572b"
+ },
+ {
+  "titulo": "Juez vincula a proceso a Eduardo \"N\" por abuso sexual agravado",
+  "liga": "https://elcongresista.mx/justicia/nuevo-laredo-eduardo-n-abuso-sexual",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:49:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Un juez vincula a Eduardo \"N\" a proceso por abuso sexual agravado de una menor en Nuevo Laredo, dictando prisión preventiva.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1b733d54cb87f554"
+ },
+ {
+  "titulo": "Afiliados al Sutspes deberán renunciar o solicitar licencia si participarán en campañas electorales",
+  "liga": "https://www.uniradioinforma.com/sociedad/afiliados-sutspes-deberan-renunciar-o-solicitar-licencia-participaran-campanas-electorales-n916649",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:49:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La Oficialía Mayor sancionará a quienes incumplan el requisito, dijo Luis Antonio Castro Ruiz.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "d63657f7138e2a0b"
+ },
+ {
+  "titulo": "Vinculan a proceso a Marco Antonio “N” por secuestro exprés en Huiramba",
+  "liga": "https://elcongresista.mx/politica/michoacan/vinculan-proceso-marco-antonio-secuestro-huiramba",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:47:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Marco Antonio “N” es vinculado a proceso por secuestro exprés en Huiramba, Michoacán, donde se robaron documentos y joyería.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e37cf6a645c19bbd"
+ },
+ {
+  "titulo": "Seimujer atiende a 120 mil 331 mujeres en Michoacán",
+  "liga": "https://elcongresista.mx/politica/michoacan/seimujer-atencion-120-mil-mujeres-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:46:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Seimujer ha brindado apoyo a más de 120 mil mujeres en Michoacán desde el 2025, enfocándose en erradicar la violencia de género.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bbd7933340be6cd8"
+ },
+ {
+  "titulo": "Disney estrena \"Hechizo: Bienvenidos a Hexe\" el 26 de noviembre",
+  "liga": "https://elcongresista.mx/politica/nacional/hechizo-bienvenidos-a-hexe",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:45:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "\"Hechizo: Bienvenidos a Hexe\" de Disney se estrena en cines de México el 26 de noviembre, destacando la importancia de las relaciones familiares.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "23c949b773ebaf10"
+ },
+ {
+  "titulo": "Persistirá Alto Oleaje de Hasta 3.5 Metros en Ensenada, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZERSazc5Qm9xdGtDZERpaDhwVXRKcVJOWTdGSlhnRnIyblhYeThsSVVtanNranI1Zng2ZGhjQXVWaXRaSVdkWkoxT1BhcVdTOWVuSGxXRU53NHM2ZHV4VW4xT2ZId2ZwcDVQX3RHZTNfRGFEOHV3YmRCS3N1azNCYm5PQTk1dGYtV1IyUVliYUU5OE5Qa3N5UV9feDVTZlk0MURUR19VRnJDdmtZVUtoaVNnZF82OTQ?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-27T13:44:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Persistirá Alto Oleaje de Hasta 3.5 Metros en Ensenada, Baja California N+",
+  "temas": [
+   "Clima",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "0f83871963e03646"
+ },
+ {
+  "titulo": "Con desfile, dulces y regalos festejarán el Día del Payaso en Hermosillo",
+  "liga": "https://www.uniradioinforma.com/sociedad/con-desfile-dulces-regalos-festejaran-dia-payaso-hermosillo-n916647",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:43:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La agrupación Unidos por una Nariz celebrará el Día del Payaso el domingo 6 de diciembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "4823cfa10502ab3b"
+ },
+ {
+  "titulo": "Hombre de 23 años muere tras choque de tres camiones en Reynosa",
+  "liga": "https://elcongresista.mx/tamaulipas/hombre-23-anos-muere-choque-camiones-reynosa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:38:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Un hombre de 23 años falleció en Reynosa tras un accidente entre tres camiones de transporte público.",
+  "temas": [
+   "Accidentes",
+   "Servicios públicos",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "2e053afd165d8987"
+ },
+ {
+  "titulo": "Detienen a Brayan “N” en Tijuana por agresión física y amenazas",
+  "liga": "https://elcongresista.mx/politica/baja-california/detienen-brayan-n-tijuana-agresion",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:37:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Detienen a Brayan “N” en Tijuana por agresión física y amenazas a una mujer en el fraccionamiento Natura.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "50b0533bb6f9c35b"
+ },
+ {
   "titulo": "Playa del Carmen: servicios gratuitos de identidad y salud para 200 familias",
   "liga": "https://elcongresista.mx/politica/quintana-roo/playa-del-carmen-servicios-gratuitos-jornada",
   "medio": "El Congresista",
@@ -74,6 +776,21 @@
   ],
   "local": false,
   "id": "c03ced3294afb470"
+ },
+ {
+  "titulo": "Canciones del intérprete baleado dan pistas sobre posible móvil del ataque: FGJES",
+  "liga": "https://www.uniradioinforma.com/policiaca/canciones-interprete-baleado-dan-pistas-sobre-posible-movil-ataque-fgjes-n916645",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:32:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Fiscalía sigue pista de grupo rival tras ataque armado contra cantante de corridos bélicos.",
+  "temas": [
+   "Seguridad",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "b58e01f090ae2e54"
  },
  {
   "titulo": "Sheinbaum respalda a cafeticultores de Chiapas y busca acuerdo con Nestlé por precios justos",
@@ -318,6 +1035,20 @@
   ],
   "local": true,
   "id": "5e434818960f7357"
+ },
+ {
+  "titulo": "Baja California, el estado donde más crecen las denuncias por trata de personas en México: suben 173% en 2026",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-estado-donde-mas-crecen-denuncias-trata-personas-mexico-suben-173-2026-n915926",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Tijuana es el segundo municipio del país con más casos; la entidad ocupa el cuarto lugar nacional en riesgo por habitante.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "4f4a06f7fdc757b3"
  },
  {
   "titulo": "Asesinan a un hombre dentro de auto con arma blanca",
@@ -2295,6 +3026,35 @@
   "id": "ab1af02d364f9281"
  },
  {
+  "titulo": "Pagos digitales obligatorios en gasolineras y casetas debe de ser gradual",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/pagos-digitales-obligatorios-en-gasolineras-y-casetas-debe-de-ser-gradual-33339606",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-27T09:25:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La medida también permitiría a las autoridades rastrear gastos e ingresos, reducir la economía informal y fortalecer el control fiscal mediante registros de las operaciones comerciales.",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "bab59ccad66608f2"
+ },
+ {
+  "titulo": "Proyectan inversión de 7.4 MDP para nuevo CDHI en Condesa: Obras Públicas",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/proyectan-inversion-de-7-4-mdp-para-nuevo-cdhi-en-condesa-obras-publicas-33338937",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-27T09:23:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Es hacer toda la obra completa, toda la estructura, todos los acabados sin embargo, el techo financiero no alcanza para hacer una infraestructura de este tipo por lo cual, aún está en análisis",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "b2b2467f6c5284d4"
+ },
+ {
   "titulo": "Lluvias intensas y frío en Veracruz por tormenta invernal",
   "liga": "https://elcongresista.mx/politica/veracruz/lluvias-intensas-frio-veracruz",
   "medio": "El Congresista",
@@ -2381,6 +3141,20 @@
   "id": "1ec29fef83afaafd"
  },
  {
+  "titulo": "Advierten multas de hasta 100 mil pesos y clausura por espectaculares irregulares: DAU",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/advierten-multas-de-hasta-100-mil-pesos-y-clausura-por-espectaculares-irregulares-dau-33339510",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-27T09:11:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Alrededor del 85% de los más de 360 espectaculares identificados en la ciudad ya fue regularizado, sin embargo, la autoridad busca completar el proceso con el 15% restante antes de que concluya el año",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "7bd70f6760448e2b"
+ },
+ {
   "titulo": "Evelyn Sánchez lidera encuesta con 36.8% para alcaldía de Tijuana",
   "liga": "https://elcongresista.mx/politica/baja-california/evelyn-sanchez-encuesta-alcaldia-tijuana",
   "medio": "El Congresista",
@@ -2408,6 +3182,20 @@
   ],
   "local": false,
   "id": "52f14a805ca83237"
+ },
+ {
+  "titulo": "Ruta Colosio iniciará operaciones el 1 de diciembre",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/ruta-colosio-iniciara-operaciones-el-1-de-diciembre-33339544",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-27T09:07:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "Dicha medida es para atender las necesidades de la ciudadanía",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "ab3a915a42b97af3"
  },
  {
   "titulo": "Llaryora inaugura universidad en Morteros para 430 estudiantes",
@@ -2555,6 +3343,20 @@
   "id": "d3676a951f732a90"
  },
  {
+  "titulo": "¿Tienes adeudo de agua? CESPM ofrece condonación de hasta 100%",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/tienes-adeudo-de-agua-cespm-ofrece-condonacion-de-hasta-100-33339176",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-27T08:44:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "El plazo para solicitar el beneficio vence el 30 de noviembre",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "b5526139d651129e"
+ },
+ {
   "titulo": "Entrega la Canacintra premio Mérito Legislativo 2026 a 31 senadores y diputados",
   "liga": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSF9PaXJnWDRXaE1ROWFoZzJQanc5Zmw0QVZfaEtMOEQzNmRZYjEyTEJIM3VZaHM3aVVhY1Rsd3VpSVJBRXNoUV9vTU16V1M0MjR3VndaZUxRUi1qeGhsU0ZycEpnMFd3aklfN1o4Tzk0STFmUlJ3ZVJPWXpteUhIRVdpdlA5dUsxS2JadXoyQVRkaUJCVDZtRkpTUVFIdVdmZk1nYm5IdmhsYk1ubElzODNkemdhSVctS0taMkJrdkt4M3JjRndyaS1B?oc=5",
   "medio": "AFN",
@@ -2610,6 +3412,21 @@
   ],
   "local": false,
   "id": "be458f5099d812f5"
+ },
+ {
+  "titulo": "Piden a migrantes indocumentados evitar desplazamientos durante las fiestas de fin de año",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/piden-a-migrantes-indocumentados-evitar-desplazamientos-durante-las-fiestas-de-fin-de-ano-33339097",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-27T08:37:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T14:33:54-06:00",
+  "resumen": "La abogada Josefina Orozco advirtió que incluso quienes tienen permisos de trabajo o trámites migratorios en curso podrían ser detenidos mientras el ICE verifica su situación.",
+  "temas": [
+   "Seguridad",
+   "Migración"
+  ],
+  "local": true,
+  "id": "e88d0e2b176f95c5"
  },
  {
   "titulo": "Realizan brigada en Conalep Frontera ante reportes de violencia",
