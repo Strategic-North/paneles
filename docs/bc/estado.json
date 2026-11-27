@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-27T12:24-06:00",
+ "actualizado": "2026-11-27T13:37-06:00",
  "corte": "2026-11-27",
  "ventana": [
   "2026-11-26T18:30-06:00",
   "2026-11-27T18:30-06:00"
  ],
- "total": 517,
+ "total": 571,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -36,12 +36,12 @@
   {
    "fuente": "Uniradio Informa",
    "ok": true,
-   "notas": 56
+   "notas": 57
   },
   {
    "fuente": "Punto Norte",
-   "ok": true,
-   "notas": 10
+   "ok": false,
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   {
    "fuente": "El Congresista",
@@ -50,8 +50,8 @@
   },
   {
    "fuente": "El Portavoz",
-   "ok": true,
-   "notas": 12
+   "ok": false,
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   {
    "fuente": "La Voz de la Frontera",
@@ -86,7 +86,7 @@
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 92
+   "notas": 89
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
@@ -96,7 +96,7 @@
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 50
+   "notas": 51
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
@@ -106,7 +106,7 @@
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 37
+   "notas": 65
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",

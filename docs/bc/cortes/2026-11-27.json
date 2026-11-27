@@ -1,5 +1,685 @@
 [
  {
+  "titulo": "Playa del Carmen: servicios gratuitos de identidad y salud para 200 familias",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/playa-del-carmen-servicios-gratuitos-jornada",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:36:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Playa del Carmen realiza jornada de servicios gratuitos, beneficiando a 200 familias en la colonia Sagrado Corazón de Jesús.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4966eb31e9d79913"
+ },
+ {
+  "titulo": "ICE destaca captura de “El Chapo Isidro” en Guasave, Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/ice-captura-chapo-isidro-guasave",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:35:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "ICE destaca la captura de “El Chapo Isidro” en Guasave, reforzando la cooperación entre México y Estados Unidos en la lucha contra el crimen.",
+  "temas": [
+   "Seguridad",
+   "Migración",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "89d087c0e2a5a338"
+ },
+ {
+  "titulo": "Resultados Tris Medio Día hoy 27 de noviembre: números ganadores",
+  "liga": "https://elcongresista.mx/sorteos/resultados-tris-medio-dia-sorteo-37003",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:35:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "El sorteo Tris Medio Día número 37003 se celebró este 27 de noviembre de 2026; consulta la combinación ganadora y el multiplicador.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "9c156d51590e16c8"
+ },
+ {
+  "titulo": "AMANC Michoacán recibe Premio Inspiras por su liderazgo social",
+  "liga": "https://elcongresista.mx/politica/michoacan/amanc-michoacan-premio-inspiras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:34:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "AMANC Michoacán recibe el Premio Inspiras por su destacada labor en el acompañamiento a niños con cáncer y sus familias.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5d892f7b93f8714c"
+ },
+ {
+  "titulo": "Avanza rehabilitación de muelles del Lago de Pátzcuaro al 40%",
+  "liga": "https://elcongresista.mx/politica/michoacan/avance-rehabilitacion-muelles-lago-patzcuaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:32:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Avanza rehabilitación de muelles en Pátzcuaro; proyecto beneficia a turistas y habitantes con un avance del 40%.",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c03ced3294afb470"
+ },
+ {
+  "titulo": "Sheinbaum respalda a cafeticultores de Chiapas y busca acuerdo con Nestlé por precios justos",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFpvVEpoUjRfSzBjVGtmcTBjN1gycUQtSTljTk4xZm5lUF9fT2xFWFM4dWI3LVJzdk9MYmpCVUNIVFkzaERRTnVtdGZrUFMtc242WGlsQm9YeXhCMFhfSklLbWl3Z3hCVmZyTy0tWE5lWmxndFdjMmhCSHF1MEtFRm1seS0wTFBDV0trOE1QNll0RENrRU8wYWE5MHc0Q0pBZUQ2aF9JQmRpLUJCOGJHRTdBb0Eya25uREtjWnBvcWFXa0o0Q2c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-27T13:28:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Sheinbaum respalda a cafeticultores de Chiapas y busca acuerdo con Nestlé por precios justos Baja News",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "7016ae428a5f3920"
+ },
+ {
+  "titulo": "Avanza análisis del presupuesto estatal 2027 en el Congreso de Sonora",
+  "liga": "https://www.uniradioinforma.com/sociedad/avanza-analisis-presupuesto-estatal-2027-congreso-sonora-n916643",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:22:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "La Comisión de Hacienda espera emitir el dictamen a partir de la próxima semana, indicó Elly Sallard.",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "70e418a35c0654b5"
+ },
+ {
+  "titulo": "José Luis Rojas y Patricia Peralta anuncian su separación tras 19 años",
+  "liga": "https://elcongresista.mx/politica/nacional/jose-luis-rojas-separacion-patricia-peralta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:19:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "José Luis Rojas y Patricia Peralta anuncian su separación tras 19 años de matrimonio, destacando su compromiso por sus hijos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e562257afbb372a4"
+ },
+ {
+  "titulo": "Vinculan a proceso a un hombre por abuso sexual agravado contra una menor de edad",
+  "liga": "https://www.uniradioinforma.com/policiaca/vinculan-proceso-hombre-abuso-sexual-agravado-una-menor-edad-n916641",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:19:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "El imputado permanecerá en prisión preventiva mientras se desarrolla la investigación complementaria.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "c28ccee67d5b0974"
+ },
+ {
+  "titulo": "Colectivos de desaparecidos se reúnen con autoridades en Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/colectivos-desaparecidos-tamaulipas-dialogo-autoritario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:17:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Colectivos de familiares de desaparecidos en Tamaulipas buscan fortalecer acciones con autoridades para localizar a sus seres queridos.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1de549d4a9cabcdd"
+ },
+ {
+  "titulo": "Desarrollan leche materna en polvo en Jalisco que dura un año",
+  "liga": "https://elcongresista.mx/politica/jalisco/leche-materna-en-polvo-jalisco",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:17:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Investigadora de Jalisco presenta leche materna en polvo que dura un año sin refrigeración, beneficiando a infantes vulnerables.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a69184c8285c36eb"
+ },
+ {
+  "titulo": "Plan Michoacán impulsa la autonomía de más de 136 mil mujeres",
+  "liga": "https://elcongresista.mx/politica/michoacan/plan-michoacan-autonomia-mujeres",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:16:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "El Plan Michoacán por la Paz y la Justicia apoya a más de 136 mil mujeres, fortaleciendo sus derechos y oportunidades con diversas acciones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "753613bd56509b4a"
+ },
+ {
+  "titulo": "México clasifica a dieciseisavos del Mundial Sub 17 tras empatar con Venezuela",
+  "liga": "https://elcongresista.mx/politica/michoacan/mexico-venezula-empate-mundial-sub-17",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:16:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "México empata con Venezuela y avanza a dieciseisavos del Mundial Sub 17, cerrando la fase de grupos sin goles en contra.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c707433603f27d8a"
+ },
+ {
+  "titulo": "Pronostican bajas temperaturas en el país por arribo de tormenta invernal",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWgxVjFZalh1NUZqczczOHJYVjhIaHdzdmdaU1NOQUE0T0hnZEFwSXRra3VYYzZxU2hDbmxiN3AzYjR2Q0tEYjU3aTlXa25RU0huRFhaTTdDQnliQnZoZmQyeXliMEs4STVTS1FyZjRCOWJ4TDZNSDR2Z2ZmVWRrdU9reVFZRWN1bGNOc3BMQ1Q4VzdSLUZ5alJEM0x0UlhwenNuZUhoa0NHSTBTRFRwdDQ4WmVOQQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T13:15:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Pronostican bajas temperaturas en el país por arribo de tormenta invernal AFN",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "359ef07e2ace6810"
+ },
+ {
+  "titulo": "Claudia Sheinbaum respalda a Ximena Santaolalla tras denuncia de abuso",
+  "liga": "https://elcongresista.mx/justicia/claudia-sheinbaum-apoyo-ximena-santaolalla-abuso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:06:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Claudia Sheinbaum respalda a Ximena Santaolalla tras su denuncia de abuso infantil y anuncia reformas para combatir la violencia familiar.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "2abe3ee4dffbafdb"
+ },
+ {
+  "titulo": "Incorporan 208 tiendas de conveniencia en Torreón como Puntos Violeta",
+  "liga": "https://elcongresista.mx/politica/coahuila/208-tiendas-torreon-puntos-violeta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:05:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Se incorporan 208 tiendas en Torreón como Puntos Violeta para ofrecer apoyo a mujeres en riesgo y combatir la violencia.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "0217b9c972f489ba"
+ },
+ {
+  "titulo": "Cesan a médicos del ISSSTE tras riña en Guaymas que dejó heridos",
+  "liga": "https://elcongresista.mx/politica/sonora/cesan-medicos-issste-guaymas-pleito",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:04:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Dos médicos del ISSSTE en Guaymas son cesados tras una riña que dejó a uno con lesiones significativas. Investigación en curso.",
+  "temas": [
+   "Salud",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "31d092d56de5154a"
+ },
+ {
+  "titulo": "Fuerte oleaje alcanza vehículos en plena circulación en el puerto de Ensenada, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd28zYmNHLUF4NUt5S0NveEpHdzJ5SDcwM3BfT2x3NkFyTkZJc0RvWWxjT3VWVTN0ZXp4WDd1MmxHbkhvNVRydHk3R2IwS2ZRWl92NE9laVJPX19HUXNFN1Jpc09INXpPYlpEeUk3YkVKc1ZtZU1uUDRQTW9DLUdQUkpjYi15elg5NDdETmd0RGVlVV84SVJQVVZJdFdTTEw3S3hNeTNITzF5SXNGbGw3d2VyMzlHZ3l3Q0E?oc=5",
+  "medio": "El Piñero, Periodismo y Debate.",
+  "publicada": "2026-11-27T13:03:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Fuerte oleaje alcanza vehículos en plena circulación en el puerto de Ensenada, Baja California El Piñero, Periodismo y Debate.",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "ec9c7459c49c8233"
+ },
+ {
+  "titulo": "Abaten a cuatro presuntos delincuentes tras ataque en Mazatlán",
+  "liga": "https://elcongresista.mx/politica/sinaloa/ataque-mazatlan-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:02:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Cuatro presuntos delincuentes son abatidos en Mazatlán tras ataque armado a policías; un agente resulta herido en un incidente previo.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9c6f6d7d1f6c5fdb"
+ },
+ {
+  "titulo": "Caída de aguanieve en Cerro del Potosí, Nuevo León, genera precauciones",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/caida-aguanieve-cerro-potosi-nuevo-leon",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T13:01:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "En Galeana, Nuevo León, la caída de aguanieve en el Cerro del Potosí genera alertas para automovilistas debido al hielo en la carretera.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ac8aef36f6c808f3"
+ },
+ {
+  "titulo": "Sheinbaum insiste en que la oposición busca poner en duda las elecciones del 2027",
+  "liga": "https://www.uniradioinforma.com/gobierno/sheinbaum-insiste-oposicion-busca-poner-duda-elecciones-2027-n916639",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T13:01:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "\"Ahora están con el tema de que la representación proporcional debería de ser por coaliciones y no por partido político\", señaló.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "b71ed7c0e34de915"
+ },
+ {
+  "titulo": "Mexicali mantiene dinamismo en su actividad comercial",
+  "liga": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2t5OExPTEVrRExZYUdjMmFVZ1YzV3RwVHJULTdobWZuQ2FIYndGT256Z2FVS2lobm9zRzJoTVlsUjlscUk5dVU1MmZIQTJ6cUlyTS1RcVB4SkdVM0xNVHdDZm9MWVVER3hzbk1rVjhoZGM5ejJEZk51SS1qci12SG5aSlZMWElqOVlOVDNpSGRhQQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-27T13:00:17-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Mexicali mantiene dinamismo en su actividad comercial Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5e434818960f7357"
+ },
+ {
+  "titulo": "Asesinan a un hombre dentro de auto con arma blanca",
+  "liga": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVY0RGZHR093ajdUT2VhYVNQRjlHajhSdndmS3JRQjdQc3dTVjE3TUNBQlFleFdoNEZxdFlPZFFmclFlV2JXWU5Ka3daQVNtcFRNUG5DajQtcnR3V3RQcTRkZlZfZ0hMN2xLN0VGNFdDZHVna2NaNFQwX19YOHVfdU9ldElKWFN5YTgxXy0xQ0V3TUJhVnFZ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T12:55:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Asesinan a un hombre dentro de auto con arma blanca AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "2c9056309aec9207"
+ },
+ {
+  "titulo": "Alto Oleaje Provoca Daños en Vivienda de La Joya en Ensenada, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUFJ3cnhJV1k1aGNFenJjZ3owVFNwcy1RSEhzV1pTeTVPZlFxV2oyYU04UXNHc3dtaGdpZ2ZkcHhKQ2t4dnpjT0RZMTJxMTlHLVZ5UU1tUW9Hc2dnemctUlhtcHdlb1dsam5WNXRHUDFFSUFMYkxTQW1pZFF3cFhXLWhCelZBOUc1RkFDNzZic041WWdua2NaRUNoUE5RcHhiNXNRWklUY1dnelpYc1RNR0lZSG9tZ0FZSFFfLVZPS0xRcXU5eUE?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-27T12:53:43-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Alto Oleaje Provoca Daños en Vivienda de La Joya en Ensenada, Baja California N+",
+  "temas": [
+   "Clima"
+  ],
+  "local": true,
+  "id": "7ecf97945f949662"
+ },
+ {
+  "titulo": "Convenio laboral: ¿puede la pena ser mayor que la deuda o seguir creciendo después de que esta se pagó?",
+  "liga": "https://jornadabc.com.mx/opinion/convenio-laboral-puede-la-pena-ser-mayor-que-la-deuda-o-seguir-creciendo-despues-de-que-esta-se-pago/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-27T12:50:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Cuando un trabajador y un patrón llegan a un arreglo, a veces acuerdan que el pago se haga después o en varias parcialidades. Para asegurar que el compromiso se cumpla, se pacta una pena convencional si hay retraso La entrada Convenio laboral: ¿puede la pena ser mayor que la deud",
+  "temas": [
+   "Gobierno del estado"
+  ],
+  "local": true,
+  "id": "61a296715708f79e"
+ },
+ {
+  "titulo": "Zorros y Águilas se enfrentan el 28 de noviembre por el Tazón Baja California",
+  "liga": "https://elcongresista.mx/politica/baja-california/zorros-aguilas-tazon-baja-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:50:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Los equipos Zorros y Águilas disputarán el Tazón Baja California el 28 de noviembre en Mexicali.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "6e1a2e508d964a8f"
+ },
+ {
+  "titulo": "Bomberos de Tijuana atienden dos incendios y un atropellamiento grave",
+  "liga": "https://elcongresista.mx/politica/baja-california/bomberos-tijuana-incendios-atropellamiento",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:49:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Bomberos de Tijuana atendieron dos incendios y un atropellamiento grave en 24 horas, reportando daños severos y movilizando cuerpos de rescate.",
+  "temas": [
+   "Accidentes",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "ea74bd1f9c357bd8"
+ },
+ {
+  "titulo": "Gasolinas en Hidalgo mantienen precios estables hoy, 27 de noviembre",
+  "liga": "https://elcongresista.mx/politica/hidalgo/precios-gasolina-hidalgo-27-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:48:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Los precios de la gasolina en Hidalgo se mantienen estables al 27 de noviembre de 2026. La gasolina Magna oscila entre $23.98 y $23.99.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3fc4ece12862bd90"
+ },
+ {
+  "titulo": "Continúan negociaciones por despido de casi 200 trabajadores de Telnor; hay 43 afectados en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSE1sR29aZHZVX3cycE5Eak84SVI5V0ZyVElveThTMEdCVWVpamNnMzJSb0s4MlA0MVZNRThyOUgtUUtWQ19iakJSQjZhdHB2dl81QXloUFhNejNsSGFBd3k5bUtFY2h4OWJiT084TENPajh6QlhaVy1YNXp0M0FtakpVT0Y4SmVZLWE2T2Z1N1k5aFQzZjcwWW1jTzJULXhDWno1SGN3UlVrVUczamtuUWFEdkZSSkdkZlp1dG9FcTZaRWdYSlZUd2VDWkU2TnZn?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-27T12:48:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Continúan negociaciones por despido de casi 200 trabajadores de Telnor; hay 43 afectados en Mexicali Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e10c06b4c29b80da"
+ },
+ {
+  "titulo": "Primera tormenta invernal en México traerá heladas en Sonora",
+  "liga": "https://elcongresista.mx/politica/sonora/tormenta-invernal-sonora-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:47:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Climas severos en Sonora debido a la primera tormenta invernal del 27 de noviembre, con posibilidad de heladas y lluvias.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "152f2d78d61ca2b6"
+ },
+ {
+  "titulo": "¿A qué hora y por dónde ver el partido entre Steelers y Broncos en México?",
+  "liga": "https://www.uniradioinforma.com/deportes/a-hora-donde-ver-partido-entresteelers-broncos-mexico-n916636",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:47:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "En medio de toda la polémica, los Acereros reciben a los Broncos en el juego de Black Friday de la NFL, este viernes 27 de noviembre.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "6ac55ebfbfe6c5a5"
+ },
+ {
+  "titulo": "Pemex descarta explosión en ducto de Cadereyta tras incendio",
+  "liga": "https://elcongresista.mx/politica/nuevo-leon/pemex-descarta-explosion-ducto-cadereyta",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:46:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Pemex confirma incendio en ducto de Cadereyta y descarta explosión; se investiga posible huachicol.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ea90bb022e456710"
+ },
+ {
+  "titulo": "VIDEO.- Alto oleaje golpea costas de BC por \"El Niño\"; alcanza casas en Ensenada y cierran accesos en Tijuana",
+  "liga": "https://www.uniradioinforma.com/reportajes-especiales/video-alto-oleaje-golpea-costas-bc-el-nino-alcanza-casas-ensenada-cierran-accesos-tijuana-n916563",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "El mar ya alcanzó viviendas en Ensenada y obligó a realizar evacuaciones preventivas, mientras en Tijuana se restringieron accesos a la playa.",
+  "temas": [
+   "Clima",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "62815121dd6e552e"
+ },
+ {
+  "titulo": "Bárbara de Regil sorprende con visita a Santa Martha Acatitla para entrenar a reclusas",
+  "liga": "https://www.uniradioinforma.com/fama/barbara-regil-sorprende-visita-santa-martha-acatitla-entrenar-reclusas-n916633",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:41:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "e784065dc9637cee"
+ },
+ {
+  "titulo": "ICE destaca colaboración con México en captura de “El Chapo Isidro” en Guasave",
+  "liga": "https://zetatijuana.com/2026/11/ice-destaca-colaboracion-con-mexico-en-captura-de-el-chapo-isidro-en-guasave/?utm_source=rss&utm_medium=rss&utm_campaign=ice-destaca-colaboracion-con-mexico-en-captura-de-el-chapo-isidro-en-guasave",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T12:40:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "La FGR y el Gabinete de Seguridad definirán si Meza Flores es extraditado a Estados Unidos, informó Sheinbaum Pardo.",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "638876d27858ae51"
+ },
+ {
+  "titulo": "Musk duplica su promesa: dos acciones de SpaceX por niño",
+  "liga": "https://www.uniradioinforma.com/viral/musk-duplica-su-promesa-dos-acciones-spacex-nino-n916630",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:40:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "a0f6891147c8d8d6"
+ },
+ {
+  "titulo": "Promueve Secretaría de Medio Ambiente segunda vida de libros; recolecta 2,800 ejemplares",
+  "liga": "https://www.uniradioinforma.com/sociedad/promueve-secretaria-medio-ambiente-segunda-vida-libros-recolecta-2800-ejemplares-n916627",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:39:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Con esta colecta de \"Dona tu libro viejo\", en lo que va del 2026 se lograron reunir 8,718 libros, los cuales serán destinados a bibliotecas escolares y a instituciones dedicadas a promover la lectura",
+  "temas": [
+   "Gobierno del estado",
+   "Medio ambiente"
+  ],
+  "local": true,
+  "id": "f016802adcc161ee"
+ },
+ {
+  "titulo": "Escuadrón Violeta apoya a sectores vulnerables mediante operativo de atención social",
+  "liga": "https://www.uniradioinforma.com/sociedad/escuadron-violeta-apoya-sectores-vulnerables-mediante-operativo-atencion-social-n916625",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:38:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Brindan información preventiva a trabajadoras ambulantes en Garita Centro",
+  "temas": [
+   "Migración"
+  ],
+  "local": true,
+  "id": "3db4705027fc3e74"
+ },
+ {
+  "titulo": "Francia entra en recesión técnica tras acumular tres trimestres de caída económica",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbWlzRWRabkRrWTU2cEpRdmZMTUFQcm1DM040UGVIdExtN0N3NWVrQjFQRGdfd2E2MFU2OWNfNERXSnUxWkZ2NF8teDd0X0ZlVWhqSXJDTF8xT1lWNW9fTnVZTmxQOUU4ajczcXlzTi1SbWstTVhpV2t5OFQ5WlFmaEhXcVNqRHh4eTRVQXNPUmNpYjNmejlqQnh0SUJVVWZQVW5OdUxvOFU0Z1MwV3JUN3lsUjZPMFd3?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-27T12:37:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Francia entra en recesión técnica tras acumular tres trimestres de caída económica Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "28a1253c94d1b1e5"
+ },
+ {
+  "titulo": "Reconocen a Marcelo Olán Mendoza por su labor musical en Texas",
+  "liga": "https://elcongresista.mx/cultura/reconocimiento-marcelo-olan-mendoza-hidalgo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:35:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Marcelo Olán Mendoza es reconocido en Hidalgo, Texas, por su contribución a la música y el fomento de la cultura mexicana.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "03666ebbd6e7cbce"
+ },
+ {
+  "titulo": "Morelia: cosechan 18 medallas en Juegos Panamericanos Virtus 2026",
+  "liga": "https://elcongresista.mx/deportes/morelia-18-medallas-juegos-panamericanos-virtus-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:34:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "La delegación de Morelia se destacó con 18 medallas en los Juegos Panamericanos Virtus 2026, incluyendo 2 oros, 6 platas y 10 bronces.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "b07f74eefbe02ead"
+ },
+ {
+  "titulo": "Fiscalía de Michoacán instruye a 160 adolescentes en delitos sexuales",
+  "liga": "https://elcongresista.mx/justicia/fiscalia-michoacan-capacita-adolescentes-delitos-sexuales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:33:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "La Fiscalía de Michoacán capacita a 160 adolescentes sobre prevención y atención a delitos sexuales en una secundaria de Morelia.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "31aaf311e5385c0a"
+ },
+ {
+  "titulo": "Zorros Mxl y Águilas listos para disputar el Tazón Baja California de OEFA",
+  "liga": "https://zetatijuana.com/2026/11/zorros-mxl-y-aguilas-listos-para-disputar-el-tazon-baja-california-de-oefa/?utm_source=rss&utm_medium=rss&utm_campaign=zorros-mxl-y-aguilas-listos-para-disputar-el-tazon-baja-california-de-oefa",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T12:33:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "El juego por el campeonato de la categoría Varsity de la temporada Héctor Méndez Machuca 2026 será este sábado 28 de noviembre en el Estadio Arturo Oviedo Guaderrama.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "77d0e43348df788d"
+ },
+ {
+  "titulo": "Alfredo Ramírez Bedolla propone presupuesto de 111 mil 641 millones para 2027",
+  "liga": "https://elcongresista.mx/politica/michoacan/presupuesto-2027-michoacan",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:33:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "El gobernador de Michoacán, Alfredo Ramírez Bedolla, presenta un presupuesto de 111 mil 641 millones de pesos para el ejercicio 2027, sin nuevas contribuciones.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9811909ed3af8da2"
+ },
+ {
+  "titulo": "Ingresan 175 mil armas de fuego anualmente de EE. UU. a México",
+  "liga": "https://elcongresista.mx/politica/michoacan/ingresos-armas-eeuu-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T12:32:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Según Carlos Pérez Ricart, 175 mil armas ingresan anualmente a México desde EE. UU., lo que alimenta la violencia en el país.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "21fe585b25a63810"
+ },
+ {
+  "titulo": "“Hechizo: Bienvenidos a Hexe”, encuentra su magia en la emoción",
+  "liga": "https://zetatijuana.com/2026/11/hechizo-bienvenidos-a-hexe-encuentra-su-magia-en-la-emocion/?utm_source=rss&utm_medium=rss&utm_campaign=hechizo-bienvenidos-a-hexe-encuentra-su-magia-en-la-emocion",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T12:25:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Aunque recurre a fórmulas conocidas dentro del cine fantástico, la nueva producción original de Walt Disney Studios en más de tres años encuentra su mayor valor en las relaciones familiares y su profundidad emocional.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "34b4e8f54de1e505"
+ },
+ {
+  "titulo": "Isaac del Toro cumple 23 años y regresa a entrenar por las calles de Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUJCWE9KbDV3LVZMX0dlQUtoNk9xaV9qVWM1U21RemdIR0lPcE5iQkY2a3NTbFRJMWJBdWhnQVZWdG1ma0FBVDYxYTZoRUlONk1faFI1UGdhNUpnbl92QlRPd2Q2Rk45ekU4WWlXcnhvWFhsckJGS2NIY0V3cDNYRXNLcEl6MHVQTDNWbW4wWC1tQkU2cXFFUzZ0dm9hTlRKVVRIME4yMk1NcWt5QXh6a1Rn?oc=5",
+  "medio": "Baja News",
+  "publicada": "2026-11-27T12:23:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Isaac del Toro cumple 23 años y regresa a entrenar por las calles de Ensenada Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "eacb05f76d3970c9"
+ },
+ {
   "titulo": "Mareas altas en Baja California alcanzan 35 cm sobre promedio",
   "liga": "https://elcongresista.mx/politica/baja-california/mareas-altas-baja-california",
   "medio": "El Congresista",
@@ -103,6 +783,20 @@
   "id": "cd1957bbe17f7478"
  },
  {
+  "titulo": "En dos minutos, DEA responde a periodista que ofreció información sobre presuntos narcopolíticos",
+  "liga": "https://www.uniradioinforma.com/sociedad/en-dos-minutos-dea-responde-periodista-ofrecio-informacion-sobre-presuntos-narcopoliticos-n916623",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:16:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "El director de la DEA dio a conocer líneas de denuncia para recibir información sobre organizaciones terroristas extranjeras.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "6a6ba49997c20905"
+ },
+ {
   "titulo": "México presenta queja formal a Estados Unidos por líneas de denuncia habilitadas por la DEA",
   "liga": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlJDMjF5ZktzUWMzWE9iVlZUSFRESVlzQjdoMjRlZFlTS0M5ZGJmckJVa2N0TlJyQmFJTDFiWUI3YVBtLWRUNS16NUh1d2ZfeFBPRG95RkcwdkpVZ0s0bURicHB6dEEtWWZpSUduNTluVkRWVjRHTW5XN1VTR3RwTlNCNi04VjVRajFHdnNRaWJkVUt3aFdPM1doYjJYRFY1NkV6MWNGX1Y2dEM5TWgxZi05TlBIVkxtTW5OdUYtU2ViSG5o?oc=5",
   "medio": "BajaNews",
@@ -115,6 +809,34 @@
   ],
   "local": false,
   "id": "b15900b4841ffb47"
+ },
+ {
+  "titulo": "Asegura Policía Municipal a un hombre en posesión más de 50 envoltorios con presunta droga",
+  "liga": "https://www.uniradioinforma.com/policiaca/asegura-policia-municipal-hombre-posesion-mas-50-envoltorios-presunta-droga-n916618",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "5578de293c61553d"
+ },
+ {
+  "titulo": "Reúne Unison a 458 estudiantes de México y el extranjero en concurso de semiconductores e IA",
+  "liga": "https://www.uniradioinforma.com/sociedad/reune-unison-458-estudiantes-mexico-extranjero-concurso-semiconductores-e-ia-n916620",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T12:10:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "La Universidad de Sonora celebró la segunda edición del concurso internacional AI Smart Electronic Design (AI-SED 2026).",
+  "temas": [
+   "Educación"
+  ],
+  "local": true,
+  "id": "170509af5135bff3"
  },
  {
   "titulo": "Patrulla choca en Centro Cívico de Mexicali: quedan heridos policías y el detenido que llevaban",
@@ -2079,6 +2801,20 @@
   "id": "2ed4ce653dd1ace7"
  },
  {
+  "titulo": "Toros de Tijuana y Diablos Rojos del México se enfrentarán en el Petco Park de San Diego en 2027",
+  "liga": "https://oem.com.mx/elsoldetijuana/deportes/toros-de-tijuana-y-diablos-rojos-del-mexico-se-enfrentaran-en-el-petco-park-de-san-diego-en-2027-33338969",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-27T08:16:07-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Los tijuanenses enfrentarán a los capitalinos en la Serie Fiesta Mexicana, del 24 al 26 de abril",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "fb99fd7f96fe821e"
+ },
+ {
   "titulo": "Tribunal colegiado frena orden de aprehensión contra Vadhir Derbez por denuncia de violación",
   "liga": "https://jornadabc.com.mx/principales/tribunal-colegiado-frena-orden-de-aprehension-contra-vadhir-derbez-por-denuncia-de-violacion/",
   "medio": "La Jornada Baja California",
@@ -2237,6 +2973,34 @@
   ],
   "local": false,
   "id": "dae8d7e1c2cc24b8"
+ },
+ {
+  "titulo": "Tipo de cambio en Tijuana",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/tipo-de-cambio-en-tijuana-33338429",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-27T07:41:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Consulta aquí la compra y venta del dólar en los bancos de México",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "db41b141f595bc34"
+ },
+ {
+  "titulo": "Choca patrulla municipal sobre López Mateos",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/choca-patrulla-municipal-sobre-lopez-mateos-33338236",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-27T07:31:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "Sobre el mismo bulevar pero en la colonia Primera Sección, una oficial ciclista, fue atropellada",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "7635c2714eb55778"
  },
  {
   "titulo": "Sheinbaum: pobreza laboral en México cayó 3.8% en 2026",
@@ -2859,6 +3623,21 @@
   ],
   "local": false,
   "id": "c3f259797a21d3ce"
+ },
+ {
+  "titulo": "Genera comercio 54 mil empleos formales en Mexicali",
+  "liga": "https://oem.com.mx/lavozdelafrontera/local/genera-comercio-54-mil-empleos-formales-en-mexicali-33338580",
+  "medio": "La Voz de la Frontera",
+  "publicada": "2026-11-27T05:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T13:37:04-06:00",
+  "resumen": "El sector aporta 32 mil millones de pesos al PIB local y concentra el 20% de los trabajadores registrados ante el IMSS",
+  "temas": [
+   "Salud",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "5360179130a3c5e9"
  },
  {
   "titulo": "VOX destaca en la gala del XXV Certamen Cultural Virgen de las Viñas",
