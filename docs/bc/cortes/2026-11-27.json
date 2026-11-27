@@ -1,5 +1,397 @@
 [
  {
+  "titulo": "Isla Mujeres se une a la estrategia “Libres y Seguras” de Quintana Roo",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/isla-mujeres-libres-y-seguras",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T23:05:23-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Isla Mujeres se une a la estrategia \"Libres y Seguras\" de Quintana Roo, enfocada en proteger a mujeres, niñas y adolescentes.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fe02b270421105be"
+ },
+ {
+  "titulo": "CNTE retoma diálogo con gobierno; acordaron tres mesas para diciembre",
+  "liga": "https://elcongresista.mx/educacion/cnte-dialogo-gobierno-tres-mesas-diciembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T23:01:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "La CNTE retoma diálogo con el gobierno federal y acuerda tres mesas de negociación para abordar demandas educativas.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "e08015ac37620b6b"
+ },
+ {
+  "titulo": "Canacintra otorga el Águila 2026 a 31 diputados y senadores destacados",
+  "liga": "https://elcongresista.mx/politica/nacional/premia-canacintra-31-diputados-senadores-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T23:00:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Canacintra premió a 31 diputados y senadores en 2026, reconociendo su labor en defensa de la economía mexicana.",
+  "temas": [
+   "Política y partidos",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "ea2edd876a140843"
+ },
+ {
+  "titulo": "Asesinan a hombre en la colonia Empleado Postal en Tijuana; hay dos detenidos",
+  "liga": "https://zetatijuana.com/2026/11/asesinan-a-hombre-en-la-colonia-empleado-postal-en-tijuana-hay-dos-detenidos/?utm_source=rss&utm_medium=rss&utm_campaign=asesinan-a-hombre-en-la-colonia-empleado-postal-en-tijuana-hay-dos-detenidos",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T22:53:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Un hombre fue asesinado a balazos la tarde de este jueves 26 de noviembre en la colonia Empleado Postal, en Tijuana. Tras un operativo, agentes municipales detuvieron a dos presuntos responsables, quienes fueron puestos a disposición de la autoridad correspondiente.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "bf08128d4e848f01"
+ },
+ {
+  "titulo": "‘Los juegos del hambre: Amanecer en la cosecha’ debuta con 225 millones de dólares en taquilla",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGQ4d1hJTnhJZXdGZGd3dVZqdzBKdWlEOHJodnB6QnNaR3lQY0cxU2p1R29tcXh6M3NoMFc1SmJJd0g1WnM4cnNEWXZSaHZtUjAzZXpIbGREeDBtdDRraDEwR2VlbHZsT0J5aEw4QU1TbUpremFVbm9icHFkMHpGcDd3ZV9WY3R5RXVyYi00R0xfSWZJbzdTWXV0c3RUcWlFbExKRmUzaDhQNFZLeFVSVGlfcE9ZX3ZnRmxWUjRDY1owc1ZFaEJXQlg2Q2c4QQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T22:53:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "‘Los juegos del hambre: Amanecer en la cosecha’ debuta con 225 millones de dólares en taquilla Baja News",
+  "temas": [
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "4e75298707f86822"
+ },
+ {
+  "titulo": "Entrega DIF El Mante apoyos de pañales a familias vulnerables",
+  "liga": "https://elcongresista.mx/tamaulipas/dif-el-mante-panales-beneficiarios",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T22:53:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "DIF El Mante entrega pañales a familias vulnerables, garantizando que los apoyos lleguen a quienes más lo necesitan.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "75f3ee42855e608a"
+ },
+ {
+  "titulo": "Aprueba Ciudad Madero presupuesto de 1,059 millones para 2027",
+  "liga": "https://elcongresista.mx/tamaulipas/ciudad-madero-presupuesto-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T22:52:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "El Cabildo de Ciudad Madero aprobó un presupuesto de 1,059 millones de pesos para 2027, destinando 225 millones a inversión pública.",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "3e97f81f49ff408f"
+ },
+ {
+  "titulo": "Aumenta 50% la delincuencia en carreteras México-Pachuca y México-Tulancingo",
+  "liga": "https://elcongresista.mx/politica/hidalgo/canacar-aumento-delincuencia-mexico-pachuca-tulancingo",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T22:47:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "La Canacar reporta un incremento del 50% en los asaltos en las carreteras México-Pachuca y México-Tulancingo, preocupando a los transportistas.",
+  "temas": [
+   "Seguridad",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "4fcf420e7ad99a93"
+ },
+ {
+  "titulo": "Olas de hasta 5 metros atraen a curiosos en Rosarito",
+  "liga": "https://jornadabc.com.mx/principales/olas-de-hasta-5-metros-atraen-a-curiosos-en-rosarito/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T22:47:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Protección Civil pidió no confiarse durante periodos de aparente calma, ya que el oleaje puede presentarse en series La entrada Olas de hasta 5 metros atraen a curiosos en Rosarito se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Clima",
+   "Movilidad",
+   "Emergencias"
+  ],
+  "local": true,
+  "id": "f0bc4f93e27c16e8"
+ },
+ {
+  "titulo": "Hay energía, pero no cómo llevarla: apagones en Tijuana seguirían de dos a tres años, prevé Coparmex",
+  "liga": "https://www.uniradioinforma.com/sociedad/hay-energia-pero-como-llevarla-apagones-tijuana-seguirian-dos-tres-anos-preve-coparmex-n916324",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-26T22:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "La presidenta de Coparmex Tijuana, Elisa Ibáñez Aldana, explicó que la generación eléctrica aumentó, pero las obras de transmisión y distribución siguen pendientes.",
+  "temas": [
+   "Servicios públicos"
+  ],
+  "local": true,
+  "id": "dcfd7c264672f3ff"
+ },
+ {
+  "titulo": "Del Toro e Hinojosa abren camino a una nueva generación de ciclistas",
+  "liga": "https://jornadabc.com.mx/principales/del-toro-e-hinojosa-abren-camino-a-una-nueva-generacion-de-ciclistas/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T22:43:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "\"Es muy inspirador ver a mexicanos compitiendo en el mejor nivel, pues mostraron el camino para que más ciclistas lleguen\" La entrada Del Toro e Hinojosa abren camino a una nueva generación de ciclistas se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "36b21fffeb603a77"
+ },
+ {
+  "titulo": "Alto oleaje provoca daños en el mirador principal de La Bufadora",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGdvQThDUFdwRE5UNFRqdGplSkRudlMtRi1LVlFvWUV1QUY3d21jU21vZ3VKdXBHZHFicGV4T2pSZXJQNllual9SNUowQTBSOEtVak9temNEY1VVSVF6NFlLeTlWcGM0amFLSkNseUZyY3pfOEtNWm52TWxGZ3dvWlRIOFdWOWdablF0bG1sYVJxZC1OemZ1bzNJZm5CRDN2N2pXbWhCWmo2aXREOWhZb2RaZ0JYdw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T22:41:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Alto oleaje provoca daños en el mirador principal de La Bufadora AFN",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "1fccc6d47b4325c5"
+ },
+ {
+  "titulo": "Se van tres juzgados civiles junto a la cárcel",
+  "liga": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rQjdYbUU5SXdzd0dINlNxUXZhMlNKUjNqaXhONU9kMHBmQ21lbnhYLU1SemZyNHZncUVnSk1Uc2xhRndJOC1uMkNnZTZfdkFEeVRnaWtqOF81MWc?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-26T22:40:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Se van tres juzgados civiles junto a la cárcel Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "945df6e4197ec64a"
+ },
+ {
+  "titulo": "¿Qué fue lo que más escuchaste este año? Spotify Wrapped 2026 está por llegar",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUpjMEhhZ1gwRGpJYlhwbFR0dzZWV2J6dkgzdWJrTFN1OFlQLWdfNlc0WHhGWTJURWdRMG5iN2lVWHRsekdzNU03TE9zRzFYT3FSamRuUGhQYkI4Y01YWk1HZDJyVzZUeWctWVdkV2xXak9FTGozNjhvM21YcFhVb0g3NEFrcnRUa3RoYm9iZDVTZmdQR2ZrM2lGZkloSWNBaHI4UTd1NndsclJxRXNidEktUTBoNzFR?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T22:37:39-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "¿Qué fue lo que más escuchaste este año? Spotify Wrapped 2026 está por llegar Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "97f35f848aa785ef"
+ },
+ {
+  "titulo": "Detienen a hijo de presunto integrante de Los Rusos, en Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaE1NVS10d3hRSTliZ0VhNHFydllNTkhXajhwNTZMUlBCdTIwaDhpMkJPeVNDT245NlhDNDBwejc3WHhvY1RUTWlYMm1GczRFdkhBZm5GamRHUTRzelk2MldfTjZGT0tSVzEwTUtoU3p5WEQ0bmk5YTNKRUc3T1pxTmhQZndISnJtc1l6TWJLSHpfcVFCZzZsaklXZFRoYTJ3Slg0VmZ6Yw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T22:37:28-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Detienen a hijo de presunto integrante de Los Rusos, en Mexicali AFN",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "8e10da6c5a17bfbc"
+ },
+ {
+  "titulo": "Congreso de Baja California revisará presupuesto para 2027 del 2 al 10 de diciembre",
+  "liga": "https://elcongresista.mx/politica/baja-california/congreso-baja-california-presupuesto-2027",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T22:35:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "El Congreso de Baja California revisará del 2 al 10 de diciembre el presupuesto 2027, definiendo tarifas de impuestos y servicios públicos.",
+  "temas": [
+   "Gobierno del estado",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "722bf2618644c634"
+ },
+ {
+  "titulo": "Movimiento Ciudadano en Michoacán realiza colecta para 500 familias",
+  "liga": "https://elcongresista.mx/politica/michoacan/colecta-navidena-morelia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T22:30:50-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Movimiento Ciudadano convoca a colecta navideña en Morelia para ayudar a 500 familias vulnerables del 25 de noviembre al 17 de diciembre.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "31ccb479fef8d233"
+ },
+ {
+  "titulo": "Aprueban diputados el calendario para presentar presupuestos a municipios y paraestatales",
+  "liga": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemhSRjFwOHRRRXREdmVyZms2VDM1UG15aTNTTEFkbjAtdUdWWXlkRmNNYW51eW56OGJ1bGJjNDlpQzBHQUotcUs1LTE4Yk91bnh0YmlreW5zZHQ5eFhrNjJfRkU5Q1JvOXo2X1pCa0FLaFpTU0I5ZThGVExkRWZKTU9obU5HLWRSS2Nua21Cb2Y1Mm9RTVU2bXRuVVJaS1ZaenhGSW5DNG5LRkVaQWNUTlNzUldkTFRHSW40WWNiT0U1OTFPSXR0OS1UNVlqZEJxME1MemhpYw?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T22:27:33-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Aprueban diputados el calendario para presentar presupuestos a municipios y paraestatales AFN",
+  "temas": [
+   "Política y partidos",
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "76d7357db1e62610"
+ },
+ {
+  "titulo": "Matan a tiros a un hombre en la colonia Postal",
+  "liga": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPelFjSmZyUE8tWE5wUTVxZldmaktYbHJObG9wTXZyS0ZQeDdyOS1yanBHT2dPZF9xbmpyVnA3TmpQZVJhNzR6QVZtcmt2ZlpRcmc4Y0NvV3dPMDdOZzZxWC1VTXlaWWVMQzF2M2FaeHJqNmZRLV9ZWmlMSHRUR3ZqcVgxb0ZtZEhZSUJKWTZUZUs?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T22:24:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Matan a tiros a un hombre en la colonia Postal AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "2c18bce981ea63d1"
+ },
+ {
+  "titulo": "Entregan Javier Díaz y Luly López centro comunitario por 4.3 mdp en la Guayulera",
+  "liga": "https://elcongresista.mx/politica/coahuila/entrega-centro-comunitario-guayulera",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T22:19:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Javier Díaz y Luly López inauguraron un centro comunitario en la Guayulera, con una inversión de 4.3 millones de pesos que beneficiará a las familias locales.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "81a4b33d150ff588"
+ },
+ {
+  "titulo": "Klaveness reconoce difícil destituir a Infantino en la FIFA",
+  "liga": "https://elcongresista.mx/politica/nacional/klaveness-infantino-futbol-fifa-elecciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T22:18:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Lise Klaveness reconoce la dificultad de destituir a Gianni Infantino de la presidencia de la FIFA en las elecciones de marzo.",
+  "temas": [
+   "Proceso electoral",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "6e84495064a3a078"
+ },
+ {
+  "titulo": "Ayuntamiento de Guasave gasta más de 1 MDP tras jornada violenta",
+  "liga": "https://elcongresista.mx/politica/sinaloa/ayuntamiento-guasave-gasto-emergencia-violencia",
+  "medio": "El Congresista",
+  "publicada": "2026-11-26T22:18:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "El Ayuntamiento de Guasave reporta un gasto superior a un millón de pesos tras la jornada violenta del 20 de noviembre.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "869b483cc36fa38e"
+ },
+ {
+  "titulo": "Aprueba Congreso fechas de comparecencias para leyes de Ingresos y Egresos",
+  "liga": "https://jornadabc.com.mx/02_secundarias/aprueba-congreso-fechas-de-comparecencias-para-leyes-de-ingresos-y-egresos/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T22:16:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Del 2 al 10 de diciembre recibirán las propuestas de ayuntamientos, con excepción de San Quintín; poderes Ejecutivo y Judicial y organismos autónomos; Tijuana arrancará y el Gobierno del Estado cerrará las presentaciones La entrada Aprueba Congreso fechas de comparecencias para l",
+  "temas": [
+   "Gobierno del estado",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "6d031f9281d88510"
+ },
+ {
+  "titulo": "Casa de los Pobres comparte comida de Acción de Gracias con mil personas",
+  "liga": "https://jornadabc.com.mx/principales/casa-de-los-pobres-comparte-comida-de-accion-de-gracias-con-mil-personas/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T22:15:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "La institución mantiene abierta la recepción de donativos económicos y en especie, principalmente alimentos de la canasta básica La entrada Casa de los Pobres comparte comida de Acción de Gracias con mil personas se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d8b4c66698bbb3f6"
+ },
+ {
+  "titulo": "Autoridades mantienen monitoreo permanente por oleaje y marea alta en BC",
+  "liga": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbERsVXVwNmZmWXBpWE5DWXpFUldaOTVpUS0taXByQTJhZDluUUluZFBwQ2s3eG53UGsxV09wc25GTnpiMURrS01id3VmZW1aZVdNN0lYbmVJci1YcEtsV1M1SUM1NWNvUGwzZVlwMTUxZnR0NVd5RWtNVFpackxDaVNZRkEyWjl2Q2NzNFRmVUJqeFpLOHlzRVNFZGlEaXc5UzZhQklUM3Bka3d4a1Nld01OYkg1RFdxdTQ4VmpFdmM?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-26T22:07:54-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Autoridades mantienen monitoreo permanente por oleaje y marea alta en BC AFN",
+  "temas": [
+   "Clima"
+  ],
+  "local": false,
+  "id": "850f87a82c3c072a"
+ },
+ {
+  "titulo": "Plan de Justicia de San Quintín reporta avances en electrificación, agua y regularización de predios",
+  "liga": "https://zetatijuana.com/2026/11/plan-de-justicia-de-san-quintin-reporta-avances-en-electrificacion-agua-y-regularizacion-de-predios/?utm_source=rss&utm_medium=rss&utm_campaign=plan-de-justicia-de-san-quintin-reporta-avances-en-electrificacion-agua-y-regularizacion-de-predios",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-26T22:07:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Autoridades de los tres niveles de gobierno informaron avances del Plan de Justicia de San Quintín en infraestructura eléctrica e hídrica, así como en la regularización de predios, durante una reunión de seguimiento realizada este jueves.",
+  "temas": [
+   "Agua"
+  ],
+  "local": true,
+  "id": "ebdcfe4835d4d507"
+ },
+ {
+  "titulo": "Detienen a dos por asesinato de hombre en colonia Postal en Tijuana",
+  "liga": "https://jornadabc.com.mx/principales/detienen-a-dos-por-asesinato-de-hombre-en-colonia-postal-en-tijuana/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-26T22:05:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Los hechos ocurrieron poco antes de las 16:00 horas. Paramédicos llegaron al lugar y confirmaron que el hombre ya no tenía signos vitales La entrada Detienen a dos por asesinato de hombre en colonia Postal en Tijuana se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": true,
+  "id": "f6988233ac71e37e"
+ },
+ {
   "titulo": "Comunicado de UGRT resalta extorsión de ganaderos en Tamaulipas",
   "liga": "https://elcongresista.mx/tamaulipas/comunicado-ugrt-extorsion-ganaderos-tamaulipas",
   "medio": "El Congresista",
@@ -99,6 +491,20 @@
   ],
   "local": true,
   "id": "d7844d212aed3f65"
+ },
+ {
+  "titulo": "Tormentas dejan casi 640 mil usuarios sin electricidad y afectan mil 500 vuelos en Estados Unidos",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0tDNE9ld2NGQllucktPeVVKNms3MUpOZWlmX3hvcjA5empmSjVvT3UxZDI2TnFTZHd5TWtHeXhiQlJNT2FOQXVvcGtNV3pzY3FnYjFMMXNhMEtOT0VfR2tnT0tETTJnV0F1NW51cUgza2JvajdYRzg5VTRCRkNiTVF0MWdTLTAtMW51UWhRZGhMZmJxdHBnbmZjZllrY0YzaER2djhIb2NQOWttS2xVOTdoTGhEYlhTZzRsNTlGNVZtazRrN1NMdkJqUW83dWFCS1BZ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T21:53:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Tormentas dejan casi 640 mil usuarios sin electricidad y afectan mil 500 vuelos en Estados Unidos Baja News",
+  "temas": [
+   "Emergencias"
+  ],
+  "local": false,
+  "id": "7561a496852460cc"
  },
  {
   "titulo": "Ensenada declara alerta permanente por fenómenos de El Niño",
@@ -351,6 +757,20 @@
   "id": "d980b8ad7f99980e"
  },
  {
+  "titulo": "Matan a balazos a un hombre frente a domicilio en la colonia Postal de Tijuana",
+  "liga": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdElNTnNta1F5S1d2dTl5RnRraFJZVjJGWGFWdWZEcHhjTW5CcXlMN0c4dXFPM2RtYndNUEJHYkpmaWd5Tkh4SFBTS2VUY1pkM3NzTEpoWTkzYWVLMTRYYkpBRHZYWUJNeTRZM2REaUY3T2d0YktiYWVrMURYdllvejZoV0pSUU16TUpMRGEtcFZNUjlldjVNM0Jab2VfMnMzbDctY0t2VUtFSEVfVFk3YXZfZHo?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T21:23:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Matan a balazos a un hombre frente a domicilio en la colonia Postal de Tijuana Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "5bc9f4a799755780"
+ },
+ {
   "titulo": "Morena evalúa nuevas encuestas en Nuevo Laredo para definir candidato",
   "liga": "https://elcongresista.mx/tamaulipas/morena-nuevo-laredo-encuestas-candidato",
   "medio": "El Congresista",
@@ -552,6 +972,20 @@
   "id": "83ad7aba62468397"
  },
  {
+  "titulo": "México analiza con Estados Unidos posibles cambios a los lanzamientos de SpaceX desde Texas",
+  "liga": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeVpBbHpGN3kzT3Awc1ZwMFBLWTBkMTc4NnpseHgwbHZBaks3ckdUNFVaanZtLUNxNjJ1RzRaSFJkbFllVTlLLV9ITkdqS2MzRTJjTEJmMUZ0UVpxSk1wZVdHSUZrQzVQQVlLdWI0QXF5M296TTdhdnlOZkVUSEptVVlMNVhWZUNkS1A3Y2NuZlNmWmZJSDVQWXVMRzJfcEozazUyWlFhM28xMDI0WmVRR1htWG1GQ0VfbEp1eW41YWhkX1Z4c2wxVThrSVZjT0Z3dW5oTg?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-26T21:00:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "México analiza con Estados Unidos posibles cambios a los lanzamientos de SpaceX desde Texas Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "0002abdcb1cc4ff4"
+ },
+ {
   "titulo": "Morelos impulsa agenda turística 2027 en asamblea de Asetur",
   "liga": "https://elcongresista.mx/morelos/morelos-agenda-turistica-asetur",
   "medio": "El Congresista",
@@ -622,6 +1056,22 @@
   ],
   "local": true,
   "id": "b49617408a40f21f"
+ },
+ {
+  "titulo": "Oleaje de hasta cinco metros amenaza costas del Pacífico en BC; agua entró a zona habitacional",
+  "liga": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3dOZGFkMklqS3Q2Q0txcmxBMWtGS002bTFhQUdSdmdWRDJxeW1nVktsOTlrM3pqUEdOTEF3Y29HRXluR0VmeGZWTFBuRGZaY3I2YmdnNVM3M2NfZm5yVi1IaUY0QnRKT2pDMjJrMjFPZS1pRTZickRNTzBzaGt2d2NoRXRlUDh2M0pLdmtDRdIBjwFBVV95cUxOa3dOZGFkMklqS3Q2Q0txcmxBMWtGS002bTFhQUdSdmdWRDJxeW1nVktsOTlrM3pqUEdOTEF3Y29HRXluR0VmeGZWTFBuRGZaY3I2YmdnNVM3M2NfZm5yVi1IaUY0QnRKT2pDMjJrMjFPZS1pRTZickRNTzBzaGt2d2NoRXRlUDh2M0pLdmtDRQ?oc=5",
+  "medio": "Milenio",
+  "publicada": "2026-11-26T20:47:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Oleaje de hasta cinco metros amenaza costas del Pacífico en BC; agua entró a zona habitacional Milenio",
+  "temas": [
+   "Clima",
+   "Agua",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "b5b6837b64ea1a08"
  },
  {
   "titulo": "Designación de Rector de la UMSNH será el 17 de diciembre",
@@ -872,6 +1322,20 @@
   "id": "8f9637460b5562e4"
  },
  {
+  "titulo": "Más de 22 emprendimientos y actividades navideñas darán vida al Riviera Xmas Market",
+  "liga": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOcl95TlpsOVBTSlRwMkpJSDZLUldUSUpaVFU2c3RPV1djMjZlN3FQM3VnclotYXlfMDAwOXV1M3lXVEZIZDJ3SFdDd1RwMU5jTVRJ?oc=5",
+  "medio": "EnsenadaHoy",
+  "publicada": "2026-11-26T20:22:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Más de 22 emprendimientos y actividades navideñas darán vida al Riviera Xmas Market EnsenadaHoy.com",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "d5fb78fe79a7cc84"
+ },
+ {
   "titulo": "PRI denuncia a Norma Bustamante por apoyar a aspirante de Morena",
   "liga": "https://elcongresista.mx/politica/baja-california/pri-denuncia-norma-bustamante-support-morena",
   "medio": "El Congresista",
@@ -915,6 +1379,20 @@
   ],
   "local": false,
   "id": "110c21c0a56be867"
+ },
+ {
+  "titulo": "Últimas Noticias en Ensenada, Baja California",
+  "liga": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3Ryc21qUlMyVGJEM3d1N0E2VVZweGNCVEkydGdLd1dVWDJSYUJWdEpSd3RFaXhhSUZBajZFX0RLOUtJRHpaaUVXczhreFU3dGJXZFdXQlZFQmUzYmFMRHRQZFhkU0c1NDB4NWozMnpiNExudi1WeWF2R1pGaVpTcWgzaDZpWnVfZmkyaGxR?oc=5",
+  "medio": "Ensenada.net",
+  "publicada": "2026-11-26T20:15:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-26T23:16:40-06:00",
+  "resumen": "Últimas Noticias en Ensenada, Baja California Ensenada.Net",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "287e3a808a765c0c"
  },
  {
   "titulo": "Congreso de Sonora aprueba licencias digitales y regula incrementos al predial",

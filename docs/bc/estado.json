@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-26T22:05-06:00",
+ "actualizado": "2026-11-26T23:16-06:00",
  "corte": "2026-11-27",
  "ventana": [
   "2026-11-26T18:30-06:00",
   "2026-11-27T18:30-06:00"
  ],
- "total": 140,
+ "total": 173,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -40,8 +40,8 @@
   },
   {
    "fuente": "Punto Norte",
-   "ok": true,
-   "notas": 10
+   "ok": false,
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   {
    "fuente": "El Congresista",
@@ -50,8 +50,8 @@
   },
   {
    "fuente": "El Portavoz",
-   "ok": true,
-   "notas": 12
+   "ok": false,
+   "error": "ParseError: mismatched tag: line 93, column 2"
   },
   {
    "fuente": "La Voz de la Frontera",
@@ -80,33 +80,33 @@
   },
   {
    "fuente": "Google News: site:bajanews.mx",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 100
   },
   {
    "fuente": "Google News: site:afntijuana.info",
    "ok": true,
-   "notas": 87
+   "notas": 92
   },
   {
    "fuente": "Google News: site:zonanorte.mx",
    "ok": true,
-   "notas": 2
+   "notas": 1
   },
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 55
+   "notas": 53
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 4
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 44
+   "notas": 63
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
@@ -125,8 +125,8 @@
   },
   {
    "fuente": "Google News: Ensenada (detenido OR detienen) funcionario",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "notas": 0
   }
  ]
 }
