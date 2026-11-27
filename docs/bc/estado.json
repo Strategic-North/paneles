@@ -1,12 +1,12 @@
 {
  "panel": "Baja California · Ensenada",
- "actualizado": "2026-11-27T15:33-06:00",
+ "actualizado": "2026-11-27T16:33-06:00",
  "corte": "2026-11-27",
  "ventana": [
   "2026-11-26T18:30-06:00",
   "2026-11-27T18:30-06:00"
  ],
- "total": 651,
+ "total": 684,
  "fuentes": [
   {
    "fuente": "El Vigía",
@@ -21,7 +21,7 @@
   {
    "fuente": "El Imparcial",
    "ok": true,
-   "notas": 7
+   "notas": 6
   },
   {
    "fuente": "Zeta Tijuana",
@@ -40,8 +40,8 @@
   },
   {
    "fuente": "Punto Norte",
-   "ok": false,
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "ok": true,
+   "notas": 10
   },
   {
    "fuente": "El Congresista",
@@ -50,8 +50,8 @@
   },
   {
    "fuente": "El Portavoz",
-   "ok": false,
-   "error": "ParseError: mismatched tag: line 93, column 2"
+   "ok": true,
+   "notas": 12
   },
   {
    "fuente": "La Voz de la Frontera",
@@ -96,17 +96,17 @@
   {
    "fuente": "Google News: site:nmas.com.mx/baja-california",
    "ok": true,
-   "notas": 48
+   "notas": 47
   },
   {
    "fuente": "Google News: site:milenio.com Ensenada",
    "ok": true,
-   "notas": 7
+   "notas": 5
   },
   {
    "fuente": "Google News: site:ensenada.net/noticias",
    "ok": true,
-   "notas": 64
+   "notas": 66
   },
   {
    "fuente": "Google News: site:ensenadahoy.com/noticias",
