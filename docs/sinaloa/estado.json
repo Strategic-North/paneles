@@ -1,17 +1,17 @@
 {
  "panel": "Sinaloa",
- "actualizado": "2026-11-27T04:33-06:00",
+ "actualizado": "2026-11-27T05:29-06:00",
  "corte": "2026-11-27",
  "ventana": [
   "2026-11-26T18:30-06:00",
   "2026-11-27T18:30-06:00"
  ],
- "total": 270,
+ "total": 280,
  "fuentes": [
   {
    "fuente": "Noroeste",
    "ok": true,
-   "notas": 76
+   "notas": 77
   },
   {
    "fuente": "Noroeste",
@@ -96,7 +96,7 @@
   {
    "fuente": "Lado.mx",
    "ok": true,
-   "notas": 1
+   "notas": 3
   },
   {
    "fuente": "Noticiero Altavoz",
