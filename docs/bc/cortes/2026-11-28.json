@@ -1,5 +1,333 @@
 [
  {
+  "titulo": "Baja California, cuarto estado con mayor alza de precios del país; en Mexicali subieron 2.90 % y en Tijuana bajaron",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-cuarto-estado-mayor-alza-precios-pais-mexicali-subieron-290-tijuana-bajaron-n915924",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-28T08:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "El fin de la tarifa de verano de la CFE en Mexicali llevó la inflación quincenal del estado a 1.27 %, más del doble del promedio nacional.",
+  "temas": [
+   "Servicios públicos",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "b588e6bf0cd6cc0e"
+ },
+ {
+  "titulo": "Bayern München busca mantener liderazgo ante Hamburger SV",
+  "liga": "https://elcongresista.mx/politica/nacional/bayern-munchen-hamburger-sv-estadisticas-horario",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:34:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "Bayern München se enfrenta al Hamburger SV en la Bundesliga. Detalles del partido, estadísticas y alineaciones.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "eac606a422843751"
+ },
+ {
+  "titulo": "Senado aprueba suspensión de PASO con 43 votos a favor y 29 en contra",
+  "liga": "https://elcongresista.mx/politica/nacional/senado-aprueba-suspension-paso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:31:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "El Senado argentino aprueba la suspensión de las PASO, afectando el futuro del peronismo y la candidatura de Axel Kicillof.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ee92fa039a10ac5f"
+ },
+ {
+  "titulo": "Sinaloa reporta 169 asesinatos en octubre; guerra entre cárteles crece",
+  "liga": "https://elcongresista.mx/politica/sinaloa/sinaloa-169-asesinatos-octubre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:18:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "En octubre de 2024, Sinaloa reporta 169 asesinatos, intensificándose la lucha entre cárteles en medio de un clima de terror.",
+  "temas": [
+   "Seguridad",
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "5a03af43a130c3b4"
+ },
+ {
+  "titulo": "Macy’s reprograma desfile tras lluvias: más de 900,000 sin luz",
+  "liga": "https://elcongresista.mx/politica/nacional/nyc-macies-desfile-sin-luz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:17:53-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "Más de 900,000 hogares sin luz tras un severo temporal en EE.UU. El desfile de Macy's se celebra hoy en Nueva York después de ser pospuesto.",
+  "temas": [
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "fb98bed871d90315"
+ },
+ {
+  "titulo": "Detenida embarazada se escapa durante parada de escolta en EE. UU.",
+  "liga": "https://elcongresista.mx/justicia/mujer-embarazada-fuga-nuevo-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:16:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "Una mujer embarazada se fugó de su custodia en Albuquerque, Nuevo México, mientras la escolta compraba comida. Buscan su localización.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "b399b68786a7322f"
+ },
+ {
+  "titulo": "Doral enfrenta presión para rescindir acuerdo con ICE que afecta a su comunidad",
+  "liga": "https://elcongresista.mx/justicia/doral-terminar-acuerdo-ice",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:05:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "La ciudad de Doral enfrenta presión para terminar su acuerdo con ICE mientras crecen las preocupaciones en su significativa comunidad inmigrante.",
+  "temas": [
+   "Migración",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "1de8abce39caf6af"
+ },
+ {
+  "titulo": "CFE suspenderá suministro eléctrico siete horas en Sonora este sábado",
+  "liga": "https://elcongresista.mx/politica/sonora/cfe-apagon-navojoa-noviembre-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:04:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "CFE suspenderá suministro eléctrico en Navojoa, Sonora, por siete horas este 28 de noviembre para realizar mejoras en la infraestructura.",
+  "temas": [
+   "Servicios públicos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "abe064c6804390c2"
+ },
+ {
+  "titulo": "SC Paderborn y Schalke se enfrentan en duelo clave por la salvación",
+  "liga": "https://elcongresista.mx/politica/nacional/sc-paderborn-vs-schalke-partido-28-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:02:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "SC Paderborn y Schalke juegan un partido clave en la Bundesliga el 28 de noviembre, vital por la salvación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "85d34d5a2286d693"
+ },
+ {
+  "titulo": "Puebla: eliminan nombre de Díaz Ordaz en 29 escuelas y lo sustituyen",
+  "liga": "https://elcongresista.mx/politica/puebla/poblados-eliminan-diaz-ordaz-escuelas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:01:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "En Puebla se eliminan nombres de Gustavo Díaz Ordaz de 29 escuelas, reemplazándolos con el de Ignacio Zaragoza.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8e8b67387d23477c"
+ },
+ {
+  "titulo": "Siete de cada diez latinos buscan complacer a otros, revela estudio",
+  "liga": "https://elcongresista.mx/sociedad/estudio-siete-de-cada-diez-latinos-complacen",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T07:01:01-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "Un estudio revela que siete de cada diez latinos priorizan la aprobación de otros, afectando su identidad y decisiones personales.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3136562d333811c1"
+ },
+ {
+  "titulo": "FGR avanza en caso INE: integra 16 carpetas, cateó 5 domicilios e inspeccionó el instituto",
+  "liga": "https://jornadabc.com.mx/principales/fgr-avanza-en-caso-ine-integra-16-carpetas-cateo-5-domicilios-e-inspecciono-el-instituto/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-28T06:59:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "Las investigaciones buscan establecer la existencia de una red que, mediante distintos mecanismos, habría favorecido a personas y empresas vinculadas con funcionarios de ambas instancias electorales La entrada FGR avanza en caso INE: integra 16 carpetas, cateó 5 domicilios e insp",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "927793576787bcf7"
+ },
+ {
+  "titulo": "Aprehenden en Michoacán al presunto asesino de la creadora de contenido Valeria Márquez",
+  "liga": "https://jornadabc.com.mx/02_secundarias/aprehenden-en-michoacan-al-presunto-asesino-de-la-creadora-de-contenido-valeria-marquez/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-28T06:56:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "En mayo de 2025, la joven transmitía en vivo en redes sociales cuando fue asesinada a tiros en el municipio de Zapopan La entrada Aprehenden en Michoacán al presunto asesino de la creadora de contenido Valeria Márquez se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "4bf74f211dbda05c"
+ },
+ {
+  "titulo": "Abre Gobierno Federal diálogo con Nestlé para precios justos del café",
+  "liga": "https://elcongresista.mx/politica/chiapas/gobierno-federal-dialogo-nestle-precios-cafe",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T06:51:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "El Gobierno Federal de México abre un diálogo con Nestlé para asegurar precios justos y preservar variedades de café en Chiapas.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "3225e281e2d9c9f5"
+ },
+ {
+  "titulo": "Asesinan a Julio César Osuna Chaidez, regidor del PVEM en Culiacán, Sinaloa",
+  "liga": "https://jornadabc.com.mx/region/asesinan-a-julio-cesar-osuna-chaidez-regidor-del-pvem-en-culiacan-sinaloa/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-28T06:51:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "El funcionario municipal falleció dentro de su vehículo tras ser interceptado por dos sujetos que le dispararon en repetidas ocasiones La entrada Asesinan a Julio César Osuna Chaidez, regidor del PVEM en Culiacán, Sinaloa se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "83d8381ee2cebcb6"
+ },
+ {
+  "titulo": "El desfile de Macy's por Thanksgiving 2026 se aplaza a las 8:30 a.m.",
+  "liga": "https://elcongresista.mx/politica/nacional/macys-thanksgiving-day-parade-2026-horarios-transmision",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T06:49:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "El desfile de Thanksgiving de Macy’s 2026 se celebrará el 28 de noviembre a las 8:30 a.m. en Nueva York, tras un aplazamiento por clima.",
+  "temas": [
+   "Clima",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8c4eb975f0e41225"
+ },
+ {
+  "titulo": "Comisión del INE mantiene reparto de pluris por partido y no por coalición rumbo a 2027",
+  "liga": "https://jornadabc.com.mx/principales/comision-del-ine-mantiene-reparto-de-pluris-por-partido-y-no-por-coalicion-rumbo-a-2027/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-28T06:48:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "Comisión del INE aprobó asignar las 200 diputaciones plurinominales por partido y no por coalición, revisando la afiliación vigente para frenar el 'chapulineo' La entrada Comisión del INE mantiene reparto de pluris por partido y no por coalición rumbo a 2027 se publicó primero en",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "bf426697e2d4c1b0"
+ },
+ {
+  "titulo": "Gobierno bonaerense entrega 36 kits para prevenir inundaciones",
+  "liga": "https://elcongresista.mx/politica/nacional/gobierno-bonaerense-kits-prevencion-inundaciones",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T06:48:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "El Gobierno de Buenos Aires entregó 36 kits a municipios para prevenir inundaciones, ante la amenaza del fenómeno climático El Niño.",
+  "temas": [
+   "Clima",
+   "Gobierno municipal",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ea9b1bf73c459c70"
+ },
+ {
+  "titulo": "Frosinone vence a Parma 2-0 en la Jornada 13 de la Serie A",
+  "liga": "https://elcongresista.mx/politica/nacional/frosinone-vs-parma-jornada-13-serie-a",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T06:47:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "Frosinone gana 2-0 a Parma en la jornada 13 de la Serie A, acercándose a puestos europeos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "ae07f545656d5620"
+ },
+ {
+  "titulo": "Carreteras en México sufren bloqueos y congestión este sábado",
+  "liga": "https://elcongresista.mx/vehicular/carreteras-bloqueadas-mexico-sabado-28-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T06:47:13-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "Este 28 de noviembre, bloqueos y accidentes afectan las carreteras en México, causando retrasos significativos en el tránsito.",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": false,
+  "id": "c761b2ca256d78de"
+ },
+ {
+  "titulo": "Cierran filas industriales de Tijuana frente a los retos de 2027",
+  "liga": "https://www.uniradioinforma.com/sociedad/cierran-filas-industriales-tijuana-frente-retos-2027-n916082",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-28T06:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "La agrupación Amigos IMMEX reúne a 135 empresas que trabajan de manera conjunta para atender necesidades operativas, fiscales y laborales del sector manufacturero.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "ad8aba0eb3e82ce1"
+ },
+ {
+  "titulo": "MinTransporte aprueba tres proyectos viales por más de $100 mil millones en Tolima",
+  "liga": "https://elcongresista.mx/politica/nacional/mintransporte-tolima-proyectos-viales",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T06:25:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T07:41:59-06:00",
+  "resumen": "El Ministerio de Transporte aprueba tres proyectos viales en Tolima, con inversión de más de $100 mil millones para mejorar la movilidad.",
+  "temas": [
+   "Economía y empleo",
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "2b64286a941c168b"
+ },
+ {
   "titulo": "Chihuahua: se vota por 467 proyectos en Presupuesto Participativo",
   "liga": "https://elcongresista.mx/politica/chihuahua/chihuahua-votacion-presupuesto-participativo-2027",
   "medio": "El Congresista",
