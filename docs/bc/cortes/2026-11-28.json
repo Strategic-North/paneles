@@ -1,5 +1,329 @@
 [
  {
+  "titulo": "35,000 hinchas de Estudiantes viajan a Montevideo para final",
+  "liga": "https://elcongresista.mx/politica/nacional/estudiantes-hinchas-viajan-montevideo-final-copa-libertadores",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:35:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Más de 35,000 hinchas de Estudiantes viajarán a Montevideo para apoyar a su equipo en la final de la Copa Libertadores.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "b7a76e858b218dc9"
+ },
+ {
+  "titulo": "Liga MX: Atlas y América juegan hoy en Cuartos de Final",
+  "liga": "https://elcongresista.mx/deportes/liga-mx-atlas-vs-america",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:34:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Atlas y América juegan hoy en los Cuartos de Final del Apertura 2026 de Liga MX. Transmisión a las 19:00 y 21:10 horas.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": false,
+  "id": "31ba8bce15201e6f"
+ },
+ {
+  "titulo": "Guanajuato: presentan 238 piezas en concurso de creatividad artesanal",
+  "liga": "https://elcongresista.mx/politica/guanajuato/guanajuato-concurso-artesanal-238-piezas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:33:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Guanajuato presenta 238 piezas en un concurso artesanal que busca reconocer el talento local y potenciar la economía de la región.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a30ba125fe231cc7"
+ },
+ {
+  "titulo": "Querétaro atrae más de 12 mil millones de dólares en inversión manufacturera",
+  "liga": "https://elcongresista.mx/politica/queretaro/queretaro-inversion-manufacturera",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:32:49-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Querétaro ha captado más de 12,200 millones de dólares en inversión manufacturera desde 2006, generando 250 mil empleos.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "62415c23bd835693"
+ },
+ {
+  "titulo": "Morena defiende soberanía de México ante queja por denuncia de la DEA",
+  "liga": "https://elcongresista.mx/justicia/morena-defensa-soberania-denuncia-dea",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:30:58-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Morena apoya queja de México ante la DEA, defendiendo la soberanía nacional y la necesidad de cooperación respetuosa.",
+  "temas": [
+   "Política y partidos",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "0d814c7e38d564b7"
+ },
+ {
+  "titulo": "Detectan 18 aves con influenza aviar AH5N1 en Aguascalientes",
+  "liga": "https://elcongresista.mx/salud/detectan-influenza-aviar-ah5n1-18-aves-aguscalientes",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:25:32-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "La Secretaría de Agricultura reporta 18 aves con influenza aviar AH5N1 en Aguascalientes y asegura que no hay riesgo para la avicultura.",
+  "temas": [
+   "Gobierno del estado",
+   "Salud",
+   "Campo y pesca"
+  ],
+  "local": false,
+  "id": "08947eecd8bf7c49"
+ },
+ {
+  "titulo": "Gobierno de México respalda a Ximena Santaolalla por revela abuso",
+  "liga": "https://elcongresista.mx/justicia/gobierno-respaldo-ximena-santaolalla-abuso",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:24:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "La Secretaría de las Mujeres apoya a Ximena Santaolalla tras su testimonio de abuso sexual y ofrece servicios de acompañamiento.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "06f12e84b240fdc7"
+ },
+ {
+  "titulo": "Vinculan a proceso a sujeto con más de un kilo de metanfetamina en Ensenada",
+  "liga": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcXVLeHJ5TzRGZ2NHQjBpa08zS1ZiMnRqekw5OEhzTG5XZzh3cTEtQmNVeWJKNHNVZ1hMZFVQWTkxYW4xWXBzVEpyUkZ2VWlsbW1DNXM3TGVVQ3l6XzF5V0xadE5XV1FZb3FrczF5SUNIN01xSm1JVFJPTGEwVTgwOVo5ZmVCVzB6ZnFsWUZ0ZFBpLWhJWHpkTWg3NzBiUDJFV1JrdFpyd3QydGYxVUZwOTB3VXhGNmhIVWhIM2M3VzJtalpHMVhpY0pJWQ?oc=5",
+  "medio": "www.enlineabc.com.mx",
+  "publicada": "2026-11-28T09:23:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Vinculan a proceso a sujeto con más de un kilo de metanfetamina en Ensenada www.enlineabc.com.mx",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "553e5f2aa80463d3"
+ },
+ {
+  "titulo": "Hombres armados atacan oficinas de la FGE en Tulum y dejan cinco balas",
+  "liga": "https://elcongresista.mx/politica/quintana-roo/ataque-armado-fge-tulum",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:19:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Hombres armados atacaron las oficinas de la FGE en Tulum, causando alarma y una fuerte movilización policiaca; cinco impactos registrados.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8a1e8f7d3cb7d512"
+ },
+ {
+  "titulo": "Entidades financieras lanzan descuentos de hasta 65% en Black Friday 2026",
+  "liga": "https://elcongresista.mx/finanzas/descuentos-black-friday-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:18:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Durante el Black Friday 2026, bancos ofrecen hasta 65% de descuento en productos y viajes, con opciones de financiación atractivas.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "bfca4e0cbda7ab9c"
+ },
+ {
+  "titulo": "Michoacán obtiene 12 medallas en matemáticas; dos de oro",
+  "liga": "https://elcongresista.mx/politica/michoacan/michoacan-12-medallas-olimpiada-matematicas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:15:52-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Michoacán destaca al obtener 12 medallas en matemáticas, incluyendo dos oros en el Concurso Nacional Preuniversitario y otros reconocimientos.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "52df217a6ce5fe27"
+ },
+ {
+  "titulo": "Tamaulipas: Congreso de Pueblos Mágicos reúne a 177 comunidades",
+  "liga": "https://elcongresista.mx/tamaulipas/tamaulipas-encuentro-pueblos-magicos-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:12:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Tamaulipas celebra el Encuentro Nacional de Pueblos Mágicos con la participación de 177 comunidades para fortalecer su industria turística.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "6a676962d2653389"
+ },
+ {
+  "titulo": "Paramédicos atienden parto de emergencia en Kanasín con éxito",
+  "liga": "https://elcongresista.mx/salud/paramedicos-parto-emergencia-kanasin",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:11:37-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Paramédicos de Kanasín atienden exitosamente un parto de emergencia durante la madrugada, asegurando el bienestar de madre e hijo.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "6bdb9d615b3876e4"
+ },
+ {
+  "titulo": "ABSA trabaja en la reparación de una cañería de agua en Echeverría y Betinoti",
+  "liga": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM3d2REhFUl8tcEQxSy1EVkNZRFF0ZlV4SXJpc3dmVUJxaFpRWUNoT3pOZnNHTnZ6dzN1cjJFZUtvc0hKUkFKVmE2aHFLZ1RLeV92REVDUWw2SVdJeE9jYW9xbzdwVXlrOEJ3bkpqc09BSmZTa0s0WDZuQ1NGNGZvSEYxb09XekpxMjFpRmFMblhrSnhBUkZxNi1kNWRtRUNFNXR0bkJuXzNJWk8zNkNvVk5mQURYaklURGFFR25MQ2FpZ2lLbGlrUkFjM1BXZThSd1JZ?oc=5",
+  "medio": "Info Blanco Sobre Negro",
+  "publicada": "2026-11-28T09:09:57-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "ABSA trabaja en la reparación de una cañería de agua en Echeverría y Betinoti Info Blanco Sobre Negro",
+  "temas": [
+   "Agua"
+  ],
+  "local": false,
+  "id": "9c75c18306de6bc0"
+ },
+ {
+  "titulo": "Falta de oportunidades laborales en México afecta egresados técnicos",
+  "liga": "https://elcongresista.mx/educacion/falta-oportunidades-laborales-mexico",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:07:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Egresados técnicos en México enfrentan problemas laborales a pesar de su preparación, evidenciando la falta de oportunidades reales.",
+  "temas": [
+   "Educación"
+  ],
+  "local": false,
+  "id": "af71b23fb1b5223f"
+ },
+ {
+  "titulo": "Frío y lluvias marcan el clima de Irapuato este sábado",
+  "liga": "https://elcongresista.mx/politica/guanajuato/clima-irapuato-noviembre-2023",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:04:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Irapuato registrará frío y lluvias este sábado 28 de noviembre, con temperaturas entre 7 y 19 grados Celsius.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "d3272ee1da9ea7cb"
+ },
+ {
+  "titulo": "PVEM Sinaloa pide agilidad en esclarecer asesinato de regidor",
+  "liga": "https://elcongresista.mx/politica/sinaloa/pvem-sinaloa-justicia-asassinado-regidor-julio-osuna",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T09:01:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "El PVEM solicita a las autoridades de Sinaloa acelerar las investigaciones del asesinato del regidor Julio Osuna, atacado a tiros en Culiacán.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos",
+   "Gobierno municipal"
+  ],
+  "local": false,
+  "id": "e39021e2469478c3"
+ },
+ {
+  "titulo": "Bomberos controlan incendio en tarimera de Chihuahua",
+  "liga": "https://elcongresista.mx/politica/chihuahua/bomberos-controlan-incendio-tarimera-chihuahua",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T08:54:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Bomberos de Chihuahua controlan un incendio en una tarimera sin reportar heridos. El fuego afectó un área de 6x6 metros.",
+  "temas": [
+   "Movilidad",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "af59f1506d4e14c9"
+ },
+ {
+  "titulo": "Marcos, otro mundo es posible",
+  "liga": "https://jornadabc.com.mx/opinion/marcos-otro-mundo-es-posible/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-28T08:53:47-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "Durante décadas, “el EZLN de los pueblos” ha dado muestras de una inusitada capacidad de adaptación e innovación, sin tirar por la borda principio alguno, aportando temas cruciales La entrada Marcos, otro mundo es posible se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "aff0eeaeca83ff67"
+ },
+ {
+  "titulo": "“Sabemos que podemos hacer historia”, en el Tri Femenil, dice Blanca Félix con la mirada hacia Brasil 2027",
+  "liga": "https://jornadabc.com.mx/general/mexico/deportes/sabemos-que-podemos-hacer-historia-en-el-tri-femenil-dice-blanca-felix-con-la-mirada-hacia-brasil-2027/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-28T08:48:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "México enfrentará a Haití en los cuartos de final del Campeonato Concacaf W, donde comenzará la disputa por los boletos a Brasil 2027 y Los Ángeles 2028 La entrada “Sabemos que podemos hacer historia”, en el Tri Femenil, dice Blanca Félix con la mirada hacia Brasil 2027 se public",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "15ef0297ddc2679c"
+ },
+ {
+  "titulo": "Baja California mantendrá la operación de la justicia oral civil y familiar en las sedes que ya implementaron el Código Nacional",
+  "liga": "https://www.uniradioinforma.com/gobierno/baja-california-mantendra-operacion-justicia-oral-civil-familiar-sedes-ya-implementaron-codigo-nacional-n916138",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-28T08:45:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "El nuevo modelo de Justicia Oral Civil y Familiar opera en Playas de Rosarito, Tecate y Ciudad Guadalupe Victoria, bajo los lineamientos del Código Nacional de Procedimientos Civiles y Familiares.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "24e1c93a14f09101"
+ },
+ {
+  "titulo": "‘Los juegos del hambre’: Nina Jacobson se arrepiente de haber dividido ‘Sinsajo’ en dos películas",
+  "liga": "https://jornadabc.com.mx/02_secundarias/los-juegos-del-hambre-nina-jacobson-se-arrepiente-de-haber-dividido-sinsajo-en-dos-peliculas/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-28T08:41:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "La productora consideró que dividir 'Sinsajo' en dos entregas pudo generar entre los espectadores la impresión de que se trataba de una estrategia comercial La entrada ‘Los juegos del hambre’: Nina Jacobson se arrepiente de haber dividido ‘Sinsajo’ en dos películas se publicó pri",
+  "temas": [
+   "Política y partidos",
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "e5fd5f6805fbb199"
+ },
+ {
   "titulo": "Más del 50% de municipios no envían policías a la AEESS",
   "liga": "https://elcongresista.mx/politica/chihuahua/municipios-no-envian-policias-a-aeess",
   "medio": "El Congresista",
@@ -28,6 +352,20 @@
   ],
   "local": false,
   "id": "0dcb79cd0115110f"
+ },
+ {
+  "titulo": "Cultura alista colección gratuita de escritoras mexicanas junto con el FCE",
+  "liga": "https://jornadabc.com.mx/general/mexico/cultura/cultura-alista-coleccion-gratuita-de-escritoras-mexicanas-junto-con-el-fce/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-28T08:36:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T09:50:15-06:00",
+  "resumen": "La colección será de un millón de ejemplares La entrada Cultura alista colección gratuita de escritoras mexicanas junto con el FCE se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "1b2cc265abf249e2"
  },
  {
   "titulo": "Aprueba Conasami aumento del salario mínimo en la frontera de Sonora",
