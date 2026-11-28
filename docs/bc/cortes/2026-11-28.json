@@ -1,5 +1,458 @@
 [
  {
+  "titulo": "Bomberos atendieron 65 emergencias en Tijuana; hay un fallecido",
+  "liga": "https://elcongresista.mx/politica/baja-california/bomberos-tijuana-emergencias-diciembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:49:35-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "En Tijuana, la Dirección de Bomberos atendió 65 emergencias en 24 horas, incluyendo un fallecido y un rescate.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "658ed40bb169209b"
+ },
+ {
+  "titulo": "Exfuncionario y dos mujeres de Chiapas hallados sin vida en Oaxaca",
+  "liga": "https://elcongresista.mx/politica/oaxaca/exfuncionario-mujeres-muertos-oaxaca",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:48:05-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Identifican a un exfuncionario y dos mujeres desaparecidos en Chiapas, hallados sin vida en Oaxaca. Aumenta la preocupación por la seguridad.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "e5d9e5b5d1473d79"
+ },
+ {
+  "titulo": "Velan a Dante Rafael, niño de 5 años, en Zinapécuaro tras agresión",
+  "liga": "https://elcongresista.mx/politica/michoacan/velan-nino-dante-rafael-zinapecuaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:47:36-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "La muerte de un niño de 5 años en Zinapécuaro tras una agresión genera tristeza y temor en la comunidad.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "7b14378b42516023"
+ },
+ {
+  "titulo": "SSM Michoacán recomienda precauciones ante primera tormenta invernal",
+  "liga": "https://elcongresista.mx/politica/michoacan/ssm-michoacan-recomendaciones-tormenta-invernal",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:47:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "La SSM de Michoacán emite recomendaciones ante la llegada de una tormenta invernal para proteger la salud de la población.",
+  "temas": [
+   "Salud",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9069fda21f406430"
+ },
+ {
+  "titulo": "Osos Valladolid reúne a 1,560 jóvenes en visorías futbolísticas",
+  "liga": "https://elcongresista.mx/politica/michoacan/osos-valladolid-visorias-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:45:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Osos Valladolid celebra con éxito las Visorías 2026, donde reunió a 1,560 jóvenes talentos en Morelia, promoviendo el futbol en México.",
+  "temas": [
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "95e7a5078fab9bc4"
+ },
+ {
+  "titulo": "Falta de capacitación frena el uso de inteligencia artificial en las fábricas mexicanas",
+  "liga": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdHpJc21LVHBkTW43YktkMUU5OTR0UmxhUWNfOTJZdm8xVEJwTWNpMkc1RFItZzJ2Y2R5Mkg3bjdBY2pwM2c2RXhVSzhYU2FWYjI1aU9yTS15T2dZLXBkc19PV21VN3lFTzJRQk9hZlV6TTVSZVlaa0FDcmR3Yk5xWHlUUHdQOFRic2E2QzJxQnEwQVczQkczaGpMT0RnVFVzc09ZdGNWVk5UY1dHQWdqZ3M4ck1FZ3pRbXZwRWZGUVRXTGxJXzBsc3o4aXRUZU0?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-28T12:44:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Falta de capacitación frena el uso de inteligencia artificial en las fábricas mexicanas Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "bc4ce63ce2819bba"
+ },
+ {
+  "titulo": "Pedro Pascal protagoniza “¡Behemoth!”",
+  "liga": "https://zetatijuana.com/2026/11/pedro-pascal-protagoniza-behemoth/?utm_source=rss&utm_medium=rss&utm_campaign=pedro-pascal-protagoniza-behemoth",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-28T12:40:42-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "El actor chileno interpretará a un talentoso violonchelista en la producción escrita y dirigida por Tony Gilroy (Andor, 2022) que llegará a los cines mexicanos el próximo 3 de diciembre.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "41f9f9b90675f317"
+ },
+ {
+  "titulo": "Proyectan demanda de 641 megawatts para crecimiento de Tijuana y Mexicali",
+  "liga": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFNCVVRNV0w5cGM4eUN6ZjZVS2xQVGEzRWlVNzlHQ2g4c09iYlhackMyaVhfNzNkSzR6N2ZpdGtLNTVNQVNLYlRaeGxiT2Q4T2RwdzFqU1N2LWNUeGtWeWJhTzFHNGpJZi1lNjFZeTBQclFKOE1ZM3dDMW9ZTG1feDFXQmtYVXNMNnZrTVdnVlpDOEUxT2oyM2t1Vl9WZFdUWUxTNGRxUnB1QldoTG9wRFBVMFM5SFNFbXg4YUFkV3dTUQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-28T12:40:22-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Proyectan demanda de 641 megawatts para crecimiento de Tijuana y Mexicali AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "dda947595a039f5c"
+ },
+ {
+  "titulo": "Defiende Castro Trenti proceso de elección de nueva presidencia del INE",
+  "liga": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlY5eDRFSTRRbkU4TFZqbWUySTQ1emtzLVB2eUVMeUlVbWM4dTc0QzRnOHNST0Q2OHRrTm5GOGFVYW52UC1mUU5vNXdOQ1prQU9kRTFhUUlQNFZmUFJDWUNlMW9TWnBhOU9PTWF0ejdveWVWR0dmY0wzWHY3c1lQYm5EYXVza3NuQ3ZhTzJCSVh2dWhGenBKdFFsY2Z0STJRZkFlcDB3M2Fzbkp2OGxTWFJFRWtDOUE4N2J4VVA4WQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-28T12:37:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Defiende Castro Trenti proceso de elección de nueva presidencia del INE AFN",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "ce235d17913d701e"
+ },
+ {
+  "titulo": "Detienen a Presuntos Integrantes de Red de Tráfico de Personas en Tijuana, BC",
+  "liga": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeEk0RXhuclZabEN4d0dJWHlsNVRHNjY0U1VrNDU0aDlsc2x3dHVNQ2JPYWkxWm4xUWhidHFoa0xVcGE2ZzN2Wl9wTEtyWkF4dVcwTUsybVpEVE9vNHpISERLYmxtM2hTNV93Y1NWQTBzSEZTRW9vcGU0S2haaTlHVDB6QUQxSUFWUmxtd2RLNlhza3RWenQxZ2xPaTRCUkhSRnEzZTdmUVNKNElPeGZvcWIwZjVHZl9IOHhjTm9kWXlpZndoSUE?oc=5",
+  "medio": "N+ Baja California",
+  "publicada": "2026-11-28T12:37:16-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Detienen a Presuntos Integrantes de Red de Tráfico de Personas en Tijuana, BC N+",
+  "temas": [
+   "Seguridad",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "5928886496b76dd4"
+ },
+ {
+  "titulo": "Coparmex respalda trasladar fila de espera de garita",
+  "liga": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFl2XzV2cEVIdUhheFFXR2tzUEpqektMSVJ2MlcybU9LLVQ1NFhjbUhaT2dlNmUzbHplSGJoNWVIV3puNXVWRHcySGxobEp2dC13UWhFSkdUWjZoMkM5S0twTmlCUy1FRVBaa2J5NFRuYnFPWDJzZklOTDczNWZJNEM2Vlc2Z3NId1M5Ung0UUU5N1cta0MxTl9FUFdPNTYzWWY2UWxn?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-28T12:32:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Coparmex respalda trasladar fila de espera de garita AFN",
+  "temas": [
+   "Migración"
+  ],
+  "local": false,
+  "id": "01afe6bdfabc4153"
+ },
+ {
+  "titulo": "FGR cateó cuatro inmuebles vinculados al caso de presunta corrupción en el INE",
+  "liga": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQREFHU3RUNUFiZ2YwdFpFN1hmSGRGMnM2M3lOTmRhek5BQ19wQVhXQWNpRm1YR1daM3N1MmRvaEgzNGFwaEJuUnNkNTZWWkVreXd4T2F1T2FLRlp1NnBQbWFHVVFPRktGX1hJV1JOSUREUHZteGUxTG9EdjZsamowa1VyRTNSVGpUc1ZieGVYZnh3SXNnTVBYSzh3dWcyT2VDZWQ0dlktbXdpV1VCMXU2TS1PcTlPS1BnakpJRg?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-28T12:31:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "FGR cateó cuatro inmuebles vinculados al caso de presunta corrupción en el INE AFN",
+  "temas": [
+   "Proceso electoral"
+  ],
+  "local": false,
+  "id": "4be6d6dfd8f1642c"
+ },
+ {
+  "titulo": "Tuxtla Gutiérrez: familias de 3 colonias llevan tres semanas sin agua",
+  "liga": "https://elcongresista.mx/politica/chiapas/tuxtla-gutierrez-familias-sin-agua-tres-semanas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:25:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Tres colonias de Tuxtla Gutiérrez, Chiapas, llevan tres semanas sin agua potable, obligando a los habitantes a comprar pipas.",
+  "temas": [
+   "Agua",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "28ec2022de551a3f"
+ },
+ {
+  "titulo": "Tráfico intenso en Tuxtla Gutiérrez; Libramiento Sur parcialmente cerrado",
+  "liga": "https://elcongresista.mx/politica/chiapas/trafico-intenso-tuxtla-gutierrez-libramiento-sur-cerrado",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:24:21-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "El tráfico es intenso en Tuxtla Gutiérrez, donde algunos tramos permanecen cerrados por obras. Autoridades sugieren vías alternas.",
+  "temas": [
+   "Movilidad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "c4824c882567c66e"
+ },
+ {
+  "titulo": "La Paz busca remontar ante Morelia en la final de Liga Expansión MX",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/la-paz-vs-morelia-final-liga-expansion-mx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:19:46-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "La Paz enfrentará a Morelia en la final de Liga Expansión MX el 28 de noviembre, buscando una remontada histórica.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "41e3142aba869916"
+ },
+ {
+  "titulo": "Gobierno de Sonora invita al encendido del árbol de Navidad el 28 de noviembre",
+  "liga": "https://elcongresista.mx/politica/sonora/encendido-arbol-navidad-sonora-28-noviembre",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:19:14-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "El Gobierno de Sonora invita al encendido del árbol de Navidad el 28 de noviembre en el Parque Infantil, con entrada gratuita para las familias.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "9f680bff843a0c78"
+ },
+ {
+  "titulo": "Yucatán recolecta 16 toneladas de envases de plaguicidas",
+  "liga": "https://elcongresista.mx/politica/yucatan/yucatan-recoleccion-envases-plaguicidas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:17:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Yucatán recolecta 16 toneladas de envases de plaguicidas y anuncia inversión en infraestructura para mejorar su manejo.",
+  "temas": [
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "36c6212b8def1e12"
+ },
+ {
+  "titulo": "Investigan posibles negocios irregulares con contratos electorales; FGR indaga a más de 50 personas",
+  "liga": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPam5QY1ZoaGVLQzBxU2JuUElYaGFhWDF2V24ybzhfRXprY1Y0RllJOGxxRVB0YUtPTUltY2pGenVEODRXUnZ4RnVXLUNoSGZvZld4R01iSFJMejdPWG9mUjJnWk9sbDhtSEY3WnNqU0tvOEh0SWJLOHd4MzNXeF9uWGlBMVd3WkNUZGtMaVFXV1lMeEQzbEgta1htZG5KeElFZ0s2Y00zNFhRQjE4S0JZNjJyeC05UkdjUXg5SVlrSjc3WVgyWExpWXpNOXl3QQ?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-28T12:17:19-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Investigan posibles negocios irregulares con contratos electorales; FGR indaga a más de 50 personas Baja News",
+  "temas": [
+   "Proceso electoral",
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "396ba3ba27795eb9"
+ },
+ {
+  "titulo": "La FIL Guadalajara arranca con más de 900 autores y 650 novedades",
+  "liga": "https://elcongresista.mx/cultura/fil-guadalajara-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:15:51-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "La FIL Guadalajara inicia con más de 900 autores y 3,000 actividades, celebrando la literatura mundial del 28 de noviembre al 6 de diciembre.",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "c6ec9153300f0726"
+ },
+ {
+  "titulo": "Inició FIL 40",
+  "liga": "https://zetatijuana.com/2026/11/inicio-fil-40/?utm_source=rss&utm_medium=rss&utm_campaign=inicio-fil-40",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-28T12:10:08-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Desde las 9:00 de la mañana de este sábado 28 de noviembre empezó la Feria Internacional del Libro de Guadalajara, con Italia como País Invitado de Honor",
+  "temas": [
+   "Cultura y tradiciones"
+  ],
+  "local": true,
+  "id": "c1192a94c197eab2"
+ },
+ {
+  "titulo": "Detienen a \"El Negro\" y a 9 miembros de su banda en Puebla",
+  "liga": "https://elcongresista.mx/politica/puebla/detienen-el-negro-banda-puebla",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:07:48-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Arrestan a \"El Negro\" y 9 integrantes de \"Los Gavilanes\" en Puebla tras enfrentamiento con autoridades, dejando 5 heridos.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "33ec44c131e5459c"
+ },
+ {
+  "titulo": "Temor por redadas migratorias causa ausentismo escolar en EE.UU.",
+  "liga": "https://elcongresista.mx/politica/nacional/ausentismo-escolar-redadas-migratorias",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:06:02-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "El temor a redadas migratorias en EE.UU. provoca ausentismo escolar y ansiedad en niños y familias en escuelas de varios estados.",
+  "temas": [
+   "Educación",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "8d4c802bdd4a7dad"
+ },
+ {
+  "titulo": "La WWE está de luto por el fallecimiento de Bronson Reed",
+  "liga": "https://www.uniradioinforma.com/deportes/la-wwe-esta-luto-fallecimiento-bronson-reed-n916746",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-28T12:04:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Su nombre fuera del cuadrilátero era Jermaine Haley, pero dentro de la lucha libre era conocido como Bronson Reed.",
+  "temas": [
+   "Deportes y espectáculos"
+  ],
+  "local": true,
+  "id": "1075e7eff31ffd28"
+ },
+ {
+  "titulo": "Sectur: nuevos Pueblos Mágicos se nombrarán en 2028",
+  "liga": "https://elcongresista.mx/politica/nacional/sectur-nuevos-pueblos-magicos-2028",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:03:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "La Secretaría de Turismo anuncia nuevos Pueblos Mágicos en 2028; fomentarán el desarrollo turístico y económico de las comunidades.",
+  "temas": [
+   "Gobierno del estado",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "cdfa36050244ae3e"
+ },
+ {
+  "titulo": "Abuelito se atraviesa en el Rosas Magallón y lo atropellan: conductor se fue sin ayudarlo",
+  "liga": "https://puntonorte.info/2026/11/28/abuelito-se-atraviesa-en-el-rosas-magallon-y-lo-atropellan-conductor-se-fue-sin-ayudarlo/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-28T12:03:25-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Tijuana.- Un adulto mayor de 76 años de edad resultó gravemente herido tras ser atropellado por atravesar caminando el libramiento Salvador Rosas Magallón, donde los vehículos circulan por lo menos a 60 kilómetros por hora. La persona que lo atropelló, quien conducía un sedán gri",
+  "temas": [
+   "Accidentes"
+  ],
+  "local": true,
+  "id": "ab9e355ee0c1fbcd"
+ },
+ {
+  "titulo": "Tamaulipas: 100% de escuelas conectadas a internet en 2024",
+  "liga": "https://elcongresista.mx/tamaulipas/tamaulipas-escuelas-internet-2024",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:02:03-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "En 2024, el 100% de las escuelas en Tamaulipas contarán con internet, según el secretario de Educación, Miguel Ángel Valdez.",
+  "temas": [
+   "Gobierno del estado",
+   "Educación"
+  ],
+  "local": false,
+  "id": "0aaad5209ab70887"
+ },
+ {
+  "titulo": "Detienen en Querétaro a \"Chefona\", líder de red de trata de personas",
+  "liga": "https://elcongresista.mx/justicia/detencion-chefona-queretaro",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T12:01:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "En Querétaro, autoridades detienen a \"Chefona\", líder de red de trata de personas entre Brasil y Estados Unidos, junto a tres cómplices.",
+  "temas": [
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "58aaf4c51f4b49d6"
+ },
+ {
+  "titulo": "Este sábado se reanuda la audiencia contra \"El Chapo Isidro\" en el Altiplano",
+  "liga": "https://www.uniradioinforma.com/sociedad/este-sabado-reanuda-audiencia-el-chapo-isidro-altiplano-n916744",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-28T11:52:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Una jueza federal decidirá si vincula o no a proceso a Fausto Isidro Meza Flores.",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "b99f0a0b55def41d"
+ },
+ {
+  "titulo": "Julieta Ramírez convoca a alcaldes de Baja California para coordinar acciones",
+  "liga": "https://elcongresista.mx/politica/baja-california/julieta-ramirez-reune-alcaldes-baja-california",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T11:49:18-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Julieta Ramírez se reúne con alcaldes de Baja California para fortalecer la coordinación política y priorizar el bienestar de la ciudadanía.",
+  "temas": [
+   "Gobierno municipal",
+   "Política y partidos"
+  ],
+  "local": true,
+  "id": "51168428661de502"
+ },
+ {
+  "titulo": "FGR asegura cuatro inmuebles en investigación del INE por corrupción",
+  "liga": "https://elcongresista.mx/justicia/fgr-asegura-4-casas-proceso-corrupcion-ine",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T11:47:44-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "La FGR asegura cuatro casas en CDMX por irregularidades en contratos del INE en investigación sobre corrupción.",
+  "temas": [
+   "Proceso electoral",
+   "Seguridad"
+  ],
+  "local": false,
+  "id": "790bd995fcff1644"
+ },
+ {
+  "titulo": "Tormenta invernal y frío polar generan temperaturas extremas en México",
+  "liga": "https://elcongresista.mx/politica/nacional/tormenta-invernal-mexico-bajas-temperaturas",
+  "medio": "El Congresista",
+  "publicada": "2026-11-28T11:47:10-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "La tormenta invernal y el frío polar provocan temperaturas extremas en varias regiones de México este sábado.",
+  "temas": [
+   "Clima",
+   "Emergencias",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "60cc293093e9478b"
+ },
+ {
   "titulo": "UNAM alerta sobre exclusión en servicios sociales por uso de IA",
   "liga": "https://elcongresista.mx/educacion/unam-exclusion-servicios-sociales-ia",
   "medio": "El Congresista",
@@ -376,6 +829,20 @@
   "id": "a547617bafc16390"
  },
  {
+  "titulo": "Baja California fortalece el empleo formal y registra su menor informalidad laboral en más de cinco años",
+  "liga": "https://www.uniradioinforma.com/sociedad/baja-california-fortalece-empleo-formal-registra-su-menor-informalidad-laboral-mas-cinco-anos-n916403",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-28T11:00:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Se posiciona como la cuarta entidad con menor informalidad laboral del país.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "4ceaca74bfb33ea6"
+ },
+ {
   "titulo": "El buzón de San Diego",
   "liga": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fd1pLVEF2enhKbURqX19ZbmZlWl9RQ3U3c0RSZTNMbUNxUEFxVm42ajd3UHpJY0pRVXctSTFkZjg1RHFHVUpmVmJDSVVBYjdBQmJ1RUpJQlVEMGVMdGxVZDBkY2MwdkRHR0RHeXBfcWl6QQ?oc=5",
   "medio": "AFN",
@@ -684,6 +1151,21 @@
   "id": "993cf731c9a63624"
  },
  {
+  "titulo": "Pipa atropella a hombre en el bulevar 2000",
+  "liga": "https://puntonorte.info/2026/11/28/pipa-atropella-a-hombre-en-el-bulevar-2000/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-28T10:00:29-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Tijuana.- Un hombre resulta lesionado al ser atropellado por un camión cuando intentaba cruzar el bulevar 2000, a la altura del entronque con la carretera libre Tijuana-Tecate. Según la información preliminar, los hechos se registraron poco antes de las 5:00 de la tarde de hoy vi",
+  "temas": [
+   "Accidentes",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "0e6264a51dd2c024"
+ },
+ {
   "titulo": "Despidos sin causa, la queja laboral número uno ante Derechos Humanos en Tijuana",
   "liga": "https://www.uniradioinforma.com/sociedad/despidos-causa-queja-laboral-numero-uno-derechos-humanos-tijuana-n916219",
   "medio": "Uniradio Informa",
@@ -973,6 +1455,20 @@
   ],
   "local": false,
   "id": "52df217a6ce5fe27"
+ },
+ {
+  "titulo": "Los bancos de La Plata, Berisso y Ensenada cambian el horario de atención",
+  "liga": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHpjWmJCTG1wN1I0ZVkydGxjVmZtTXZIcWtqbElKQXFvWFB4ZUg3NWIyYk1yYWxHeTZkWVpPYVU1bWg4bVYya0lKS2dBRjMwb0M0eWJDTzVYeWh6R3F2YU1xQmhNQmQ1TG1xZFhHTTRHOWstTDVYc2huTlpSOUhoZ21ibjNPZzJ0S09DMmZiMHVyRC0yNVFjMmpZV3h3V2s2OW9acDVHQ2lxbmxKYjJIQ2ZnWTY1cmVT0gG-AUFVX3lxTE5wSE9uV2xxamw2R0hBSmw2MGYxd2syUUp2MnRVTTRiNlU2VHZqNVA4Nk1Mc3BTMnVabmRnQ0x2ekJ0R3BKVXVDc2JXZkt0WFZTVFRneGRDMUlDaWF1aVE4Y2RWdXp5NnAzcUZSOEtIN25SRHNMc1F2dzM5Si13d1ZEcVZLVV9qQkp0enZLOUZ1d2Z6bVFnb0t1TDc5UWw5R2htYlRNSHNkNF9feHZmR2NjM3dlU3lZb0JkUlZfMlE?oc=5",
+  "medio": "Diario Hoy En la noticia",
+  "publicada": "2026-11-28T09:14:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "Los bancos de La Plata, Berisso y Ensenada cambian el horario de atención Diario Hoy En la noticia",
+  "temas": [
+   "Otros"
+  ],
+  "local": true,
+  "id": "97634c118622f156"
  },
  {
   "titulo": "Tamaulipas: Congreso de Pueblos Mágicos reúne a 177 comunidades",
@@ -1497,6 +1993,20 @@
   ],
   "local": false,
   "id": "ee92fa039a10ac5f"
+ },
+ {
+  "titulo": "Urge ampliar infraestructura eléctrica para evitar pérdida de inversiones: CCE",
+  "liga": "https://oem.com.mx/elsoldetijuana/local/urge-ampliar-infraestructura-electrica-para-evitar-perdida-de-inversiones-cce-33352461",
+  "medio": "El Sol de Tijuana",
+  "publicada": "2026-11-28T07:28:15-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-28T12:53:07-06:00",
+  "resumen": "El estudio considera 120 proyectos manufactureros y más de 100 desarrollos habitacionales, cuya ubicación permitirá identificar las zonas donde se concentrará el crecimiento urbano y la futura demanda eléctrica.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": true,
+  "id": "aa1aa75bb3bd6d67"
  },
  {
   "titulo": "Sinaloa reporta 169 asesinatos en octubre; guerra entre cárteles crece",
