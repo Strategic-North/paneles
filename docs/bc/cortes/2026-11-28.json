@@ -1,5 +1,167 @@
 [
  {
+  "titulo": "Tampico: se realizan más de 600 citas de negocios en Encuentro 2026",
+  "liga": "https://elcongresista.mx/tamaulipas/tampico-encuentro-nacional-pueblos-magicos",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:46:27-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "El Encuentro Nacional de Pueblos Mágicos 2026 en Tampico más de 600 citas de negocios para promover el turismo y la cultura del país.",
+  "temas": [
+   "Economía y empleo"
+  ],
+  "local": false,
+  "id": "2308cd9c370a40bc"
+ },
+ {
+  "titulo": "Bares y restaurantes que invadieron la playa en Rosarito son comidos por la marea alta",
+  "liga": "https://puntonorte.info/2026/11/27/bares-y-restaurantes-que-invadieron-la-playa-en-rosarito-son-comidos-por-la-marea-alta/",
+  "medio": "Punto Norte",
+  "publicada": "2026-11-27T19:45:41-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Playas de Rosarito.- El incremento del nivel del mar y olas de hasta 5 metros de alto por el fenómeno climatológico El Niño inundaron y destrozaron bares y restaurantes de Playas de Rosarito, los cuales fueron construidos invadiendo la zona de la playa. Fueron al menos cinco casa",
+  "temas": [
+   "Clima",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "d98b30ce91431d37"
+ },
+ {
+  "titulo": "EZLN desplazará a mil 530 integrantes a CDMX para encuentros con madres buscadoras",
+  "liga": "https://elcongresista.mx/politica/chiapas/ezln-mil-530-integrantes-cdmx",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:42:26-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "El EZLN enviará a mil 530 integrantes a la Ciudad de México para reunirse con madres buscadoras de desaparecidos el 29 de noviembre.",
+  "temas": [
+   "Seguridad",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "81151de5e59ff6d1"
+ },
+ {
+  "titulo": "Magaly Ronquillo se perfila como fuerte opción de Morena en Tijuana",
+  "liga": "https://elcongresista.mx/politica/baja-california/magaly-ronquillo-morena-tijuana-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:41:24-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Magaly Ronquillo se posiciona como una fuerte aspirante de Morena en Tijuana de cara a las elecciones de 2026.",
+  "temas": [
+   "Política y partidos",
+   "Proceso electoral"
+  ],
+  "local": true,
+  "id": "3cb0031d16377b1f"
+ },
+ {
+  "titulo": "OpenAI acusa a Apple de robar secretos comerciales y obstaculizar su acceso a proveedores",
+  "liga": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjcyM0ZZOXBuMGt3bmVsRlBKYmlFN0RDZ3ZIWXVWMVlBSnAzS1hRbUQ5M3JUMVlpakxfY2xoYUdwZEc0andIN0VTbnExdURMb2t3OU03ZlRubnYtZmhIS1ZBOF9YWWJBTXRiN3pzQnhVMTc2SVVtSWJuVnNEdEpwY1VNWHo1STItbW5ZSDRBQmF2NmJLQVE5akQxbUI4dU1TemZJSUF1OTItd0lQV2RQdkNWUFU5ejNGcjNhUGNzM1hycEdfelNLNkRnclFKank5b3c?oc=5",
+  "medio": "BajaNews",
+  "publicada": "2026-11-27T19:38:06-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "OpenAI acusa a Apple de robar secretos comerciales y obstaculizar su acceso a proveedores Baja News",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "f7d18ceb4b61ec2d"
+ },
+ {
+  "titulo": "Funcionarias federales y gobernador se reúnen en Tamaulipas",
+  "liga": "https://elcongresista.mx/tamaulipas/funcionarias-federales-tamaulipas-busqueda",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:38:04-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Funcionarias federales y Américo Villarreal se reúnen en Tamaulipas para fortalecer la búsqueda de personas desaparecidas.",
+  "temas": [
+   "Seguridad",
+   "Gobierno del estado"
+  ],
+  "local": false,
+  "id": "8e471254d24c9d13"
+ },
+ {
+  "titulo": "Inaugurará CETYS laboratorio de pruebas eléctricas de semiconductores",
+  "liga": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmZRY3Z2NVZibmd6V18yT3lwdWI5WlRRNEFsRjhYWktzNnoyY0puZGxoMlRTMnpKUWVqSmxJX2hJUE5YcjJ6bUtVT2Fja0lvVncwMDhaWldHeS1xdGQwQkpHR0dKRnJCTDNLNzdmeHNzZWJEc3VmZWZhNkIzWXd0cEw2UnlWT3BCQ2l3MloyWTdlMFpiZjdHMzhxUXZuWTV0MVlFSHpEZUM5SHhna25J?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T19:36:45-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Inaugurará CETYS laboratorio de pruebas eléctricas de semiconductores AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "3fe3d94815b63820"
+ },
+ {
+  "titulo": "Motosicarios asesinan a mujer de 36 años en Escuinapa, Sinaloa",
+  "liga": "https://elcongresista.mx/politica/sinaloa/motosicarios-asesinan-mujer-escuinapa-sinaloa",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:31:55-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Milagros, de 36 años, fue asesinada afuera de su casa en Escuinapa, Sinaloa, mientras abría un negocio. Autoridades investigan.",
+  "temas": [
+   "Seguridad",
+   "Economía y empleo",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "f4745ad69437480b"
+ },
+ {
+  "titulo": "Hotel Rosarito demolerá 75% de su muelle por daños del oleaje",
+  "liga": "https://zetatijuana.com/2026/11/hotel-rosarito-demolera-75-de-su-muelle-por-danos-del-oleaje/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-rosarito-demolera-75-de-su-muelle-por-danos-del-oleaje",
+  "medio": "Zeta Tijuana",
+  "publicada": "2026-11-27T19:30:30-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "El Hotel Rosarito tendrá que demoler mil 884 metros cuadrados y el andador turístico quedará reducido a una cuarta parte del proyecto original, que se frustró en 2015 y buscaba recibir turistas mediante barcos.",
+  "temas": [
+   "Clima",
+   "Economía y empleo",
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "5141d0c56d90ff67"
+ },
+ {
+  "titulo": "Aprueban iniciativa de Evelyn sobre investigación científica y tecnológica",
+  "liga": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFhHdnZzZEFhOFBhMkEzNHJaTXMybGFudzhfMUl1NGFwOWlzNUEyOGVHYXV1UWhidTVZZVJpTmY0V2w0NVVlX0hQd2xrWE9sOUM2UDNWU3Y5MzV1eE9uRG5BbjJHTXpUeGp2dWIxazUxREVxY01FTUZrR21qX0xuTmxuVGNLSjI0elMtWFVEcm13QkJtNUxPeEprbjdoa3o4dS00c1hsTjRjMG5jRTNxVzNDSW1yUQ?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T19:27:34-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Aprueban iniciativa de Evelyn sobre investigación científica y tecnológica AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "5b2b61c61564aefc"
+ },
+ {
+  "titulo": "Vecinos de La Morita dialogan con Ramón Vázquez",
+  "liga": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVdpSFdKUmVDWHFqbktXcFlsaE8xdWJER2VGaUZQdm5HdHNpYUl6eHQwbHhTVGtiMmh3QWNyNEFKVTRnTlA4b1ExUVBfVEc3ZWdVSHZDZ2o3UlR4UDluQ3dMTEQ3c21rN0NpTFFqVnFlbFpZendVNjY0WTZVY0JNT2E5bEJvMFc0ZVFnLU1KVXlObDl4Qzlfd0xHRnlXZ1k?oc=5",
+  "medio": "AFN",
+  "publicada": "2026-11-27T19:22:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Vecinos de La Morita dialogan con Ramón Vázquez AFN",
+  "temas": [
+   "Otros"
+  ],
+  "local": false,
+  "id": "257e33643ddef1b8"
+ },
+ {
   "titulo": "Policía de Tijuana captura a dos hombres tras homicidio en la colonia Postal",
   "liga": "https://puntonorte.info/2026/11/27/policia-de-tijuana-captura-a-dos-hombres-tras-homicidio-en-la-colonia-postal/",
   "medio": "Punto Norte",
@@ -12,6 +174,78 @@
   ],
   "local": true,
   "id": "3d6ec6178a1a6eb1"
+ },
+ {
+  "titulo": "Miles de compradores aprovechan el Black Friday en Las Americas de San Diego",
+  "liga": "https://jornadabc.com.mx/principales/miles-de-compradores-aprovechan-el-black-friday-en-las-americas-de-san-diego/",
+  "medio": "La Jornada Baja California",
+  "publicada": "2026-11-27T19:22:40-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "El centro comercial abrió sus puertas a las 6:00 de la mañana. Hubo tráfico vehicular en todas sus entradas y filas de espera en tiendas La entrada Miles de compradores aprovechan el Black Friday en Las Americas de San Diego se publicó primero en La Jornada Baja California .",
+  "temas": [
+   "Movilidad"
+  ],
+  "local": true,
+  "id": "836b53618af3a43e"
+ },
+ {
+  "titulo": "Letonia y Alemania disputan clasificaciones al Mundial de Baloncesto",
+  "liga": "https://elcongresista.mx/politica/nacional/letonia-alemania-eliminatorias-mundial-baloncesto",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:20:38-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Letonia y Alemania se enfrentaron en eliminatorias para la Copa Mundial de Baloncesto FIBA 2027 en Riga, buscando asegurar su clasificación.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "a006125cc1a8294e"
+ },
+ {
+  "titulo": "Embiste automóvil a motociclista en Ciudad Mante; joven lesionado",
+  "liga": "https://elcongresista.mx/tamaulipas/embiste-automovil-a-motociclista-en-ciudad-mante",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:19:59-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Un joven motociclista fue embestido por un automóvil en Ciudad Mante, lo que resultó en lesiones graves y su traslado a un hospital.",
+  "temas": [
+   "Salud"
+  ],
+  "local": false,
+  "id": "eb5f92811082e40c"
+ },
+ {
+  "titulo": "San Luis Potosí: ingreso laboral crece 25% y pobreza baja 8.7%",
+  "liga": "https://elcongresista.mx/politica/san-luis-potosi/ingreso-laboral-san-luis-potosi-2026",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:18:31-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "San Luis Potosí destaca por un aumento del 25% en el ingreso laboral y una caída del 8.7% en la pobreza laboral en el tercer trimestre de 2026.",
+  "temas": [
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "094ff55806407585"
+ },
+ {
+  "titulo": "Atlético La Paz inicia recolección de firmas para exigir ascenso a Primera División",
+  "liga": "https://elcongresista.mx/politica/baja-california-sur/recoleccion-firmas-atletico-la-paz",
+  "medio": "El Congresista",
+  "publicada": "2026-11-27T19:17:56-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "Se inicia recolección de firmas en La Paz para exigir el regreso del ascenso a Primera División en fútbol mexicano.",
+  "temas": [
+   "Servicios públicos",
+   "Deportes y espectáculos",
+   "Política y partidos"
+  ],
+  "local": false,
+  "id": "bc0dcbdf60d0d760"
  },
  {
   "titulo": "Eva María Vázquez versus Verónica Ruffo",
@@ -116,6 +350,20 @@
   ],
   "local": false,
   "id": "bf45a16ebc8f3386"
+ },
+ {
+  "titulo": "Aprueba Cabildo solicitar crédito por hasta 200 millones de pesos para cubrir necesidades de liquidez",
+  "liga": "https://www.uniradioinforma.com/gobierno/aprueba-cabildo-solicitar-credito-200-millones-pesos-cubrir-necesidades-liquidez-n916726",
+  "medio": "Uniradio Informa",
+  "publicada": "2026-11-27T18:55:00-06:00",
+  "hora_aproximada": false,
+  "visto": "2026-11-27T19:55:03-06:00",
+  "resumen": "El crédito es para pagarse a corto plazo y no deberá extenderse a la siguiente administración municipal.",
+  "temas": [
+   "Gobierno municipal"
+  ],
+  "local": true,
+  "id": "f7f5acef606d1241"
  },
  {
   "titulo": "Entregan más de 6 mil becas Jobec a estudiantes de preparatoria y universidad en BC",
